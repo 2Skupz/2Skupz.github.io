@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Tecmo Bowl Password Generator</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body>
+<form>
+<h1>As whom are you playing?</h1>
+<!-- value = x^y, x is decimal value of team defeated code, y is hex -->
+<input type="radio" id="team1" name="humanTeam" value="1024^400">
+<label for="team1">Chicago</label></br>
+<input type="radio" id="team2" name="humanTeam" value="4^004">
+<label for="team1">Cleveland</label></br>
+<input type="radio" id="team3" name="humanTeam" value="256^100">
+<label for="team1">Dallas</label></br>
+<input type="radio" id="team4" name="humanTeam" value="8^008">
+<label for="team1">Denver</label></br>
+<input type="radio" id="team5" name="humanTeam" value="1^001">
+<label for="team1">Indianapolis</label></br>
+<input type="radio" id="team6" name="humanTeam" value="32^020">
+<label for="team1">Los Angeles</label></br>
+<input type="radio" id="team7" name="humanTeam" value="2^002">
+<label for="team1">Miami</label></br>
+<input type="radio" id="team8" name="humanTeam" value="2048^800">
+<label for="team1">Minnesota</label></br>
+<input type="radio" id="team9" name="humanTeam" value="512^200">
+<label for="team1">New York</label></br>
+<input type="radio" id="team10" name="humanTeam" value="128^080">
+<label for="team1">San Francisco</label></br>
+<input type="radio" id="team11" name="humanTeam" value="16^010">
+<label for="team1">Seattle</label></br>
+<input type="radio" id="team12" name="humanTeam" value="64^040">
+<label for="team1">Washington</label></br>
+
+</form>
+
+<!-- 4 piece, carat delimited string in value represents
+  1. AB table
+    comma-delimited list of AB values corresponding to team alphabetical order
+    piece 1 = Chicago, piece 2 = Cleveland, piece 11 = Washington
+  2. Decimal version of defeated number
+  3. Hex version
+  4. CGH table
+    comma-delimited list of CGH values as in piece 1
+-->
+<form>
+<h1>Whom have you defeated?</h1>
+<label for="item1" class="container">Chicago
+  <input type="checkbox" id ="item1" value="xx,8A,A2,8E,82,96,86,AE,A6,9E,92, 9A^1024^400^xxx,093,099,094,091,096,092,09C,09A,098,095,097">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item2" class="container">Cleveland
+  <input type="checkbox" id ="item2" value="2A,xx,22,0E,02,16,06,2E,26,1E,12,1A^4^004^C87,xxx,C85,C80,B8D,C82,B8E,C88,C86,C84,C81,C83">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item3" class="container">Dallas
+  <input type="checkbox" id ="item3" value="A8,88,xx,8C,80,94,84,AC,A4,9C,90,98^256^100^D89,D81,xxx,D82,C8F,D84,D80,D8A,D88,D86,D83,D85">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item4" class="container">Denver
+  <input type="checkbox" id ="item4" value="2B,0B,23,xx,03,17,07,2F,27,1F,13,1B^8^008^C8C,C84,C8A,xxx,C82,C87,C83,C8D,C8B,C89,C86,C88">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item5" class="container">Indianapolis
+  <input type="checkbox" id ="item5" value="28,08,20,0C,xx,14,04,2C,24,1C,10,18^1^001^C82,B8A,C80,B8B,xxx,B8D,B89,C83,C81,B8F,B8C,B8E">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item6" class="container">Los Angeles
+  <input type="checkbox" id ="item6" value="69,49,61,4D,41,xx,45,6D,65,5D,51,59^32^020^E86,D8E,E84,D8F,D8C,xxx,D8D,E87,E85,E83,E80,E82">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item7" class="container">Miami
+  <input type="checkbox" id ="item7" value="29,09,21,0D,01,15,xx,2D,25,1D,11,19^2^002^C84,B8C,C82,B8D,B8A,B8F,xxx,C85,C83,C81,B8E,C80">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item8" class="container">Minnesota
+  <input type="checkbox" id ="item8" value="AB,8B,A3,8F,83,97,87,xx,A7,9F,93,9B^2048^800^49C,494,49A,495,492,497,493,xxx,49B,499,496,498">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item9" class="container">New York
+  <input type="checkbox" id ="item9" value="A9,89,A1,8D,81,95,85,AD,xx,9D,91,99^512^200^E8A,E82,E88,E83,E80,E85,E81,E8B,xxx,E87,E84,E86">
+  <span class="checkmark"></span>
+</label>
+
+<label for="item10" class="container">San Francisco
+  <input type="checkbox" id ="item10" value="6B,4B,63,4F,43,57,47,6F,67,xx,53,5B^128^080^498,490,496,491,39E,493,39F,499,497,xxx,492,494">
+  <span class="checkmark"></span>
+</label>
+
+ <label for="item11" class="container">Seattle
+  <input type="checkbox" id ="item11" value="68,48,60,4C,40,54,44,6C,64,5C,xx,58^16^010^D85,C8D,D83,C8E,C8B,D80,C8C,D86,D84,D82,xxx,D81">
+  <span class="checkmark"></span>
+  </label>
+
+ <label for="item12" class="container">Washington
+  <input type="checkbox" id ="item12" value="6A,4A,62,4E,42,56,46,6E,66,5E,52,xx^64^040^097,F8F,095,090,F8D,092,F8E,098,096,094,091,xxx">
+  <span class="checkmark"></span>
+  </label>
+
+  <p id="total" class="priceInfo"></p>
+
+  <div class= "buttonDiv">
+  <input type="button" class="button" value="Calculate Total" id="calcButton">
+  </div>
+
+  </form>
+
+</body>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
