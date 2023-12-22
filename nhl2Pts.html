@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHL - 3 Points</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+
+        .standings {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 12px;
+        }
+
+        .column {
+            width: 48%;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            table-layout: fixed;
+        }
+
+        th, td {
+            font-size: 10px
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            word-wrap: break-word;
+        }
+
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .division-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 12px;
+        }
+
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        NHL Standings - 2 Points
+    </header>
+
+    <div class="standings">
+
+        <div class="column">
+            <div class="division-title">Pacific</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>GP</th>
+                        <th>W</th>
+                        <th>L</th>
+                        <th>T</th>
+                        <th>GD</th>
+                        <th>Pts</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Vancouver</td>
+                        <td>34</td>
+                        <td>21</td>
+                        <td>9</td>
+                        <td>4</td>
+                        <td>43</td>
+                        <td>68</td>
+                    </tr>
+                    <tr>
+                        <td>Vegas</td>
+                        <td>34</td>
+                        <td>15</td>
+                        <td>8</td>
+                        <td>11</td>
+                        <td>28</td>
+                        <td>62</td>
+                    </tr>
+                    <tr>
+                        <td>Los Angeles</td>
+                        <td>29</td>
+                        <td>16</td>
+                        <td>7</td>
+                        <td>6</td>
+                        <td>32</td>
+                        <td>56</td>
+                    </tr>
+                    <tr>
+                        <td>Calgary</td>
+                        <td>33</td>
+                        <td>11</td>
+                        <td>14</td>
+                        <td>8</td>
+                        <td>-11</td>
+                        <td>44</td>
+                    </tr>
+                    <tr>
+                        <td>SEATTLE</td>
+                        <td>34</td>
+                        <td>8</td>
+                        <td>14</td>
+                        <td>12</td>
+                        <td>-18</td>
+                        <td>39</td>
+                    </tr>
+                    <tr>
+                        <td>Edmonton</td>
+                        <td>30</td>
+                        <td>12</td>
+                        <td>15</td>
+                        <td>3</td>
+                        <td>1</td>
+                        <td>41</td>
+                    </tr>
+                    <tr>
+                        <td>Anaheim</td>
+                        <td>32</td>
+                        <td>8</td>
+                        <td>20</td>
+                        <td>4</td>
+                        <td>-24</td>
+                        <td>32</td>
+                    </tr>
+                    <tr>
+                        <td>San Jose</td>
+                        <td>33</td>
+                        <td>7</td>
+                        <td>21</td>
+                        <td>5</td>
+                        <td>-64</td>
+                        <td>28</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="division-title">Central</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>GP</th>
+                        <th>W</th>
+                        <th>L</th>
+                        <th>T</th>
+                        <th>GD</th>
+                        <th>Pts</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Colorado</td>
+                        <td>33</td>
+                        <td>19</td>
+                        <td>11</td>
+                        <td>3</td>
+                        <td>18</td>
+                        <td>61</td>
+                    </tr>
+                    <tr>
+                        <td>Winnipeg</td>
+                        <td>31</td>
+                        <td>17</td>
+                        <td>9</td>
+                        <td>5</td>
+                        <td>23</td>
+                        <td>58</td>
+                    </tr>
+                    <tr>
+                        <td>Dallas</td>
+                        <td>31</td>
+                        <td>13</td>
+                        <td>8</td>
+                        <td>10</td>
+                        <td>13</td>
+                        <td>55</td>
+                    </tr>
+                    <tr>
+                        <td>Nashville</td>
+                        <td>33</td>
+                        <td>14</td>
+                        <td>14</td>
+                        <td>5</td>
+                        <td>4</td>
+                        <td>52</td>
+                    </tr>
+                    <tr>
+                        <td>Arizona</td>
+                        <td>32</td>
+                        <td>14</td>
+                        <td>13</td>
+                        <td>5</td>
+                        <td>11</td>
+                        <td>50</td>
+                    </tr>
+                    <tr>
+                        <td>St. Louis</td>
+                        <td>32</td>
+                        <td>13</td>
+                        <td>15</td>
+                        <td>4</td>
+                        <td>-13</td>
+                        <td>46</td>
+                    </tr>
+                    <tr>
+                        <td>Minnesota</td>
+                        <td>31</td>
+                        <td>9</td>
+                        <td>13</td>
+                        <td>9</td>
+                        <td>-4</td>
+                        <td>41</td>
+                    </tr>
+                    <tr>
+                        <td>Chicago</td>
+                        <td>31</td>
+                        <td>8</td>
+                        <td>20</td>
+                        <td>3</td>
+                        <td>-38</td>
+                        <td>29</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+        <div class="column">
+            <div class="division-title">Metropolitan</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>GP</th>
+                        <th>W</th>
+                        <th>L</th>
+                        <th>T</th>
+                        <th>GD</th>
+                        <th>Pts</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>NY Rangers</td>
+                        <td>30</td>
+                        <td>18</td>
+                        <td>7</td>
+                        <td>5</td>
+                        <td>19</td>
+                        <td>63</td>
+                    </tr>
+                    <tr>
+                        <td>NY Islanders</td>
+                        <td>32</td>
+                        <td>11</td>
+                        <td>8</td>
+                        <td>13</td>
+                        <td>-5</td>
+                        <td>50</td>
+                    </tr>
+                    <tr>
+                        <td>Carolina</td>
+                        <td>33</td>
+                        <td>13</td>
+                        <td>12</td>
+                        <td>8</td>
+                        <td>2</td>
+                        <td>51</td>
+                    </tr>
+                    <tr>
+                        <td>Philadelphia</td>
+                        <td>32</td>
+                        <td>12</td>
+                        <td>11</td>
+                        <td>9</td>
+                        <td>10</td>
+                        <td>51</td>
+                    </tr>
+                    <tr>
+                        <td>Washington</td>
+                        <td>30</td>
+                        <td>11</td>
+                        <td>9</td>
+                        <td>10</td>
+                        <td>-8</td>
+                        <td>49</td>
+                    </tr>
+                    <tr>
+                        <td>New Jersey</td>
+                        <td>31</td>
+                        <td>13</td>
+                        <td>13</td>
+                        <td>5</td>
+                        <td>-7</td>
+                        <td>47</td>
+                    </tr>
+                    <tr>
+                        <td>Pittsburgh</td>
+                        <td>31</td>
+                        <td>12</td>
+                        <td>13</td>
+                        <td>6</td>
+                        <td>4</td>
+                        <td>45</td>
+                    </tr>
+                    <tr>
+                        <td>Columbus</td>
+                        <td>34</td>
+                        <td>9</td>
+                        <td>17</td>
+                        <td>8</td>
+                        <td>-17</td>
+                        <td>37</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="division-title">Atlantic</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Team</th>
+                        <th>GP</th>
+                        <th>W</th>
+                        <th>L</th>
+                        <th>T</th>
+                        <th>GD</th>
+                        <th>Pts</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Boston</td>
+                        <td>30</td>
+                        <td>15</td>
+                        <td>5</td>
+                        <td>10</td>
+                        <td>20</td>
+                        <td>59</td>
+                    </tr>
+                    <tr>
+                        <td>Florida</td>
+                        <td>32</td>
+                        <td>16</td>
+                        <td>12</td>
+                        <td>4</td>
+                        <td>7</td>
+                        <td>54</td>
+                    </tr>
+                    <tr>
+                        <td>Tampa Bay</td>
+                        <td>34</td>
+                        <td>14</td>
+                        <td>13</td>
+                        <td>7</td>
+                        <td>-3</td>
+                        <td>51</td>
+                    </tr>
+                    <tr>
+                        <td>Detroit</td>
+                        <td>32</td>
+                        <td>13</td>
+                        <td>13</td>
+                        <td>6</td>
+                        <td>8</td>
+                        <td>47</td>
+                    </tr>
+                    <tr>
+                        <td>Toronto</td>
+                        <td>30</td>
+                        <td>9</td>
+                        <td>8</td>
+                        <td>13</td>
+                        <td>7</td>
+                        <td>47</td>
+                    </tr>
+                    <tr>
+                        <td>Buffalo</td>
+                        <td>34</td>
+                        <td>13</td>
+                        <td>17</td>
+                        <td>4</td>
+                        <td>-14</td>
+                        <td>44</td>
+                    </tr>
+                    <tr>
+                        <td>Montreal</td>
+                        <td>32</td>
+                        <td>6</td>
+                        <td>13</td>
+                        <td>13</td>
+                        <td>-20</td>
+                        <td>39</td>
+                    </tr>
+                    <tr>
+                        <td>Ottawa</td>
+                        <td>28</td>
+                        <td>9</td>
+                        <td>17</td>
+                        <td>2</td>
+                        <td>-4</td>
+                        <td>31</td>
+                    </tr>
+                </tbody>
+            </table>
+
+</body>
+</html>
