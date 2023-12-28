@@ -3,108 +3,134 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NFL Passer Rating</title>
+  <title>NFL Passer Rating Calculator</title>
   <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
   <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
   <style media="screen">
-    #rating p {
-      font-size: 20px;
-      text-align: center;
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
     }
-    .pure-table td, .pure-table th {
-      font-size: 12px;
-      text-align: center;
+
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     }
-    @media only screen and (max-width: 480px) {
-      .pure-form-aligned .pure-control-group label {
-        margin-bottom: .3em;
-        text-align: right;
-        display: inline-block;
-        max-width: 30%
+
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+
+    h3 {
+      color: #333;
+    }
+
+    form {
+      margin-top: 20px;
+    }
+
+    .pure-control-group {
+      margin-bottom: 15px;
+    }
+
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    input[type="number"] {
+      -moz-appearance: textfield;
+      width: 48%; /* Adjust the width as needed */
+      padding: 8px;
+      box-sizing: border-box;
+    }
+
+    /* Additional styles for better responsiveness */
+    @media (max-width: 600px) {
+      input[type="number"] {
+        width: 100%;
       }
     }
 
-    .calculator {
+    #rating {
+      margin-top: 20px;
+    }
+
+    p {
+      font-size: 24px;
+      text-align: center;
+      color: #4CAF50;
+    }
+
+    table {
+      width: 100%;
+      margin-top: 20px;
+      border-collapse: collapse;
+    }
+
+    th, td {
       padding: 10px;
-      border-radius: 1em;
-      height: 380px;
-      width: 400px;
-      margin: auto;
-      background-color: #191b28;
-      box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+      text-align: center;
+      border: 1px solid #ddd;
     }
 
-    .display-box {
-      font-family: 'Orbitron', sans-serif;
-      background-color: #dcdbe1;
-      border: solid black 0.5px;
-      color: black;
-      border-radius: 5px;
-      width: 100%;
-      height: 65%;
+    th {
+      background-color: #4CAF50;
+      color: #fff;
     }
 
-    #btn {
-      background-color: #fb0066;
-    }
-
-    input[type=button] {
-      font-family: 'Orbitron', sans-serif;
-      background-color: #64278f;
-      color: white;
-      border: solid black 0.5px;
-      width: 100%;
-      border-radius: 5px;
-      height: 70%;
-      outline: none;
-    }
-
-    input:active[type=button] {
-      background: #e5e5e5;
-      -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
-      -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
-      box-shadow: inset 0px 0px 5px #c1c1c1;
+    script {
+      margin-top: 20px;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <a href="https://2skupz.github.io/index.html" style="color: black; text-decoration: none;"><h3>NFL Passer Rating</h3></a>
+    <a href="https://2skupz.github.io/index.html"><h3>NFL Passer Rating Calculator</h3></a>
 
     <form class="pure-form pure-form-aligned">
       <div class="pure-control-group pure-g">
         <label class="pure-u">Completions</label>
-        <input class="pure-u-1-5 pure-u-md-1-4" type="number" name="completions" value="">
+        <input class="pure-u-1-2" type="number" name="completions" value="">
       </div>
 
       <div class="pure-control-group pure-g">
         <label class="pure-u">Attempts</label>
-        <input class="pure-u-1-5 pure-u-md-1-4" type="number" name="attempts" value="">
+        <input class="pure-u-1-2" type="number" name="attempts" value="">
       </div>
 
       <div class="pure-control-group pure-g">
         <label class="pure-u">Yards</label>
-        <input class="pure-u-1-5 pure-u-md-1-4" type="number" name="yards" value="">
+        <input class="pure-u-1-2" type="number" name="yards" value="">
       </div>
 
       <div class="pure-control-group pure-g">
         <label class="pure-u">Touchdowns</label>
-        <input class="pure-u-1-5 pure-u-md-1-4" type="number" name="touchdowns" value="">
+        <input class="pure-u-1-2" type="number" name="touchdowns" value="">
       </div>
 
       <div class="pure-control-group pure-g">
         <label class="pure-u">Interceptions</label>
-        <input class="pure-u-1-5 pure-u-md-1-4" type="number" name="interceptions" value="">
+        <input class="pure-u-1-2" type="number" name="interceptions" value="">
       </div>
     </form>
 
     <div class="pure-g" id="rating">
-      <p class="pure-u-1 pure-u-md-1-4">0.0</p>
+      <p class="pure-u-1">0.0</p>
     </div>
     <table class="pure-table pure-table-bordered">
       <thead>
         <th>Completion %</th>
-        <th>Yards/attempt</th>
+        <th>Yards/Attempt</th>
         <th>TD per Attempt</th>
         <th>INT per Attempt</th>
       </thead>
@@ -154,34 +180,15 @@
       var c = (td / attempts) * 20;
       var d = 2.375 - ((int / attempts) * 25);
 
-      if (a > 2.375) {
-        a = 2.375;
-      }
-      if (a < 0) {
-        a = 0
-      }
-      if (b > 2.375) {
-        b = 2.375;
-      }
-      if (b < 0) {
-        b = 0;
-      }
-      if (c > 2.375) {
-        c = 2.375;
-      }
-      if (d > 2.375) {
-        d = 2.375;
-      }
-      if (d < 0) {
-        d = 0;
-      }
+      a = Math.min(2.375, Math.max(0, a));
+      b = Math.min(2.375, Math.max(0, b));
+      c = Math.min(2.375, c);
+      d = Math.min(2.375, Math.max(0, d));
 
       var rating = Math.round(((a + b + c + d) / 6) * 1000) / 10;
-      if (rating < 0) {
-        rating = 0.0;
-      };
-      $('#rating p').text(rating);
+      rating = Math.max(0, rating);
 
+      $('#rating p').text(rating);
       $('#compPercent').text(completionPercentage);
       $('#yardsPerAttempt').text(yardsPerAttempt);
       $('#tdPerAttempt').text(tdPerAttempt);
