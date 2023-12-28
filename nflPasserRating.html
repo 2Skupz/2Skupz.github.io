@@ -1,206 +1,115 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NFL Passer Rating Calculator</title>
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
-  <style media="screen">
-    body {
-      font-family: 'Roboto', sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 0;
-    }
-
-    .container {
-      max-width: 800px;
-      margin: 30px auto;
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    }
-
-    a {
-      color: #4CAF50;
-      text-decoration: none;
-    }
-
-    h3 {
-      color: #333;
-    }
-
-    form {
-      margin-top: 20px;
-    }
-
-    .pure-control-group {
-      margin-bottom: 15px;
-    }
-
-    input[type="number"]::-webkit-inner-spin-button,
-    input[type="number"]::-webkit-outer-spin-button {
-      -webkit-appearance: none;
-      margin: 0;
-    }
-
-    input[type="number"] {
-      -moz-appearance: textfield;
-      width: 48%; /* Adjust the width as needed */
-      padding: 8px;
-      box-sizing: border-box;
-    }
-
-    /* Additional styles for better responsiveness */
-    @media (max-width: 600px) {
-      input[type="number"] {
-        width: 100%;
-      }
-    }
-
-    #rating {
-      margin-top: 20px;
-    }
-
-    p {
-      font-size: 24px;
-      text-align: center;
-      color: #4CAF50;
-    }
-
-    table {
-      width: 100%;
-      margin-top: 20px;
-      border-collapse: collapse;
-    }
-
-    th, td {
-      padding: 10px;
-      text-align: center;
-      border: 1px solid #ddd;
-    }
-
-    th {
-      background-color: #4CAF50;
-      color: #fff;
-    }
-
-    script {
-      margin-top: 20px;
-    }
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.6">
+  <style type="text/css">
+    body {background-color: #f2f2f2}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; font: 12.0px Helvetica; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; background-color: #ffffff; min-height: 14.0px}
+    p.p4 {margin: 0.0px 0.0px 24.0px 0.0px; text-align: center; font: 24.0px Helvetica; color: #40a33f; -webkit-text-stroke: #40a33f}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; color: #ffffff; -webkit-text-stroke: #ffffff}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Helvetica Neue'; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none; background-color: #ffffff}
+    span.s2 {font-kerning: none}
+    table.t1 {margin: 20.0px 0.0px 0.0px 0.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; border-collapse: collapse}
+    td.td1 {width: 153.2px; background-color: #40a33f; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td2 {width: 162.0px; background-color: #40a33f; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #d5d5d5 #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td3 {width: 168.6px; background-color: #40a33f; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #d5d5d5 #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td4 {width: 175.2px; background-color: #40a33f; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #d5d5d5 #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td5 {width: 153.2px; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td6 {width: 162.0px; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #bfbfbf #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td7 {width: 168.6px; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #bfbfbf #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td8 {width: 175.2px; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #bfbfbf #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td9 {width: 191.9px; background-color: #40a33f; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td10 {width: 142.5px; background-color: #40a33f; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #d5d5d5 #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td11 {width: 158.3px; background-color: #40a33f; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #d5d5d5 #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td12 {width: 166.4px; background-color: #40a33f; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #d5d5d5 #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td13 {width: 191.9px; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td14 {width: 142.5px; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #bfbfbf #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td15 {width: 158.3px; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #bfbfbf #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
+    td.td16 {width: 166.4px; border-style: solid; border-width: 0.0px 0.0px 0.0px 1.0px; border-color: #d5d5d5 #d5d5d5 #bfbfbf #bfbfbf; padding: 6.0px 12.0px 6.0px 12.0px}
   </style>
 </head>
 <body>
-  <div class="container">
-    <a href="https://2skupz.github.io/index.html"><h3>NFL Passer Rating Calculator</h3></a>
-
-    <form class="pure-form pure-form-aligned">
-      <div class="pure-control-group pure-g">
-        <label class="pure-u">Completions</label>
-        <input class="pure-u-1-2" type="number" name="completions" value="">
-      </div>
-
-      <div class="pure-control-group pure-g">
-        <label class="pure-u">Attempts</label>
-        <input class="pure-u-1-2" type="number" name="attempts" value="">
-      </div>
-
-      <div class="pure-control-group pure-g">
-        <label class="pure-u">Yards</label>
-        <input class="pure-u-1-2" type="number" name="yards" value="">
-      </div>
-
-      <div class="pure-control-group pure-g">
-        <label class="pure-u">Touchdowns</label>
-        <input class="pure-u-1-2" type="number" name="touchdowns" value="">
-      </div>
-
-      <div class="pure-control-group pure-g">
-        <label class="pure-u">Interceptions</label>
-        <input class="pure-u-1-2" type="number" name="interceptions" value="">
-      </div>
-    </form>
-
-    <div class="pure-g" id="rating">
-      <p class="pure-u-1">0.0</p>
-    </div>
-    <table class="pure-table pure-table-bordered">
-      <thead>
-        <th>Completion %</th>
-        <th>Yards/Attempt</th>
-        <th>TD per Attempt</th>
-        <th>INT per Attempt</th>
-      </thead>
-      <tbody>
-        <tr>
-          <td id="compPercent">0</td>
-          <td id="yardsPerAttempt">0</td>
-          <td id="tdPerAttempt">0</td>
-          <td id="intPerAttempt">0</td>
-        </tr>
-      </tbody>
-    </table>
-    <table class="pure-table pure-table-bordered">
-      <thead>
-        <th>Comp/A Points</th>
-        <th>Y/A Points</th>
-        <th>TD/A Points</th>
-        <th>INT/A Points</th>
-      </thead>
-      <tbody>
-        <tr>
-          <td id="a">0</td>
-          <td id="b">0</td>
-          <td id="c">0</td>
-          <td id="d">0</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    function calculate() {
-      var attempts = $('input[name="attempts"]').val()
-      var completions = $('input[name="completions"]').val()
-      var yards = $('input[name="yards"]').val()
-      var td = $('input[name="touchdowns"]').val()
-      var int = $('input[name="interceptions"]').val()
-
-      var completionPercentage = Math.round((completions / attempts) * 1000) / 10;
-      var yardsPerAttempt = Math.round((yards / attempts) * 10) / 10;
-      var tdPerAttempt = Math.round((td / attempts) * 100) / 10;
-      var intPerAttempt = Math.round((int / attempts) * 100) / 10;
-
-      var a = ((completions / attempts) - 0.3) * 5;
-      var b = ((yards / attempts) - 3) * 0.25;
-      var c = (td / attempts) * 20;
-      var d = 2.375 - ((int / attempts) * 25);
-
-      a = Math.min(2.375, Math.max(0, a));
-      b = Math.min(2.375, Math.max(0, b));
-      c = Math.min(2.375, c);
-      d = Math.min(2.375, Math.max(0, d));
-
-      var rating = Math.round(((a + b + c + d) / 6) * 1000) / 10;
-      rating = Math.max(0, rating);
-
-      $('#rating p').text(rating);
-      $('#compPercent').text(completionPercentage);
-      $('#yardsPerAttempt').text(yardsPerAttempt);
-      $('#tdPerAttempt').text(tdPerAttempt);
-      $('#intPerAttempt').text(intPerAttempt);
-      $('#a').text(Math.round(a * 1000 / 6 * 100) / 1000)
-      $('#b').text(Math.round(b * 1000 / 6 * 100) / 1000)
-      $('#c').text(Math.round(c * 1000 / 6 * 100) / 1000)
-      $('#d').text(Math.round(d * 1000 / 6 * 100) / 1000)
-    };
-    $('input').keyup(function (event) {
-      calculate();
-    });
-  </script>
+<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px 'Helvetica Neue'; color: #262626; -webkit-text-stroke: #262626"><span class="s1"><a href="https://2skupz.github.io/index.html">NFL Passer Rating Calculator<span class="s2"></span></a></span></h3>
+<p class="p2"><span class="s1">Completions</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s1">Attempts</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s1">Yards</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s1">Touchdowns</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s1">Interceptions</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p4"><span class="s1">0.0</span></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="bottom" class="td1">
+        <p class="p5"><span class="s1">Comple16tion %</span></p>
+      </td>
+      <td valign="bottom" class="td2">
+        <p class="p5"><span class="s1">Yards/Attempt</span></p>
+      </td>
+      <td valign="bottom" class="td3">
+        <p class="p5"><span class="s1">TD per Attempt</span></p>
+      </td>
+      <td valign="bottom" class="td4">
+        <p class="p5"><span class="s1">INT per Attempt</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td5">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+      <td valign="middle" class="td7">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="bottom" class="td9">
+        <p class="p5"><span class="s1">Comp/A Points</span></p>
+      </td>
+      <td valign="bottom" class="td10">
+        <p class="p5"><span class="s1">Y/A Points</span></p>
+      </td>
+      <td valign="bottom" class="td11">
+        <p class="p5"><span class="s1">TD/A Points</span></p>
+      </td>
+      <td valign="bottom" class="td12">
+        <p class="p5"><span class="s1">INT/A Points</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td13">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+      <td valign="middle" class="td14">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+      <td valign="middle" class="td15">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+      <td valign="middle" class="td16">
+        <p class="p6"><span class="s1">0</span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 </body>
 </html>
