@@ -44,6 +44,12 @@
  43 UCF                       3-1   0.0003  0.000    0.001    0.000      0        0  0  0  0  0  0  
  44 Liberty                   4-0   0.0003  0.000    0.001    0.000      0        0  10 0  0  0  0  
 -------------
+BCS Formula:
+	BCS Rating consists of three, equally weighted parts
+		Percentage of possible AP points gotten
+		Percentage of possible Coaches Poll points gotten
+		Percentage of possible computer poll points gotten, after dropping highest and lowest rating
+-------------
 Abbreviations: 
 	A - Anderson & Hester
 	B - Richard Billingsley
