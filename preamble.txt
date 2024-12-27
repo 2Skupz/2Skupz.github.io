@@ -82,20 +82,17 @@
     </style>
 </head>
 <body>
-
-    <!-- Main Content Container (Half-Screen Width) -->
     <div class="container">
-
-        <!-- Centered Image -->
         <div class="center-image">
             <img src="theChamp.jpeg" alt="Championship Image">
         </div>
-
-        <!-- Preamble Text -->
         <div class="preamble">
             In boxing (and other sports), one becomes the champ by beating the champ. And they remain the champ until someone takes it from them. 
             What if college football did this? On November 6, 1869 Rutgers defeated Princeton 6-4 (in a game that more closely resembled soccer than 
             what we’d call football, but we’re counting it anyway), winning the first College Football Heavyweight Bout. Princeton would win the 
-            rematch 8-0 to take back the Belt. Since then, I’ve tracked the progress of the Belt and all the challenges for it. The 314th (and current) 
-            Heavyweight Champion of College Football is Texas.
+            rematch 8-0 to take back the Belt. Since then, I’ve tracked the progress of the Belt and all the challenges for it. The 317th (and current) 
+            Heavyweight Champion of College Football is Florida.
         </div>
+    </div>
+</body>
+</html>
