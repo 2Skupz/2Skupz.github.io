@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Trade Value Calculator</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .container { display: flex; justify-content: center; gap: 20px; margin-top: 20px; align-items: flex-start; }
+        .column-wrapper { display: flex; flex-direction: column; align-items: center; }
+        .column { display: flex; flex-direction: column; gap: 10px; }
+        input { width: 80px; padding: 5px; text-align: center; }
+        .summary-container { display: flex; justify-content: center; gap: 20px; margin-top: 20px; }
+        .summary { font-size: 1.2em; font-weight: bold; }
+        .divider { width: 2px; background-color: black; margin: 0 10px; }
+        .header { font-weight: bold; margin-bottom: 10px; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>Fitzgerald-Spielberger Trade value</h1>
+    <div class="container">
+        <div class="column-wrapper">
+            <div class="header">Pick #</div>
+            <div class="column">
+                <input type="number" id="input1" oninput="updateValue(1)">
+                <input type="number" id="input2" oninput="updateValue(2)">
+                <input type="number" id="input3" oninput="updateValue(3)">
+                <input type="number" id="input4" oninput="updateValue(4)">
+                <input type="number" id="input5" oninput="updateValue(5)">
+                <input type="number" id="input6" oninput="updateValue(6)">
+            </div>
+        </div>
+        <div class="column-wrapper">
+            <div class="header">  Points</div>
+            <div class="column">
+                <input type="number" id="output1" disabled>
+                <input type="number" id="output2" disabled>
+                <input type="number" id="output3" disabled>
+                <input type="number" id="output4" disabled>
+                <input type="number" id="output5" disabled>
+                <input type="number" id="output6" disabled>
+            </div>
+        </div>
+        <div class="divider"></div>
+        <div class="column-wrapper">
+            <div class="header"> Pick #</div>
+            <div class="column">
+                <input type="number" id="input7" oninput="updateValue(7)">
+                <input type="number" id="input8" oninput="updateValue(8)">
+                <input type="number" id="input9" oninput="updateValue(9)">
+                <input type="number" id="input10" oninput="updateValue(10)">
+                <input type="number" id="input11" oninput="updateValue(11)">
+                <input type="number" id="input12" oninput="updateValue(12)">
+            </div>
+        </div>
+        <div class="column-wrapper">
+            <div class="header">Value </div>
+            <div class="column">
+                <input type="number" id="output7" disabled>
+                <input type="number" id="output8" disabled>
+                <input type="number" id="output9" disabled>
+                <input type="number" id="output10" disabled>
+                <input type="number" id="output11" disabled>
+                <input type="number" id="output12" disabled>
+            </div>
+        </div>
+    </div>
+    <div class="summary-container">
+        <div class="column-wrapper">
+            <div class="summary">Team A Total</div>
+            <div class="summary"><span id="total1">0</span></div>
+        </div>
+        <div class="divider"></div>
+        <div class="column-wrapper">
+            <div class="summary">Team B Total</div>
+            <div class="summary"><span id="total2">0</span></div>
+        </div>
+    </div>
+    <script>
+        const data={1:3000,2:2649,3:2443,4:2297,5:2184,6:2092,7:2014,8:1946,9:1887,10:1833,11:1785,12:1741,13:1700,14:1663,15:1628,16:1595,17:1564,18:1535,19:1508,20:1482,21:1457,22:1434,23:1411,24:1389,25:1369,26:1349,27:1330,28:1311,29:1294,30:1276,31:1260,32:1244,33:1228,34:1213,35:1198,36:1184,37:1170,38:1157,39:1143,40:1131,41:1118,42:1106,43:1094,44:1082,45:1071,46:1060,47:1049,48:1038,49:1028,50:1018,51:1007,52:998,53:988,54:979,55:969,56:960,57:951,58:942,59:934,60:925,61:917,62:909,63:900,64:892,65:885,66:877,67:869,68:862,69:854,70:847,71:840,72:833,73:826,74:819,75:812,76:805,77:799,78:792,79:786,80:779,81:773,82:767,83:761,84:755,85:749,86:743,87:737,88:731,89:725,90:720,91:714,92:709,93:703,94:698,95:692,96:687,97:682,98:676,99:671,100:666,101:661,102:656,103:651,104:646,105:642,106:637,107:632,108:627,109:623,110:618,111:613,112:609,113:604,114:600,115:595,116:591,117:587,118:582,119:578,120:574,121:570,122:565,123:561,124:557,125:553,126:549,127:545,128:541,129:537,130:533,131:529,132:526,133:522,134:518,135:514,136:510,137:507,138:503,139:499,140:496,141:492,142:489,143:485,144:481,145:478,146:474,147:471,148:468,149:464,150:461,151:457,152:454,153:451,154:447,155:444,156:441,157:438,158:434,159:431,160:428,161:425,162:422,163:419,164:416,165:412,166:409,167:406,168:403,169:400,170:397,171:394,172:391,173:388,174:386,175:383,176:380,177:377,178:374,179:371,180:368,181:366,182:363,183:360,184:357,185:354,186:352,187:349,188:346,189:344,190:341,191:338,192:336,193:333,194:330,195:328,196:325,197:323,198:320,199:318,200:315,201:312,202:310,203:307,204:305,205:302,206:300,207:298,208:295,209:293,210:290,211:288,212:285,213:283,214:281,215:278,216:276,217:274,218:271,219:269,220:267,221:264,222:262,223:260,224:258,225:255,226:253,227:251,228:249,229:246,230:244,231:242,232:240,233:238,234:235,235:233,236:231,237:229,238:227,239:225,240:223,241:220,242:218,243:216,244:214,245:212,246:210,247:208,248:206,249:204,250:202,251:200,252:198,253:196,254:194,255:192,256:190};
+        
+        function updateValue(index) {
+            const input = document.getElementById(`input${index}`);
+            const output = document.getElementById(`output${index}`);
+            const value = parseInt(input.value);
+            
+            if (data[value] !== undefined) {
+                output.value = data[value];
+            } else {
+                output.value = '';
+            }
+            updateTotal();
+        }
+        
+        function updateTotal() {
+            let total1 = 0, total2 = 0;
+            for (let i = 1; i <= 6; i++) {
+                const output = document.getElementById(`output${i}`);
+                total1 += output.value ? parseInt(output.value) : 0;
+            }
+            for (let i = 7; i <= 12; i++) {
+                const output = document.getElementById(`output${i}`);
+                total2 += output.value ? parseInt(output.value) : 0;
+            }
+            document.getElementById("total1").textContent = total1;
+            document.getElementById("total2").textContent = total2;
+        }
+    </script>
+</body>
+</html>
