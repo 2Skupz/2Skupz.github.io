@@ -184,19 +184,19 @@
         function updateSummary(total1,total2,total3,total4){
             document.getElementById("diff1").textContent = total1-total2;
             document.getElementById("diff2").textContent = total3-total4;
-            if (total1 > total2) {
+            if (total1 < total2) {
                 document.getElementById("win1").textContent = "Team A";
             }
-            else if (total2 > total1) {
+            else if (total2 < total1) {
                 document.getElementById("win1").textContent = "Team B";
             } else if (total1==total2){
                 document.getElementById("win1").textContent = "-";
             }
 
-            if (total3 > total4) {
+            if (total3 < total4) {
                 document.getElementById("win2").textContent = "Team A";
             }
-            else if (total4 > total3) {
+            else if (total4 < total3) {
                 document.getElementById("win2").textContent = "Team B";
             } else if (total3==total4) {
                 document.getElementById("win2").textContent = "-";
