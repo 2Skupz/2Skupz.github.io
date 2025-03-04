@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baseball Dice Game</title>
+    <style>
+        body {
+            font-family: monospace;
+            text-align: center;
+            background: url('https://upload.wikimedia.org/wikipedia/commons/e/ef/Diagram_of_a_baseball_diamond.svg') no-repeat center center fixed;
+            background-size: contain;
+            color: white;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .scoreboard {
+            display: inline-block;
+            background: white;
+            color: black;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: left;
+            font-family: monospace;
+            white-space: pre;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Baseball Dice Game</h1>
+        <label>Team 1 Name: <input type="text" id="team1" value="Team A" oninput="updateScoreboard()"></label>
+        <label>Team 2 Name: <input type="text" id="team2" value="Team B" oninput="updateScoreboard()"></label>
+        <button onclick="rollDice()">Roll Dice</button>
+        <button onclick="resetGame()">Reset Game</button> <!-- 🔥 New Reset Button -->
+        <h3 id="inningDisplay">Current Inning: 1 (Top)</h3>
+        <h3 id="diceResult"></h3>
+
+        <div class="scoreboard">
+            <pre id="scoreDisplay"></pre>
+        </div>
+    </div>
+
+<script>
+    let scores, totalScores, currentTeam, currentInning, gameOver;
+
+    function initializeGame() {
+        scores = [[null, null, null, null, null, null, null, null, null], 
+                  [null, null, null, null, null, null, null, null, null]]; 
+        totalScores = [0, 0];  
+        currentTeam = 0;  
+        currentInning = 0; 
+        gameOver = false;
+        updateScoreboard();
+    }
+
+    function rollDice() {
+        if (gameOver) return;
+
+        let dice = Array.from({length: 3}, () => Math.floor(Math.random() * 6) + 1);
+        let ones = dice.filter(num => num === 1).length;
+
+        // Display dice images instead of numbers
+        let diceImages = dice.map(num => `<img src="https://upload.wikimedia.org/wikipedia/commons/${getDiceImage(num)}" width="50" height="50">`).join(" ");
+        document.getElementById("diceResult").innerHTML = `Rolled: <br>${diceImages}`;
+
+        if (ones > 0) {
+            if (scores[currentTeam][currentInning] === null) scores[currentTeam][currentInning] = 0;
+            scores[currentTeam][currentInning] += ones;
+            totalScores[currentTeam] += ones;
+        } else {
+            endInning();
+        }
+
+        updateScoreboard();
+    }
+
+    function getDiceImage(num) {
+        return {
+            1: "2/2c/Alea_1.png",
+            2: "b/b8/Alea_2.png",
+            3: "2/2f/Alea_3.png",
+            4: "8/8d/Alea_4.png",
+            5: "5/55/Alea_5.png",
+            6: "f/f4/Alea_6.png"
+        }[num];
+    }
+
+    function endInning() {
+        if (currentTeam === 1) { 
+            if (currentInning === 8) { 
+                gameOver = true;
+            } else {
+                currentInning++; 
+            }
+        }
+        currentTeam = 1 - currentTeam; 
+
+        if (currentInning === 8 && currentTeam === 1) {
+            if (totalScores[1] > totalScores[0]) {
+                scores[1][8] = 'x';
+                gameOver = true;
+            }
+        }
+    }
+
+    function updateScoreboard() {
+        let team1Name = document.getElementById("team1").value.padEnd(10);
+        let team2Name = document.getElementById("team2").value.padEnd(10);
+
+        let inningStatus = gameOver ? "Final" : `Current Inning: ${currentInning + 1} (${currentTeam === 0 ? "Top" : "Bottom"})`;
+        document.getElementById("inningDisplay").textContent = inningStatus;
+
+        let inningsHeader = "  Inning    " + Array.from({length: 9}, (_, i) => (i + 1).toString().padStart(2)).join(" ") + "  Total\n";
+
+        let team1Row = (currentTeam === 0 ? "• " : "  ") + team1Name;
+        let team2Row = (currentTeam === 1 ? "• " : "  ") + team2Name;
+
+        for (let i = 0; i < 9; i++) {
+            if (i > currentInning && !gameOver) {
+                team1Row += "   ";
+                team2Row += "   ";
+            } else {
+                let team1Score = scores[0][i] === null ? " 0" : scores[0][i].toString().padStart(2);
+                let team2Score = scores[1][i] === null ? " 0" : scores[1][i].toString().padStart(2);
+
+                if (i === currentInning && currentTeam === 0 && !gameOver) {
+                    team2Score = "  ";
+                }
+
+                team1Row += team1Score + " ";
+                team2Row += team2Score + " ";
+            }
+        }
+
+        team1Row += "  " + totalScores[0].toString().padStart(2) + "\n";
+        team2Row += "  " + totalScores[1].toString().padStart(2);
+
+        document.getElementById("scoreDisplay").textContent = inningsHeader + team1Row + team2Row;
+    }
+
+    function resetGame() {
+        initializeGame();
+        document.getElementById("diceResult").innerHTML = "";
+    }
+
+    initializeGame();
+</script>
+
+</body>
+</html>
+
+
+
