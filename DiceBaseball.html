@@ -65,26 +65,25 @@
         updateScoreboard();
     }
 
-    function rollDice() {
-        if (gameOver) return;
+function rollDice() {
+    if (gameOver) return;
 
-        let dice = Array.from({length: 3}, () => Math.floor(Math.random() * 6) + 1);
-        let ones = dice.filter(num => num === 1).length;
+    let dice = Array.from({ length: 3 }, () => Math.floor(Math.random() * 6) + 1);
+    let ones = dice.filter(num => num === 1).length;
 
-        // Display dice images instead of numbers
-        let diceImages = dice.map(num => `<img src="https://upload.wikimedia.org/wikipedia/commons/${getDiceImage(num)}" width="50" height="50">`).join(" ");
-        document.getElementById("diceResult").innerHTML = `Rolled: <br>${diceImages}`;
+    let diceImages = dice.map(num => `<img src="https://upload.wikimedia.org/wikipedia/commons/${getDiceImage(num)}" width="50" height="50">`).join(" ");
+    document.getElementById("diceResult").innerHTML = `Rolled: <br>${diceImages}`;
 
-        if (ones > 0) {
-            if (scores[currentTeam][currentInning] === null) scores[currentTeam][currentInning] = 0;
-            scores[currentTeam][currentInning] += ones;
-            totalScores[currentTeam] += ones;
-        } else {
-            endInning();
-        }
-
-        updateScoreboard();
+    if (ones > 0) {
+        if (scores[currentTeam][currentInning] === null) scores[currentTeam][currentInning] = 0;
+        scores[currentTeam][currentInning] += ones;
+        totalScores[currentTeam] += ones;
+    } else {
+        endInning();
     }
+
+    updateScoreboard();
+}
 
     function getDiceImage(num) {
         return {
@@ -97,58 +96,75 @@
         }[num];
     }
 
-    function endInning() {
-        if (currentTeam === 1) { 
-            if (currentInning === 8) { 
-                gameOver = true;
-            } else {
-                currentInning++; 
-            }
+function endInning() {
+    if (currentTeam === 1) { 
+        // If it's the bottom of the ninth and the home team takes the lead, end the game immediately
+        if (currentInning === 8 && totalScores[1] > totalScores[0]) {
+            gameOver = true;
+            updateScoreboard();
+            return;
         }
-        currentTeam = 1 - currentTeam; 
 
-        if (currentInning === 8 && currentTeam === 1) {
-            if (totalScores[1] > totalScores[0]) {
-                scores[1][8] = 'x';
-                gameOver = true;
-            }
+        // If it's the last scheduled inning (9th), end the game
+        if (currentInning === 8) {
+            gameOver = true;
+        } else {
+            currentInning++; 
         }
     }
+    
+    currentTeam = 1 - currentTeam; 
 
-    function updateScoreboard() {
-        let team1Name = document.getElementById("team1").value.padEnd(10);
-        let team2Name = document.getElementById("team2").value.padEnd(10);
+    updateScoreboard();
+}
 
-        let inningStatus = gameOver ? "Final" : `Current Inning: ${currentInning + 1} (${currentTeam === 0 ? "Top" : "Bottom"})`;
-        document.getElementById("inningDisplay").textContent = inningStatus;
+function updateScoreboard() {
+    let team1Name = document.getElementById("team1").value.padEnd(10);
+    let team2Name = document.getElementById("team2").value.padEnd(10);
 
-        let inningsHeader = "  Inning    " + Array.from({length: 9}, (_, i) => (i + 1).toString().padStart(2)).join(" ") + "  Total\n";
+    let inningStatus = gameOver ? "Final" : `Current Inning: ${currentInning + 1} (${currentTeam === 0 ? "Top" : "Bottom"})`;
+    document.getElementById("inningDisplay").textContent = inningStatus;
 
-        let team1Row = (currentTeam === 0 ? "• " : "  ") + team1Name;
-        let team2Row = (currentTeam === 1 ? "• " : "  ") + team2Name;
+    let inningsHeader = "  Inning    " + Array.from({ length: 9 }, (_, i) => (i + 1).toString().padStart(2)).join(" ") + "  Total\n";
 
-        for (let i = 0; i < 9; i++) {
-            if (i > currentInning && !gameOver) {
-                team1Row += "   ";
-                team2Row += "   ";
+    let team1Row = (currentTeam === 0 ? "• " : "  ") + team1Name;
+    let team2Row = (currentTeam === 1 ? "• " : "  ") + team2Name;
+
+    for (let i = 0; i < 9; i++) {
+        let team1Score = "  "; // Default: future innings remain blank
+        let team2Score = "  ";
+
+        if (i < currentInning) {
+            // Past innings: Show actual scores or zero
+            team1Score = scores[0][i] !== null ? scores[0][i].toString().padStart(2) : " 0";
+            team2Score = scores[1][i] !== null ? scores[1][i].toString().padStart(2) : " 0";
+        } else if (i === currentInning) {
+            // Current inning logic
+            if (currentTeam === 0) {
+                team1Score = scores[0][i] === null ? " •" : scores[0][i].toString().padStart(2); // Dot if just started
             } else {
-                let team1Score = scores[0][i] === null ? " 0" : scores[0][i].toString().padStart(2);
-                let team2Score = scores[1][i] === null ? " 0" : scores[1][i].toString().padStart(2);
-
-                if (i === currentInning && currentTeam === 0 && !gameOver) {
-                    team2Score = "  ";
-                }
-
-                team1Row += team1Score + " ";
-                team2Row += team2Score + " ";
+                team1Score = scores[0][i] !== null ? scores[0][i].toString().padStart(2) : " 0"; // Show score or zero
+                team2Score = scores[1][i] === null ? " •" : scores[1][i].toString().padStart(2); // Dot if bottom just started
             }
         }
 
-        team1Row += "  " + totalScores[0].toString().padStart(2) + "\n";
-        team2Row += "  " + totalScores[1].toString().padStart(2);
+        // **Ninth inning special case: Show runs or zero once complete**
+        if (gameOver && i === 8) {
+            team1Score = scores[0][8] !== null ? scores[0][8].toString().padStart(2) : " 0";
+            team2Score = scores[1][8] !== null ? scores[1][8].toString().padStart(2) : " 0";
+        }
 
-        document.getElementById("scoreDisplay").textContent = inningsHeader + team1Row + team2Row;
+        team1Row += team1Score + " ";
+        team2Row += team2Score + " ";
     }
+
+    team1Row += "  " + totalScores[0].toString().padStart(2) + "\n";
+    team2Row += "  " + totalScores[1].toString().padStart(2);
+
+    document.getElementById("scoreDisplay").textContent = inningsHeader + team1Row + team2Row;
+}
+
+
 
     function resetGame() {
         initializeGame();
