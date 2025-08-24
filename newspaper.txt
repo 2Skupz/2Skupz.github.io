@@ -1,7 +1,3 @@
-# Combined League Standings from tableCsvs folder
-
-league_order = ["USA West", "USA East", "Sweden", "Germany", "England", "France", "Italy", "Blank", "Champions"]
-
 MLS West                                                            MLS East
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
 San Diego FC       27  16   4   7  52  33  19  52  42.1  37.0       FC Cincinnati      27  16   4   7  42  34   8  52  33.4  39.1
