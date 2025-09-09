@@ -5,14 +5,14 @@ Minnesota Utd      29  14   9   6  48  32  16  51  41.0  37.3       FC Cincinnat
 Vancouver W'caps   27  14   7   6  47  31  16  49  47.2  31.2       Charlotte          29  16   2  11  48  40   8  50  43.4  43.5
 Seattle Sounders   27  12   8   7  48  38  10  44  45.6  34.6       Nashville SC       29  15   5   9  49  33  16  50  50.9  33.1
 LAFC               26  11   8   7  45  33  12  41  44.2  25.9       Orlando City       28  13   8   7  54  40  14  47  49.6  38.1
-Austin             28  11   8   9  31  34  -3  41  37.1  38.5       Inter Miami        25  13   7   5  54  40  14  46  42.7  34.8
+Austin             28  11   8   9  31  34  -3  41  37.0  38.6       Inter Miami        25  13   7   5  54  40  14  46  42.7  34.8
 Portland Timbers   28  10   9   9  36  38  -2  39  34.5  41.3       Columbus Crew      28  12  10   6  43  39   4  46  45.4  38.6
 Colorado Rapids    29  10   6  13  38  48 -10  36  44.3  50.1       NYCFC              27  13   5   9  38  32   6  44  38.9  34.3
-SJ Earthquakes     29   9   8  12  53  51   2  35  55.0  47.8       Chicago Fire       28  12   6  10  53  50   3  42  44.3  46.2
+SJ Earthquakes     29   9   8  12  53  51   2  35  55.0  47.8       Chicago Fire       28  12   6  10  53  50   3  42  45.0  46.6
 Houston Dynamo     29   8   9  12  38  47  -9  33  36.4  41.1       NY Red Bulls       29  11   7  11  42  38   4  40  40.7  41.5
-Real Salt Lake     27   9   4  14  28  36  -8  31  33.3  43.1       NE Revolution      29   8   7  14  38  43  -5  31  39.2  43.6
+Real Salt Lake     27   9   4  14  28  36  -8  31  33.3  43.1       NE Revolution      29   8   7  14  38  43  -5  31  39.6  44.2
 FC Dallas          28   7  10  11  40  48  -8  31  37.5  42.8       Atlanta Utd        28   5  11  12  32  49 -17  26  35.8  40.3
-Sporting KC        29   7   6  16  44  59 -15  27  37.3  61.3       Toronto FC         28   5  10  13  28  35  -7  25  27.6  40.6
+Sporting KC        29   7   6  16  44  59 -15  27  37.4  61.3       Toronto FC         28   5  10  13  28  35  -7  25  27.6  40.6
 St. Louis          29   5   7  17  34  51 -17  22  41.8  48.7       CF Montréal        29   5   9  15  29  51 -22  24  34.0  43.8
 LA Galaxy          28   4   8  16  33  56 -23  20  35.5  48.0       D.C. United        29   5   9  15  26  54 -28  24  31.8  41.9
 
@@ -122,4 +122,4 @@ az  Qarabağ          0   0   0   0   0   0   0   0
 kz  Qaırat Almaty    0   0   0   0   0   0   0   0                  
 be  Union SG         0   0   0   0   0   0   0   0                  
 
-Standings from FBRef.com 09.08.25
+Standings from FBRef.com 09.09.25
