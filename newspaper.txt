@@ -19,17 +19,17 @@ LA Galaxy          28   4   8  16  33  56 -23  20  35.5  48.0       D.C. United 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
 Mjällby            22  16   5   1  42  16  26  53                   Bayern Munich       2   2   0   0   9   2   7   6   5.9   1.1
-Hammarby           22  14   3   5  42  21  21  45                   Eint Frankfurt      2   2   0   0   7   2   5   6   4.3   1.9
-AIK Stockholm      22  11   7   4  28  19   9  40                   Köln                2   2   0   0   5   1   4   6   3.4   2.3
+Hammarby           22  14   3   5  42  21  21  45                   Köln                2   2   0   0   5   1   4   6   3.4   2.3
+AIK Stockholm      22  11   7   4  28  19   9  40                   Eint Frankfurt      3   2   0   1   8   5   3   6   5.1   4.0
 Malmö              22  10   8   4  34  18  16  38                   Dortmund            2   1   1   0   6   3   3   4   4.0   2.3
 GAIS               22  10   8   4  33  20  13  38                   St. Pauli           2   1   1   0   5   3   2   4   2.7   1.9
 Göteborg           22  12   2   8  31  27   4  38                   Wolfsburg           2   1   1   0   4   2   2   4   3.0   2.6
-Elfsborg           22  11   3   8  37  32   5  36                   Augsburg            2   1   0   1   5   4   1   3   1.8   6.7
-Djurgården         22   9   7   6  28  20   8  34                   Stuttgart           2   1   0   1   2   2   0   3   2.5   2.2
-Brommapojkarna     22   8   2  12  35  35   0  26                   Hoffenheim          2   1   0   1   3   4  -1   3   1.8   2.3
-Häcken             22   7   5  10  32  38  -6  26                   Union Berlin        2   1   0   1   2   4  -2   3   1.4   4.1
-Norrköping         22   7   4  11  33  43 -10  25                   RB Leipzig          2   1   0   1   2   6  -4   3   2.8   2.7
-Sirius             22   6   5  11  32  36  -4  23                   Leverkusen          2   0   1   1   4   5  -1   1   2.8   3.0
+Elfsborg           22  11   3   8  37  32   5  36                   Leverkusen          3   1   1   1   7   6   1   4   4.9   3.9
+Djurgården         22   9   7   6  28  20   8  34                   Augsburg            2   1   0   1   5   4   1   3   1.8   6.7
+Brommapojkarna     22   8   2  12  35  35   0  26                   Stuttgart           2   1   0   1   2   2   0   3   2.5   2.2
+Häcken             22   7   5  10  32  38  -6  26                   Hoffenheim          2   1   0   1   3   4  -1   3   1.8   2.3
+Norrköping         22   7   4  11  33  43 -10  25                   Union Berlin        2   1   0   1   2   4  -2   3   1.4   4.1
+Sirius             22   6   5  11  32  36  -4  23                   RB Leipzig          2   1   0   1   2   6  -4   3   2.8   2.7
 Halmstad           22   6   3  13  17  42 -25  21                   Mainz 05            2   0   1   1   1   2  -1   1   3.4   2.0
 Öster              22   4   6  12  17  31 -14  18                   Gladbach            2   0   1   1   0   1  -1   1   2.9   1.2
 Degerfors          22   4   4  14  21  44 -23  16                   Hamburger SV        2   0   1   1   0   2  -2   1   0.8   2.5
@@ -42,19 +42,19 @@ Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad       
 Liverpool           3   3   0   0   8   4   4   9   3.4   3.2       Paris S-G           3   3   0   0   8   3   5   9   5.8   2.6
 Chelsea             3   2   1   0   7   1   6   7   6.4   2.3       Lyon                3   3   0   0   5   0   5   9   6.5   2.7
 Arsenal             3   2   0   1   6   1   5   6   4.4   2.2       Lille               3   2   1   0  11   4   7   7   8.0   4.3
-Tottenham           3   2   0   1   5   1   4   6   3.6   4.0       Monaco              3   2   0   1   6   4   2   6   4.9   5.1
-Everton             3   2   0   1   5   3   2   6   4.3   5.5       Lens                3   2   0   1   5   3   2   6   6.3   4.2
-Sunderland          3   2   0   1   5   3   2   6   3.0   2.8       Strasbourg          3   2   0   1   4   3   1   6   4.0   2.7
-Bournemouth         3   2   0   1   4   4   0   6   4.5   2.9       Toulouse            3   2   0   1   6   6   0   6   4.1   4.3
-Crystal Palace      3   1   2   0   4   1   3   5   4.4   3.6       Angers              3   1   1   1   2   2   0   4   2.4   4.2
-Manchester Utd      3   1   1   1   4   4   0   4   6.7   4.3       Rennes              3   1   1   1   2   5  -3   4   3.0   5.8
-Nott'ham Forest     3   1   1   1   4   5  -1   4   3.5   4.9       Marseille           3   1   0   2   5   4   1   3   4.7   4.9
+Tottenham           3   2   0   1   5   1   4   6   3.6   4.0       Marseille           4   2   0   2   9   4   5   6   6.9   5.0
+Everton             3   2   0   1   5   3   2   6   4.3   5.5       Monaco              3   2   0   1   6   4   2   6   4.9   5.1
+Sunderland          3   2   0   1   5   3   2   6   3.0   2.8       Lens                3   2   0   1   5   3   2   6   6.3   4.2
+Bournemouth         3   2   0   1   4   4   0   6   4.5   2.9       Strasbourg          3   2   0   1   4   3   1   6   4.0   2.7
+Crystal Palace      3   1   2   0   4   1   3   5   4.4   3.6       Toulouse            3   2   0   1   6   6   0   6   4.1   4.3
+Manchester Utd      3   1   1   1   4   4   0   4   6.7   4.3       Angers              3   1   1   1   2   2   0   4   2.4   4.2
+Nott'ham Forest     3   1   1   1   4   5  -1   4   3.5   4.9       Rennes              3   1   1   1   2   5  -3   4   3.0   5.8
 Brighton            3   1   1   1   3   4  -1   4   6.1   4.1       Le Havre            3   1   0   2   5   6  -1   3   4.8   3.5
 Leeds United        3   1   1   1   1   5  -4   4   2.9   3.9       Nantes              3   1   0   2   1   2  -1   3   1.0   3.9
 Manchester City     3   1   0   2   5   4   1   3   5.8   3.9       Nice                3   1   0   2   4   5  -1   3   3.3   4.7
 Burnley             3   1   0   2   4   6  -2   3   3.1   6.6       Auxerre             3   1   0   2   2   4  -2   3   3.5   3.7
-Brentford           3   1   0   2   3   5  -2   3   3.8   4.5       Lorient             3   1   0   2   5   8  -3   3   5.4   4.9
-West Ham            3   1   0   2   4   8  -4   3   3.7   4.2       Paris FC            3   1   0   2   5   8  -3   3   5.2   5.0
+Brentford           3   1   0   2   3   5  -2   3   3.8   4.5       Paris FC            3   1   0   2   5   8  -3   3   5.2   5.0
+West Ham            3   1   0   2   4   8  -4   3   3.7   4.2       Lorient             4   1   0   3   5  12  -7   3   5.5   7.1
 Newcastle Utd       3   0   2   1   2   3  -1   2   2.9   1.6       Brest               3   0   1   2   4   8  -4   1   3.9   6.7
 Fulham              3   0   2   1   2   4  -2   2   3.4   5.2       Metz                3   0   0   3   2   7  -5   0   2.7   6.6
 Aston Villa         3   0   1   2   0   4  -4   1   2.5   5.3       
@@ -122,4 +122,4 @@ az  Qarabağ          0   0   0   0   0   0   0   0
 kz  Qaırat Almaty    0   0   0   0   0   0   0   0                  
 be  Union SG         0   0   0   0   0   0   0   0                  
 
-Standings from FBRef.com 09.12.25
+Standings from FBRef.com 09.13.25
