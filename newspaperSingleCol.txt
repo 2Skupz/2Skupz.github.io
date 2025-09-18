@@ -3,13 +3,13 @@ Squad              MP   W   D   L  Pt  GD
 San Diego FC       30  17   5   8  56  18
 Minnesota Utd      30  15   9   6  54  18
 Vancouver W'caps   28  15   7   6  52  23
-Seattle Sounders   28  12   9   7  45  10
-LAFC               27  12   8   7  44  14
+LAFC               28  13   8   7  47  17
+Seattle Sounders   29  12   9   8  45   8
 Portland Timbers   29  11   9   9  42  -1
 Austin             29  11   8  10  41  -5
 Colorado Rapids    30  11   6  13  39  -9
 SJ Earthquakes     30   9   8  13  35   0
-Real Salt Lake     28  10   4  14  34  -7
+Real Salt Lake     29  10   4  15  34 -10
 FC Dallas          29   8  10  11  34  -6
 Houston Dynamo     30   8   9  13  33 -10
 Sporting KC        30   7   6  17  27 -16
@@ -22,10 +22,10 @@ Philadelphia Union 30  17   6   7  57  16
 FC Cincinnati      30  17   4   9  55   7
 Charlotte          30  17   2  11  53  11
 Nashville SC       30  15   5  10  50  15
-Columbus Crew      29  13  10   6  49   5
+NYCFC              29  15   5   9  50   9
+Inter Miami        27  14   7   6  49  13
+Columbus Crew      30  13  10   7  49   4
 Orlando City       29  13   9   7  48  14
-NYCFC              28  14   5   9  47   8
-Inter Miami        26  13   7   6  46  11
 Chicago Fire       29  12   6  11  42   1
 NY Red Bulls       30  11   7  12  40   3
 NE Revolution      30   8   8  14  32  -5
@@ -143,41 +143,41 @@ Lecce               3   0   1   2   1  -5
 
 Champions League
 Cty Squad           MP   W   D   L  Pt  GD
-eng Liverpool        0   0   0   0   0   0
+fr  Paris S-G        1   1   0   0   3   4
+be  Union SG         1   1   0   0   3   2
+de  Bayern Munich    1   1   0   0   3   2
+eng Arsenal          1   1   0   0   3   2
+it  Inter            1   1   0   0   3   2
+az  Qarabağ          1   1   0   0   3   1
+eng Liverpool        1   1   0   0   3   1
+es  Real Madrid      1   1   0   0   3   1
+eng Tottenham        1   1   0   0   3   1
+de  Dortmund         1   0   1   0   1   0
+it  Juventus         1   0   1   0   1   0
+cz  Slavia Prague    1   0   1   0   1   0
+no  Bodø/Glimt       1   0   1   0   1   0
+gr  Olympiacos       1   0   1   0   1   0
+cy  Pafos FC         1   0   1   0   1   0
 eng Manchester City  0   0   0   0   0   0
 eng Newcastle Utd    0   0   0   0   0   0
-eng Arsenal          0   0   0   0   0   0
-eng Chelsea          0   0   0   0   0   0
-eng Tottenham        0   0   0   0   0   0
 de  Eint Frankfurt   0   0   0   0   0   0
-de  Dortmund         0   0   0   0   0   0
-de  Bayern Munich    0   0   0   0   0   0
 de  Leverkusen       0   0   0   0   0   0
-fr  Paris S-G        0   0   0   0   0   0
-fr  Marseille        0   0   0   0   0   0
 fr  Monaco           0   0   0   0   0   0
-es  Real Madrid      0   0   0   0   0   0
 es  Barcelona        0   0   0   0   0   0
-es  Atlético Madrid  0   0   0   0   0   0
-es  Athletic Club    0   0   0   0   0   0
-es  Villarreal       0   0   0   0   0   0
-it  Juventus         0   0   0   0   0   0
 it  Napoli           0   0   0   0   0   0
-it  Inter            0   0   0   0   0   0
-it  Atalanta         0   0   0   0   0   0
-nl  PSV Eindhoven    0   0   0   0   0   0
-nl  Ajax             0   0   0   0   0   0
 tr  Galatasaray      0   0   0   0   0   0
-cz  Slavia Prague    0   0   0   0   0   0
-no  Bodø/Glimt       0   0   0   0   0   0
-pt  Benfica          0   0   0   0   0   0
 pt  Sporting CP      0   0   0   0   0   0
-gr  Olympiacos       0   0   0   0   0   0
 dk  FC Copenhagen    0   0   0   0   0   0
 be  Club Brugge      0   0   0   0   0   0
-cy  Pafos FC         0   0   0   0   0   0
-az  Qarabağ          0   0   0   0   0   0
 kz  Qaırat Almaty    0   0   0   0   0   0
-be  Union SG         0   0   0   0   0   0
+es  Atlético Madrid  1   0   0   1   0  -1
+pt  Benfica          1   0   0   1   0  -1
+fr  Marseille        1   0   0   1   0  -1
+es  Villarreal       1   0   0   1   0  -1
+eng Chelsea          1   0   0   1   0  -2
+nl  PSV Eindhoven    1   0   0   1   0  -2
+es  Athletic Club    1   0   0   1   0  -2
+nl  Ajax             1   0   0   1   0  -2
+it  Atalanta         1   0   0   1   0  -4
 
-Standings from FBRef.com 09.16.25
+Standings from FBRef.com 09.18.25
