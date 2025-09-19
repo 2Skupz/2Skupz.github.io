@@ -143,41 +143,41 @@ Lecce               3   0   1   2   1  -5
 
 Champions League
 Cty Squad           MP   W   D   L  Pt  GD
+de  Eint Frankfurt   1   1   0   0   3   4
 fr  Paris S-G        1   1   0   0   3   4
+pt  Sporting CP      1   1   0   0   3   3
+be  Club Brugge      1   1   0   0   3   3
 be  Union SG         1   1   0   0   3   2
 de  Bayern Munich    1   1   0   0   3   2
 eng Arsenal          1   1   0   0   3   2
 it  Inter            1   1   0   0   3   2
+eng Manchester City  1   1   0   0   3   2
 az  Qarabağ          1   1   0   0   3   1
 eng Liverpool        1   1   0   0   3   1
+es  Barcelona        1   1   0   0   3   1
 es  Real Madrid      1   1   0   0   3   1
 eng Tottenham        1   1   0   0   3   1
 de  Dortmund         1   0   1   0   1   0
 it  Juventus         1   0   1   0   1   0
+de  Leverkusen       1   0   1   0   1   0
 cz  Slavia Prague    1   0   1   0   1   0
 no  Bodø/Glimt       1   0   1   0   1   0
+dk  FC Copenhagen    1   0   1   0   1   0
 gr  Olympiacos       1   0   1   0   1   0
 cy  Pafos FC         1   0   1   0   1   0
-eng Manchester City  0   0   0   0   0   0
-eng Newcastle Utd    0   0   0   0   0   0
-de  Eint Frankfurt   0   0   0   0   0   0
-de  Leverkusen       0   0   0   0   0   0
-fr  Monaco           0   0   0   0   0   0
-es  Barcelona        0   0   0   0   0   0
-it  Napoli           0   0   0   0   0   0
-tr  Galatasaray      0   0   0   0   0   0
-pt  Sporting CP      0   0   0   0   0   0
-dk  FC Copenhagen    0   0   0   0   0   0
-be  Club Brugge      0   0   0   0   0   0
-kz  Qaırat Almaty    0   0   0   0   0   0
 es  Atlético Madrid  1   0   0   1   0  -1
 pt  Benfica          1   0   0   1   0  -1
+eng Newcastle Utd    1   0   0   1   0  -1
 fr  Marseille        1   0   0   1   0  -1
 es  Villarreal       1   0   0   1   0  -1
 eng Chelsea          1   0   0   1   0  -2
 nl  PSV Eindhoven    1   0   0   1   0  -2
 es  Athletic Club    1   0   0   1   0  -2
+it  Napoli           1   0   0   1   0  -2
 nl  Ajax             1   0   0   1   0  -2
+fr  Monaco           1   0   0   1   0  -3
+kz  Qaırat Almaty    1   0   0   1   0  -3
+tr  Galatasaray      1   0   0   1   0  -4
 it  Atalanta         1   0   0   1   0  -4
 
-Standings from FBRef.com 09.18.25
+Standings from FBRef.com 09.19.25
