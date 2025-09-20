@@ -58,15 +58,15 @@ Squad              MP   W   D   L  Pt  GD
 Bayern Munich       3   3   0   0   9  12
 Dortmund            3   2   1   0   7   5
 Köln                3   2   1   0   7   4
-St. Pauli           3   2   1   0   7   3
+St. Pauli           4   2   1   1   7   1
 Eint Frankfurt      3   2   0   1   6   3
 Hoffenheim          3   2   0   1   6   1
+Stuttgart           4   2   0   2   6   0
 RB Leipzig          3   2   0   1   6  -3
 Wolfsburg           3   1   2   0   5   2
 Werder Bremen       3   1   1   1   4   1
 Leverkusen          3   1   1   1   4   1
 Augsburg            3   1   0   2   3   0
-Stuttgart           3   1   0   2   3  -2
 Freiburg            3   1   0   2   3  -3
 Union Berlin        3   1   0   2   3  -4
 Mainz 05            3   0   1   2   1  -2
@@ -100,9 +100,9 @@ Wolves              4   0   0   4   0  -7
 Ligue 1
 Squad              MP   W   D   L  Pt  GD
 Paris S-G           4   4   0   0  12   7
+Lyon                5   4   0   1  12   4
 Lille               4   3   1   0  10   8
 Monaco              4   3   0   1   9   3
-Lyon                4   3   0   1   9   3
 Strasbourg          4   3   0   1   9   2
 Rennes              4   2   1   1   7  -1
 Marseille           4   2   0   2   6   5
@@ -110,7 +110,7 @@ Lens                4   2   0   2   6   0
 Nice                4   2   0   2   6   0
 Toulouse            4   2   0   2   6  -1
 Paris FC            4   2   0   2   6  -2
-Angers              4   1   2   1   5   0
+Angers              5   1   2   2   5  -1
 Nantes              4   1   0   3   3  -2
 Le Havre            4   1   0   3   3  -2
 Auxerre             4   1   0   3   3  -3
@@ -123,11 +123,11 @@ Squad              MP   W   D   L  Pt  GD
 Napoli              3   3   0   0   9   5
 Juventus            3   3   0   0   9   4
 Cremonese           3   2   1   0   7   2
+Cagliari            4   2   1   1   7   2
 Udinese             3   2   1   0   7   2
 Milan               3   2   0   1   6   2
 Roma                3   2   0   1   6   1
 Atalanta            3   1   2   0   5   3
-Cagliari            3   1   1   1   4   1
 Como                3   1   1   1   4   1
 Torino              3   1   1   1   4  -4
 Inter               3   1   0   2   3   3
@@ -139,7 +139,7 @@ Fiorentina          3   0   2   1   2  -2
 Hellas Verona       3   0   2   1   2  -4
 Pisa                3   0   1   2   1  -2
 Parma               3   0   1   2   1  -4
-Lecce               3   0   1   2   1  -5
+Lecce               4   0   1   3   1  -6
 
 Champions League
 Cty Squad           MP   W   D   L  Pt  GD
@@ -180,4 +180,4 @@ kz  Qaırat Almaty    1   0   0   1   0  -3
 tr  Galatasaray      1   0   0   1   0  -4
 it  Atalanta         1   0   0   1   0  -4
 
-Standings from FBRef.com 09.19.25
+Standings from FBRef.com 09.20.25
