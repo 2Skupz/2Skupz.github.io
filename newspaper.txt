@@ -3,15 +3,15 @@ Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad       
 San Diego FC       31  17   6   8  56  38  18  57  46.9  42.5       Philadelphia Union 31  18   6   7  50  33  17  60  53.1  36.5
 Vancouver W'caps   29  16   7   6  56  31  25  55  53.6  32.7       FC Cincinnati      31  18   4   9  47  39   8  58  40.0  46.0
 Minnesota Utd      31  15   9   7  51  36  15  54  42.9  41.9       Charlotte          31  17   2  12  51  42   9  53  46.9  48.2
-LAFC               29  14   8   7  57  37  20  50  50.7  31.1       NYCFC              30  16   5   9  46  35  11  53  44.9  37.7
-Seattle Sounders   30  12   9   9  52  45   7  45  52.6  40.5       Inter Miami        28  15   7   6  60  46  14  52  51.2  40.0
-Austin             30  12   8  10  33  37  -4  44  39.3  42.6       Orlando City       30  14   9   7  58  43  15  51  52.5  39.4
+LAFC               29  14   8   7  57  37  20  50  51.0  31.0       NYCFC              30  16   5   9  46  35  11  53  44.9  37.7
+Seattle Sounders   30  12   9   9  52  45   7  45  52.7  40.6       Inter Miami        28  15   7   6  60  46  14  52  51.2  40.0
+Austin             30  12   8  10  33  37  -4  44  39.4  42.7       Orlando City       30  14   9   7  58  43  15  51  52.5  39.4
 Portland Timbers   30  11   9  10  38  40  -2  42  37.3  44.3       Nashville SC       31  15   5  11  52  38  14  50  53.5  36.7
-Colorado Rapids    31  11   6  14  41  52 -11  39  47.1  54.8       Columbus Crew      31  13  11   7  51  47   4  50  49.1  44.6
+Colorado Rapids    31  11   6  14  41  52 -11  39  47.1  54.8       Columbus Crew      31  13  11   7  51  47   4  50  49.2  44.8
 FC Dallas          30   9  10  11  45  49  -4  37  41.9  44.3       Chicago Fire       30  13   6  11  57  53   4  45  48.6  49.3
 Houston Dynamo     31   9   9  13  40  49  -9  36  40.4  43.6       NY Red Bulls       31  12   7  12  45  40   5  43  43.4  45.7
 SJ Earthquakes     31   9   8  14  56  58  -2  35  59.6  52.1       NE Revolution      31   8   8  15  39  45  -6  32  40.6  46.6
-Real Salt Lake     30  10   4  16  32  45 -13  34  38.6  48.1       Toronto FC         30   5  12  13  30  37  -7  27  28.5  42.1
+Real Salt Lake     30  10   4  16  32  45 -13  34  38.5  48.4       Toronto FC         30   5  12  13  30  37  -7  27  28.8  42.3
 St. Louis          31   7   7  17  39  52 -13  28  45.3  53.4       Atlanta Utd        30   5  12  13  37  55 -18  27  41.7  42.6
 Sporting KC        31   7   6  18  45  63 -18  27  38.7  64.0       D.C. United        31   5  10  16  29  58 -29  25  33.5  47.0
 LA Galaxy          30   4   9  17  37  61 -24  21  38.8  53.7       CF Montréal        31   5   9  17  29  55 -26  24  37.5  47.0
@@ -20,51 +20,51 @@ Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
 Mjällby            24  17   6   1  44  17  27  57                   Bayern Munich       4   4   0   0  18   3  15  12  11.3   2.4
 Hammarby           24  15   4   5  49  24  25  49                   Dortmund            4   3   1   0   9   3   6  10   7.8   3.5
-AIK Stockholm      23  12   7   4  30  20  10  43                   RB Leipzig          4   3   0   1   6   7  -1   9   7.8   5.4
+AIK Stockholm      24  12   7   5  31  23   8  43                   RB Leipzig          4   3   0   1   6   7  -1   9   7.8   5.4
 GAIS               24  11   8   5  35  23  12  41                   Köln                4   2   1   1   9   7   2   7   6.8   7.1
 Göteborg           24  13   2   9  33  29   4  41                   St. Pauli           4   2   1   1   7   6   1   7   5.4   4.8
 Malmö              24  10   9   5  36  21  15  39                   Eint Frankfurt      4   2   0   2  11   9   2   6   7.0   5.7
 Djurgården         24  10   8   6  32  23   9  38                   Freiburg            4   2   0   2   8   8   0   6   7.3   5.0
 Elfsborg           24  11   4   9  39  36   3  37                   Stuttgart           4   2   0   2   5   5   0   6   5.0   4.7
 Brommapojkarna     24   9   2  13  37  37   0  29                   Hoffenheim          4   2   0   2   8  10  -2   6   5.3   7.8
-Sirius             24   7   5  12  36  39  -3  26                   Union Berlin        4   2   0   2   8  11  -3   6   5.7   8.8
-Norrköping         23   7   5  11  34  44 -10  26                   Leverkusen          4   1   2   1   8   7   1   5   6.4   4.6
+Norrköping         24   8   5  11  37  45  -8  29                   Union Berlin        4   2   0   2   8  11  -3   6   5.7   8.8
+Sirius             24   7   5  12  36  39  -3  26                   Leverkusen          4   1   2   1   8   7   1   5   6.3   4.7
 Häcken             24   7   5  12  33  44 -11  26                   Wolfsburg           4   1   2   1   7   6   1   5   5.3   5.4
-Öster              24   5   7  12  22  35 -13  22                   Mainz 05            4   1   1   2   5   4   1   4   7.0   4.8
-Halmstad           23   6   4  13  18  43 -25  22                   Werder Bremen       4   1   1   2   8  10  -2   4   6.4   8.7
+Halmstad           24   7   4  13  20  44 -24  25                   Mainz 05            4   1   1   2   5   4   1   4   7.0   4.8
+Öster              24   5   7  12  22  35 -13  22                   Werder Bremen       4   1   1   2   8  10  -2   4   6.4   8.7
 Degerfors          24   5   4  15  24  46 -22  19                   Hamburger SV        4   1   1   2   2   8  -6   4   3.5   7.9
-Värnamo            23   2   6  15  26  47 -21  12                   Augsburg            4   1   0   3   7  10  -3   3   3.7  11.0
-                                                                    Gladbach            4   0   2   2   1   6  -5   2   5.1   4.8
+Värnamo            24   2   6  16  27  49 -22  12                   Augsburg            4   1   0   3   7  10  -3   3   3.7  11.0
+                                                                    Gladbach            4   0   2   2   1   6  -5   2   5.2   4.7
                                                                     Heidenheim          4   0   0   4   2   9  -7   0   5.0   9.4
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
-Liverpool           5   5   0   0  11   5   6  15   6.9   4.0       Paris S-G           4   4   0   0  10   3   7  12   6.9   4.1
-Arsenal             5   3   1   1  10   2   8  10   7.1   3.3       Monaco              5   4   0   1  13   7   6  12   9.8   8.1
+Liverpool           5   5   0   0  11   5   6  15   6.9   4.0       Monaco              5   4   0   1  13   7   6  12   9.8   8.1
+Arsenal             5   3   1   1  10   2   8  10   7.1   3.3       Paris S-G           5   4   0   1  10   4   6  12   7.6   5.1
 Tottenham           5   3   1   1  10   3   7  10   6.0   5.9       Lyon                5   4   0   1   7   3   4  12  10.0   5.8
 Bournemouth         5   3   1   1   6   5   1  10   6.4   3.7       Strasbourg          5   4   0   1   8   5   3  12   7.4   4.9
 Crystal Palace      5   2   3   0   6   2   4   9   8.3   4.6       Lille               5   3   1   1  13   8   5  10  11.9   8.7
-Chelsea             5   2   2   1  10   5   5   8   8.1   5.5       Lens                5   3   0   2   8   5   3   9  11.3   7.1
-Sunderland          5   2   2   1   6   4   2   8   4.4   5.3       Rennes              5   2   2   1   7   8  -1   8   6.4   9.6
-Fulham              5   2   2   1   6   5   1   8   5.3   6.6       Marseille           4   2   0   2   9   4   5   6   6.9   5.0
+Chelsea             5   2   2   1  10   5   5   8   8.1   5.5       Marseille           5   3   0   2  10   4   6   9   8.0   5.7
+Sunderland          5   2   2   1   6   4   2   8   4.4   5.3       Lens                5   3   0   2   8   5   3   9  11.3   7.1
+Fulham              5   2   2   1   6   5   1   8   5.3   6.6       Rennes              5   2   2   1   7   8  -1   8   6.4   9.6
 Manchester City     5   2   1   2   9   5   4   7   9.4   6.0       Toulouse            5   2   0   3   7   9  -2   6   7.1   7.1
 Everton             5   2   1   2   6   5   1   7   7.0   6.8       Auxerre             5   2   0   3   4   6  -2   6   5.1   7.3
 Manchester Utd      5   2   1   2   6   8  -2   7   9.7   7.3       Nice                5   2   0   3   6   9  -3   6   7.3   7.5
 Leeds United        5   2   1   2   4   7  -3   7   4.2   6.6       Paris FC            5   2   0   3   9  12  -3   6   8.3   9.6
 Newcastle Utd       5   1   3   1   3   3   0   6   4.6   2.5       Angers              5   1   2   2   3   4  -1   5   5.8   7.7
-Brighton            5   1   2   2   6   8  -2   5   8.0   6.7       Le Havre            5   1   1   3   6   8  -2   4   7.4   5.9
+Brighton            5   1   2   2   6   8  -2   5   8.0   6.7       Le Havre            5   1   1   3   6   8  -2   4   7.7   6.1
 Nott'ham Forest     5   1   2   2   5   9  -4   5   4.8   7.6       Brest               5   1   1   3   9  11  -2   4   8.5  10.6
 Burnley             5   1   1   3   5   8  -3   4   4.1  10.3       Nantes              5   1   1   3   3   5  -2   4   3.9   7.0
-Brentford           5   1   1   3   6  10  -4   4   5.8   6.7       Lorient             5   1   1   3   6  13  -7   4   6.5   9.0
+Brentford           5   1   1   3   6  10  -4   4   5.8   6.7       Lorient             5   1   1   3   6  13  -7   4   6.7   9.4
 Aston Villa         5   0   3   2   1   5  -4   3   3.7   8.3       Metz                5   0   1   4   5  13  -8   1   6.5  12.5
 West Ham            5   1   0   4   5  13  -8   3   4.9   7.6       
 Wolves              5   0   0   5   3  12  -9   0   4.4   7.7       
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
+Napoli              4   4   0   0   9   3   6  12   6.5   4.8
 Juventus            4   3   1   0   8   4   4  10   4.3   3.6
 Milan               4   3   0   1   7   2   5   9   6.1   1.0
-Napoli              3   3   0   0   6   1   5   9   5.5   2.4
 Roma                4   3   0   1   3   1   2   9   4.6   2.7
 Atalanta            4   2   2   0   9   3   6   8   6.5   2.9
 Cremonese           4   2   2   0   5   3   2   8   3.3   5.4
@@ -80,7 +80,7 @@ Hellas Verona       4   0   3   1   2   6  -4   3   4.4   5.5
 Genoa               4   0   2   2   2   4  -2   2   3.8   4.7
 Fiorentina          4   0   2   2   3   6  -3   2   4.6   6.1
 Parma               4   0   2   2   1   5  -4   2   4.0   4.3
-Pisa                3   0   1   2   1   3  -2   1   1.7   3.7
+Pisa                4   0   1   3   3   6  -3   1   4.1   4.8
 Lecce               4   0   1   3   2   8  -6   1   2.1   6.7
 
 Champions League
@@ -122,4 +122,4 @@ kz  Qaırat Almaty    1   0   0   1   1   4  -3   0   0.7   3.7
 tr  Galatasaray      1   0   0   1   1   5  -4   0   1.1   1.2      
 it  Atalanta         1   0   0   1   0   4  -4   0   0.6   3.4      
 
-Standings from FBRef.com 09.22.25
+Standings from FBRef.com 09.23.25
