@@ -1,12 +1,12 @@
 MLS West                                                            MLS East
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
 San Diego FC       31  17   6   8  56  38  18  57  46.9  42.5       Philadelphia Union 31  18   6   7  50  33  17  60  53.1  36.5
-Vancouver W'caps   29  16   7   6  56  31  25  55  53.6  32.7       FC Cincinnati      31  18   4   9  47  39   8  58  40.0  46.0
-Minnesota Utd      31  15   9   7  51  36  15  54  42.9  41.9       Charlotte          31  17   2  12  51  42   9  53  46.9  48.2
-LAFC               29  14   8   7  57  37  20  50  51.0  31.0       NYCFC              30  16   5   9  46  35  11  53  44.9  37.7
-Seattle Sounders   30  12   9   9  52  45   7  45  52.7  40.6       Inter Miami        28  15   7   6  60  46  14  52  51.2  40.0
+Vancouver W'caps   30  16   8   6  57  32  25  56  55.7  33.7       FC Cincinnati      31  18   4   9  47  39   8  58  40.0  46.0
+Minnesota Utd      31  15   9   7  51  36  15  54  42.9  41.9       Inter Miami        29  16   7   6  64  46  18  55  53.5  40.9
+LAFC               29  14   8   7  57  37  20  50  51.0  31.0       Charlotte          31  17   2  12  51  42   9  53  46.9  48.2
+Seattle Sounders   30  12   9   9  52  45   7  45  52.7  40.6       NYCFC              31  16   5  10  46  39   7  53  45.8  40.0
 Austin             30  12   8  10  33  37  -4  44  39.4  42.7       Orlando City       30  14   9   7  58  43  15  51  52.5  39.4
-Portland Timbers   30  11   9  10  38  40  -2  42  37.3  44.3       Nashville SC       31  15   5  11  52  38  14  50  53.5  36.7
+Portland Timbers   31  11  10  10  39  41  -2  43  38.3  46.3       Nashville SC       31  15   5  11  52  38  14  50  53.5  36.7
 Colorado Rapids    31  11   6  14  41  52 -11  39  47.1  54.8       Columbus Crew      31  13  11   7  51  47   4  50  49.2  44.8
 FC Dallas          30   9  10  11  45  49  -4  37  41.9  44.3       Chicago Fire       30  13   6  11  57  53   4  45  48.6  49.3
 Houston Dynamo     31   9   9  13  40  49  -9  36  40.4  43.6       NY Red Bulls       31  12   7  12  45  40   5  43  43.4  45.7
@@ -18,7 +18,7 @@ LA Galaxy          30   4   9  17  37  61 -24  21  38.8  53.7       CF Montréal
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
-Mjällby            24  17   6   1  44  17  27  57                   Bayern Munich       4   4   0   0  18   3  15  12  11.3   2.4
+Mjällby            24  17   6   1  44  17  27  57                   Bayern Munich       4   4   0   0  18   3  15  12  11.3   2.5
 Hammarby           24  15   4   5  49  24  25  49                   Dortmund            4   3   1   0   9   3   6  10   7.8   3.5
 AIK Stockholm      24  12   7   5  31  23   8  43                   RB Leipzig          4   3   0   1   6   7  -1   9   7.8   5.4
 GAIS               24  11   8   5  35  23  12  41                   Köln                4   2   1   1   9   7   2   7   6.8   7.1
@@ -26,7 +26,7 @@ Göteborg           24  13   2   9  33  29   4  41                   St. Pauli  
 Malmö              24  10   9   5  36  21  15  39                   Eint Frankfurt      4   2   0   2  11   9   2   6   7.0   5.7
 Djurgården         24  10   8   6  32  23   9  38                   Freiburg            4   2   0   2   8   8   0   6   7.3   5.0
 Elfsborg           24  11   4   9  39  36   3  37                   Stuttgart           4   2   0   2   5   5   0   6   5.0   4.7
-Brommapojkarna     24   9   2  13  37  37   0  29                   Hoffenheim          4   2   0   2   8  10  -2   6   5.3   7.8
+Brommapojkarna     24   9   2  13  37  37   0  29                   Hoffenheim          4   2   0   2   8  10  -2   6   5.4   7.8
 Norrköping         24   8   5  11  37  45  -8  29                   Union Berlin        4   2   0   2   8  11  -3   6   5.7   8.8
 Sirius             24   7   5  12  36  39  -3  26                   Leverkusen          4   1   2   1   8   7   1   5   6.3   4.7
 Häcken             24   7   5  12  33  44 -11  26                   Wolfsburg           4   1   2   1   7   6   1   5   5.3   5.4
@@ -122,4 +122,4 @@ kz  Qaırat Almaty    1   0   0   1   1   4  -3   0   0.7   3.7
 tr  Galatasaray      1   0   0   1   1   5  -4   0   1.1   1.2      
 it  Atalanta         1   0   0   1   0   4  -4   0   0.6   3.4      
 
-Standings from FBRef.com 09.24.25
+Standings from FBRef.com 09.25.25
