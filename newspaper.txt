@@ -18,7 +18,7 @@ LA Galaxy          30   4   9  17  37  61 -24  21  38.8  53.7       CF Montréal
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
-Mjällby            24  17   6   1  44  17  27  57                   Bayern Munich       4   4   0   0  18   3  15  12  11.3   2.5
+Mjällby            24  17   6   1  44  17  27  57                   Bayern Munich       5   5   0   0  22   3  19  15  14.7   2.9
 Hammarby           24  15   4   5  49  24  25  49                   Dortmund            4   3   1   0   9   3   6  10   7.8   3.5
 AIK Stockholm      24  12   7   5  31  23   8  43                   RB Leipzig          4   3   0   1   6   7  -1   9   7.8   5.4
 GAIS               24  11   8   5  35  23  12  41                   Köln                4   2   1   1   9   7   2   7   6.8   7.1
@@ -31,7 +31,7 @@ Norrköping         24   8   5  11  37  45  -8  29                   Union Berli
 Sirius             24   7   5  12  36  39  -3  26                   Leverkusen          4   1   2   1   8   7   1   5   6.3   4.7
 Häcken             24   7   5  12  33  44 -11  26                   Wolfsburg           4   1   2   1   7   6   1   5   5.3   5.4
 Halmstad           24   7   4  13  20  44 -24  25                   Mainz 05            4   1   1   2   5   4   1   4   7.0   4.8
-Öster              24   5   7  12  22  35 -13  22                   Werder Bremen       4   1   1   2   8  10  -2   4   6.4   8.7
+Öster              24   5   7  12  22  35 -13  22                   Werder Bremen       5   1   1   3   8  14  -6   4   6.8  12.1
 Degerfors          24   5   4  15  24  46 -22  19                   Hamburger SV        4   1   1   2   2   8  -6   4   3.5   7.9
 Värnamo            24   2   6  16  27  49 -22  12                   Augsburg            4   1   0   3   7  10  -3   3   3.7  11.0
                                                                     Gladbach            4   0   2   2   1   6  -5   2   5.2   4.7
@@ -39,12 +39,12 @@ Värnamo            24   2   6  16  27  49 -22  12                   Augsburg   
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
-Liverpool           5   5   0   0  11   5   6  15   6.9   4.0       Monaco              5   4   0   1  13   7   6  12   9.8   8.1
-Arsenal             5   3   1   1  10   2   8  10   7.1   3.3       Paris S-G           5   4   0   1  10   4   6  12   7.6   5.1
-Tottenham           5   3   1   1  10   3   7  10   6.0   5.9       Lyon                5   4   0   1   7   3   4  12  10.0   5.8
-Bournemouth         5   3   1   1   6   5   1  10   6.4   3.7       Strasbourg          5   4   0   1   8   5   3  12   7.4   4.9
-Crystal Palace      5   2   3   0   6   2   4   9   8.3   4.6       Lille               5   3   1   1  13   8   5  10  11.9   8.7
-Chelsea             5   2   2   1  10   5   5   8   8.1   5.5       Marseille           5   3   0   2  10   4   6   9   8.0   5.7
+Liverpool           5   5   0   0  11   5   6  15   6.9   4.0       Marseille           6   4   0   2  12   5   7  12  10.1   7.1
+Arsenal             5   3   1   1  10   2   8  10   7.1   3.3       Monaco              5   4   0   1  13   7   6  12   9.8   8.1
+Tottenham           5   3   1   1  10   3   7  10   6.0   5.9       Paris S-G           5   4   0   1  10   4   6  12   7.6   5.1
+Bournemouth         5   3   1   1   6   5   1  10   6.4   3.7       Lyon                5   4   0   1   7   3   4  12  10.0   5.8
+Crystal Palace      5   2   3   0   6   2   4   9   8.3   4.6       Strasbourg          6   4   0   2   9   7   2  12   8.8   6.9
+Chelsea             5   2   2   1  10   5   5   8   8.1   5.5       Lille               5   3   1   1  13   8   5  10  11.9   8.7
 Sunderland          5   2   2   1   6   4   2   8   4.4   5.3       Lens                5   3   0   2   8   5   3   9  11.3   7.1
 Fulham              5   2   2   1   6   5   1   8   5.3   6.6       Rennes              5   2   2   1   7   8  -1   8   6.4   9.6
 Manchester City     5   2   1   2   9   5   4   7   9.4   6.0       Toulouse            5   2   0   3   7   9  -2   6   7.1   7.1
@@ -122,4 +122,4 @@ kz  Qaırat Almaty    1   0   0   1   1   4  -3   0   0.7   3.7
 tr  Galatasaray      1   0   0   1   1   5  -4   0   1.1   1.2      
 it  Atalanta         1   0   0   1   0   4  -4   0   0.6   3.4      
 
-Standings from FBRef.com 09.26.25
+Standings from FBRef.com 09.27.25
