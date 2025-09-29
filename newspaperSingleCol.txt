@@ -19,12 +19,12 @@ LA Galaxy          31   5   9  17  24 -21
 MLS East
 Squad              MP   W   D   L  Pt  GD
 Philadelphia Union 32  19   6   7  63  23
-FC Cincinnati      31  18   4   9  58   8
+FC Cincinnati      32  18   5   9  59   8
 NYCFC              32  17   5  10  56   8
 Inter Miami        30  16   8   6  56  18
 Charlotte          32  17   2  13  53   6
 Nashville SC       32  16   5  11  53  16
-Orlando City       30  14   9   7  51  15
+Orlando City       31  14  10   7  52  15
 Columbus Crew      32  13  11   8  50   2
 Chicago Fire       31  14   6  11  48   6
 NY Red Bulls       32  12   7  13  43   4
@@ -36,22 +36,22 @@ D.C. United        32   5  10  17  25 -35
 
 Allsvenskan
 Squad              MP   W   D   L  Pt  GD
-Mjällby            24  17   6   1  57  27
-Hammarby           24  15   4   5  49  25
-AIK Stockholm      24  12   7   5  43   8
-GAIS               24  11   8   5  41  12
+Mjällby            25  18   6   1  60  28
+Hammarby           25  15   4   6  49  24
+AIK Stockholm      25  12   8   5  44   8
+Malmö              25  11   9   5  42  16
+GAIS               25  11   9   5  42  12
 Göteborg           24  13   2   9  41   4
-Malmö              24  10   9   5  39  15
 Djurgården         24  10   8   6  38   9
 Elfsborg           25  11   4  10  37   2
-Brommapojkarna     24   9   2  13  29   0
+Brommapojkarna     25   9   2  14  29  -1
 Häcken             25   8   5  12  29  -9
 Norrköping         25   8   5  12  29 -10
+Halmstad           25   8   4  13  28 -23
 Sirius             24   7   5  12  26  -3
-Halmstad           24   7   4  13  25 -24
 Öster              24   5   7  12  22 -13
 Degerfors          25   6   4  15  22 -21
-Värnamo            24   2   6  16  12 -22
+Värnamo            25   2   6  17  12 -23
 
 Bundesliga
 Squad              MP   W   D   L  Pt  GD
@@ -59,17 +59,17 @@ Bayern Munich       5   5   0   0  15  19
 Dortmund            5   4   1   0  13   8
 RB Leipzig          5   4   0   1  12   0
 Eint Frankfurt      5   3   0   2   9   4
+Stuttgart           5   3   0   2   9   1
 Leverkusen          5   2   2   1   8   2
-Köln                4   2   1   1   7   2
+Köln                5   2   1   2   7   1
+Freiburg            5   2   1   2   7   0
 St. Pauli           5   2   1   2   7   0
-Freiburg            4   2   0   2   6   0
-Stuttgart           4   2   0   2   6   0
-Hoffenheim          4   2   0   2   6  -2
-Union Berlin        4   2   0   2   6  -3
+Hoffenheim          5   2   1   2   7  -2
+Union Berlin        5   2   1   2   7  -3
 Wolfsburg           5   1   2   2   5   0
+Hamburger SV        5   1   2   2   5  -6
 Mainz 05            5   1   1   3   4  -1
 Werder Bremen       5   1   1   3   4  -6
-Hamburger SV        4   1   1   2   4  -6
 Augsburg            5   1   0   4   3  -4
 Heidenheim          5   1   0   4   3  -6
 Gladbach            5   0   2   3   2  -7
@@ -77,69 +77,69 @@ Gladbach            5   0   2   3   2  -7
 Premier League
 Squad              MP   W   D   L  Pt  GD
 Liverpool           6   5   0   1  15   5
+Arsenal             6   4   1   1  13   9
 Crystal Palace      6   3   3   0  12   5
 Tottenham           6   3   2   1  11   7
 Sunderland          6   3   2   1  11   3
 Bournemouth         6   3   2   1  11   1
 Manchester City     6   3   1   2  10   8
-Arsenal             5   3   1   1  10   8
 Chelsea             6   2   2   2   8   3
-Fulham              5   2   2   1   8   1
 Brighton            6   2   2   2   8   0
+Fulham              6   2   2   2   8  -1
 Leeds United        6   2   2   2   8  -3
 Everton             5   2   1   2   7   1
 Brentford           6   2   1   3   7  -2
 Manchester Utd      6   2   1   3   7  -4
-Newcastle Utd       5   1   3   1   6   0
+Newcastle Utd       6   1   3   2   6  -1
+Aston Villa         6   1   3   2   6  -2
 Nott'ham Forest     6   1   2   3   5  -5
 Burnley             6   1   1   4   4  -7
-Aston Villa         5   0   3   2   3  -4
 West Ham            5   1   0   4   3  -8
 Wolves              6   0   1   5   1  -9
 
 Ligue 1
 Squad              MP   W   D   L  Pt  GD
 Paris S-G           6   5   0   1  15   8
+Lyon                6   5   0   1  15   5
 Marseille           6   4   0   2  12   7
 Monaco              6   4   0   2  12   4
-Lyon                5   4   0   1  12   4
 Strasbourg          6   4   0   2  12   2
-Lille               5   3   1   1  10   5
-Lens                5   3   0   2   9   3
-Rennes              5   2   2   1   8  -1
+Lille               6   3   1   2  10   4
+Lens                6   3   1   2  10   3
+Rennes              6   2   3   1   9  -1
+Brest               6   2   1   3   7   0
 Toulouse            6   2   1   3   7  -2
+Paris FC            6   2   1   3   7  -3
+Nice                6   2   1   3   7  -3
 Lorient             6   2   1   3   7  -5
-Nice                5   2   0   3   6  -3
-Paris FC            5   2   0   3   6  -3
 Auxerre             6   2   0   4   6  -4
-Angers              5   1   2   2   5  -1
+Le Havre            6   1   2   3   5  -2
 Nantes              6   1   2   3   5  -2
-Brest               5   1   1   3   4  -2
-Le Havre            5   1   1   3   4  -2
-Metz                5   0   1   4   1  -8
+Angers              6   1   2   3   5  -3
+Metz                6   0   2   4   2  -8
 
 Serie A
 Squad              MP   W   D   L  Pt  GD
-Napoli              4   4   0   0  12   6
+Milan               5   4   0   1  12   6
+Napoli              5   4   0   1  12   5
+Roma                5   4   0   1  12   4
 Juventus            5   3   2   0  11   4
 Inter               5   3   0   2   9   6
 Atalanta            5   2   3   0   9   6
-Milan               4   3   0   1   9   5
 Cremonese           5   2   3   0   9   2
-Roma                4   3   0   1   9   2
 Como                5   2   2   1   8   2
 Cagliari            5   2   1   2   7   0
-Udinese             4   2   1   1   7  -1
-Bologna             4   2   0   2   6   0
+Bologna             5   2   1   2   7   0
+Udinese             5   2   1   2   7  -3
+Sassuolo            5   2   0   3   6  -1
 Torino              4   1   1   2   4  -7
 Lazio               4   1   0   3   3   0
-Sassuolo            4   1   0   3   3  -3
-Hellas Verona       4   0   3   1   3  -4
+Fiorentina          5   0   3   2   3  -3
+Hellas Verona       5   0   3   2   3  -6
 Genoa               4   0   2   2   2  -2
-Fiorentina          4   0   2   2   2  -3
+Pisa                5   0   2   3   2  -3
 Parma               4   0   2   2   2  -4
-Pisa                4   0   1   3   1  -3
-Lecce               4   0   1   3   1  -6
+Lecce               5   0   2   3   2  -6
 
 Champions League
 Cty Squad           MP   W   D   L  Pt  GD
@@ -180,4 +180,4 @@ kz  Qaırat Almaty    1   0   0   1   0  -3
 tr  Galatasaray      1   0   0   1   0  -4
 it  Atalanta         1   0   0   1   0  -4
 
-Standings from FBRef.com 09.28.25
+Standings from FBRef.com 09.29.25
