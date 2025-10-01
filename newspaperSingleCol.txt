@@ -1,4 +1,5 @@
 MLS West
+--------
 Squad              MP   W   D   L  Pt  GD
 San Diego FC       32  17   6   9  57  17
 Vancouver W'caps   31  16   9   6  57  25
@@ -16,17 +17,40 @@ St. Louis          32   7   7  18  28 -16
 Sporting KC        32   7   6  19  27 -21
 LA Galaxy          31   5   9  17  24 -21
 
+MLS Fixtures
+------------
+Sunday, September 28
+  Cincinnati           1–1   Orlando City
+Tuesday, September 30
+  Inter Miami          3–5   Chicago Fire
+Saturday, October 04
+  Montreal             vs    Nashville
+  DC United            vs    Charlotte
+  Dallas               vs    Galaxy
+  NY Red Bulls         vs    Cincinnati
+  Philadelphia         vs    NYCFC
+  Orlando City         vs    Columbus
+  Inter Miami          vs    NE Revolution
+  Minnesota Utd        vs    Sporting KC
+  RSL                  vs    Colorado
+  Seattle Sounders     vs    Portland
+  Austin               vs    St. Louis
+  Houston Dynamo       vs    San Diego
+  Chicago Fire         vs    Toronto
+
+
 MLS East
+--------
 Squad              MP   W   D   L  Pt  GD
 Philadelphia Union 32  19   6   7  63  23
 FC Cincinnati      32  18   5   9  59   8
 NYCFC              32  17   5  10  56   8
-Inter Miami        30  16   8   6  56  18
+Inter Miami        31  16   8   7  56  16
 Charlotte          32  17   2  13  53   6
 Nashville SC       32  16   5  11  53  16
 Orlando City       31  14  10   7  52  15
+Chicago Fire       32  15   6  11  51   8
 Columbus Crew      32  13  11   8  50   2
-Chicago Fire       31  14   6  11  48   6
 NY Red Bulls       32  12   7  13  43   4
 NE Revolution      32   9   8  15  35  -4
 Toronto FC         31   5  13  13  28  -7
@@ -34,7 +58,30 @@ CF Montréal        32   6   9  17  27 -23
 Atlanta Utd        31   5  12  14  27 -20
 D.C. United        32   5  10  17  25 -35
 
+MLS Fixtures
+------------
+Sunday, September 28
+  Cincinnati           1–1   Orlando City
+Tuesday, September 30
+  Inter Miami          3–5   Chicago Fire
+Saturday, October 04
+  Montreal             vs    Nashville
+  DC United            vs    Charlotte
+  Dallas               vs    Galaxy
+  NY Red Bulls         vs    Cincinnati
+  Philadelphia         vs    NYCFC
+  Orlando City         vs    Columbus
+  Inter Miami          vs    NE Revolution
+  Minnesota Utd        vs    Sporting KC
+  RSL                  vs    Colorado
+  Seattle Sounders     vs    Portland
+  Austin               vs    St. Louis
+  Houston Dynamo       vs    San Diego
+  Chicago Fire         vs    Toronto
+
+
 Allsvenskan
+-----------
 Squad              MP   W   D   L  Pt  GD
 Mjällby            25  18   6   1  60  28
 Hammarby           25  15   4   6  49  24
@@ -53,7 +100,25 @@ Sirius             25   7   5  13  26  -9
 Degerfors          25   6   4  15  22 -21
 Värnamo            25   2   6  17  12 -23
 
+Allsvenskan Fixtures
+--------------------
+Sunday, September 28
+  Halmstad             1–0   Hammarby
+  Brommapojkarna       0–1   Mjällby
+  AIK Stockholm        1–1   GAIS
+  Malmö                3–2   Värnamo
+Monday, September 29
+  Djurgården           8–2   Sirius
+  Öster                0–2   Göteborg
+Saturday, October 04
+  Degerfors            vs    Djurgården
+  Mjällby              vs    Elfsborg
+  Öster                vs    Halmstad
+  GAIS                 vs    Norrköping
+
+
 Bundesliga
+----------
 Squad              MP   W   D   L  Pt  GD
 Bayern Munich       5   5   0   0  15  19
 Dortmund            5   4   1   0  13   8
@@ -74,7 +139,24 @@ Augsburg            5   1   0   4   3  -4
 Heidenheim          5   1   0   4   3  -6
 Gladbach            5   0   2   3   2  -7
 
+Bundesliga Fixtures
+-------------------
+Sunday, September 28
+  Freiburg             1–1   Hoffenheim
+  Köln                 1–2   Stuttgart
+  Union Berlin         0–0   Hamburger SV
+Friday, October 03
+  Hoffenheim           vs    Köln
+Saturday, October 04
+  Dortmund             vs    RB Leipzig
+  Augsburg             vs    Wolfsburg
+  Werder Bremen        vs    St. Pauli
+  Leverkusen           vs    Union Berlin
+  Eint Frankfurt       vs    Bayern Munich
+
+
 Premier League
+--------------
 Squad              MP   W   D   L  Pt  GD
 Liverpool           6   5   0   1  15   5
 Arsenal             6   4   1   1  13   9
@@ -97,7 +179,24 @@ Burnley             6   1   1   4   4  -7
 West Ham            6   1   1   4   4  -8
 Wolves              6   0   1   5   1  -9
 
+Premier League Fixtures
+-----------------------
+Sunday, September 28
+  Aston Villa          3–1   Fulham
+  Newcastle Utd        1–2   Arsenal
+Monday, September 29
+  Everton              1–1   West Ham
+Friday, October 03
+  Bournemouth          vs    Fulham
+Saturday, October 04
+  Leeds United         vs    Tottenham
+  Arsenal              vs    West Ham
+  Manchester Utd       vs    Sunderland
+  Chelsea              vs    Liverpool
+
+
 Ligue 1
+-------
 Squad              MP   W   D   L  Pt  GD
 Paris S-G           6   5   0   1  15   8
 Lyon                6   5   0   1  15   5
@@ -118,7 +217,24 @@ Nantes              6   1   2   3   5  -2
 Angers              6   1   2   3   5  -3
 Metz                6   0   2   4   2  -8
 
+Ligue 1 Fixtures
+----------------
+Sunday, September 28
+  Nice                 1–1   Paris FC
+  Metz                 0–0   Le Havre
+  Lille                0–1   Lyon
+  Angers               0–2   Brest
+  Rennes               0–0   Lens
+Friday, October 03
+  Paris FC             vs    Lorient
+Saturday, October 04
+  Metz                 vs    Marseille
+  Brest                vs    Nantes
+  Auxerre              vs    Lens
+
+
 Serie A
+-------
 Squad              MP   W   D   L  Pt  GD
 Milan               5   4   0   1  12   6
 Napoli              5   4   0   1  12   5
@@ -141,43 +257,88 @@ Pisa                5   0   2   3   2  -3
 Genoa               5   0   2   3   2  -5
 Lecce               5   0   2   3   2  -6
 
+Serie A Fixtures
+----------------
+Sunday, September 28
+  Sassuolo             3–1   Udinese
+  Roma                 2–0   Hellas Verona
+  Pisa                 0–0   Fiorentina
+  Lecce                2–2   Bologna
+  Milan                2–1   Napoli
+Monday, September 29
+  Parma                2–1   Torino
+  Genoa                0–3   Lazio
+Friday, October 03
+  Hellas Verona        vs    Sassuolo
+Saturday, October 04
+  Lazio                vs    Torino
+  Parma                vs    Lecce
+  Inter                vs    Cremonese
+  Atalanta             vs    Como
+
+
 Champions League
+----------------
 Cty Squad           MP   W   D   L  Pt  GD
-de  Eint Frankfurt   1   1   0   0   3   4
+de  Bayern Munich    2   2   0   0   6   6
+es  Real Madrid      2   2   0   0   6   6
+it  Inter            2   2   0   0   6   5
+eng Tottenham        2   1   1   0   4   1
 fr  Paris S-G        1   1   0   0   3   4
+es  Atlético Madrid  2   1   0   1   3   3
+fr  Marseille        2   1   0   1   3   3
 pt  Sporting CP      1   1   0   0   3   3
-be  Club Brugge      1   1   0   0   3   3
+be  Club Brugge      2   1   0   1   3   2
 be  Union SG         1   1   0   0   3   2
-de  Bayern Munich    1   1   0   0   3   2
 eng Arsenal          1   1   0   0   3   2
-it  Inter            1   1   0   0   3   2
 eng Manchester City  1   1   0   0   3   2
 az  Qarabağ          1   1   0   0   3   1
-eng Liverpool        1   1   0   0   3   1
 es  Barcelona        1   1   0   0   3   1
-es  Real Madrid      1   1   0   0   3   1
-eng Tottenham        1   1   0   0   3   1
+de  Eint Frankfurt   2   1   0   1   3   0
+eng Liverpool        2   1   0   1   3   0
+eng Chelsea          2   1   0   1   3  -1
+it  Atalanta         2   1   0   1   3  -3
+tr  Galatasaray      2   1   0   1   3  -3
+no  Bodø/Glimt       2   0   2   0   2   0
 de  Dortmund         1   0   1   0   1   0
 it  Juventus         1   0   1   0   1   0
 de  Leverkusen       1   0   1   0   1   0
-cz  Slavia Prague    1   0   1   0   1   0
-no  Bodø/Glimt       1   0   1   0   1   0
 dk  FC Copenhagen    1   0   1   0   1   0
 gr  Olympiacos       1   0   1   0   1   0
-cy  Pafos FC         1   0   1   0   1   0
-es  Atlético Madrid  1   0   0   1   0  -1
-pt  Benfica          1   0   0   1   0  -1
+cz  Slavia Prague    2   0   1   1   1  -3
+cy  Pafos FC         2   0   1   1   1  -4
 eng Newcastle Utd    1   0   0   1   0  -1
-fr  Marseille        1   0   0   1   0  -1
 es  Villarreal       1   0   0   1   0  -1
-eng Chelsea          1   0   0   1   0  -2
+pt  Benfica          2   0   0   2   0  -2
 nl  PSV Eindhoven    1   0   0   1   0  -2
 es  Athletic Club    1   0   0   1   0  -2
 it  Napoli           1   0   0   1   0  -2
-nl  Ajax             1   0   0   1   0  -2
 fr  Monaco           1   0   0   1   0  -3
-kz  Qaırat Almaty    1   0   0   1   0  -3
-tr  Galatasaray      1   0   0   1   0  -4
-it  Atalanta         1   0   0   1   0  -4
+nl  Ajax             2   0   0   2   0  -6
+kz  Qaırat Almaty    2   0   0   2   0  -8
 
-Standings from FBRef.com 09.30.25
+Champions League Fixtures
+-------------------------
+Tuesday, September 30
+  Atalantait           2–1   beClub Brugge
+  Chelseaeng           1–0   ptBenfica
+  Atlético Madrides    5–1   deEint Frankfurt
+  Interit              3–0   czSlavia Prague
+  Bodø/Glimtno         2–2   engTottenham
+  Marseillefr          4–0   nlAjax
+  Qaırat Almatykz      0–5   esReal Madrid
+  Galatasaraytr        1–0   engLiverpool
+  Pafos FCcy           1–5   deBayern Munich
+Wednesday, October 01
+  Union SGbe           vs    engNewcastle Utd
+  Arsenaleng           vs    grOlympiacos
+  Qarabağaz            vs    dkFC Copenhagen
+  Barcelonaes          vs    frParis S-G
+  Leverkusende         vs    nlPSV Eindhoven
+  Napoliit             vs    ptSporting CP
+  Dortmundde           vs    esAthletic Club
+  Monacofr             vs    engManchester City
+  Villarreales         vs    itJuventus
+
+
+Standings from FBRef.com 10.01.25
