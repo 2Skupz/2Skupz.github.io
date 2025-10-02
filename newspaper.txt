@@ -18,8 +18,6 @@ LA Galaxy          31   5   9  17  41  62 -21  24  43.2  55.2       D.C. United 
 
 MLS Fixtures
 ------------
-Sunday, September 28
-  Cincinnati           1–1   Orlando City
 Tuesday, September 30
   Inter Miami          3–5   Chicago Fire
 Saturday, October 04
@@ -36,6 +34,9 @@ Saturday, October 04
   Austin               vs    St. Louis
   Houston Dynamo       vs    San Diego
   Chicago Fire         vs    Toronto
+Sunday, October 05
+  Vancouver W'caps     vs    SJ Earthquakes
+  LAFC                 vs    Atlanta Utd
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD  Pts                  Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
@@ -60,19 +61,19 @@ Värnamo            25   2   6  17  29  52 -23  12                   Augsburg   
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Sunday, September 28                                                Sunday, September 28
-  Halmstad             1–0   Hammarby                                 Freiburg             1–1   Hoffenheim
-  Brommapojkarna       0–1   Mjällby                                  Köln                 1–2   Stuttgart
-  AIK Stockholm        1–1   GAIS                                     Union Berlin         0–0   Hamburger SV
-  Malmö                3–2   Värnamo                                Friday, October 03
-Monday, September 29                                                  Hoffenheim           vs    Köln
-  Djurgården           8–2   Sirius                                 Saturday, October 04
-  Öster                0–2   Göteborg                                 Dortmund             vs    RB Leipzig
-Saturday, October 04                                                  Augsburg             vs    Wolfsburg
-  Degerfors            vs    Djurgården                               Werder Bremen        vs    St. Pauli
-  Mjällby              vs    Elfsborg                                 Leverkusen           vs    Union Berlin
-  Öster                vs    Halmstad                                 Eint Frankfurt       vs    Bayern Munich
-  GAIS                 vs    Norrköping                             
+Monday, September 29                                                Friday, October 03
+  Djurgården           8–2   Sirius                                   Hoffenheim           vs    Köln
+  Öster                0–2   Göteborg                               Saturday, October 04
+Saturday, October 04                                                  Dortmund             vs    RB Leipzig
+  Degerfors            vs    Djurgården                               Augsburg             vs    Wolfsburg
+  Mjällby              vs    Elfsborg                                 Werder Bremen        vs    St. Pauli
+  Öster                vs    Halmstad                                 Leverkusen           vs    Union Berlin
+  GAIS                 vs    Norrköping                               Eint Frankfurt       vs    Bayern Munich
+Sunday, October 05                                                  Sunday, October 05
+  AIK Stockholm        vs    Värnamo                                  Stuttgart            vs    Heidenheim
+  Göteborg             vs    Hammarby                                 Hamburger SV         vs    Mainz 05
+  Sirius               vs    Malmö                                    Gladbach             vs    Freiburg
+  Brommapojkarna       vs    Häcken                                 
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA       Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
@@ -99,18 +100,21 @@ Wolves              6   0   1   5   4  13  -9   1   5.5   8.5
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Sunday, September 28                                                Sunday, September 28
-  Aston Villa          3–1   Fulham                                   Nice                 1–1   Paris FC
-  Newcastle Utd        1–2   Arsenal                                  Metz                 0–0   Le Havre
-Monday, September 29                                                  Lille                0–1   Lyon
-  Everton              1–1   West Ham                                 Angers               0–2   Brest
-Friday, October 03                                                    Rennes               0–0   Lens
-  Bournemouth          vs    Fulham                                 Friday, October 03
-Saturday, October 04                                                  Paris FC             vs    Lorient
-  Leeds United         vs    Tottenham                              Saturday, October 04
-  Arsenal              vs    West Ham                                 Metz                 vs    Marseille
-  Manchester Utd       vs    Sunderland                               Brest                vs    Nantes
-  Chelsea              vs    Liverpool                                Auxerre              vs    Lens
+Monday, September 29                                                Friday, October 03
+  Everton              1–1   West Ham                                 Paris FC             vs    Lorient
+Friday, October 03                                                  Saturday, October 04
+  Bournemouth          vs    Fulham                                   Metz                 vs    Marseille
+Saturday, October 04                                                  Brest                vs    Nantes
+  Leeds United         vs    Tottenham                                Auxerre              vs    Lens
+  Arsenal              vs    West Ham                               Sunday, October 05
+  Manchester Utd       vs    Sunderland                               Lyon                 vs    Toulouse
+  Chelsea              vs    Liverpool                                Strasbourg           vs    Angers
+Sunday, October 05                                                    Monaco               vs    Nice
+  Newcastle Utd        vs    Nott'ham Forest                          Le Havre             vs    Rennes
+  Everton              vs    Crystal Palace                           Lille                vs    Paris S-G
+  Wolves               vs    Brighton                               
+  Aston Villa          vs    Burnley                                
+  Brentford            vs    Manchester City                        
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
@@ -137,12 +141,6 @@ Lecce               5   0   2   3   4  10  -6   2   3.9   8.0
 
 Serie A Fixtures                                                    
 ----------------                                                    
-Sunday, September 28                                                
-  Sassuolo             3–1   Udinese                                
-  Roma                 2–0   Hellas Verona                          
-  Pisa                 0–0   Fiorentina                             
-  Lecce                2–2   Bologna                                
-  Milan                2–1   Napoli                                 
 Monday, September 29                                                
   Parma                2–1   Torino                                 
   Genoa                0–3   Lazio                                  
@@ -153,43 +151,49 @@ Saturday, October 04
   Parma                vs    Lecce                                  
   Inter                vs    Cremonese                              
   Atalanta             vs    Como                                   
+Sunday, October 05                                                  
+  Udinese              vs    Cagliari                               
+  Bologna              vs    Pisa                                   
+  Fiorentina           vs    Roma                                   
+  Napoli               vs    Genoa                                  
+  Juventus             vs    Milan                                  
 
 Champions League
 Cty Squad           MP   W   D   L  GF  GA  GD  Pts  xGF   xGA
 de  Bayern Munich    2   2   0   0   8   2   6   6   6.7   1.1      
 es  Real Madrid      2   2   0   0   7   1   6   6   7.1   1.2      
+fr  Paris S-G        2   2   0   0   6   1   5   6   4.9   1.9      
 it  Inter            2   2   0   0   5   0   5   6   5.2   1.4      
+eng Arsenal          2   2   0   0   4   0   4   6   4.0   0.9      
+az  Qarabağ          2   2   0   0   5   2   3   6   3.6   2.6      
+de  Dortmund         2   1   1   0   8   5   3   4   2.6   2.9      
+eng Manchester City  2   1   1   0   4   2   2   4   3.5   1.5      
 eng Tottenham        2   1   1   0   3   2   1   4   1.9   3.0      
-fr  Paris S-G        1   1   0   0   4   0   4   3   3.4   0.6      
 es  Atlético Madrid  2   1   0   1   7   4   3   3   4.8   3.2      
+eng Newcastle Utd    2   1   0   1   5   2   3   3   3.9   1.9      
 fr  Marseille        2   1   0   1   5   2   3   3   1.9   4.4      
-pt  Sporting CP      1   1   0   0   4   1   3   3   3.7   0.7      
+pt  Sporting CP      2   1   0   1   5   3   2   3   5.0   1.5      
 be  Club Brugge      2   1   0   1   5   3   2   3   3.9   4.1      
-be  Union SG         1   1   0   0   3   1   2   3   3.0   2.1      
-eng Arsenal          1   1   0   0   2   0   2   3   1.3   0.3      
-eng Manchester City  1   1   0   0   2   0   2   3   2.1   0.2      
-az  Qarabağ          1   1   0   0   3   2   1   3   1.5   1.4      
-es  Barcelona        1   1   0   0   2   1   1   3   1.1   1.2      
 de  Eint Frankfurt   2   1   0   1   6   6   0   3   1.7   5.4      
+es  Barcelona        2   1   0   1   3   3   0   3   2.4   2.7      
 eng Liverpool        2   1   0   1   3   3   0   3   4.4   2.2      
 eng Chelsea          2   1   0   1   2   3  -1   3   1.4   3.0      
+it  Napoli           2   1   0   1   2   3  -1   3   1.0   3.3      
+be  Union SG         2   1   0   1   3   5  -2   3   3.8   4.8      
 it  Atalanta         2   1   0   1   2   5  -3   3   3.1   4.3      
 tr  Galatasaray      2   1   0   1   2   5  -3   3   2.8   2.9      
+it  Juventus         2   0   2   0   6   6   0   2   3.5   3.2      
 no  Bodø/Glimt       2   0   2   0   4   4   0   2   5.3   5.3      
-de  Dortmund         1   0   1   0   4   4   0   1   1.5   1.9      
-it  Juventus         1   0   1   0   4   4   0   1   1.9   1.5      
-de  Leverkusen       1   0   1   0   2   2   0   1   1.2   1.9      
-dk  FC Copenhagen    1   0   1   0   2   2   0   1   1.9   1.2      
-gr  Olympiacos       1   0   1   0   0   0   0   1   1.5   0.3      
+de  Leverkusen       2   0   2   0   3   3   0   2   3.0   2.4      
+es  Villarreal       2   0   1   1   2   3  -1   1   2.1   2.1      
+nl  PSV Eindhoven    2   0   1   1   2   4  -2   1   2.6   4.9      
+dk  FC Copenhagen    2   0   1   1   2   4  -2   1   3.1   3.3      
+gr  Olympiacos       2   0   1   1   0   2  -2   1   2.0   3.0      
+fr  Monaco           2   0   1   1   3   6  -3   1   2.9   4.4      
 cz  Slavia Prague    2   0   1   1   2   5  -3   1   4.1   6.8      
 cy  Pafos FC         2   0   1   1   1   5  -4   1   0.7   6.0      
-eng Newcastle Utd    1   0   0   1   1   2  -1   0   1.2   1.1      
-es  Villarreal       1   0   0   1   0   1  -1   0   0.5   0.5      
 pt  Benfica          2   0   0   2   2   4  -2   0   2.2   2.2      
-nl  PSV Eindhoven    1   0   0   1   1   3  -2   0   2.1   3.0      
-es  Athletic Club    1   0   0   1   0   2  -2   0   0.3   1.3      
-it  Napoli           1   0   0   1   0   2  -2   0   0.2   2.1      
-fr  Monaco           1   0   0   1   1   4  -3   0   1.5   3.0      
+es  Athletic Club    2   0   0   2   1   6  -5   0   1.3   2.3      
 nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3      
 kz  Qaırat Almaty    2   0   0   2   1   9  -8   0   1.1   7.2      
 
@@ -206,14 +210,14 @@ Tuesday, September 30
   Galatasaraytr        1–0   engLiverpool
   Pafos FCcy           1–5   deBayern Munich
 Wednesday, October 01
-  Union SGbe           vs    engNewcastle Utd
-  Arsenaleng           vs    grOlympiacos
-  Qarabağaz            vs    dkFC Copenhagen
-  Barcelonaes          vs    frParis S-G
-  Leverkusende         vs    nlPSV Eindhoven
-  Napoliit             vs    ptSporting CP
-  Dortmundde           vs    esAthletic Club
-  Monacofr             vs    engManchester City
-  Villarreales         vs    itJuventus
+  Union SGbe           0–4   engNewcastle Utd
+  Arsenaleng           2–0   grOlympiacos
+  Qarabağaz            2–0   dkFC Copenhagen
+  Barcelonaes          1–2   frParis S-G
+  Leverkusende         1–1   nlPSV Eindhoven
+  Napoliit             2–1   ptSporting CP
+  Dortmundde           4–1   esAthletic Club
+  Monacofr             2–2   engManchester City
+  Villarreales         2–2   itJuventus
 
-Standings from FBRef.com 10.01.25
+Standings from FBRef.com 10.02.25
