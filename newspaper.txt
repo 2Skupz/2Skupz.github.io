@@ -1,20 +1,20 @@
 MLS West                                                            MLS East
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-San Diego          33  18   6   9  60  41  19  60  51.5  45.8       Philadelphia       33  20   6   7  57  33  24  66  56.3  38.6
-Minnesota          33  16  10   7  55  37  18  58  45.4  44.2       Cincinnati         33  19   5   9  49  40   9  62  42.7  50.3
-Vancouver          31  16   9   6  59  34  25  57  56.6  34.9       Inter Miami        32  17   8   7  72  53  19  59  61.1  45.5
-LAFC               30  15   8   7  60  37  23  53  53.0  31.6       Charlotte          33  18   2  13  53  46   7  56  48.3  51.4
-Seattle            32  13  10   9  55  47   8  49  55.1  41.9       New York City      33  17   5  11  49  42   7  56  49.4  43.2
-Austin             32  12   8  12  35  43  -8  44  41.0  46.3       Nashville          33  16   6  11  56  40  16  54  57.2  38.1
-Portland           33  11  11  11  41  44  -3  44  40.8  50.3       Orlando City       32  14  11   7  60  45  15  53  56.7  43.8
-Dallas             32  10  11  11  49  52  -3  41  45.8  46.6       Chicago            33  15   7  11  66  58   8  52  53.7  54.0
-Real Salt Lake     32  12   4  16  36  46 -10  40  40.3  50.9       Columbus           33  13  12   8  52  50   2  51  52.4  48.0
-Colorado           33  11   7  15  42  54 -12  40  50.3  56.3       Red Bull NY        33  12   7  14  47  44   3  43  45.9  49.5
-San Jose           32  10   8  14  57  58  -1  38  60.5  54.4       New England        33   9   8  16  42  49  -7  35  42.7  49.5
-Houston            33   9   9  15  43  56 -13  36  43.2  48.2       Toronto            32   5  14  13  33  40  -7  29  31.4  44.4
-St. Louis          33   8   7  18  42  56 -14  31  48.3  56.5       Montreal           33   6  10  17  34  57 -23  28  40.9  49.3
-Sporting KC        33   7   6  20  46  70 -24  27  41.3  70.0       Atlanta            31   5  12  14  37  57 -20  27  42.5  44.0
-Galaxy             32   5   9  18  42  64 -22  24  43.6  56.5       DC United          33   5  10  18  29  65 -36  25  35.7  49.8
+San Diego          33  18   6   9  60  41  19  60  51.4  45.7       Philadelphia       33  20   6   7  57  33  24  66  56.3  38.7
+Vancouver          32  17   9   6  63  35  28  60  59.2  35.4       Cincinnati         33  19   5   9  49  40   9  62  42.4  50.2
+Minnesota          33  16  10   7  55  37  18  58  45.3  44.2       Inter Miami        32  17   8   7  72  53  19  59  61.6  45.5
+LAFC               31  16   8   7  61  37  24  56  54.6  31.7       Charlotte          33  18   2  13  53  46   7  56  48.3  51.2
+Seattle            32  13  10   9  55  47   8  49  55.1  41.9       New York City      33  17   5  11  49  42   7  56  49.5  43.2
+Austin             32  12   8  12  35  43  -8  44  40.9  46.6       Nashville          33  16   6  11  56  40  16  54  57.3  38.1
+Portland           33  11  11  11  41  44  -3  44  40.8  50.3       Orlando City       32  14  11   7  60  45  15  53  56.7  44.2
+Dallas             32  10  11  11  49  52  -3  41  45.7  46.7       Chicago            33  15   7  11  66  58   8  52  53.8  54.0
+Real Salt Lake     32  12   4  16  36  46 -10  40  40.3  51.0       Columbus           33  13  12   8  52  50   2  51  52.9  48.1
+Colorado           33  11   7  15  42  54 -12  40  50.4  56.2       Red Bull NY        33  12   7  14  47  44   3  43  45.8  49.1
+San Jose           33  10   8  15  58  62  -4  38  60.9  57.0       New England        33   9   8  16  42  49  -7  35  42.8  49.9
+Houston            33   9   9  15  43  56 -13  36  43.0  48.2       Toronto            32   5  14  13  33  40  -7  29  31.4  44.5
+St. Louis          33   8   7  18  42  56 -14  31  48.6  56.4       Montreal           33   6  10  17  34  57 -23  28  40.9  49.4
+Sporting KC        33   7   6  20  46  70 -24  27  41.2  70.0       Atlanta            32   5  12  15  37  58 -21  27  42.5  45.6
+Galaxy             32   5   9  18  42  64 -22  24  43.6  56.3       DC United          33   5  10  18  29  65 -36  25  35.6  49.8
 
 MLS Fixtures
 ------------
@@ -33,31 +33,31 @@ Saturday, October 04
   Houston              2–4   San Diego
   Chicago              2–2   Toronto
 Sunday, October 05
-  Vancouver            vs    San Jose
-  LAFC                 vs    Atlanta
+  Vancouver            4–1   San Jose
+  LAFC                 1–0   Atlanta
 Wednesday, October 08
   LAFC                 vs    Toronto
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-Mjällby            26  19   6   1  47  17  30  63                   Bayern Munich       6   6   0   0  25   3  22  18  16.4   3.3
-Hammarby           25  15   4   6  49  25  24  49                   Dortmund            6   4   2   0  12   4   8  14  10.1   5.1
+Mjällby            26  19   6   1  47  17  30  63                   Bayern Munich       6   6   0   0  25   3  22  18  16.4   3.2
+Hammarby           26  16   4   6  51  26  25  52                   Dortmund            6   4   2   0  12   4   8  14  10.1   5.1
 GAIS               26  12   9   5  38  25  13  45                   RB Leipzig          6   4   1   1   8   8   0  13  11.1   9.3
-AIK Stockholm      25  12   8   5  32  24   8  44                   Leverkusen          6   3   2   1  12   8   4  11  10.1   6.3
-Göteborg           25  14   2   9  35  29   6  44                   Köln                6   3   1   2  11   9   2  10   9.0  10.1
-Malmö              25  11   9   5  39  23  16  42                   Eint Frankfurt      6   3   0   3  17  16   1   9  10.2   9.0
-Djurgården         26  11   9   6  41  26  15  42                   Stuttgart           5   3   0   2   7   6   1   9   6.9   5.7
-Elfsborg           26  11   4  11  40  40   0  37                   Freiburg            5   2   1   2   9   9   0   7   8.5   7.5
-Brommapojkarna     25   9   2  14  37  38  -1  29                   St. Pauli           6   2   1   3   8   9  -1   7   7.0   7.5
-Häcken             25   8   5  12  35  44  -9  29                   Hoffenheim          6   2   1   3   9  12  -3   7   9.0  10.2
+AIK Stockholm      26  12   8   6  34  27   7  44                   Stuttgart           6   4   0   2   8   6   2  12   7.9   6.3
+Göteborg           26  14   2  10  36  31   5  44                   Leverkusen          6   3   2   1  12   8   4  11  10.1   6.3
+Djurgården         26  11   9   6  41  26  15  42                   Köln                6   3   1   2  11   9   2  10   9.0  10.1
+Malmö              26  11   9   6  40  28  12  42                   Eint Frankfurt      6   3   0   3  17  16   1   9  10.1   9.0
+Elfsborg           26  11   4  11  40  40   0  37                   Freiburg            6   2   2   2   9   9   0   8   9.2   8.0
+Häcken             26   9   5  12  38  45  -7  32                   Hamburger SV        6   2   2   2   6   8  -2   8   6.4   9.9
+Brommapojkarna     26   9   2  15  38  41  -3  29                   St. Pauli           6   2   1   3   8   9  -1   7   7.0   7.5
+Sirius             26   8   5  13  43  48  -5  29                   Hoffenheim          6   2   1   3   9  12  -3   7   9.0  10.2
 Norrköping         26   8   5  13  38  49 -11  29                   Werder Bremen       6   2   1   3   9  14  -5   7   8.7  12.8
 Halmstad           26   8   4  14  21  47 -26  28                   Union Berlin        6   2   1   3   8  13  -5   7   7.9  12.7
-Sirius             25   7   5  13  38  47  -9  26                   Augsburg            6   2   0   4  11  13  -2   6   6.3  13.4
-Öster              26   6   7  13  25  37 -12  25                   Wolfsburg           6   1   2   3   8  10  -2   5   9.5   9.5
-Degerfors          26   6   5  15  27  48 -21  23                   Hamburger SV        5   1   2   2   2   8  -6   5   4.5   9.2
-Värnamo            25   2   6  17  29  52 -23  12                   Mainz 05            5   1   1   3   5   6  -1   4   7.4   6.3
-                                                                    Heidenheim          5   1   0   4   4  10  -6   3   6.2  10.2
-                                                                    Gladbach            5   0   2   3   5  12  -7   2   6.9   7.5
+Öster              26   6   7  13  25  37 -12  25                   Augsburg            6   2   0   4  11  13  -2   6   6.3  13.4
+Degerfors          26   6   5  15  27  48 -21  23                   Wolfsburg           6   1   2   3   8  10  -2   5   9.5   9.5
+Värnamo            26   3   6  17  32  54 -22  15                   Mainz 05            6   1   1   4   5  10  -5   4   8.1   8.2
+                                                                    Gladbach            6   0   3   3   5  12  -7   3   7.4   8.2
+                                                                    Heidenheim          6   1   0   5   4  11  -7   3   6.8  11.2
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
@@ -67,35 +67,35 @@ Saturday, October 04                                                Friday, Octo
   Öster                3–0   Halmstad                                 Dortmund             1–1   RB Leipzig
   GAIS                 2–1   Norrköping                               Augsburg             3–1   Wolfsburg
 Sunday, October 05                                                    Werder Bremen        1–0   St. Pauli
-  AIK Stockholm        vs    Värnamo                                  Leverkusen           2–0   Union Berlin
-  Göteborg             vs    Hammarby                                 Eint Frankfurt       0–3   Bayern Munich
-  Sirius               vs    Malmö                                  Sunday, October 05
-  Brommapojkarna       vs    Häcken                                   Stuttgart            vs    Heidenheim
-                                                                      Hamburger SV         vs    Mainz 05
-                                                                      Gladbach             vs    Freiburg
+  AIK Stockholm        2–3   Värnamo                                  Leverkusen           2–0   Union Berlin
+  Göteborg             1–2   Hammarby                                 Eint Frankfurt       0–3   Bayern Munich
+  Sirius               5–1   Malmö                                  Sunday, October 05
+  Brommapojkarna       1–3   Häcken                                   Stuttgart            1–0   Heidenheim
+                                                                      Hamburger SV         4–0   Mainz 05
+                                                                      Gladbach             0–0   Freiburg
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-Arsenal             7   5   1   1  14   3  11  16  11.9   4.3       Marseille           7   5   0   2  15   5  10  15  12.7   7.2
-Liverpool           7   5   0   2  13   9   4  15  10.9   7.9       Paris S-G           6   5   0   1  12   4   8  15   9.3   5.9
-Tottenham           7   4   2   1  13   5   8  14   7.3   8.7       Lyon                6   5   0   1   8   3   5  15  10.5   7.2
-Bournemouth         7   4   2   1  11   8   3  14   8.4   6.3       Lens                7   4   1   2  10   6   4  13  12.8   9.9
-Crystal Palace      6   3   3   0   8   3   5  12  11.2   6.7       Monaco              6   4   0   2  14  10   4  12  10.8  10.0
-Chelsea             7   3   2   2  13   9   4  11  10.9   9.7       Strasbourg          6   4   0   2   9   7   2  12   8.8   6.9
-Sunderland          7   3   2   2   7   6   1  11   6.8   8.7       Lille               6   3   1   2  13   9   4  10  13.4   9.2
-Manchester City     6   3   1   2  14   6   8  10  11.3   6.4       Paris FC            7   3   1   3  12  13  -1  10  11.1  11.2
-Manchester Utd      7   3   1   3   9  11  -2  10  13.6   9.9       Rennes              6   2   3   1   7   8  -1   9   7.6  10.6
-Everton             6   2   2   2   7   6   1   8   7.7   8.0       Brest               7   2   2   3  11  11   0   8  11.6  11.3
-Brighton            6   2   2   2   9   9   0   8  10.3   8.5       Toulouse            6   2   1   3   9  11  -2   7   9.1   8.3
-Fulham              7   2   2   3   8  11  -3   8   7.3   8.9       Nice                6   2   1   3   7  10  -3   7   8.3   9.2
-Leeds United        7   2   2   3   7  11  -4   8   7.6   7.8       Lorient             7   2   1   4   9  16  -7   7   9.3  11.3
-Brentford           6   2   1   3   9  11  -2   7   7.7   8.8       Nantes              7   1   3   3   5   7  -2   6   5.3  10.6
-Newcastle Utd       6   1   3   2   4   5  -1   6   5.2   4.5       Auxerre             7   2   0   5   5  10  -5   6   7.5   9.4
-Aston Villa         6   1   3   2   4   6  -2   6   4.8   9.3       Le Havre            6   1   2   3   6   8  -2   5   8.0   6.5
-Nott'ham Forest     6   1   2   3   5  10  -5   5   6.3   9.3       Angers              6   1   2   3   3   6  -3   5   6.3   9.2
-Burnley             6   1   1   4   6  13  -7   4   4.5  12.3       Metz                7   0   2   5   5  16 -11   2   7.1  15.4
+Arsenal             7   5   1   1  14   3  11  16  11.9   4.3       Paris S-G           7   5   1   1  13   5   8  16  10.8   6.3
+Liverpool           7   5   0   2  13   9   4  15  10.9   7.9       Marseille           7   5   0   2  15   5  10  15  12.7   7.2
+Tottenham           7   4   2   1  13   5   8  14   7.4   8.7       Strasbourg          7   5   0   2  14   7   7  15  13.3   7.2
+Bournemouth         7   4   2   1  11   8   3  14   8.4   6.3       Lyon                7   5   0   2   9   5   4  15  11.6   8.4
+Manchester City     7   4   1   2  15   6   9  13  12.1   7.1       Monaco              7   4   1   2  16  12   4  13  13.7  11.1
+Crystal Palace      7   3   3   1   9   5   4  12  12.7   8.7       Lens                7   4   1   2  10   6   4  13  12.8   9.9
+Chelsea             7   3   2   2  13   9   4  11  10.9   9.7       Lille               7   3   2   2  14  10   4  11  13.9  10.6
+Everton             7   3   2   2   9   7   2  11   9.7   9.5       Paris FC            7   3   1   3  12  13  -1  10  11.1  11.2
+Sunderland          7   3   2   2   7   6   1  11   6.7   8.7       Toulouse            7   3   1   3  11  12  -1  10  10.3   9.5
+Manchester Utd      7   3   1   3   9  11  -2  10  13.6   9.9       Rennes              7   2   4   1   9  10  -1  10   8.7  12.3
+Newcastle Utd       7   2   3   2   6   5   1   9   8.1   4.8       Brest               7   2   2   3  11  11   0   8  11.5  11.3
+Brighton            7   2   3   2  10  10   0   9  11.2   9.1       Nice                7   2   2   3   9  12  -3   8   9.4  12.1
+Aston Villa         7   2   3   2   6   7  -1   9   5.9   9.7       Lorient             7   2   1   4   9  16  -7   7   9.3  11.3
+Fulham              7   2   2   3   8  11  -3   8   7.3   8.9       Nantes              7   1   3   3   5   7  -2   6   5.3  10.5
+Leeds United        7   2   2   3   7  11  -4   8   7.6   7.9       Le Havre            7   1   3   3   8  10  -2   6   9.7   7.6
+Brentford           7   2   1   4   9  12  -3   7   8.4   9.6       Auxerre             7   2   0   5   5  10  -5   6   7.5   9.4
+Nott'ham Forest     7   1   2   4   5  12  -7   5   6.6  12.1       Angers              7   1   2   4   3  11  -8   5   6.6  13.8
+Burnley             7   1   1   5   7  15  -8   4   4.9  13.4       Metz                7   0   2   5   5  16 -11   2   7.1  15.4
 West Ham            7   1   1   5   6  16 -10   4   6.6  11.1       
-Wolves              6   0   1   5   4  13  -9   1   5.5   8.5       
+Wolves              7   0   2   5   5  14  -9   2   6.1   9.4       
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
@@ -106,35 +106,35 @@ Saturday, October 04                                                Saturday, Oc
   Arsenal              2–0   West Ham                                 Brest                0–0   Nantes
   Manchester Utd       2–0   Sunderland                               Auxerre              1–2   Lens
   Chelsea              2–1   Liverpool                              Sunday, October 05
-Sunday, October 05                                                    Lyon                 vs    Toulouse
-  Newcastle Utd        vs    Nott'ham Forest                          Strasbourg           vs    Angers
-  Everton              vs    Crystal Palace                           Monaco               vs    Nice
-  Wolves               vs    Brighton                                 Le Havre             vs    Rennes
-  Aston Villa          vs    Burnley                                  Lille                vs    Paris S-G
-  Brentford            vs    Manchester City                        
+Sunday, October 05                                                    Lyon                 1–2   Toulouse
+  Newcastle Utd        2–0   Nott'ham Forest                          Strasbourg           5–0   Angers
+  Everton              2–1   Crystal Palace                           Monaco               2–2   Nice
+  Wolves               1–1   Brighton                                 Le Havre             2–2   Rennes
+  Aston Villa          2–1   Burnley                                  Lille                1–1   Paris S-G
+  Brentford            0–1   Manchester City                        
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
+Napoli              6   5   0   1  12   6   6  15  10.3   5.9       
+Roma                6   5   0   1   7   2   5  15   7.0   5.2       
+Milan               6   4   1   1   9   3   6  13   8.6   4.6       
 Inter               6   4   0   2  17   8   9  12  12.5   4.4       
-Milan               5   4   0   1   9   3   6  12   6.8   3.4       
-Napoli              5   4   0   1  10   5   5  12   9.0   5.5       
-Roma                5   4   0   1   5   1   4  12   5.6   4.1       
-Juventus            5   3   2   0   9   5   4  11   5.9   4.3       
+Juventus            6   3   3   0   9   5   4  12   7.0   6.1       
 Atalanta            6   2   4   0  11   5   6  10   8.6   5.8       
+Bologna             6   3   1   2   9   5   4  10   8.3   5.6       
 Como                6   2   3   1   7   5   2   9   7.7   5.8       
 Sassuolo            6   3   0   3   8   8   0   9   6.7   8.8       
 Cremonese           6   2   3   1   7   8  -1   9   4.3  10.3       
-Lazio               6   2   1   3  10   7   3   7   8.6   8.0       
-Cagliari            5   2   1   2   5   5   0   7   5.1   8.1       
-Bologna             5   2   1   2   5   5   0   7   4.8   5.6       
-Udinese             5   2   1   2   5   8  -3   7   4.7   5.6       
-Parma               6   1   2   3   3   7  -4   5   6.2   5.6       
-Lecce               6   1   2   3   5  10  -5   5   4.4   8.9       
-Torino              6   1   2   3   5  13  -8   5   6.4   8.7       
-Fiorentina          5   0   3   2   3   6  -3   3   5.5   6.8       
+Cagliari            6   2   2   2   6   6   0   8   6.1  10.8       
+Udinese             6   2   2   2   6   9  -3   8   7.3   6.5       
+Lazio               6   2   1   3  10   7   3   7   8.5   7.8       
+Parma               6   1   2   3   3   7  -4   5   5.9   5.6       
+Lecce               6   1   2   3   5  10  -5   5   4.4   8.6       
+Torino              6   1   2   3   5  13  -8   5   6.2   8.6       
+Fiorentina          6   0   3   3   4   8  -4   3   6.6   8.2       
 Hellas Verona       6   0   3   3   2   9  -7   3   6.6   8.2       
-Pisa                5   0   2   3   3   6  -3   2   4.8   5.7       
-Genoa               5   0   2   3   2   7  -5   2   5.4   5.8       
+Genoa               6   0   2   4   3   9  -6   2   5.8   7.1       
+Pisa                6   0   2   4   3  10  -7   2   4.8   9.2       
 
 Serie A Fixtures
 ----------------
@@ -146,11 +146,11 @@ Saturday, October 04
   Inter                4–1   Cremonese
   Atalanta             1–1   Como
 Sunday, October 05
-  Udinese              vs    Cagliari
-  Bologna              vs    Pisa
-  Fiorentina           vs    Roma
-  Napoli               vs    Genoa
-  Juventus             vs    Milan
+  Udinese              1–1   Cagliari
+  Bologna              4–0   Pisa
+  Fiorentina           1–2   Roma
+  Napoli               2–1   Genoa
+  Juventus             0–0   Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -192,4 +192,4 @@ nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3
 kz  Qaırat Almaty    2   0   0   2   1   9  -8   0   1.1   7.2      
 
 
-Standings from FBRef.com 10.05.25
+Standings from FBRef.com 10.06.25
