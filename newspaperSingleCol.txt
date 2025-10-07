@@ -140,8 +140,6 @@ Heidenheim          6   1   0   5   3  -7
 
 Bundesliga Fixtures
 -------------------
-Friday, October 03
-  Hoffenheim           0–1   Köln
 Saturday, October 04
   Dortmund             1–1   RB Leipzig
   Augsburg             3–1   Wolfsburg
@@ -180,8 +178,6 @@ Wolves              7   0   2   5   2  -9
 
 Premier League Fixtures
 -----------------------
-Friday, October 03
-  Bournemouth          3–1   Fulham
 Saturday, October 04
   Leeds United         1–2   Tottenham
   Arsenal              2–0   West Ham
@@ -219,8 +215,6 @@ Metz                7   0   2   5   2 -11
 
 Ligue 1 Fixtures
 ----------------
-Friday, October 03
-  Paris FC             2–0   Lorient
 Saturday, October 04
   Metz                 0–3   Marseille
   Brest                0–0   Nantes
@@ -259,11 +253,9 @@ Pisa                6   0   2   4   2  -7
 
 Serie A Fixtures
 ----------------
-Friday, October 03
-  Hellas Verona        0–1   Sassuolo
 Saturday, October 04
-  Lazio                3–3   Torino
   Parma                0–1   Lecce
+  Lazio                3–3   Torino
   Inter                4–1   Cremonese
   Atalanta             1–1   Como
 Sunday, October 05
@@ -315,4 +307,4 @@ nl  Ajax             2   0   0   2   0  -6
 kz  Qaırat Almaty    2   0   0   2   0  -8
 
 
-Standings from FBRef.com 10.06.25
+Standings from FBRef.com 10.07.25
