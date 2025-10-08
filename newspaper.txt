@@ -18,25 +18,16 @@ Galaxy             32   5   9  18  42  64 -22  24  43.6  56.3       DC United   
 
 MLS Fixtures
 ------------
-Saturday, October 04
-  Montreal             1–1   Nashville
-  DC United            0–1   Charlotte
-  Dallas               2–1   Galaxy
-  Red Bull NY          0–1   Cincinnati
-  Philadelphia         1–0   New York City
-  Orlando City         1–1   Columbus
-  Inter Miami          4–1   New England
-  Minnesota            3–0   Sporting KC
-  Real Salt Lake       1–0   Colorado
-  Seattle              1–0   Portland
-  Austin               1–3   St. Louis
-  Houston              2–4   San Diego
-  Chicago              2–2   Toronto
 Sunday, October 05
   Vancouver            4–1   San Jose
   LAFC                 1–0   Atlanta
 Wednesday, October 08
   LAFC                 vs    Toronto
+Saturday, October 11
+  Orlando City         vs    Vancouver
+  Inter Miami          vs    Atlanta
+  Seattle              vs    Real Salt Lake
+  Galaxy               vs    Dallas
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -61,16 +52,11 @@ Värnamo            26   3   6  17  32  54 -22  15                   Mainz 05   
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Saturday, October 04                                                Saturday, October 04
-  Degerfors            1–1   Djurgården                               Dortmund             1–1   RB Leipzig
-  Mjällby              2–0   Elfsborg                                 Augsburg             3–1   Wolfsburg
-  Öster                3–0   Halmstad                                 Werder Bremen        1–0   St. Pauli
-  GAIS                 2–1   Norrköping                               Leverkusen           2–0   Union Berlin
-Sunday, October 05                                                    Eint Frankfurt       0–3   Bayern Munich
-  AIK Stockholm        2–3   Värnamo                                Sunday, October 05
-  Göteborg             1–2   Hammarby                                 Stuttgart            1–0   Heidenheim
-  Sirius               5–1   Malmö                                    Hamburger SV         4–0   Mainz 05
-  Brommapojkarna       1–3   Häcken                                   Gladbach             0–0   Freiburg
+Sunday, October 05                                                  Sunday, October 05
+  AIK Stockholm        2–3   Värnamo                                  Stuttgart            1–0   Heidenheim
+  Göteborg             1–2   Hammarby                                 Hamburger SV         4–0   Mainz 05
+  Sirius               5–1   Malmö                                    Gladbach             0–0   Freiburg
+  Brommapojkarna       1–3   Häcken                                 
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -97,17 +83,12 @@ Wolves              7   0   2   5   5  14  -9   2   6.1   9.4
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, October 04                                                Saturday, October 04
-  Leeds United         1–2   Tottenham                                Metz                 0–3   Marseille
-  Arsenal              2–0   West Ham                                 Brest                0–0   Nantes
-  Manchester Utd       2–0   Sunderland                               Auxerre              1–2   Lens
-  Chelsea              2–1   Liverpool                              Sunday, October 05
-Sunday, October 05                                                    Lyon                 1–2   Toulouse
-  Newcastle Utd        2–0   Nott'ham Forest                          Strasbourg           5–0   Angers
-  Everton              2–1   Crystal Palace                           Monaco               2–2   Nice
-  Wolves               1–1   Brighton                                 Le Havre             2–2   Rennes
-  Aston Villa          2–1   Burnley                                  Lille                1–1   Paris S-G
-  Brentford            0–1   Manchester City                        
+Sunday, October 05                                                  Sunday, October 05
+  Newcastle Utd        2–0   Nott'ham Forest                          Lyon                 1–2   Toulouse
+  Everton              2–1   Crystal Palace                           Strasbourg           5–0   Angers
+  Wolves               1–1   Brighton                                 Monaco               2–2   Nice
+  Aston Villa          2–1   Burnley                                  Le Havre             2–2   Rennes
+  Brentford            0–1   Manchester City                          Lille                1–1   Paris S-G
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -134,11 +115,6 @@ Pisa                6   0   2   4   3  10  -7   2   4.8   9.2
 
 Serie A Fixtures
 ----------------
-Saturday, October 04
-  Parma                0–1   Lecce
-  Lazio                3–3   Torino
-  Inter                4–1   Cremonese
-  Atalanta             1–1   Como
 Sunday, October 05
   Udinese              1–1   Cagliari
   Bologna              4–0   Pisa
@@ -186,4 +162,4 @@ nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3
 kz  Qaırat Almaty    2   0   0   2   1   9  -8   0   1.1   7.2      
 
 
-Standings from FBRef.com 10.07.25
+Standings from FBRef.com 10.08.25
