@@ -2,8 +2,8 @@ MLS West                                                            MLS East
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
 San Diego          33  18   6   9  60  41  19  60  51.4  45.7       Philadelphia       33  20   6   7  57  33  24  66  56.3  38.7
 Vancouver          32  17   9   6  63  35  28  60  59.0  35.4       Cincinnati         33  19   5   9  49  40   9  62  42.4  50.2
-Minnesota          33  16  10   7  55  37  18  58  45.3  44.2       Inter Miami        32  17   8   7  72  53  19  59  61.6  45.5
-LAFC               31  16   8   7  61  37  24  56  54.8  31.7       Charlotte          33  18   2  13  53  46   7  56  48.3  51.2
+LAFC               32  17   8   7  63  37  26  59  57.9  32.3       Inter Miami        32  17   8   7  72  53  19  59  61.6  45.5
+Minnesota          33  16  10   7  55  37  18  58  45.3  44.2       Charlotte          33  18   2  13  53  46   7  56  48.3  51.2
 Seattle            32  13  10   9  55  47   8  49  55.1  41.9       New York City      33  17   5  11  49  42   7  56  49.5  43.2
 Austin             32  12   8  12  35  43  -8  44  40.9  46.6       Nashville          33  16   6  11  56  40  16  54  57.3  38.1
 Portland           33  11  11  11  41  44  -3  44  40.8  50.3       Orlando City       32  14  11   7  60  45  15  53  56.7  44.2
@@ -11,23 +11,22 @@ Dallas             32  10  11  11  49  52  -3  41  45.7  46.7       Chicago     
 Real Salt Lake     32  12   4  16  36  46 -10  40  40.3  51.0       Columbus           33  13  12   8  52  50   2  51  52.9  48.1
 Colorado           33  11   7  15  42  54 -12  40  50.4  56.2       Red Bull NY        33  12   7  14  47  44   3  43  45.8  49.1
 San Jose           33  10   8  15  58  62  -4  38  61.0  56.8       New England        33   9   8  16  42  49  -7  35  42.8  49.9
-Houston            33   9   9  15  43  56 -13  36  43.0  48.2       Toronto            32   5  14  13  33  40  -7  29  31.4  44.5
+Houston            33   9   9  15  43  56 -13  36  43.0  48.2       Toronto            33   5  14  14  33  42  -9  29  32.0  47.6
 St. Louis          33   8   7  18  42  56 -14  31  48.6  56.4       Montreal           33   6  10  17  34  57 -23  28  40.9  49.4
 Sporting KC        33   7   6  20  46  70 -24  27  41.2  70.0       Atlanta            32   5  12  15  37  58 -21  27  42.5  45.8
 Galaxy             32   5   9  18  42  64 -22  24  43.6  56.3       DC United          33   5  10  18  29  65 -36  25  35.6  49.8
 
 MLS Fixtures
 ------------
-Sunday, October 05
-  Vancouver            4–1   San Jose
-  LAFC                 1–0   Atlanta
 Wednesday, October 08
-  LAFC                 vs    Toronto
+  LAFC                 2–0   Toronto
 Saturday, October 11
   Orlando City         vs    Vancouver
   Inter Miami          vs    Atlanta
   Seattle              vs    Real Salt Lake
   Galaxy               vs    Dallas
+Sunday, October 12
+  Austin               vs    LAFC
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -50,13 +49,6 @@ Värnamo            26   3   6  17  32  54 -22  15                   Mainz 05   
                                                                     Gladbach            6   0   3   3   5  12  -7   3   7.4   8.2
                                                                     Heidenheim          6   1   0   5   4  11  -7   3   6.8  11.2
 
-Allsvenskan Fixtures                                                Bundesliga Fixtures
---------------------                                                -------------------
-Sunday, October 05                                                  Sunday, October 05
-  AIK Stockholm        2–3   Värnamo                                  Stuttgart            1–0   Heidenheim
-  Göteborg             1–2   Hammarby                                 Hamburger SV         4–0   Mainz 05
-  Sirius               5–1   Malmö                                    Gladbach             0–0   Freiburg
-  Brommapojkarna       1–3   Häcken                                 
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -81,14 +73,6 @@ Burnley             7   1   1   5   7  15  -8   4   4.9  13.4       Metz        
 West Ham            7   1   1   5   6  16 -10   4   6.6  11.1       
 Wolves              7   0   2   5   5  14  -9   2   6.1   9.4       
 
-Premier League Fixtures                                             Ligue 1 Fixtures
------------------------                                             ----------------
-Sunday, October 05                                                  Sunday, October 05
-  Newcastle Utd        2–0   Nott'ham Forest                          Lyon                 1–2   Toulouse
-  Everton              2–1   Crystal Palace                           Strasbourg           5–0   Angers
-  Wolves               1–1   Brighton                                 Monaco               2–2   Nice
-  Aston Villa          2–1   Burnley                                  Le Havre             2–2   Rennes
-  Brentford            0–1   Manchester City                          Lille                1–1   Paris S-G
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -113,14 +97,6 @@ Hellas Verona       6   0   3   3   2   9  -7   3   6.6   8.2
 Genoa               6   0   2   4   3   9  -6   2   5.8   7.1       
 Pisa                6   0   2   4   3  10  -7   2   4.8   9.2       
 
-Serie A Fixtures
-----------------
-Sunday, October 05
-  Udinese              1–1   Cagliari
-  Bologna              4–0   Pisa
-  Fiorentina           1–2   Roma
-  Napoli               2–1   Genoa
-  Juventus             0–0   Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -162,4 +138,4 @@ nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3
 kz  Qaırat Almaty    2   0   0   2   1   9  -8   0   1.1   7.2      
 
 
-Standings from FBRef.com 10.08.25
+Standings from FBRef.com 10.09.25
