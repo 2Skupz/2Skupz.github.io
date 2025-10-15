@@ -18,13 +18,24 @@ Galaxy             33   6   9  18  44  65 -21  27  45.2  57.1       DC United   
 
 MLS Fixtures
 ------------
-Saturday, October 11
-  Orlando City         1–2   Vancouver
-  Inter Miami          4–0   Atlanta
-  Seattle              1–0   Real Salt Lake
-  Galaxy               2–1   Dallas
 Sunday, October 12
   Austin               1–0   LAFC
+Saturday, October 18
+  Nashville            vs    Inter Miami
+  Toronto              vs    Orlando City
+  Charlotte            vs    Philadelphia
+  Cincinnati           vs    Montreal
+  Columbus             vs    Red Bull NY
+  New England          vs    Chicago
+  Atlanta              vs    DC United
+  New York City        vs    Seattle
+  San Jose             vs    Austin
+  Galaxy               vs    Minnesota
+  Vancouver            vs    Dallas
+  Portland             vs    San Diego
+  Colorado             vs    LAFC
+  St. Louis            vs    Real Salt Lake
+  Sporting KC          vs    Houston
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -47,10 +58,17 @@ Värnamo            26   3   6  17  32  54 -22  15                   Mainz 05   
                                                                     Gladbach            6   0   3   3   5  12  -7   3   7.4   8.2
                                                                     Heidenheim          6   1   0   5   4  11  -7   3   6.8  11.2
 
-                                                                    Bundesliga Fixtures
-                                                                    -------------------
-                                                                    Friday, October 17
-                                                                      Union Berlin         vs    Gladbach
+Allsvenskan Fixtures                                                Bundesliga Fixtures
+--------------------                                                -------------------
+Saturday, October 18                                                Friday, October 17
+  Norrköping           vs    Malmö                                    Union Berlin         vs    Gladbach
+  Häcken               vs    Sirius                                 Saturday, October 18
+                                                                      Wolfsburg            vs    Stuttgart
+                                                                      RB Leipzig           vs    Hamburger SV
+                                                                      Köln                 vs    Augsburg
+                                                                      Heidenheim           vs    Werder Bremen
+                                                                      Mainz 05             vs    Leverkusen
+                                                                      Bayern Munich        vs    Dortmund
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -75,10 +93,16 @@ Burnley             7   1   1   5   7  15  -8   4   4.9  13.4       Metz        
 West Ham            7   1   1   5   6  16 -10   4   6.6  11.1       
 Wolves              7   0   2   5   5  14  -9   2   6.1   9.4       
 
-                                                                    Ligue 1 Fixtures
-                                                                    ----------------
-                                                                    Friday, October 17
-                                                                      Paris S-G            vs    Strasbourg
+Premier League Fixtures                                             Ligue 1 Fixtures
+-----------------------                                             ----------------
+Saturday, October 18                                                Friday, October 17
+  Nott'ham Forest      vs    Chelsea                                  Paris S-G            vs    Strasbourg
+  Brighton             vs    Newcastle Utd                          Saturday, October 18
+  Burnley              vs    Leeds United                             Nice                 vs    Lyon
+  Crystal Palace       vs    Bournemouth                              Angers               vs    Monaco
+  Sunderland           vs    Wolves                                   Marseille            vs    Le Havre
+  Manchester City      vs    Everton                                
+  Fulham               vs    Arsenal                                
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -103,6 +127,13 @@ Hellas Verona       6   0   3   3   2   9  -7   3   6.6   8.2
 Genoa               6   0   2   4   3   9  -6   2   5.8   7.1       
 Pisa                6   0   2   4   3  10  -7   2   4.8   9.2       
 
+Serie A Fixtures
+----------------
+Saturday, October 18
+  Pisa                 vs    Hellas Verona
+  Lecce                vs    Sassuolo
+  Torino               vs    Napoli
+  Roma                 vs    Inter
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -144,4 +175,4 @@ nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3
 kz  Qaırat Almaty    2   0   0   2   1   9  -8   0   1.1   7.2      
 
 
-Standings from FBRef.com 10.14.25
+Standings from FBRef.com 10.15.25

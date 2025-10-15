@@ -19,13 +19,24 @@ LA Galaxy          33   6   9  18  27 -21
 
 MLS Fixtures
 ------------
-Saturday, October 11
-  Orlando City         1–2   Vancouver W'caps
-  Inter Miami          4–0   Atlanta
-  Seattle Sounders     1–0   Real Salt Lake
-  Galaxy               2–1   Dallas
 Sunday, October 12
   Austin               1–0   LAFC
+Saturday, October 18
+  Nashville            vs    Inter Miami
+  Toronto              vs    Orlando City
+  Charlotte            vs    Philadelphia
+  Cincinnati           vs    Montreal
+  Columbus             vs    Red Bull NY
+  New England          vs    Chicago Fire
+  Atlanta              vs    DC United
+  New York City        vs    Seattle Sounders
+  San Jose             vs    Austin
+  Galaxy               vs    Minnesota
+  Vancouver W'caps     vs    Dallas
+  Portland             vs    San Diego
+  Colorado             vs    LAFC
+  St. Louis            vs    Real Salt Lake
+  Sporting KC          vs    Houston Dynamo
 
 
 MLS East
@@ -49,13 +60,24 @@ D.C. United        33   5  10  18  25 -36
 
 MLS Fixtures
 ------------
-Saturday, October 11
-  Orlando City         1–2   Vancouver W'caps
-  Inter Miami          4–0   Atlanta
-  Seattle Sounders     1–0   Real Salt Lake
-  Galaxy               2–1   Dallas
 Sunday, October 12
   Austin               1–0   LAFC
+Saturday, October 18
+  Nashville            vs    Inter Miami
+  Toronto              vs    Orlando City
+  Charlotte            vs    Philadelphia
+  Cincinnati           vs    Montreal
+  Columbus             vs    Red Bull NY
+  New England          vs    Chicago Fire
+  Atlanta              vs    DC United
+  New York City        vs    Seattle Sounders
+  San Jose             vs    Austin
+  Galaxy               vs    Minnesota
+  Vancouver W'caps     vs    Dallas
+  Portland             vs    San Diego
+  Colorado             vs    LAFC
+  St. Louis            vs    Real Salt Lake
+  Sporting KC          vs    Houston Dynamo
 
 
 Allsvenskan
@@ -77,6 +99,12 @@ Halmstad           26   8   4  14  28 -26
 Öster              26   6   7  13  25 -12
 Degerfors          26   6   5  15  23 -21
 Värnamo            26   3   6  17  15 -22
+
+Allsvenskan Fixtures
+--------------------
+Saturday, October 18
+  Norrköping           vs    Malmö
+  Häcken               vs    Sirius
 
 
 Bundesliga
@@ -105,6 +133,13 @@ Bundesliga Fixtures
 -------------------
 Friday, October 17
   Union Berlin         vs    Gladbach
+Saturday, October 18
+  Wolfsburg            vs    Stuttgart
+  RB Leipzig           vs    Hamburger SV
+  Köln                 vs    Augsburg
+  Heidenheim           vs    Werder Bremen
+  Mainz 05             vs    Leverkusen
+  Bayern Munich        vs    Dortmund
 
 
 Premier League
@@ -130,6 +165,17 @@ Nott'ham Forest     7   1   2   4   5  -7
 Burnley             7   1   1   5   4  -8
 West Ham            7   1   1   5   4 -10
 Wolves              7   0   2   5   2  -9
+
+Premier League Fixtures
+-----------------------
+Saturday, October 18
+  Nott'ham Forest      vs    Chelsea
+  Brighton             vs    Newcastle Utd
+  Burnley              vs    Leeds United
+  Crystal Palace       vs    Bournemouth
+  Sunderland           vs    Wolves
+  Manchester City      vs    Everton
+  Fulham               vs    Arsenal
 
 
 Ligue 1
@@ -158,6 +204,10 @@ Ligue 1 Fixtures
 ----------------
 Friday, October 17
   Paris S-G            vs    Strasbourg
+Saturday, October 18
+  Nice                 vs    Lyon
+  Angers               vs    Monaco
+  Marseille            vs    Le Havre
 
 
 Serie A
@@ -183,6 +233,14 @@ Fiorentina          6   0   3   3   3  -4
 Hellas Verona       6   0   3   3   3  -7
 Genoa               6   0   2   4   2  -6
 Pisa                6   0   2   4   2  -7
+
+Serie A Fixtures
+----------------
+Saturday, October 18
+  Pisa                 vs    Hellas Verona
+  Lecce                vs    Sassuolo
+  Torino               vs    Napoli
+  Roma                 vs    Inter
 
 
 Champions League
@@ -226,4 +284,4 @@ nl  Ajax             2   0   0   2   0  -6
 kz  Qaırat Almaty    2   0   0   2   0  -8
 
 
-Standings from FBRef.com 10.14.25
+Standings from FBRef.com 10.15.25
