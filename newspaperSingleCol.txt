@@ -19,8 +19,6 @@ LA Galaxy          33   6   9  18  27 -21
 
 MLS Fixtures
 ------------
-Sunday, October 12
-  Austin               1–0   LAFC
 Saturday, October 18
   Nashville            vs    Inter Miami
   Toronto              vs    Orlando City
@@ -60,8 +58,6 @@ D.C. United        33   5  10  18  25 -36
 
 MLS Fixtures
 ------------
-Sunday, October 12
-  Austin               1–0   LAFC
 Saturday, October 18
   Nashville            vs    Inter Miami
   Toronto              vs    Orlando City
@@ -105,6 +101,11 @@ Allsvenskan Fixtures
 Saturday, October 18
   Norrköping           vs    Malmö
   Häcken               vs    Sirius
+Sunday, October 19
+  Hammarby             vs    AIK Stockholm
+  GAIS                 vs    Djurgården
+  Värnamo              vs    Brommapojkarna
+  Elfsborg             vs    Öster
 
 
 Bundesliga
@@ -140,6 +141,9 @@ Saturday, October 18
   Heidenheim           vs    Werder Bremen
   Mainz 05             vs    Leverkusen
   Bayern Munich        vs    Dortmund
+Sunday, October 19
+  Freiburg             vs    Eint Frankfurt
+  St. Pauli            vs    Hoffenheim
 
 
 Premier League
@@ -170,12 +174,15 @@ Premier League Fixtures
 -----------------------
 Saturday, October 18
   Nott'ham Forest      vs    Chelsea
-  Brighton             vs    Newcastle Utd
-  Burnley              vs    Leeds United
-  Crystal Palace       vs    Bournemouth
   Sunderland           vs    Wolves
+  Burnley              vs    Leeds United
+  Brighton             vs    Newcastle Utd
+  Crystal Palace       vs    Bournemouth
   Manchester City      vs    Everton
   Fulham               vs    Arsenal
+Sunday, October 19
+  Tottenham            vs    Aston Villa
+  Liverpool            vs    Manchester Utd
 
 
 Ligue 1
@@ -208,6 +215,12 @@ Saturday, October 18
   Nice                 vs    Lyon
   Angers               vs    Monaco
   Marseille            vs    Le Havre
+Sunday, October 19
+  Lens                 vs    Paris FC
+  Rennes               vs    Auxerre
+  Lorient              vs    Brest
+  Toulouse             vs    Metz
+  Nantes               vs    Lille
 
 
 Serie A
@@ -241,6 +254,12 @@ Saturday, October 18
   Lecce                vs    Sassuolo
   Torino               vs    Napoli
   Roma                 vs    Inter
+Sunday, October 19
+  Como                 vs    Juventus
+  Cagliari             vs    Bologna
+  Genoa                vs    Parma
+  Atalanta             vs    Lazio
+  Milan                vs    Fiorentina
 
 
 Champions League
@@ -284,4 +303,4 @@ nl  Ajax             2   0   0   2   0  -6
 kz  Qaırat Almaty    2   0   0   2   0  -8
 
 
-Standings from FBRef.com 10.15.25
+Standings from FBRef.com 10.16.25

@@ -18,8 +18,6 @@ Galaxy             33   6   9  18  44  65 -21  27  45.2  57.1       DC United   
 
 MLS Fixtures
 ------------
-Sunday, October 12
-  Austin               1–0   LAFC
 Saturday, October 18
   Nashville            vs    Inter Miami
   Toronto              vs    Orlando City
@@ -63,12 +61,15 @@ Allsvenskan Fixtures                                                Bundesliga F
 Saturday, October 18                                                Friday, October 17
   Norrköping           vs    Malmö                                    Union Berlin         vs    Gladbach
   Häcken               vs    Sirius                                 Saturday, October 18
-                                                                      Wolfsburg            vs    Stuttgart
-                                                                      RB Leipzig           vs    Hamburger SV
-                                                                      Köln                 vs    Augsburg
-                                                                      Heidenheim           vs    Werder Bremen
-                                                                      Mainz 05             vs    Leverkusen
+Sunday, October 19                                                    Wolfsburg            vs    Stuttgart
+  Hammarby             vs    AIK Stockholm                            RB Leipzig           vs    Hamburger SV
+  GAIS                 vs    Djurgården                               Köln                 vs    Augsburg
+  Värnamo              vs    Brommapojkarna                           Heidenheim           vs    Werder Bremen
+  Elfsborg             vs    Öster                                    Mainz 05             vs    Leverkusen
                                                                       Bayern Munich        vs    Dortmund
+                                                                    Sunday, October 19
+                                                                      Freiburg             vs    Eint Frankfurt
+                                                                      St. Pauli            vs    Hoffenheim
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -97,12 +98,16 @@ Premier League Fixtures                                             Ligue 1 Fixt
 -----------------------                                             ----------------
 Saturday, October 18                                                Friday, October 17
   Nott'ham Forest      vs    Chelsea                                  Paris S-G            vs    Strasbourg
-  Brighton             vs    Newcastle Utd                          Saturday, October 18
+  Sunderland           vs    Wolves                                 Saturday, October 18
   Burnley              vs    Leeds United                             Nice                 vs    Lyon
-  Crystal Palace       vs    Bournemouth                              Angers               vs    Monaco
-  Sunderland           vs    Wolves                                   Marseille            vs    Le Havre
-  Manchester City      vs    Everton                                
-  Fulham               vs    Arsenal                                
+  Brighton             vs    Newcastle Utd                            Angers               vs    Monaco
+  Crystal Palace       vs    Bournemouth                              Marseille            vs    Le Havre
+  Manchester City      vs    Everton                                Sunday, October 19
+  Fulham               vs    Arsenal                                  Lens                 vs    Paris FC
+Sunday, October 19                                                    Rennes               vs    Auxerre
+  Tottenham            vs    Aston Villa                              Lorient              vs    Brest
+  Liverpool            vs    Manchester Utd                           Toulouse             vs    Metz
+                                                                      Nantes               vs    Lille
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -134,6 +139,12 @@ Saturday, October 18
   Lecce                vs    Sassuolo
   Torino               vs    Napoli
   Roma                 vs    Inter
+Sunday, October 19
+  Como                 vs    Juventus
+  Cagliari             vs    Bologna
+  Genoa                vs    Parma
+  Atalanta             vs    Lazio
+  Milan                vs    Fiorentina
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -175,4 +186,4 @@ nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3
 kz  Qaırat Almaty    2   0   0   2   1   9  -8   0   1.1   7.2      
 
 
-Standings from FBRef.com 10.15.25
+Standings from FBRef.com 10.16.25
