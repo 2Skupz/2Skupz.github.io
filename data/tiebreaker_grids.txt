@@ -1,0 +1,41 @@
+==================================================================================================================================
+MLB TIEBREAKER WINNERS - 2025
+==================================================================================================================================
+
+AMERICAN LEAGUE
+----------------------------------------------------------------------------------------------------------------------------------
+-            ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
+ATH            -     ATH     BOS     ATH     CLE     ATH     ATH     ATH     LAA     ATH     NYY     SEA     ATH     TEX     TOR
+BAL          ATH       -     BOS     BAL     CLE     DET     HOU     KCR     BAL     MIN     NYY     BAL     BAL     TEX     TOR
+BOS          BOS     BOS       -     BOS     BOS     DET     BOS     BOS     LAA     BOS     BOS     SEA     BOS     TEX     TOR
+CHW          ATH     BAL     BOS       -     CLE     DET     HOU     KCR     LAA     CHW     NYY     SEA     CHW     TEX     TOR
+CLE          CLE     CLE     BOS     CLE       -     CLE     CLE     CLE     CLE     CLE     CLE     SEA     CLE     TEX     CLE
+DET          ATH     DET     DET     DET     CLE       -     DET     DET     DET     DET     DET     SEA     DET     TEX     TOR
+HOU          ATH     HOU     BOS     HOU     CLE     DET       -     KCR     HOU     HOU     NYY     SEA     TBR     HOU     HOU
+KCR          ATH     KCR     BOS     KCR     CLE     DET     KCR       -     KCR     KCR     NYY     SEA     KCR     KCR     KCR
+LAA          LAA     BAL     LAA     LAA     CLE     DET     HOU     KCR       -     MIN     NYY     SEA     LAA     TEX     TOR
+MIN          ATH     MIN     BOS     CHW     CLE     DET     HOU     KCR     MIN       -     NYY     SEA     MIN     TEX     TOR
+NYY          NYY     NYY     BOS     NYY     CLE     DET     NYY     NYY     NYY     NYY       -     NYY     NYY     NYY     TOR
+SEA          SEA     BAL     SEA     SEA     SEA     SEA     SEA     SEA     SEA     SEA     NYY       -     SEA     SEA     TOR
+TBR          ATH     BAL     BOS     CHW     CLE     DET     TBR     KCR     LAA     MIN     NYY     SEA       -     TEX     TBR
+TEX          TEX     TEX     TEX     TEX     TEX     TEX     HOU     KCR     TEX     TEX     NYY     SEA     TEX       -     TOR
+TOR          TOR     TOR     TOR     TOR     CLE     TOR     HOU     KCR     TOR     TOR     TOR     TOR     TBR     TOR       -
+
+NATIONAL LEAGUE
+----------------------------------------------------------------------------------------------------------------------------------
+-            ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
+ARI            -     ARI     CHC     CIN     ARI     LAD     ARI     ARI     ARI     PHI     PIT     SDP     ARI     ARI     WSN
+ATL          ARI       -     CHC     ATL     ATL     LAD     ATL     MIL     ATL     PHI     PIT     SDP     SFG     ATL     ATL
+CHC          CHC     CHC       -     CIN     CHC     CHC     CHC     CHC     NYM     PHI     CHC     SDP     SFG     CHC     CHC
+CIN          CIN     ATL     CIN       -     CIN     LAD     MIA     MIL     CIN     PHI     CIN     CIN     CIN     STL     WSN
+COL          ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     COL     COL
+LAD          LAD     LAD     CHC     LAD     LAD       -     LAD     MIL     NYM     PHI     PIT     LAD     LAD     STL     LAD
+MIA          ARI     ATL     CHC     MIA     MIA     LAD       -     MIL     MIA     PHI     MIA     SDP     MIA     STL     MIA
+MIL          ARI     MIL     CHC     MIL     MIL     MIL     MIL       -     MIL     MIL     MIL     SDP     SFG     MIL     MIL
+NYM          ARI     ATL     NYM     CIN     NYM     NYM     MIA     MIL       -     NYM     PIT     SDP     NYM     NYM     NYM
+PHI          PHI     PHI     PHI     PHI     PHI     PHI     PHI     MIL     NYM       -     PHI     SDP     SFG     STL     PHI
+PIT          PIT     PIT     CHC     CIN     PIT     PIT     MIA     MIL     PIT     PHI       -     SDP     PIT     PIT     PIT
+SDP          SDP     SDP     SDP     CIN     SDP     LAD     SDP     SDP     SDP     SDP     SDP       -     SDP     SDP     SDP
+SFG          ARI     SFG     SFG     CIN     SFG     LAD     MIA     SFG     NYM     SFG     PIT     SDP       -     STL     SFG
+STL          ARI     ATL     CHC     STL     COL     STL     STL     MIL     NYM     STL     PIT     SDP     STL       -     STL
+WSN          WSN     ATL     CHC     WSN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL       -
