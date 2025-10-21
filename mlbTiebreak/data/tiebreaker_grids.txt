@@ -20,6 +20,23 @@ SEA          SEA     BAL     SEA     SEA     SEA     SEA     SEA     SEA     SEA
 TBR          ATH     BAL     BOS     CHW     CLE     DET     TBR     KCR     LAA     MIN     NYY     SEA       -     TEX     TBR
 TEX          TEX     TEX     TEX     TEX     TEX     TEX     HOU     KCR     TEX     TEX     NYY     SEA     TEX       -     TOR
 TOR          TOR     TOR     TOR     TOR     CLE     TOR     HOU     KCR     TOR     TOR     TOR     TOR     TBR     TOR       -
+AL TIEBREAKER RECORD SUMMARY
+----------------------------------------
+CLE    11-3 
+SEA    11-3 
+NYY    10-4 
+TOR    10-4 
+BOS     9-5 
+DET     9-5 
+TEX     9-5 
+KCR     8-6 
+ATH     7-7 
+HOU     6-8 
+BAL     4-10
+LAA     4-10
+MIN     3-11
+CHW     2-12
+TBR     2-12
 
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -39,3 +56,20 @@ SDP          SDP     SDP     SDP     CIN     SDP     LAD     SDP     SDP     SDP
 SFG          ARI     SFG     SFG     CIN     SFG     LAD     MIA     SFG     NYM     SFG     PIT     SDP       -     STL     SFG
 STL          ARI     ATL     CHC     STL     COL     STL     STL     MIL     NYM     STL     PIT     SDP     STL       -     STL
 WSN          WSN     ATL     CHC     WSN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL       -
+NL TIEBREAKER RECORD SUMMARY
+----------------------------------------
+SDP    12-2 
+MIL    10-4 
+CHC     9-5 
+PHI     9-5 
+LAD     8-6 
+PIT     8-6 
+ARI     7-7 
+CIN     7-7 
+NYM     7-7 
+ATL     6-8 
+MIA     6-8 
+SFG     6-8 
+STL     6-8 
+COL     2-12
+WSN     2-12

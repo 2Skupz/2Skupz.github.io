@@ -7,7 +7,7 @@ All-Time Heavyweight Rankings
   6 Harvard                         10      62-29-5     
   7 Oklahoma                        6       52-15-1     
   8 Washington                      12      48-31       
-  9 Miami                           5       42-11       
+  9 Miami                           5       42-12       
  10 Army                            4       41-14-5     
  11 Pennsylvania                    4       39-41-3     
  12 Notre Dame                      12      30-26-6     
@@ -77,40 +77,40 @@ All-Time Heavyweight Rankings
  76 South Florida                   1       1-1         
  77 New York University             1       1-1         
  78 New Mexico                      1       1-3         
- 79 Temple                          1       1-5-1       
- 80 Southern Miss                   1       1-4         
- 81 Minnesota                       1       1-14-2      
- 82 Kentucky                        1       1-10        
- 83 Maryland                        1       1-14        
- 84 Rutgers                         1       1-19        
- 85 Vanderbilt                      0       0-13-2      
- 86 Amherst                         0       0-14-1      
- 87 Dickinson                       0       0-3-1       
- 88 Holy Cross                      0       0-3-1       
- 89 Wesleyan (CT)                   0       0-29        
- 90 North Carolina                  0       0-12        
- 91 Stevens                         0       0-12        
- 92 Iowa State                      0       0-11        
- 93 Lehigh                          0       0-11        
- 94 Dartmouth                       0       0-9         
- 95 Williams                        0       0-9         
- 96 Indiana                         0       0-8         
- 97 Kansas                          0       0-8         
- 98 SMU                             0       0-7         
- 99 Franklin & Marshall             0       0-6         
-100 Boston College                  0       0-5         
-101 UTEP                            0       0-5         
-102 Louisiana Tech                  0       0-5         
-103 Houston                         0       0-4         
-104 San Diego State                 0       0-4         
-105 Hawaii                          0       0-4         
-106 Troy                            0       0-4         
-107 Tufts                           0       0-4         
-108 Bucknell                        0       0-4         
-109 Villanova                       0       0-4         
-110 Wake Forest                     0       0-3         
-111 San Jose State                  0       0-3         
-112 Louisville                      0       0-3         
+ 79 Louisville                      1       1-3         
+ 80 Temple                          1       1-5-1       
+ 81 Southern Miss                   1       1-4         
+ 82 Minnesota                       1       1-14-2      
+ 83 Kentucky                        1       1-10        
+ 84 Maryland                        1       1-14        
+ 85 Rutgers                         1       1-19        
+ 86 Vanderbilt                      0       0-13-2      
+ 87 Amherst                         0       0-14-1      
+ 88 Dickinson                       0       0-3-1       
+ 89 Holy Cross                      0       0-3-1       
+ 90 Wesleyan (CT)                   0       0-29        
+ 91 North Carolina                  0       0-12        
+ 92 Stevens                         0       0-12        
+ 93 Iowa State                      0       0-11        
+ 94 Lehigh                          0       0-11        
+ 95 Dartmouth                       0       0-9         
+ 96 Williams                        0       0-9         
+ 97 Indiana                         0       0-8         
+ 98 Kansas                          0       0-8         
+ 99 SMU                             0       0-7         
+100 Franklin & Marshall             0       0-6         
+101 Boston College                  0       0-5         
+102 UTEP                            0       0-5         
+103 Louisiana Tech                  0       0-5         
+104 Houston                         0       0-4         
+105 San Diego State                 0       0-4         
+106 Hawaii                          0       0-4         
+107 Troy                            0       0-4         
+108 Tufts                           0       0-4         
+109 Bucknell                        0       0-4         
+110 Villanova                       0       0-4         
+111 Wake Forest                     0       0-3         
+112 San Jose State                  0       0-3         
 113 Bowling Green                   0       0-3         
 114 East Carolina                   0       0-3         
 115 Trinity (CT)                    0       0-3         
@@ -186,5 +186,5 @@ All-Time Heavyweight Rankings
 185 Jacksonville State              0       0-0         
 186 Sam Houston                     0       0-0         
 187 Kennesaw State                  0       0-0         
-188 Delaware                        0       0-0         
-189 Missouri State                  0       0-0         
+188 Missouri State                  0       0-0         
+189 Delaware                        0       0-0         
