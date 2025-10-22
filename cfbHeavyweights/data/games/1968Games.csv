@@ -1,0 +1,644 @@
+0,1,"Sep 14, 1968",UTEP,14,California-Santa Barbara,14,0
+1,1,"Sep 14, 1968",Colorado State,21,New Mexico,13,1
+2,1,"Sep 14, 1968",Dayton,24,Kent State,10,0
+3,1,"Sep 14, 1968",Parsons,7,East Carolina,37,1
+4,1,"Sep 14, 1968",Tennessee,17,Georgia,17,0
+5,1,"Sep 14, 1968",Tulane,7,Houston,54,1
+6,1,"Sep 14, 1968",Iowa State,28,Buffalo,10,0
+7,1,"Sep 14, 1968",Xavier,7,Miami (OH),28,0
+8,1,"Sep 14, 1968",Mississippi College,21,Furman,12,0
+9,1,"Sep 14, 1968",Montana State,17,Idaho,14,0
+10,1,"Sep 14, 1968",Marshall,7,Morehead State,7,0
+11,1,"Sep 14, 1968",Nebraska,13,Wyoming,10,0
+12,1,"Sep 14, 1968",Wake Forest,6,NC State,10,0
+13,1,"Sep 14, 1968",Northern Illinois,40,Ball State,20,1
+14,1,"Sep 14, 1968",Toledo,31,Richmond,14,0
+15,1,"Sep 14, 1968",Utah State,28,New Mexico State,12,0
+16,1,"Sep 14, 1968",Lamar,7,West Texas State,45,1
+17,1,"Sep 14, 1968",Western Michigan,20,Arkansas State,0,0
+18,2,"Sep 20, 1968",Northwestern,7,Miami,28,1
+19,2,"Sep 20, 1968",San Diego State,40,Northern Illinois,21,0
+20,2,"Sep 21, 1968",Virginia Tech,7,Alabama,14,1
+21,2,"Sep 21, 1968",Arizona,21,Iowa State,12,1
+22,2,"Sep 21, 1968",Wisconsin,7,Arizona State,55,1
+23,2,"Sep 21, 1968",Arkansas,32,Oklahoma State,15,0
+24,2,"Sep 21, 1968",Army,34,Citadel,14,0
+25,2,"Sep 21, 1968",Ball State,8,Bowling Green,62,1
+26,2,"Sep 21, 1968",Western Michigan,7,BYU,17,0
+27,2,"Sep 21, 1968",Bucknell,22,Davidson,13,0
+28,2,"Sep 21, 1968",Buffalo,21,Kent State,13,1
+29,2,"Sep 21, 1968",Michigan,7,California,21,0
+30,2,"Sep 21, 1968",Texas Tech,10,Cincinnati,10,0
+31,2,"Sep 21, 1968",Wake Forest,20,Clemson,20,0
+32,2,"Sep 21, 1968",Colgate,28,Boston University,0,1
+33,2,"Sep 21, 1968",Oregon,7,Colorado,28,1
+34,2,"Sep 21, 1968",Dayton,57,St. Joseph's (Pennsylvania),0,0
+35,2,"Sep 21, 1968",South Carolina,7,Duke,14,0
+36,2,"Sep 21, 1968",Florida,23,Air Force,20,0
+37,2,"Sep 21, 1968",Florida State,24,Maryland,14,1
+38,2,"Sep 21, 1968",Presbyterian,9,Furman,13,1
+39,2,"Sep 21, 1968",TCU,7,Georgia Tech,17,1
+40,2,"Sep 21, 1968",Texas,20,Houston,20,0
+41,2,"Sep 21, 1968",Indiana,40,Baylor,36,0
+42,2,"Sep 21, 1968",Iowa,21,Oregon State,20,0
+43,2,"Sep 21, 1968",Illinois,7,Kansas,47,0
+44,2,"Sep 21, 1968",Kansas State,21,Colorado State,0,0
+45,2,"Sep 21, 1968",Missouri,6,Kentucky,12,1
+46,2,"Sep 21, 1968",LSU,13,Texas A&M,12,0
+47,2,"Sep 21, 1968",Louisiana Tech,20,Mississippi State,13,1
+48,2,"Sep 21, 1968",Louisville,33,Southern Illinois,10,1
+49,2,"Sep 21, 1968",Michigan State,14,Syracuse,10,0
+50,2,"Sep 21, 1968",Memphis,7,Ole Miss,21,0
+51,2,"Sep 21, 1968",Nebraska,31,Utah,0,0
+52,2,"Sep 21, 1968",North Carolina,6,NC State,38,0
+53,2,"Sep 21, 1968",North Texas,47,New Mexico State,20,0
+54,2,"Sep 21, 1968",Notre Dame,45,Oklahoma,21,0
+55,2,"Sep 21, 1968",Marshall,8,Ohio,48,1
+56,2,"Sep 21, 1968",Pacific,21,Miami (OH),20,0
+57,2,"Sep 21, 1968",Navy,6,Penn State,31,1
+58,2,"Sep 21, 1968",Virginia,6,Purdue,44,1
+59,2,"Sep 21, 1968",Washington,35,Rice,35,0
+60,2,"Sep 21, 1968",Lafayette,7,Rutgers,37,1
+61,2,"Sep 21, 1968",USC,29,Minnesota,20,1
+62,2,"Sep 21, 1968",SMU,37,Auburn,28,1
+63,2,"Sep 21, 1968",Southern Miss,27,Southeastern Louisiana,15,1
+64,2,"Sep 21, 1968",Stanford,68,San Jose State,20,0
+65,2,"Sep 21, 1968",California-Santa Barbara,7,Tampa,18,0
+66,2,"Sep 21, 1968",UTEP,44,New Mexico,15,0
+67,2,"Sep 21, 1968",Toledo,45,Villanova,21,1
+68,2,"Sep 21, 1968",Pitt,7,UCLA,63,1
+69,2,"Sep 21, 1968",Vanderbilt,25,Virginia Military Institute,12,0
+70,2,"Sep 21, 1968",Idaho,7,Washington State,14,1
+71,2,"Sep 21, 1968",West Texas State,26,Wichita State,0,0
+72,2,"Sep 21, 1968",West Virginia,17,Richmond,0,0
+73,2,"Sep 21, 1968",William & Mary,14,East Carolina,0,1
+74,2,"Sep 21, 1968",Wyoming,48,Utah State,3,0
+75,2,"Sep 21, 1968",Xavier,28,Quantico Marines,12,0
+76,3,"Sep 28, 1968",Wyoming,3,Air Force,10,1
+77,3,"Sep 28, 1968",Alabama,17,Southern Miss,14,0
+78,3,"Sep 28, 1968",New Mexico,8,Arizona,19,0
+79,3,"Sep 28, 1968",Arizona State,31,UTEP,19,0
+80,3,"Sep 28, 1968",Arkansas,56,Tulsa,13,0
+81,3,"Sep 28, 1968",Auburn,26,Mississippi State,0,1
+82,3,"Sep 28, 1968",Boston College,49,Navy,15,1
+83,3,"Sep 28, 1968",Bowling Green,20,Dayton,14,0
+84,3,"Sep 28, 1968",Rhode Island,9,Brown,10,1
+85,3,"Sep 28, 1968",Buffalo,23,Massachusetts,0,0
+86,3,"Sep 28, 1968",California,10,Colorado,0,0
+87,3,"Sep 28, 1968",Cincinnati,17,Xavier,14,0
+88,3,"Sep 28, 1968",Citadel,28,Lehigh,12,0
+89,3,"Sep 28, 1968",Cornell,17,Colgate,0,0
+90,3,"Sep 28, 1968",Dartmouth,21,New Hampshire,0,0
+91,3,"Sep 28, 1968",Florida,9,Florida State,3,1
+92,3,"Sep 28, 1968",Georgia,31,Clemson,13,0
+93,3,"Sep 28, 1968",Harvard,27,Holy Cross,20,0
+94,3,"Sep 28, 1968",Idaho,35,Idaho State,15,1
+95,3,"Sep 28, 1968",Iowa State,28,BYU,20,1
+96,3,"Sep 28, 1968",Kansas,38,Indiana,20,0
+97,3,"Sep 28, 1968",Lafayette,36,Columbia,14,1
+98,3,"Sep 28, 1968",Rice,7,LSU,21,0
+99,3,"Sep 28, 1968",East Carolina,7,Louisiana Tech,35,1
+100,3,"Sep 28, 1968",Georgia Tech,7,Miami,10,0
+101,3,"Sep 28, 1968",Miami (OH),28,Western Michigan,0,0
+102,3,"Sep 28, 1968",Michigan,31,Duke,10,1
+103,3,"Sep 28, 1968",Michigan State,28,Baylor,10,0
+104,3,"Sep 28, 1968",Ole Miss,30,Kentucky,14,0
+105,3,"Sep 28, 1968",Missouri,44,Illinois,0,1
+106,3,"Sep 28, 1968",Nebraska,17,Minnesota,14,1
+107,3,"Sep 28, 1968",New Mexico State,21,Texas-Arlington,20,0
+108,3,"Sep 28, 1968",North Dakota State,31,Northern Illinois,13,1
+109,3,"Sep 28, 1968",North Texas,17,Colorado State,12,1
+110,3,"Sep 28, 1968",Kent State,7,Ohio,31,0
+111,3,"Sep 28, 1968",Ohio State,35,SMU,14,0
+112,3,"Sep 28, 1968",Oklahoma,28,NC State,14,0
+113,3,"Sep 28, 1968",Oregon State,24,Utah,21,1
+114,3,"Sep 28, 1968",Kansas State,9,Penn State,25,1
+115,3,"Sep 28, 1968",Pennsylvania,27,Bucknell,10,0
+116,3,"Sep 28, 1968",Purdue,37,Notre Dame,22,1
+117,3,"Sep 28, 1968",Richmond,24,Davidson,14,0
+118,3,"Sep 28, 1968",Rutgers,20,Princeton,14,1
+119,3,"Sep 28, 1968",San Jose State,25,Fresno State,21,0
+120,3,"Sep 28, 1968",South Carolina,32,North Carolina,27,1
+121,3,"Sep 28, 1968",Northwestern,7,USC,24,0
+122,3,"Sep 28, 1968",Stanford,28,Oregon,12,1
+123,3,"Sep 28, 1968",Syracuse,32,Maryland,14,0
+124,3,"Sep 28, 1968",Akron,9,Tampa,24,0
+125,3,"Sep 28, 1968",Tennessee,24,Memphis,17,0
+126,3,"Sep 28, 1968",Texas A&M,35,Tulane,3,1
+127,3,"Sep 28, 1968",TCU,28,Iowa,17,0
+128,3,"Sep 28, 1968",Texas Tech,31,Texas,22,0
+129,3,"Sep 28, 1968",Toledo,35,Marshall,12,0
+130,3,"Sep 28, 1968",UCLA,31,Washington State,21,0
+131,3,"Sep 28, 1968",Utah State,38,Wichita State,0,0
+132,3,"Sep 28, 1968",Vanderbilt,17,Army,13,1
+133,3,"Sep 28, 1968",Villanova,16,Delaware,0,0
+134,3,"Sep 28, 1968",Virginia,47,Virginia Military Institute,0,0
+135,3,"Sep 28, 1968",Virginia Tech,12,William & Mary,0,1
+136,3,"Sep 28, 1968",Washington,21,Wisconsin,17,1
+137,3,"Sep 28, 1968",Pacific,7,West Texas State,23,1
+138,3,"Sep 28, 1968",West Virginia,38,Pitt,15,1
+139,3,"Sep 28, 1968",Furman,7,Wofford,13,1
+140,3,"Sep 28, 1968",Yale,31,Connecticut,14,0
+141,4,"Oct 4, 1968",Houston,71,Cincinnati,33,0
+142,4,"Oct 5, 1968",Arizona,25,UTEP,0,0
+143,4,"Oct 5, 1968",TCU,7,Arkansas,17,0
+144,4,"Oct 5, 1968",Kentucky,7,Auburn,26,0
+145,4,"Oct 5, 1968",Boston College,31,Buffalo,12,0
+146,4,"Oct 5, 1968",Bowling Green,17,Western Michigan,10,1
+147,4,"Oct 5, 1968",California,46,San Jose State,0,0
+148,4,"Oct 5, 1968",Citadel,31,Furman,12,1
+149,4,"Oct 5, 1968",Colorado,28,Iowa State,18,1
+150,4,"Oct 5, 1968",Cornell,17,Rutgers,16,0
+151,4,"Oct 5, 1968",Dayton,28,Louisville,14,0
+152,4,"Oct 5, 1968",Drake,26,Wichita State,23,1
+153,4,"Oct 5, 1968",Duke,30,Maryland,28,0
+154,4,"Oct 5, 1968",Florida,31,Mississippi State,14,0
+155,4,"Oct 5, 1968",Florida State,20,Texas A&M,14,0
+156,4,"Oct 5, 1968",Georgia,21,South Carolina,20,1
+157,4,"Oct 5, 1968",Georgia Tech,24,Clemson,21,0
+158,4,"Oct 5, 1968",Harvard,59,Bucknell,0,0
+159,4,"Oct 5, 1968",Holy Cross,29,Dartmouth,17,0
+160,4,"Oct 5, 1968",Idaho,31,Pacific,14,0
+161,4,"Oct 5, 1968",Indiana,28,Illinois,14,0
+162,4,"Oct 5, 1968",Northern Illinois,7,Indiana State,19,1
+163,4,"Oct 5, 1968",New Mexico,7,Kansas,68,1
+164,4,"Oct 5, 1968",Kansas State,34,Virginia Tech,19,1
+165,4,"Oct 5, 1968",LSU,48,Baylor,16,0
+166,4,"Oct 5, 1968",Memphis,30,North Texas,12,1
+167,4,"Oct 5, 1968",Miami (OH),24,Kent State,0,0
+168,4,"Oct 5, 1968",Navy,9,Michigan,32,1
+169,4,"Oct 5, 1968",Michigan State,39,Wisconsin,0,1
+170,4,"Oct 5, 1968",Minnesota,24,Wake Forest,19,0
+171,4,"Oct 5, 1968",Alabama,8,Ole Miss,10,1
+172,4,"Oct 5, 1968",Missouri,7,Army,3,0
+173,4,"Oct 5, 1968",New Mexico State,16,Lamar,14,1
+174,4,"Oct 5, 1968",North Carolina,8,Vanderbilt,7,1
+175,4,"Oct 5, 1968",Notre Dame,51,Iowa,28,1
+176,4,"Oct 5, 1968",Ohio,40,Toledo,31,0
+177,4,"Oct 5, 1968",Oregon,6,Ohio State,21,1
+178,4,"Oct 5, 1968",Oregon State,35,Washington,21,0
+179,4,"Oct 5, 1968",Penn State,31,West Virginia,20,1
+180,4,"Oct 5, 1968",Pennsylvania,17,Brown,13,1
+181,4,"Oct 5, 1968",William & Mary,3,Pitt,14,1
+182,4,"Oct 5, 1968",Princeton,44,Columbia,16,0
+183,4,"Oct 5, 1968",Northwestern,6,Purdue,43,0
+184,4,"Oct 5, 1968",Miami,3,USC,28,1
+185,4,"Oct 5, 1968",SMU,35,NC State,14,0
+186,4,"Oct 5, 1968",Southern Miss,65,East Carolina,0,0
+187,4,"Oct 5, 1968",Stanford,24,Air Force,13,0
+188,4,"Oct 5, 1968",UCLA,7,Syracuse,20,1
+189,4,"Oct 5, 1968",Tampa,17,Tulane,14,1
+190,4,"Oct 5, 1968",Tennessee,52,Rice,0,1
+191,4,"Oct 5, 1968",Texas,31,Oklahoma State,3,0
+192,4,"Oct 5, 1968",Texas Tech,43,Colorado State,13,0
+193,4,"Oct 5, 1968",Southern Illinois,3,Tulsa,20,1
+194,4,"Oct 5, 1968",Utah,17,Washington State,14,1
+195,4,"Oct 5, 1968",Utah State,50,Montana,3,1
+196,4,"Oct 5, 1968",Villanova,19,Virginia Military Institute,13,1
+197,4,"Oct 5, 1968",Virginia,41,Davidson,14,0
+198,4,"Oct 5, 1968",West Texas State,35,Montana State,20,1
+199,4,"Oct 5, 1968",Wyoming,27,Arizona State,13,0
+200,4,"Oct 5, 1968",Xavier,30,Marshall,20,0
+201,4,"Oct 5, 1968",Yale,49,Colgate,14,0
+202,5,"Oct 11, 1968",Miami,30,LSU,0,0
+203,5,"Oct 11, 1968",Virginia Military Institute,7,West Virginia,14,0
+204,5,"Oct 12, 1968",Air Force,26,Navy,20,0
+205,5,"Oct 12, 1968",Vanderbilt,7,Alabama,31,1
+206,5,"Oct 12, 1968",Arizona State,41,Washington State,14,0
+207,5,"Oct 12, 1968",Arkansas,35,Baylor,19,0
+208,5,"Oct 12, 1968",California,7,Army,10,1
+209,5,"Oct 12, 1968",Auburn,21,Clemson,10,1
+210,5,"Oct 12, 1968",Boston College,28,Villanova,15,0
+211,5,"Oct 12, 1968",Toledo,0,Bowling Green,0,0
+212,5,"Oct 12, 1968",Buffalo,29,Delaware,17,0
+213,5,"Oct 12, 1968",Cincinnati,31,Tampa,28,0
+214,5,"Oct 12, 1968",Holy Cross,6,Colgate,14,1
+215,5,"Oct 12, 1968",Colorado State,37,Wichita State,15,1
+216,5,"Oct 12, 1968",Davidson,30,Connecticut,18,0
+217,5,"Oct 12, 1968",Tulane,3,Florida,24,1
+218,5,"Oct 12, 1968",Ole Miss,7,Georgia,21,1
+219,5,"Oct 12, 1968",Harvard,21,Columbia,14,1
+220,5,"Oct 12, 1968",Idaho,56,Montana,45,0
+221,5,"Oct 12, 1968",Indiana,38,Iowa,34,1
+222,5,"Oct 12, 1968",Iowa State,23,Kansas State,14,1
+223,5,"Oct 12, 1968",Kansas,23,Nebraska,13,1
+224,5,"Oct 12, 1968",Kentucky,35,Oregon State,34,0
+225,5,"Oct 12, 1968",Long Beach State,22,UTEP,21,1
+226,5,"Oct 12, 1968",Tulsa,7,Louisville,16,1
+227,5,"Oct 12, 1968",Maryland,33,North Carolina,24,0
+228,5,"Oct 12, 1968",Memphis,42,West Texas State,21,0
+229,5,"Oct 12, 1968",Miami (OH),46,Marshall,0,1
+230,5,"Oct 12, 1968",Michigan,28,Michigan State,14,0
+231,5,"Oct 12, 1968",Minnesota,17,Illinois,10,0
+232,5,"Oct 12, 1968",Missouri,27,Colorado,14,0
+233,5,"Oct 12, 1968",NC State,36,South Carolina,12,0
+234,5,"Oct 12, 1968",Northern Michigan,3,North Texas,17,1
+235,5,"Oct 12, 1968",Northern Arizona,43,Northern Illinois,14,1
+236,5,"Oct 12, 1968",Northwestern,7,Notre Dame,27,1
+237,5,"Oct 12, 1968",Ohio,41,William & Mary,0,1
+238,5,"Oct 12, 1968",Ohio State,13,Purdue,0,0
+239,5,"Oct 12, 1968",Oklahoma State,21,Houston,17,1
+240,5,"Oct 12, 1968",Oregon,3,Washington,0,1
+241,5,"Oct 12, 1968",Pacific,30,Santa Clara,22,0
+242,5,"Oct 12, 1968",UCLA,6,Penn State,21,0
+243,5,"Oct 12, 1968",Cornell,8,Pennsylvania,10,0
+244,5,"Oct 12, 1968",Dartmouth,7,Princeton,34,0
+245,5,"Oct 12, 1968",Richmond,21,Citadel,16,1
+246,5,"Oct 12, 1968",Rutgers,29,Lehigh,26,1
+247,5,"Oct 12, 1968",USC,27,Stanford,24,1
+248,5,"Oct 12, 1968",SMU,21,TCU,14,1
+249,5,"Oct 12, 1968",Southern Miss,47,Mississippi State,14,1
+250,5,"Oct 12, 1968",Syracuse,50,Pitt,17,0
+251,5,"Oct 12, 1968",Georgia Tech,7,Tennessee,24,0
+252,5,"Oct 12, 1968",Texas,26,Oklahoma,20,0
+253,5,"Oct 12, 1968",Texas Tech,21,Texas A&M,16,1
+254,5,"Oct 12, 1968",New Mexico,7,Utah,30,1
+255,5,"Oct 12, 1968",Utah State,20,Wisconsin,0,1
+256,5,"Oct 12, 1968",Virginia,50,Duke,20,1
+257,5,"Oct 12, 1968",Virginia Tech,7,Wake Forest,6,0
+258,5,"Oct 12, 1968",Western Michigan,14,Kent State,0,1
+259,5,"Oct 12, 1968",Wyoming,20,BYU,17,1
+260,5,"Oct 12, 1968",Yale,35,Brown,13,0
+261,6,"Oct 18, 1968",Virginia Tech,8,Miami,13,1
+262,6,"Oct 19, 1968",Air Force,31,Colorado State,0,1
+263,6,"Oct 19, 1968",BYU,3,Arizona,19,1
+264,6,"Oct 19, 1968",Army,24,Rutgers,0,1
+265,6,"Oct 19, 1968",Kent State,7,Bowling Green,30,1
+266,6,"Oct 19, 1968",California,39,UCLA,15,0
+267,6,"Oct 19, 1968",Cincinnati,40,Wichita State,27,1
+268,6,"Oct 19, 1968",Virginia Military Institute,8,Citadel,13,1
+269,6,"Oct 19, 1968",Clemson,39,Duke,22,0
+270,6,"Oct 19, 1968",Princeton,7,Colgate,14,0
+271,6,"Oct 19, 1968",Colorado,37,Kansas State,14,0
+272,6,"Oct 19, 1968",Dartmouth,48,Brown,0,0
+273,6,"Oct 19, 1968",Florida State,20,Memphis,10,0
+274,6,"Oct 19, 1968",Vanderbilt,6,Georgia,32,1
+275,6,"Oct 19, 1968",Georgia Tech,21,Auburn,20,1
+276,6,"Oct 19, 1968",Harvard,10,Cornell,0,0
+277,6,"Oct 19, 1968",Boston University,7,Holy Cross,7,0
+278,6,"Oct 19, 1968",Iowa,41,Wisconsin,0,0
+279,6,"Oct 19, 1968",Kansas,49,Oklahoma State,14,0
+280,6,"Oct 19, 1968",Kentucky,3,LSU,13,1
+281,6,"Oct 19, 1968",Louisville,13,Marshall,10,1
+282,6,"Oct 19, 1968",Maryland,21,South Carolina,19,0
+283,6,"Oct 19, 1968",Michigan,27,Indiana,22,1
+284,6,"Oct 19, 1968",Minnesota,14,Michigan State,13,1
+285,6,"Oct 19, 1968",Ole Miss,21,Southern Miss,13,0
+286,6,"Oct 19, 1968",Missouri,16,Nebraska,14,1
+287,6,"Oct 19, 1968",Navy,17,Pitt,16,0
+288,6,"Oct 19, 1968",Florida,7,North Carolina,22,1
+289,6,"Oct 19, 1968",NC State,19,Virginia,0,0
+290,6,"Oct 19, 1968",North Texas,20,Tulsa,17,1
+291,6,"Oct 19, 1968",Illinois,8,Notre Dame,58,1
+292,6,"Oct 19, 1968",Miami (OH),7,Ohio,24,1
+293,6,"Oct 19, 1968",Ohio State,45,Northwestern,21,0
+294,6,"Oct 19, 1968",Iowa State,7,Oklahoma,42,1
+295,6,"Oct 19, 1968",Idaho,8,Oregon,23,1
+296,6,"Oct 19, 1968",Arizona State,9,Oregon State,28,1
+297,6,"Oct 19, 1968",Utah State,7,Pacific,18,1
+298,6,"Oct 19, 1968",Pennsylvania,34,Lehigh,0,0
+299,6,"Oct 19, 1968",Purdue,28,Wake Forest,27,0
+300,6,"Oct 19, 1968",Richmond,34,Furman,0,0
+301,6,"Oct 19, 1968",San Jose State,55,New Mexico,24,1
+302,6,"Oct 19, 1968",Washington,7,USC,14,1
+303,6,"Oct 19, 1968",Southern Illinois,18,Dayton,17,1
+304,6,"Oct 19, 1968",SMU,32,Rice,24,0
+305,6,"Oct 19, 1968",Washington State,21,Stanford,21,0
+306,6,"Oct 19, 1968",Tampa,21,Eastern Michigan,0,1
+307,6,"Oct 19, 1968",Alabama,9,Tennessee,10,1
+308,6,"Oct 19, 1968",Texas,39,Arkansas,29,0
+309,6,"Oct 19, 1968",TCU,7,Texas A&M,27,1
+310,6,"Oct 19, 1968",Mississippi State,28,Texas Tech,28,0
+311,6,"Oct 19, 1968",UTEP,30,New Mexico State,14,0
+312,6,"Oct 19, 1968",Western Michigan,6,Toledo,30,0
+313,6,"Oct 19, 1968",Tulane,28,Boston College,14,0
+314,6,"Oct 19, 1968",Buffalo,7,Villanova,28,0
+315,6,"Oct 19, 1968",West Texas State,41,Texas-Arlington,0,0
+316,6,"Oct 19, 1968",West Virginia,20,William & Mary,0,1
+317,6,"Oct 19, 1968",Utah,9,Wyoming,20,1
+318,6,"Oct 19, 1968",Xavier,24,Northern Illinois,20,1
+319,6,"Oct 19, 1968",Columbia,7,Yale,29,1
+320,7,"Oct 26, 1968",Air Force,27,Pitt,14,1
+321,7,"Oct 26, 1968",Alabama,21,Clemson,14,0
+322,7,"Oct 26, 1968",Arkansas,17,North Texas,15,0
+323,7,"Oct 26, 1968",Army,57,Duke,25,0
+324,7,"Oct 26, 1968",Miami,6,Auburn,31,1
+325,7,"Oct 26, 1968",Texas A&M,9,Baylor,10,1
+326,7,"Oct 26, 1968",Brown,27,Colgate,19,0
+327,7,"Oct 26, 1968",Holy Cross,9,Buffalo,10,1
+328,7,"Oct 26, 1968",California,43,Syracuse,0,0
+329,7,"Oct 26, 1968",Citadel,9,Chattanooga,31,1
+330,7,"Oct 26, 1968",Colorado,41,Oklahoma,27,0
+331,7,"Oct 26, 1968",Furman,7,Davidson,28,1
+332,7,"Oct 26, 1968",Vanderbilt,14,Florida,14,0
+333,7,"Oct 26, 1968",Florida State,35,South Carolina,28,1
+334,7,"Oct 26, 1968",Georgia,35,Kentucky,14,1
+335,7,"Oct 26, 1968",Georgia Tech,23,Tulane,19,0
+336,7,"Oct 26, 1968",Dartmouth,7,Harvard,22,1
+337,7,"Oct 26, 1968",Ole Miss,7,Houston,29,0
+338,7,"Oct 26, 1968",Indiana,16,Arizona,13,0
+339,7,"Oct 26, 1968",Kansas,46,Iowa State,25,1
+340,7,"Oct 26, 1968",TCU,7,LSU,10,1
+341,7,"Oct 26, 1968",Louisville,21,Wichita State,14,1
+342,7,"Oct 26, 1968",Southern Miss,7,Memphis,29,1
+343,7,"Oct 26, 1968",Bowling Green,7,Miami (OH),31,1
+344,7,"Oct 26, 1968",Michigan,33,Minnesota,20,0
+345,7,"Oct 26, 1968",Michigan State,21,Notre Dame,17,0
+346,7,"Oct 26, 1968",Missouri,56,Kansas State,20,1
+347,7,"Oct 26, 1968",Nebraska,21,Oklahoma State,20,1
+348,7,"Oct 26, 1968",New Mexico State,27,Northern Illinois,13,1
+349,7,"Oct 26, 1968",NC State,31,Maryland,11,0
+350,7,"Oct 26, 1968",Northwestern,13,Wisconsin,10,0
+351,7,"Oct 26, 1968",Ohio,42,Dayton,12,0
+352,7,"Oct 26, 1968",Ohio State,31,Illinois,24,1
+353,7,"Oct 26, 1968",Utah,6,Oregon,14,1
+354,7,"Oct 26, 1968",Washington State,8,Oregon State,16,0
+355,7,"Oct 26, 1968",Pacific,31,Colorado State,0,1
+356,7,"Oct 26, 1968",Penn State,29,Boston College,0,1
+357,7,"Oct 26, 1968",Pennsylvania,19,Princeton,14,0
+358,7,"Oct 26, 1968",Purdue,44,Iowa,14,0
+359,7,"Oct 26, 1968",East Carolina,7,Richmond,31,0
+360,7,"Oct 26, 1968",Rutgers,28,Columbia,17,1
+361,7,"Oct 26, 1968",San Jose State,6,San Diego State,48,1
+362,7,"Oct 26, 1968",SMU,39,Texas Tech,18,1
+363,7,"Oct 26, 1968",Tampa,24,Mississippi State,17,0
+364,7,"Oct 26, 1968",Texas,38,Rice,14,1
+365,7,"Oct 26, 1968",UTEP,31,BYU,25,1
+366,7,"Oct 26, 1968",Toledo,28,Kent State,12,1
+367,7,"Oct 26, 1968",Tulsa,34,Cincinnati,27,1
+368,7,"Oct 26, 1968",UCLA,20,Stanford,17,0
+369,7,"Oct 26, 1968",Utah State,20,West Texas State,10,0
+370,7,"Oct 26, 1968",Villanova,21,Xavier,10,0
+371,7,"Oct 26, 1968",Virginia,24,Navy,0,1
+372,7,"Oct 26, 1968",Virginia Tech,27,West Virginia,12,0
+373,7,"Oct 26, 1968",Wake Forest,48,North Carolina,31,0
+374,7,"Oct 26, 1968",Idaho,7,Washington,37,1
+375,7,"Oct 26, 1968",Western Michigan,40,Marshall,12,1
+376,7,"Oct 26, 1968",William & Mary,20,Virginia Military Institute,10,1
+377,7,"Oct 26, 1968",New Mexico,6,Wyoming,35,1
+378,7,"Oct 26, 1968",Yale,25,Cornell,13,1
+379,8,"Nov 1, 1968",Miami,48,Pitt,0,0
+380,8,"Nov 2, 1968",Air Force,28,North Carolina,15,0
+381,8,"Nov 2, 1968",Alabama,20,Mississippi State,13,0
+382,8,"Nov 2, 1968",Arizona,28,Washington State,14,0
+383,8,"Nov 2, 1968",Arizona State,63,New Mexico,28,0
+384,8,"Nov 2, 1968",Arkansas,25,Texas A&M,22,1
+385,8,"Nov 2, 1968",Auburn,24,Florida,13,1
+386,8,"Nov 2, 1968",Bowling Green,54,Marshall,28,0
+387,8,"Nov 2, 1968",Buffalo,50,Temple,40,1
+388,8,"Nov 2, 1968",Washington,7,California,7,0
+389,8,"Nov 2, 1968",Citadel,28,Davidson,21,0
+390,8,"Nov 2, 1968",Clemson,24,NC State,19,1
+391,8,"Nov 2, 1968",Colgate,27,Lehigh,11,0
+392,8,"Nov 2, 1968",Columbia,34,Cornell,25,0
+393,8,"Nov 2, 1968",Duke,46,Georgia Tech,30,0
+394,8,"Nov 2, 1968",East Carolina,24,Furman,13,1
+395,8,"Nov 2, 1968",Pennsylvania,6,Harvard,28,1
+396,8,"Nov 2, 1968",Georgia,10,Houston,10,0
+397,8,"Nov 2, 1968",Idaho,50,Weber State,42,0
+398,8,"Nov 2, 1968",Indiana,21,Wisconsin,20,1
+399,8,"Nov 2, 1968",Iowa,35,Minnesota,28,1
+400,8,"Nov 2, 1968",Kansas,27,Colorado,14,0
+401,8,"Nov 2, 1968",Kentucky,35,West Virginia,16,1
+402,8,"Nov 2, 1968",Louisiana Tech,27,Southern Miss,20,1
+403,8,"Nov 2, 1968",Kent State,9,Louisville,23,1
+404,8,"Nov 2, 1968",Tulsa,6,Memphis,32,0
+405,8,"Nov 2, 1968",Miami (OH),21,Toledo,17,1
+406,8,"Nov 2, 1968",Michigan,35,Northwestern,0,1
+407,8,"Nov 2, 1968",Ole Miss,27,LSU,24,1
+408,8,"Nov 2, 1968",Oklahoma State,7,Missouri,42,1
+409,8,"Nov 2, 1968",Nebraska,24,Iowa State,13,1
+410,8,"Nov 2, 1968",North Texas,55,Cincinnati,34,0
+411,8,"Nov 2, 1968",Notre Dame,45,Navy,14,0
+412,8,"Nov 2, 1968",Ohio,34,Western Michigan,27,1
+413,8,"Nov 2, 1968",Ohio State,25,Michigan State,20,0
+414,8,"Nov 2, 1968",Oklahoma,35,Kansas State,20,0
+415,8,"Nov 2, 1968",Stanford,7,Oregon State,29,0
+416,8,"Nov 2, 1968",Pacific,28,San Jose State,0,0
+417,8,"Nov 2, 1968",Penn State,28,Army,24,0
+418,8,"Nov 2, 1968",Brown,7,Princeton,50,0
+419,8,"Nov 2, 1968",Purdue,35,Illinois,17,0
+420,8,"Nov 2, 1968",Richmond,35,Virginia Military Institute,0,0
+421,8,"Nov 2, 1968",Rutgers,23,Delaware,14,0
+422,8,"Nov 2, 1968",South Carolina,49,Virginia,28,1
+423,8,"Nov 2, 1968",USC,20,Oregon,13,1
+424,8,"Nov 2, 1968",Syracuse,47,Holy Cross,0,1
+425,8,"Nov 2, 1968",Tampa,22,Northern Michigan,19,0
+426,8,"Nov 2, 1968",Tennessee,42,UCLA,18,0
+427,8,"Nov 2, 1968",SMU,7,Texas,38,1
+428,8,"Nov 2, 1968",TCU,47,Baylor,14,0
+429,8,"Nov 2, 1968",Texas Tech,38,Rice,15,1
+430,8,"Nov 2, 1968",Utah,30,BYU,21,0
+431,8,"Nov 2, 1968",Tulane,7,Vanderbilt,21,1
+432,8,"Nov 2, 1968",Virginia Tech,40,Florida State,22,1
+433,8,"Nov 2, 1968",Wake Forest,38,Maryland,14,0
+434,8,"Nov 2, 1968",West Texas State,23,New Mexico State,14,1
+435,8,"Nov 2, 1968",William & Mary,33,Villanova,12,0
+436,8,"Nov 2, 1968",Wyoming,46,Colorado State,14,1
+437,8,"Nov 2, 1968",Xavier,27,Dayton,25,0
+438,8,"Nov 2, 1968",Yale,47,Dartmouth,27,0
+439,9,"Nov 9, 1968",LSU,7,Alabama,16,1
+440,9,"Nov 9, 1968",Arizona,14,Air Force,10,1
+441,9,"Nov 9, 1968",Arizona State,59,Utah,21,0
+442,9,"Nov 9, 1968",Arkansas,46,Rice,21,0
+443,9,"Nov 9, 1968",Army,58,Boston College,25,0
+444,9,"Nov 9, 1968",Auburn,28,Tennessee,14,0
+445,9,"Nov 9, 1968",Northern Illinois,7,Buffalo,20,0
+446,9,"Nov 9, 1968",Louisville,7,Cincinnati,37,1
+447,9,"Nov 9, 1968",Clemson,16,Maryland,0,1
+448,9,"Nov 9, 1968",Colgate,48,Bucknell,34,1
+449,9,"Nov 9, 1968",Cornell,31,Brown,0,1
+450,9,"Nov 9, 1968",Dartmouth,31,Columbia,19,0
+451,9,"Nov 9, 1968",Florida State,27,Mississippi State,14,1
+452,9,"Nov 9, 1968",Georgia,51,Florida,0,0
+453,9,"Nov 9, 1968",Harvard,9,Princeton,7,1
+454,9,"Nov 9, 1968",Holy Cross,47,Massachusetts,20,0
+455,9,"Nov 9, 1968",Memphis,7,Houston,27,0
+456,9,"Nov 9, 1968",Idaho,35,San Jose State,17,1
+457,9,"Nov 9, 1968",Indiana,24,Michigan State,22,1
+458,9,"Nov 9, 1968",Iowa,68,Northwestern,34,0
+459,9,"Nov 9, 1968",Kansas State,12,Nebraska,0,1
+460,9,"Nov 9, 1968",Kent State,36,Marshall,12,1
+461,9,"Nov 9, 1968",Miami (OH),14,Dayton,0,0
+462,9,"Nov 9, 1968",Michigan,36,Illinois,0,0
+463,9,"Nov 9, 1968",Minnesota,27,Purdue,13,0
+464,9,"Nov 9, 1968",Ole Miss,38,Chattanooga,16,0
+465,9,"Nov 9, 1968",Iowa State,7,Missouri,42,1
+466,9,"Nov 9, 1968",Navy,35,Georgia Tech,15,1
+467,9,"Nov 9, 1968",New Mexico State,47,Wichita State,21,0
+468,9,"Nov 9, 1968",NC State,17,Duke,15,1
+469,9,"Nov 9, 1968",North Texas,34,UTEP,31,1
+470,9,"Nov 9, 1968",Pitt,7,Notre Dame,56,1
+471,9,"Nov 9, 1968",Ohio,28,Bowling Green,27,1
+472,9,"Nov 9, 1968",Wisconsin,8,Ohio State,43,0
+473,9,"Nov 9, 1968",Oklahoma,27,Kansas,23,1
+474,9,"Nov 9, 1968",Oklahoma State,34,Colorado,17,0
+475,9,"Nov 9, 1968",Oregon,27,Washington State,13,0
+476,9,"Nov 9, 1968",Oregon State,45,UCLA,21,0
+477,9,"Nov 9, 1968",Pacific,27,California-Santa Barbara,21,1
+478,9,"Nov 9, 1968",Miami,7,Penn State,22,1
+479,9,"Nov 9, 1968",Rutgers,27,Connecticut,15,0
+480,9,"Nov 9, 1968",Samford,17,Furman,12,1
+481,9,"Nov 9, 1968",Southern Miss,7,San Diego State,68,1
+482,9,"Nov 9, 1968",South Carolina,34,Wake Forest,21,1
+483,9,"Nov 9, 1968",USC,35,California,17,0
+484,9,"Nov 9, 1968",SMU,36,Texas A&M,23,0
+485,9,"Nov 9, 1968",Stanford,35,Washington,20,0
+486,9,"Nov 9, 1968",Syracuse,31,William & Mary,0,0
+487,9,"Nov 9, 1968",Tampa,28,East Carolina,21,0
+488,9,"Nov 9, 1968",Texas,47,Baylor,26,1
+489,9,"Nov 9, 1968",Texas Tech,31,TCU,14,0
+490,9,"Nov 9, 1968",Tulane,25,Tulsa,15,0
+491,9,"Nov 9, 1968",BYU,8,Utah State,34,0
+492,9,"Nov 9, 1968",Vanderbilt,6,Kentucky,0,1
+493,9,"Nov 9, 1968",Villanova,27,Quantico Marines,13,0
+494,9,"Nov 9, 1968",North Carolina,6,Virginia,41,0
+495,9,"Nov 9, 1968",Virginia Military Institute,21,Davidson,17,1
+496,9,"Nov 9, 1968",Virginia Tech,31,Richmond,18,0
+497,9,"Nov 9, 1968",West Texas State,53,Western Michigan,36,0
+498,9,"Nov 9, 1968",West Virginia,17,Citadel,0,1
+499,9,"Nov 9, 1968",Xavier,20,Toledo,10,1
+500,9,"Nov 9, 1968",Yale,30,Pennsylvania,13,1
+501,10,"Nov 16, 1968",Tulsa,8,Air Force,28,1
+502,10,"Nov 16, 1968",Miami,6,Alabama,14,0
+503,10,"Nov 16, 1968",Arizona,16,Utah,15,1
+504,10,"Nov 16, 1968",Arizona State,47,BYU,12,1
+505,10,"Nov 16, 1968",Arkansas,35,SMU,29,0
+506,10,"Nov 16, 1968",Army,26,Pitt,0,1
+507,10,"Nov 16, 1968",Baylor,42,Texas Tech,28,0
+508,10,"Nov 16, 1968",Boston College,45,Virginia Military Institute,13,0
+509,10,"Nov 16, 1968",Oregon,8,California,36,1
+510,10,"Nov 16, 1968",Chattanooga,31,Furman,14,0
+511,10,"Nov 16, 1968",Citadel,24,William & Mary,21,1
+512,10,"Nov 16, 1968",Clemson,24,North Carolina,14,0
+513,10,"Nov 16, 1968",Cornell,6,Dartmouth,27,0
+514,10,"Nov 16, 1968",Wofford,9,Davidson,24,0
+515,10,"Nov 16, 1968",Toledo,3,Dayton,10,1
+516,10,"Nov 16, 1968",Wake Forest,3,Duke,18,1
+517,10,"Nov 16, 1968",East Carolina,49,Marshall,20,0
+518,10,"Nov 16, 1968",Florida,16,Kentucky,14,1
+519,10,"Nov 16, 1968",NC State,7,Florida State,48,0
+520,10,"Nov 16, 1968",Auburn,3,Georgia,17,0
+521,10,"Nov 16, 1968",Brown,7,Harvard,31,1
+522,10,"Nov 16, 1968",Houston,77,Idaho,3,0
+523,10,"Nov 16, 1968",Illinois,14,Northwestern,0,0
+524,10,"Nov 16, 1968",Kansas,38,Kansas State,29,1
+525,10,"Nov 16, 1968",Lafayette,14,Colgate,10,1
+526,10,"Nov 16, 1968",LSU,20,Mississippi State,16,0
+527,10,"Nov 16, 1968",Memphis,40,Wichita State,18,0
+528,10,"Nov 16, 1968",Wisconsin,9,Michigan,34,1
+529,10,"Nov 16, 1968",Indiana,6,Minnesota,20,0
+530,10,"Nov 16, 1968",Colorado,6,Nebraska,22,0
+531,10,"Nov 16, 1968",New Mexico,6,New Mexico State,33,0
+532,10,"Nov 16, 1968",North Texas,36,Louisville,14,1
+533,10,"Nov 16, 1968",Northern Illinois,7,Bowling Green,6,0
+534,10,"Nov 16, 1968",Georgia Tech,6,Notre Dame,34,1
+535,10,"Nov 16, 1968",Ohio,60,Cincinnati,48,1
+536,10,"Nov 16, 1968",Ohio State,33,Iowa,27,1
+537,10,"Nov 16, 1968",Oklahoma,28,Missouri,14,0
+538,10,"Nov 16, 1968",Oklahoma State,26,Iowa State,17,0
+539,10,"Nov 16, 1968",Penn State,57,Maryland,13,1
+540,10,"Nov 16, 1968",Columbia,7,Pennsylvania,13,1
+541,10,"Nov 16, 1968",Purdue,9,Michigan State,0,1
+542,10,"Nov 16, 1968",Southern Miss,7,Richmond,33,0
+543,10,"Nov 16, 1968",Rutgers,41,Holy Cross,14,0
+544,10,"Nov 16, 1968",USC,17,Oregon State,13,0
+545,10,"Nov 16, 1968",Southern Illinois,23,Tampa,20,1
+546,10,"Nov 16, 1968",Stanford,24,Pacific,0,1
+547,10,"Nov 16, 1968",Navy,6,Syracuse,44,1
+548,10,"Nov 16, 1968",Tennessee,31,Ole Miss,0,0
+549,10,"Nov 16, 1968",Texas,47,TCU,21,1
+550,10,"Nov 16, 1968",Texas A&M,24,Rice,14,0
+551,10,"Nov 16, 1968",Virginia,63,Tulane,47,0
+552,10,"Nov 16, 1968",South Carolina,6,Virginia Tech,17,0
+553,10,"Nov 16, 1968",Washington,6,UCLA,0,0
+554,10,"Nov 16, 1968",Washington State,46,San Jose State,0,1
+555,10,"Nov 16, 1968",West Texas State,22,Colorado State,17,1
+556,10,"Nov 16, 1968",West Virginia,30,Villanova,20,0
+557,10,"Nov 16, 1968",Wyoming,26,UTEP,19,1
+558,10,"Nov 16, 1968",Kent State,7,Xavier,23,0
+559,10,"Nov 16, 1968",Yale,42,Princeton,17,0
+560,11,"Nov 23, 1968",Air Force,58,Colorado,35,1
+561,11,"Nov 23, 1968",Wyoming,7,Arizona,14,1
+562,11,"Nov 23, 1968",Arizona State,66,San Jose State,0,0
+563,11,"Nov 23, 1968",Texas Tech,7,Arkansas,42,0
+564,11,"Nov 23, 1968",Massachusetts,6,Boston College,21,0
+565,11,"Nov 23, 1968",Bowling Green,44,Xavier,14,1
+566,11,"Nov 23, 1968",New Mexico,6,BYU,35,0
+567,11,"Nov 23, 1968",Buffalo,13,Boston University,10,1
+568,11,"Nov 23, 1968",Cincinnati,23,Miami (OH),21,0
+569,11,"Nov 23, 1968",Columbia,46,Brown,20,0
+570,11,"Nov 23, 1968",Dayton,35,Temple,17,1
+571,11,"Nov 23, 1968",Drake,38,Louisville,37,1
+572,11,"Nov 23, 1968",East Carolina,23,Citadel,14,1
+573,11,"Nov 23, 1968",Florida State,42,Wake Forest,24,0
+574,11,"Nov 23, 1968",Pacific,3,Fresno State,10,1
+575,11,"Nov 23, 1968",Holy Cross,27,Connecticut,24,0
+576,11,"Nov 23, 1968",Tulsa,6,Houston,100,1
+577,11,"Nov 23, 1968",Iowa,37,Illinois,13,1
+578,11,"Nov 23, 1968",Kansas,21,Missouri,19,1
+579,11,"Nov 23, 1968",Kansas State,21,Oklahoma State,14,0
+580,11,"Nov 23, 1968",LSU,34,Tulane,10,0
+581,11,"Nov 23, 1968",Michigan State,31,Northwestern,14,1
+582,11,"Nov 23, 1968",Minnesota,23,Wisconsin,15,1
+583,11,"Nov 23, 1968",North Carolina,25,Duke,14,0
+584,11,"Nov 23, 1968",Wichita State,6,North Texas,44,0
+585,11,"Nov 23, 1968",Ohio,28,Northern Illinois,12,0
+586,11,"Nov 23, 1968",Ohio State,50,Michigan,14,0
+587,11,"Nov 23, 1968",Oklahoma,47,Nebraska,0,0
+588,11,"Nov 23, 1968",Oregon State,41,Oregon,19,0
+589,11,"Nov 23, 1968",Pitt,9,Penn State,65,0
+590,11,"Nov 23, 1968",Pennsylvania,26,Dartmouth,21,0
+591,11,"Nov 23, 1968",Princeton,41,Cornell,13,0
+592,11,"Nov 23, 1968",Purdue,38,Indiana,35,0
+593,11,"Nov 23, 1968",William & Mary,6,Richmond,31,1
+594,11,"Nov 23, 1968",Rutgers,55,Colgate,34,0
+595,11,"Nov 23, 1968",South Carolina,7,Clemson,3,1
+596,11,"Nov 23, 1968",USC,28,UCLA,16,1
+597,11,"Nov 23, 1968",SMU,33,Baylor,17,0
+598,11,"Nov 23, 1968",Tampa,7,Southern Miss,21,0
+599,11,"Nov 23, 1968",Stanford,20,California,0,1
+600,11,"Nov 23, 1968",Kentucky,7,Tennessee,24,1
+601,11,"Nov 23, 1968",TCU,24,Rice,14,1
+602,11,"Nov 23, 1968",UTEP,23,Colorado State,19,0
+603,11,"Nov 23, 1968",Utah State,28,Utah,13,0
+604,11,"Nov 23, 1968",Vanderbilt,53,Davidson,20,1
+605,11,"Nov 23, 1968",Villanova,63,West Chester,3,0
+606,11,"Nov 23, 1968",Virginia,28,Maryland,23,0
+607,11,"Nov 23, 1968",Washington State,24,Washington,0,0
+608,11,"Nov 23, 1968",Syracuse,6,West Virginia,23,1
+609,11,"Nov 23, 1968",Harvard,29,Yale,29,0
+610,12,"Nov 28, 1968",Louisiana Tech,42,New Mexico State,24,0
+611,12,"Nov 28, 1968",Texas,35,Texas A&M,14,0
+612,12,"Nov 28, 1968",Wichita State,7,Tulsa,23,1
+613,12,"Nov 28, 1968",Virginia Military Institute,6,Virginia Tech,55,1
+614,12,"Nov 28, 1968",Furman,7,Wofford,21,0
+615,12,"Nov 29, 1968",Florida State,40,Houston,20,0
+616,12,"Nov 30, 1968",Alabama,24,Auburn,16,0
+617,12,"Nov 30, 1968",Arizona,7,Arizona State,30,0
+618,12,"Nov 30, 1968",Army,21,Navy,14,0
+619,12,"Nov 30, 1968",Rice,7,Baylor,16,1
+620,12,"Nov 30, 1968",Boston College,40,Holy Cross,20,0
+621,12,"Nov 30, 1968",California,17,Hawaii,12,1
+622,12,"Nov 30, 1968",East Carolina,7,East Tennessee State,17,1
+623,12,"Nov 30, 1968",Florida,14,Miami,10,0
+624,12,"Nov 30, 1968",Georgia Tech,8,Georgia,47,1
+625,12,"Nov 30, 1968",Memphis,44,Louisville,14,1
+626,12,"Nov 30, 1968",Ole Miss,17,Mississippi State,17,0
+627,12,"Nov 30, 1968",USC,21,Notre Dame,21,0
+628,12,"Nov 30, 1968",Oklahoma State,7,Oklahoma,41,0
+629,12,"Nov 30, 1968",San Diego State,30,Utah State,19,0
+630,12,"Nov 30, 1968",San Jose State,25,BYU,21,0
+631,12,"Nov 30, 1968",Vanderbilt,7,Tennessee,10,0
+632,13,"Dec 7, 1968",Sacramento State,7,Grambling State,34,1
+633,13,"Dec 7, 1968",Penn State,30,Syracuse,12,0
+634,14,"Dec 14, 1968",Ole Miss,34,Virginia Tech,17,0
+635,15,"Dec 27, 1968",Richmond,49,Ohio,42,0
+636,15,"Dec 28, 1968",Auburn,34,Arizona,10,0
+637,15,"Dec 28, 1968",Missouri,35,Alabama,10,0
+638,16,"Dec 30, 1968",LSU,31,Florida State,27,0
+639,17,"Dec 31, 1968",SMU,28,Oklahoma,27,0
+640,17,"Jan 1, 1969",Georgia,2,Arkansas,16,1
+641,17,"Jan 1, 1969",Ohio State,27,USC,16,1
+642,17,"Jan 1, 1969",Penn State,15,Kansas,14,0
+643,17,"Jan 1, 1969",Texas,36,Tennessee,13,0

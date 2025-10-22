@@ -1,0 +1,745 @@
+0,1,"Sep 8, 1972",Oregon State,8,San Diego State,17,1
+1,1,"Sep 9, 1972",Alabama,35,Duke,12,0
+2,1,"Sep 9, 1972",Appalachian State,7,Western Kentucky,6,1
+3,1,"Sep 9, 1972",Arizona,17,Colorado State,0,0
+4,1,"Sep 9, 1972",Mississippi State,3,Auburn,14,0
+5,1,"Sep 9, 1972",Indiana State,7,Cincinnati,10,0
+6,1,"Sep 9, 1972",Clemson,13,Citadel,0,0
+7,1,"Sep 9, 1972",Colorado,20,California,10,0
+8,1,"Sep 9, 1972",Dayton,18,Youngstown State,13,0
+9,1,"Sep 9, 1972",East Carolina,30,Virginia Military Institute,3,1
+10,1,"Sep 9, 1972",Pitt,7,Florida State,19,0
+11,1,"Sep 9, 1972",Sacramento State,7,Fresno State,24,1
+12,1,"Sep 9, 1972",Kansas State,21,Tulsa,13,0
+13,1,"Sep 9, 1972",Akron,13,Kent State,13,0
+14,1,"Sep 9, 1972",NC State,24,Maryland,24,0
+15,1,"Sep 9, 1972",Missouri,24,Oregon,22,0
+16,1,"Sep 9, 1972",North Carolina,28,Richmond,18,0
+17,1,"Sep 9, 1972",Illinois State,7,Northern Illinois,21,1
+18,1,"Sep 9, 1972",Ohio,26,Central Michigan,21,0
+19,1,"Sep 9, 1972",Rice,14,Houston,13,0
+20,1,"Sep 9, 1972",San Jose State,33,Santa Clara,28,0
+21,1,"Sep 9, 1972",USC,31,Arkansas,10,1
+22,1,"Sep 9, 1972",Southern Miss,38,Texas-Arlington,17,0
+23,1,"Sep 9, 1972",Syracuse,17,Temple,10,0
+24,1,"Sep 9, 1972",Tampa,21,Toledo,0,0
+25,1,"Sep 9, 1972",Tennessee,34,Georgia Tech,3,1
+26,1,"Sep 9, 1972",Texas A&M,36,Wichita State,13,1
+27,1,"Sep 9, 1972",UCLA,20,Nebraska,17,0
+28,1,"Sep 9, 1972",Utah State,48,New Mexico State,14,1
+29,1,"Sep 9, 1972",Chattanooga,7,Vanderbilt,24,1
+30,1,"Sep 9, 1972",Virginia,24,South Carolina,16,1
+31,1,"Sep 9, 1972",Wake Forest,26,Davidson,20,0
+32,1,"Sep 9, 1972",Pacific,6,Washington,13,1
+33,1,"Sep 9, 1972",Washington State,18,Kansas,17,1
+34,1,"Sep 9, 1972",Villanova,6,West Virginia,25,1
+35,1,"Sep 9, 1972",Western Michigan,28,Long Beach State,20,0
+36,1,"Sep 9, 1972",Furman,7,William & Mary,31,1
+37,1,"Sep 9, 1972",Wyoming,30,Idaho State,14,0
+38,1,"Sep 9, 1972",Morehead State,7,Xavier,26,0
+39,2,"Sep 16, 1972",Air Force,45,Wyoming,14,0
+40,2,"Sep 16, 1972",Arizona State,33,Houston,28,1
+41,2,"Sep 16, 1972",Bowling Green,17,Purdue,14,1
+42,2,"Sep 16, 1972",Kansas State,9,BYU,32,1
+43,2,"Sep 16, 1972",California,37,Washington State,23,0
+44,2,"Sep 16, 1972",Citadel,28,Appalachian State,21,1
+45,2,"Sep 16, 1972",Colorado,56,Cincinnati,14,0
+46,2,"Sep 16, 1972",Davidson,18,Virginia Military Institute,14,1
+47,2,"Sep 16, 1972",Drake,40,West Texas State,12,0
+48,2,"Sep 16, 1972",East Carolina,16,Southern Illinois,0,0
+49,2,"Sep 16, 1972",Florida State,37,Miami,14,1
+50,2,"Sep 16, 1972",Fresno State,41,Western Michigan,14,0
+51,2,"Sep 16, 1972",Georgia,24,Baylor,14,0
+52,2,"Sep 16, 1972",South Carolina,6,Georgia Tech,34,1
+53,2,"Sep 16, 1972",Holy Cross,24,Rutgers,14,0
+54,2,"Sep 16, 1972",Idaho,17,Ohio,14,0
+55,2,"Sep 16, 1972",Indiana,27,Minnesota,23,0
+56,2,"Sep 16, 1972",Iowa State,41,Colorado State,0,1
+57,2,"Sep 16, 1972",Villanova,7,Kentucky,25,1
+58,2,"Sep 16, 1972",Lamar,42,UTEP,18,1
+59,2,"Sep 16, 1972",Long Beach State,24,North Texas,21,0
+60,2,"Sep 16, 1972",LSU,31,Pacific,13,0
+61,2,"Sep 16, 1972",Louisiana Tech,33,Southern Miss,14,1
+62,2,"Sep 16, 1972",Louisville,34,Kent State,0,0
+63,2,"Sep 16, 1972",Marshall,27,Morehead State,24,0
+64,2,"Sep 16, 1972",Dayton,7,Miami (OH),34,1
+65,2,"Sep 16, 1972",Michigan,7,Northwestern,0,0
+66,2,"Sep 16, 1972",Michigan State,24,Illinois,0,1
+67,2,"Sep 16, 1972",Ole Miss,34,Memphis,29,1
+68,2,"Sep 16, 1972",Louisiana-Monroe,7,Mississippi State,42,1
+69,2,"Sep 16, 1972",William & Mary,9,Navy,13,1
+70,2,"Sep 16, 1972",Texas A&M,7,Nebraska,37,1
+71,2,"Sep 16, 1972",New Mexico,55,New Mexico State,20,0
+72,2,"Sep 16, 1972",North Carolina,31,Maryland,26,1
+73,2,"Sep 16, 1972",NC State,43,Syracuse,20,0
+74,2,"Sep 16, 1972",Ohio State,21,Iowa,0,0
+75,2,"Sep 16, 1972",Oklahoma,49,Utah State,0,0
+76,2,"Sep 16, 1972",Texas-Arlington,3,Oklahoma State,21,1
+77,2,"Sep 16, 1972",Arizona,7,Oregon,34,1
+78,2,"Sep 16, 1972",Furman,7,Presbyterian,10,0
+79,2,"Sep 16, 1972",Oregon State,6,USC,51,1
+80,2,"Sep 16, 1972",SMU,56,Wake Forest,10,0
+81,2,"Sep 16, 1972",Stanford,44,San Jose State,0,0
+82,2,"Sep 16, 1972",Tampa,34,Northern Michigan,21,1
+83,2,"Sep 16, 1972",Temple,16,Xavier,12,1
+84,2,"Sep 16, 1972",Tennessee,28,Penn State,21,0
+85,2,"Sep 16, 1972",Texas Tech,45,Utah,2,0
+86,2,"Sep 16, 1972",Toledo,16,Eastern Michigan,0,1
+87,2,"Sep 16, 1972",Tulane,10,Boston College,0,1
+88,2,"Sep 16, 1972",Wichita State,9,Tulsa,10,1
+89,2,"Sep 16, 1972",UCLA,38,Pitt,28,1
+90,2,"Sep 16, 1972",Virginia,24,Virginia Tech,20,0
+91,2,"Sep 16, 1972",Duke,6,Washington,14,1
+92,2,"Sep 16, 1972",Richmond,7,West Virginia,28,1
+93,2,"Sep 16, 1972",Northern Illinois,7,Wisconsin,31,1
+94,3,"Sep 22, 1972",Long Beach State,25,Grambling State,19,1
+95,3,"Sep 22, 1972",Tampa,42,Eastern Michigan,0,0
+96,3,"Sep 23, 1972",Air Force,41,Pitt,13,0
+97,3,"Sep 23, 1972",Alabama,35,Kentucky,0,0
+98,3,"Sep 23, 1972",Arizona State,56,Kansas State,14,0
+99,3,"Sep 23, 1972",Arkansas,24,Oklahoma State,23,0
+100,3,"Sep 23, 1972",Chattanooga,7,Auburn,14,1
+101,3,"Sep 23, 1972",Baylor,27,Missouri,0,1
+102,3,"Sep 23, 1972",Boston College,49,Temple,27,0
+103,3,"Sep 23, 1972",Miami (OH),7,Bowling Green,16,0
+104,3,"Sep 23, 1972",Colgate,33,Lafayette,14,0
+105,3,"Sep 23, 1972",Minnesota,6,Colorado,38,0
+106,3,"Sep 23, 1972",Dayton,39,Marshall,0,0
+107,3,"Sep 23, 1972",Memphis,7,Drake,23,0
+108,3,"Sep 23, 1972",Appalachian State,7,East Carolina,35,1
+109,3,"Sep 23, 1972",Florida State,27,Virginia Tech,15,0
+110,3,"Sep 23, 1972",Fresno State,49,New Mexico State,17,1
+111,3,"Sep 23, 1972",Wofford,7,Furman,24,1
+112,3,"Sep 23, 1972",Georgia Tech,21,Michigan State,16,1
+113,3,"Sep 23, 1972",Holy Cross,30,Brown,24,1
+114,3,"Sep 23, 1972",Houston,21,Tulsa,0,1
+115,3,"Sep 23, 1972",Iowa,19,Oregon State,11,0
+116,3,"Sep 23, 1972",Iowa State,44,Utah,22,0
+117,3,"Sep 23, 1972",Kansas,52,Wyoming,14,0
+118,3,"Sep 23, 1972",Kent State,37,Ohio,14,0
+119,3,"Sep 23, 1972",Lamar,7,Southern Illinois,0,0
+120,3,"Sep 23, 1972",Lenoir-Rhyne,41,Davidson,16,0
+121,3,"Sep 23, 1972",LSU,42,Texas A&M,17,0
+122,3,"Sep 23, 1972",Maryland,28,Virginia Military Institute,16,0
+123,3,"Sep 23, 1972",UCLA,9,Michigan,26,0
+124,3,"Sep 23, 1972",Ole Miss,21,South Carolina,0,1
+125,3,"Sep 23, 1972",Vanderbilt,6,Mississippi State,10,0
+126,3,"Sep 23, 1972",Nebraska,77,Army,7,1
+127,3,"Sep 23, 1972",North Carolina,34,NC State,33,0
+128,3,"Sep 23, 1972",Notre Dame,37,Northwestern,0,1
+129,3,"Sep 23, 1972",Oklahoma,68,Oregon,3,0
+130,3,"Sep 23, 1972",Pacific,19,UTEP,14,1
+131,3,"Sep 23, 1972",Penn State,21,Navy,10,0
+132,3,"Sep 23, 1972",Rice,29,Clemson,10,0
+133,3,"Sep 23, 1972",Richmond,17,Louisiana-Monroe,0,0
+134,3,"Sep 23, 1972",Rutgers,41,Lehigh,13,0
+135,3,"Sep 23, 1972",San Diego State,25,North Texas,0,1
+136,3,"Sep 23, 1972",San Jose State,17,California,10,1
+137,3,"Sep 23, 1972",USC,55,Illinois,20,1
+138,3,"Sep 23, 1972",SMU,21,Florida,14,1
+139,3,"Sep 23, 1972",Duke,6,Stanford,10,0
+140,3,"Sep 23, 1972",Wake Forest,6,Tennessee,45,1
+141,3,"Sep 23, 1972",Texas,23,Miami,10,0
+142,3,"Sep 23, 1972",TCU,31,Indiana,28,1
+143,3,"Sep 23, 1972",Texas Tech,41,New Mexico,16,1
+144,3,"Sep 23, 1972",Toledo,38,Texas-Arlington,24,0
+145,3,"Sep 23, 1972",Tulane,24,Georgia,13,0
+146,3,"Sep 23, 1972",Utah State,42,BYU,19,1
+147,3,"Sep 23, 1972",Villanova,20,William & Mary,17,0
+148,3,"Sep 23, 1972",Washington,22,Purdue,21,1
+149,3,"Sep 23, 1972",Arizona,6,Washington State,28,0
+150,3,"Sep 23, 1972",Weber State,26,Idaho,10,0
+151,3,"Sep 23, 1972",West Texas State,41,Colorado State,14,0
+152,3,"Sep 23, 1972",West Virginia,48,Virginia,10,1
+153,3,"Sep 23, 1972",Western Carolina,10,Citadel,0,1
+154,3,"Sep 23, 1972",Western Michigan,14,Northern Illinois,10,1
+155,3,"Sep 23, 1972",Wichita State,6,Arkansas State,0,1
+156,3,"Sep 23, 1972",Syracuse,7,Wisconsin,31,1
+157,3,"Sep 23, 1972",Cincinnati,7,Xavier,19,0
+158,4,"Sep 29, 1972",Pennsylvania,55,Lafayette,12,0
+159,4,"Sep 29, 1972",UCLA,65,Oregon,20,0
+160,4,"Sep 30, 1972",Air Force,68,Davidson,6,0
+161,4,"Sep 30, 1972",Alabama,48,Vanderbilt,21,0
+162,4,"Sep 30, 1972",Arkansas,21,Tulsa,20,0
+163,4,"Sep 30, 1972",Army,24,Texas A&M,14,1
+164,4,"Sep 30, 1972",Tennessee,6,Auburn,10,1
+165,4,"Sep 30, 1972",Western Michigan,13,Bowling Green,13,0
+166,4,"Sep 30, 1972",Villanova,7,Cincinnati,14,1
+167,4,"Sep 30, 1972",Columbia,44,Fordham,0,1
+168,4,"Sep 30, 1972",Colgate,7,Cornell,37,1
+169,4,"Sep 30, 1972",Dartmouth,24,New Hampshire,14,0
+170,4,"Sep 30, 1972",North Texas,8,Drake,54,1
+171,4,"Sep 30, 1972",Duke,37,Virginia,13,0
+172,4,"Sep 30, 1972",Florida,28,Mississippi State,13,0
+173,4,"Sep 30, 1972",Florida State,44,Kansas,22,1
+174,4,"Sep 30, 1972",Fresno State,23,San Jose State,21,1
+175,4,"Sep 30, 1972",Furman,20,Appalachian State,17,1
+176,4,"Sep 30, 1972",Georgia,28,NC State,22,0
+177,4,"Sep 30, 1972",Indiana,35,Kentucky,34,1
+178,4,"Sep 30, 1972",Iowa State,31,New Mexico,0,0
+179,4,"Sep 30, 1972",Tampa,7,Kansas State,31,1
+180,4,"Sep 30, 1972",Long Beach State,27,Cal State Fullerton,14,0
+181,4,"Sep 30, 1972",Wisconsin,7,LSU,27,1
+182,4,"Sep 30, 1972",Louisville,28,Dayton,11,1
+183,4,"Sep 30, 1972",Massachusetts,28,Harvard,19,1
+184,4,"Sep 30, 1972",Xavier,7,Miami (OH),25,1
+185,4,"Sep 30, 1972",Tulane,7,Michigan,41,1
+186,4,"Sep 30, 1972",Middle Tennessee,17,Chattanooga,13,1
+187,4,"Sep 30, 1972",Southern Miss,9,Ole Miss,13,1
+188,4,"Sep 30, 1972",Missouri,34,California,27,0
+189,4,"Sep 30, 1972",Idaho,3,Montana State,17,1
+190,4,"Sep 30, 1972",Navy,27,Boston College,20,0
+191,4,"Sep 30, 1972",Nebraska,49,Minnesota,0,0
+192,4,"Sep 30, 1972",Marshall,7,Northern Illinois,24,0
+193,4,"Sep 30, 1972",Northwestern,27,Pitt,22,1
+194,4,"Sep 30, 1972",Notre Dame,35,Purdue,14,0
+195,4,"Sep 30, 1972",Ohio,38,Toledo,22,0
+196,4,"Sep 30, 1972",Ohio State,29,North Carolina,14,0
+197,4,"Sep 30, 1972",Oklahoma,52,Clemson,3,0
+198,4,"Sep 30, 1972",Colorado,6,Oklahoma State,31,1
+199,4,"Sep 30, 1972",BYU,3,Oregon State,29,1
+200,4,"Sep 30, 1972",Montana,6,Pacific,24,1
+201,4,"Sep 30, 1972",Penn State,14,Iowa,10,0
+202,4,"Sep 30, 1972",Princeton,7,Rutgers,6,0
+203,4,"Sep 30, 1972",Rhode Island,21,Brown,17,1
+204,4,"Sep 30, 1972",Georgia Tech,36,Rice,36,0
+205,4,"Sep 30, 1972",Richmond,34,Virginia Military Institute,15,0
+206,4,"Sep 30, 1972",San Diego State,14,Kent State,0,1
+207,4,"Sep 30, 1972",Memphis,7,South Carolina,34,1
+208,4,"Sep 30, 1972",Michigan State,6,USC,51,1
+209,4,"Sep 30, 1972",Stanford,41,West Virginia,35,0
+210,4,"Sep 30, 1972",Syracuse,16,Maryland,12,0
+211,4,"Sep 30, 1972",Holy Cross,7,Temple,15,1
+212,4,"Sep 30, 1972",Texas,25,Texas Tech,20,1
+213,4,"Sep 30, 1972",TCU,38,Texas-Arlington,14,0
+214,4,"Sep 30, 1972",UTEP,21,New Mexico State,20,0
+215,4,"Sep 30, 1972",Utah,44,Washington State,25,1
+216,4,"Sep 30, 1972",Utah State,21,Colorado State,0,0
+217,4,"Sep 30, 1972",Virginia Tech,13,SMU,10,0
+218,4,"Sep 30, 1972",Washington,31,Illinois,11,0
+219,4,"Sep 30, 1972",West Texas State,35,Lamar,12,0
+220,4,"Sep 30, 1972",Wichita State,12,Southern Illinois,0,0
+221,4,"Sep 30, 1972",William & Mary,31,Citadel,12,0
+222,4,"Sep 30, 1972",Wyoming,45,Arizona State,43,0
+223,4,"Sep 30, 1972",Connecticut,7,Yale,28,1
+224,5,"Oct 7, 1972",Air Force,52,Colorado State,13,1
+225,5,"Oct 7, 1972",Georgia,7,Alabama,25,0
+226,5,"Oct 7, 1972",Oregon State,7,Arizona State,38,1
+227,5,"Oct 7, 1972",Arkansas,27,TCU,13,1
+228,5,"Oct 7, 1972",Army,26,Lehigh,21,0
+229,5,"Oct 7, 1972",Auburn,19,Ole Miss,13,1
+230,5,"Oct 7, 1972",Miami,3,Baylor,10,1
+231,5,"Oct 7, 1972",Boston College,21,Villanova,20,1
+232,5,"Oct 7, 1972",Toledo,8,Bowling Green,19,0
+233,5,"Oct 7, 1972",BYU,38,Long Beach State,27,1
+234,5,"Oct 7, 1972",Brown,28,Pennsylvania,20,0
+235,5,"Oct 7, 1972",Arkansas State,3,Chattanooga,21,1
+236,5,"Oct 7, 1972",Citadel,42,Virginia Military Institute,3,0
+237,5,"Oct 7, 1972",Colorado,38,Kansas State,17,1
+238,5,"Oct 7, 1972",Princeton,0,Columbia,0,0
+239,5,"Oct 7, 1972",Cornell,36,Rutgers,22,0
+240,5,"Oct 7, 1972",Holy Cross,7,Dartmouth,17,0
+241,5,"Oct 7, 1972",Davidson,10,Appalachian State,10,0
+242,5,"Oct 7, 1972",Southern Illinois,6,Dayton,6,0
+243,5,"Oct 7, 1972",East Carolina,21,Richmond,0,1
+244,5,"Oct 7, 1972",Florida,42,Florida State,13,1
+245,5,"Oct 7, 1972",Clemson,9,Georgia Tech,31,1
+246,5,"Oct 7, 1972",Harvard,33,Boston University,14,0
+247,5,"Oct 7, 1972",Virginia Tech,27,Houston,27,0
+248,5,"Oct 7, 1972",Syracuse,2,Indiana,10,0
+249,5,"Oct 7, 1972",Kansas,34,Minnesota,28,1
+250,5,"Oct 7, 1972",Kentucky,17,Mississippi State,13,0
+251,5,"Oct 7, 1972",Rice,6,LSU,12,0
+252,5,"Oct 7, 1972",Louisiana Tech,35,Texas-Arlington,14,1
+253,5,"Oct 7, 1972",Louisville,17,Tampa,14,1
+254,5,"Oct 7, 1972",Maryland,23,Wake Forest,0,0
+255,5,"Oct 7, 1972",Marshall,7,Miami (OH),22,0
+256,5,"Oct 7, 1972",Navy,7,Michigan,35,1
+257,5,"Oct 7, 1972",New Mexico,17,Wyoming,14,1
+258,5,"Oct 7, 1972",NC State,17,Duke,0,0
+259,5,"Oct 7, 1972",Xavier,7,Northern Illinois,20,1
+260,5,"Oct 7, 1972",Notre Dame,16,Michigan State,0,1
+261,5,"Oct 7, 1972",Ohio,28,Cincinnati,14,1
+262,5,"Oct 7, 1972",Ohio State,35,California,18,1
+263,5,"Oct 7, 1972",Oklahoma State,17,Missouri,16,0
+264,5,"Oct 7, 1972",Pacific,17,Fresno State,0,1
+265,5,"Oct 7, 1972",Penn State,35,Illinois,17,1
+266,5,"Oct 7, 1972",Purdue,24,Iowa,0,1
+267,5,"Oct 7, 1972",San Diego State,23,San Jose State,12,0
+268,5,"Oct 7, 1972",South Dakota,28,Drake,23,0
+269,5,"Oct 7, 1972",USC,30,Stanford,21,1
+270,5,"Oct 7, 1972",New Mexico State,6,SMU,55,1
+271,5,"Oct 7, 1972",West Texas State,7,Southern Miss,14,1
+272,5,"Oct 7, 1972",Memphis,7,Tennessee,38,0
+273,5,"Oct 7, 1972",Texas,27,Utah State,12,0
+274,5,"Oct 7, 1972",Texas Tech,35,Tulsa,18,0
+275,5,"Oct 7, 1972",Pitt,6,Tulane,38,1
+276,5,"Oct 7, 1972",UCLA,42,Arizona,31,0
+277,5,"Oct 7, 1972",Utah,39,UTEP,20,0
+278,5,"Oct 7, 1972",Virginia,7,Vanderbilt,10,1
+279,5,"Oct 7, 1972",Washington,23,Oregon,17,0
+280,5,"Oct 7, 1972",Washington State,35,Idaho,14,0
+281,5,"Oct 7, 1972",West Virginia,49,William & Mary,34,0
+282,5,"Oct 7, 1972",Western Carolina,20,Furman,15,0
+283,5,"Oct 7, 1972",Western Michigan,13,Kent State,12,1
+284,5,"Oct 7, 1972",North Texas,6,Wichita State,23,1
+285,5,"Oct 7, 1972",Wisconsin,21,Northwestern,14,0
+286,5,"Oct 7, 1972",Colgate,7,Yale,27,1
+287,6,"Oct 14, 1972",Boston College,9,Air Force,13,0
+288,6,"Oct 14, 1972",Florida,7,Alabama,24,1
+289,6,"Oct 14, 1972",Arizona,27,New Mexico,15,1
+290,6,"Oct 14, 1972",Arizona State,59,Utah,48,0
+291,6,"Oct 14, 1972",Arkansas,31,Baylor,20,0
+292,6,"Oct 14, 1972",Dayton,7,Ball State,28,1
+293,6,"Oct 14, 1972",BYU,21,UTEP,14,0
+294,6,"Oct 14, 1972",Fresno State,24,Cal Poly,24,0
+295,6,"Oct 14, 1972",Colorado,34,Iowa State,22,0
+296,6,"Oct 14, 1972",Cornell,24,Pennsylvania,20,0
+297,6,"Oct 14, 1972",Dartmouth,35,Princeton,14,0
+298,6,"Oct 14, 1972",Davidson,51,Furman,35,0
+299,6,"Oct 14, 1972",Drake,21,Northern Iowa,14,1
+300,6,"Oct 14, 1972",Duke,7,Clemson,0,1
+301,6,"Oct 14, 1972",East Carolina,27,Citadel,21,0
+302,6,"Oct 14, 1972",Florida State,25,Mississippi State,21,1
+303,6,"Oct 14, 1972",Georgia,14,Ole Miss,13,1
+304,6,"Oct 14, 1972",Harvard,20,Columbia,18,1
+305,6,"Oct 14, 1972",Colgate,21,Holy Cross,21,0
+306,6,"Oct 14, 1972",Houston,49,San Diego State,14,0
+307,6,"Oct 14, 1972",Idaho,31,Northern Illinois,13,0
+308,6,"Oct 14, 1972",Wisconsin,7,Indiana,33,1
+309,6,"Oct 14, 1972",Iowa,23,Northwestern,12,1
+310,6,"Oct 14, 1972",Kansas State,20,Kansas,19,0
+311,6,"Oct 14, 1972",Kent State,14,Bowling Green,10,1
+312,6,"Oct 14, 1972",Louisiana,22,Chattanooga,21,1
+313,6,"Oct 14, 1972",Auburn,7,LSU,35,1
+314,6,"Oct 14, 1972",North Texas,6,Louisville,56,1
+315,6,"Oct 14, 1972",Villanova,7,Maryland,37,1
+316,6,"Oct 14, 1972",Memphis,38,Utah State,29,0
+317,6,"Oct 14, 1972",Miami,24,Tulane,21,0
+318,6,"Oct 14, 1972",Ohio,7,Miami (OH),31,1
+319,6,"Oct 14, 1972",Michigan,10,Michigan State,0,0
+320,6,"Oct 14, 1972",Nebraska,62,Missouri,0,0
+321,6,"Oct 14, 1972",North Carolina,31,Kentucky,20,0
+322,6,"Oct 14, 1972",NC State,42,Wake Forest,13,1
+323,6,"Oct 14, 1972",Notre Dame,42,Pitt,16,0
+324,6,"Oct 14, 1972",Illinois,7,Ohio State,26,1
+325,6,"Oct 14, 1972",Oklahoma,27,Texas,0,0
+326,6,"Oct 14, 1972",Pacific,14,Long Beach State,10,0
+327,6,"Oct 14, 1972",Penn State,45,Army,0,1
+328,6,"Oct 14, 1972",Minnesota,3,Purdue,28,0
+329,6,"Oct 14, 1972",Lafayette,7,Rutgers,21,0
+330,6,"Oct 14, 1972",Appalachian State,7,South Carolina,41,1
+331,6,"Oct 14, 1972",USC,42,California,14,0
+332,6,"Oct 14, 1972",Richmond,9,Southern Miss,34,0
+333,6,"Oct 14, 1972",Stanford,24,Washington,0,0
+334,6,"Oct 14, 1972",Syracuse,30,Navy,14,0
+335,6,"Oct 14, 1972",Tampa,44,Southern Illinois,0,0
+336,6,"Oct 14, 1972",Temple,39,West Virginia,36,0
+337,6,"Oct 14, 1972",Tulsa,9,TCU,35,0
+338,6,"Oct 14, 1972",Texas Tech,17,Texas A&M,14,1
+339,6,"Oct 14, 1972",Toledo,20,Western Michigan,13,1
+340,6,"Oct 14, 1972",Oregon State,7,UCLA,37,0
+341,6,"Oct 14, 1972",Vanderbilt,21,William & Mary,17,1
+342,6,"Oct 14, 1972",Virginia,45,Virginia Military Institute,14,0
+343,6,"Oct 14, 1972",Virginia Tech,34,Oklahoma State,32,0
+344,6,"Oct 14, 1972",Washington State,31,Oregon,14,1
+345,6,"Oct 14, 1972",West Texas State,63,New Mexico State,14,0
+346,6,"Oct 14, 1972",Wichita State,20,Cincinnati,17,0
+347,6,"Oct 14, 1972",Colorado State,9,Wyoming,28,0
+348,6,"Oct 14, 1972",Xavier,14,Marshall,0,0
+349,6,"Oct 14, 1972",Yale,53,Brown,19,0
+350,7,"Oct 20, 1972",Boston University,17,Temple,14,0
+351,7,"Oct 21, 1972",Alabama,17,Tennessee,10,1
+352,7,"Oct 21, 1972",Appalachian State,42,Lenoir-Rhyne,13,0
+353,7,"Oct 21, 1972",Arizona State,49,BYU,17,1
+354,7,"Oct 21, 1972",Army,35,Rutgers,28,1
+355,7,"Oct 21, 1972",Auburn,24,Georgia Tech,14,0
+356,7,"Oct 21, 1972",Citadel,12,Chattanooga,0,1
+357,7,"Oct 21, 1972",Clemson,37,Virginia,21,0
+358,7,"Oct 21, 1972",Colgate,35,Princeton,26,1
+359,7,"Oct 21, 1972",Colorado,20,Oklahoma,14,0
+360,7,"Oct 21, 1972",Dartmouth,49,Brown,20,0
+361,7,"Oct 21, 1972",Duke,20,Maryland,14,0
+362,7,"Oct 21, 1972",Florida,16,Ole Miss,0,1
+363,7,"Oct 21, 1972",Florida State,37,Colorado State,0,0
+364,7,"Oct 21, 1972",Fresno State,31,Cal State Los Angeles,0,0
+365,7,"Oct 21, 1972",Vanderbilt,3,Georgia,28,1
+366,7,"Oct 21, 1972",Harvard,33,Cornell,15,0
+367,7,"Oct 21, 1972",Idaho,7,Idaho State,35,1
+368,7,"Oct 21, 1972",Iowa State,55,Kansas State,22,0
+369,7,"Oct 21, 1972",Kent State,26,Xavier,16,0
+370,7,"Oct 21, 1972",LSU,10,Kentucky,0,0
+371,7,"Oct 21, 1972",Louisville,46,Wichita State,3,1
+372,7,"Oct 21, 1972",Memphis,7,North Texas,6,1
+373,7,"Oct 21, 1972",Miami,33,Houston,13,0
+374,7,"Oct 21, 1972",South Carolina,8,Miami (OH),21,0
+375,7,"Oct 21, 1972",Illinois,7,Michigan,31,0
+376,7,"Oct 21, 1972",Michigan State,31,Wisconsin,0,0
+377,7,"Oct 21, 1972",Minnesota,43,Iowa,14,0
+378,7,"Oct 21, 1972",Southern Miss,7,Mississippi State,26,1
+379,7,"Oct 21, 1972",Missouri,30,Notre Dame,26,1
+380,7,"Oct 21, 1972",Navy,21,Air Force,17,1
+381,7,"Oct 21, 1972",Nebraska,56,Kansas,0,1
+382,7,"Oct 21, 1972",UTEP,7,New Mexico,56,0
+383,7,"Oct 21, 1972",New Mexico State,17,Texas-Arlington,12,1
+384,7,"Oct 21, 1972",North Carolina,21,Wake Forest,0,1
+385,7,"Oct 21, 1972",NC State,38,East Carolina,16,0
+386,7,"Oct 21, 1972",West Texas State,8,Northern Illinois,17,1
+387,7,"Oct 21, 1972",Indiana,7,Ohio State,44,1
+388,7,"Oct 21, 1972",Baylor,7,Oklahoma State,20,1
+389,7,"Oct 21, 1972",Oregon,15,Stanford,13,0
+390,7,"Oct 21, 1972",Pacific,38,San Jose State,28,0
+391,7,"Oct 21, 1972",Penn State,17,Syracuse,0,0
+392,7,"Oct 21, 1972",Pennsylvania,30,Lehigh,27,1
+393,7,"Oct 21, 1972",Pitt,35,Boston College,20,0
+394,7,"Oct 21, 1972",Purdue,37,Northwestern,0,0
+395,7,"Oct 21, 1972",Villanova,7,Quantico Marines,13,0
+396,7,"Oct 21, 1972",Richmond,37,Furman,0,1
+397,7,"Oct 21, 1972",San Diego State,35,Bowling Green,19,0
+398,7,"Oct 21, 1972",Washington,7,USC,34,1
+399,7,"Oct 21, 1972",Ball State,7,Southern Illinois,13,1
+400,7,"Oct 21, 1972",SMU,29,Rice,14,0
+401,7,"Oct 21, 1972",Drake,7,Tampa,24,1
+402,7,"Oct 21, 1972",Texas,35,Arkansas,15,0
+403,7,"Oct 21, 1972",TCU,13,Texas A&M,10,1
+404,7,"Oct 21, 1972",Texas Tech,35,Arizona,10,0
+405,7,"Oct 21, 1972",Toledo,20,Dayton,17,1
+406,7,"Oct 21, 1972",UCLA,49,California,13,1
+407,7,"Oct 21, 1972",Wyoming,6,Utah,27,0
+408,7,"Oct 21, 1972",Virginia Tech,53,Ohio,21,1
+409,7,"Oct 21, 1972",Oregon State,7,Washington State,37,1
+410,7,"Oct 21, 1972",West Virginia,31,Tulane,19,0
+411,7,"Oct 21, 1972",Western Michigan,34,Marshall,0,1
+412,7,"Oct 21, 1972",William & Mary,31,Virginia Military Institute,3,1
+413,7,"Oct 21, 1972",Wofford,27,Davidson,17,0
+414,7,"Oct 21, 1972",Yale,28,Columbia,14,0
+415,8,"Oct 28, 1972",Air Force,39,Arizona State,31,1
+416,8,"Oct 28, 1972",Alabama,48,Southern Miss,11,0
+417,8,"Oct 28, 1972",Appalachian State,35,East Tennessee State,34,1
+418,8,"Oct 28, 1972",Arizona,45,UTEP,22,0
+419,8,"Oct 28, 1972",Arkansas,42,North Texas,16,0
+420,8,"Oct 28, 1972",Auburn,27,Florida State,14,0
+421,8,"Oct 28, 1972",Baylor,15,Texas A&M,13,0
+422,8,"Oct 28, 1972",Marshall,7,Bowling Green,46,1
+423,8,"Oct 28, 1972",Colorado State,8,BYU,44,0
+424,8,"Oct 28, 1972",Clemson,31,Wake Forest,0,1
+425,8,"Oct 28, 1972",Colgate,28,Citadel,26,1
+426,8,"Oct 28, 1972",Cornell,24,Yale,13,0
+427,8,"Oct 28, 1972",Harvard,21,Dartmouth,21,0
+428,8,"Oct 28, 1972",Davidson,25,Bucknell,21,0
+429,8,"Oct 28, 1972",Dayton,14,Virginia Military Institute,10,0
+430,8,"Oct 28, 1972",Temple,9,Delaware,28,0
+431,8,"Oct 28, 1972",Drake,28,New Mexico State,10,1
+432,8,"Oct 28, 1972",Duke,17,Navy,16,0
+433,8,"Oct 28, 1972",East Carolina,27,Furman,21,1
+434,8,"Oct 28, 1972",Kentucky,7,Georgia,13,0
+435,8,"Oct 28, 1972",Tulane,7,Georgia Tech,21,1
+436,8,"Oct 28, 1972",Villanova,9,Holy Cross,26,1
+437,8,"Oct 28, 1972",Southern Illinois,7,Illinois State,10,0
+438,8,"Oct 28, 1972",Kansas,8,Iowa State,34,0
+439,8,"Oct 28, 1972",Louisville,38,Cincinnati,13,1
+440,8,"Oct 28, 1972",Maryland,24,Virginia,23,1
+441,8,"Oct 28, 1972",Memphis,49,Tulsa,21,0
+442,8,"Oct 28, 1972",Army,7,Miami,28,0
+443,8,"Oct 28, 1972",Michigan,42,Minnesota,0,0
+444,8,"Oct 28, 1972",Iowa,6,Michigan State,6,0
+445,8,"Oct 28, 1972",Vanderbilt,7,Ole Miss,31,0
+446,8,"Oct 28, 1972",Mississippi State,27,Houston,13,0
+447,8,"Oct 28, 1972",Missouri,20,Colorado,17,0
+448,8,"Oct 28, 1972",Nebraska,34,Oklahoma State,0,0
+449,8,"Oct 28, 1972",NC State,42,South Carolina,24,0
+450,8,"Oct 28, 1972",Kent State,7,Northern Illinois,28,1
+451,8,"Oct 28, 1972",Northwestern,23,Indiana,14,0
+452,8,"Oct 28, 1972",Notre Dame,21,TCU,0,0
+453,8,"Oct 28, 1972",Ohio State,28,Wisconsin,20,1
+454,8,"Oct 28, 1972",Oklahoma,52,Kansas State,0,0
+455,8,"Oct 28, 1972",Idaho,7,Pacific,22,0
+456,8,"Oct 28, 1972",Penn State,28,West Virginia,19,1
+457,8,"Oct 28, 1972",Pennsylvania,15,Princeton,10,0
+458,8,"Oct 28, 1972",Purdue,20,Illinois,14,0
+459,8,"Oct 28, 1972",Rutgers,6,Columbia,3,1
+460,8,"Oct 28, 1972",San Diego State,21,Fresno State,14,0
+461,8,"Oct 28, 1972",Long Beach State,8,San Jose State,35,1
+462,8,"Oct 28, 1972",USC,18,Oregon,0,1
+463,8,"Oct 28, 1972",Stanford,17,Oregon State,11,0
+464,8,"Oct 28, 1972",Pitt,6,Syracuse,10,1
+465,8,"Oct 28, 1972",Tennessee,34,Hawaii,2,0
+466,8,"Oct 28, 1972",Chattanooga,8,Tennessee Tech,24,1
+467,8,"Oct 28, 1972",Rice,9,Texas,45,0
+468,8,"Oct 28, 1972",SMU,3,Texas Tech,17,0
+469,8,"Oct 28, 1972",Texas-Arlington,7,Louisiana,0,1
+470,8,"Oct 28, 1972",Toledo,35,Miami (OH),21,0
+471,8,"Oct 28, 1972",UCLA,35,Washington State,20,0
+472,8,"Oct 28, 1972",Utah,59,New Mexico,14,0
+473,8,"Oct 28, 1972",Utah State,35,Wyoming,23,1
+474,8,"Oct 28, 1972",Washington,35,California,21,0
+475,8,"Oct 28, 1972",West Texas State,21,Wichita State,16,0
+476,8,"Oct 28, 1972",Western Michigan,34,Ohio,17,0
+477,8,"Oct 28, 1972",William & Mary,17,Virginia Tech,16,0
+478,8,"Oct 28, 1972",Xavier,7,Youngstown State,47,0
+479,9,"Nov 4, 1972",Alabama,58,Mississippi State,14,0
+480,9,"Nov 4, 1972",North Alabama,3,Appalachian State,17,0
+481,9,"Nov 4, 1972",Arizona State,55,UTEP,14,1
+482,9,"Nov 4, 1972",Army,17,Air Force,14,0
+483,9,"Nov 4, 1972",Auburn,26,Florida,20,1
+484,9,"Nov 4, 1972",TCU,9,Baylor,42,0
+485,9,"Nov 4, 1972",Boston College,37,Syracuse,0,0
+486,9,"Nov 4, 1972",Bowling Green,17,Ohio,0,0
+487,9,"Nov 4, 1972",BYU,33,Wyoming,14,0
+488,9,"Nov 4, 1972",California,31,Oregon,12,0
+489,9,"Nov 4, 1972",Colgate,42,Lehigh,34,0
+490,9,"Nov 4, 1972",Columbia,14,Cornell,0,0
+491,9,"Nov 4, 1972",Dayton,31,Xavier,13,0
+492,9,"Nov 4, 1972",Villanova,7,Delaware,14,0
+493,9,"Nov 4, 1972",Southern Illinois,9,Drake,19,1
+494,9,"Nov 4, 1972",Duke,20,Georgia Tech,14,0
+495,9,"Nov 4, 1972",Chattanooga,7,East Carolina,33,1
+496,9,"Nov 4, 1972",Holy Cross,28,Massachusetts,16,0
+497,9,"Nov 4, 1972",Houston,31,Florida State,27,1
+498,9,"Nov 4, 1972",Illinois,43,Northwestern,13,1
+499,9,"Nov 4, 1972",Kansas,13,Oklahoma State,10,1
+500,9,"Nov 4, 1972",Kent State,16,Marshall,14,1
+501,9,"Nov 4, 1972",Lamar,24,New Mexico State,19,1
+502,9,"Nov 4, 1972",Long Beach State,21,Fresno State,16,1
+503,9,"Nov 4, 1972",LSU,17,Ole Miss,16,0
+504,9,"Nov 4, 1972",Memphis,58,Wichita State,14,0
+505,9,"Nov 4, 1972",UNLV,7,Miami,51,1
+506,9,"Nov 4, 1972",Western Michigan,8,Miami (OH),38,1
+507,9,"Nov 4, 1972",Indiana,7,Michigan,21,0
+508,9,"Nov 4, 1972",Michigan State,22,Purdue,12,0
+509,9,"Nov 4, 1972",Missouri,31,Kansas State,14,1
+510,9,"Nov 4, 1972",Nebraska,33,Colorado,10,1
+511,9,"Nov 4, 1972",North Carolina,26,Clemson,10,1
+512,9,"Nov 4, 1972",NC State,35,Virginia,14,1
+513,9,"Nov 4, 1972",North Texas,27,Cincinnati,25,0
+514,9,"Nov 4, 1972",Toledo,7,Northern Illinois,30,0
+515,9,"Nov 4, 1972",Notre Dame,42,Navy,23,0
+516,9,"Nov 4, 1972",Ohio State,27,Minnesota,19,0
+517,9,"Nov 4, 1972",Iowa State,6,Oklahoma,20,0
+518,9,"Nov 4, 1972",Pacific,36,Cal State Los Angeles,21,0
+519,9,"Nov 4, 1972",Penn State,46,Maryland,16,0
+520,9,"Nov 4, 1972",Pennsylvania,38,Harvard,27,1
+521,9,"Nov 4, 1972",Princeton,31,Brown,10,1
+522,9,"Nov 4, 1972",Citadel,7,Richmond,21,0
+523,9,"Nov 4, 1972",Rutgers,21,Connecticut,13,0
+524,9,"Nov 4, 1972",West Texas State,6,San Diego State,37,1
+525,9,"Nov 4, 1972",New Mexico,7,San Jose State,14,0
+526,9,"Nov 4, 1972",South Carolina,35,Wake Forest,3,0
+527,9,"Nov 4, 1972",USC,44,Washington State,3,1
+528,9,"Nov 4, 1972",Florida A&M,9,Tampa,26,0
+529,9,"Nov 4, 1972",Tennessee,14,Georgia,0,1
+530,9,"Nov 4, 1972",SMU,9,Texas,17,1
+531,9,"Nov 4, 1972",Arkansas,7,Texas A&M,10,1
+532,9,"Nov 4, 1972",Rice,6,Texas Tech,10,0
+533,9,"Nov 4, 1972",Texas-Arlington,36,Abilene Christian,22,0
+534,9,"Nov 4, 1972",Kentucky,7,Tulane,18,1
+535,9,"Nov 4, 1972",Tulsa,28,Louisville,26,1
+536,9,"Nov 4, 1972",UCLA,28,Stanford,23,0
+537,9,"Nov 4, 1972",Utah,28,Arizona,27,0
+538,9,"Nov 4, 1972",Idaho,7,Utah State,51,1
+539,9,"Nov 4, 1972",Furman,7,Virginia Military Institute,31,1
+540,9,"Nov 4, 1972",Virginia Tech,27,Southern Miss,14,0
+541,9,"Nov 4, 1972",Washington,23,Oregon State,16,1
+542,9,"Nov 4, 1972",West Virginia,38,Pitt,20,1
+543,9,"Nov 4, 1972",Davidson,9,William & Mary,56,0
+544,9,"Nov 4, 1972",Wisconsin,16,Iowa,14,0
+545,9,"Nov 4, 1972",Yale,45,Dartmouth,14,0
+546,10,"Nov 11, 1972",Alabama,35,LSU,21,0
+547,10,"Nov 11, 1972",Eastern Kentucky,7,Appalachian State,55,1
+548,10,"Nov 11, 1972",BYU,7,Arizona,21,1
+549,10,"Nov 11, 1972",New Mexico,7,Arizona State,60,1
+550,10,"Nov 11, 1972",Bowling Green,5,Dayton,0,0
+551,10,"Nov 11, 1972",Colgate,7,Bucknell,41,1
+552,10,"Nov 11, 1972",Southern Miss,6,Chattanooga,10,0
+553,10,"Nov 11, 1972",Citadel,19,Furman,13,1
+554,10,"Nov 11, 1972",Kansas,8,Colorado,33,1
+555,10,"Nov 11, 1972",Cornell,48,Brown,28,1
+556,10,"Nov 11, 1972",Columbia,8,Dartmouth,38,1
+557,10,"Nov 11, 1972",Louisiana-Monroe,7,Drake,35,1
+558,10,"Nov 11, 1972",East Carolina,21,William & Mary,15,1
+559,10,"Nov 11, 1972",Florida State,23,Tulsa,21,0
+560,10,"Nov 11, 1972",Fresno State,9,Northern Illinois,6,1
+561,10,"Nov 11, 1972",Florida,7,Georgia,10,1
+562,10,"Nov 11, 1972",Georgia Tech,42,Boston College,10,0
+563,10,"Nov 11, 1972",Houston,48,Colorado State,13,0
+564,10,"Nov 11, 1972",Idaho,31,Montana,17,0
+565,10,"Nov 11, 1972",Illinois,37,Indiana,20,0
+566,10,"Nov 11, 1972",Kent State,21,Miami (OH),10,1
+567,10,"Nov 11, 1972",Kentucky,14,Vanderbilt,13,0
+568,10,"Nov 11, 1972",Louisville,20,Southern Illinois,16,1
+569,10,"Nov 11, 1972",Clemson,6,Maryland,31,1
+570,10,"Nov 11, 1972",Memphis,49,Cincinnati,24,0
+571,10,"Nov 11, 1972",Michigan,31,Iowa,0,1
+572,10,"Nov 11, 1972",Michigan State,19,Ohio State,12,0
+573,10,"Nov 11, 1972",Minnesota,35,Northwestern,29,0
+574,10,"Nov 11, 1972",Navy,28,Pitt,13,0
+575,10,"Nov 11, 1972",Iowa State,23,Nebraska,23,0
+576,10,"Nov 11, 1972",New Mexico State,36,North Texas,22,1
+577,10,"Nov 11, 1972",Virginia,3,North Carolina,23,1
+578,10,"Nov 11, 1972",Air Force,7,Notre Dame,21,0
+579,10,"Nov 11, 1972",Missouri,6,Oklahoma,17,1
+580,10,"Nov 11, 1972",Oklahoma State,45,Kansas State,14,1
+581,10,"Nov 11, 1972",Oregon,27,San Jose State,2,0
+582,10,"Nov 11, 1972",Oregon State,26,California,23,0
+583,10,"Nov 11, 1972",Penn State,37,NC State,22,0
+584,10,"Nov 11, 1972",Pennsylvania,48,Yale,30,0
+585,10,"Nov 11, 1972",Harvard,7,Princeton,10,1
+586,10,"Nov 11, 1972",Wisconsin,6,Purdue,27,1
+587,10,"Nov 11, 1972",Rice,23,Arkansas,20,1
+588,10,"Nov 11, 1972",Richmond,20,Davidson,14,0
+589,10,"Nov 11, 1972",Boston University,7,Rutgers,51,1
+590,10,"Nov 11, 1972",Pacific,7,San Diego State,20,1
+591,10,"Nov 11, 1972",Army,6,Syracuse,27,1
+592,10,"Nov 11, 1972",Tampa,7,Miami,0,0
+593,10,"Nov 11, 1972",Temple,22,Rhode Island,0,0
+594,10,"Nov 11, 1972",Baylor,3,Texas,17,0
+595,10,"Nov 11, 1972",Texas A&M,27,SMU,17,1
+596,10,"Nov 11, 1972",Texas Tech,7,TCU,31,0
+597,10,"Nov 11, 1972",West Texas State,7,Texas-Arlington,20,1
+598,10,"Nov 11, 1972",UTEP,20,Wyoming,13,0
+599,10,"Nov 11, 1972",Toledo,21,Marshall,0,0
+600,10,"Nov 11, 1972",Ohio,6,Tulane,44,1
+601,10,"Nov 11, 1972",Utah State,44,Utah,16,0
+602,10,"Nov 11, 1972",Villanova,40,Xavier,13,0
+603,10,"Nov 11, 1972",Virginia Tech,45,South Carolina,20,0
+604,10,"Nov 11, 1972",Wake Forest,9,Duke,7,1
+605,10,"Nov 11, 1972",Washington,30,UCLA,21,0
+606,10,"Nov 11, 1972",Washington State,27,Stanford,13,0
+607,10,"Nov 11, 1972",West Virginia,50,Virginia Military Institute,24,0
+608,10,"Nov 11, 1972",Western Michigan,31,Ball State,14,0
+609,10,"Nov 11, 1972",Wichita State,17,Trinity (Texas),14,0
+610,11,"Nov 17, 1972",Northern Illinois,22,Long Beach State,13,1
+611,11,"Nov 18, 1972",Alabama,52,Virginia Tech,13,0
+612,11,"Nov 18, 1972",Arizona State,51,San Jose State,21,0
+613,11,"Nov 18, 1972",Army,15,Holy Cross,13,0
+614,11,"Nov 18, 1972",Auburn,27,Georgia,10,0
+615,11,"Nov 18, 1972",Utah,7,BYU,16,0
+616,11,"Nov 18, 1972",California,24,Stanford,21,0
+617,11,"Nov 18, 1972",Furman,7,Carson-Newman,57,1
+618,11,"Nov 18, 1972",Citadel,25,Davidson,16,0
+619,11,"Nov 18, 1972",Colgate,26,Boston University,0,1
+620,11,"Nov 18, 1972",Air Force,7,Colorado,38,0
+621,11,"Nov 18, 1972",Colorado State,35,UTEP,22,0
+622,11,"Nov 18, 1972",Dartmouth,31,Cornell,22,1
+623,11,"Nov 18, 1972",East Carolina,24,Dayton,22,0
+624,11,"Nov 18, 1972",Florida,40,Kentucky,0,0
+625,11,"Nov 18, 1972",Navy,7,Georgia Tech,30,1
+626,11,"Nov 18, 1972",Harvard,21,Brown,14,0
+627,11,"Nov 18, 1972",Houston,33,New Mexico,14,0
+628,11,"Nov 18, 1972",Idaho State,24,Drake,21,0
+629,11,"Nov 18, 1972",Wisconsin,7,Illinois,27,1
+630,11,"Nov 18, 1972",Iowa,8,Indiana,16,1
+631,11,"Nov 18, 1972",Indiana State,31,Southern Illinois,3,1
+632,11,"Nov 18, 1972",Toledo,9,Kent State,27,1
+633,11,"Nov 18, 1972",LSU,28,Mississippi State,14,0
+634,11,"Nov 18, 1972",Louisville,17,Memphis,0,0
+635,11,"Nov 18, 1972",Marshall,31,Ohio,14,1
+636,11,"Nov 18, 1972",Miami (OH),23,Cincinnati,0,1
+637,11,"Nov 18, 1972",Michigan,9,Purdue,6,0
+638,11,"Nov 18, 1972",Minnesota,14,Michigan State,10,0
+639,11,"Nov 18, 1972",Missouri,6,Iowa State,5,0
+640,11,"Nov 18, 1972",Fresno State,6,Montana State,10,0
+641,11,"Nov 18, 1972",Kansas State,7,Nebraska,59,1
+642,11,"Nov 18, 1972",North Carolina,14,Duke,0,0
+643,11,"Nov 18, 1972",NC State,42,Clemson,17,0
+644,11,"Nov 18, 1972",Notre Dame,20,Miami,17,0
+645,11,"Nov 18, 1972",Ohio State,27,Northwestern,14,1
+646,11,"Nov 18, 1972",Kansas,7,Oklahoma,31,0
+647,11,"Nov 18, 1972",Oregon,30,Oregon State,3,1
+648,11,"Nov 18, 1972",Pacific,36,California-Davis,26,0
+649,11,"Nov 18, 1972",Penn State,45,Boston College,26,1
+650,11,"Nov 18, 1972",Pennsylvania,20,Columbia,14,0
+651,11,"Nov 18, 1972",Quantico Marines,34,Xavier,0,0
+652,11,"Nov 18, 1972",Rice,20,Texas A&M,14,1
+653,11,"Nov 18, 1972",William & Mary,3,Richmond,20,1
+654,11,"Nov 18, 1972",Rutgers,37,Morgan State,14,0
+655,11,"Nov 18, 1972",South Carolina,24,Florida State,21,0
+656,11,"Nov 18, 1972",UCLA,7,USC,24,0
+657,11,"Nov 18, 1972",Arkansas,7,SMU,22,0
+658,11,"Nov 18, 1972",Tampa,29,Bowling Green,22,0
+659,11,"Nov 18, 1972",Temple,12,Villanova,10,1
+660,11,"Nov 18, 1972",Tennessee,17,Ole Miss,0,0
+661,11,"Nov 18, 1972",Texas,27,TCU,0,1
+662,11,"Nov 18, 1972",Baylor,7,Texas Tech,13,0
+663,11,"Nov 18, 1972",Lamar,3,Texas-Arlington,10,1
+664,11,"Nov 18, 1972",Vanderbilt,7,Tulane,21,0
+665,11,"Nov 18, 1972",Montana,7,Tulsa,10,1
+666,11,"Nov 18, 1972",Utah State,27,Southern Miss,21,0
+667,11,"Nov 18, 1972",Virginia,15,Wake Forest,12,1
+668,11,"Nov 18, 1972",Virginia Military Institute,17,Chattanooga,0,1
+669,11,"Nov 18, 1972",Washington State,27,Washington,10,0
+670,11,"Nov 18, 1972",West Texas State,17,North Texas,14,1
+671,11,"Nov 18, 1972",West Virginia,43,Syracuse,12,0
+672,11,"Nov 18, 1972",Western Carolina,35,Appalachian State,21,1
+673,11,"Nov 18, 1972",Western Michigan,27,Idaho,16,0
+674,11,"Nov 18, 1972",Wichita State,23,New Mexico State,20,1
+675,11,"Nov 18, 1972",Wyoming,22,Arizona,14,1
+676,11,"Nov 18, 1972",Princeton,7,Yale,31,1
+677,12,"Nov 23, 1972",Oklahoma,17,Nebraska,14,1
+678,12,"Nov 23, 1972",Texas,38,Texas A&M,3,0
+679,12,"Nov 23, 1972",Utah State,20,Weber State,16,0
+680,12,"Nov 25, 1972",Arizona State,38,Arizona,21,1
+681,12,"Nov 25, 1972",Arkansas,24,Texas Tech,14,1
+682,12,"Nov 25, 1972",New Mexico,7,BYU,21,0
+683,12,"Nov 25, 1972",Clemson,7,South Carolina,6,0
+684,12,"Nov 25, 1972",Columbia,28,Brown,12,0
+685,12,"Nov 25, 1972",Cornell,22,Princeton,15,1
+686,12,"Nov 25, 1972",Dartmouth,31,Pennsylvania,17,1
+687,12,"Nov 25, 1972",East Tennessee State,35,Chattanooga,0,0
+688,12,"Nov 25, 1972",Hawaii,28,San Jose State,14,0
+689,12,"Nov 25, 1972",Holy Cross,20,Connecticut,10,0
+690,12,"Nov 25, 1972",Houston,49,Cincinnati,0,0
+691,12,"Nov 25, 1972",Idaho,22,Boise State,21,1
+692,12,"Nov 25, 1972",Iowa,15,Illinois,14,0
+693,12,"Nov 25, 1972",Kansas,28,Missouri,17,1
+694,12,"Nov 25, 1972",Florida,3,LSU,3,0
+695,12,"Nov 25, 1972",Louisville,27,Drake,0,0
+696,12,"Nov 25, 1972",Boston College,7,Massachusetts,28,1
+697,12,"Nov 25, 1972",Maryland,8,Miami,28,1
+698,12,"Nov 25, 1972",Michigan State,24,Northwestern,14,0
+699,12,"Nov 25, 1972",Wisconsin,6,Minnesota,14,0
+700,12,"Nov 25, 1972",Ole Miss,51,Mississippi State,14,0
+701,12,"Nov 25, 1972",North Carolina,42,East Carolina,19,0
+702,12,"Nov 25, 1972",Ohio State,14,Michigan,11,0
+703,12,"Nov 25, 1972",Oklahoma State,45,Iowa State,14,0
+704,12,"Nov 25, 1972",Penn State,49,Pitt,27,0
+705,12,"Nov 25, 1972",Indiana,7,Purdue,42,1
+706,12,"Nov 25, 1972",Rice,25,TCU,21,0
+707,12,"Nov 25, 1972",Rutgers,43,Colgate,13,0
+708,12,"Nov 25, 1972",San Diego State,33,Long Beach State,14,1
+709,12,"Nov 25, 1972",Baylor,7,SMU,12,1
+710,12,"Nov 25, 1972",Vanderbilt,7,Tampa,30,1
+711,12,"Nov 25, 1972",Kentucky,7,Tennessee,17,1
+712,12,"Nov 25, 1972",Texas-Arlington,7,Arkansas State,6,0
+713,12,"Nov 25, 1972",Tulsa,45,North Texas,22,0
+714,12,"Nov 25, 1972",Utah,62,Colorado State,36,0
+715,12,"Nov 25, 1972",Wake Forest,9,Virginia Tech,44,0
+716,12,"Nov 25, 1972",Yale,28,Harvard,17,1
+717,13,"Dec 2, 1972",Army,23,Navy,15,0
+718,13,"Dec 2, 1972",Auburn,17,Alabama,16,0
+719,13,"Dec 2, 1972",Baylor,28,Rice,14,0
+720,13,"Dec 2, 1972",Boston College,41,Holy Cross,11,0
+721,13,"Dec 2, 1972",Miami,6,Florida,17,1
+722,13,"Dec 2, 1972",Georgia Tech,7,Georgia,27,1
+723,13,"Dec 2, 1972",Long Beach State,35,Cal State Northridge,32,1
+724,13,"Dec 2, 1972",LSU,9,Tulane,3,1
+725,13,"Dec 2, 1972",Southern Miss,14,Memphis,14,0
+726,13,"Dec 2, 1972",Oklahoma,38,Oklahoma State,15,0
+727,13,"Dec 2, 1972",San Diego State,27,Iowa State,14,0
+728,13,"Dec 2, 1972",USC,45,Notre Dame,23,0
+729,13,"Dec 2, 1972",SMU,35,TCU,22,1
+730,13,"Dec 2, 1972",Hawaii,7,Stanford,39,0
+731,13,"Dec 2, 1972",Tennessee,30,Vanderbilt,10,1
+732,14,"Dec 9, 1972",North Carolina,28,Florida,24,1
+733,14,"Dec 9, 1972",Drake,7,Tennessee State,29,1
+734,15,"Dec 18, 1972",Georgia Tech,31,Iowa State,30,0
+735,16,"Dec 23, 1972",Arizona State,49,Missouri,35,0
+736,17,"Dec 29, 1972",NC State,49,West Virginia,13,0
+737,17,"Dec 29, 1972",Tampa,21,Kent State,18,0
+738,17,"Dec 30, 1972",Colorado,3,Auburn,24,1
+739,17,"Dec 30, 1972",North Carolina,32,Texas Tech,28,0
+740,17,"Dec 30, 1972",Tennessee,24,LSU,17,0
+741,17,"Dec 31, 1972",Oklahoma,14,Penn State,0,0
+742,18,"Jan 1, 1973",Notre Dame,6,Nebraska,40,1
+743,18,"Jan 1, 1973",USC,42,Ohio State,17,0
+744,18,"Jan 1, 1973",Texas,17,Alabama,13,0

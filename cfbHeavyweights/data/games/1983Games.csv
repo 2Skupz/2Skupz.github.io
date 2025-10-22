@@ -1,0 +1,696 @@
+0,1,"Aug 29, 1983",Penn State,6,Nebraska,44,1
+1,2,"Sep 1, 1983",Houston,45,Rice,14,1
+2,2,"Sep 2, 1983",Syracuse,6,Temple,17,1
+3,2,"Sep 3, 1983",Air Force,34,Colorado State,13,1
+4,2,"Sep 3, 1983",Kent State,6,Akron,13,1
+5,2,"Sep 3, 1983",Appalachian State,27,Wake Forest,25,1
+6,2,"Sep 3, 1983",Oregon State,6,Arizona,50,1
+7,2,"Sep 3, 1983",Ball State,42,Rhode Island,26,0
+8,2,"Sep 3, 1983",Boston College,45,Morgan State,12,0
+9,2,"Sep 3, 1983",Cal State Fullerton,13,Boise State,10,1
+10,2,"Sep 3, 1983",California,19,Texas A&M,17,1
+11,2,"Sep 3, 1983",Clemson,44,Western Carolina,10,0
+12,2,"Sep 3, 1983",Illinois State,7,Eastern Illinois,38,0
+13,2,"Sep 3, 1983",Eastern Michigan,7,Marshall,3,0
+14,2,"Sep 3, 1983",Miami,3,Florida,28,1
+15,2,"Sep 3, 1983",Florida State,47,East Carolina,46,0
+16,2,"Sep 3, 1983",UCLA,8,Georgia,19,1
+17,2,"Sep 3, 1983",Louisiana-Monroe,9,Indiana State,10,1
+18,2,"Sep 3, 1983",Kentucky,31,Central Michigan,14,0
+19,2,"Sep 3, 1983",Long Beach State,28,Kansas State,20,1
+20,2,"Sep 3, 1983",Memphis,37,Ole Miss,17,0
+21,2,"Sep 3, 1983",Tulane,9,Mississippi State,14,1
+22,2,"Sep 3, 1983",Missouri Southern,29,Wichita State,21,1
+23,2,"Sep 3, 1983",UNLV,28,Nevada,18,0
+24,2,"Sep 3, 1983",Utah,7,New Mexico,17,1
+25,2,"Sep 3, 1983",South Carolina,8,North Carolina,24,0
+26,2,"Sep 3, 1983",North Texas,32,West Texas State,3,0
+27,2,"Sep 3, 1983",Northern Illinois,37,Kansas,34,1
+28,2,"Sep 3, 1983",Northern Iowa,34,Drake,10,0
+29,2,"Sep 3, 1983",Pacific,21,Oregon,15,1
+30,2,"Sep 3, 1983",Tennessee,3,Pitt,13,0
+31,2,"Sep 3, 1983",Western Illinois,6,Southern Illinois,38,0
+32,2,"Sep 3, 1983",Louisville,6,SMU,24,1
+33,2,"Sep 3, 1983",Southern Miss,32,Richmond,3,0
+34,2,"Sep 3, 1983",New Mexico State,9,UTEP,20,1
+35,2,"Sep 3, 1983",San Diego State,9,Tulsa,34,1
+36,2,"Sep 3, 1983",Virginia,38,Duke,30,0
+37,2,"Sep 3, 1983",Montana State,7,Washington State,27,1
+38,2,"Sep 3, 1983",West Virginia,55,Ohio,3,0
+39,2,"Sep 3, 1983",Wyoming,34,South Dakota,13,0
+40,3,"Sep 10, 1983",West Texas State,3,Abilene Christian,28,0
+41,3,"Sep 10, 1983",Air Force,28,Texas Tech,13,0
+42,3,"Sep 10, 1983",Akron,13,Eastern Michigan,0,1
+43,3,"Sep 10, 1983",Georgia Tech,7,Alabama,20,1
+44,3,"Sep 10, 1983",Arizona,38,Utah,0,0
+45,3,"Sep 10, 1983",Arizona State,39,Utah State,12,0
+46,3,"Sep 10, 1983",Arkansas,17,Tulsa,14,0
+47,3,"Sep 10, 1983",Southern Miss,3,Auburn,24,1
+48,3,"Sep 10, 1983",Ball State,25,Wichita State,21,0
+49,3,"Sep 10, 1983",Baylor,40,BYU,36,0
+50,3,"Sep 10, 1983",Boston College,31,Clemson,16,0
+51,3,"Sep 10, 1983",Bowling Green,35,Fresno State,27,1
+52,3,"Sep 10, 1983",Cal State Fullerton,25,Long Beach State,19,1
+53,3,"Sep 10, 1983",Central Michigan,37,Northern Michigan,15,0
+54,3,"Sep 10, 1983",Penn State,3,Cincinnati,14,0
+55,3,"Sep 10, 1983",Colgate,15,Army,13,1
+56,3,"Sep 10, 1983",East Carolina,22,NC State,16,0
+57,3,"Sep 10, 1983",USC,19,Florida,19,0
+58,3,"Sep 10, 1983",Florida State,40,LSU,35,1
+59,3,"Sep 10, 1983",Hawaii,34,Colorado State,0,0
+60,3,"Sep 10, 1983",Idaho State,12,UTEP,10,1
+61,3,"Sep 10, 1983",Marshall,3,Illinois State,27,0
+62,3,"Sep 10, 1983",Indiana,15,Duke,10,0
+63,3,"Sep 10, 1983",Indiana State,26,Northern Iowa,0,0
+64,3,"Sep 10, 1983",Iowa,51,Iowa State,10,1
+65,3,"Sep 10, 1983",TCU,16,Kansas,16,0
+66,3,"Sep 10, 1983",Kentucky,31,Kansas State,12,0
+67,3,"Sep 10, 1983",Louisiana,6,Louisiana-Monroe,31,1
+68,3,"Sep 10, 1983",Louisville,41,Western Kentucky,22,0
+69,3,"Sep 10, 1983",Maryland,21,Vanderbilt,14,1
+70,3,"Sep 10, 1983",Houston,7,Miami,29,0
+71,3,"Sep 10, 1983",Michigan,20,Washington State,17,0
+72,3,"Sep 10, 1983",Michigan State,23,Colorado,17,0
+73,3,"Sep 10, 1983",Minnesota,21,Rice,17,1
+74,3,"Sep 10, 1983",Missouri,28,Illinois,18,0
+75,3,"Sep 10, 1983",Nebraska,56,Wyoming,20,0
+76,3,"Sep 10, 1983",Louisiana Tech,7,New Mexico State,15,1
+77,3,"Sep 10, 1983",North Carolina,24,Memphis,10,0
+78,3,"Sep 10, 1983",Purdue,6,Notre Dame,52,0
+79,3,"Sep 10, 1983",Ohio,17,Richmond,10,1
+80,3,"Sep 10, 1983",Oregon,6,Ohio State,31,1
+81,3,"Sep 10, 1983",Oklahoma,27,Stanford,14,1
+82,3,"Sep 10, 1983",Oklahoma State,20,North Texas,13,0
+83,3,"Sep 10, 1983",Oregon State,51,Portland State,14,1
+84,3,"Sep 10, 1983",Pitt,35,Temple,0,0
+85,3,"Sep 10, 1983",Connecticut,5,Rutgers,22,1
+86,3,"Sep 10, 1983",San Diego State,28,California,14,0
+87,3,"Sep 10, 1983",San Jose State,31,UNLV,26,0
+88,3,"Sep 10, 1983",Miami (OH),3,South Carolina,24,1
+89,3,"Sep 10, 1983",Drake,3,South Dakota State,20,0
+90,3,"Sep 10, 1983",Southern Illinois,17,Eastern Illinois,14,0
+91,3,"Sep 10, 1983",SMU,20,Grambling State,13,1
+92,3,"Sep 10, 1983",Syracuse,22,Kent State,10,0
+93,3,"Sep 10, 1983",New Mexico,6,Tennessee,31,1
+94,3,"Sep 10, 1983",Toledo,45,Massachusetts,13,0
+95,3,"Sep 10, 1983",Tulane,27,Ole Miss,23,0
+96,3,"Sep 10, 1983",Virginia,27,Navy,16,0
+97,3,"Sep 10, 1983",Virginia Tech,6,Wake Forest,13,0
+98,3,"Sep 10, 1983",Washington,34,Northwestern,0,1
+99,3,"Sep 10, 1983",Pacific,7,West Virginia,48,1
+100,3,"Sep 10, 1983",Western Michigan,21,Texas-Arlington,14,1
+101,3,"Sep 10, 1983",William & Mary,28,Virginia Military Institute,14,1
+102,3,"Sep 10, 1983",Northern Illinois,9,Wisconsin,37,1
+103,4,"Sep 17, 1983",Alabama,40,Ole Miss,0,0
+104,4,"Sep 17, 1983",Washington State,6,Arizona,45,0
+105,4,"Sep 17, 1983",UCLA,26,Arizona State,26,0
+106,4,"Sep 17, 1983",Arkansas,17,New Mexico,0,0
+107,4,"Sep 17, 1983",Ball State,31,Ohio,14,1
+108,4,"Sep 17, 1983",UTEP,6,Baylor,20,0
+109,4,"Sep 17, 1983",Boston College,42,Rutgers,22,1
+110,4,"Sep 17, 1983",BYU,63,Bowling Green,28,0
+111,4,"Sep 17, 1983",Cal State Fullerton,25,Utah State,24,1
+112,4,"Sep 17, 1983",San Jose State,9,California,30,1
+113,4,"Sep 17, 1983",Chattanooga,38,Louisiana,14,1
+114,4,"Sep 17, 1983",Colorado,31,Colorado State,3,0
+115,4,"Sep 17, 1983",Delaware,30,William & Mary,13,1
+116,4,"Sep 17, 1983",East Carolina,50,Murray State,25,0
+117,4,"Sep 17, 1983",Florida,17,Indiana State,13,0
+118,4,"Sep 17, 1983",Fresno State,24,Nevada,22,0
+119,4,"Sep 17, 1983",Furman,17,Georgia Tech,14,1
+120,4,"Sep 17, 1983",Clemson,16,Georgia,16,0
+121,4,"Sep 17, 1983",Houston,42,Lamar,35,0
+122,4,"Sep 17, 1983",Stanford,7,Illinois,17,1
+123,4,"Sep 17, 1983",Iowa,42,Penn State,34,1
+124,4,"Sep 17, 1983",Wichita State,6,Kansas,57,1
+125,4,"Sep 17, 1983",TCU,3,Kansas State,20,1
+126,4,"Sep 17, 1983",Kentucky,24,Indiana,13,0
+127,4,"Sep 17, 1983",Long Beach State,23,Hawaii,21,1
+128,4,"Sep 17, 1983",LSU,24,Rice,10,1
+129,4,"Sep 17, 1983",Army,7,Louisville,31,1
+130,4,"Sep 17, 1983",McNeese State,17,West Texas State,0,0
+131,4,"Sep 17, 1983",Miami,35,Purdue,0,0
+132,4,"Sep 17, 1983",Michigan State,28,Notre Dame,23,1
+133,4,"Sep 17, 1983",Mississippi State,38,Navy,10,0
+134,4,"Sep 17, 1983",Nebraska,84,Minnesota,13,1
+135,4,"Sep 17, 1983",Pacific,7,UNLV,28,0
+136,4,"Sep 17, 1983",North Carolina,48,Miami (OH),17,0
+137,4,"Sep 17, 1983",NC State,45,Citadel,0,0
+138,4,"Sep 17, 1983",North Texas,49,New Mexico State,3,0
+139,4,"Sep 17, 1983",Ohio State,24,Oklahoma,14,1
+140,4,"Sep 17, 1983",Oklahoma State,27,Cincinnati,17,1
+141,4,"Sep 17, 1983",South Carolina,31,Duke,24,1
+142,4,"Sep 17, 1983",USC,33,Oregon State,10,1
+143,4,"Sep 17, 1983",Southeast Missouri State,7,Southern Illinois,56,1
+144,4,"Sep 17, 1983",Southern Miss,28,Louisiana Tech,10,0
+145,4,"Sep 17, 1983",Syracuse,35,Northwestern,0,0
+146,4,"Sep 17, 1983",Auburn,7,Texas,20,0
+147,4,"Sep 17, 1983",Texas A&M,38,Arkansas State,0,0
+148,4,"Sep 17, 1983",Richmond,6,Toledo,31,0
+149,4,"Sep 17, 1983",Tulane,34,Florida State,28,0
+150,4,"Sep 17, 1983",Tulsa,26,Northwestern State,19,0
+151,4,"Sep 17, 1983",Utah,27,San Diego State,24,0
+152,4,"Sep 17, 1983",Vanderbilt,29,Iowa State,26,0
+153,4,"Sep 17, 1983",Virginia,21,James Madison,14,0
+154,4,"Sep 17, 1983",Virginia Tech,17,Memphis,10,1
+155,4,"Sep 17, 1983",Wake Forest,21,Western Carolina,0,0
+156,4,"Sep 17, 1983",Washington,25,Michigan,24,0
+157,4,"Sep 17, 1983",West Virginia,31,Maryland,21,1
+158,4,"Sep 17, 1983",Western Illinois,31,Drake,14,0
+159,4,"Sep 17, 1983",Western Michigan,14,Illinois State,13,1
+160,4,"Sep 17, 1983",Wisconsin,21,Missouri,20,0
+161,4,"Sep 17, 1983",Air Force,7,Wyoming,14,1
+162,5,"Sep 23, 1983",Oklahoma State,34,Texas A&M,15,1
+163,5,"Sep 24, 1983",Alabama,44,Vanderbilt,24,1
+164,5,"Sep 24, 1983",Arizona,27,Cal State Fullerton,10,0
+165,5,"Sep 24, 1983",Arizona State,44,Wichita State,14,0
+166,5,"Sep 24, 1983",Army,13,Dartmouth,12,0
+167,5,"Sep 24, 1983",Auburn,37,Tennessee,14,1
+168,5,"Sep 24, 1983",Bowling Green,17,Miami (OH),14,0
+169,5,"Sep 24, 1983",BYU,46,Air Force,28,1
+170,5,"Sep 24, 1983",Central Michigan,32,Western Michigan,14,1
+171,5,"Sep 24, 1983",Clemson,41,Georgia Tech,14,0
+172,5,"Sep 24, 1983",Colorado,38,Oregon State,14,0
+173,5,"Sep 24, 1983",Florida,35,Mississippi State,12,1
+174,5,"Sep 24, 1983",Fresno State,34,Pacific,14,1
+175,5,"Sep 24, 1983",Georgia,31,South Carolina,13,0
+176,5,"Sep 24, 1983",Illinois,20,Michigan State,10,1
+177,5,"Sep 24, 1983",Illinois State,36,Drake,17,1
+178,5,"Sep 24, 1983",Central Missouri State,7,Indiana State,33,1
+179,5,"Sep 24, 1983",Iowa,20,Ohio State,14,0
+180,5,"Sep 24, 1983",Iowa State,21,Colorado State,17,0
+181,5,"Sep 24, 1983",Kansas,26,USC,20,1
+182,5,"Sep 24, 1983",Kansas State,27,Wyoming,25,0
+183,5,"Sep 24, 1983",Kentucky,26,Tulane,14,0
+184,5,"Sep 24, 1983",Long Beach State,46,Texas A&M-Kingsville,10,0
+185,5,"Sep 24, 1983",LSU,40,Washington,14,0
+186,5,"Sep 24, 1983",Louisville,31,Cincinnati,23,0
+187,5,"Sep 24, 1983",Pitt,7,Maryland,13,1
+188,5,"Sep 24, 1983",Miami,20,Notre Dame,0,0
+189,5,"Sep 24, 1983",Michigan,38,Wisconsin,21,1
+190,5,"Sep 24, 1983",Ole Miss,13,Arkansas,10,0
+191,5,"Sep 24, 1983",Missouri,17,Utah State,10,0
+192,5,"Sep 24, 1983",Navy,30,Lehigh,0,0
+193,5,"Sep 24, 1983",Nebraska,42,UCLA,10,0
+194,5,"Sep 24, 1983",New Mexico,31,New Mexico State,10,1
+195,5,"Sep 24, 1983",North Carolina,51,William & Mary,20,0
+196,5,"Sep 24, 1983",Kent State,7,Northern Illinois,38,0
+197,5,"Sep 24, 1983",Indiana,8,Northwestern,10,0
+198,5,"Sep 24, 1983",Ohio,31,Eastern Michigan,14,0
+199,5,"Sep 24, 1983",Oklahoma,28,Tulsa,18,0
+200,5,"Sep 24, 1983",Oregon,15,Houston,14,0
+201,5,"Sep 24, 1983",Penn State,23,Temple,18,1
+202,5,"Sep 24, 1983",Purdue,32,Minnesota,20,1
+203,5,"Sep 24, 1983",Rice,22,Louisiana,21,0
+204,5,"Sep 24, 1983",San Diego State,41,UTEP,33,1
+205,5,"Sep 24, 1983",San Jose State,23,Stanford,10,1
+206,5,"Sep 24, 1983",Northern Iowa,9,Southern Illinois,52,0
+207,5,"Sep 24, 1983",SMU,21,TCU,17,1
+208,5,"Sep 24, 1983",Syracuse,17,Rutgers,13,0
+209,5,"Sep 24, 1983",North Texas,6,Texas,26,1
+210,5,"Sep 24, 1983",Texas Tech,26,Baylor,11,1
+211,5,"Sep 24, 1983",Texas-Arlington,31,West Texas State,13,1
+212,5,"Sep 24, 1983",Ball State,7,Toledo,43,1
+213,5,"Sep 24, 1983",Utah,28,Hawaii,25,0
+214,5,"Sep 24, 1983",Virginia,26,NC State,14,1
+215,5,"Sep 24, 1983",Virginia Tech,28,Virginia Military Institute,0,0
+216,5,"Sep 24, 1983",Richmond,6,Wake Forest,31,0
+217,5,"Sep 24, 1983",Washington State,41,UNLV,28,0
+218,5,"Sep 24, 1983",West Virginia,27,Boston College,17,1
+219,6,"Oct 1, 1983",Alabama,44,Memphis,13,0
+220,6,"Oct 1, 1983",West Texas State,3,Angelo State,10,0
+221,6,"Oct 1, 1983",California,33,Arizona,33,0
+222,6,"Oct 1, 1983",Arizona State,29,Stanford,11,0
+223,6,"Oct 1, 1983",Arkansas,38,TCU,21,1
+224,6,"Oct 1, 1983",Auburn,27,Florida State,24,0
+225,6,"Oct 1, 1983",Baylor,42,Houston,21,1
+226,6,"Oct 1, 1983",Boston College,18,Temple,15,1
+227,6,"Oct 1, 1983",Bowling Green,26,Eastern Michigan,21,1
+228,6,"Oct 1, 1983",BYU,37,UCLA,35,1
+229,6,"Oct 1, 1983",Cal State Fullerton,31,Pacific,14,1
+230,6,"Oct 1, 1983",Kent State,7,Central Michigan,13,1
+231,6,"Oct 1, 1983",Cincinnati,48,Cornell,20,0
+232,6,"Oct 1, 1983",Colorado State,31,Utah,28,0
+233,6,"Oct 1, 1983",Missouri,6,East Carolina,13,0
+234,6,"Oct 1, 1983",Florida,31,LSU,17,1
+235,6,"Oct 1, 1983",Mississippi State,7,Georgia,20,1
+236,6,"Oct 1, 1983",Harvard,24,Army,21,0
+237,6,"Oct 1, 1983",Illinois,33,Iowa,0,0
+238,6,"Oct 1, 1983",Illinois State,37,Indiana State,20,0
+239,6,"Oct 1, 1983",Virginia,3,Maryland,23,1
+240,6,"Oct 1, 1983",Miami,56,Duke,17,1
+241,6,"Oct 1, 1983",Michigan,43,Indiana,18,0
+242,6,"Oct 1, 1983",Purdue,29,Michigan State,29,0
+243,6,"Oct 1, 1983",Syracuse,7,Nebraska,63,1
+244,6,"Oct 1, 1983",UNLV,35,Oregon State,21,1
+245,6,"Oct 1, 1983",New Mexico State,24,Iowa State,17,1
+246,6,"Oct 1, 1983",North Carolina,38,Georgia Tech,21,1
+247,6,"Oct 1, 1983",NC State,38,Wake Forest,15,1
+248,6,"Oct 1, 1983",New Mexico,8,North Texas,18,0
+249,6,"Oct 1, 1983",Northern Illinois,27,Ball State,14,1
+250,6,"Oct 1, 1983",Colorado,3,Notre Dame,27,0
+251,6,"Oct 1, 1983",Ohio State,69,Minnesota,18,0
+252,6,"Oct 1, 1983",Oklahoma,29,Kansas State,10,1
+253,6,"Oct 1, 1983",Oklahoma State,9,Tulsa,0,0
+254,6,"Oct 1, 1983",Penn State,36,Rutgers,25,1
+255,6,"Oct 1, 1983",Hawaii,27,San Diego State,27,0
+256,6,"Oct 1, 1983",San Jose State,44,Oregon,34,0
+257,6,"Oct 1, 1983",South Carolina,38,USC,14,0
+258,6,"Oct 1, 1983",Southern Illinois,35,Arkansas State,28,1
+259,6,"Oct 1, 1983",SMU,34,Texas-Arlington,0,0
+260,6,"Oct 1, 1983",Ole Miss,7,Southern Miss,27,0
+261,6,"Oct 1, 1983",Citadel,6,Tennessee,45,1
+262,6,"Oct 1, 1983",Rice,6,Texas,42,1
+263,6,"Oct 1, 1983",Texas Tech,3,Texas A&M,0,0
+264,6,"Oct 1, 1983",Toledo,31,Ohio,0,0
+265,6,"Oct 1, 1983",Utah State,20,Fresno State,12,0
+266,6,"Oct 1, 1983",Vanderbilt,30,Tulane,17,1
+267,6,"Oct 1, 1983",Virginia Tech,31,Louisville,0,0
+268,6,"Oct 1, 1983",Washington,27,Navy,10,0
+269,6,"Oct 1, 1983",West Virginia,24,Pitt,21,0
+270,6,"Oct 1, 1983",Western Michigan,20,Miami (OH),18,1
+271,6,"Oct 1, 1983",Wichita State,43,Drake,0,0
+272,6,"Oct 1, 1983",William & Mary,26,Yale,14,0
+273,6,"Oct 1, 1983",Wisconsin,49,Northwestern,0,1
+274,6,"Oct 1, 1983",Wyoming,49,UTEP,17,0
+275,7,"Oct 8, 1983",Air Force,44,Navy,17,1
+276,7,"Oct 8, 1983",Arizona,52,Colorado State,21,0
+277,7,"Oct 8, 1983",Army,20,Rutgers,12,0
+278,7,"Oct 8, 1983",Auburn,49,Kentucky,21,1
+279,7,"Oct 8, 1983",Yale,7,Boston College,42,0
+280,7,"Oct 8, 1983",Boston University,26,Richmond,17,1
+281,7,"Oct 8, 1983",BYU,41,Wyoming,10,1
+282,7,"Oct 8, 1983",Nevada,6,Cal State Fullerton,14,0
+283,7,"Oct 8, 1983",Eastern Michigan,3,Central Michigan,24,1
+284,7,"Oct 8, 1983",Cincinnati,31,Temple,16,0
+285,7,"Oct 8, 1983",Clemson,42,Virginia,21,0
+286,7,"Oct 8, 1983",East Carolina,21,Louisiana,18,1
+287,7,"Oct 8, 1983",Florida,29,Vanderbilt,10,0
+288,7,"Oct 8, 1983",Georgia,36,Ole Miss,11,1
+289,7,"Oct 8, 1983",Georgia Tech,20,NC State,10,1
+290,7,"Oct 8, 1983",Illinois,27,Wisconsin,15,1
+291,7,"Oct 8, 1983",West Texas State,24,Illinois State,24,0
+292,7,"Oct 8, 1983",Indiana,38,Minnesota,31,0
+293,7,"Oct 8, 1983",Indiana State,35,Ball State,14,0
+294,7,"Oct 8, 1983",Iowa,61,Northwestern,21,0
+295,7,"Oct 8, 1983",Iowa State,38,Kansas,35,0
+296,7,"Oct 8, 1983",Long Beach State,20,San Diego State,13,0
+297,7,"Oct 8, 1983",Maryland,34,Syracuse,13,0
+298,7,"Oct 8, 1983",Memphis,28,Tulane,25,0
+299,7,"Oct 8, 1983",Miami,42,Louisville,14,0
+300,7,"Oct 8, 1983",Kent State,7,Miami (OH),27,1
+301,7,"Oct 8, 1983",Michigan,42,Michigan State,0,1
+302,7,"Oct 8, 1983",Missouri,59,Colorado,20,1
+303,7,"Oct 8, 1983",Nebraska,14,Oklahoma State,10,1
+304,7,"Oct 8, 1983",New Mexico,30,Texas Tech,10,1
+305,7,"Oct 8, 1983",North Carolina,30,Wake Forest,10,0
+306,7,"Oct 8, 1983",Western Michigan,3,Northern Illinois,27,1
+307,7,"Oct 8, 1983",South Carolina,6,Notre Dame,30,0
+308,7,"Oct 8, 1983",Ohio State,33,Purdue,22,0
+309,7,"Oct 8, 1983",Oregon,24,California,17,0
+310,7,"Oct 8, 1983",Penn State,34,Alabama,28,0
+311,7,"Oct 8, 1983",Pitt,17,Florida State,16,0
+312,7,"Oct 8, 1983",San Jose State,41,Fresno State,23,1
+313,7,"Oct 8, 1983",USC,38,Washington State,17,0
+314,7,"Oct 8, 1983",Drake,9,Southern Illinois,28,1
+315,7,"Oct 8, 1983",SMU,42,Baylor,26,0
+316,7,"Oct 8, 1983",Mississippi State,6,Southern Miss,31,1
+317,7,"Oct 8, 1983",LSU,6,Tennessee,20,1
+318,7,"Oct 8, 1983",Texas,28,Oklahoma,16,0
+319,7,"Oct 8, 1983",Houston,7,Texas A&M,30,1
+320,7,"Oct 8, 1983",TCU,34,Rice,3,1
+321,7,"Oct 8, 1983",Texas-Arlington,34,Wichita State,24,0
+322,7,"Oct 8, 1983",Toledo,6,Bowling Green,3,1
+323,7,"Oct 8, 1983",Tulsa,24,New Mexico State,10,0
+324,7,"Oct 8, 1983",UCLA,39,Stanford,21,1
+325,7,"Oct 8, 1983",Utah,35,UTEP,11,0
+326,7,"Oct 8, 1983",Utah State,27,Pacific,10,1
+327,7,"Oct 8, 1983",Virginia Tech,27,Duke,14,0
+328,7,"Oct 8, 1983",Oregon State,7,Washington,34,1
+329,7,"Oct 8, 1983",William & Mary,21,Dartmouth,17,1
+330,8,"Oct 15, 1983",Air Force,37,UTEP,25,0
+331,8,"Oct 15, 1983",Arizona State,34,USC,14,1
+332,8,"Oct 15, 1983",Auburn,31,Georgia Tech,13,1
+333,8,"Oct 15, 1983",Ball State,17,Kent State,13,1
+334,8,"Oct 15, 1983",Bowling Green,23,Western Michigan,20,1
+335,8,"Oct 15, 1983",BYU,66,New Mexico,21,0
+336,8,"Oct 15, 1983",Cal State Fullerton,20,San Jose State,11,1
+337,8,"Oct 15, 1983",California,45,Oregon State,19,0
+338,8,"Oct 15, 1983",Ohio,9,Central Michigan,14,0
+339,8,"Oct 15, 1983",Clemson,38,Duke,31,1
+340,8,"Oct 15, 1983",Colorado State,17,San Diego State,15,0
+341,8,"Oct 15, 1983",East Carolina,24,Temple,10,0
+342,8,"Oct 15, 1983",Florida State,43,Cincinnati,17,0
+343,8,"Oct 15, 1983",Fresno State,31,Montana State,12,1
+344,8,"Oct 15, 1983",Georgia,20,Vanderbilt,13,1
+345,8,"Oct 15, 1983",Hawaii,23,UNLV,0,1
+346,8,"Oct 15, 1983",Illinois,17,Ohio State,13,0
+347,8,"Oct 15, 1983",Indiana,24,Michigan State,12,0
+348,8,"Oct 15, 1983",Indiana State,24,Wichita State,22,0
+349,8,"Oct 15, 1983",Iowa,31,Purdue,14,0
+350,8,"Oct 15, 1983",Iowa State,22,Colorado,10,0
+351,8,"Oct 15, 1983",Kansas,31,Kansas State,3,0
+352,8,"Oct 15, 1983",Kentucky,21,LSU,13,1
+353,8,"Oct 15, 1983",Long Beach State,28,Pacific,16,1
+354,8,"Oct 15, 1983",Maryland,36,Wake Forest,33,1
+355,8,"Oct 15, 1983",Mississippi State,7,Miami,31,0
+356,8,"Oct 15, 1983",Michigan,35,Northwestern,0,0
+357,8,"Oct 15, 1983",TCU,7,Ole Miss,20,0
+358,8,"Oct 15, 1983",Navy,37,Princeton,29,1
+359,8,"Oct 15, 1983",Nebraska,34,Missouri,13,1
+360,8,"Oct 15, 1983",New Mexico State,42,Drake,23,0
+361,8,"Oct 15, 1983",North Carolina,42,NC State,14,1
+362,8,"Oct 15, 1983",Northern Illinois,34,Eastern Michigan,15,1
+363,8,"Oct 15, 1983",Notre Dame,42,Army,0,1
+364,8,"Oct 15, 1983",Oklahoma,21,Oklahoma State,20,1
+365,8,"Oct 15, 1983",Oregon,19,Arizona,10,1
+366,8,"Oct 15, 1983",Syracuse,6,Penn State,17,0
+367,8,"Oct 15, 1983",Pitt,55,Louisville,10,1
+368,8,"Oct 15, 1983",Richmond,31,UCF,26,0
+369,8,"Oct 15, 1983",Rutgers,29,Colgate,26,0
+370,8,"Oct 15, 1983",Missouri State,6,Southern Illinois,24,0
+371,8,"Oct 15, 1983",Southern Miss,27,Memphis,20,1
+372,8,"Oct 15, 1983",Tennessee,41,Alabama,34,1
+373,8,"Oct 15, 1983",Texas,31,Arkansas,3,1
+374,8,"Oct 15, 1983",Baylor,13,Texas A&M,13,0
+375,8,"Oct 15, 1983",Rice,3,Texas Tech,14,1
+376,8,"Oct 15, 1983",Miami (OH),9,Toledo,10,1
+377,8,"Oct 15, 1983",Tulane,17,Louisiana,15,0
+378,8,"Oct 15, 1983",Tulsa,39,Illinois State,25,0
+379,8,"Oct 15, 1983",UCLA,24,Washington State,14,1
+380,8,"Oct 15, 1983",Utah,69,Wyoming,14,0
+381,8,"Oct 15, 1983",Boise State,7,Utah State,10,1
+382,8,"Oct 15, 1983",Virginia,38,Virginia Military Institute,10,0
+383,8,"Oct 15, 1983",Washington,32,Stanford,15,0
+384,8,"Oct 15, 1983",West Virginia,13,Virginia Tech,0,0
+385,8,"Oct 15, 1983",William & Mary,24,James Madison,21,0
+386,8,"Oct 15, 1983",Wisconsin,56,Minnesota,17,1
+387,9,"Oct 20, 1983",Louisville,7,Florida State,51,1
+388,9,"Oct 22, 1983",Air Force,33,Utah,31,0
+389,9,"Oct 22, 1983",Houston,3,Arkansas,24,1
+390,9,"Oct 22, 1983",Auburn,28,Mississippi State,13,0
+391,9,"Oct 22, 1983",Ball State,24,Western Michigan,20,1
+392,9,"Oct 22, 1983",Baylor,56,TCU,21,0
+393,9,"Oct 22, 1983",BYU,47,San Diego State,12,1
+394,9,"Oct 22, 1983",Cal State Fullerton,18,Fresno State,17,0
+395,9,"Oct 22, 1983",Clemson,27,NC State,17,0
+396,9,"Oct 22, 1983",Colorado State,31,UTEP,15,1
+397,9,"Oct 22, 1983",Florida,24,East Carolina,17,0
+398,9,"Oct 22, 1983",Georgia,47,Kentucky,21,0
+399,9,"Oct 22, 1983",Hawaii,25,New Mexico,16,0
+400,9,"Oct 22, 1983",Illinois,35,Purdue,21,1
+401,9,"Oct 22, 1983",Illinois State,34,Nicholls State,29,1
+402,9,"Oct 22, 1983",Lehigh,13,Army,12,1
+403,9,"Oct 22, 1983",Lamar,6,Louisiana,31,1
+404,9,"Oct 22, 1983",South Carolina,6,LSU,20,1
+405,9,"Oct 22, 1983",Maryland,38,Duke,3,0
+406,9,"Oct 22, 1983",Cincinnati,7,Miami,17,0
+407,9,"Oct 22, 1983",Central Michigan,7,Miami (OH),12,0
+408,9,"Oct 22, 1983",Michigan,16,Iowa,13,0
+409,9,"Oct 22, 1983",Ole Miss,21,Vanderbilt,14,0
+410,9,"Oct 22, 1983",Missouri,38,Kansas State,0,0
+411,9,"Oct 22, 1983",Missouri State,22,Drake,11,1
+412,9,"Oct 22, 1983",Nebraska,69,Colorado,19,0
+413,9,"Oct 22, 1983",UNLV,28,Utah State,10,0
+414,9,"Oct 22, 1983",Northern Illinois,24,Bowling Green,23,0
+415,9,"Oct 22, 1983",Minnesota,8,Northwestern,19,1
+416,9,"Oct 22, 1983",USC,6,Notre Dame,27,1
+417,9,"Oct 22, 1983",Ohio,21,Kent State,20,1
+418,9,"Oct 22, 1983",Ohio State,21,Michigan State,11,0
+419,9,"Oct 22, 1983",Oklahoma,49,Iowa State,11,0
+420,9,"Oct 22, 1983",Oklahoma State,27,Kansas,10,1
+421,9,"Oct 22, 1983",Pacific,28,Northern Arizona,14,0
+422,9,"Oct 22, 1983",Penn State,41,West Virginia,23,0
+423,9,"Oct 22, 1983",Pitt,21,Navy,14,1
+424,9,"Oct 22, 1983",Rutgers,35,William & Mary,28,1
+425,9,"Oct 22, 1983",Long Beach State,9,San Jose State,18,0
+426,9,"Oct 22, 1983",Southern Illinois,34,Indiana State,21,1
+427,9,"Oct 22, 1983",Stanford,31,Arizona,22,0
+428,9,"Oct 22, 1983",Temple,23,Delaware,16,1
+429,9,"Oct 22, 1983",Tennessee,37,Georgia Tech,3,0
+430,9,"Oct 22, 1983",Texas,15,SMU,12,1
+431,9,"Oct 22, 1983",Texas A&M,29,Rice,10,1
+432,9,"Oct 22, 1983",New Mexico State,7,Texas-Arlington,28,1
+433,9,"Oct 22, 1983",Eastern Michigan,9,Toledo,37,0
+434,9,"Oct 22, 1983",Southern Miss,7,Tulane,14,0
+435,9,"Oct 22, 1983",Tulsa,59,Texas Tech,20,1
+436,9,"Oct 22, 1983",UCLA,20,California,16,0
+437,9,"Oct 22, 1983",Virginia Tech,38,Richmond,0,0
+438,9,"Oct 22, 1983",Wake Forest,38,Virginia,34,0
+439,9,"Oct 22, 1983",Washington,32,Oregon,3,1
+440,9,"Oct 22, 1983",Washington State,31,Arizona State,21,1
+441,9,"Oct 22, 1983",Wichita State,31,West Texas State,30,0
+442,9,"Oct 22, 1983",Wisconsin,45,Indiana,14,0
+443,9,"Oct 22, 1983",Wyoming,49,Colgate,29,0
+444,10,"Oct 29, 1983",Air Force,41,Army,20,0
+445,10,"Oct 29, 1983",Alabama,35,Mississippi State,18,0
+446,10,"Oct 29, 1983",Arkansas,35,Rice,0,0
+447,10,"Oct 29, 1983",Auburn,28,Florida,21,0
+448,10,"Oct 29, 1983",Ball State,33,Eastern Michigan,20,0
+449,10,"Oct 29, 1983",Baylor,24,Tulane,18,0
+450,10,"Oct 29, 1983",Boston College,27,Penn State,17,0
+451,10,"Oct 29, 1983",Bowling Green,15,Central Michigan,14,0
+452,10,"Oct 29, 1983",BYU,38,Utah State,34,0
+453,10,"Oct 29, 1983",Kentucky,13,Cincinnati,13,0
+454,10,"Oct 29, 1983",Clemson,24,Wake Forest,17,0
+455,10,"Oct 29, 1983",Colorado State,25,New Mexico,24,0
+456,10,"Oct 29, 1983",Drake,36,West Texas State,26,0
+457,10,"Oct 29, 1983",Duke,32,Georgia Tech,26,0
+458,10,"Oct 29, 1983",East Tennessee State,9,East Carolina,21,1
+459,10,"Oct 29, 1983",Eastern Washington,20,Long Beach State,17,1
+460,10,"Oct 29, 1983",Florida State,29,Arizona State,26,1
+461,10,"Oct 29, 1983",Cal Poly,7,Fresno State,30,1
+462,10,"Oct 29, 1983",Georgia,31,Temple,14,0
+463,10,"Oct 29, 1983",Hawaii,25,UTEP,24,0
+464,10,"Oct 29, 1983",Houston,28,TCU,21,1
+465,10,"Oct 29, 1983",Idaho,31,Pacific,19,1
+466,10,"Oct 29, 1983",Idaho State,43,Cal State Fullerton,10,0
+467,10,"Oct 29, 1983",Michigan,6,Illinois,16,1
+468,10,"Oct 29, 1983",Western Illinois,7,Illinois State,45,1
+469,10,"Oct 29, 1983",Indiana State,17,Eastern Illinois,13,1
+470,10,"Oct 29, 1983",Iowa,49,Indiana,3,0
+471,10,"Oct 29, 1983",Maryland,28,North Carolina,26,0
+472,10,"Oct 29, 1983",Vanderbilt,7,Memphis,24,0
+473,10,"Oct 29, 1983",West Virginia,3,Miami,20,1
+474,10,"Oct 29, 1983",Michigan State,34,Minnesota,10,0
+475,10,"Oct 29, 1983",Ole Miss,27,LSU,24,0
+476,10,"Oct 29, 1983",Missouri,41,Iowa State,18,1
+477,10,"Oct 29, 1983",Nebraska,51,Kansas State,25,1
+478,10,"Oct 29, 1983",UNLV,28,San Diego State,10,0
+479,10,"Oct 29, 1983",Northern Illinois,17,Miami (OH),0,1
+480,10,"Oct 29, 1983",Notre Dame,28,Navy,12,0
+481,10,"Oct 29, 1983",Ohio State,45,Wisconsin,27,0
+482,10,"Oct 29, 1983",Oklahoma,45,Kansas,14,0
+483,10,"Oct 29, 1983",Oklahoma State,40,Colorado,14,1
+484,10,"Oct 29, 1983",Oregon State,31,Stanford,18,0
+485,10,"Oct 29, 1983",Pitt,13,Syracuse,10,0
+486,10,"Oct 29, 1983",Purdue,48,Northwestern,17,0
+487,10,"Oct 29, 1983",Richmond,35,Virginia Military Institute,19,1
+488,10,"Oct 29, 1983",South Carolina,31,NC State,17,0
+489,10,"Oct 29, 1983",California,9,USC,19,0
+490,10,"Oct 29, 1983",Southern Illinois,41,New Mexico State,3,0
+491,10,"Oct 29, 1983",Texas A&M,7,SMU,10,0
+492,10,"Oct 29, 1983",Southern Miss,31,Louisiana,3,0
+493,10,"Oct 29, 1983",Tennessee,7,Rutgers,0,1
+494,10,"Oct 29, 1983",Texas Tech,3,Texas,20,1
+495,10,"Oct 29, 1983",Toledo,37,Kent State,34,0
+496,10,"Oct 29, 1983",Tulsa,30,Wichita State,19,0
+497,10,"Oct 29, 1983",UCLA,27,Washington,24,0
+498,10,"Oct 29, 1983",Virginia Tech,59,William & Mary,21,0
+499,10,"Oct 29, 1983",Oregon,7,Washington State,24,1
+500,10,"Oct 29, 1983",Western Michigan,16,Ohio,14,1
+501,11,"Nov 3, 1983",Georgia Tech,31,Virginia,27,0
+502,11,"Nov 5, 1983",Air Force,45,Hawaii,10,0
+503,11,"Nov 5, 1983",Alabama,32,LSU,26,1
+504,11,"Nov 5, 1983",Auburn,35,Maryland,23,0
+505,11,"Nov 5, 1983",Baylor,24,Arkansas,21,1
+506,11,"Nov 5, 1983",Boston College,34,Army,14,1
+507,11,"Nov 5, 1983",Bowling Green,45,Ball State,30,0
+508,11,"Nov 5, 1983",UTEP,9,BYU,31,0
+509,11,"Nov 5, 1983",California,26,Arizona State,24,0
+510,11,"Nov 5, 1983",Central Michigan,30,Northern Illinois,14,0
+511,11,"Nov 5, 1983",Rutgers,7,Cincinnati,18,1
+512,11,"Nov 5, 1983",North Carolina,3,Clemson,16,0
+513,11,"Nov 5, 1983",Colorado,34,Kansas,23,1
+514,11,"Nov 5, 1983",Colorado State,41,Northern Colorado,20,0
+515,11,"Nov 5, 1983",Duke,31,Wake Forest,21,1
+516,11,"Nov 5, 1983",Florida State,45,South Carolina,30,0
+517,11,"Nov 5, 1983",Florida,9,Georgia,10,1
+518,11,"Nov 5, 1983",Illinois,50,Minnesota,23,1
+519,11,"Nov 5, 1983",Indiana State,31,West Texas State,20,1
+520,11,"Nov 5, 1983",Iowa,34,Wisconsin,14,1
+521,11,"Nov 5, 1983",Kansas State,21,Oklahoma State,20,1
+522,11,"Nov 5, 1983",Kent State,37,Eastern Michigan,13,0
+523,11,"Nov 5, 1983",Vanderbilt,8,Kentucky,17,0
+524,11,"Nov 5, 1983",Long Beach State,38,Montana,14,1
+525,11,"Nov 5, 1983",Memphis,30,Mississippi State,13,1
+526,11,"Nov 5, 1983",East Carolina,7,Miami,12,1
+527,11,"Nov 5, 1983",Michigan,42,Purdue,10,0
+528,11,"Nov 5, 1983",Michigan State,9,Northwestern,3,1
+529,11,"Nov 5, 1983",Missouri,10,Oklahoma,0,0
+530,11,"Nov 5, 1983",Nebraska,72,Iowa State,29,0
+531,11,"Nov 5, 1983",Nevada,34,Pacific,24,0
+532,11,"Nov 5, 1983",Fresno State,7,UNLV,20,0
+533,11,"Nov 5, 1983",New Mexico,17,Wyoming,10,0
+534,11,"Nov 5, 1983",New Mexico State,62,Wichita State,28,0
+535,11,"Nov 5, 1983",Appalachian State,7,NC State,33,1
+536,11,"Nov 5, 1983",Ohio,17,Miami (OH),14,1
+537,11,"Nov 5, 1983",Ohio State,56,Indiana,17,1
+538,11,"Nov 5, 1983",Penn State,38,Brown,21,0
+539,11,"Nov 5, 1983",Pitt,21,Notre Dame,16,1
+540,11,"Nov 5, 1983",Richmond,32,James Madison,0,0
+541,11,"Nov 5, 1983",Stanford,7,USC,30,1
+542,11,"Nov 5, 1983",Southern Illinois,28,Illinois State,26,0
+543,11,"Nov 5, 1983",Rice,6,SMU,20,1
+544,11,"Nov 5, 1983",Louisville,3,Southern Miss,27,0
+545,11,"Nov 5, 1983",Navy,7,Syracuse,14,0
+546,11,"Nov 5, 1983",Texas,9,Houston,3,1
+547,11,"Nov 5, 1983",Texas Tech,10,TCU,10,0
+548,11,"Nov 5, 1983",Toledo,20,Western Michigan,16,1
+549,11,"Nov 5, 1983",Tulsa,22,Drake,13,1
+550,11,"Nov 5, 1983",UCLA,24,Oregon,13,1
+551,11,"Nov 5, 1983",Utah,47,Cal State Fullerton,20,0
+552,11,"Nov 5, 1983",Utah State,22,San Jose State,15,0
+553,11,"Nov 5, 1983",Virginia Tech,26,Tulane,10,1
+554,11,"Nov 5, 1983",Washington,23,Arizona,22,1
+555,11,"Nov 5, 1983",Oregon State,9,Washington State,27,0
+556,11,"Nov 5, 1983",Temple,9,West Virginia,27,1
+557,11,"Nov 5, 1983",William & Mary,48,Marshall,24,1
+558,12,"Nov 10, 1983",Duke,27,NC State,26,0
+559,12,"Nov 12, 1983",Alabama,28,Southern Miss,16,0
+560,12,"Nov 12, 1983",Arizona,27,UCLA,24,0
+561,12,"Nov 12, 1983",Arizona State,38,Oregon State,3,0
+562,12,"Nov 12, 1983",Georgia,7,Auburn,13,0
+563,12,"Nov 12, 1983",Baylor,48,Rice,14,0
+564,12,"Nov 12, 1983",Bowling Green,24,Ohio,20,1
+565,12,"Nov 12, 1983",Colorado State,6,BYU,24,1
+566,12,"Nov 12, 1983",Central Michigan,38,Ball State,10,1
+567,12,"Nov 12, 1983",Clemson,52,Maryland,27,0
+568,12,"Nov 12, 1983",Colgate,43,Richmond,14,0
+569,12,"Nov 12, 1983",William & Mary,6,East Carolina,40,1
+570,12,"Nov 12, 1983",Kentucky,7,Florida,24,1
+571,12,"Nov 12, 1983",Fresno State,7,Long Beach State,3,1
+572,12,"Nov 12, 1983",Georgia Tech,49,Wake Forest,33,0
+573,12,"Nov 12, 1983",Illinois,49,Indiana,21,0
+574,12,"Nov 12, 1983",Missouri State,7,Illinois State,34,1
+575,12,"Nov 12, 1983",Indiana State,38,Drake,0,1
+576,12,"Nov 12, 1983",Michigan State,6,Iowa,12,0
+577,12,"Nov 12, 1983",Iowa State,49,Kansas State,27,1
+578,12,"Nov 12, 1983",Louisiana,48,McNeese State,16,0
+579,12,"Nov 12, 1983",Memphis,43,Cincinnati,10,1
+580,12,"Nov 12, 1983",Miami,17,Florida State,16,1
+581,12,"Nov 12, 1983",Miami (OH),24,Eastern Michigan,12,1
+582,12,"Nov 12, 1983",Michigan,58,Minnesota,10,1
+583,12,"Nov 12, 1983",Ole Miss,13,Tennessee,10,1
+584,12,"Nov 12, 1983",Mississippi State,45,LSU,26,1
+585,12,"Nov 12, 1983",Missouri,16,Oklahoma State,10,0
+586,12,"Nov 12, 1983",Nebraska,67,Kansas,13,0
+587,12,"Nov 12, 1983",UNLV,13,Cal State Fullerton,0,1
+588,12,"Nov 12, 1983",New Mexico,35,UTEP,0,0
+589,12,"Nov 12, 1983",Northern Illinois,26,Toledo,10,0
+590,12,"Nov 12, 1983",Northwestern,7,Ohio State,55,1
+591,12,"Nov 12, 1983",Oklahoma,41,Colorado,28,0
+592,12,"Nov 12, 1983",Stanford,7,Oregon,16,0
+593,12,"Nov 12, 1983",Pacific,30,San Jose State,26,1
+594,12,"Nov 12, 1983",Penn State,34,Notre Dame,30,0
+595,12,"Nov 12, 1983",Army,7,Pitt,38,1
+596,12,"Nov 12, 1983",Navy,7,South Carolina,31,1
+597,12,"Nov 12, 1983",Texas Tech,7,SMU,33,1
+598,12,"Nov 12, 1983",Syracuse,21,Boston College,10,0
+599,12,"Nov 12, 1983",Louisville,7,Temple,24,1
+600,12,"Nov 12, 1983",Texas,20,TCU,14,0
+601,12,"Nov 12, 1983",Texas A&M,36,Arkansas,23,0
+602,12,"Nov 12, 1983",Tulsa,31,West Texas State,16,0
+603,12,"Nov 12, 1983",Utah State,21,Utah,17,0
+604,12,"Nov 12, 1983",Virginia,17,North Carolina,14,0
+605,12,"Nov 12, 1983",Virginia Tech,21,Vanderbilt,10,0
+606,12,"Nov 12, 1983",Washington,24,USC,0,0
+607,12,"Nov 12, 1983",California,6,Washington State,16,1
+608,12,"Nov 12, 1983",Rutgers,7,West Virginia,35,1
+609,12,"Nov 12, 1983",Western Michigan,21,Kent State,13,1
+610,12,"Nov 12, 1983",Southern Illinois,6,Wichita State,28,1
+611,12,"Nov 12, 1983",Wisconsin,42,Purdue,38,1
+612,12,"Nov 12, 1983",Wyoming,33,San Diego State,21,1
+613,13,"Nov 19, 1983",Air Force,23,Notre Dame,22,1
+614,13,"Nov 19, 1983",Arizona State,24,San Jose State,17,0
+615,13,"Nov 19, 1983",Memphis,14,Arkansas State,14,0
+616,13,"Nov 19, 1983",Holy Cross,7,Boston College,47,1
+617,13,"Nov 19, 1983",Bowling Green,38,Kent State,3,0
+618,13,"Nov 19, 1983",Utah,7,BYU,55,1
+619,13,"Nov 19, 1983",Toledo,6,Central Michigan,34,0
+620,13,"Nov 19, 1983",Clemson,22,South Carolina,13,1
+621,13,"Nov 19, 1983",Colorado,38,Kansas State,21,0
+622,13,"Nov 19, 1983",Southern Miss,6,East Carolina,10,0
+623,13,"Nov 19, 1983",Fresno State,30,Northern Arizona,22,0
+624,13,"Nov 19, 1983",Hawaii,31,Pacific,21,0
+625,13,"Nov 19, 1983",Houston,43,Texas Tech,41,0
+626,13,"Nov 19, 1983",Illinois,56,Northwestern,24,1
+627,13,"Nov 19, 1983",Iowa,61,Minnesota,10,0
+628,13,"Nov 19, 1983",Kansas,37,Missouri,27,0
+629,13,"Nov 19, 1983",Long Beach State,24,UNLV,21,1
+630,13,"Nov 19, 1983",Louisiana Tech,9,Louisiana,13,1
+631,13,"Nov 19, 1983",Tulane,7,LSU,20,0
+632,13,"Nov 19, 1983",NC State,6,Maryland,29,0
+633,13,"Nov 19, 1983",Miami (OH),14,Cincinnati,10,0
+634,13,"Nov 19, 1983",Michigan,24,Ohio State,21,0
+635,13,"Nov 19, 1983",Ole Miss,24,Mississippi State,23,0
+636,13,"Nov 19, 1983",New Mexico,34,San Diego State,14,0
+637,13,"Nov 19, 1983",New Mexico State,26,West Texas State,24,0
+638,13,"Nov 19, 1983",North Carolina,34,Duke,27,0
+639,13,"Nov 19, 1983",Northern Illinois,41,Ohio,17,0
+640,13,"Nov 19, 1983",Iowa State,7,Oklahoma State,30,0
+641,13,"Nov 19, 1983",Oregon,0,Oregon State,0,0
+642,13,"Nov 19, 1983",Pitt,24,Penn State,24,0
+643,13,"Nov 19, 1983",Purdue,31,Indiana,30,1
+644,13,"Nov 19, 1983",SMU,17,Arkansas,0,1
+645,13,"Nov 19, 1983",Syracuse,27,West Virginia,16,0
+646,13,"Nov 19, 1983",Temple,24,Rutgers,23,1
+647,13,"Nov 19, 1983",Tennessee,10,Kentucky,0,1
+648,13,"Nov 19, 1983",Texas,24,Baylor,21,0
+649,13,"Nov 19, 1983",Texas A&M,20,TCU,10,1
+650,13,"Nov 19, 1983",UTEP,40,Weber State,34,0
+651,13,"Nov 19, 1983",UCLA,27,USC,17,1
+652,13,"Nov 19, 1983",Virginia Tech,48,Virginia,0,1
+653,13,"Nov 19, 1983",Washington,6,Washington State,17,0
+654,13,"Nov 19, 1983",Western Michigan,14,Eastern Michigan,10,0
+655,13,"Nov 19, 1983",William & Mary,24,Richmond,15,0
+656,13,"Nov 19, 1983",Wisconsin,32,Michigan State,0,0
+657,13,"Nov 19, 1983",Wyoming,42,Colorado State,17,0
+658,14,"Nov 24, 1983",Louisville,7,Memphis,45,0
+659,14,"Nov 25, 1983",Boston College,20,Alabama,13,0
+660,14,"Nov 25, 1983",Long Beach State,6,Utah State,3,0
+661,14,"Nov 25, 1983",Navy,42,Army,13,0
+662,14,"Nov 26, 1983",San Diego State,7,Air Force,38,0
+663,14,"Nov 26, 1983",Arizona,17,Arizona State,15,1
+664,14,"Nov 26, 1983",Arkansas,16,Texas Tech,13,1
+665,14,"Nov 26, 1983",Georgia,27,Georgia Tech,24,1
+666,14,"Nov 26, 1983",Louisiana,25,San Jose State,21,1
+667,14,"Nov 26, 1983",Nebraska,28,Oklahoma,21,1
+668,14,"Nov 26, 1983",SMU,34,Houston,12,0
+669,14,"Nov 26, 1983",Tennessee,34,Vanderbilt,24,0
+670,14,"Nov 26, 1983",Texas,45,Texas A&M,13,1
+671,14,"Nov 26, 1983",Wyoming,31,Hawaii,13,1
+672,14,"Nov 27, 1983",California,27,Stanford,18,1
+673,14,"Nov 27, 1983",Indiana State,16,Eastern Illinois,13,0
+674,15,"Dec 3, 1983",Auburn,23,Alabama,20,0
+675,15,"Dec 3, 1983",Florida,53,Florida State,14,0
+676,15,"Dec 3, 1983",Oklahoma,21,Hawaii,17,1
+677,15,"Dec 3, 1983",Indiana State,7,Southern Illinois,23,1
+678,16,"Dec 10, 1983",Air Force,9,Ole Miss,3,0
+679,16,"Dec 10, 1983",Nevada,7,Southern Illinois,23,1
+680,17,"Dec 17, 1983",Northern Illinois,20,Cal State Fullerton,13,0
+681,17,"Dec 17, 1983",Western Carolina,7,Southern Illinois,43,1
+682,17,"Dec 17, 1983",Tennessee,30,Maryland,23,0
+683,18,"Dec 22, 1983",West Virginia,20,Kentucky,16,0
+684,18,"Dec 23, 1983",BYU,21,Missouri,17,0
+685,18,"Dec 24, 1983",SMU,7,Alabama,28,1
+686,18,"Dec 26, 1983",Penn State,13,Washington,10,0
+687,19,"Dec 29, 1983",Notre Dame,19,Boston College,18,0
+688,19,"Dec 30, 1983",Iowa,6,Florida,14,1
+689,19,"Dec 30, 1983",North Carolina,3,Florida State,28,1
+690,19,"Dec 31, 1983",Oklahoma State,24,Baylor,14,0
+691,20,"Jan 2, 1984",Auburn,9,Michigan,7,0
+692,20,"Jan 2, 1984",Texas,9,Georgia,10,1
+693,20,"Jan 2, 1984",Miami,31,Nebraska,30,0
+694,20,"Jan 2, 1984",Ohio State,28,Pitt,23,0
+695,20,"Jan 2, 1984",Illinois,9,UCLA,45,1

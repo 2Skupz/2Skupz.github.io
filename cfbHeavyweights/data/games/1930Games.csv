@@ -1,0 +1,621 @@
+0,1,"Sep 13, 1930",Montana State,44,Centerville (Butte),0,0
+1,1,"Sep 13, 1930",TCU,40,Texas A&M-Commerce,0,0
+2,1,"Sep 15, 1930",Oregon,20,Pacific (Oregon),0,0
+3,2,"Sep 19, 1930",West Virginia,7,Duquesne,0,1
+4,2,"Sep 20, 1930",Presbyterian,7,Clemson,28,1
+5,2,"Sep 20, 1930",Denver,40,Regis (CO),0,0
+6,2,"Sep 20, 1930",LSU,76,Dakota Wesleyan,0,0
+7,2,"Sep 20, 1930",Montana,18,Anaconda Anodes,14,0
+8,2,"Sep 20, 1930",Montana State,38,Centerville (Butte),0,1
+9,2,"Sep 20, 1930",NC State,34,High Point,0,0
+10,2,"Sep 20, 1930",Oregon State,48,Willamette,0,0
+11,2,"Sep 20, 1930",Southwestern (TX),6,Rice,32,1
+12,2,"Sep 20, 1930",Sewanee,25,Jacksonville State,0,0
+13,2,"Sep 20, 1930",South Carolina,19,Erskine,0,0
+14,2,"Sep 20, 1930",Stanford,32,West Coast Army,0,0
+15,2,"Sep 20, 1930",TCU,47,North Texas,0,1
+16,2,"Sep 20, 1930",Virginia,37,Roanoke,0,0
+17,2,"Sep 20, 1930",Washington & Lee,32,Randolph-Macon,0,0
+18,2,"Sep 21, 1930",Texas,36,Texas State,0,0
+19,2,"Sep 22, 1930",Oregon,51,Willamette,0,0
+20,3,"Sep 26, 1930",Birmingham-Southern,7,Auburn,0,0
+21,3,"Sep 26, 1930",Detroit Mercy,59,Adrian,0,0
+22,3,"Sep 26, 1930",Ole Miss,64,Union (Tennessee),0,0
+23,3,"Sep 27, 1930",Alabama,43,Samford,0,0
+24,3,"Sep 27, 1930",Arkansas,27,Ozarks,0,0
+25,3,"Sep 27, 1930",Army,39,Boston University,0,0
+26,3,"Sep 27, 1930",Baylor,33,North Texas,0,0
+27,3,"Sep 27, 1930",BYU,19,Wyoming,12,0
+28,3,"Sep 27, 1930",Brown,7,Rhode Island,0,0
+29,3,"Sep 27, 1930",Geneva,6,Bucknell,46,1
+30,3,"Sep 27, 1930",Santa Clara,7,California,19,1
+31,3,"Sep 27, 1930",Carnegie Mellon,75,Buffalo,2,0
+32,3,"Sep 27, 1930",Centenary (LA),27,Hendrix,0,0
+33,3,"Sep 27, 1930",Clemson,32,Wofford,0,0
+34,3,"Sep 27, 1930",Colgate,38,St. Lawrence,0,0
+35,3,"Sep 27, 1930",Columbia,48,Middlebury,0,0
+36,3,"Sep 27, 1930",Cornell,66,Clarkson,0,0
+37,3,"Sep 27, 1930",Creighton,13,St. Mary's (Kansas),0,0
+38,3,"Sep 27, 1930",Dartmouth,79,Norwich,0,0
+39,3,"Sep 27, 1930",Davidson,12,NC State,0,1
+40,3,"Sep 27, 1930",Florida Southern,6,Florida,45,1
+41,3,"Sep 27, 1930",Fordham,73,Baltimore,0,0
+42,3,"Sep 27, 1930",Mount St. Mary's,6,Georgetown,14,0
+43,3,"Sep 27, 1930",Oglethorpe,6,Georgia,31,1
+44,3,"Sep 27, 1930",Grinnell,19,Iowa Wesleyan,0,0
+45,3,"Sep 27, 1930",Harvard,33,Coast Guard,0,0
+46,3,"Sep 27, 1930",Indiana,14,Miami (OH),0,0
+47,3,"Sep 27, 1930",Iowa,38,Bradley,12,0
+48,3,"Sep 27, 1930",LSU,71,Louisiana Tech,0,0
+49,3,"Sep 27, 1930",Marquette,27,Lawrence,0,0
+50,3,"Sep 27, 1930",Maryland,60,Washington (Maryland),6,0
+51,3,"Sep 27, 1930",Michigan,33,Denison,0,0
+52,3,"Sep 27, 1930",Michigan,7,Eastern Michigan,0,0
+53,3,"Sep 27, 1930",Michigan State,28,Alma,0,0
+54,3,"Sep 27, 1930",Minnesota,48,South Dakota State,0,0
+55,3,"Sep 27, 1930",Montana,52,Carroll (Montana),0,0
+56,3,"Sep 27, 1930",Montana State,7,Idaho,6,1
+57,3,"Sep 27, 1930",New York University,35,Hobart,0,0
+58,3,"Sep 27, 1930",Wake Forest,7,North Carolina,13,1
+59,3,"Sep 27, 1930",Ohio State,59,Mount Union,0,0
+60,3,"Sep 27, 1930",Oklahoma State,12,Wichita State,0,0
+61,3,"Sep 27, 1930",Gonzaga,6,Oregon State,16,1
+62,3,"Sep 27, 1930",Penn State,31,Niagara,14,0
+63,3,"Sep 27, 1930",Pitt,52,Waynesburg,0,0
+64,3,"Sep 27, 1930",Colorado State,7,Regis (CO),14,1
+65,3,"Sep 27, 1930",Rhodes,14,Mississippi State,0,1
+66,3,"Sep 27, 1930",Rice,13,Sam Houston,12,0
+67,3,"Sep 27, 1930",Saint Mary's (CA),32,West Coast Army,0,0
+68,3,"Sep 27, 1930",Sewanee,14,Tennessee Tech,0,0
+69,3,"Sep 27, 1930",South Carolina,22,Duke,0,1
+70,3,"Sep 27, 1930",USC,52,UCLA,0,1
+71,3,"Sep 27, 1930",SMU,26,Howard Payne,0,0
+72,3,"Sep 27, 1930",Stanford,18,Olympic Club,0,0
+73,3,"Sep 27, 1930",Syracuse,55,Rensselaer,0,0
+74,3,"Sep 27, 1930",Thiel,6,Temple,13,0
+75,3,"Sep 27, 1930",Tennessee,54,Maryville (TN),0,0
+76,3,"Sep 27, 1930",Texas A&M,43,Southwestern (TX),0,0
+77,3,"Sep 27, 1930",Austin,7,TCU,33,1
+78,3,"Sep 27, 1930",Tulane,84,Louisiana,0,0
+79,3,"Sep 27, 1930",Nevada,7,Utah,20,0
+80,3,"Sep 27, 1930",Utah State,31,Western State,0,0
+81,3,"Sep 27, 1930",Vanderbilt,39,Chattanooga,0,0
+82,3,"Sep 27, 1930",Villanova,19,Lebanon Valley,0,0
+83,3,"Sep 27, 1930",Virginia,48,Randolph-Macon,0,0
+84,3,"Sep 27, 1930",Virginia Military Institute,12,Richmond,0,0
+85,3,"Sep 27, 1930",Virginia Tech,9,Roanoke,0,0
+86,3,"Sep 27, 1930",Washington,48,Whitman,0,0
+87,3,"Sep 27, 1930",Washington & Jefferson,74,Bethany (West Virginia),0,0
+88,3,"Sep 27, 1930",Washington & Lee,15,Hampden-Sydney,0,0
+89,3,"Sep 27, 1930",Washington State,47,Albertson,12,0
+90,3,"Sep 27, 1930",West Virginia,26,West Virginia Wesleyan,0,0
+91,3,"Sep 27, 1930",Yale,38,Maine,0,0
+92,3,"Sep 28, 1930",Texas,28,UTEP,0,0
+93,3,"Sep 29, 1930",Oregon,6,Linfield,0,0
+94,4,"Oct 3, 1930",Citadel,7,Clemson,13,1
+95,4,"Oct 3, 1930",Detroit Mercy,51,Albion,0,0
+96,4,"Oct 3, 1930",Fordham,71,Buffalo,0,0
+97,4,"Oct 3, 1930",Marquette,6,Grinnell,0,1
+98,4,"Oct 4, 1930",Alabama,64,Ole Miss,0,0
+99,4,"Oct 4, 1930",Army,54,Furman,0,0
+100,4,"Oct 4, 1930",Auburn,13,Spring Hill,0,0
+101,4,"Oct 4, 1930",Brown,54,WPI,0,0
+102,4,"Oct 4, 1930",Bucknell,26,Albright,0,0
+103,4,"Oct 4, 1930",Thiel,6,Carnegie Mellon,52,1
+104,4,"Oct 4, 1930",Texas,0,Centenary (LA),0,0
+105,4,"Oct 4, 1930",Chicago,19,Ripon,0,0
+106,4,"Oct 4, 1930",Chicago,7,Hillsdale,6,0
+107,4,"Oct 4, 1930",Colgate,99,Bethany (West Virginia),0,0
+108,4,"Oct 4, 1930",Colorado,9,Missouri,0,1
+109,4,"Oct 4, 1930",Columbia,25,Union (NY),0,0
+110,4,"Oct 4, 1930",Cornell,61,Niagara,14,0
+111,4,"Oct 4, 1930",Dartmouth,20,Bates,0,0
+112,4,"Oct 4, 1930",Davidson,21,Erskine,0,0
+113,4,"Oct 4, 1930",Denver,16,Colorado Mines,0,0
+114,4,"Oct 4, 1930",Duke,32,Virginia,0,0
+115,4,"Oct 4, 1930",Gonzaga,0,Ellensburg,0,0
+116,4,"Oct 4, 1930",Florida,27,NC State,0,0
+117,4,"Oct 4, 1930",Loyola (Chicago),6,Georgetown,16,1
+118,4,"Oct 4, 1930",Georgia,51,Mercer,0,0
+119,4,"Oct 4, 1930",Georgia Tech,45,South Carolina,0,0
+120,4,"Oct 4, 1930",Gettysburg,3,Villanova,0,1
+121,4,"Oct 4, 1930",Harvard,35,Vermont,0,0
+122,4,"Oct 4, 1930",Albertson,6,Idaho,30,1
+123,4,"Oct 4, 1930",Illinois,7,Iowa State,0,0
+124,4,"Oct 4, 1930",Kansas,26,Creighton,0,1
+125,4,"Oct 4, 1930",Kansas State,14,Washburn,0,0
+126,4,"Oct 4, 1930",Kentucky,37,Sewanee,0,0
+127,4,"Oct 4, 1930",LSU,85,Louisiana,0,0
+128,4,"Oct 4, 1930",Michigan,0,Michigan State,0,0
+129,4,"Oct 4, 1930",Mississippi College,13,Mississippi State,12,0
+130,4,"Oct 4, 1930",Montana State,26,Regis (CO),19,0
+131,4,"Oct 4, 1930",William & Mary,6,Navy,19,1
+132,4,"Oct 4, 1930",Nebraska,13,Texas A&M,0,0
+133,4,"Oct 4, 1930",BYU,6,Nevada,6,0
+134,4,"Oct 4, 1930",West Virginia Wesleyan,6,New York University,41,1
+135,4,"Oct 4, 1930",North Carolina,39,Virginia Tech,21,1
+136,4,"Oct 4, 1930",Northwestern,14,Tulane,0,0
+137,4,"Oct 4, 1930",Notre Dame,20,SMU,14,0
+138,4,"Oct 4, 1930",Ohio State,23,Indiana,0,0
+139,4,"Oct 4, 1930",Oklahoma,47,New Mexico,0,0
+140,4,"Oct 4, 1930",Oklahoma State,6,Iowa,0,1
+141,4,"Oct 4, 1930",Drake,7,Oregon,14,1
+142,4,"Oct 4, 1930",Penn State,27,Lebanon Valley,0,0
+143,4,"Oct 4, 1930",Pennsylvania,63,Swarthmore,0,0
+144,4,"Oct 4, 1930",Pitt,16,West Virginia,0,1
+145,4,"Oct 4, 1930",Princeton,23,Amherst,0,0
+146,4,"Oct 4, 1930",Baylor,7,Purdue,20,1
+147,4,"Oct 4, 1930",Rice,20,St. Edward's,0,0
+148,4,"Oct 4, 1930",Saint Mary's (CA),13,San Francisco,0,0
+149,4,"Oct 4, 1930",Oregon State,7,USC,27,1
+150,4,"Oct 4, 1930",Stanford,20,Santa Clara,0,0
+151,4,"Oct 4, 1930",Syracuse,49,Hobart,0,0
+152,4,"Oct 4, 1930",Temple,28,Scranton,2,0
+153,4,"Oct 4, 1930",Tennessee,18,Centre,0,1
+154,4,"Oct 4, 1930",Hardin-Simmons,0,TCU,0,0
+155,4,"Oct 4, 1930",Arkansas,6,Tulsa,26,1
+156,4,"Oct 4, 1930",Utah,72,Wyoming,0,0
+157,4,"Oct 4, 1930",Utah State,8,Colorado College,7,1
+158,4,"Oct 4, 1930",Minnesota,7,Vanderbilt,33,0
+159,4,"Oct 4, 1930",Virginia Military Institute,6,St. John's (Maryland),0,0
+160,4,"Oct 4, 1930",Wake Forest,20,Guilford,0,0
+161,4,"Oct 4, 1930",Washington,27,Montana,0,0
+162,4,"Oct 4, 1930",Washington & Jefferson,35,Westminster (Pennsylvania),0,0
+163,4,"Oct 4, 1930",Washington & Lee,14,Richmond,0,1
+164,4,"Oct 4, 1930",Washington (MO),41,Illinois College,0,1
+165,4,"Oct 4, 1930",Washington State,16,California,0,1
+166,4,"Oct 4, 1930",Wisconsin,28,Carleton,0,0
+167,4,"Oct 4, 1930",Lawrence,6,Wisconsin,53,1
+168,4,"Oct 4, 1930",Yale,40,Maryland,13,0
+169,5,"Oct 10, 1930",Grinnell,6,Detroit Mercy,47,1
+170,5,"Oct 10, 1930",Haskell,7,Kansas,33,0
+171,5,"Oct 10, 1930",Oregon State,20,California-Davis,0,0
+172,5,"Oct 10, 1930",SMU,34,Austin,0,0
+173,5,"Oct 10, 1930",Temple,7,Bucknell,6,0
+174,5,"Oct 10, 1930",Wake Forest,44,Baltimore,0,0
+175,5,"Oct 11, 1930",Alabama,25,Sewanee,0,0
+176,5,"Oct 11, 1930",Army,39,Swarthmore,0,0
+177,5,"Oct 11, 1930",Baylor,54,Trinity (Texas),0,0
+178,5,"Oct 11, 1930",Northern Colorado,7,BYU,7,0
+179,5,"Oct 11, 1930",Brown,7,Princeton,0,1
+180,5,"Oct 11, 1930",California,7,Saint Mary's (CA),6,0
+181,5,"Oct 11, 1930",Carnegie Mellon,31,Georgia Tech,0,0
+182,5,"Oct 11, 1930",Centenary (LA),19,Iowa,12,1
+183,5,"Oct 11, 1930",Citadel,7,Virginia Military Institute,6,0
+184,5,"Oct 11, 1930",Clemson,27,NC State,0,0
+185,5,"Oct 11, 1930",Colgate,41,Lafayette,0,0
+186,5,"Oct 11, 1930",Utah State,0,Colorado,0,0
+187,5,"Oct 11, 1930",Western State,7,Colorado College,45,1
+188,5,"Oct 11, 1930",Denver,7,Colorado State,15,0
+189,5,"Oct 11, 1930",Columbia,48,Wesleyan (CT),0,0
+190,5,"Oct 11, 1930",Hampden-Sydney,6,Cornell,47,1
+191,5,"Oct 11, 1930",Dartmouth,74,Boston University,0,0
+192,5,"Oct 11, 1930",Duke,12,Davidson,0,0
+193,5,"Oct 11, 1930",Florida,7,Auburn,0,0
+194,5,"Oct 11, 1930",Georgetown,67,West Virginia Wesleyan,12,0
+195,5,"Oct 11, 1930",Georgia,18,Yale,14,1
+196,5,"Oct 11, 1930",Harvard,27,Springfield,0,0
+197,5,"Oct 11, 1930",Illinois,27,Butler,0,0
+198,5,"Oct 11, 1930",Kentucky,57,Maryville (TN),0,0
+199,5,"Oct 11, 1930",Marquette,12,Drake,0,0
+200,5,"Oct 11, 1930",Michigan,14,Purdue,13,0
+201,5,"Oct 11, 1930",Michigan State,32,Cincinnati,0,0
+202,5,"Oct 11, 1930",Millsaps,19,Mississippi State,13,1
+203,5,"Oct 11, 1930",Montana State,20,Wyoming,13,1
+204,5,"Oct 11, 1930",Villanova,6,New York University,20,1
+205,5,"Oct 11, 1930",North Carolina,28,Maryland,21,0
+206,5,"Oct 11, 1930",Ohio State,2,Northwestern,19,1
+207,5,"Oct 11, 1930",Notre Dame,26,Navy,2,0
+208,5,"Oct 11, 1930",Nebraska,7,Oklahoma,20,1
+209,5,"Oct 11, 1930",Indiana,7,Oklahoma State,7,0
+210,5,"Oct 11, 1930",Penn State,65,Marshall,0,0
+211,5,"Oct 11, 1930",Virginia,6,Pennsylvania,40,1
+212,5,"Oct 11, 1930",Pitt,52,Western Reserve,0,1
+213,5,"Oct 11, 1930",Regis (CO),34,20th Infantry,0,0
+214,5,"Oct 11, 1930",Rice,21,Arizona,0,0
+215,5,"Oct 11, 1930",Saint Louis,20,Missouri,0,0
+216,5,"Oct 11, 1930",San Francisco,13,Gonzaga,12,1
+217,5,"Oct 11, 1930",South Carolina,7,LSU,6,0
+218,5,"Oct 11, 1930",Minnesota,0,Stanford,0,0
+219,5,"Oct 11, 1930",Syracuse,27,Rutgers,0,0
+220,5,"Oct 11, 1930",Tennessee,27,Ole Miss,0,0
+221,5,"Oct 11, 1930",Texas,26,Howard Payne,0,0
+222,5,"Oct 11, 1930",TCU,40,Arkansas,0,0
+223,5,"Oct 11, 1930",Texas A&M,9,Tulane,19,0
+224,5,"Oct 11, 1930",UCLA,21,Pomona-Pitzer,0,0
+225,5,"Oct 11, 1930",Vanderbilt,40,Virginia Tech,0,0
+226,5,"Oct 11, 1930",Washington,27,Idaho,0,0
+227,5,"Oct 11, 1930",Wittenberg,7,Washington & Jefferson,7,0
+228,5,"Oct 11, 1930",William Jewell,0,Washington (MO),0,0
+229,5,"Oct 11, 1930",Washington State,7,USC,6,0
+230,5,"Oct 11, 1930",West Virginia,33,Washington & Lee,13,0
+231,5,"Oct 11, 1930",Wisconsin,34,Chicago,0,0
+232,5,"Oct 13, 1930",Fordham,3,Boston College,0,1
+233,6,"Oct 16, 1930",Wake Forest,7,NC State,0,1
+234,6,"Oct 17, 1930",Clemson,75,Newberry,0,0
+235,6,"Oct 17, 1930",Detroit Mercy,23,West Virginia,0,0
+236,6,"Oct 17, 1930",UCLA,6,Saint Mary's (CA),21,0
+237,6,"Oct 18, 1930",Tennessee,6,Alabama,18,1
+238,6,"Oct 18, 1930",Arkansas,7,Rice,6,0
+239,6,"Oct 18, 1930",Army,6,Harvard,0,1
+240,6,"Oct 18, 1930",Bucknell,14,St. Thomas,0,0
+241,6,"Oct 18, 1930",Centenary (LA),9,Stetson,0,1
+242,6,"Oct 18, 1930",Colorado Mines,7,Colorado,36,1
+243,6,"Oct 18, 1930",Colorado State,26,Northern Colorado,0,1
+244,6,"Oct 18, 1930",Princeton,7,Cornell,12,0
+245,6,"Oct 18, 1930",Dartmouth,52,Columbia,0,0
+246,6,"Oct 18, 1930",Davidson,6,Citadel,0,0
+247,6,"Oct 18, 1930",Denver,6,Colorado College,0,0
+248,6,"Oct 18, 1930",Grinnell,7,Drake,20,1
+249,6,"Oct 18, 1930",Duke,18,Navy,0,1
+250,6,"Oct 18, 1930",Florida,19,Chicago,0,1
+251,6,"Oct 18, 1930",Fordham,6,Holy Cross,0,1
+252,6,"Oct 18, 1930",Georgia,26,North Carolina,0,0
+253,6,"Oct 18, 1930",Georgia Tech,14,Auburn,12,0
+254,6,"Oct 18, 1930",Idaho,47,Whitman,0,0
+255,6,"Oct 18, 1930",Kansas,14,Kansas State,0,1
+256,6,"Oct 18, 1930",Kentucky,33,Washington & Lee,14,0
+257,6,"Oct 18, 1930",Creighton,7,Marquette,19,0
+258,6,"Oct 18, 1930",Maryland,21,St. John's (Maryland),13,0
+259,6,"Oct 18, 1930",Michigan,13,Ohio State,0,1
+260,6,"Oct 18, 1930",Colgate,7,Michigan State,14,1
+261,6,"Oct 18, 1930",Minnesota,6,Indiana,0,0
+262,6,"Oct 18, 1930",Mississippi State,8,LSU,6,0
+263,6,"Oct 18, 1930",Montana State,6,Montana,13,1
+264,6,"Oct 18, 1930",Nebraska,14,Iowa State,12,1
+265,6,"Oct 18, 1930",New York University,38,Missouri,0,0
+266,6,"Oct 18, 1930",Northwestern,32,Illinois,0,1
+267,6,"Oct 18, 1930",Carnegie Mellon,6,Notre Dame,21,1
+268,6,"Oct 18, 1930",Oklahoma City,6,Oklahoma State,0,0
+269,6,"Oct 18, 1930",California,7,Olympic Club,13,0
+270,6,"Oct 18, 1930",Oregon,7,Washington,0,0
+271,6,"Oct 18, 1930",Lafayette,0,Penn State,0,0
+272,6,"Oct 18, 1930",Pitt,14,Syracuse,0,1
+273,6,"Oct 18, 1930",Purdue,20,Iowa,0,1
+274,6,"Oct 18, 1930",Carroll (Montana),7,Regis (CO),19,1
+275,6,"Oct 18, 1930",Ole Miss,7,Sewanee,13,0
+276,6,"Oct 18, 1930",USC,65,Utah State,0,0
+277,6,"Oct 18, 1930",Baylor,14,SMU,14,0
+278,6,"Oct 18, 1930",Oregon State,7,Stanford,13,1
+279,6,"Oct 18, 1930",Washington & Jefferson,7,Temple,20,1
+280,6,"Oct 18, 1930",Oklahoma,7,Texas,17,1
+281,6,"Oct 18, 1930",TCU,3,Texas A&M,0,1
+282,6,"Oct 18, 1930",Tulane,21,Birmingham-Southern,0,0
+283,6,"Oct 18, 1930",BYU,7,Utah,34,1
+284,6,"Oct 18, 1930",Spring Hill,6,Vanderbilt,27,1
+285,6,"Oct 18, 1930",Villanova,7,Boston College,0,0
+286,6,"Oct 18, 1930",Virginia,13,Virginia Military Institute,0,1
+287,6,"Oct 18, 1930",Virginia Tech,7,William & Mary,6,0
+288,6,"Oct 18, 1930",Washington (MO),14,Westminster (Missouri),0,0
+289,6,"Oct 18, 1930",Washington State,24,Gonzaga,0,1
+290,6,"Oct 18, 1930",Western Maryland,10,Georgetown,0,0
+291,6,"Oct 18, 1930",Wisconsin,27,Pennsylvania,0,0
+292,6,"Oct 18, 1930",Yale,21,Brown,0,0
+293,7,"Oct 23, 1930",South Carolina,7,Clemson,20,0
+294,7,"Oct 24, 1930",Marquette,53,Ripon,0,0
+295,7,"Oct 24, 1930",UCLA,30,California Tech,0,0
+296,7,"Oct 24, 1930",Georgetown,7,West Virginia,14,0
+297,7,"Oct 25, 1930",Vanderbilt,7,Alabama,12,1
+298,7,"Oct 25, 1930",Arkansas,13,Texas A&M,0,0
+299,7,"Oct 25, 1930",Yale,7,Army,7,0
+300,7,"Oct 25, 1930",BYU,25,Western State,0,1
+301,7,"Oct 25, 1930",Brown,13,Holy Cross,0,0
+302,7,"Oct 25, 1930",Gettysburg,6,Bucknell,26,0
+303,7,"Oct 25, 1930",Western Reserve,8,Carnegie Mellon,40,1
+304,7,"Oct 25, 1930",Centenary (LA),7,Baylor,2,0
+305,7,"Oct 25, 1930",Colgate,40,Penn State,0,1
+306,7,"Oct 25, 1930",Colorado,7,Colorado State,0,0
+307,7,"Oct 25, 1930",Columbia,3,Williams,0,0
+308,7,"Oct 25, 1930",Dartmouth,7,Harvard,2,1
+309,7,"Oct 25, 1930",Duke,14,Wofford,0,0
+310,7,"Oct 25, 1930",Fordham,7,New York University,0,0
+311,7,"Oct 25, 1930",Furman,14,Florida,13,1
+312,7,"Oct 25, 1930",Auburn,7,Georgia,39,1
+313,7,"Oct 25, 1930",Grinnell,14,Carleton,13,1
+314,7,"Oct 25, 1930",Haskell,19,Creighton,12,1
+315,7,"Oct 25, 1930",Iowa State,6,Kansas,20,1
+316,7,"Oct 25, 1930",Kentucky,47,Virginia,0,0
+317,7,"Oct 25, 1930",LSU,12,Sewanee,0,0
+318,7,"Oct 25, 1930",Maryland,20,Virginia Military Institute,0,0
+319,7,"Oct 25, 1930",Illinois,7,Michigan,15,1
+320,7,"Oct 25, 1930",Michigan State,45,Case,0,0
+321,7,"Oct 25, 1930",Chicago,0,Ole Miss,0,0
+322,7,"Oct 25, 1930",Missouri,14,Drake,13,0
+323,7,"Oct 25, 1930",Navy,31,Princeton,0,1
+324,7,"Oct 25, 1930",Montana State,7,Nebraska,53,1
+325,7,"Oct 25, 1930",NC State,14,Mississippi State,0,0
+326,7,"Oct 25, 1930",Northern Colorado,7,Colorado Mines,0,1
+327,7,"Oct 25, 1930",Centre,7,Northwestern,45,1
+328,7,"Oct 25, 1930",Notre Dame,35,Pitt,19,1
+329,7,"Oct 25, 1930",Oklahoma,7,Kansas State,0,0
+330,7,"Oct 25, 1930",Washington (MO),7,Oklahoma State,28,1
+331,7,"Oct 25, 1930",Idaho,6,Oregon,20,1
+332,7,"Oct 25, 1930",Oregon State,57,Pacific (Oregon),0,0
+333,7,"Oct 25, 1930",Pennsylvania,40,Lehigh,0,0
+334,7,"Oct 25, 1930",Purdue,7,Wisconsin,6,0
+335,7,"Oct 25, 1930",1st Infantry,7,Regis (CO),40,1
+336,7,"Oct 25, 1930",Rice,6,Texas,0,0
+337,7,"Oct 25, 1930",Saint Mary's (CA),41,Gonzaga,0,1
+338,7,"Oct 25, 1930",USC,41,Stanford,12,1
+339,7,"Oct 25, 1930",SMU,27,Indiana,0,0
+340,7,"Oct 25, 1930",St. John's (Maryland),7,Washington & Lee,0,1
+341,7,"Oct 25, 1930",St. Lawrence,6,Syracuse,34,1
+342,7,"Oct 25, 1930",Tennessee,9,North Carolina,7,0
+343,7,"Oct 25, 1930",TCU,26,Texas Tech,0,0
+344,7,"Oct 25, 1930",Tulane,28,Georgia Tech,0,1
+345,7,"Oct 25, 1930",Utah,59,Denver,0,0
+346,7,"Oct 25, 1930",Wyoming,8,Utah State,13,1
+347,7,"Oct 25, 1930",Villanova,8,Temple,7,0
+348,7,"Oct 25, 1930",Virginia Tech,20,Davidson,19,1
+349,7,"Oct 25, 1930",Wake Forest,21,Mercer,0,0
+350,7,"Oct 25, 1930",Washington,13,California,0,0
+351,7,"Oct 25, 1930",Washington & Jefferson,7,Lafayette,0,0
+352,7,"Oct 25, 1930",Washington State,61,Montana,0,0
+353,8,"Oct 30, 1930",South Carolina,13,Citadel,0,0
+354,8,"Oct 31, 1930",Georgetown,14,Michigan State,13,0
+355,8,"Oct 31, 1930",Stanford,20,UCLA,0,0
+356,8,"Nov 1, 1930",Alabama,19,Kentucky,0,1
+357,8,"Nov 1, 1930",North Dakota,6,Army,33,1
+358,8,"Nov 1, 1930",Wofford,6,Auburn,38,1
+359,8,"Nov 1, 1930",Baylor,31,Oklahoma Baptist,0,1
+360,8,"Nov 1, 1930",BYU,39,Utah State,14,0
+361,8,"Nov 1, 1930",Syracuse,16,Brown,16,0
+362,8,"Nov 1, 1930",Penn State,7,Bucknell,19,1
+363,8,"Nov 1, 1930",California,46,Montana,0,0
+364,8,"Nov 1, 1930",Colgate,34,Mississippi College,0,0
+365,8,"Nov 1, 1930",Colorado,14,Colorado College,13,1
+366,8,"Nov 1, 1930",Cornell,7,Columbia,10,1
+367,8,"Nov 1, 1930",Yale,0,Dartmouth,0,0
+368,8,"Nov 1, 1930",Drake,12,Washington (MO),0,0
+369,8,"Nov 1, 1930",Villanova,6,Duke,12,0
+370,8,"Nov 1, 1930",Georgia,0,Florida,0,0
+371,8,"Nov 1, 1930",West Virginia,2,Fordham,18,1
+372,8,"Nov 1, 1930",North Carolina,6,Georgia Tech,6,0
+373,8,"Nov 1, 1930",Creighton,2,Grinnell,19,1
+374,8,"Nov 1, 1930",Haskell,13,Oklahoma State,12,1
+375,8,"Nov 1, 1930",Idaho,26,Gonzaga,0,0
+376,8,"Nov 1, 1930",Iowa,7,Detroit Mercy,3,1
+377,8,"Nov 1, 1930",Kansas State,20,Missouri,13,0
+378,8,"Nov 1, 1930",LSU,27,Arkansas,12,0
+379,8,"Nov 1, 1930",Marquette,6,Boston College,0,1
+380,8,"Nov 1, 1930",Virginia,6,Maryland,14,0
+381,8,"Nov 1, 1930",Navy,37,West Virginia Wesleyan,14,0
+382,8,"Nov 1, 1930",Carnegie Mellon,7,New York University,20,0
+383,8,"Nov 1, 1930",Wyoming,6,Northern Colorado,6,0
+384,8,"Nov 1, 1930",Minnesota,6,Northwestern,27,0
+385,8,"Nov 1, 1930",Notre Dame,27,Indiana,0,0
+386,8,"Nov 1, 1930",Oklahoma,19,Iowa State,13,1
+387,8,"Nov 1, 1930",Kansas,6,Pennsylvania,21,1
+388,8,"Nov 1, 1930",Nebraska,0,Pitt,0,0
+389,8,"Nov 1, 1930",Presbyterian,2,NC State,0,1
+390,8,"Nov 1, 1930",Chicago,0,Princeton,0,0
+391,8,"Nov 1, 1930",Purdue,25,Illinois,0,1
+392,8,"Nov 1, 1930",Rice,12,Sewanee,0,0
+393,8,"Nov 1, 1930",Saint Mary's (CA),13,Santa Clara,0,0
+394,8,"Nov 1, 1930",USC,33,Denver,13,0
+395,8,"Nov 1, 1930",Temple,36,Wake Forest,0,0
+396,8,"Nov 1, 1930",Tennessee,27,Clemson,0,0
+397,8,"Nov 1, 1930",SMU,7,Texas,25,1
+398,8,"Nov 1, 1930",Texas A&M,7,Centenary (LA),6,0
+399,8,"Nov 1, 1930",TCU,62,Abilene Christian,0,0
+400,8,"Nov 1, 1930",Tulane,53,Mississippi State,0,0
+401,8,"Nov 1, 1930",Utah,39,Colorado State,0,1
+402,8,"Nov 1, 1930",Vanderbilt,24,Ole Miss,0,0
+403,8,"Nov 1, 1930",Virginia Military Institute,6,Davidson,0,0
+404,8,"Nov 1, 1930",Washington & Lee,0,Virginia Tech,0,0
+405,8,"Nov 1, 1930",Washington,60,Puget Sound,0,0
+406,8,"Nov 1, 1930",Washington & Jefferson,20,Thiel,0,0
+407,8,"Nov 1, 1930",Oregon State,7,Washington State,14,0
+408,8,"Nov 1, 1930",Harvard,13,William & Mary,13,0
+409,8,"Nov 1, 1930",Ohio State,0,Wisconsin,0,0
+410,8,"Nov 3, 1930",Western State,7,Regis (CO),14,0
+411,9,"Nov 7, 1930",NC State,6,North Carolina,13,1
+412,9,"Nov 8, 1930",Alabama,20,Florida,0,1
+413,9,"Nov 8, 1930",Army,13,Illinois,0,0
+414,9,"Nov 8, 1930",Carroll (Montana),13,BYU,13,0
+415,9,"Nov 8, 1930",Tufts,7,Brown,32,1
+416,9,"Nov 8, 1930",Bucknell,20,Villanova,14,0
+417,9,"Nov 8, 1930",Centenary (LA),19,Edmond Tech,0,0
+418,9,"Nov 8, 1930",Clemson,32,Virginia Military Institute,0,1
+419,9,"Nov 8, 1930",Colgate,54,Columbia,0,1
+420,9,"Nov 8, 1930",Northern Colorado,7,Colorado,27,0
+421,9,"Nov 8, 1930",Colorado Mines,13,Western State,0,0
+422,9,"Nov 8, 1930",Cornell,54,Hobart,0,0
+423,9,"Nov 8, 1930",Dartmouth,43,Allegheny,14,0
+424,9,"Nov 8, 1930",Davidson,13,Wofford,0,0
+425,9,"Nov 8, 1930",Utah State,7,Denver,32,1
+426,9,"Nov 8, 1930",Creighton,6,Drake,38,0
+427,9,"Nov 8, 1930",Kentucky,7,Duke,14,1
+428,9,"Nov 8, 1930",Detroit Mercy,7,Fordham,13,0
+429,9,"Nov 8, 1930",Furman,14,South Carolina,0,0
+430,9,"Nov 8, 1930",Georgetown,20,Boston College,19,1
+431,9,"Nov 8, 1930",Georgia,7,New York University,6,1
+432,9,"Nov 8, 1930",Mississippi State,7,Henderson State,25,0
+433,9,"Nov 8, 1930",Princeton,9,Lehigh,13,0
+434,9,"Nov 8, 1930",LSU,6,Ole Miss,0,0
+435,9,"Nov 8, 1930",Marquette,7,Iowa,0,0
+436,9,"Nov 8, 1930",Washington & Lee,7,Maryland,41,1
+437,9,"Nov 8, 1930",Michigan,6,Harvard,3,1
+438,9,"Nov 8, 1930",Michigan State,19,North Dakota State,11,0
+439,9,"Nov 8, 1930",Minnesota,59,South Dakota,0,0
+440,9,"Nov 8, 1930",Missouri,14,Iowa State,0,0
+441,9,"Nov 8, 1930",Montana,27,Gonzaga,15,0
+442,9,"Nov 8, 1930",Nebraska,16,Kansas,0,1
+443,9,"Nov 8, 1930",Northwestern,25,Indiana,0,1
+444,9,"Nov 8, 1930",Notre Dame,60,Pennsylvania,20,1
+445,9,"Nov 8, 1930",Ohio State,27,Navy,0,1
+446,9,"Nov 8, 1930",Oklahoma State,26,Arkansas,0,1
+447,9,"Nov 8, 1930",Oregon,7,UCLA,0,0
+448,9,"Nov 8, 1930",Pitt,7,Carnegie Mellon,6,0
+449,9,"Nov 8, 1930",Presbyterian,13,Wake Forest,0,0
+450,9,"Nov 8, 1930",Chicago,7,Purdue,26,0
+451,9,"Nov 8, 1930",Saint Mary's (CA),15,Olympic Club,0,0
+452,9,"Nov 8, 1930",Chattanooga,0,Sewanee,0,0
+453,9,"Nov 8, 1930",USC,74,California,0,0
+454,9,"Nov 8, 1930",Texas A&M,7,SMU,13,1
+455,9,"Nov 8, 1930",Washington,7,Stanford,25,1
+456,9,"Nov 8, 1930",Penn State,0,Syracuse,0,0
+457,9,"Nov 8, 1930",Temple,34,Miami,0,0
+458,9,"Nov 8, 1930",Tennessee,34,Carson-Newman,0,0
+459,9,"Nov 8, 1930",Texas,14,Baylor,0,1
+460,9,"Nov 8, 1930",TCU,20,Rice,0,1
+461,9,"Nov 8, 1930",Tulane,21,Auburn,0,0
+462,9,"Nov 8, 1930",Colorado College,6,Utah,41,1
+463,9,"Nov 8, 1930",Vanderbilt,6,Georgia Tech,0,1
+464,9,"Nov 8, 1930",Virginia Tech,34,Virginia,13,0
+465,9,"Nov 8, 1930",Washington (MO),6,Grinnell,0,0
+466,9,"Nov 8, 1930",Idaho,7,Washington State,33,0
+467,9,"Nov 8, 1930",Kansas State,7,West Virginia,23,1
+468,9,"Nov 8, 1930",South Dakota State,7,Wisconsin,58,1
+469,9,"Nov 8, 1930",Colorado State,6,Wyoming,21,0
+470,9,"Nov 8, 1930",Yale,66,Alfred,0,0
+471,9,"Nov 9, 1930",Montana State,21,Carroll (Montana),0,0
+472,10,"Nov 14, 1930",Cornell College,3,Grinnell,12,1
+473,10,"Nov 14, 1930",Rhodes,6,Ole Miss,37,1
+474,10,"Nov 15, 1930",Alabama,33,LSU,0,0
+475,10,"Nov 15, 1930",Army,47,Kentucky Wesleyan,2,0
+476,10,"Nov 15, 1930",Arkansas,7,Baylor,22,0
+477,10,"Nov 15, 1930",Montana State,6,BYU,19,1
+478,10,"Nov 15, 1930",Brown,6,Columbia,0,0
+479,10,"Nov 15, 1930",California,8,Nevada,0,0
+480,10,"Nov 15, 1930",Henderson State,6,Centenary (LA),20,1
+481,10,"Nov 15, 1930",Syracuse,7,Colgate,36,0
+482,10,"Nov 15, 1930",Colorado State,13,Utah State,0,1
+483,10,"Nov 15, 1930",Dartmouth,19,Cornell,13,1
+484,10,"Nov 15, 1930",Davidson,7,North Carolina,6,0
+485,10,"Nov 15, 1930",Wyoming,7,Denver,19,1
+486,10,"Nov 15, 1930",Marquette,0,Detroit Mercy,0,0
+487,10,"Nov 15, 1930",Duke,18,NC State,0,1
+488,10,"Nov 15, 1930",Florida,27,Clemson,0,0
+489,10,"Nov 15, 1930",Gonzaga,7,Haskell,19,1
+490,10,"Nov 15, 1930",Holy Cross,27,Harvard,0,1
+491,10,"Nov 15, 1930",Illinois,28,Chicago,0,1
+492,10,"Nov 15, 1930",Iowa,19,Penn State,0,0
+493,10,"Nov 15, 1930",Kansas,13,Oklahoma,0,0
+494,10,"Nov 15, 1930",Kansas State,13,Iowa State,0,1
+495,10,"Nov 15, 1930",Kentucky,26,Virginia Military Institute,0,0
+496,10,"Nov 15, 1930",Virginia Tech,7,Maryland,13,1
+497,10,"Nov 15, 1930",Michigan,7,Minnesota,0,0
+498,10,"Nov 15, 1930",Mississippi State,7,Auburn,6,1
+499,10,"Nov 15, 1930",Nebraska,0,Missouri,0,0
+500,10,"Nov 15, 1930",Idaho,6,Montana,12,0
+501,10,"Nov 15, 1930",New York University,2,Georgetown,0,0
+502,10,"Nov 15, 1930",Colorado College,7,Northern Colorado,7,0
+503,10,"Nov 15, 1930",Wisconsin,7,Northwestern,20,1
+504,10,"Nov 15, 1930",Drake,7,Notre Dame,28,1
+505,10,"Nov 15, 1930",Pitt,7,Ohio State,16,1
+506,10,"Nov 15, 1930",Oregon State,15,Oregon,0,0
+507,10,"Nov 15, 1930",Georgia Tech,7,Pennsylvania,34,1
+508,10,"Nov 15, 1930",Purdue,33,Butler,0,0
+509,10,"Nov 15, 1930",Colorado Mines,9,Regis (CO),13,1
+510,10,"Nov 15, 1930",Rice,7,Texas A&M,0,1
+511,10,"Nov 15, 1930",Saint Mary's (CA),20,Fordham,12,1
+512,10,"Nov 15, 1930",South Carolina,14,Sewanee,13,0
+513,10,"Nov 15, 1930",USC,52,Hawaii,0,0
+514,10,"Nov 15, 1930",Navy,7,SMU,20,0
+515,10,"Nov 15, 1930",California Tech,7,Stanford,57,1
+516,10,"Nov 15, 1930",Temple,43,Lafayette,0,0
+517,10,"Nov 15, 1930",Tennessee,13,Vanderbilt,0,1
+518,10,"Nov 15, 1930",Texas,7,TCU,0,1
+519,10,"Nov 15, 1930",Tulane,25,Georgia,0,0
+520,10,"Nov 15, 1930",Utah,34,Colorado,0,1
+521,10,"Nov 15, 1930",Oglethorpe,6,Villanova,13,1
+522,10,"Nov 15, 1930",Washington & Lee,7,Virginia,21,1
+523,10,"Nov 15, 1930",Washington & Jefferson,7,Bucknell,6,0
+524,10,"Nov 15, 1930",Washington (MO),13,Creighton,0,0
+525,10,"Nov 15, 1930",Washington State,3,Washington,0,1
+526,10,"Nov 15, 1930",Princeton,7,Yale,10,0
+527,11,"Nov 21, 1930",Grinnell,12,Northern Iowa,0,0
+528,11,"Nov 21, 1930",Oregon State,19,UCLA,0,1
+529,11,"Nov 22, 1930",Army,18,Ursinus,0,0
+530,11,"Nov 22, 1930",Baylor,35,TCU,14,1
+531,11,"Nov 22, 1930",Regis (CO),6,BYU,18,0
+532,11,"Nov 22, 1930",Carnegie Mellon,32,Temple,13,1
+533,11,"Nov 22, 1930",Centenary (LA),13,Louisiana Tech,0,1
+534,11,"Nov 22, 1930",Colorado State,0,Colorado College,0,0
+535,11,"Nov 22, 1930",Michigan State,0,Detroit Mercy,0,0
+536,11,"Nov 22, 1930",Drake,20,Iowa State,19,0
+537,11,"Nov 22, 1930",Wake Forest,13,Duke,13,0
+538,11,"Nov 22, 1930",Fordham,12,Bucknell,0,0
+539,11,"Nov 22, 1930",Olympic Club,7,Gonzaga,15,1
+540,11,"Nov 22, 1930",Harvard,13,Yale,0,1
+541,11,"Nov 22, 1930",Indiana,7,Purdue,6,1
+542,11,"Nov 22, 1930",Nebraska,7,Iowa,12,1
+543,11,"Nov 22, 1930",Kansas,32,Missouri,0,1
+544,11,"Nov 22, 1930",Kansas State,27,Centre,0,0
+545,11,"Nov 22, 1930",Marquette,25,Butler,0,1
+546,11,"Nov 22, 1930",Michigan,16,Chicago,0,0
+547,11,"Nov 22, 1930",Navy,6,Maryland,0,0
+548,11,"Nov 22, 1930",New Hampshire,7,Brown,0,1
+549,11,"Nov 22, 1930",New York University,33,Rutgers,0,0
+550,11,"Nov 22, 1930",Northern Colorado,14,Western State,0,0
+551,11,"Nov 22, 1930",Notre Dame,14,Northwestern,0,1
+552,11,"Nov 22, 1930",Illinois,9,Ohio State,12,0
+553,11,"Nov 22, 1930",Oklahoma State,7,Oklahoma,0,0
+554,11,"Nov 22, 1930",Sewanee,6,Rhodes,26,0
+555,11,"Nov 22, 1930",Washington (MO),7,Saint Louis,7,0
+556,11,"Nov 22, 1930",South Carolina,19,NC State,0,0
+557,11,"Nov 22, 1930",SMU,32,Rice,0,1
+558,11,"Nov 22, 1930",Stanford,41,California,0,1
+559,11,"Nov 22, 1930",Vanderbilt,27,Auburn,0,0
+560,11,"Nov 22, 1930",Villanova,13,Georgetown,0,0
+561,11,"Nov 22, 1930",Washington & Jefferson,7,West Virginia,6,1
+562,11,"Nov 22, 1930",Wisconsin,14,Minnesota,0,0
+563,12,"Nov 27, 1930",Alabama,13,Georgia,0,0
+564,12,"Nov 27, 1930",South Carolina,7,Auburn,25,1
+565,12,"Nov 27, 1930",Albertson,13,BYU,13,0
+566,12,"Nov 27, 1930",Centenary (LA),7,Arkansas,6,0
+567,12,"Nov 27, 1930",Furman,7,Clemson,12,0
+568,12,"Nov 27, 1930",Denver,7,Colorado,27,0
+569,12,"Nov 27, 1930",Pennsylvania,7,Cornell,13,0
+570,12,"Nov 27, 1930",Duke,14,Washington & Lee,0,0
+571,12,"Nov 27, 1930",Georgia Tech,7,Florida,55,0
+572,12,"Nov 27, 1930",Nebraska,9,Kansas State,10,0
+573,12,"Nov 27, 1930",Johns Hopkins,6,Maryland,39,1
+574,12,"Nov 27, 1930",Ole Miss,20,Mississippi State,0,1
+575,12,"Nov 27, 1930",Oklahoma,0,Missouri,0,0
+576,12,"Nov 27, 1930",North Carolina,41,Virginia,0,1
+577,12,"Nov 27, 1930",Oklahoma State,13,Creighton,0,1
+578,12,"Nov 27, 1930",Oregon State,12,West Virginia,0,0
+579,12,"Nov 27, 1930",Pitt,19,Penn State,12,0
+580,12,"Nov 27, 1930",Saint Mary's (CA),7,Oregon,6,0
+581,12,"Nov 27, 1930",USC,32,Washington,0,0
+582,12,"Nov 27, 1930",Columbia,7,Syracuse,19,0
+583,12,"Nov 27, 1930",Tennessee,8,Kentucky,0,0
+584,12,"Nov 27, 1930",Texas,26,Texas A&M,0,0
+585,12,"Nov 27, 1930",LSU,7,Tulane,12,1
+586,12,"Nov 27, 1930",Utah,41,Utah State,0,0
+587,12,"Nov 27, 1930",Virginia Tech,24,Virginia Military Institute,0,0
+588,12,"Nov 27, 1930",Davidson,2,Wake Forest,13,1
+589,12,"Nov 28, 1930",Colorado College,7,Colorado Mines,6,0
+590,12,"Nov 29, 1930",Arizona,16,Colorado State,0,0
+591,12,"Nov 29, 1930",Baylor,7,Rice,4,0
+592,12,"Nov 29, 1930",Carnegie Mellon,26,Washington & Jefferson,0,0
+593,12,"Nov 29, 1930",Colgate,27,Brown,0,1
+594,12,"Nov 29, 1930",Detroit Mercy,12,Georgetown,0,0
+595,12,"Nov 29, 1930",Drake,49,Temple,20,1
+596,12,"Nov 29, 1930",Iowa State,7,Loyola (LA),13,1
+597,12,"Nov 29, 1930",Navy,20,George Washington,0,0
+598,12,"Nov 29, 1930",Notre Dame,7,Army,6,0
+599,12,"Nov 29, 1930",Dartmouth,7,Stanford,14,1
+600,12,"Nov 29, 1930",TCU,13,SMU,0,1
+601,12,"Nov 29, 1930",Idaho,6,UCLA,20,1
+602,12,"Nov 29, 1930",Washington State,13,Villanova,0,1
+603,12,"Nov 29, 1930",New Mexico,6,Wyoming,19,0
+604,12,"Dec 1, 1930",Maryland,7,Vanderbilt,22,1
+605,13,"Dec 6, 1930",Colgate,7,New York University,6,1
+606,13,"Dec 6, 1930",Davidson,38,Elon,0,0
+607,13,"Dec 6, 1930",North Carolina,0,Duke,0,0
+608,13,"Dec 6, 1930",Georgia,13,Georgia Tech,0,1
+609,13,"Dec 6, 1930",Loyola (LA),9,Detroit Mercy,6,0
+610,13,"Dec 6, 1930",Navy,26,Pennsylvania,0,1
+611,13,"Dec 6, 1930",Notre Dame,27,USC,0,1
+612,13,"Dec 6, 1930",Iowa State,7,Rice,14,1
+613,13,"Dec 6, 1930",Florida,6,Tennessee,13,0
+614,13,"Dec 6, 1930",Western Maryland,7,Maryland,0,0
+615,14,"Dec 10, 1930",Hawaii,49,BYU,13,0
+616,14,"Dec 13, 1930",Army,6,Navy,0,0
+617,14,"Dec 13, 1930",Tulsa,7,Oklahoma State,13,0
+618,15,"Dec 25, 1930",Idaho,20,St. Louis Alumni-Hawaii,14,1
+619,16,"Jan 1, 1931",Alabama,24,Washington State,0,0
+620,16,"Jan 1, 1931",Hawaii,37,Idaho,0,0

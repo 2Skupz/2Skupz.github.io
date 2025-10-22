@@ -1,0 +1,100 @@
+0,Nebraska,Big 6
+1,Oklahoma,Big 6
+2,Missouri,Big 6
+3,Iowa State,Big 6
+4,Kansas,Big 6
+5,Kansas State,Big 6
+6,Detroit Mercy,Ind
+7,Brown,Ind
+8,Pennsylvania,Ind
+9,Carnegie Mellon,Ind
+10,Army,Ind
+11,Georgetown,Ind
+12,New York University,Ind
+13,West Virginia,Ind
+14,Princeton,Ind
+15,Pitt,Ind
+16,Harvard,Ind
+17,Colgate,Ind
+18,Columbia,Ind
+19,Marquette,Ind
+20,Navy,Ind
+21,Dartmouth,Ind
+22,Furman,Ind
+23,Notre Dame,Ind
+24,Cornell,Ind
+25,Syracuse,Ind
+26,Yale,Ind
+27,Fordham,Ind
+28,Michigan State,Ind
+29,Penn State,Ind
+30,Washington & Jefferson,Ind
+31,Wake Forest,Ind
+32,Davidson,Ind
+33,Drake,MVC
+34,Creighton,MVC
+35,Grinnell,MVC
+36,Washington (MO),MVC
+37,Oklahoma State,MVC
+38,USC,PCC
+39,California,PCC
+40,Stanford,PCC
+41,Oregon,PCC
+42,Washington State,PCC
+43,Oregon State,PCC
+44,Idaho,PCC
+45,Washington,PCC
+46,UCLA,PCC
+47,Montana,PCC
+48,Utah,RMC
+49,Colorado,RMC
+50,Colorado State,RMC
+51,Utah State,RMC
+52,Colorado College,RMC
+53,Montana State,RMC
+54,Denver,RMC
+55,Northern Colorado,RMC
+56,Colorado Mines,RMC
+57,BYU,RMC
+58,Wyoming,RMC
+59,Western State,RMC
+60,Georgia Tech,Southern
+61,Tennessee,Southern
+62,Florida,Southern
+63,Virginia Tech,Southern
+64,Alabama,Southern
+65,LSU,Southern
+66,Vanderbilt,Southern
+67,Clemson,Southern
+68,North Carolina,Southern
+69,South Carolina,Southern
+70,Tulane,Southern
+71,Kentucky,Southern
+72,Ole Miss,Southern
+73,Duke,Southern
+74,Maryland,Southern
+75,Virginia Military Institute,Southern
+76,Georgia,Southern
+77,NC State,Southern
+78,Mississippi State,Southern
+79,Virginia,Southern
+80,Washington & Lee,Southern
+81,Sewanee,Southern
+82,Auburn,Southern
+83,Texas,SWC
+84,Arkansas,SWC
+85,Baylor,SWC
+86,TCU,SWC
+87,SMU,SWC
+88,Texas A&M,SWC
+89,Rice,SWC
+90,Illinois,Western
+91,Wisconsin,Western
+92,Minnesota,Western
+93,Iowa,Western
+94,Ohio State,Western
+95,Purdue,Western
+96,Northwestern,Western
+97,Michigan,Western
+98,Indiana,Western
+99,Chicago,Western

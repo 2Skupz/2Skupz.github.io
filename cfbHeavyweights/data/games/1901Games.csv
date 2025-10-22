@@ -1,0 +1,322 @@
+0,1,"Sep 17, 1901",Englewood High,5,Chicago,18,1
+1,1,"Sep 18, 1901",Northwestern,27,Fort Sheridan,0,0
+2,1,"Sep 21, 1901",Beloit,17,Sacred Heart (Wisconsin),0,0
+3,1,"Sep 21, 1901",Lewisburg A.C.,5,Bucknell,18,1
+4,1,"Sep 21, 1901",Carlisle,28,Lebanon Valley,0,0
+5,1,"Sep 21, 1901",Chicago,38,Lombard,0,0
+6,1,"Sep 21, 1901",Grinnell,16,Grinnell Alumni,0,0
+7,1,"Sep 21, 1901",Minnesota,0,Minneapolis Central High,0,0
+8,1,"Sep 21, 1901",Nebraska,22,Lincoln High,0,0
+9,1,"Sep 21, 1901",Northwestern,30,North Central,0,0
+10,1,"Sep 21, 1901",Syracuse,35,Cortland State,0,0
+11,1,"Sep 22, 1901",Penn State,17,Susquehanna,0,0
+12,2,"Sep 25, 1901",Chicago,12,Englewood High,0,0
+13,2,"Sep 25, 1901",Hyde Park High,6,Chicago,0,1
+14,2,"Sep 25, 1901",Minnesota,16,St. Paul Central High,0,0
+15,2,"Sep 28, 1901",Amherst,6,WPI,0,0
+16,2,"Sep 28, 1901",Beloit,34,Rockford YMCA,0,0
+17,2,"Sep 28, 1901",Brown,12,Boston College,0,0
+18,2,"Sep 28, 1901",Bucknell,5,Wyoming Seminary,0,0
+19,2,"Sep 28, 1901",Buffalo,5,Columbia,0,0
+20,2,"Sep 28, 1901",Gallaudet,6,Carlisle,19,1
+21,2,"Sep 28, 1901",Chicago,23,Monmouth,0,0
+22,2,"Sep 28, 1901",Cornell,17,Colgate,0,0
+23,2,"Sep 28, 1901",Dickinson,12,Susquehanna,0,0
+24,2,"Sep 28, 1901",Drake,29,Des Moines Baptist,0,1
+25,2,"Sep 28, 1901",Harvard,16,Williams,0,0
+26,2,"Sep 28, 1901",Illinois,39,Englewood High,0,0
+27,2,"Sep 28, 1901",Wabash,6,Indiana,24,1
+28,2,"Sep 28, 1901",Iowa State,0,Grinnell,0,0
+29,2,"Sep 28, 1901",Massachusetts,17,Holy Cross,0,1
+30,2,"Sep 28, 1901",Michigan,50,Albion,0,0
+31,2,"Sep 28, 1901",Minnesota,35,Carleton,0,0
+32,2,"Sep 28, 1901",Nebraska,5,American Osteopath,0,1
+33,2,"Sep 28, 1901",Northwestern,47,Lombard,0,0
+34,2,"Sep 28, 1901",Pennsylvania,28,Lehigh,0,0
+35,2,"Sep 28, 1901",Princeton,35,Villanova,0,0
+36,2,"Sep 28, 1901",Purdue,24,Franklin,0,0
+37,2,"Sep 28, 1901",Notre Dame,0,South Bend A.C.,0,0
+38,2,"Sep 28, 1901",Syracuse,26,Rensselaer,0,0
+39,2,"Sep 28, 1901",Tufts,5,Wesleyan (CT),0,0
+40,2,"Sep 28, 1901",Wisconsin,26,Milwaukee Medical,0,0
+41,2,"Sep 28, 1901",Yale,23,Trinity (CT),0,0
+42,2,"Sep 29, 1901",Kansas,5,Ottawa,16,0
+43,2,"Sep 29, 1901",Penn State,33,Pitt,0,0
+44,3,"Oct 2, 1901",Brown,16,Colby,0,0
+45,3,"Oct 2, 1901",Chicago,12,Milwaukee Medical,0,0
+46,3,"Oct 2, 1901",Columbia,27,Rutgers,0,1
+47,3,"Oct 2, 1901",Cornell,50,Rochester,0,0
+48,3,"Oct 2, 1901",Dartmouth,51,New Hampshire,0,0
+49,3,"Oct 2, 1901",Gettysburg,6,Carlisle,5,1
+50,3,"Oct 2, 1901",Harvard,12,Bowdoin,0,0
+51,3,"Oct 2, 1901",Lafayette,40,Ursinus,0,0
+52,3,"Oct 2, 1901",Pennsylvania,6,Franklin & Marshall,0,0
+53,3,"Oct 2, 1901",Princeton,47,Haverford,0,0
+54,3,"Oct 2, 1901",Vermont,43,Vermont Methodist Seminary,0,0
+55,3,"Oct 2, 1901",Yale,6,Amherst,0,0
+56,3,"Oct 5, 1901",Missouri,5,American Osteopath,22,0
+57,3,"Oct 5, 1901",Army,20,Franklin & Marshall,0,0
+58,3,"Oct 5, 1901",Beloit,11,Cornell College,0,0
+59,3,"Oct 5, 1901",Buffalo,16,Lehigh,0,1
+60,3,"Oct 5, 1901",Carlisle,16,Dickinson,11,0
+61,3,"Oct 5, 1901",Chicago,6,Knox,0,0
+62,3,"Oct 5, 1901",Columbia,5,Williams,0,0
+63,3,"Oct 5, 1901",Cornell,6,Bucknell,0,0
+64,3,"Oct 5, 1901",Dartmouth,23,Trinity (CT),0,0
+65,3,"Oct 5, 1901",Navy,0,Georgetown,0,0
+66,3,"Oct 5, 1901",Grinnell,6,Drake,5,1
+67,3,"Oct 5, 1901",Bates,6,Harvard,16,1
+68,3,"Oct 5, 1901",Holy Cross,15,MIT,0,1
+69,3,"Oct 5, 1901",Illinois,52,Marion Sims,0,0
+70,3,"Oct 5, 1901",Indiana,56,Rose-Hulman,0,0
+71,3,"Oct 5, 1901",Iowa,16,Northern Iowa,0,0
+72,3,"Oct 5, 1901",Iowa State,23,Still,0,0
+73,3,"Oct 5, 1901",Kansas,36,Emporia State,10,0
+74,3,"Oct 5, 1901",Susquehanna,5,Lafayette,42,1
+75,3,"Oct 5, 1901",Massachusetts,6,Pittsfield A.C.,0,1
+76,3,"Oct 5, 1901",Michigan,57,Case,0,0
+77,3,"Oct 5, 1901",Minnesota,27,Chicago College,0,0
+78,3,"Oct 5, 1901",Nebraska,29,Doane,0,0
+79,3,"Oct 5, 1901",Northwestern,11,Lake Forest,0,0
+80,3,"Oct 5, 1901",Notre Dame,6,Ohio Medical,0,1
+81,3,"Oct 5, 1901",Penn State,6,Pennsylvania,23,1
+82,3,"Oct 5, 1901",Princeton,23,New York University,0,0
+83,3,"Oct 5, 1901",Purdue,45,Wabash,0,0
+84,3,"Oct 5, 1901",Syracuse,20,Brown,0,1
+85,3,"Oct 5, 1901",Wesleyan (CT),2,Springfield,0,0
+86,3,"Oct 5, 1901",Wisconsin,62,Hyde Park High,0,0
+87,3,"Oct 5, 1901",Tufts,5,Yale,29,1
+88,4,"Oct 9, 1901",Brown,6,Manhattan,5,0
+89,4,"Oct 9, 1901",Chicago,22,Illinois Wesleyan,0,0
+90,4,"Oct 9, 1901",Cornell,39,Hamilton,0,0
+91,4,"Oct 9, 1901",Dartmouth,45,Boston College,0,0
+92,4,"Oct 9, 1901",Harvard,11,Amherst,0,0
+93,4,"Oct 9, 1901",Navy,28,St. John's (Maryland),2,0
+94,4,"Oct 9, 1901",Pennsylvania,28,Swarthmore,0,0
+95,4,"Oct 9, 1901",Princeton,35,Lehigh,0,0
+96,4,"Oct 9, 1901",Vermont,56,Norwich,0,0
+97,4,"Oct 9, 1901",Yale,24,Wesleyan (CT),0,0
+98,4,"Oct 11, 1901",Illinois,23,Physicians & Surgeons,0,0
+99,4,"Oct 11, 1901",Iowa,6,Drake,5,1
+100,4,"Oct 11, 1901",Simpson,10,Missouri,0,1
+101,4,"Oct 12, 1901",Amherst,15,Williston,0,0
+102,4,"Oct 12, 1901",Army,17,Trinity (CT),0,0
+103,4,"Oct 12, 1901",Bates,6,Boston College,0,1
+104,4,"Oct 12, 1901",Carlisle,6,Bucknell,5,0
+105,4,"Oct 12, 1901",Colby,12,Bowdoin,0,0
+106,4,"Oct 12, 1901",Cornell,24,Union (NY),0,0
+107,4,"Oct 12, 1901",Dartmouth,22,Tufts,0,0
+108,4,"Oct 12, 1901",Dickinson,6,Medico-Chirurgical,0,0
+109,4,"Oct 12, 1901",Cornell College,5,Grinnell,11,0
+110,4,"Oct 12, 1901",Harvard,18,Columbia,0,0
+111,4,"Oct 12, 1901",WPI,5,Holy Cross,14,1
+112,4,"Oct 12, 1901",Illinois,21,Washington (MO),0,0
+113,4,"Oct 12, 1901",Northern Iowa,0,Iowa State,0,0
+114,4,"Oct 12, 1901",Lafayette,5,Syracuse,0,1
+115,4,"Oct 12, 1901",Massachusetts,6,Wesleyan (CT),0,0
+116,4,"Oct 12, 1901",Michigan,33,Indiana,0,0
+117,4,"Oct 12, 1901",Middlebury,12,Vermont,0,1
+118,4,"Oct 12, 1901",Minnesota,19,Nebraska,0,0
+119,4,"Oct 12, 1901",Northwestern,2,Notre Dame,0,0
+120,4,"Oct 12, 1901",Pennsylvania,26,Brown,0,0
+121,4,"Oct 12, 1901",Chicago,5,Purdue,5,0
+122,4,"Oct 12, 1901",Swarthmore,6,Lehigh,5,0
+123,4,"Oct 12, 1901",Williams,29,Colgate,0,0
+124,4,"Oct 12, 1901",Wisconsin,40,Beloit,0,0
+125,4,"Oct 12, 1901",Yale,24,Navy,0,1
+126,4,"Oct 14, 1901",American Osteopath,6,Kansas,17,0
+127,5,"Oct 15, 1901",Amherst,5,Bates,0,1
+128,5,"Oct 15, 1901",Vermont,6,Tufts,5,0
+129,5,"Oct 16, 1901",Carlisle,29,Haverford,0,0
+130,5,"Oct 16, 1901",Harvard,16,Wesleyan (CT),0,0
+131,5,"Oct 16, 1901",Manhattan,6,Lafayette,16,1
+132,5,"Oct 16, 1901",Virginia,5,Pennsylvania,20,1
+133,5,"Oct 16, 1901",Princeton,23,Dickinson,0,0
+134,5,"Oct 16, 1901",Yale,45,Bowdoin,0,0
+135,5,"Oct 18, 1901",Iowa,12,Iowa State,0,0
+136,5,"Oct 19, 1901",Trinity (CT),0,Amherst,0,0
+137,5,"Oct 19, 1901",Beloit,55,Elgin Academy,0,0
+138,5,"Oct 19, 1901",Boston College,11,Exeter,0,0
+139,5,"Oct 19, 1901",Bowdoin,48,New Hampshire,0,1
+140,5,"Oct 19, 1901",Columbia,12,Hamilton,0,0
+141,5,"Oct 19, 1901",Cornell,17,Carlisle,0,0
+142,5,"Oct 19, 1901",Dartmouth,6,Williams,2,1
+143,5,"Oct 19, 1901",Drake,33,Northern Iowa,2,1
+144,5,"Oct 19, 1901",Grinnell,35,Simpson,0,0
+145,5,"Oct 19, 1901",Harvard,6,Army,0,1
+146,5,"Oct 19, 1901",Tufts,5,Holy Cross,12,1
+147,5,"Oct 19, 1901",Illinois,24,Chicago,0,1
+148,5,"Oct 19, 1901",Indiana,76,Franklin,0,0
+149,5,"Oct 19, 1901",Washburn,0,Kansas,0,0
+150,5,"Oct 19, 1901",Lafayette,17,Orange A.C.,0,1
+151,5,"Oct 19, 1901",Massachusetts,10,SMTS,0,1
+152,5,"Oct 19, 1901",Michigan,29,Northwestern,0,0
+153,5,"Oct 19, 1901",Navy,18,Lehigh,0,0
+154,5,"Oct 19, 1901",Notre Dame,32,Chicago Medical,0,0
+155,5,"Oct 19, 1901",Pennsylvania,6,Bucknell,0,0
+156,5,"Oct 19, 1901",Princeton,35,Brown,0,0
+157,5,"Oct 19, 1901",Purdue,19,DePauw,0,0
+158,5,"Oct 19, 1901",Syracuse,27,Clarkson,0,0
+159,5,"Oct 19, 1901",St. Lawrence,5,Vermont,16,1
+160,5,"Oct 19, 1901",Knox,5,Wisconsin,23,1
+161,5,"Oct 19, 1901",Yale,22,Penn State,0,0
+162,5,"Oct 21, 1901",Navy,6,Pennsylvania,5,0
+163,6,"Oct 22, 1901",Yale,21,Bates,0,0
+164,6,"Oct 23, 1901",Chicago,17,Hyde Park High,0,0
+165,6,"Oct 23, 1901",Pennsylvania,22,Gettysburg,0,0
+166,6,"Oct 23, 1901",Princeton,29,Orange A.C.,0,0
+167,6,"Oct 23, 1901",Maine,5,Tufts,18,1
+168,6,"Oct 26, 1901",Army,15,Williams,0,0
+169,6,"Oct 26, 1901",Boston College,17,New Hampshire,0,0
+170,6,"Oct 26, 1901",Bucknell,10,Lehigh,0,1
+171,6,"Oct 26, 1901",Cornell,29,Oberlin,0,0
+172,6,"Oct 26, 1901",Bowdoin,6,Dartmouth,35,0
+173,6,"Oct 26, 1901",Dickinson,10,Haverford,0,1
+174,6,"Oct 26, 1901",Drake,24,Missouri,0,0
+175,6,"Oct 26, 1901",Grinnell,44,Des Moines,0,0
+176,6,"Oct 26, 1901",Trinity (CT),7,Hamilton,12,0
+177,6,"Oct 26, 1901",Harvard,29,Carlisle,0,0
+178,6,"Oct 26, 1901",Brown,6,Holy Cross,6,0
+179,6,"Oct 26, 1901",Purdue,6,Indiana,11,1
+180,6,"Oct 26, 1901",Massachusetts,18,WPI,12,1
+181,6,"Oct 26, 1901",Michigan,128,Buffalo,0,0
+182,6,"Oct 26, 1901",Minnesota,16,Iowa,0,0
+183,6,"Oct 26, 1901",Nebraska,17,Iowa State,0,0
+184,6,"Oct 26, 1901",Northwestern,17,Illinois,11,1
+185,6,"Oct 26, 1901",Notre Dame,5,Beloit,0,1
+186,6,"Oct 26, 1901",Navy,6,Penn State,11,0
+187,6,"Oct 26, 1901",Pennsylvania,11,Chicago,0,1
+188,6,"Oct 26, 1901",Princeton,6,Lafayette,0,0
+189,6,"Oct 26, 1901",Syracuse,28,Amherst,17,0
+190,6,"Oct 26, 1901",Wesleyan (CT),0,Vermont,0,0
+191,6,"Oct 26, 1901",Wisconsin,50,Kansas,0,0
+192,6,"Oct 26, 1901",Columbia,5,Yale,10,1
+193,7,"Oct 29, 1901",Beloit,0,Kansas,0,0
+194,7,"Oct 30, 1901",Haverford,6,Columbia,29,1
+195,7,"Oct 30, 1901",Iowa,11,Coe,0,0
+196,7,"Oct 30, 1901",Tufts,21,Trinity (CT),0,0
+197,7,"Nov 1, 1901",Lafayette,29,Lehigh,0,0
+198,7,"Nov 2, 1901",Colby,6,Bates,17,1
+199,7,"Nov 2, 1901",Chicago,17,Beloit,17,0
+200,7,"Nov 2, 1901",Exeter,6,Bowdoin,16,1
+201,7,"Nov 2, 1901",Gettysburg,6,Bucknell,51,1
+202,7,"Nov 2, 1901",Columbia,11,Pennsylvania,0,0
+203,7,"Nov 2, 1901",Dartmouth,29,Wesleyan (CT),12,0
+204,7,"Nov 2, 1901",Grinnell,23,Iowa State,0,1
+205,7,"Nov 2, 1901",Harvard,48,Brown,0,0
+206,7,"Nov 2, 1901",Andover,5,Holy Cross,37,0
+207,7,"Nov 2, 1901",Homestead A.C.,39,Penn State,0,0
+208,7,"Nov 2, 1901",Illinois,18,Indiana,0,1
+209,7,"Nov 2, 1901",Knox,6,Iowa,23,1
+210,7,"Nov 2, 1901",Michigan,22,Carlisle,0,0
+211,7,"Nov 2, 1901",Minnesota,28,Haskell,0,0
+212,7,"Nov 2, 1901",Dickinson,6,Navy,12,1
+213,7,"Nov 2, 1901",Notre Dame,16,Lake Forest,0,0
+214,7,"Nov 2, 1901",Missouri,6,Ottawa,6,0
+215,7,"Nov 2, 1901",Princeton,8,Cornell,6,1
+216,7,"Nov 2, 1901",Purdue,22,Case,0,0
+217,7,"Nov 2, 1901",Drake,5,Simpson,10,1
+218,7,"Nov 2, 1901",New York University,5,Trinity (CT),16,1
+219,7,"Nov 2, 1901",Amherst,0,Union (NY),0,0
+220,7,"Nov 2, 1901",Williams,33,Hamilton,0,0
+221,7,"Nov 2, 1901",Wisconsin,18,Nebraska,0,0
+222,7,"Nov 2, 1901",Army,5,Yale,5,0
+223,8,"Nov 5, 1901",Columbia,18,Georgetown,0,0
+224,8,"Nov 5, 1901",Philadelphia A.C.,23,Lafayette,0,0
+225,8,"Nov 5, 1901",Tufts,5,Manhattan,0,1
+226,8,"Nov 5, 1901",Vermont,5,Union (NY),22,1
+227,8,"Nov 6, 1901",Homestead A.C.,34,Brown,0,0
+228,8,"Nov 6, 1901",Tufts,12,WPI,0,0
+229,8,"Nov 9, 1901",Bates,11,Bowdoin,0,1
+230,8,"Nov 9, 1901",Cornell,30,Lehigh,0,0
+231,8,"Nov 9, 1901",Dartmouth,22,Vermont,0,0
+232,8,"Nov 9, 1901",Swarthmore,6,Dickinson,28,1
+233,8,"Nov 9, 1901",Pennsylvania,6,Harvard,33,0
+234,8,"Nov 9, 1901",Kansas,5,Haskell,18,0
+235,8,"Nov 9, 1901",Holy Cross,14,Pittsfield A.C.,0,1
+236,8,"Nov 9, 1901",Illinois,27,Iowa,0,1
+237,8,"Nov 9, 1901",Brown,6,Lafayette,11,0
+238,8,"Nov 9, 1901",Massachusetts,15,Amherst,0,0
+239,8,"Nov 9, 1901",Michigan,21,Ohio State,0,1
+240,8,"Nov 9, 1901",Minnesota,10,North Dakota,0,0
+241,8,"Nov 9, 1901",Carlisle,5,Navy,16,1
+242,8,"Nov 9, 1901",Nebraska,51,Missouri,0,0
+243,8,"Nov 9, 1901",Northwestern,6,Chicago,5,1
+244,8,"Nov 9, 1901",Purdue,6,Notre Dame,12,1
+245,8,"Nov 9, 1901",Army,6,Princeton,6,0
+246,8,"Nov 9, 1901",Columbia,5,Syracuse,11,0
+247,8,"Nov 9, 1901",Tufts,12,Boston College,0,1
+248,8,"Nov 9, 1901",Bucknell,5,Washington & Jefferson,11,1
+249,8,"Nov 9, 1901",Wesleyan (CT),5,Williams,11,1
+250,8,"Nov 9, 1901",Wisconsin,45,Iowa State,0,0
+251,8,"Nov 9, 1901",Yale,30,Orange A.C.,0,0
+252,9,"Nov 13, 1901",Haverford,5,Lehigh,21,1
+253,9,"Nov 16, 1901",Bowdoin,6,Amherst,29,0
+254,9,"Nov 16, 1901",Northwestern,11,Beloit,11,0
+255,9,"Nov 16, 1901",Union (NY),5,Brown,24,1
+256,9,"Nov 16, 1901",Bucknell,34,Burlingame A.C.,0,0
+257,9,"Nov 16, 1901",Cornell,24,Columbia,0,1
+258,9,"Nov 16, 1901",Iowa State,5,Drake,12,0
+259,9,"Nov 16, 1901",Harvard,27,Dartmouth,12,0
+260,9,"Nov 16, 1901",Holy Cross,11,Boston College,0,0
+261,9,"Nov 16, 1901",Homestead A.C.,48,Lafayette,10,0
+262,9,"Nov 16, 1901",Purdue,6,Illinois,28,0
+263,9,"Nov 16, 1901",Iowa,17,Grinnell,11,0
+264,9,"Nov 16, 1901",Massachusetts,6,Tufts,0,0
+265,9,"Nov 16, 1901",Dickinson,6,Medico-Chirurgical,11,0
+266,9,"Nov 16, 1901",Michigan,22,Chicago,0,0
+267,9,"Nov 16, 1901",Navy,17,Washington & Jefferson,11,0
+268,9,"Nov 16, 1901",Kansas,5,Nebraska,29,1
+269,9,"Nov 16, 1901",Indiana,5,Notre Dame,18,1
+270,9,"Nov 16, 1901",Penn State,38,Lehigh,0,0
+271,9,"Nov 16, 1901",Pennsylvania,16,Carlisle,14,0
+272,9,"Nov 16, 1901",Syracuse Alumni,6,Syracuse,0,0
+273,9,"Nov 16, 1901",Texas,11,Missouri,0,1
+274,9,"Nov 16, 1901",Vermont,20,Middlebury,0,1
+275,9,"Nov 16, 1901",Wesleyan (CT),11,Trinity (CT),0,0
+276,9,"Nov 16, 1901",Williams,6,Troy Laureates,0,1
+277,9,"Nov 16, 1901",Wisconsin,18,Minnesota,0,1
+278,9,"Nov 16, 1901",Yale,12,Princeton,0,0
+279,9,"Nov 18, 1901",Haskell,19,Missouri,0,1
+280,10,"Nov 20, 1901",Syracuse,38,Vermont,0,0
+281,10,"Nov 21, 1901",Iowa State,28,Cornell College,12,0
+282,10,"Nov 22, 1901",Columbia,6,Navy,5,1
+283,10,"Nov 23, 1901",Andover,11,Boston College,0,0
+284,10,"Nov 23, 1901",Army,24,Pennsylvania,0,0
+285,10,"Nov 23, 1901",Athens A.C.,6,Bucknell,17,0
+286,10,"Nov 23, 1901",Cornell,67,Vermont,0,0
+287,10,"Nov 23, 1901",Dartmouth,24,St. Paul's (New Hampshire),0,0
+288,10,"Nov 23, 1901",Grinnell,5,Drake,0,1
+289,10,"Nov 23, 1901",Harvard,22,Yale,0,0
+290,10,"Nov 23, 1901",Tufts,5,Holy Cross,17,1
+291,10,"Nov 23, 1901",Ohio State,6,Indiana,18,0
+292,10,"Nov 23, 1901",Kansas,12,Texas,0,0
+293,10,"Nov 23, 1901",Lafayette,41,Lehigh,0,1
+294,10,"Nov 23, 1901",Bowdoin,5,Maine,22,1
+295,10,"Nov 23, 1901",Michigan,89,Beloit,0,0
+296,10,"Nov 23, 1901",Minnesota,16,Northwestern,0,1
+297,10,"Nov 23, 1901",Notre Dame,34,Physicians & Surgeons,0,0
+298,10,"Nov 23, 1901",Penn State,12,Dickinson,0,0
+299,10,"Nov 23, 1901",Washington & Jefferson,0,Carlisle,0,0
+300,10,"Nov 23, 1901",Wesleyan (CT),15,Amherst,11,1
+301,10,"Nov 23, 1901",Williams,17,Massachusetts,0,1
+302,11,"Nov 27, 1901",Dartmouth,22,Brown,0,1
+303,11,"Nov 28, 1901",Beloit,11,Milwaukee Medical,0,1
+304,11,"Nov 28, 1901",Columbia,40,Carlisle,12,0
+305,11,"Nov 28, 1901",Pennsylvania,6,Cornell,23,0
+306,11,"Nov 28, 1901",Georgetown,22,Lehigh,0,1
+307,11,"Nov 28, 1901",Indiana,24,DePauw,0,0
+308,11,"Nov 28, 1901",Lafayette,29,Dickinson,0,0
+309,11,"Nov 28, 1901",Massachusetts,11,Boston College,0,0
+310,11,"Nov 28, 1901",Michigan,50,Iowa,0,0
+311,11,"Nov 28, 1901",Minnesota,16,Illinois,0,1
+312,11,"Nov 28, 1901",Missouri,18,Kansas,12,0
+313,11,"Nov 28, 1901",Nebraska,18,Haskell,10,0
+314,11,"Nov 28, 1901",Purdue,5,Northwestern,10,0
+315,11,"Nov 28, 1901",South Bend A.C.,6,Notre Dame,22,1
+316,11,"Nov 28, 1901",Simpson,12,Iowa State,0,0
+317,11,"Nov 28, 1901",Newburyport A.C.,10,Tufts,10,0
+318,11,"Nov 28, 1901",Amherst,5,Williams,21,1
+319,11,"Nov 28, 1901",Wisconsin,35,Chicago,0,1
+320,11,"Nov 30, 1901",Navy,5,Army,11,1
+321,12,"Jan 1, 1902",Michigan,49,Stanford,0,0

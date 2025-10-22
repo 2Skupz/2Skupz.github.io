@@ -1,0 +1,127 @@
+0,North Carolina,ACC
+1,NC State,ACC
+2,Maryland,ACC
+3,Duke,ACC
+4,Clemson,ACC
+5,Virginia,ACC
+6,Wake Forest,ACC
+7,Nebraska,Big 8
+8,Oklahoma,Big 8
+9,Colorado,Big 8
+10,Oklahoma State,Big 8
+11,Missouri,Big 8
+12,Iowa State,Big 8
+13,Kansas,Big 8
+14,Kansas State,Big 8
+15,Michigan,Big Ten
+16,Ohio State,Big Ten
+17,Purdue,Big Ten
+18,Michigan State,Big Ten
+19,Minnesota,Big Ten
+20,Indiana,Big Ten
+21,Illinois,Big Ten
+22,Iowa,Big Ten
+23,Wisconsin,Big Ten
+24,Northwestern,Big Ten
+25,Penn State,Ind
+26,Tampa,Ind
+27,Notre Dame,Ind
+28,Utah State,Ind
+29,West Virginia,Ind
+30,Florida State,Ind
+31,Northern Illinois,Ind
+32,Rutgers,Ind
+33,Georgia Tech,Ind
+34,Air Force,Ind
+35,Army,Ind
+36,Houston,Ind
+37,Virginia Tech,Ind
+38,Temple,Ind
+39,Colgate,Ind
+40,Holy Cross,Ind
+41,Tulane,Ind
+42,Miami,Ind
+43,Syracuse,Ind
+44,Texas-Arlington,Ind
+45,Dayton,Ind
+46,Boston College,Ind
+47,Idaho,Ind
+48,Navy,Ind
+49,South Carolina,Ind
+50,Southern Miss,Ind
+51,Xavier,Ind
+52,Marshall,Ind
+53,Chattanooga,Ind
+54,Cincinnati,Ind
+55,Villanova,Ind
+56,Southern Illinois,Ind
+57,Pitt,Ind
+58,Dartmouth,Ivy
+59,Yale,Ivy
+60,Cornell,Ivy
+61,Pennsylvania,Ivy
+62,Harvard,Ivy
+63,Columbia,Ivy
+64,Princeton,Ivy
+65,Brown,Ivy
+66,Kent State,MAC
+67,Bowling Green,MAC
+68,Western Michigan,MAC
+69,Miami (OH),MAC
+70,Toledo,MAC
+71,Ohio,MAC
+72,Louisville,MVC
+73,Drake,MVC
+74,West Texas State,MVC
+75,Tulsa,MVC
+76,Memphis,MVC
+77,Wichita State,MVC
+78,New Mexico State,MVC
+79,North Texas,MVC
+80,USC,Pac-8
+81,UCLA,Pac-8
+82,Washington,Pac-8
+83,Washington State,Pac-8
+84,California,Pac-8
+85,Stanford,Pac-8
+86,Oregon,Pac-8
+87,Oregon State,Pac-8
+88,San Diego State,PCAA
+89,Pacific,PCAA
+90,Fresno State,PCAA
+91,Long Beach State,PCAA
+92,San Jose State,PCAA
+93,Alabama,SEC
+94,Auburn,SEC
+95,LSU,SEC
+96,Tennessee,SEC
+97,Georgia,SEC
+98,Florida,SEC
+99,Ole Miss,SEC
+100,Kentucky,SEC
+101,Mississippi State,SEC
+102,Vanderbilt,SEC
+103,East Carolina,Southern
+104,Richmond,Southern
+105,William & Mary,Southern
+106,The Citadel,Southern
+107,Davidson,Southern
+108,Virginia Military Institute,Southern
+109,Furman,Southern
+110,Appalachian State,Southern
+111,Texas,SWC
+112,Texas Tech,SWC
+113,SMU,SWC
+114,Arkansas,SWC
+115,Rice,SWC
+116,Baylor,SWC
+117,TCU,SWC
+118,Texas A&M,SWC
+119,Arizona State,WAC
+120,BYU,WAC
+121,Utah,WAC
+122,Arizona,WAC
+123,Wyoming,WAC
+124,New Mexico,WAC
+125,Colorado State,WAC
+126,UTEP,WAC

@@ -1,0 +1,676 @@
+0,1,"Aug 27, 1984",Miami,20,Auburn,18,0
+1,2,"Sep 1, 1984",Air Force,34,San Diego State,16,0
+2,2,"Sep 1, 1984",Boston College,44,Western Carolina,24,0
+3,2,"Sep 1, 1984",BYU,20,Pitt,14,1
+4,2,"Sep 1, 1984",Cal State Fullerton,27,Boise State,25,1
+5,2,"Sep 1, 1984",Central Michigan,45,Northern Michigan,22,0
+6,2,"Sep 1, 1984",Chattanooga,9,Louisiana,7,0
+7,2,"Sep 1, 1984",Appalachian State,7,Clemson,40,1
+8,2,"Sep 1, 1984",Florida State,48,East Carolina,17,0
+9,2,"Sep 1, 1984",Fresno State,27,Arizona,22,1
+10,2,"Sep 1, 1984",Illinois,24,Northwestern,16,0
+11,2,"Sep 1, 1984",Illinois State,54,Lincoln,0,0
+12,2,"Sep 1, 1984",Wayne State,6,Indiana State,42,1
+13,2,"Sep 1, 1984",Kent State,24,Akron,17,0
+14,2,"Sep 1, 1984",Massachusetts,26,Ball State,10,0
+15,2,"Sep 1, 1984",Arkansas State,2,Memphis,17,1
+16,2,"Sep 1, 1984",Miami,32,Florida,20,0
+17,2,"Sep 1, 1984",Mississippi State,30,Tulane,3,1
+18,2,"Sep 1, 1984",Missouri State,17,Drake,12,1
+19,2,"Sep 1, 1984",Murray State,26,Louisville,23,1
+20,2,"Sep 1, 1984",Northern Illinois,40,West Texas State,33,0
+21,2,"Sep 1, 1984",San Jose State,14,New Mexico State,0,0
+22,2,"Sep 1, 1984",Tennessee,34,Washington State,27,0
+23,2,"Sep 1, 1984",Texas A&M,20,UTEP,17,0
+24,2,"Sep 1, 1984",Texas State,38,Wichita State,31,1
+25,2,"Sep 1, 1984",Tulsa,23,Southern Illinois,10,0
+26,2,"Sep 1, 1984",Utah,52,Weber State,16,0
+27,2,"Sep 1, 1984",West Virginia,38,Ohio,0,0
+28,2,"Sep 1, 1984",Wyoming,31,South Dakota,13,0
+29,2,"Sep 1, 1984",Eastern Michigan,7,Youngstown State,31,1
+30,3,"Sep 8, 1984",Air Force,75,Northern Colorado,7,0
+31,3,"Sep 8, 1984",Arizona,23,California,13,0
+32,3,"Sep 8, 1984",Boston College,38,Alabama,31,1
+33,3,"Sep 8, 1984",Bowling Green,55,Richmond,28,0
+34,3,"Sep 8, 1984",BYU,47,Baylor,13,0
+35,3,"Sep 8, 1984",Cal State Fullerton,21,Hawaii,13,1
+36,3,"Sep 8, 1984",Cincinnati,28,Akron,27,0
+37,3,"Sep 8, 1984",Clemson,55,Virginia,0,1
+38,3,"Sep 8, 1984",Duke,31,Indiana,24,0
+39,3,"Sep 8, 1984",Fresno State,37,Boise State,21,1
+40,3,"Sep 8, 1984",Georgia,26,Southern Miss,19,0
+41,3,"Sep 8, 1984",Illinois,30,Missouri,24,0
+42,3,"Sep 8, 1984",Southern Illinois,7,Illinois State,35,1
+43,3,"Sep 8, 1984",Indiana State,24,Eastern Illinois,17,0
+44,3,"Sep 8, 1984",Iowa,59,Iowa State,21,0
+45,3,"Sep 8, 1984",Wichita State,7,Kansas,31,1
+46,3,"Sep 8, 1984",Kentucky,42,Kent State,0,0
+47,3,"Sep 8, 1984",Louisiana,17,Louisiana Tech,16,1
+48,3,"Sep 8, 1984",Florida,21,LSU,21,0
+49,3,"Sep 8, 1984",Michigan,22,Miami,14,0
+50,3,"Sep 8, 1984",Michigan State,24,Colorado,21,1
+51,3,"Sep 8, 1984",Minnesota,31,Rice,24,0
+52,3,"Sep 8, 1984",Memphis,6,Ole Miss,22,1
+53,3,"Sep 8, 1984",Colorado State,9,Mississippi State,14,1
+54,3,"Sep 8, 1984",Wyoming,7,Nebraska,42,1
+55,3,"Sep 8, 1984",UNLV,30,San Jose State,15,0
+56,3,"Sep 8, 1984",New Mexico,61,New Mexico State,21,0
+57,3,"Sep 8, 1984",Ohio,6,NC State,43,1
+58,3,"Sep 8, 1984",Northern Iowa,33,Drake,28,1
+59,3,"Sep 8, 1984",Ohio State,22,Oregon State,14,0
+60,3,"Sep 8, 1984",Stanford,7,Oklahoma,19,1
+61,3,"Sep 8, 1984",Oklahoma State,45,Arizona State,3,1
+62,3,"Sep 8, 1984",Oregon,28,Long Beach State,17,0
+63,3,"Sep 8, 1984",Nevada,7,Pacific,12,1
+64,3,"Sep 8, 1984",Penn State,15,Rutgers,12,0
+65,3,"Sep 8, 1984",Purdue,23,Notre Dame,21,0
+66,3,"Sep 8, 1984",South Carolina,31,Citadel,24,0
+67,3,"Sep 8, 1984",Utah State,7,USC,42,1
+68,3,"Sep 8, 1984",Maryland,7,Syracuse,23,0
+69,3,"Sep 8, 1984",Temple,17,East Carolina,0,0
+70,3,"Sep 8, 1984",Texas-Arlington,27,West Texas State,19,0
+71,3,"Sep 8, 1984",UTEP,16,Idaho State,14,0
+72,3,"Sep 8, 1984",Toledo,20,Ball State,2,1
+73,3,"Sep 8, 1984",UCLA,18,San Diego State,15,1
+74,3,"Sep 8, 1984",Vanderbilt,26,Kansas State,14,0
+75,3,"Sep 8, 1984",Virginia Tech,21,Wake Forest,20,1
+76,3,"Sep 8, 1984",Washington,26,Northwestern,0,0
+77,3,"Sep 8, 1984",Washington State,42,Utah,40,0
+78,3,"Sep 8, 1984",Louisville,6,West Virginia,30,1
+79,3,"Sep 8, 1984",Western Michigan,17,Miami (OH),13,0
+80,3,"Sep 8, 1984",Wisconsin,27,Northern Illinois,14,0
+81,4,"Sep 15, 1984",Oregon State,8,Arizona,27,0
+82,4,"Sep 15, 1984",Arizona State,48,San Jose State,0,0
+83,4,"Sep 15, 1984",Army,41,Colgate,15,0
+84,4,"Sep 15, 1984",BYU,38,Tulsa,15,0
+85,4,"Sep 15, 1984",Idaho,7,Cal State Fullerton,28,1
+86,4,"Sep 15, 1984",California,28,Pacific,12,0
+87,4,"Sep 15, 1984",Central Michigan,17,East Carolina,12,0
+88,4,"Sep 15, 1984",Hawaii,3,Colorado State,10,1
+89,4,"Sep 15, 1984",Florida,63,Tulane,21,0
+90,4,"Sep 15, 1984",Florida State,42,Kansas,16,1
+91,4,"Sep 15, 1984",Fresno State,14,Cal Poly,0,0
+92,4,"Sep 15, 1984",Furman,34,NC State,30,1
+93,4,"Sep 15, 1984",Alabama,6,Georgia Tech,16,1
+94,4,"Sep 15, 1984",Houston,30,Miami (OH),17,0
+95,4,"Sep 15, 1984",Iowa State,21,Drake,17,0
+96,4,"Sep 15, 1984",Kansas State,28,Tennessee Tech,12,0
+97,4,"Sep 15, 1984",Kentucky,48,Indiana,14,1
+98,4,"Sep 15, 1984",Wichita State,7,LSU,47,1
+99,4,"Sep 15, 1984",Louisiana-Monroe,7,Louisiana,6,1
+100,4,"Sep 15, 1984",Marshall,24,Eastern Michigan,17,0
+101,4,"Sep 15, 1984",Miami,28,Purdue,17,1
+102,4,"Sep 15, 1984",Arkansas,14,Ole Miss,14,0
+103,4,"Sep 15, 1984",Navy,33,North Carolina,30,1
+104,4,"Sep 15, 1984",Minnesota,7,Nebraska,38,1
+105,4,"Sep 15, 1984",UNLV,28,New Mexico State,21,1
+106,4,"Sep 15, 1984",New Mexico,27,West Texas State,0,0
+107,4,"Sep 15, 1984",Notre Dame,24,Michigan State,20,1
+108,4,"Sep 15, 1984",Ohio,31,Ball State,17,1
+109,4,"Sep 15, 1984",Ohio State,44,Washington State,0,0
+110,4,"Sep 15, 1984",Oklahoma,42,Pitt,10,1
+111,4,"Sep 15, 1984",Oklahoma State,31,Bowling Green,14,0
+112,4,"Sep 15, 1984",Oregon,27,Colorado,20,0
+113,4,"Sep 15, 1984",Penn State,20,Iowa,17,1
+114,4,"Sep 15, 1984",Temple,9,Rutgers,10,1
+115,4,"Sep 15, 1984",San Diego State,51,UTEP,2,0
+116,4,"Sep 15, 1984",Louisville,7,SMU,41,0
+117,4,"Sep 15, 1984",Southern Miss,34,Louisiana Tech,0,0
+118,4,"Sep 15, 1984",Stanford,34,Illinois,19,0
+119,4,"Sep 15, 1984",Syracuse,13,Northwestern,12,1
+120,4,"Sep 15, 1984",Tennessee,27,Utah,21,0
+121,4,"Sep 15, 1984",Texas,35,Auburn,27,0
+122,4,"Sep 15, 1984",TCU,62,Utah State,18,1
+123,4,"Sep 15, 1984",Texas-Arlington,7,Texas Tech,44,1
+124,4,"Sep 15, 1984",UCLA,23,Long Beach State,17,0
+125,4,"Sep 15, 1984",Vanderbilt,23,Maryland,14,1
+126,4,"Sep 15, 1984",Virginia Military Institute,7,Virginia,35,1
+127,4,"Sep 15, 1984",Wake Forest,17,Appalachian State,13,0
+128,4,"Sep 15, 1984",Washington,20,Michigan,11,1
+129,4,"Sep 15, 1984",Virginia Tech,7,West Virginia,14,0
+130,4,"Sep 15, 1984",Western Illinois,34,Southern Illinois,24,1
+131,4,"Sep 15, 1984",Western Michigan,41,Illinois State,14,0
+132,4,"Sep 15, 1984",Wisconsin,35,Missouri,34,1
+133,4,"Sep 15, 1984",Wyoming,26,Air Force,20,0
+134,4,"Sep 15, 1984",Youngstown State,27,Cincinnati,23,1
+135,5,"Sep 22, 1984",Alabama,37,Louisiana,14,0
+136,5,"Sep 22, 1984",Tulsa,9,Arkansas,18,1
+137,5,"Sep 22, 1984",Arkansas State,19,Southern Illinois,0,1
+138,5,"Sep 22, 1984",Tennessee,24,Army,24,0
+139,5,"Sep 22, 1984",Auburn,35,Southern Miss,12,0
+140,5,"Sep 22, 1984",Boston College,52,North Carolina,20,0
+141,5,"Sep 22, 1984",Bowling Green,41,Miami (OH),10,1
+142,5,"Sep 22, 1984",BYU,18,Hawaii,13,1
+143,5,"Sep 22, 1984",Cal State Fullerton,34,Colorado State,22,1
+144,5,"Sep 22, 1984",Central Michigan,38,Western Michigan,19,0
+145,5,"Sep 22, 1984",Drake,35,New Mexico State,28,0
+146,5,"Sep 22, 1984",East Carolina,34,Georgia Southern,27,0
+147,5,"Sep 22, 1984",Florida State,38,Miami,3,1
+148,5,"Sep 22, 1984",Fresno State,20,Long Beach State,17,0
+149,5,"Sep 22, 1984",Georgia,26,Clemson,23,0
+150,5,"Sep 22, 1984",Georgia Tech,48,Citadel,3,0
+151,5,"Sep 22, 1984",Michigan State,7,Illinois,40,1
+152,5,"Sep 22, 1984",Illinois State,7,Indiana State,19,1
+153,5,"Sep 22, 1984",Kentucky,30,Tulane,26,1
+154,5,"Sep 22, 1984",LSU,27,Arizona,26,0
+155,5,"Sep 22, 1984",Maryland,20,West Virginia,17,1
+156,5,"Sep 22, 1984",West Texas State,7,McNeese State,24,0
+157,5,"Sep 22, 1984",Cincinnati,7,Memphis,47,1
+158,5,"Sep 22, 1984",Michigan,20,Wisconsin,14,0
+159,5,"Sep 22, 1984",Louisiana Tech,8,Ole Miss,14,1
+160,5,"Sep 22, 1984",Missouri,47,Mississippi State,30,0
+161,5,"Sep 22, 1984",Nebraska,42,UCLA,3,1
+162,5,"Sep 22, 1984",UNLV,38,Wichita State,21,0
+163,5,"Sep 22, 1984",New Mexico,29,Texas Tech,24,0
+164,5,"Sep 22, 1984",Northern Illinois,24,Kent State,10,0
+165,5,"Sep 22, 1984",Northwestern,40,Indiana,37,0
+166,5,"Sep 22, 1984",Notre Dame,55,Colorado,14,0
+167,5,"Sep 22, 1984",Ohio,16,Eastern Michigan,13,1
+168,5,"Sep 22, 1984",Ohio State,45,Iowa,26,0
+169,5,"Sep 22, 1984",Oklahoma,34,Baylor,15,0
+170,5,"Sep 22, 1984",Oklahoma State,19,San Diego State,16,0
+171,5,"Sep 22, 1984",Oregon,21,California,14,1
+172,5,"Sep 22, 1984",Oregon State,41,Wyoming,14,0
+173,5,"Sep 22, 1984",Pacific,38,Northern Arizona,28,1
+174,5,"Sep 22, 1984",Penn State,56,William & Mary,18,0
+175,5,"Sep 22, 1984",Purdue,34,Minnesota,10,0
+176,5,"Sep 22, 1984",Rice,36,Lamar,19,0
+177,5,"Sep 22, 1984",Rutgers,19,Syracuse,0,1
+178,5,"Sep 22, 1984",South Carolina,21,Duke,0,0
+179,5,"Sep 22, 1984",USC,6,Arizona State,3,1
+180,5,"Sep 22, 1984",North Texas,6,SMU,24,1
+181,5,"Sep 22, 1984",Stanford,28,San Jose State,27,0
+182,5,"Sep 22, 1984",Temple,13,Pitt,12,0
+183,5,"Sep 22, 1984",Texas A&M,38,Iowa State,17,0
+184,5,"Sep 22, 1984",TCU,42,Kansas State,10,0
+185,5,"Sep 22, 1984",Toledo,38,Eastern Illinois,17,0
+186,5,"Sep 22, 1984",Utah,28,Air Force,17,0
+187,5,"Sep 22, 1984",Kansas,6,Vanderbilt,41,1
+188,5,"Sep 22, 1984",Navy,9,Virginia,21,0
+189,5,"Sep 22, 1984",Virginia Tech,21,Richmond,13,0
+190,5,"Sep 22, 1984",Wake Forest,24,NC State,15,1
+191,5,"Sep 22, 1984",Houston,7,Washington,35,1
+192,5,"Sep 22, 1984",Washington State,16,Ball State,14,0
+193,6,"Sep 29, 1984",Air Force,52,Colorado State,10,0
+194,6,"Sep 29, 1984",Arizona,31,Long Beach State,24,0
+195,6,"Sep 29, 1984",Arizona State,28,Stanford,10,1
+196,6,"Sep 29, 1984",Arkansas,33,Navy,10,0
+197,6,"Sep 29, 1984",Duke,9,Army,13,1
+198,6,"Sep 29, 1984",Auburn,29,Tennessee,10,0
+199,6,"Sep 29, 1984",Ball State,15,Northern Illinois,14,1
+200,6,"Sep 29, 1984",Texas Tech,9,Baylor,18,0
+201,6,"Sep 29, 1984",Bowling Green,35,Eastern Michigan,27,0
+202,6,"Sep 29, 1984",Cal State Fullerton,27,Utah State,16,0
+203,6,"Sep 29, 1984",Central Michigan,14,Kent State,10,1
+204,6,"Sep 29, 1984",Florida,27,Mississippi State,12,0
+205,6,"Sep 29, 1984",Florida State,44,Temple,27,0
+206,6,"Sep 29, 1984",Fresno State,53,New Mexico State,24,0
+207,6,"Sep 29, 1984",Georgia Tech,28,Clemson,21,0
+208,6,"Sep 29, 1984",Hawaii,16,UNLV,12,0
+209,6,"Sep 29, 1984",Idaho,41,Oregon State,22,0
+210,6,"Sep 29, 1984",Illinois State,28,Drake,0,0
+211,6,"Sep 29, 1984",Central Missouri State,3,Indiana State,27,1
+212,6,"Sep 29, 1984",Iowa,21,Illinois,16,0
+213,6,"Sep 29, 1984",Iowa State,14,West Texas State,0,0
+214,6,"Sep 29, 1984",USC,3,LSU,23,0
+215,6,"Sep 29, 1984",Louisville,30,Houston,28,1
+216,6,"Sep 29, 1984",Maryland,38,Wake Forest,17,0
+217,6,"Sep 29, 1984",Memphis,23,Southern Miss,13,0
+218,6,"Sep 29, 1984",Miami,38,Rice,3,0
+219,6,"Sep 29, 1984",Indiana,6,Michigan,14,0
+220,6,"Sep 29, 1984",Ole Miss,19,Tulane,14,0
+221,6,"Sep 29, 1984",UTEP,7,New Mexico,34,0
+222,6,"Sep 29, 1984",North Carolina,23,Kansas,17,0
+223,6,"Sep 29, 1984",NC State,31,East Carolina,22,0
+224,6,"Sep 29, 1984",Notre Dame,16,Missouri,14,1
+225,6,"Sep 29, 1984",Ohio State,35,Minnesota,22,1
+226,6,"Sep 29, 1984",Kansas State,6,Oklahoma,24,1
+227,6,"Sep 29, 1984",Tulsa,7,Oklahoma State,31,0
+228,6,"Sep 29, 1984",Oregon,30,Pacific,14,0
+229,6,"Sep 29, 1984",Purdue,13,Michigan State,10,1
+230,6,"Sep 29, 1984",Rutgers,43,Cincinnati,15,0
+231,6,"Sep 29, 1984",San Jose State,33,California,18,1
+232,6,"Sep 29, 1984",South Carolina,17,Georgia,10,0
+233,6,"Sep 29, 1984",Southern Illinois,27,Southeast Missouri State,16,1
+234,6,"Sep 29, 1984",SMU,26,TCU,17,0
+235,6,"Sep 29, 1984",Nebraska,9,Syracuse,17,1
+236,6,"Sep 29, 1984",Penn State,3,Texas,28,1
+237,6,"Sep 29, 1984",Texas A&M,22,Arkansas State,21,0
+238,6,"Sep 29, 1984",Ohio,16,Toledo,16,0
+239,6,"Sep 29, 1984",UCLA,33,Colorado,16,1
+240,6,"Sep 29, 1984",Vanderbilt,30,Alabama,21,1
+241,6,"Sep 29, 1984",Virginia,26,Virginia Tech,23,1
+242,6,"Sep 29, 1984",Miami (OH),7,Washington,53,1
+243,6,"Sep 29, 1984",West Virginia,28,Pitt,10,1
+244,6,"Sep 29, 1984",Marshall,7,Western Michigan,42,1
+245,6,"Sep 29, 1984",Wisconsin,31,Northwestern,16,0
+246,6,"Sep 29, 1984",Wyoming,21,Utah,14,0
+247,7,"Oct 5, 1984",West Texas State,7,Tulsa,35,0
+248,7,"Oct 5, 1984",Utah,38,New Mexico,14,0
+249,7,"Oct 6, 1984",Air Force,29,Navy,22,0
+250,7,"Oct 6, 1984",Arizona,28,Oregon,14,0
+251,7,"Oct 6, 1984",Army,33,Harvard,11,0
+252,7,"Oct 6, 1984",Auburn,17,Ole Miss,13,1
+253,7,"Oct 6, 1984",Colorado State,9,BYU,52,0
+254,7,"Oct 6, 1984",Cal State Fullerton,41,Pacific,31,1
+255,7,"Oct 6, 1984",California,19,Arizona State,14,1
+256,7,"Oct 6, 1984",Eastern Michigan,16,Central Michigan,16,0
+257,7,"Oct 6, 1984",Clemson,20,North Carolina,12,0
+258,7,"Oct 6, 1984",Drake,31,Truman State,17,0
+259,7,"Oct 6, 1984",Florida,16,Syracuse,0,0
+260,7,"Oct 6, 1984",Memphis,17,Florida State,17,0
+261,7,"Oct 6, 1984",Georgia,24,Alabama,14,1
+262,7,"Oct 6, 1984",Hawaii,27,Fresno State,15,0
+263,7,"Oct 6, 1984",Houston,27,Baylor,17,1
+264,7,"Oct 6, 1984",Wisconsin,6,Illinois,22,1
+265,7,"Oct 6, 1984",Illinois State,34,Eastern Illinois,21,1
+266,7,"Oct 6, 1984",Ball State,6,Indiana State,34,1
+267,7,"Oct 6, 1984",Iowa,31,Northwestern,3,1
+268,7,"Oct 6, 1984",Kansas,33,Iowa State,14,0
+269,7,"Oct 6, 1984",Kentucky,27,Rutgers,14,0
+270,7,"Oct 6, 1984",Louisiana,31,Wichita State,3,0
+271,7,"Oct 6, 1984",Louisville,45,Western Kentucky,17,0
+272,7,"Oct 6, 1984",Miami,31,Notre Dame,13,1
+273,7,"Oct 6, 1984",Kent State,3,Miami (OH),19,0
+274,7,"Oct 6, 1984",Michigan,7,Michigan State,19,0
+275,7,"Oct 6, 1984",Minnesota,33,Indiana,24,0
+276,7,"Oct 6, 1984",Mississippi State,27,Southern Miss,18,0
+277,7,"Oct 6, 1984",Colorado,7,Missouri,52,1
+278,7,"Oct 6, 1984",Oklahoma State,3,Nebraska,17,1
+279,7,"Oct 6, 1984",UNLV,41,Long Beach State,23,1
+280,7,"Oct 6, 1984",New Mexico State,27,UTEP,16,0
+281,7,"Oct 6, 1984",NC State,27,Georgia Tech,22,1
+282,7,"Oct 6, 1984",Northern Illinois,20,Western Michigan,15,1
+283,7,"Oct 6, 1984",Penn State,25,Maryland,24,0
+284,7,"Oct 6, 1984",Pitt,17,East Carolina,10,0
+285,7,"Oct 6, 1984",Purdue,28,Ohio State,23,0
+286,7,"Oct 6, 1984",San Diego State,21,Wyoming,0,1
+287,7,"Oct 6, 1984",San Jose State,38,Utah State,21,0
+288,7,"Oct 6, 1984",South Carolina,49,Kansas State,17,0
+289,7,"Oct 6, 1984",USC,29,Washington State,27,1
+290,7,"Oct 6, 1984",Southern Illinois,40,Northern Iowa,10,0
+291,7,"Oct 6, 1984",Stanford,23,UCLA,21,1
+292,7,"Oct 6, 1984",Temple,28,William & Mary,14,1
+293,7,"Oct 6, 1984",Texas,38,Rice,13,1
+294,7,"Oct 6, 1984",TCU,32,Arkansas,31,1
+295,7,"Oct 6, 1984",Texas Tech,30,Texas A&M,12,1
+296,7,"Oct 6, 1984",Bowling Green,6,Toledo,17,1
+297,7,"Oct 6, 1984",Tulane,27,Vanderbilt,23,1
+298,7,"Oct 6, 1984",Virginia,38,Duke,10,1
+299,7,"Oct 6, 1984",Virginia Military Institute,7,Virginia Tech,54,1
+300,7,"Oct 6, 1984",Wake Forest,29,Richmond,16,1
+301,7,"Oct 6, 1984",Oregon State,7,Washington,19,0
+302,8,"Oct 12, 1984",West Texas State,14,Abilene Christian,10,0
+303,8,"Oct 13, 1984",Notre Dame,7,Air Force,21,0
+304,8,"Oct 13, 1984",Alabama,6,Penn State,0,0
+305,8,"Oct 13, 1984",Arkansas,24,Texas Tech,0,0
+306,8,"Oct 13, 1984",Auburn,42,Florida State,41,1
+307,8,"Oct 13, 1984",Boston College,24,Temple,10,0
+308,8,"Oct 13, 1984",Western Michigan,7,Bowling Green,34,1
+309,8,"Oct 13, 1984",BYU,41,Wyoming,38,0
+310,8,"Oct 13, 1984",Cal State Fullerton,21,San Jose State,12,0
+311,8,"Oct 13, 1984",Central Michigan,35,Ohio,3,0
+312,8,"Oct 13, 1984",Colorado,23,Iowa State,21,0
+313,8,"Oct 13, 1984",Colorado State,16,New Mexico,10,1
+314,8,"Oct 13, 1984",Northern Illinois,10,Eastern Michigan,10,0
+315,8,"Oct 13, 1984",Florida,43,Tennessee,30,1
+316,8,"Oct 13, 1984",Georgia,18,Ole Miss,12,0
+317,8,"Oct 13, 1984",Virginia,20,Georgia Tech,20,0
+318,8,"Oct 13, 1984",Hawaii,24,UTEP,20,1
+319,8,"Oct 13, 1984",Houston,9,Texas A&M,7,0
+320,8,"Oct 13, 1984",Indiana State,44,Louisville,21,1
+321,8,"Oct 13, 1984",Iowa,40,Purdue,3,1
+322,8,"Oct 13, 1984",Kansas,7,Kansas State,24,1
+323,8,"Oct 13, 1984",Kent State,15,Ball State,10,1
+324,8,"Oct 13, 1984",Kentucky,17,Mississippi State,13,1
+325,8,"Oct 13, 1984",Long Beach State,24,Utah State,22,1
+326,8,"Oct 13, 1984",LSU,34,Vanderbilt,27,0
+327,8,"Oct 13, 1984",Maryland,44,NC State,21,0
+328,8,"Oct 13, 1984",Louisiana,7,Memphis,20,1
+329,8,"Oct 13, 1984",Miami,49,Cincinnati,25,1
+330,8,"Oct 13, 1984",Michigan,31,Northwestern,0,0
+331,8,"Oct 13, 1984",Indiana,6,Michigan State,13,1
+332,8,"Oct 13, 1984",Minnesota,17,Wisconsin,14,1
+333,8,"Oct 13, 1984",Navy,31,Lehigh,14,0
+334,8,"Oct 13, 1984",Nebraska,33,Missouri,23,0
+335,8,"Oct 13, 1984",UNLV,33,Idaho State,20,0
+336,8,"Oct 13, 1984",Ohio State,45,Illinois,38,0
+337,8,"Oct 13, 1984",Oregon State,9,California,6,0
+338,8,"Oct 13, 1984",New Mexico State,7,Pacific,21,1
+339,8,"Oct 13, 1984",Army,7,Rutgers,14,1
+340,8,"Oct 13, 1984",South Carolina,45,Pitt,21,0
+341,8,"Oct 13, 1984",Oregon,9,USC,19,0
+342,8,"Oct 13, 1984",Southern Illinois,48,Eastern Illinois,40,1
+343,8,"Oct 13, 1984",SMU,24,Baylor,20,1
+344,8,"Oct 13, 1984",Texas,15,Oklahoma,15,0
+345,8,"Oct 13, 1984",TCU,45,Rice,24,0
+346,8,"Oct 13, 1984",Texas-Arlington,17,Wichita State,15,1
+347,8,"Oct 13, 1984",Miami (OH),7,Toledo,10,0
+348,8,"Oct 13, 1984",Southern Miss,7,Tulane,35,1
+349,8,"Oct 13, 1984",Tulsa,31,East Carolina,20,0
+350,8,"Oct 13, 1984",UCLA,27,Washington State,24,0
+351,8,"Oct 13, 1984",San Diego State,24,Utah,24,0
+352,8,"Oct 13, 1984",Virginia Tech,27,Duke,0,0
+353,8,"Oct 13, 1984",North Carolina,3,Wake Forest,14,1
+354,8,"Oct 13, 1984",Washington,37,Stanford,15,1
+355,8,"Oct 13, 1984",West Virginia,20,Syracuse,10,0
+356,8,"Oct 13, 1984",Western Illinois,37,Drake,20,0
+357,9,"Oct 19, 1984",West Texas State,24,Southern Illinois,17,1
+358,9,"Oct 20, 1984",Arizona State,45,Oregon State,10,0
+359,9,"Oct 20, 1984",Army,48,Pennsylvania,13,0
+360,9,"Oct 20, 1984",Auburn,48,Georgia Tech,34,0
+361,9,"Oct 20, 1984",Ball State,23,Western Michigan,20,0
+362,9,"Oct 20, 1984",Baylor,20,Texas A&M,16,1
+363,9,"Oct 20, 1984",Northern Illinois,6,Bowling Green,28,1
+364,9,"Oct 20, 1984",BYU,30,Air Force,25,1
+365,9,"Oct 20, 1984",Cal State Fullerton,36,Nevada,14,1
+366,9,"Oct 20, 1984",UCF,28,Illinois State,24,0
+367,9,"Oct 20, 1984",Miami (OH),9,Central Michigan,10,0
+368,9,"Oct 20, 1984",Clemson,54,Duke,21,0
+369,9,"Oct 20, 1984",Delaware,34,Temple,19,1
+370,9,"Oct 20, 1984",East Tennessee State,6,East Carolina,24,1
+371,9,"Oct 20, 1984",Florida,48,Cincinnati,17,0
+372,9,"Oct 20, 1984",Tulane,6,Florida State,27,1
+373,9,"Oct 20, 1984",Fresno State,43,Utah State,18,0
+374,9,"Oct 20, 1984",Georgia,62,Vanderbilt,35,0
+375,9,"Oct 20, 1984",Hawaii,20,Utah,17,0
+376,9,"Oct 20, 1984",Houston,29,SMU,20,1
+377,9,"Oct 20, 1984",Illinois,34,Purdue,20,0
+378,9,"Oct 20, 1984",Drake,3,Indiana State,17,1
+379,9,"Oct 20, 1984",Iowa,26,Michigan,0,0
+380,9,"Oct 20, 1984",Ohio,7,Kent State,19,0
+381,9,"Oct 20, 1984",Long Beach State,43,New Mexico State,13,1
+382,9,"Oct 20, 1984",Louisiana,35,San Jose State,28,1
+383,9,"Oct 20, 1984",LSU,36,Kentucky,10,1
+384,9,"Oct 20, 1984",Memphis,23,Mississippi State,12,0
+385,9,"Oct 20, 1984",Pitt,7,Miami,27,1
+386,9,"Oct 20, 1984",Missouri,61,Kansas State,21,1
+387,9,"Oct 20, 1984",Navy,41,Princeton,3,0
+388,9,"Oct 20, 1984",Colorado,7,Nebraska,24,0
+389,9,"Oct 20, 1984",UNLV,35,Pacific,21,1
+390,9,"Oct 20, 1984",North Carolina,28,NC State,21,0
+391,9,"Oct 20, 1984",Northwestern,31,Minnesota,28,1
+392,9,"Oct 20, 1984",Ohio State,23,Michigan State,20,1
+393,9,"Oct 20, 1984",Oklahoma,12,Iowa State,10,1
+394,9,"Oct 20, 1984",Oklahoma State,47,Kansas,10,0
+395,9,"Oct 20, 1984",Syracuse,3,Penn State,21,1
+396,9,"Oct 20, 1984",Rutgers,38,Louisville,21,0
+397,9,"Oct 20, 1984",San Diego State,41,Colorado State,24,0
+398,9,"Oct 20, 1984",South Carolina,36,Notre Dame,32,1
+399,9,"Oct 20, 1984",USC,17,Arizona,14,0
+400,9,"Oct 20, 1984",Southern Miss,13,Ole Miss,10,0
+401,9,"Oct 20, 1984",Tennessee,28,Alabama,27,0
+402,9,"Oct 20, 1984",Texas,24,Arkansas,18,0
+403,9,"Oct 20, 1984",TCU,34,North Texas,3,0
+404,9,"Oct 20, 1984",Texas Tech,30,Rice,10,1
+405,9,"Oct 20, 1984",Eastern Michigan,7,Toledo,17,1
+406,9,"Oct 20, 1984",Tulsa,55,Wichita State,20,0
+407,9,"Oct 20, 1984",UCLA,17,California,14,1
+408,9,"Oct 20, 1984",Wake Forest,9,Virginia,28,1
+409,9,"Oct 20, 1984",Virginia Tech,38,William & Mary,14,0
+410,9,"Oct 20, 1984",Washington,17,Oregon,10,0
+411,9,"Oct 20, 1984",Washington State,49,Stanford,42,1
+412,9,"Oct 20, 1984",West Virginia,21,Boston College,20,0
+413,9,"Oct 20, 1984",Wisconsin,20,Indiana,16,1
+414,9,"Oct 20, 1984",Wyoming,59,New Mexico,21,0
+415,10,"Oct 25, 1984",BYU,48,New Mexico,0,1
+416,10,"Oct 26, 1984",West Texas State,21,New Mexico State,13,1
+417,10,"Oct 27, 1984",Houston,3,Arkansas,17,0
+418,10,"Oct 27, 1984",Auburn,24,Mississippi State,21,1
+419,10,"Oct 27, 1984",Ball State,17,Eastern Michigan,10,1
+420,10,"Oct 27, 1984",Boston College,35,Rutgers,23,0
+421,10,"Oct 27, 1984",Cal State Fullerton,42,Long Beach State,28,0
+422,10,"Oct 27, 1984",Central Michigan,42,Bowling Green,21,0
+423,10,"Oct 27, 1984",Cincinnati,40,Louisville,21,0
+424,10,"Oct 27, 1984",Clemson,35,NC State,34,1
+425,10,"Oct 27, 1984",Kentucky,7,Georgia,37,0
+426,10,"Oct 27, 1984",Hawaii,16,San Diego State,10,0
+427,10,"Oct 27, 1984",Indiana State,27,Southern Illinois,10,1
+428,10,"Oct 27, 1984",Iowa,24,Indiana,20,1
+429,10,"Oct 27, 1984",Missouri,14,Iowa State,14,0
+430,10,"Oct 27, 1984",Kansas,28,Oklahoma,11,0
+431,10,"Oct 27, 1984",Toledo,6,Kent State,17,1
+432,10,"Oct 27, 1984",Southern Miss,7,Louisiana,13,1
+433,10,"Oct 27, 1984",Duke,7,Maryland,43,0
+434,10,"Oct 27, 1984",Northern Illinois,7,Miami (OH),20,0
+435,10,"Oct 27, 1984",Michigan,26,Illinois,18,0
+436,10,"Oct 27, 1984",Michigan State,20,Minnesota,13,1
+437,10,"Oct 27, 1984",Pitt,28,Navy,28,0
+438,10,"Oct 27, 1984",Nebraska,62,Kansas State,14,0
+439,10,"Oct 27, 1984",North Carolina,30,Memphis,27,1
+440,10,"Oct 27, 1984",Notre Dame,30,LSU,22,1
+441,10,"Oct 27, 1984",Oklahoma State,20,Colorado,14,0
+442,10,"Oct 27, 1984",Northwestern,7,Purdue,49,0
+443,10,"Oct 27, 1984",San Jose State,18,Fresno State,17,0
+444,10,"Oct 27, 1984",South Carolina,42,East Carolina,20,0
+445,10,"Oct 27, 1984",California,7,USC,31,1
+446,10,"Oct 27, 1984",Stanford,28,Oregon State,21,1
+447,10,"Oct 27, 1984",Syracuse,27,Army,16,0
+448,10,"Oct 27, 1984",Tennessee,24,Georgia Tech,21,1
+449,10,"Oct 27, 1984",SMU,7,Texas,13,1
+450,10,"Oct 27, 1984",Texas A&M,38,Rice,14,0
+451,10,"Oct 27, 1984",TCU,38,Baylor,28,0
+452,10,"Oct 27, 1984",Texas Tech,20,Tulsa,17,0
+453,10,"Oct 27, 1984",UCLA,21,Arizona State,13,1
+454,10,"Oct 27, 1984",Utah,43,UTEP,15,0
+455,10,"Oct 27, 1984",Utah State,41,Pacific,14,0
+456,10,"Oct 27, 1984",Vanderbilt,37,Ole Miss,20,0
+457,10,"Oct 27, 1984",Virginia Tech,9,Temple,7,1
+458,10,"Oct 27, 1984",Wake Forest,34,William & Mary,21,0
+459,10,"Oct 27, 1984",Washington,28,Arizona,12,0
+460,10,"Oct 27, 1984",Washington State,50,Oregon,41,1
+461,10,"Oct 27, 1984",West Virginia,17,Penn State,14,0
+462,10,"Oct 27, 1984",Western Illinois,28,Illinois State,14,0
+463,10,"Oct 27, 1984",Western Michigan,33,Ohio,14,0
+464,10,"Oct 27, 1984",Drake,6,Wichita State,23,0
+465,10,"Oct 27, 1984",Wisconsin,16,Ohio State,14,0
+466,10,"Oct 27, 1984",Wyoming,43,Colorado State,34,1
+467,11,"Nov 3, 1984",Alabama,24,Mississippi State,20,1
+468,11,"Nov 3, 1984",Arizona,45,Utah State,10,0
+469,11,"Nov 3, 1984",Rice,6,Arkansas,28,1
+470,11,"Nov 3, 1984",Army,24,Air Force,12,0
+471,11,"Nov 3, 1984",Baylor,38,New Mexico,2,0
+472,11,"Nov 3, 1984",Bowling Green,38,Ball State,13,1
+473,11,"Nov 3, 1984",UTEP,9,BYU,42,1
+474,11,"Nov 3, 1984",Cal State Fullerton,20,Fresno State,17,1
+475,11,"Nov 3, 1984",Clemson,37,Wake Forest,14,0
+476,11,"Nov 3, 1984",Drake,20,Southern Illinois,17,0
+477,11,"Nov 3, 1984",Eastern Michigan,20,Kent State,18,0
+478,11,"Nov 3, 1984",Auburn,3,Florida,24,1
+479,11,"Nov 3, 1984",Florida State,52,Arizona State,44,1
+480,11,"Nov 3, 1984",Memphis,3,Georgia,13,1
+481,11,"Nov 3, 1984",Georgia Tech,31,Duke,3,0
+482,11,"Nov 3, 1984",Hawaii,31,Wyoming,28,0
+483,11,"Nov 3, 1984",Illinois,48,Minnesota,3,0
+484,11,"Nov 3, 1984",Indiana State,38,UCF,0,0
+485,11,"Nov 3, 1984",Kansas,28,Colorado,27,1
+486,11,"Nov 3, 1984",North Texas,7,Kentucky,31,1
+487,11,"Nov 3, 1984",Long Beach State,24,Pacific,22,0
+488,11,"Nov 3, 1984",Louisiana,42,East Carolina,24,1
+489,11,"Nov 3, 1984",LSU,32,Ole Miss,29,0
+490,11,"Nov 3, 1984",Maryland,34,North Carolina,23,1
+491,11,"Nov 3, 1984",Miami,38,Louisville,23,1
+492,11,"Nov 3, 1984",Michigan State,27,Northwestern,10,0
+493,11,"Nov 3, 1984",Nebraska,44,Iowa State,0,1
+494,11,"Nov 3, 1984",UNLV,30,San Diego State,14,1
+495,11,"Nov 3, 1984",New Mexico State,31,Wichita State,24,1
+496,11,"Nov 3, 1984",Northern Illinois,8,Central Michigan,7,0
+497,11,"Nov 3, 1984",Northwestern State,22,Southern Miss,0,1
+498,11,"Nov 3, 1984",Notre Dame,18,Navy,17,0
+499,11,"Nov 3, 1984",Ohio,24,Miami (OH),19,0
+500,11,"Nov 3, 1984",Indiana,7,Ohio State,50,1
+501,11,"Nov 3, 1984",Missouri,7,Oklahoma,49,1
+502,11,"Nov 3, 1984",Kansas State,6,Oklahoma State,34,0
+503,11,"Nov 3, 1984",Oregon,20,UCLA,18,1
+504,11,"Nov 3, 1984",Penn State,37,Boston College,30,0
+505,11,"Nov 3, 1984",Purdue,31,Michigan,29,0
+506,11,"Nov 3, 1984",South Carolina,35,NC State,28,1
+507,11,"Nov 3, 1984",USC,20,Stanford,11,1
+508,11,"Nov 3, 1984",SMU,28,Texas A&M,20,0
+509,11,"Nov 3, 1984",Pitt,7,Syracuse,13,1
+510,11,"Nov 3, 1984",Temple,42,Cincinnati,10,0
+511,11,"Nov 3, 1984",Texas,13,Texas Tech,10,1
+512,11,"Nov 3, 1984",TCU,21,Houston,14,1
+513,11,"Nov 3, 1984",Toledo,17,Western Michigan,13,0
+514,11,"Nov 3, 1984",Illinois State,7,Tulsa,28,0
+515,11,"Nov 3, 1984",Utah,35,Colorado State,23,0
+516,11,"Nov 3, 1984",West Virginia,7,Virginia,27,0
+517,11,"Nov 3, 1984",Tulane,6,Virginia Tech,13,1
+518,11,"Nov 3, 1984",Washington,44,California,14,0
+519,11,"Nov 3, 1984",Oregon State,3,Washington State,20,1
+520,11,"Nov 3, 1984",Iowa,10,Wisconsin,10,0
+521,12,"Nov 10, 1984",New Mexico,9,Air Force,23,0
+522,12,"Nov 10, 1984",Arizona,28,Stanford,14,0
+523,12,"Nov 10, 1984",Arizona State,44,Oregon,10,1
+524,12,"Nov 10, 1984",Baylor,9,Arkansas,14,0
+525,12,"Nov 10, 1984",Auburn,60,Cincinnati,0,0
+526,12,"Nov 10, 1984",Boston College,45,Army,31,0
+527,12,"Nov 10, 1984",Ohio,7,Bowling Green,28,1
+528,12,"Nov 10, 1984",BYU,34,San Diego State,3,0
+529,12,"Nov 10, 1984",Ball State,7,Central Michigan,51,1
+530,12,"Nov 10, 1984",Clemson,17,Virginia Tech,10,0
+531,12,"Nov 10, 1984",Colorado State,59,UTEP,31,0
+532,12,"Nov 10, 1984",Florida,27,Georgia,0,0
+533,12,"Nov 10, 1984",Houston,29,Texas,15,1
+534,12,"Nov 10, 1984",Indiana,7,Illinois,34,0
+535,12,"Nov 10, 1984",Iowa State,7,Kansas State,7,0
+536,12,"Nov 10, 1984",Kentucky,27,Vanderbilt,18,0
+537,12,"Nov 10, 1984",LSU,16,Alabama,14,1
+538,12,"Nov 10, 1984",Illinois State,3,Marshall,10,0
+539,12,"Nov 10, 1984",Maryland,42,Miami,40,1
+540,12,"Nov 10, 1984",McNeese State,30,Louisiana,17,0
+541,12,"Nov 10, 1984",Miami (OH),23,Eastern Michigan,0,0
+542,12,"Nov 10, 1984",Minnesota,7,Michigan,31,1
+543,12,"Nov 10, 1984",Michigan State,17,Iowa,16,1
+544,12,"Nov 10, 1984",Southern Illinois,6,Missouri State,31,0
+545,12,"Nov 10, 1984",Kansas,7,Nebraska,41,0
+546,12,"Nov 10, 1984",UNLV,26,Cal State Fullerton,20,0
+547,12,"Nov 10, 1984",North Carolina,24,Georgia Tech,17,0
+548,12,"Nov 10, 1984",Ohio State,52,Northwestern,3,1
+549,12,"Nov 10, 1984",Oklahoma,42,Colorado,17,1
+550,12,"Nov 10, 1984",Oklahoma State,31,Missouri,13,0
+551,12,"Nov 10, 1984",Fresno State,6,Pacific,24,0
+552,12,"Nov 10, 1984",Pitt,21,Tulane,10,0
+553,12,"Nov 10, 1984",Rutgers,23,West Virginia,19,0
+554,12,"Nov 10, 1984",Long Beach State,7,San Jose State,42,1
+555,12,"Nov 10, 1984",South Carolina,38,Florida State,26,0
+556,12,"Nov 10, 1984",Washington,7,USC,16,1
+557,12,"Nov 10, 1984",SMU,31,Rice,17,1
+558,12,"Nov 10, 1984",Southern Miss,31,East Carolina,27,1
+559,12,"Nov 10, 1984",Syracuse,29,Navy,0,0
+560,12,"Nov 10, 1984",Memphis,9,Tennessee,41,1
+561,12,"Nov 10, 1984",Tennessee State,24,Louisville,15,1
+562,12,"Nov 10, 1984",TCU,27,Texas Tech,16,0
+563,12,"Nov 10, 1984",Northern Illinois,7,Toledo,13,1
+564,12,"Nov 10, 1984",Tulsa,24,Indiana State,17,1
+565,12,"Nov 10, 1984",UCLA,26,Oregon State,17,0
+566,12,"Nov 10, 1984",Utah,21,Utah State,10,1
+567,12,"Nov 10, 1984",Virginia,45,NC State,0,0
+568,12,"Nov 10, 1984",Wake Forest,20,Duke,16,1
+569,12,"Nov 10, 1984",California,7,Washington State,33,0
+570,12,"Nov 10, 1984",Kent State,9,Western Michigan,13,1
+571,12,"Nov 10, 1984",Wichita State,17,West Texas State,14,0
+572,12,"Nov 10, 1984",Wisconsin,30,Purdue,13,0
+573,12,"Nov 10, 1984",Wyoming,45,South Dakota State,29,0
+574,13,"Nov 17, 1984",Cincinnati,7,Alabama,29,0
+575,13,"Nov 17, 1984",Arizona State,45,Colorado State,14,0
+576,13,"Nov 17, 1984",Arkansas,28,Texas A&M,0,0
+577,13,"Nov 17, 1984",Army,45,Montana,31,0
+578,13,"Nov 17, 1984",Auburn,21,Georgia,12,0
+579,13,"Nov 17, 1984",Baylor,46,Rice,40,1
+580,13,"Nov 17, 1984",Boston College,24,Syracuse,16,0
+581,13,"Nov 17, 1984",Bowling Green,27,Kent State,10,1
+582,13,"Nov 17, 1984",BYU,24,Utah,14,1
+583,13,"Nov 17, 1984",Cal State Fullerton,20,New Mexico State,0,1
+584,13,"Nov 17, 1984",Drake,25,West Texas State,22,1
+585,13,"Nov 17, 1984",Duke,16,NC State,13,1
+586,13,"Nov 17, 1984",Eastern Michigan,24,Western Michigan,14,0
+587,13,"Nov 17, 1984",Florida,25,Kentucky,17,1
+588,13,"Nov 17, 1984",Florida State,37,Chattanooga,0,0
+589,13,"Nov 17, 1984",Wake Forest,7,Georgia Tech,24,0
+590,13,"Nov 17, 1984",Illinois State,17,Wichita State,0,1
+591,13,"Nov 17, 1984",Kansas,35,Missouri,21,1
+592,13,"Nov 17, 1984",Colorado,6,Kansas State,38,1
+593,13,"Nov 17, 1984",Louisiana,18,Tulsa,17,1
+594,13,"Nov 17, 1984",Maryland,41,Clemson,23,0
+595,13,"Nov 17, 1984",Minnesota,23,Iowa,17,0
+596,13,"Nov 17, 1984",Mississippi State,16,LSU,14,0
+597,13,"Nov 17, 1984",Montana State,35,Fresno State,31,1
+598,13,"Nov 17, 1984",Navy,38,South Carolina,21,0
+599,13,"Nov 17, 1984",UNLV,36,Utah State,20,1
+600,13,"Nov 17, 1984",Penn State,7,Notre Dame,44,1
+601,13,"Nov 17, 1984",Northern Illinois,3,Ohio,10,1
+602,13,"Nov 17, 1984",Michigan,6,Ohio State,21,1
+603,13,"Nov 17, 1984",Nebraska,7,Oklahoma,17,0
+604,13,"Nov 17, 1984",Oklahoma State,16,Iowa State,10,0
+605,13,"Nov 17, 1984",Oregon State,6,Oregon,31,0
+606,13,"Nov 17, 1984",Purdue,31,Indiana,24,0
+607,13,"Nov 17, 1984",Colgate,7,Rutgers,17,1
+608,13,"Nov 17, 1984",San Diego State,37,New Mexico,31,0
+609,13,"Nov 17, 1984",San Jose State,33,Pacific,0,1
+610,13,"Nov 17, 1984",SMU,31,Texas Tech,0,1
+611,13,"Nov 17, 1984",Southern Miss,34,Louisville,25,0
+612,13,"Nov 17, 1984",Stanford,27,California,10,1
+613,13,"Nov 17, 1984",Temple,19,West Virginia,17,0
+614,13,"Nov 17, 1984",Tennessee,41,Ole Miss,17,1
+615,13,"Nov 17, 1984",Texas,44,TCU,23,1
+616,13,"Nov 17, 1984",UTEP,35,Wyoming,22,0
+617,13,"Nov 17, 1984",Central Michigan,7,Toledo,14,0
+618,13,"Nov 17, 1984",Memphis,9,Tulane,14,1
+619,13,"Nov 17, 1984",UCLA,29,USC,10,0
+620,13,"Nov 17, 1984",North Carolina,24,Virginia,24,0
+621,13,"Nov 17, 1984",Vanderbilt,3,Virginia Tech,23,0
+622,13,"Nov 17, 1984",Washington,38,Washington State,29,1
+623,13,"Nov 17, 1984",Western Illinois,22,Indiana State,2,0
+624,13,"Nov 17, 1984",Wisconsin,20,Michigan State,10,1
+625,14,"Nov 22, 1984",Miami (OH),31,Cincinnati,26,1
+626,14,"Nov 23, 1984",Boston College,47,Miami,45,1
+627,14,"Nov 24, 1984",Air Force,38,UTEP,12,1
+628,14,"Nov 24, 1984",Arizona,16,Arizona State,10,0
+629,14,"Nov 24, 1984",Baylor,24,Texas,10,0
+630,14,"Nov 24, 1984",BYU,38,Utah State,13,0
+631,14,"Nov 24, 1984",Hawaii,48,New Mexico,13,0
+632,14,"Nov 24, 1984",Houston,24,Texas Tech,17,1
+633,14,"Nov 24, 1984",Kentucky,17,Tennessee,12,1
+634,14,"Nov 24, 1984",Long Beach State,18,San Diego State,17,1
+635,14,"Nov 24, 1984",LSU,33,Tulane,15,0
+636,14,"Nov 24, 1984",Maryland,45,Virginia,34,1
+637,14,"Nov 24, 1984",Mississippi State,3,Ole Miss,24,1
+638,14,"Nov 24, 1984",UNLV,27,Fresno State,13,0
+639,14,"Nov 24, 1984",North Carolina,17,Duke,15,1
+640,14,"Nov 24, 1984",USC,7,Notre Dame,19,0
+641,14,"Nov 24, 1984",Oklahoma,24,Oklahoma State,14,0
+642,14,"Nov 24, 1984",Pitt,31,Penn State,11,1
+643,14,"Nov 24, 1984",South Carolina,22,Clemson,21,1
+644,14,"Nov 24, 1984",SMU,31,Arkansas,28,0
+645,14,"Nov 24, 1984",Texas A&M,35,TCU,21,0
+646,15,"Nov 30, 1984",Toledo,6,Temple,35,1
+647,15,"Dec 1, 1984",Alabama,17,Auburn,15,0
+648,15,"Dec 1, 1984",Army,28,Navy,11,0
+649,15,"Dec 1, 1984",Boston College,45,Holy Cross,10,1
+650,15,"Dec 1, 1984",Florida,27,Florida State,17,1
+651,15,"Dec 1, 1984",Georgia Tech,35,Georgia,18,1
+652,15,"Dec 1, 1984",Houston,38,Rice,26,0
+653,15,"Dec 1, 1984",Hawaii,6,Iowa,17,0
+654,15,"Dec 1, 1984",Middle Tennessee,42,Indiana State,41,1
+655,15,"Dec 1, 1984",SMU,38,UNLV,21,1
+656,15,"Dec 1, 1984",Tennessee,29,Vanderbilt,13,1
+657,15,"Dec 1, 1984",Texas A&M,37,Texas,12,1
+658,16,"Dec 15, 1984",Virginia Tech,7,Air Force,23,1
+659,16,"Dec 15, 1984",UNLV,30,Toledo,13,0
+660,17,"Dec 21, 1984",BYU,24,Michigan,17,0
+661,17,"Dec 22, 1984",Michigan State,6,Army,10,1
+662,17,"Dec 22, 1984",Georgia,17,Florida State,17,0
+663,17,"Dec 22, 1984",Maryland,28,Tennessee,27,0
+664,18,"Dec 26, 1984",Iowa,55,Texas,17,0
+665,18,"Dec 27, 1984",Auburn,21,Arkansas,15,0
+666,18,"Dec 28, 1984",Oklahoma State,21,South Carolina,14,0
+667,18,"Dec 29, 1984",Kentucky,20,Wisconsin,19,0
+668,18,"Dec 29, 1984",SMU,27,Notre Dame,20,0
+669,19,"Dec 31, 1984",Virginia,27,Purdue,24,0
+670,19,"Dec 31, 1984",West Virginia,31,TCU,14,0
+671,20,"Jan 1, 1985",Boston College,45,Houston,28,0
+672,20,"Jan 1, 1985",Nebraska,28,LSU,10,0
+673,20,"Jan 1, 1985",USC,20,Ohio State,17,0
+674,20,"Jan 1, 1985",UCLA,39,Miami,37,0
+675,20,"Jan 1, 1985",Washington,28,Oklahoma,17,0

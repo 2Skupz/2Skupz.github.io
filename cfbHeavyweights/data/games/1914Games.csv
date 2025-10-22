@@ -1,0 +1,468 @@
+0,1,"Sep 19, 1914",Carlisle,20,Albright,0,0
+1,2,"Sep 23, 1914",Carlisle,7,Lebanon Valley,0,0
+2,2,"Sep 23, 1914",Cornell,28,Ursinus,0,0
+3,2,"Sep 26, 1914",Auburn,39,Marion,0,0
+4,2,"Sep 26, 1914",Baylor,0,Austin,0,0
+5,2,"Sep 26, 1914",Brown,24,Norwich,0,0
+6,2,"Sep 26, 1914",Bucknell,72,Newberry A.C.,0,0
+7,2,"Sep 26, 1914",Carlisle,6,West Virginia Wesleyan,0,1
+8,2,"Sep 26, 1914",Colgate,40,Ohio Wesleyan,0,0
+9,2,"Sep 26, 1914",Colorado College,37,Colorado Springs High,0,0
+10,2,"Sep 26, 1914",Massachusetts,6,Dartmouth,29,1
+11,2,"Sep 26, 1914",Drake,19,Leander Clarke,0,0
+12,2,"Sep 26, 1914",Fordham,0,Georgetown,0,0
+13,2,"Sep 26, 1914",Georgia,81,North Georgia,0,0
+14,2,"Sep 26, 1914",Harvard,44,Bates,0,0
+15,2,"Sep 26, 1914",Haskell,82,Missouri-Kansas City,0,0
+16,2,"Sep 26, 1914",DePauw,6,Indiana,13,1
+17,2,"Sep 26, 1914",Lafayette,41,Delaware,0,0
+18,2,"Sep 26, 1914",Lehigh,12,Franklin & Marshall,0,1
+19,2,"Sep 26, 1914",Newberry,20,Porter Military,0,0
+20,2,"Sep 26, 1914",North Carolina,41,Richmond,0,0
+21,2,"Sep 26, 1914",Oklahoma,67,Central Oklahoma,0,0
+22,2,"Sep 26, 1914",Westminster (Pennsylvania),6,Penn State,13,1
+23,2,"Sep 26, 1914",Pennsylvania,14,Gettysburg,0,0
+24,2,"Sep 26, 1914",Pitt,9,Cornell,3,1
+25,2,"Sep 26, 1914",Princeton,12,Rutgers,0,0
+26,2,"Sep 26, 1914",Syracuse,37,Hobart,0,0
+27,2,"Sep 26, 1914",Tennessee,89,Carson-Newman,0,0
+28,2,"Sep 26, 1914",TCU,40,North Texas,0,0
+29,2,"Sep 26, 1914",Virginia,39,Randolph-Macon,0,0
+30,2,"Sep 26, 1914",Hampden-Sydney,7,Virginia Military Institute,29,1
+31,2,"Sep 26, 1914",Virginia Tech,35,King,0,0
+32,2,"Sep 26, 1914",Washington & Jefferson,26,Mount Union,0,0
+33,2,"Sep 26, 1914",Washington & Lee,34,Marshall,0,0
+34,2,"Sep 26, 1914",Washington (MO),66,Southern Illinois,0,0
+35,2,"Sep 26, 1914",Yale,20,Maine,0,0
+36,2,"Sep 27, 1914",LSU,54,Louisiana,0,0
+37,3,"Sep 30, 1914",Michigan,58,DePauw,0,0
+38,3,"Sep 30, 1914",Machinists Mates,7,South Carolina,30,1
+39,3,"Sep 30, 1914",Wyoming,18,Cheyenne High,10,0
+40,3,"Oct 2, 1914",Emporia State,6,Haskell,13,1
+41,3,"Oct 3, 1914",Alabama,13,Samford,0,0
+42,3,"Oct 3, 1914",Hendrix,7,Arkansas,13,1
+43,3,"Oct 3, 1914",Army,49,Stevens,0,0
+44,3,"Oct 3, 1914",Auburn,60,North Alabama A.C.,0,0
+45,3,"Oct 3, 1914",Baylor,9,Howard Payne,0,0
+46,3,"Oct 3, 1914",Brown,20,Rhode Island,0,0
+47,3,"Oct 3, 1914",Chicago,34,Indiana,0,0
+48,3,"Oct 3, 1914",Davidson,0,Clemson,0,0
+49,3,"Oct 3, 1914",Colgate,7,Cornell,3,1
+50,3,"Oct 3, 1914",Colorado Alumni,3,Colorado,27,1
+51,3,"Oct 3, 1914",Dartmouth,74,Norwich,0,0
+52,3,"Oct 3, 1914",South Denver High,7,Denver,33,1
+53,3,"Oct 3, 1914",Drake,51,Central (Iowa),0,0
+54,3,"Oct 3, 1914",Franklin & Marshall,10,Pennsylvania,0,1
+55,3,"Oct 3, 1914",Georgia,13,Citadel,0,0
+56,3,"Oct 3, 1914",Georgia Tech,20,South Carolina,0,0
+57,3,"Oct 3, 1914",Harvard,44,Springfield,0,0
+58,3,"Oct 3, 1914",Illinois,37,Christian Brothers,0,0
+59,3,"Oct 3, 1914",Iowa,95,Northern Iowa,0,0
+60,3,"Oct 3, 1914",Coe,6,Iowa State,27,1
+61,3,"Oct 3, 1914",Kansas,48,William Jewell,2,0
+62,3,"Oct 3, 1914",Kansas State,15,Southwestern (Kansas),0,0
+63,3,"Oct 3, 1914",Carlisle,6,Lehigh,21,1
+64,3,"Oct 3, 1914",LSU,60,Louisiana Tech,0,0
+65,3,"Oct 3, 1914",Michigan,69,Case,0,0
+66,3,"Oct 3, 1914",North Dakota,6,Minnesota,28,1
+67,3,"Oct 3, 1914",Ole Miss,20,Arkansas State,0,0
+68,3,"Oct 3, 1914",Mississippi State,54,Marion,0,0
+69,3,"Oct 3, 1914",Missouri-Rolla,9,Missouri,0,1
+70,3,"Oct 3, 1914",Navy,13,Georgetown,0,0
+71,3,"Oct 3, 1914",Washburn,7,Nebraska,14,1
+72,3,"Oct 3, 1914",North Carolina,65,Virginia Medical,0,0
+73,3,"Oct 3, 1914",NC State,51,Wake Forest,0,0
+74,3,"Oct 3, 1914",Northwestern,7,Lake Forest,0,0
+75,3,"Oct 3, 1914",Notre Dame,56,Alma,0,0
+76,3,"Oct 3, 1914",Ohio Wesleyan,2,Ohio State,16,1
+77,3,"Oct 3, 1914",Oklahoma,67,Kingfisher,0,1
+78,3,"Oct 3, 1914",Oklahoma State,134,Phillips,0,0
+79,3,"Oct 3, 1914",Penn State,22,Muhlenberg,0,0
+80,3,"Oct 3, 1914",Pitt,21,Westminster (Pennsylvania),10,1
+81,3,"Oct 3, 1914",Princeton,10,Bucknell,0,0
+82,3,"Oct 3, 1914",Wabash,3,Purdue,27,1
+83,3,"Oct 3, 1914",Wofford,0,Riverside,0,0
+84,3,"Oct 3, 1914",Rutgers,32,Rensselaer,0,0
+85,3,"Oct 3, 1914",Sewanee,59,Cumberland,0,0
+86,3,"Oct 3, 1914",TCU,9,Southwestern (TX),10,1
+87,3,"Oct 3, 1914",Syracuse,81,Hamilton,0,0
+88,3,"Oct 3, 1914",Tennessee,55,King,3,0
+89,3,"Oct 3, 1914",Texas,30,Trinity (Texas),0,0
+90,3,"Oct 3, 1914",Texas A&M,32,Austin,0,0
+91,3,"Oct 3, 1914",Lafayette,7,Ursinus,7,0
+92,3,"Oct 3, 1914",Henderson State,6,Vanderbilt,42,1
+93,3,"Oct 3, 1914",Virginia Military Institute,10,Richmond,0,0
+94,3,"Oct 3, 1914",Virginia Tech,13,Randolph-Macon,0,0
+95,3,"Oct 3, 1914",Washington & Jefferson,105,Dickinson,0,0
+96,3,"Oct 3, 1914",Washington & Lee,103,Morris Harvey,0,0
+97,3,"Oct 3, 1914",Shurtleff,7,Washington (MO),62,1
+98,3,"Oct 3, 1914",West Virginia,20,Marshall,0,0
+99,3,"Oct 3, 1914",Wisconsin,21,Lawrence,0,0
+100,3,"Oct 3, 1914",Yale,21,Virginia,0,0
+101,4,"Oct 7, 1914",Mount Union,7,Michigan,27,1
+102,4,"Oct 8, 1914",North Carolina,53,Wake Forest,0,0
+103,4,"Oct 9, 1914",Oklahoma,96,East Central Oklahoma,6,0
+104,4,"Oct 10, 1914",Alabama,54,Birmingham,0,0
+105,4,"Oct 10, 1914",Brown,0,Amherst,0,0
+106,4,"Oct 10, 1914",Army,13,Rutgers,0,0
+107,4,"Oct 10, 1914",Auburn,20,Florida,0,1
+108,4,"Oct 10, 1914",Chicago,28,Northwestern,0,0
+109,4,"Oct 10, 1914",Christian Brothers,6,Haskell,0,1
+110,4,"Oct 10, 1914",Citadel,12,Porter Military,0,0
+111,4,"Oct 10, 1914",Colgate,25,Massachusetts,0,0
+112,4,"Oct 10, 1914",Colorado Mines,6,Colorado,2,0
+113,4,"Oct 10, 1914",Cornell,21,Carlisle,0,0
+114,4,"Oct 10, 1914",Williams,3,Dartmouth,21,0
+115,4,"Oct 10, 1914",Newberry,6,Davidson,20,1
+116,4,"Oct 10, 1914",Denver,7,Denver Alumni,3,0
+117,4,"Oct 10, 1914",Grinnell,7,Drake,20,1
+118,4,"Oct 10, 1914",Kansas State,0,Emporia State,0,0
+119,4,"Oct 10, 1914",Furman,19,Wofford,12,0
+120,4,"Oct 10, 1914",Georgia,7,Sewanee,6,1
+121,4,"Oct 10, 1914",Georgia Tech,105,Mercer,0,0
+122,4,"Oct 10, 1914",Washington & Jefferson,9,Harvard,10,1
+123,4,"Oct 10, 1914",Illinois,51,Indiana,0,0
+124,4,"Oct 10, 1914",Iowa,49,Cornell College,0,0
+125,4,"Oct 10, 1914",Kansas,7,Emporia College,0,0
+126,4,"Oct 10, 1914",Pennsylvania,0,Lafayette,0,0
+127,4,"Oct 10, 1914",LSU,14,Mississippi College,0,0
+128,4,"Oct 10, 1914",Vanderbilt,3,Michigan,23,1
+129,4,"Oct 10, 1914",Minnesota,26,Iowa State,0,0
+130,4,"Oct 10, 1914",Ole Miss,14,Rhodes,0,0
+131,4,"Oct 10, 1914",Mississippi State,77,Cumberland,0,0
+132,4,"Oct 10, 1914",Missouri,46,William Jewell,0,0
+133,4,"Oct 10, 1914",Missouri-Rolla,19,Washington (MO),0,1
+134,4,"Oct 10, 1914",Notre Dame,103,Rose-Hulman,0,0
+135,4,"Oct 10, 1914",Ohio State,7,Case,6,1
+136,4,"Oct 10, 1914",Oklahoma State,48,Tonkawa Preparatory,0,1
+137,4,"Oct 10, 1914",Arkansas,9,Ouachita,15,0
+138,4,"Oct 10, 1914",Penn State,13,Gettysburg,0,0
+139,4,"Oct 10, 1914",Navy,6,Pitt,13,0
+140,4,"Oct 10, 1914",Syracuse,7,Princeton,12,1
+141,4,"Oct 10, 1914",Purdue,26,Western Reserve,0,0
+142,4,"Oct 10, 1914",Southwestern (TX),7,Rice,12,1
+143,4,"Oct 10, 1914",Nebraska,0,South Dakota,0,0
+144,4,"Oct 10, 1914",Swarthmore,9,Bucknell,0,0
+145,4,"Oct 10, 1914",Tennessee,27,Clemson,0,0
+146,4,"Oct 10, 1914",Texas,57,Baylor,0,1
+147,4,"Oct 10, 1914",TCU,20,Oklahoma Mines,0,0
+148,4,"Oct 10, 1914",Texas A&M,0,Trinity (Texas),0,0
+149,4,"Oct 10, 1914",Utah,20,Wyoming,0,0
+150,4,"Oct 10, 1914",Utah State,20,Utah State Alumni,0,0
+151,4,"Oct 10, 1914",Virginia,62,Richmond,0,0
+152,4,"Oct 10, 1914",Virginia Military Institute,38,William & Mary,0,0
+153,4,"Oct 10, 1914",Virginia Tech,22,Hampden-Sydney,0,0
+154,4,"Oct 10, 1914",Wake Forest,13,USS Franklin,0,0
+155,4,"Oct 10, 1914",Washington & Lee,69,Roanoke,0,0
+156,4,"Oct 10, 1914",West Virginia,13,Bethany (West Virginia),0,0
+157,4,"Oct 10, 1914",West Virginia Wesleyan,34,Marshall,0,0
+158,4,"Oct 10, 1914",Wisconsin,48,Marquette,0,0
+159,4,"Oct 10, 1914",Lehigh,3,Yale,20,1
+160,4,"Oct 12, 1914",North Carolina,48,South Carolina,0,0
+161,5,"Oct 16, 1914",Tulsa,6,Oklahoma State,13,1
+162,5,"Oct 17, 1914",Alabama,13,Georgia Tech,0,0
+163,5,"Oct 17, 1914",Arkansas,26,Saint Louis,0,0
+164,5,"Oct 17, 1914",Colgate,7,Army,21,1
+165,5,"Oct 17, 1914",Auburn,28,Clemson,0,0
+166,5,"Oct 17, 1914",Brown,16,Wesleyan (CT),0,0
+167,5,"Oct 17, 1914",Chicago,7,Iowa,0,0
+168,5,"Oct 17, 1914",Colorado State,6,Colorado,33,0
+169,5,"Oct 17, 1914",Utah,7,Colorado College,46,0
+170,5,"Oct 17, 1914",Colorado Mines,25,Wyoming,0,1
+171,5,"Oct 17, 1914",Cornell,48,Bucknell,0,0
+172,5,"Oct 17, 1914",Dartmouth,42,Vermont,0,1
+173,5,"Oct 17, 1914",Davidson,81,Wofford,5,0
+174,5,"Oct 17, 1914",Denver,82,Kearney,0,0
+175,5,"Oct 17, 1914",Drury,28,Washington (MO),26,0
+176,5,"Oct 17, 1914",Florida,36,King,0,0
+177,5,"Oct 17, 1914",Tufts,6,Harvard,13,1
+178,5,"Oct 17, 1914",Haskell,38,Creighton,0,1
+179,5,"Oct 17, 1914",Illinois,37,Ohio State,0,0
+180,5,"Oct 17, 1914",Indiana,27,Northwestern,0,0
+181,5,"Oct 17, 1914",Drake,7,Kansas,32,0
+182,5,"Oct 17, 1914",Kentucky,19,Mississippi State,13,0
+183,5,"Oct 17, 1914",Lehigh,24,Carnegie Mellon,20,1
+184,5,"Oct 17, 1914",Michigan,3,Michigan State,0,1
+185,5,"Oct 17, 1914",South Dakota,7,Minnesota,29,1
+186,5,"Oct 17, 1914",Ole Miss,21,LSU,0,1
+187,5,"Oct 17, 1914",Montana State,52,Utah State,3,1
+188,5,"Oct 17, 1914",Nebraska,31,Kansas State,0,1
+189,5,"Oct 17, 1914",Porter Military,7,Newberry,20,0
+190,5,"Oct 17, 1914",Georgia,6,North Carolina,41,0
+191,5,"Oct 17, 1914",Oklahoma,13,Missouri,0,0
+192,5,"Oct 17, 1914",Penn State,30,Ursinus,0,0
+193,5,"Oct 17, 1914",Navy,6,Pennsylvania,13,1
+194,5,"Oct 17, 1914",Carlisle,3,Pitt,10,1
+195,5,"Oct 17, 1914",Princeton,16,Lafayette,0,0
+196,5,"Oct 17, 1914",Muhlenberg,7,Rutgers,17,1
+197,5,"Oct 17, 1914",Sewanee,46,Chattanooga,3,0
+198,5,"Oct 17, 1914",Syracuse,19,Rochester,0,0
+199,5,"Oct 17, 1914",Tennessee,66,Louisville,0,1
+200,5,"Oct 17, 1914",Texas,41,Rice,0,0
+201,5,"Oct 17, 1914",Texas A&M,40,TCU,0,0
+202,5,"Oct 17, 1914",Trinity (Texas),7,Baylor,0,1
+203,5,"Oct 17, 1914",Tulane,33,Louisiana,0,0
+204,5,"Oct 17, 1914",Vanderbilt,59,Centre,0,0
+205,5,"Oct 17, 1914",South Carolina,7,Virginia,49,1
+206,5,"Oct 17, 1914",Virginia Military Institute,6,Gallaudet,0,0
+207,5,"Oct 17, 1914",Washington & Jefferson,28,Westminster (Pennsylvania),0,0
+208,5,"Oct 17, 1914",Washington & Lee,14,Georgetown,0,1
+209,5,"Oct 17, 1914",West Virginia,37,Duquesne,0,0
+210,5,"Oct 17, 1914",West Virginia Wesleyan,13,Virginia Tech,0,0
+211,5,"Oct 17, 1914",Purdue,7,Wisconsin,14,1
+212,5,"Oct 17, 1914",Yale,28,Notre Dame,0,0
+213,6,"Oct 20, 1914",North Carolina,40,Riverside,0,0
+214,6,"Oct 22, 1914",Clemson,57,Furman,0,1
+215,6,"Oct 22, 1914",NC State,26,West Virginia,13,0
+216,6,"Oct 23, 1914",Haskell,10,Texas A&M,0,1
+217,6,"Oct 24, 1914",Army,14,Holy Cross,0,0
+218,6,"Oct 24, 1914",Auburn,19,Mississippi State,0,0
+219,6,"Oct 24, 1914",Bucknell,43,Susquehanna,0,0
+220,6,"Oct 24, 1914",Chicago,21,Purdue,0,0
+221,6,"Oct 24, 1914",Colgate,42,Vermont,0,0
+222,6,"Oct 24, 1914",Utah,6,Colorado Mines,13,1
+223,6,"Oct 24, 1914",Colorado State,48,Wyoming,10,1
+224,6,"Oct 24, 1914",Brown,7,Cornell,28,1
+225,6,"Oct 24, 1914",Davidson,16,Citadel,0,0
+226,6,"Oct 24, 1914",Washington (MO),7,Drake,7,0
+227,6,"Oct 24, 1914",Virginia Military Institute,7,Georgia Tech,28,1
+228,6,"Oct 24, 1914",Gonzaga,60,Utah State,0,0
+229,6,"Oct 24, 1914",Illinois,33,Northwestern,0,1
+230,6,"Oct 24, 1914",Indiana,48,Miami (OH),3,0
+231,6,"Oct 24, 1914",Iowa State,6,Missouri,0,1
+232,6,"Oct 24, 1914",Villanova,3,Lafayette,14,1
+233,6,"Oct 24, 1914",Lehigh,27,Muhlenberg,0,1
+234,6,"Oct 24, 1914",LSU,14,Jefferson (LA),13,0
+235,6,"Oct 24, 1914",Minnesota,7,Iowa,0,1
+236,6,"Oct 24, 1914",Missouri-Rolla,44,Arkansas,0,1
+237,6,"Oct 24, 1914",Navy,48,Western Reserve,0,0
+238,6,"Oct 24, 1914",Nebraska,24,Michigan State,0,0
+239,6,"Oct 24, 1914",South Carolina,13,Newberry,13,0
+240,6,"Oct 24, 1914",Vanderbilt,9,North Carolina,10,0
+241,6,"Oct 24, 1914",Notre Dame,33,South Dakota,0,0
+242,6,"Oct 24, 1914",Oklahoma State,60,Baylor,0,0
+243,6,"Oct 24, 1914",Harvard,13,Penn State,13,0
+244,6,"Oct 24, 1914",Pennsylvania,7,Carlisle,0,0
+245,6,"Oct 24, 1914",Pitt,21,Georgetown,0,0
+246,6,"Oct 24, 1914",Princeton,16,Dartmouth,12,0
+247,6,"Oct 24, 1914",Virginia Tech,7,Roanoke,7,0
+248,6,"Oct 24, 1914",Tufts,7,Rutgers,16,1
+249,6,"Oct 24, 1914",Sewanee,26,Florida,0,1
+250,6,"Oct 24, 1914",Michigan,6,Syracuse,20,1
+251,6,"Oct 24, 1914",Alabama,7,Tennessee,17,1
+252,6,"Oct 24, 1914",Oklahoma,7,Texas,32,1
+253,6,"Oct 24, 1914",Rice,0,TCU,0,0
+254,6,"Oct 24, 1914",Tulane,82,Centenary (LA),0,0
+255,6,"Oct 24, 1914",Virginia,28,Georgia,0,0
+256,6,"Oct 24, 1914",Yale,7,Washington & Jefferson,13,0
+257,6,"Oct 24, 1914",Washington & Lee,72,Wake Forest,0,0
+258,6,"Oct 24, 1914",West Virginia Wesleyan,21,Dickinson,0,0
+259,6,"Oct 24, 1914",Wisconsin,7,Ohio State,6,1
+260,6,"Oct 24, 1914",Wofford,7,Presbyterian,0,0
+261,6,"Oct 26, 1914",Kansas,28,Kansas State,0,0
+262,7,"Oct 27, 1914",Jefferson (LA),7,Tulane,24,1
+263,7,"Oct 28, 1914",Mississippi College,7,Ole Miss,7,0
+264,7,"Oct 29, 1914",South Carolina,6,Clemson,29,0
+265,7,"Oct 31, 1914",Alabama,58,Tulane,0,0
+266,7,"Oct 31, 1914",Army,41,Villanova,0,0
+267,7,"Oct 31, 1914",Vermont,9,Brown,12,1
+268,7,"Oct 31, 1914",Muhlenberg,0,Bucknell,0,0
+269,7,"Oct 31, 1914",Wisconsin,0,Chicago,0,0
+270,7,"Oct 31, 1914",Clemson,14,Citadel,0,1
+271,7,"Oct 31, 1914",Colorado College,7,Colorado,10,0
+272,7,"Oct 31, 1914",Denver,6,Colorado State,19,0
+273,7,"Oct 31, 1914",Cornell,48,Holy Cross,3,0
+274,7,"Oct 31, 1914",Dartmouth,32,Amherst,0,0
+275,7,"Oct 31, 1914",Florida,59,Florida Southern,0,0
+276,7,"Oct 31, 1914",Georgetown,27,West Virginia Wesleyan,0,0
+277,7,"Oct 31, 1914",Georgia Tech,20,Sewanee,0,0
+278,7,"Oct 31, 1914",Harvard,7,Michigan,0,0
+279,7,"Oct 31, 1914",Minnesota,6,Illinois,21,0
+280,7,"Oct 31, 1914",Lehigh,33,Johns Hopkins,0,0
+281,7,"Oct 31, 1914",Mississippi State,9,Georgia,0,1
+282,7,"Oct 31, 1914",Kansas State,3,Missouri,13,1
+283,7,"Oct 31, 1914",Montana,32,Utah State,0,0
+284,7,"Oct 31, 1914",Navy,16,NC State,14,0
+285,7,"Oct 31, 1914",Iowa State,7,Nebraska,20,1
+286,7,"Oct 31, 1914",Newberry,36,Wofford,0,0
+287,7,"Oct 31, 1914",Davidson,3,North Carolina,16,1
+288,7,"Oct 31, 1914",Haskell,7,Notre Dame,21,1
+289,7,"Oct 31, 1914",Kansas,16,Oklahoma,16,0
+290,7,"Oct 31, 1914",Oklahoma State,46,Arkansas,0,0
+291,7,"Oct 31, 1914",Ouachita,7,Ole Miss,0,0
+292,7,"Oct 31, 1914",Penn State,17,Lafayette,0,1
+293,7,"Oct 31, 1914",Swarthmore,6,Pennsylvania,40,1
+294,7,"Oct 31, 1914",Pitt,96,Dickinson,0,0
+295,7,"Oct 31, 1914",Daniel Baker,7,Rice,13,1
+296,7,"Oct 31, 1914",Carlisle,3,Syracuse,24,1
+297,7,"Oct 31, 1914",Tennessee,67,Chattanooga,0,0
+298,7,"Oct 31, 1914",Texas,70,Southwestern (TX),0,0
+299,7,"Oct 31, 1914",LSU,9,Texas A&M,63,1
+300,7,"Oct 31, 1914",Baylor,0,Trinity (Texas),0,0
+301,7,"Oct 31, 1914",Vanderbilt,7,Virginia,20,0
+302,7,"Oct 31, 1914",Wake Forest,19,Roanoke,0,0
+303,7,"Oct 31, 1914",Washington & Jefferson,48,West Virginia,0,0
+304,7,"Oct 31, 1914",Washington & Lee,7,Virginia Tech,6,0
+305,7,"Oct 31, 1914",Washington (MO),6,Saint Louis,0,1
+306,7,"Oct 31, 1914",Princeton,7,Williams,7,0
+307,7,"Oct 31, 1914",Colgate,7,Yale,49,1
+308,8,"Nov 4, 1914",South Carolina,25,Wofford,0,1
+309,8,"Nov 6, 1914",Oklahoma State,6,Oklahoma,23,1
+310,8,"Nov 7, 1914",Arkansas,20,LSU,12,0
+311,8,"Nov 7, 1914",Notre Dame,7,Army,20,1
+312,8,"Nov 7, 1914",Auburn,14,Georgia Tech,0,1
+313,8,"Nov 7, 1914",Baylor,28,TCU,14,0
+314,8,"Nov 7, 1914",Bucknell,42,Albright,0,0
+315,8,"Nov 7, 1914",Holy Cross,0,Carlisle,0,0
+316,8,"Nov 7, 1914",Citadel,14,Newberry,13,1
+317,8,"Nov 7, 1914",Clemson,35,Georgia,13,1
+318,8,"Nov 7, 1914",Colgate,18,Rochester,0,1
+319,8,"Nov 7, 1914",Colorado,33,Utah,0,0
+320,8,"Nov 7, 1914",Colorado College,24,Colorado State,13,1
+321,8,"Nov 7, 1914",Colorado Mines,18,Denver,0,1
+322,8,"Nov 7, 1914",Franklin & Marshall,3,Cornell,26,1
+323,8,"Nov 7, 1914",Dartmouth,68,Tufts,0,0
+324,8,"Nov 7, 1914",Florida,66,Wofford,0,0
+325,8,"Nov 7, 1914",NC State,7,Georgetown,7,0
+326,8,"Nov 7, 1914",Harvard,20,Princeton,0,0
+327,8,"Nov 7, 1914",Southwestern (TX),6,Henderson State,26,0
+328,8,"Nov 7, 1914",Iowa,27,Northwestern,0,1
+329,8,"Nov 7, 1914",Iowa State,69,Cornell College,0,0
+330,8,"Nov 7, 1914",Kansas,20,Washburn,14,1
+331,8,"Nov 7, 1914",Muhlenberg,3,Lafayette,24,1
+332,8,"Nov 7, 1914",Penn State,7,Lehigh,20,1
+333,8,"Nov 7, 1914",Michigan,34,Pennsylvania,3,0
+334,8,"Nov 7, 1914",Tulane,6,Ole Miss,21,0
+335,8,"Nov 7, 1914",Mississippi State,66,Mercer,0,0
+336,8,"Nov 7, 1914",Drake,7,Missouri,33,0
+337,8,"Nov 7, 1914",Navy,21,Fordham,0,0
+338,8,"Nov 7, 1914",Morningside,7,Nebraska,34,1
+339,8,"Nov 7, 1914",Virginia Military Institute,7,North Carolina,30,1
+340,8,"Nov 7, 1914",Indiana,3,Ohio State,13,0
+341,8,"Nov 7, 1914",Kentucky,6,Purdue,40,1
+342,8,"Nov 7, 1914",Syracuse,14,Rutgers,14,0
+343,8,"Nov 7, 1914",Sewanee,18,Alabama,0,1
+344,8,"Nov 7, 1914",South Carolina,26,Wake Forest,0,0
+345,8,"Nov 7, 1914",Tennessee,16,Vanderbilt,14,1
+346,8,"Nov 7, 1914",Haskell,7,Texas,23,1
+347,8,"Nov 7, 1914",Wyoming,3,Utah State,24,1
+348,8,"Nov 7, 1914",Virginia,88,St. John's (Maryland),0,0
+349,8,"Nov 7, 1914",Marshall,6,Virginia Tech,54,1
+350,8,"Nov 7, 1914",Washington & Jefferson,13,Pitt,10,1
+351,8,"Nov 7, 1914",Washington & Lee,10,Swarthmore,0,0
+352,8,"Nov 7, 1914",West Virginia,55,Davis & Elkins,0,0
+353,8,"Nov 7, 1914",Brown,6,Yale,14,1
+354,8,"Nov 9, 1914",Rice,7,Texas A&M,32,0
+355,9,"Nov 13, 1914",Alabama,63,Chattanooga,0,0
+356,9,"Nov 13, 1914",Michigan State,6,Penn State,3,1
+357,9,"Nov 13, 1914",Oklahoma,52,Kansas State,10,1
+358,9,"Nov 14, 1914",Army,28,Maine,0,0
+359,9,"Nov 14, 1914",Auburn,6,Vanderbilt,0,0
+360,9,"Nov 14, 1914",Baylor,14,Daniel Baker,0,0
+361,9,"Nov 14, 1914",Harvard,0,Brown,0,0
+362,9,"Nov 14, 1914",Bucknell,25,Gettysburg,0,1
+363,9,"Nov 14, 1914",Clemson,27,Virginia Military Institute,23,1
+364,9,"Nov 14, 1914",Syracuse,0,Colgate,0,0
+365,9,"Nov 14, 1914",Denver,7,Colorado College,61,1
+366,9,"Nov 14, 1914",Utah State,7,Colorado State,41,0
+367,9,"Nov 14, 1914",Cornell,28,Michigan,13,1
+368,9,"Nov 14, 1914",Dartmouth,41,Pennsylvania,0,1
+369,9,"Nov 14, 1914",South Carolina,7,Davidson,13,0
+370,9,"Nov 14, 1914",Northern Iowa,3,Drake,14,1
+371,9,"Nov 14, 1914",Florida,7,Citadel,0,1
+372,9,"Nov 14, 1914",Georgia Tech,7,Georgia,0,0
+373,9,"Nov 14, 1914",Haskell,31,LSU,0,1
+374,9,"Nov 14, 1914",Chicago,7,Illinois,21,1
+375,9,"Nov 14, 1914",Iowa State,6,Iowa,26,0
+376,9,"Nov 14, 1914",Albright,6,Lafayette,42,1
+377,9,"Nov 14, 1914",Lehigh,10,Villanova,0,0
+378,9,"Nov 14, 1914",Wisconsin,3,Minnesota,14,1
+379,9,"Nov 14, 1914",Arkansas,7,Ole Miss,13,0
+380,9,"Nov 14, 1914",Mississippi State,61,Tulane,0,0
+381,9,"Nov 14, 1914",Washington (MO),3,Missouri,26,1
+382,9,"Nov 14, 1914",Navy,31,Colby,21,0
+383,9,"Nov 14, 1914",Nebraska,35,Kansas,0,0
+384,9,"Nov 14, 1914",Furman,6,Newberry,13,0
+385,9,"Nov 14, 1914",Wake Forest,7,North Carolina,12,1
+386,9,"Nov 14, 1914",Carlisle,6,Notre Dame,48,1
+387,9,"Nov 14, 1914",Ohio State,39,Oberlin,0,0
+388,9,"Nov 14, 1914",Rice,13,Oklahoma State,13,0
+389,9,"Nov 14, 1914",Pitt,14,Carnegie Mellon,0,0
+390,9,"Nov 14, 1914",Northwestern,6,Purdue,34,0
+391,9,"Nov 14, 1914",Sewanee,7,Tennessee,14,1
+392,9,"Nov 14, 1914",TCU,13,Austin,0,0
+393,9,"Nov 14, 1914",Utah,34,Occidental,14,0
+394,9,"Nov 14, 1914",Virginia,47,Swarthmore,0,1
+395,9,"Nov 14, 1914",Virginia Tech,3,NC State,0,0
+396,9,"Nov 14, 1914",West Virginia Wesleyan,6,Washington & Jefferson,59,0
+397,9,"Nov 14, 1914",Washington & Lee,8,West Virginia,6,0
+398,9,"Nov 14, 1914",Yale,19,Princeton,14,1
+399,10,"Nov 17, 1914",Ole Miss,7,Texas,66,1
+400,10,"Nov 19, 1914",Newberry,6,South Carolina,47,0
+401,10,"Nov 20, 1914",Rice,14,Baylor,13,0
+402,10,"Nov 20, 1914",Southwestern (TX),18,Ole Miss,0,0
+403,10,"Nov 21, 1914",Springfield,6,Army,13,1
+404,10,"Nov 21, 1914",Georgia,0,Auburn,0,0
+405,10,"Nov 21, 1914",Carlisle,34,Dickinson,0,0
+406,10,"Nov 21, 1914",Colorado Mines,19,Colorado State,0,0
+407,10,"Nov 21, 1914",Daniel Baker,33,TCU,0,0
+408,10,"Nov 21, 1914",Dartmouth,40,Syracuse,0,0
+409,10,"Nov 21, 1914",Denver,31,Wyoming,0,1
+410,10,"Nov 21, 1914",Harvard,36,Yale,0,1
+411,10,"Nov 21, 1914",Wisconsin,9,Illinois,24,0
+412,10,"Nov 21, 1914",Iowa State,52,Drake,0,1
+413,10,"Nov 21, 1914",Lafayette,7,Lehigh,17,0
+414,10,"Nov 21, 1914",Chicago,7,Minnesota,13,0
+415,10,"Nov 21, 1914",Kansas,7,Missouri,10,0
+416,10,"Nov 21, 1914",Navy,33,Ursinus,2,0
+417,10,"Nov 21, 1914",Iowa,7,Nebraska,16,0
+418,10,"Nov 21, 1914",Ohio State,27,Northwestern,0,0
+419,10,"Nov 21, 1914",Arkansas,7,Oklahoma,35,1
+420,10,"Nov 21, 1914",Purdue,23,Indiana,13,0
+421,10,"Nov 21, 1914",Rutgers,83,Stevens,0,1
+422,10,"Nov 21, 1914",Sewanee,14,Vanderbilt,13,1
+423,10,"Nov 21, 1914",Texas A&M,24,Oklahoma State,0,0
+424,10,"Nov 21, 1914",Georgetown,6,Washington & Jefferson,14,0
+425,10,"Nov 21, 1914",West Virginia,6,Marietta,0,0
+426,11,"Nov 24, 1914",Delaware,33,Carlisle,0,0
+427,11,"Nov 25, 1914",Washburn,26,Kansas State,16,1
+428,11,"Nov 26, 1914",Brown,20,Carlisle,14,0
+429,11,"Nov 26, 1914",Colorado,6,Denver,0,1
+430,11,"Nov 26, 1914",Colorado College,7,Colorado Mines,7,0
+431,11,"Nov 26, 1914",Cornell,24,Pennsylvania,12,1
+432,11,"Nov 26, 1914",Davidson,7,Wake Forest,6,0
+433,11,"Nov 26, 1914",Florida,14,Mercer,0,0
+434,11,"Nov 26, 1914",Gallaudet,7,Georgetown,12,1
+435,11,"Nov 26, 1914",Clemson,6,Georgia Tech,26,1
+436,11,"Nov 26, 1914",Dickinson,7,Lafayette,56,1
+437,11,"Nov 26, 1914",Tulane,0,LSU,0,0
+438,11,"Nov 26, 1914",Mississippi State,9,Alabama,0,1
+439,11,"Nov 26, 1914",Notre Dame,20,Syracuse,0,1
+440,11,"Nov 26, 1914",Oklahoma,33,Haskell,12,1
+441,11,"Nov 26, 1914",Oklahoma State,7,Colorado State,0,0
+442,11,"Nov 26, 1914",Penn State,3,Pitt,13,1
+443,11,"Nov 26, 1914",Austin,0,Rice,0,0
+444,11,"Nov 26, 1914",Rutgers,33,New York University,0,1
+445,11,"Nov 26, 1914",South Carolina,7,Citadel,6,0
+446,11,"Nov 26, 1914",Southwestern (TX),7,Baylor,6,1
+447,11,"Nov 26, 1914",Kentucky,6,Tennessee,23,1
+448,11,"Nov 26, 1914",Texas,39,Wabash,0,0
+449,11,"Nov 26, 1914",Ole Miss,7,Texas A&M,14,1
+450,11,"Nov 26, 1914",TCU,14,Howard Payne,0,1
+451,11,"Nov 26, 1914",Utah,20,Utah State,2,0
+452,11,"Nov 26, 1914",North Carolina,3,Virginia,20,1
+453,11,"Nov 26, 1914",Virginia Tech,3,Virginia Military Institute,0,0
+454,11,"Nov 26, 1914",Washington & Jefferson,34,Bucknell,0,0
+455,11,"Nov 26, 1914",Washington & Lee,7,NC State,0,0
+456,11,"Nov 26, 1914",West Virginia,9,West Virginia Wesleyan,14,1
+457,11,"Nov 28, 1914",Army,20,Navy,0,0
+458,11,"Nov 28, 1914",Arkansas,7,Drury,28,1
+459,11,"Nov 28, 1914",Carlisle,6,New England All-Stars,13,1
+460,11,"Nov 28, 1914",Wofford,7,Newberry,15,0
+461,11,"Nov 28, 1914",Washington & Jefferson,20,Rutgers,13,1
+462,11,"Nov 30, 1914",Tulsa,7,Oklahoma,26,0
+463,12,"Dec 2, 1914",Alabama,3,Carlisle,20,0
+464,12,"Dec 5, 1914",Auburn,7,Carlisle,0,0
+465,12,"Dec 5, 1914",Denver,20,Sacred Heart,0,0
+466,12,"Dec 5, 1914",TCU,7,Trinity (Texas),7,0
+467,12,"Dec 5, 1914",Wake Forest,41,Wofford,0,0

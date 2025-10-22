@@ -1,0 +1,576 @@
+0,1,"Sep 21, 1929",Baylor,88,Stephen F. Austin,0,0
+1,1,"Sep 21, 1929",Clemson,68,Newberry,0,0
+2,1,"Sep 21, 1929",Elon,6,Davidson,20,1
+3,1,"Sep 21, 1929",Wabash,2,Indiana,19,1
+4,1,"Sep 21, 1929",Anaconda Anodes,2,Montana,18,1
+5,1,"Sep 21, 1929",Montana State,25,Centerville (Butte),0,0
+6,1,"Sep 21, 1929",Willamette,6,Oregon State,37,1
+7,1,"Sep 21, 1929",North Texas,3,SMU,13,1
+8,1,"Sep 21, 1929",Stanford,45,West Coast Army,0,0
+9,1,"Sep 21, 1929",Virginia Military Institute,19,Hampden-Sydney,0,0
+10,1,"Sep 21, 1929",Wake Forest,20,Catawba College,0,0
+11,1,"Sep 21, 1929",West Virginia,16,West Virginia Wesleyan,0,0
+12,2,"Sep 27, 1929",Auburn,7,Birmingham-Southern,0,0
+13,2,"Sep 27, 1929",Henderson State,7,Mississippi State,0,1
+14,2,"Sep 27, 1929",Washington (Maryland),7,Maryland,34,1
+15,2,"Sep 27, 1929",Black Hills State,6,Wyoming,13,1
+16,2,"Sep 28, 1929",Alabama,55,Mississippi College,0,0
+17,2,"Sep 28, 1929",Arkansas,37,Ozarks,0,0
+18,2,"Sep 28, 1929",Army,26,Boston University,0,0
+19,2,"Sep 28, 1929",Baylor,32,North Texas,0,0
+20,2,"Sep 28, 1929",Nevada,7,BYU,10,0
+21,2,"Sep 28, 1929",Santa Clara,6,California,27,1
+22,2,"Sep 28, 1929",Clemson,32,Davidson,14,0
+23,2,"Sep 28, 1929",Colgate,59,St. Lawrence,0,0
+24,2,"Sep 28, 1929",Colorado State,14,Regis (CO),0,1
+25,2,"Sep 28, 1929",Middlebury,6,Columbia,38,1
+26,2,"Sep 28, 1929",Cornell,60,Clarkson,0,0
+27,2,"Sep 28, 1929",Dartmouth,67,Norwich,0,0
+28,2,"Sep 28, 1929",West Virginia,6,Davis & Elkins,13,0
+29,2,"Sep 28, 1929",DePaul,7,Detroit Mercy,27,1
+30,2,"Sep 28, 1929",Drake,39,Simpson,0,0
+31,2,"Sep 28, 1929",Mercer,6,Duke,19,0
+32,2,"Sep 28, 1929",Florida,54,Florida Southern,0,0
+33,2,"Sep 28, 1929",Fordham,43,Westminster (Pennsylvania),0,0
+34,2,"Sep 28, 1929",Georgetown,26,Mount St. Mary's,0,0
+35,2,"Sep 28, 1929",Grinnell,13,William Penn,0,0
+36,2,"Sep 28, 1929",SMU,13,Howard Payne,13,0
+37,2,"Sep 28, 1929",Montana State,6,Idaho,39,1
+38,2,"Sep 28, 1929",LSU,58,Louisiana College,0,0
+39,2,"Sep 28, 1929",Loyola (LA),38,Rice,0,1
+40,2,"Sep 28, 1929",Michigan,39,Albion,0,0
+41,2,"Sep 28, 1929",Mount Union,6,Michigan,16,1
+42,2,"Sep 28, 1929",Alma,6,Michigan State,59,1
+43,2,"Sep 28, 1929",Montana,19,Carroll (Montana),0,0
+44,2,"Sep 28, 1929",Navy,47,Denison,0,0
+45,2,"Sep 28, 1929",New York University,77,Vermont,0,0
+46,2,"Sep 28, 1929",North Carolina,48,Wake Forest,0,0
+47,2,"Sep 28, 1929",Georgia,6,Oglethorpe,13,0
+48,2,"Sep 28, 1929",Ohio,18,Indiana,0,1
+49,2,"Sep 28, 1929",Oklahoma State,12,Northwestern Oklahoma State,0,0
+50,2,"Sep 28, 1929",Oregon State,19,California-Davis,0,0
+51,2,"Sep 28, 1929",Penn State,16,Niagara,0,0
+52,2,"Sep 28, 1929",Franklin & Marshall,7,Pennsylvania,14,1
+53,2,"Sep 28, 1929",Pitt,53,Waynesburg,0,0
+54,2,"Sep 28, 1929",Sewanee,46,Tennessee Tech,0,0
+55,2,"Sep 28, 1929",Erskine,7,South Carolina,26,1
+56,2,"Sep 28, 1929",USC,76,UCLA,0,0
+57,2,"Sep 28, 1929",Brown,6,Springfield,14,1
+58,2,"Sep 28, 1929",Stanford,6,Olympic Club,0,0
+59,2,"Sep 28, 1929",Syracuse,77,Hobart,0,0
+60,2,"Sep 28, 1929",Tennessee,40,Centre,0,0
+61,2,"Sep 28, 1929",Southwestern (TX),7,Texas A&M,54,1
+62,2,"Sep 28, 1929",TCU,61,Daniel Baker,0,0
+63,2,"Sep 28, 1929",Northwestern State,6,Tulane,40,1
+64,2,"Sep 28, 1929",Ole Miss,7,Vanderbilt,19,1
+65,2,"Sep 28, 1929",Randolph-Macon,6,Virginia,27,1
+66,2,"Sep 28, 1929",Virginia Military Institute,40,Richmond,0,1
+67,2,"Sep 28, 1929",Virginia Tech,19,Roanoke,0,0
+68,2,"Sep 28, 1929",Washington,47,Whitman,0,0
+69,2,"Sep 28, 1929",Washington & Jefferson,33,Ohio Northern,0,0
+70,2,"Sep 28, 1929",Washington & Lee,64,Lynchburg,6,0
+71,2,"Sep 28, 1929",Washington State,48,Albertson,0,0
+72,2,"Sep 28, 1929",Wisconsin,21,South Dakota State,0,0
+73,2,"Sep 28, 1929",Wisconsin,22,Ripon,0,0
+74,2,"Sep 29, 1929",Iowa,46,Carroll (Wisconsin),0,0
+75,2,"Sep 29, 1929",Oregon,58,Pacific (Oregon),0,0
+76,2,"Sep 29, 1929",Texas,13,St. Edward's,0,0
+77,3,"Oct 4, 1929",Wyoming,7,Colorado State,20,1
+78,3,"Oct 4, 1929",NC State,6,Washington & Lee,27,0
+79,3,"Oct 5, 1929",Ole Miss,7,Alabama,22,1
+80,3,"Oct 5, 1929",Henderson State,7,Arkansas,30,1
+81,3,"Oct 5, 1929",Gettysburg,7,Army,33,1
+82,3,"Oct 5, 1929",Baylor,43,Trinity (Texas),0,0
+83,3,"Oct 5, 1929",Rhode Island,6,Brown,14,1
+84,3,"Oct 5, 1929",Carnegie Mellon,21,Bethany (West Virginia),0,0
+85,3,"Oct 5, 1929",Chicago,27,Beloit,0,0
+86,3,"Oct 5, 1929",Chicago,9,Lake Forest,6,0
+87,3,"Oct 5, 1929",Auburn,7,Clemson,26,1
+88,3,"Oct 5, 1929",Colorado,27,Regis (CO),13,0
+89,3,"Oct 5, 1929",Columbia,31,Union (NY),0,0
+90,3,"Oct 5, 1929",Niagara,6,Cornell,22,1
+91,3,"Oct 5, 1929",Creighton,18,St. Mary's (Kansas),0,1
+92,3,"Oct 5, 1929",Dartmouth,68,Hobart,0,0
+93,3,"Oct 5, 1929",Davidson,7,Wofford,0,1
+94,3,"Oct 5, 1929",Denver,7,Colorado Mines,0,0
+95,3,"Oct 5, 1929",Detroit Mercy,18,Dayton,0,0
+96,3,"Oct 5, 1929",Oklahoma State,6,Drake,18,1
+97,3,"Oct 5, 1929",West Virginia,7,Duquesne,7,0
+98,3,"Oct 5, 1929",Virginia Military Institute,7,Florida,12,1
+99,3,"Oct 5, 1929",Fordham,33,St. Bonaventure,0,0
+100,3,"Oct 5, 1929",Georgia,27,Furman,0,0
+101,3,"Oct 5, 1929",Georgia Tech,27,Mississippi State,13,0
+102,3,"Oct 5, 1929",Harvard,48,Bates,0,0
+103,3,"Oct 5, 1929",Whitman,7,Idaho,41,0
+104,3,"Oct 5, 1929",Illinois,25,Kansas,0,0
+105,3,"Oct 5, 1929",Grinnell,7,Iowa State,27,1
+106,3,"Oct 5, 1929",Kentucky,40,Maryville (TN),0,0
+107,3,"Oct 5, 1929",LSU,58,Louisiana,0,0
+108,3,"Oct 5, 1929",Marquette,40,Lawrence,0,1
+109,3,"Oct 5, 1929",Michigan,17,Michigan State,0,0
+110,3,"Oct 5, 1929",Minnesota,39,Coe,0,0
+111,3,"Oct 5, 1929",Washington,6,Montana,6,0
+112,3,"Oct 5, 1929",Navy,15,William & Mary,0,0
+113,3,"Oct 5, 1929",New York University,26,West Virginia Wesleyan,0,0
+114,3,"Oct 5, 1929",North Carolina,43,Maryland,0,1
+115,3,"Oct 5, 1929",Northwestern,13,Butler,0,0
+116,3,"Oct 5, 1929",Northwestern,27,Cornell College,18,0
+117,3,"Oct 5, 1929",Notre Dame,14,Indiana,0,1
+118,3,"Oct 5, 1929",Ohio State,19,Wittenberg,0,0
+119,3,"Oct 5, 1929",Penn State,15,Lebanon Valley,0,0
+120,3,"Oct 5, 1929",Swarthmore,6,Pennsylvania,20,1
+121,3,"Oct 5, 1929",Duke,7,Pitt,52,0
+122,3,"Oct 5, 1929",Princeton,7,Amherst,0,0
+123,3,"Oct 5, 1929",Purdue,26,Kansas State,14,0
+124,3,"Oct 5, 1929",Rice,7,Sam Houston,2,0
+125,3,"Oct 5, 1929",California,0,Saint Mary's (CA),0,0
+126,3,"Oct 5, 1929",Oregon State,7,USC,21,1
+127,3,"Oct 5, 1929",Nebraska,0,SMU,0,0
+128,3,"Oct 5, 1929",Oregon,7,Stanford,33,1
+129,3,"Oct 5, 1929",Syracuse,55,St. Lawrence,0,0
+130,3,"Oct 5, 1929",Tennessee,20,Chattanooga,0,1
+131,3,"Oct 5, 1929",Texas,20,Centenary (LA),0,0
+132,3,"Oct 5, 1929",TCU,20,Hardin-Simmons,0,1
+133,3,"Oct 5, 1929",Sewanee,6,Transylvania,6,0
+134,3,"Oct 5, 1929",Tulane,13,Texas A&M,10,0
+135,3,"Oct 5, 1929",Fresno State,6,UCLA,56,1
+136,3,"Oct 5, 1929",Utah,31,Nevada,0,0
+137,3,"Oct 5, 1929",Utah State,9,Montana State,0,1
+138,3,"Oct 5, 1929",Ouachita,6,Vanderbilt,26,1
+139,3,"Oct 5, 1929",Virginia,6,South Carolina,0,1
+140,3,"Oct 5, 1929",Hampden-Sydney,6,Virginia Tech,37,1
+141,3,"Oct 5, 1929",Wake Forest,19,Richmond,0,1
+142,3,"Oct 5, 1929",Washington & Jefferson,60,Ashland,0,0
+143,3,"Oct 5, 1929",Illinois College,7,Washington (MO),34,1
+144,3,"Oct 5, 1929",Washington State,38,Carroll (Montana),0,0
+145,3,"Oct 5, 1929",Western Maryland,7,Georgetown,0,1
+146,3,"Oct 5, 1929",Western State,32,Montezuma,0,0
+147,3,"Oct 5, 1929",Colgate,6,Wisconsin,13,1
+148,3,"Oct 5, 1929",Yale,89,Vermont,0,0
+149,3,"Oct 6, 1929",California-Davis,19,BYU,0,0
+150,3,"Oct 6, 1929",Iowa,46,Monmouth,0,0
+151,4,"Oct 11, 1929",Clemson,26,NC State,0,0
+152,4,"Oct 11, 1929",Florida,19,Auburn,0,1
+153,4,"Oct 11, 1929",Georgia Tech,7,North Carolina,18,0
+154,4,"Oct 11, 1929",SMU,16,Austin,0,0
+155,4,"Oct 11, 1929",Elon,6,Wake Forest,25,1
+156,4,"Oct 12, 1929",Alabama,46,Chattanooga,0,0
+157,4,"Oct 12, 1929",Davidson,7,Army,23,1
+158,4,"Oct 12, 1929",Baylor,19,St. Edward's,0,0
+159,4,"Oct 12, 1929",Brown,13,Princeton,12,1
+160,4,"Oct 12, 1929",California,14,Washington State,0,0
+161,4,"Oct 12, 1929",Carnegie Mellon,26,Thiel,0,0
+162,4,"Oct 12, 1929",Indiana,7,Chicago,13,1
+163,4,"Oct 12, 1929",Colgate,31,Michigan State,0,0
+164,4,"Oct 12, 1929",Colorado,19,Northern Colorado,0,0
+165,4,"Oct 12, 1929",Colorado College,14,Colorado State,13,0
+166,4,"Oct 12, 1929",Colorado Mines,20,Western State,13,1
+167,4,"Oct 12, 1929",Columbia,52,Wesleyan (CT),0,0
+168,4,"Oct 12, 1929",Hampden-Sydney,6,Cornell,40,1
+169,4,"Oct 12, 1929",Dartmouth,53,Allegheny,0,0
+170,4,"Oct 12, 1929",Wyoming,6,Denver,19,1
+171,4,"Oct 12, 1929",Tulsa,6,Detroit Mercy,21,1
+172,4,"Oct 12, 1929",Drake,20,Washington (MO),0,1
+173,4,"Oct 12, 1929",Fordham,26,New York University,0,0
+174,4,"Oct 12, 1929",Georgetown,13,Saint Louis,0,1
+175,4,"Oct 12, 1929",Georgia,15,Yale,0,0
+176,4,"Oct 12, 1929",Grinnell,9,Marquette,7,1
+177,4,"Oct 12, 1929",Harvard,35,New Hampshire,0,0
+178,4,"Oct 12, 1929",Idaho,19,Montana,0,0
+179,4,"Oct 12, 1929",Illinois,45,Bradley,0,0
+180,4,"Oct 12, 1929",Kansas,38,Emporia State,0,0
+181,4,"Oct 12, 1929",Washington & Lee,6,Kentucky,20,1
+182,4,"Oct 12, 1929",LSU,27,Sewanee,14,0
+183,4,"Oct 12, 1929",Vanderbilt,6,Minnesota,15,1
+184,4,"Oct 12, 1929",Missouri,19,Iowa State,0,1
+185,4,"Oct 12, 1929",Montana State,13,BYU,12,1
+186,4,"Oct 12, 1929",Syracuse,6,Nebraska,13,0
+187,4,"Oct 12, 1929",Northwestern,7,Wisconsin,0,1
+188,4,"Oct 12, 1929",Navy,7,Notre Dame,14,0
+189,4,"Oct 12, 1929",Oklahoma,26,Creighton,0,0
+190,4,"Oct 12, 1929",Oklahoma State,18,Oklahoma City,0,1
+191,4,"Oct 12, 1929",Oregon,34,Willamette,0,0
+192,4,"Oct 12, 1929",Oregon State,71,Portland,7,0
+193,4,"Oct 12, 1929",Marshall,7,Penn State,26,1
+194,4,"Oct 12, 1929",Virginia Tech,8,Pennsylvania,14,1
+195,4,"Oct 12, 1929",West Virginia,7,Pitt,27,1
+196,4,"Oct 12, 1929",Purdue,30,Michigan,16,0
+197,4,"Oct 12, 1929",Regis (CO),13,Carroll (Montana),0,0
+198,4,"Oct 12, 1929",Southwestern (TX),6,Rice,14,1
+199,4,"Oct 12, 1929",Maryland,6,South Carolina,26,0
+200,4,"Oct 12, 1929",USC,48,Washington,0,1
+201,4,"Oct 12, 1929",Stanford,57,UCLA,0,1
+202,4,"Oct 12, 1929",Ole Miss,7,Tennessee,52,1
+203,4,"Oct 12, 1929",Texas,27,Arkansas,0,1
+204,4,"Oct 12, 1929",Texas A&M,19,Kansas State,0,0
+205,4,"Oct 12, 1929",TCU,28,Centenary (LA),0,1
+206,4,"Oct 12, 1929",Tulane,34,Mississippi State,0,0
+207,4,"Oct 12, 1929",Swarthmore,7,Virginia,12,1
+208,4,"Oct 12, 1929",Citadel,7,Virginia Military Institute,13,1
+209,4,"Oct 12, 1929",Bucknell,6,Washington & Jefferson,14,0
+210,4,"Oct 13, 1929",Ohio State,7,Iowa,6,0
+211,5,"Oct 17, 1929",NC State,8,Wake Forest,6,0
+212,5,"Oct 18, 1929",Clemson,30,Wofford,0,1
+213,5,"Oct 18, 1929",Iowa State,6,Marquette,14,1
+214,5,"Oct 18, 1929",Ole Miss,26,Loyola (LA),24,1
+215,5,"Oct 18, 1929",South Carolina,41,Presbyterian,0,0
+216,5,"Oct 19, 1929",Harvard,20,Army,20,0
+217,5,"Oct 19, 1929",Baylor,31,Arkansas,20,0
+218,5,"Oct 19, 1929",BYU,7,Utah State,6,0
+219,5,"Oct 19, 1929",Pennsylvania,7,California,12,0
+220,5,"Oct 19, 1929",Washington & Jefferson,0,Carnegie Mellon,0,0
+221,5,"Oct 19, 1929",Chicago,10,Ripon,0,0
+222,5,"Oct 19, 1929",Chicago,18,Indiana State,0,0
+223,5,"Oct 19, 1929",Indiana,6,Colgate,21,0
+224,5,"Oct 19, 1929",Colorado College,3,Denver,2,1
+225,5,"Oct 19, 1929",Colorado State,12,Colorado Mines,0,1
+226,5,"Oct 19, 1929",Princeton,7,Cornell,13,1
+227,5,"Oct 19, 1929",Dartmouth,34,Columbia,0,1
+228,5,"Oct 19, 1929",Davidson,7,Citadel,6,1
+229,5,"Oct 19, 1929",Fordham,7,Holy Cross,0,0
+230,5,"Oct 19, 1929",Georgetown,19,West Virginia Wesleyan,0,1
+231,5,"Oct 19, 1929",Georgia,19,North Carolina,12,1
+232,5,"Oct 19, 1929",Florida,6,Georgia Tech,19,1
+233,5,"Oct 19, 1929",Kansas State,6,Kansas,0,1
+234,5,"Oct 19, 1929",Kentucky,58,Carson-Newman,0,0
+235,5,"Oct 19, 1929",Mississippi State,6,LSU,31,0
+236,5,"Oct 19, 1929",Gallaudet,6,Maryland,13,1
+237,5,"Oct 19, 1929",Michigan State,74,Adrian,0,0
+238,5,"Oct 19, 1929",Minnesota,26,Northwestern,14,1
+239,5,"Oct 19, 1929",Missouri,20,Drake,0,0
+240,5,"Oct 19, 1929",Montana State,14,Montana,12,0
+241,5,"Oct 19, 1929",Navy,45,Duke,13,0
+242,5,"Oct 19, 1929",New York University,7,Penn State,0,0
+243,5,"Oct 19, 1929",Northern Colorado,6,Western State,0,0
+244,5,"Oct 19, 1929",Notre Dame,19,Wisconsin,0,0
+245,5,"Oct 19, 1929",Ohio State,7,Michigan,0,1
+246,5,"Oct 19, 1929",Oklahoma State,32,Creighton,13,0
+247,5,"Oct 19, 1929",Idaho,7,Oregon,34,1
+248,5,"Oct 19, 1929",Nebraska,7,Pitt,12,0
+249,5,"Oct 19, 1929",DePauw,7,Purdue,26,1
+250,5,"Oct 19, 1929",Cumberland,6,Sewanee,33,1
+251,5,"Oct 19, 1929",USC,64,Occidental,0,0
+252,5,"Oct 19, 1929",Oregon State,7,Stanford,40,1
+253,5,"Oct 19, 1929",Syracuse,85,Johns Hopkins,6,0
+254,5,"Oct 19, 1929",Tennessee,6,Alabama,0,0
+255,5,"Oct 19, 1929",Texas,21,Oklahoma,0,0
+256,5,"Oct 19, 1929",Texas A&M,7,TCU,13,1
+257,5,"Oct 19, 1929",Tulane,60,Louisiana,0,0
+258,5,"Oct 19, 1929",UCLA,31,California Tech,0,1
+259,5,"Oct 19, 1929",Utah,40,Colorado,0,0
+260,5,"Oct 19, 1929",Vanderbilt,41,Auburn,2,1
+261,5,"Oct 19, 1929",Virginia,7,Virginia Military Institute,20,0
+262,5,"Oct 19, 1929",Virginia Tech,25,William & Mary,14,0
+263,5,"Oct 19, 1929",Grinnell,0,Washington (MO),0,0
+264,5,"Oct 19, 1929",Washington State,20,Washington,13,0
+265,5,"Oct 19, 1929",Washington & Lee,6,West Virginia,26,1
+266,5,"Oct 19, 1929",Brown,6,Yale,14,1
+267,5,"Oct 20, 1929",Iowa,7,Illinois,7,0
+268,6,"Oct 24, 1929",Clemson,21,South Carolina,14,1
+269,6,"Oct 26, 1929",Sewanee,7,Alabama,35,1
+270,6,"Oct 26, 1929",Arkansas,14,Texas A&M,13,1
+271,6,"Oct 26, 1929",Auburn,6,Samford,0,0
+272,6,"Oct 26, 1929",BYU,33,Western State,12,0
+273,6,"Oct 26, 1929",California,21,Olympic Club,19,0
+274,6,"Oct 26, 1929",Centenary (LA),27,Baylor,12,0
+275,6,"Oct 26, 1929",Regis (CO),6,Chadron State,13,0
+276,6,"Oct 26, 1929",Colgate,52,Providence,0,0
+277,6,"Oct 26, 1929",Columbia,33,Williams,0,0
+278,6,"Oct 26, 1929",Harvard,7,Dartmouth,34,0
+279,6,"Oct 26, 1929",Fordham,6,Davis & Elkins,6,0
+280,6,"Oct 26, 1929",Loyola (LA),6,Detroit Mercy,20,1
+281,6,"Oct 26, 1929",Georgia,6,Florida,18,1
+282,6,"Oct 26, 1929",Georgetown,27,Lebanon Valley,0,0
+283,6,"Oct 26, 1929",Drake,6,Grinnell,6,0
+284,6,"Oct 26, 1929",Haskell,19,Creighton,12,1
+285,6,"Oct 26, 1929",Holy Cross,7,Marquette,0,0
+286,6,"Oct 26, 1929",Illinois,14,Michigan,0,0
+287,6,"Oct 26, 1929",Ohio State,0,Indiana,0,0
+288,6,"Oct 26, 1929",Iowa,14,Wisconsin,0,1
+289,6,"Oct 26, 1929",Kansas,33,Iowa State,0,1
+290,6,"Oct 26, 1929",Kentucky,33,Centre,0,1
+291,6,"Oct 26, 1929",Louisiana Tech,7,LSU,53,1
+292,6,"Oct 26, 1929",NC State,6,Michigan State,40,1
+293,6,"Oct 26, 1929",Minnesota,54,Ripon,0,0
+294,6,"Oct 26, 1929",Montana,45,Intermountain,0,0
+295,6,"Oct 26, 1929",Princeton,13,Navy,13,0
+296,6,"Oct 26, 1929",Missouri,7,Nebraska,7,0
+297,6,"Oct 26, 1929",Butler,6,New York University,13,1
+298,6,"Oct 26, 1929",North Carolina,38,Virginia Tech,13,0
+299,6,"Oct 26, 1929",Northern Colorado,16,Colorado Mines,13,0
+300,6,"Oct 26, 1929",Northwestern,66,Wabash,0,0
+301,6,"Oct 26, 1929",Notre Dame,7,Carnegie Mellon,0,1
+302,6,"Oct 26, 1929",Oklahoma,14,Kansas State,13,1
+303,6,"Oct 26, 1929",Oregon,14,Washington,0,1
+304,6,"Oct 26, 1929",Oregon State,27,Idaho,0,0
+305,6,"Oct 26, 1929",Penn State,6,Lafayette,3,0
+306,6,"Oct 26, 1929",Lehigh,7,Pennsylvania,10,1
+307,6,"Oct 26, 1929",Pitt,40,Allegheny,0,1
+308,6,"Oct 26, 1929",Purdue,26,Chicago,0,1
+309,6,"Oct 26, 1929",USC,7,Stanford,0,1
+310,6,"Oct 26, 1929",SMU,52,Ole Miss,0,0
+311,6,"Oct 26, 1929",Syracuse,6,Brown,0,1
+312,6,"Oct 26, 1929",Washington & Jefferson,0,Temple,0,0
+313,6,"Oct 26, 1929",Tennessee,39,Washington & Lee,0,1
+314,6,"Oct 26, 1929",Texas,39,Rice,0,0
+315,6,"Oct 26, 1929",TCU,22,Texas Tech,0,1
+316,6,"Oct 26, 1929",Tulane,20,Georgia Tech,14,0
+317,6,"Oct 26, 1929",UCLA,20,Pomona-Pitzer,0,0
+318,6,"Oct 26, 1929",Utah,21,Colorado State,0,1
+319,6,"Oct 26, 1929",Wyoming,7,Utah State,12,0
+320,6,"Oct 26, 1929",Vanderbilt,33,Maryville (TN),0,0
+321,6,"Oct 26, 1929",Villanova,58,Duke,12,0
+322,6,"Oct 26, 1929",St. John's (Maryland),7,Virginia,32,1
+323,6,"Oct 26, 1929",Virginia Military Institute,7,Maryland,6,0
+324,6,"Oct 26, 1929",Wake Forest,6,Davidson,0,0
+325,6,"Oct 26, 1929",Washington (MO),33,Drury,0,0
+326,6,"Oct 26, 1929",Whitman,6,Washington State,58,1
+327,6,"Oct 26, 1929",West Virginia,9,Oklahoma State,6,1
+328,6,"Oct 26, 1929",Yale,21,Army,13,0
+329,7,"Oct 31, 1929",South Carolina,27,Citadel,14,0
+330,7,"Nov 1, 1929",Drake,34,Creighton,12,0
+331,7,"Nov 2, 1929",Arkansas,32,LSU,0,0
+332,7,"Nov 2, 1929",South Dakota,6,Army,33,1
+333,7,"Nov 2, 1929",Baylor,34,Texas Tech,0,0
+334,7,"Nov 2, 1929",Boston College,20,Duke,12,0
+335,7,"Nov 2, 1929",Brown,15,Holy Cross,14,1
+336,7,"Nov 2, 1929",USC,7,California,15,0
+337,7,"Nov 2, 1929",Camp Russell,18,Regis (CO),12,1
+338,7,"Nov 2, 1929",Carnegie Mellon,19,Washington (MO),0,1
+339,7,"Nov 2, 1929",Princeton,7,Chicago,15,0
+340,7,"Nov 2, 1929",Colgate,60,Hampden-Sydney,0,0
+341,7,"Nov 2, 1929",Colorado State,45,Western State,14,0
+342,7,"Nov 2, 1929",Columbia,6,Cornell,12,1
+343,7,"Nov 2, 1929",Colorado,0,Denver,0,0
+344,7,"Nov 2, 1929",Furman,12,Wake Forest,0,0
+345,7,"Nov 2, 1929",Georgetown,14,New York University,0,1
+346,7,"Nov 2, 1929",Northern Iowa,6,Grinnell,21,1
+347,7,"Nov 2, 1929",Harvard,14,Florida,0,0
+348,7,"Nov 2, 1929",Kansas State,7,Missouri,6,1
+349,7,"Nov 2, 1929",Clemson,6,Kentucky,44,1
+350,7,"Nov 2, 1929",Detroit Mercy,6,Marquette,6,0
+351,7,"Nov 2, 1929",Michigan State,38,Case,0,0
+352,7,"Nov 2, 1929",Indiana,7,Minnesota,19,1
+353,7,"Nov 2, 1929",Mississippi State,6,Mississippi College,0,0
+354,7,"Nov 2, 1929",Montana State,6,North Dakota State,0,0
+355,7,"Nov 2, 1929",Kansas,6,Nebraska,12,1
+356,7,"Nov 2, 1929",North Carolina,32,NC State,0,0
+357,7,"Nov 2, 1929",Northern Colorado,6,Wyoming,0,0
+358,7,"Nov 2, 1929",Northwestern,7,Illinois,0,0
+359,7,"Nov 2, 1929",Georgia Tech,6,Notre Dame,26,0
+360,7,"Nov 2, 1929",Iowa State,7,Oklahoma,21,1
+361,7,"Nov 2, 1929",Oklahoma State,20,Tulsa,0,0
+362,7,"Nov 2, 1929",Oregon,27,UCLA,0,0
+363,7,"Nov 2, 1929",Penn State,6,Syracuse,4,1
+364,7,"Nov 2, 1929",Pennsylvania,7,Navy,2,0
+365,7,"Nov 2, 1929",Ohio State,2,Pitt,18,1
+366,7,"Nov 2, 1929",Purdue,13,Wisconsin,0,1
+367,7,"Nov 2, 1929",Ole Miss,6,Sewanee,6,0
+368,7,"Nov 2, 1929",Rice,7,St. Edward's,20,0
+369,7,"Nov 2, 1929",Stanford,39,California Tech,0,0
+370,7,"Nov 2, 1929",Tennessee,27,Auburn,0,0
+371,7,"Nov 2, 1929",SMU,0,Texas,0,0
+372,7,"Nov 2, 1929",Texas A&M,54,Stephen F. Austin,0,0
+373,7,"Nov 2, 1929",TCU,25,North Texas,0,0
+374,7,"Nov 2, 1929",Tulane,21,Georgia,15,1
+375,7,"Nov 2, 1929",Utah,45,BYU,13,0
+376,7,"Nov 2, 1929",Utah State,10,Colorado College,0,0
+377,7,"Nov 2, 1929",Vanderbilt,13,Alabama,0,0
+378,7,"Nov 2, 1929",Maryland,13,Virginia,13,0
+379,7,"Nov 2, 1929",Davidson,6,Virginia Military Institute,12,0
+380,7,"Nov 2, 1929",Washington & Lee,6,Virginia Tech,36,1
+381,7,"Nov 2, 1929",Washington,73,Puget Sound,0,1
+382,7,"Nov 2, 1929",Washington & Jefferson,20,Lafayette,0,0
+383,7,"Nov 2, 1929",Washington State,9,Oregon State,0,1
+384,7,"Nov 2, 1929",Yale,16,Dartmouth,12,0
+385,8,"Nov 5, 1929",Fordham,0,West Virginia,0,0
+386,8,"Nov 9, 1929",Alabama,24,Kentucky,13,0
+387,8,"Nov 9, 1929",East Central Oklahoma,7,Arkansas,52,1
+388,8,"Nov 9, 1929",Texas,0,Baylor,0,0
+389,8,"Nov 9, 1929",California,53,Montana,18,0
+390,8,"Nov 9, 1929",Western Reserve,6,Carnegie Mellon,33,0
+391,8,"Nov 9, 1929",Colgate,33,Columbia,0,1
+392,8,"Nov 9, 1929",Colorado Mines,9,Colorado,13,0
+393,8,"Nov 9, 1929",Colorado State,7,Utah State,6,1
+394,8,"Nov 9, 1929",Marquette,6,Creighton,13,1
+395,8,"Nov 9, 1929",Brown,6,Dartmouth,13,0
+396,8,"Nov 9, 1929",Davidson,13,NC State,0,1
+397,8,"Nov 9, 1929",Detroit Mercy,36,West Virginia,0,1
+398,8,"Nov 9, 1929",LSU,6,Duke,32,1
+399,8,"Nov 9, 1929",Fordham,7,Boston College,6,1
+400,8,"Nov 9, 1929",Navy,0,Georgetown,0,0
+401,8,"Nov 9, 1929",Carleton,6,Grinnell,27,0
+402,8,"Nov 9, 1929",Army,7,Illinois,17,1
+403,8,"Nov 9, 1929",Iowa,9,Minnesota,7,0
+404,8,"Nov 9, 1929",Kansas,7,Oklahoma,0,1
+405,8,"Nov 9, 1929",Kansas State,3,Iowa State,2,0
+406,8,"Nov 9, 1929",Yale,13,Maryland,13,0
+407,8,"Nov 9, 1929",Michigan,14,Harvard,12,0
+408,8,"Nov 9, 1929",Michigan State,33,Mississippi State,19,1
+409,8,"Nov 9, 1929",Missouri,6,Washington (MO),0,1
+410,8,"Nov 9, 1929",New York University,27,Georgia,19,0
+411,8,"Nov 9, 1929",North Carolina,40,South Carolina,0,1
+412,8,"Nov 9, 1929",Ohio State,6,Northwestern,18,0
+413,8,"Nov 9, 1929",Drake,7,Notre Dame,19,1
+414,8,"Nov 9, 1929",Pennsylvania,7,Penn State,19,0
+415,8,"Nov 9, 1929",Pitt,21,Washington & Jefferson,0,0
+416,8,"Nov 9, 1929",Princeton,20,Lehigh,0,0
+417,8,"Nov 9, 1929",Ole Miss,7,Purdue,27,1
+418,8,"Nov 9, 1929",Rhodes,9,Sewanee,0,0
+419,8,"Nov 9, 1929",USC,66,Nevada,0,0
+420,8,"Nov 9, 1929",Texas A&M,7,SMU,12,0
+421,8,"Nov 9, 1929",Stanford,6,Washington,0,1
+422,8,"Nov 9, 1929",Syracuse,20,Niagara,0,0
+423,8,"Nov 9, 1929",Tennessee,73,Carson-Newman,0,0
+424,8,"Nov 9, 1929",TCU,24,Rice,0,0
+425,8,"Nov 9, 1929",Tulane,52,Auburn,0,0
+426,8,"Nov 9, 1929",Colorado College,3,Utah,12,0
+427,8,"Nov 9, 1929",Georgia Tech,7,Vanderbilt,23,1
+428,8,"Nov 9, 1929",Virginia Military Institute,12,Clemson,0,0
+429,8,"Nov 9, 1929",Virginia Tech,32,Virginia,12,1
+430,8,"Nov 9, 1929",Wake Forest,18,Wofford,0,1
+431,8,"Nov 9, 1929",St. John's (Maryland),6,Washington & Lee,18,1
+432,8,"Nov 9, 1929",Idaho,7,Washington State,41,1
+433,8,"Nov 9, 1929",Western State,25,Regis (CO),23,0
+434,8,"Nov 9, 1929",Chicago,6,Wisconsin,20,0
+435,8,"Nov 11, 1929",BYU,25,Northern Colorado,13,0
+436,8,"Nov 11, 1929",Montana State,13,Wyoming,0,1
+437,9,"Nov 16, 1929",Alabama,14,Georgia Tech,0,1
+438,9,"Nov 16, 1929",Centenary (LA),2,Arkansas,13,1
+439,9,"Nov 16, 1929",Army,89,Dickinson,7,0
+440,9,"Nov 16, 1929",Brown,66,Norwich,6,0
+441,9,"Nov 16, 1929",Penn State,6,Bucknell,27,0
+442,9,"Nov 16, 1929",California,7,Washington,0,0
+443,9,"Nov 16, 1929",Colgate,21,Syracuse,0,1
+444,9,"Nov 16, 1929",Colorado,6,Colorado State,0,1
+445,9,"Nov 16, 1929",Colorado College,54,Western State,21,0
+446,9,"Nov 16, 1929",Colorado Mines,7,Regis (CO),0,0
+447,9,"Nov 16, 1929",Cornell,36,Western Reserve,0,0
+448,9,"Nov 16, 1929",Denver,13,Utah State,0,0
+449,9,"Nov 16, 1929",Detroit Mercy,25,Michigan State,0,1
+450,9,"Nov 16, 1929",Drake,7,Iowa State,0,1
+451,9,"Nov 16, 1929",Duke,19,NC State,12,0
+452,9,"Nov 16, 1929",Clemson,7,Florida,13,1
+453,9,"Nov 16, 1929",Thiel,7,Fordham,40,1
+454,9,"Nov 16, 1929",Georgia,24,Auburn,0,0
+455,9,"Nov 16, 1929",Gonzaga,20,Idaho,14,1
+456,9,"Nov 16, 1929",Holy Cross,6,Harvard,12,1
+457,9,"Nov 16, 1929",Chicago,6,Illinois,20,1
+458,9,"Nov 16, 1929",Indiana,19,Northwestern,14,1
+459,9,"Nov 16, 1929",Kansas,13,Washington (MO),0,0
+460,9,"Nov 16, 1929",Kentucky,23,Virginia Military Institute,12,1
+461,9,"Nov 16, 1929",Ole Miss,6,LSU,13,1
+462,9,"Nov 16, 1929",Boston College,6,Marquette,20,1
+463,9,"Nov 16, 1929",Maryland,24,Virginia Tech,0,0
+464,9,"Nov 16, 1929",Michigan,7,Minnesota,6,1
+465,9,"Nov 16, 1929",Mississippi State,0,Millsaps,0,0
+466,9,"Nov 16, 1929",Navy,61,Wake Forest,0,0
+467,9,"Nov 16, 1929",New York University,14,Missouri,0,0
+468,9,"Nov 16, 1929",Davidson,7,North Carolina,26,1
+469,9,"Nov 16, 1929",North Dakota,54,Creighton,0,1
+470,9,"Nov 16, 1929",Northern Colorado,20,Kearney,0,0
+471,9,"Nov 16, 1929",Notre Dame,13,USC,12,0
+472,9,"Nov 16, 1929",Ohio State,54,Kenyon,0,0
+473,9,"Nov 16, 1929",Nebraska,13,Oklahoma,13,0
+474,9,"Nov 16, 1929",Oregon,16,Oregon State,0,0
+475,9,"Nov 16, 1929",Pennsylvania,20,Columbia,0,1
+476,9,"Nov 16, 1929",Pitt,34,Carnegie Mellon,13,0
+477,9,"Nov 16, 1929",Purdue,7,Iowa,0,0
+478,9,"Nov 16, 1929",Oklahoma State,0,Saint Louis,0,0
+479,9,"Nov 16, 1929",Saint Mary's (CA),24,UCLA,0,1
+480,9,"Nov 16, 1929",Stanford,7,Santa Clara,13,0
+481,9,"Nov 16, 1929",South Carolina,2,Furman,0,1
+482,9,"Nov 16, 1929",Baylor,6,SMU,25,1
+483,9,"Nov 16, 1929",Tennessee,13,Vanderbilt,0,0
+484,9,"Nov 16, 1929",Rice,6,Texas A&M,26,0
+485,9,"Nov 16, 1929",TCU,15,Texas,12,1
+486,9,"Nov 16, 1929",Tulane,18,Sewanee,0,0
+487,9,"Nov 16, 1929",Utah,44,Wyoming,0,1
+488,9,"Nov 16, 1929",Washington & Lee,13,Virginia,13,0
+489,9,"Nov 16, 1929",Washington & Jefferson,15,Wittenberg,0,0
+490,9,"Nov 16, 1929",Washington State,13,Montana,0,1
+491,9,"Nov 16, 1929",Georgetown,0,West Virginia,0,0
+492,9,"Nov 16, 1929",Yale,13,Princeton,0,0
+493,10,"Nov 19, 1929",Wake Forest,0,Presbyterian,0,0
+494,10,"Nov 23, 1929",Ohio Wesleyan,6,Army,19,1
+495,10,"Nov 23, 1929",BYU,40,Wyoming,0,0
+496,10,"Nov 23, 1929",New Hampshire,7,Brown,14,1
+497,10,"Nov 23, 1929",Washington,6,Chicago,26,1
+498,10,"Nov 23, 1929",Clemson,13,Citadel,0,0
+499,10,"Nov 23, 1929",Colorado College,7,Colorado,13,1
+500,10,"Nov 23, 1929",Dartmouth,18,Cornell,14,0
+501,10,"Nov 23, 1929",Duke,20,Wake Forest,0,0
+502,10,"Nov 23, 1929",South Carolina,7,Florida,20,0
+503,10,"Nov 23, 1929",Fordham,14,Bucknell,0,0
+504,10,"Nov 23, 1929",Grinnell,12,Creighton,0,1
+505,10,"Nov 23, 1929",Yale,6,Harvard,10,1
+506,10,"Nov 23, 1929",Illinois,27,Ohio State,0,1
+507,10,"Nov 23, 1929",Michigan,0,Iowa,0,0
+508,10,"Nov 23, 1929",Minnesota,13,Wisconsin,12,0
+509,10,"Nov 23, 1929",Missouri,7,Kansas,0,1
+510,10,"Nov 23, 1929",Montana State,7,Carroll (Montana),0,0
+511,10,"Nov 23, 1929",West Virginia Wesleyan,6,Navy,30,1
+512,10,"Nov 23, 1929",Kansas State,6,Nebraska,10,0
+513,10,"Nov 23, 1929",Rutgers,7,New York University,20,1
+514,10,"Nov 23, 1929",Northwestern,6,Notre Dame,26,0
+515,10,"Nov 23, 1929",Oklahoma,7,Oklahoma State,7,0
+516,10,"Nov 23, 1929",Oregon,7,Hawaii,0,0
+517,10,"Nov 23, 1929",Detroit Mercy,7,Oregon State,14,0
+518,10,"Nov 23, 1929",Purdue,32,Indiana,0,1
+519,10,"Nov 23, 1929",Regis (CO),13,Northern Colorado,0,0
+520,10,"Nov 23, 1929",USC,72,Idaho,0,0
+521,10,"Nov 23, 1929",SMU,34,Rice,0,0
+522,10,"Nov 23, 1929",California,6,Stanford,21,1
+523,10,"Nov 23, 1929",Temple,16,Drake,14,0
+524,10,"Nov 23, 1929",Baylor,7,TCU,34,0
+525,10,"Nov 23, 1929",Sewanee,6,Vanderbilt,26,1
+526,10,"Nov 23, 1929",NC State,6,Villanova,24,1
+527,10,"Nov 23, 1929",Washington (MO),7,Saint Louis,0,1
+528,10,"Nov 23, 1929",Washington State,27,Gonzaga,0,1
+529,11,"Nov 28, 1929",Oklahoma State,6,Arkansas,32,0
+530,11,"Nov 28, 1929",Carnegie Mellon,20,New York University,0,1
+531,11,"Nov 28, 1929",Clemson,7,Furman,6,0
+532,11,"Nov 28, 1929",Colorado College,13,Colorado Mines,0,0
+533,11,"Nov 28, 1929",Washington & Lee,7,Florida,25,1
+534,11,"Nov 28, 1929",Georgia,12,Alabama,0,1
+535,11,"Nov 28, 1929",Auburn,6,Georgia Tech,19,1
+536,11,"Nov 28, 1929",Kansas State,6,Marquette,25,1
+537,11,"Nov 28, 1929",Johns Hopkins,8,Maryland,39,1
+538,11,"Nov 28, 1929",Ole Miss,7,Mississippi State,7,0
+539,11,"Nov 28, 1929",Missouri,13,Oklahoma,0,0
+540,11,"Nov 28, 1929",Nebraska,31,Iowa State,12,0
+541,11,"Nov 28, 1929",Virginia,7,North Carolina,41,1
+542,11,"Nov 28, 1929",Cornell,7,Pennsylvania,17,1
+543,11,"Nov 28, 1929",Penn State,7,Pitt,20,1
+544,11,"Nov 28, 1929",Oregon,6,Saint Mary's (CA),31,1
+545,11,"Nov 28, 1929",Syracuse,6,Columbia,0,1
+546,11,"Nov 28, 1929",Kentucky,6,Tennessee,6,0
+547,11,"Nov 28, 1929",Texas A&M,13,Texas,0,0
+548,11,"Nov 28, 1929",Tulane,21,LSU,0,1
+549,11,"Nov 28, 1929",UCLA,14,Montana,0,0
+550,11,"Nov 28, 1929",Utah State,7,Utah,26,1
+551,11,"Nov 28, 1929",Virginia Military Institute,14,Virginia Tech,0,0
+552,11,"Nov 28, 1929",Wake Forest,13,Mercer,0,0
+553,11,"Nov 28, 1929",West Virginia,6,Washington & Jefferson,0,0
+554,11,"Nov 29, 1929",Colorado State,6,Denver,19,1
+555,11,"Nov 30, 1929",Baylor,19,Rice,0,1
+556,11,"Nov 30, 1929",Colgate,32,Brown,0,1
+557,11,"Nov 30, 1929",Davidson,13,Duke,12,0
+558,11,"Nov 30, 1929",Detroit Mercy,14,Georgetown,13,0
+559,11,"Nov 30, 1929",Idaho State,7,Idaho,41,0
+560,11,"Nov 30, 1929",Dartmouth,6,Navy,13,1
+561,11,"Nov 30, 1929",Notre Dame,7,Army,0,1
+562,11,"Nov 30, 1929",NC State,6,South Carolina,20,0
+563,11,"Nov 30, 1929",Washington State,7,USC,27,1
+564,11,"Nov 30, 1929",TCU,7,SMU,7,0
+565,12,"Dec 7, 1929",Denver,32,Regis (CO),18,0
+566,12,"Dec 7, 1929",Oregon,6,Florida,20,1
+567,12,"Dec 7, 1929",Georgia Tech,6,Georgia,12,1
+568,12,"Dec 7, 1929",Duke,7,North Carolina,48,0
+569,12,"Dec 7, 1929",Tennessee,54,South Carolina,0,0
+570,12,"Dec 7, 1929",Western Maryland,12,Maryland,0,0
+571,13,"Dec 14, 1929",USC,45,Carnegie Mellon,13,0
+572,14,"Dec 25, 1929",Washington State,12,Hawaii All-Stars,0,1
+573,14,"Dec 28, 1929",Stanford,34,Army,13,0
+574,15,"Jan 1, 1930",USC,47,Pitt,14,0
+575,15,"Jan 1, 1930",Hawaii,7,Washington State,28,0

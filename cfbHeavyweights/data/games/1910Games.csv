@@ -1,0 +1,402 @@
+0,1,"Sep 17, 1910",Davidson,29,Catawba College,0,0
+1,2,"Sep 21, 1910",Carlisle,53,Lebanon Valley,0,0
+2,2,"Sep 24, 1910",Brown,31,Norwich,0,0
+3,2,"Sep 24, 1910",Carlisle,6,Villanova,0,0
+4,2,"Sep 24, 1910",Clemson,26,Gordon,0,0
+5,2,"Sep 24, 1910",Davidson,57,Lenoir-Rhyne,0,0
+6,2,"Sep 24, 1910",Harvard,22,Bates,0,0
+7,2,"Sep 24, 1910",Lafayette,31,Bloomsburg,0,0
+8,2,"Sep 24, 1910",Mercer,32,Locust Grove,0,0
+9,2,"Sep 24, 1910",Minnesota,34,Lawrence,0,0
+10,2,"Sep 24, 1910",Princeton,18,Stevens,0,0
+11,2,"Sep 24, 1910",Sewanee,53,Sewanee Medical,0,0
+12,2,"Sep 24, 1910",Syracuse,0,St. Bonaventure,0,0
+13,2,"Sep 24, 1910",Texas A&M,48,Marshall School,0,0
+14,2,"Sep 24, 1910",Ursinus,8,Pennsylvania,5,1
+15,2,"Sep 24, 1910",Vanderbilt,34,Mooney,0,0
+16,2,"Sep 24, 1910",Wake Forest,17,Warrenton Preparatory,0,0
+17,2,"Sep 24, 1910",Western Maryland,3,Dickinson,0,1
+18,3,"Sep 28, 1910",Carlisle,39,Muhlenberg,0,0
+19,3,"Sep 28, 1910",Pennsylvania,18,Dickinson,0,0
+20,3,"Sep 28, 1910",Yale,22,Wesleyan (CT),0,0
+21,3,"Sep 30, 1910",Missouri,9,Monmouth,0,0
+22,3,"Oct 1, 1910",Alabama,25,Birmingham,0,0
+23,3,"Oct 1, 1910",Arkansas,33,Drury,0,0
+24,3,"Oct 1, 1910",Bethany (West Virginia),3,Washington & Jefferson,0,1
+25,3,"Oct 1, 1910",Brown,5,Rhode Island,0,0
+26,3,"Oct 1, 1910",Bucknell,6,Lock Haven,0,0
+27,3,"Oct 1, 1910",Tennessee,2,Centre,17,0
+28,3,"Oct 1, 1910",Colgate,78,Clarkson,0,0
+29,3,"Oct 1, 1910",Colorado,20,Boulder High,0,0
+30,3,"Oct 1, 1910",Cornell,50,Hobart,0,0
+31,3,"Oct 1, 1910",Denver Alumni,3,Denver,11,1
+32,3,"Oct 1, 1910",Des Moines Baptist,6,Drake,5,1
+33,3,"Oct 1, 1910",TCU,6,Fort Worth,6,0
+34,3,"Oct 1, 1910",Georgetown,55,Seamen Gunners,0,0
+35,3,"Oct 1, 1910",Georgia,101,Locust Grove,0,0
+36,3,"Oct 1, 1910",Georgia Tech,57,Gordon,0,0
+37,3,"Oct 1, 1910",Harvard,32,Bowdoin,0,0
+38,3,"Oct 1, 1910",Illinois,13,James Millikin,0,0
+39,3,"Oct 1, 1910",Illinois Wesleyan,3,Northwestern,0,1
+40,3,"Oct 1, 1910",Indiana,12,DePauw,0,0
+41,3,"Oct 1, 1910",Iowa State,12,Coe,0,0
+42,3,"Oct 1, 1910",Kansas,11,Ottawa,0,0
+43,3,"Oct 1, 1910",Kansas State,39,Haskell,0,0
+44,3,"Oct 1, 1910",Lafayette,10,Ursinus,0,0
+45,3,"Oct 1, 1910",Lehigh,10,Western Maryland,0,0
+46,3,"Oct 1, 1910",Mercer,3,Clemson,0,1
+47,3,"Oct 1, 1910",Minnesota,17,South Dakota,0,0
+48,3,"Oct 1, 1910",Ole Miss,10,Memphis High,0,0
+49,3,"Oct 1, 1910",Mississippi State,24,Mississippi College,0,0
+50,3,"Oct 1, 1910",Navy,16,St. John's (Maryland),0,0
+51,3,"Oct 1, 1910",Nebraska,66,Peru State,0,0
+52,3,"Oct 1, 1910",North Carolina,6,Virginia Military Institute,0,0
+53,3,"Oct 1, 1910",Penn State,58,Harrisburg A.C.,0,0
+54,3,"Oct 1, 1910",Pennsylvania,29,Gettysburg,0,0
+55,3,"Oct 1, 1910",Pitt,36,Ohio Northern,0,0
+56,3,"Oct 1, 1910",Princeton,36,Villanova,0,0
+57,3,"Oct 1, 1910",Samford,10,Blountsville Agricultural,0,0
+58,3,"Oct 1, 1910",Sewanee,27,Anderson,0,0
+59,3,"Oct 1, 1910",Austin,5,Texas A&M,27,1
+60,3,"Oct 1, 1910",Vanderbilt,23,Rose-Hulman,0,0
+61,3,"Oct 1, 1910",Virginia,10,William & Mary,0,0
+62,3,"Oct 1, 1910",Virginia Tech,18,Hampden-Sydney,0,0
+63,3,"Oct 1, 1910",Washington & Lee,13,Roanoke,0,0
+64,3,"Oct 1, 1910",Carnegie Mellon,0,Waynesburg,0,0
+65,3,"Oct 1, 1910",Wyoming,61,Cheyenne High,12,1
+66,3,"Oct 1, 1910",Syracuse,6,Yale,12,1
+67,3,"Oct 2, 1910",Iowa,12,Morningside,0,0
+68,4,"Oct 5, 1910",Carlisle,24,Dickinson,0,0
+69,4,"Oct 5, 1910",Ole Miss,2,Tennessee Medical College,0,0
+70,4,"Oct 5, 1910",Pennsylvania,17,Franklin & Marshall,0,0
+71,4,"Oct 5, 1910",Davidson,6,Virginia Tech,16,1
+72,4,"Oct 5, 1910",Yale,17,Tufts,0,0
+73,4,"Oct 8, 1910",Alabama,26,Marion,0,0
+74,4,"Oct 8, 1910",Army,24,Tufts,0,0
+75,4,"Oct 8, 1910",Auburn,6,Mississippi State,0,0
+76,4,"Oct 8, 1910",Daniel Baker,0,Baylor,0,0
+77,4,"Oct 8, 1910",Carlisle,39,Bucknell,0,0
+78,4,"Oct 8, 1910",Michigan,3,Case,3,0
+79,4,"Oct 8, 1910",Clemson,24,Samford,0,1
+80,4,"Oct 8, 1910",Brown,0,Colgate,0,0
+81,4,"Oct 8, 1910",Colorado,11,Colorado Alumni,0,0
+82,4,"Oct 8, 1910",Colorado College,23,Colorado Springs High,0,0
+83,4,"Oct 8, 1910",Cornell,24,Rensselaer,0,0
+84,4,"Oct 8, 1910",Wyoming,3,Denver,17,1
+85,4,"Oct 8, 1910",Dickinson,13,Lebanon Valley,0,1
+86,4,"Oct 8, 1910",NC State,0,Georgetown,0,0
+87,4,"Oct 8, 1910",Georgia,79,Gordon,0,0
+88,4,"Oct 8, 1910",Georgia Tech,18,Chattanooga,0,0
+89,4,"Oct 8, 1910",Harvard,21,Williams,0,0
+90,4,"Oct 8, 1910",Illinois,29,Drake,0,0
+91,4,"Oct 8, 1910",Indiana,6,Chicago,0,1
+92,4,"Oct 8, 1910",Kansas,9,St. Mary's (Kansas),5,0
+93,4,"Oct 8, 1910",Kentucky,11,North Carolina,0,0
+94,4,"Oct 8, 1910",Lafayette,6,Swarthmore,0,0
+95,4,"Oct 8, 1910",Wisconsin,6,Lawrence,6,0
+96,4,"Oct 8, 1910",Stevens,0,Lehigh,0,0
+97,4,"Oct 8, 1910",Mercer,22,Georgia Medical,0,0
+98,4,"Oct 8, 1910",Minnesota,49,Iowa State,0,0
+99,4,"Oct 8, 1910",Missouri,0,Missouri-Rolla,0,0
+100,4,"Oct 8, 1910",South Dakota,9,Nebraska,12,1
+101,4,"Oct 8, 1910",Iowa,5,Northwestern,10,1
+102,4,"Oct 8, 1910",Penn State,61,Carnegie Mellon,0,0
+103,4,"Oct 8, 1910",Pennsylvania,38,West Virginia,0,0
+104,4,"Oct 8, 1910",Pitt,18,Westminster (Pennsylvania),0,0
+105,4,"Oct 8, 1910",Princeton,12,New York University,0,0
+106,4,"Oct 8, 1910",Navy,0,Rutgers,0,0
+107,4,"Oct 8, 1910",Sewanee,95,Tennessee Military,0,0
+108,4,"Oct 8, 1910",Washington (MO),3,Shurtleff,11,1
+109,4,"Oct 8, 1910",South Carolina,8,Charleston,0,0
+110,4,"Oct 8, 1910",Syracuse,6,Rochester,0,0
+111,4,"Oct 8, 1910",Tennessee,7,Mooney,0,0
+112,4,"Oct 8, 1910",Southwestern (TX),6,Texas,11,1
+113,4,"Oct 8, 1910",Texas A&M,35,TCU,0,0
+114,4,"Oct 8, 1910",Utah,21,Utah State,12,1
+115,4,"Oct 8, 1910",Vanderbilt,14,Castle Heights,0,0
+116,4,"Oct 8, 1910",Virginia,17,Randolph-Macon,0,0
+117,4,"Oct 8, 1910",Wabash,3,Purdue,0,1
+118,4,"Oct 8, 1910",Wake Forest,28,Horner,0,0
+119,4,"Oct 8, 1910",Geneva,0,Washington & Jefferson,0,0
+120,4,"Oct 8, 1910",Washington & Lee,10,Hampden-Sydney,0,0
+121,4,"Oct 8, 1910",Yale,12,Holy Cross,0,0
+122,4,"Oct 9, 1910",Arkansas,63,Henderson State,0,0
+123,5,"Oct 11, 1910",Gettysburg,3,Carlisle,29,1
+124,5,"Oct 13, 1910",Ole Miss,16,Tulane,0,1
+125,5,"Oct 15, 1910",Army,9,Yale,3,0
+126,5,"Oct 15, 1910",Auburn,78,Samford,0,1
+127,5,"Oct 15, 1910",Baylor,31,Austin,0,0
+128,5,"Oct 15, 1910",Centre,19,Sewanee,0,0
+129,5,"Oct 15, 1910",Clemson,32,Citadel,0,1
+130,5,"Oct 15, 1910",Colorado College,23,Wyoming,0,0
+131,5,"Oct 15, 1910",Davidson,6,North Carolina,0,0
+132,5,"Oct 15, 1910",Dickinson,9,Bucknell,6,0
+133,5,"Oct 15, 1910",Drake,22,Coe,0,0
+134,5,"Oct 15, 1910",Georgetown,52,Washington & Lee,0,0
+135,5,"Oct 15, 1910",Georgia,22,Alabama,0,1
+136,5,"Oct 15, 1910",Georgia Tech,46,Mercer,0,0
+137,5,"Oct 15, 1910",Carnegie Mellon,3,Grove City,16,1
+138,5,"Oct 15, 1910",Harvard,17,Amherst,0,0
+139,5,"Oct 15, 1910",Haverford,5,Lehigh,0,1
+140,5,"Oct 15, 1910",Illinois,3,Chicago,0,0
+141,5,"Oct 15, 1910",Indiana,33,James Millikin,0,0
+142,5,"Oct 15, 1910",Iowa State,17,Des Moines,0,0
+143,5,"Oct 15, 1910",Kansas,21,Baker,0,0
+144,5,"Oct 15, 1910",Kansas State,5,Arkansas,0,1
+145,5,"Oct 15, 1910",LSU,40,Mississippi College,0,0
+146,5,"Oct 15, 1910",Denver,0,Marquette,0,0
+147,5,"Oct 15, 1910",Michigan,6,Michigan State,3,0
+148,5,"Oct 15, 1910",Minnesota,27,Nebraska,0,0
+149,5,"Oct 15, 1910",Mississippi State,6,Tennessee-Memphis,0,0
+150,5,"Oct 15, 1910",Missouri,5,Iowa,0,0
+151,5,"Oct 15, 1910",Navy,15,Washington & Jefferson,0,0
+152,5,"Oct 15, 1910",Cornell,0,Oberlin,0,0
+153,5,"Oct 15, 1910",Penn State,45,Sterling A.C.,0,0
+154,5,"Oct 15, 1910",Pennsylvania,20,Brown,0,1
+155,5,"Oct 15, 1910",Pitt,42,Waynesburg,0,0
+156,5,"Oct 15, 1910",Princeton,3,Lafayette,0,1
+157,5,"Oct 15, 1910",South Carolina,14,Georgia Medical,0,1
+158,5,"Oct 15, 1910",TCU,3,Southwestern (TX),25,1
+159,5,"Oct 15, 1910",Syracuse,14,Carlisle,0,0
+160,5,"Oct 15, 1910",Texas,63,Haskell,3,0
+161,5,"Oct 15, 1910",Texas A&M,33,Transylvania,0,0
+162,5,"Oct 15, 1910",Trinity (CT),23,Colgate,0,1
+163,5,"Oct 15, 1910",Utah,6,Colorado Mines,0,0
+164,5,"Oct 15, 1910",Vanderbilt,18,Tennessee,0,0
+165,5,"Oct 15, 1910",NC State,6,Villanova,6,0
+166,5,"Oct 15, 1910",Virginia,21,Roanoke,0,0
+167,5,"Oct 15, 1910",Virginia Tech,13,Western Maryland,0,0
+168,5,"Oct 15, 1910",Westminster (Missouri),6,Washington (MO),31,1
+169,6,"Oct 18, 1910",Baylor,52,Haskell,3,0
+170,6,"Oct 21, 1910",Haskell,9,Baker,6,1
+171,6,"Oct 21, 1910",Ole Miss,24,Mississippi College,0,1
+172,6,"Oct 21, 1910",Mississippi State,3,LSU,0,0
+173,6,"Oct 22, 1910",Alabama Southern,5,Samford,0,0
+174,6,"Oct 22, 1910",Arkansas,13,Southwestern (TX),12,0
+175,6,"Oct 22, 1910",Army,28,Lehigh,0,0
+176,6,"Oct 22, 1910",Auburn,17,Clemson,0,0
+177,6,"Oct 22, 1910",Baylor,52,TCU,0,0
+178,6,"Oct 22, 1910",Bucknell,9,West Virginia,0,1
+179,6,"Oct 22, 1910",Carnegie Mellon,5,Geneva,0,0
+180,6,"Oct 22, 1910",Charleston,11,Citadel,0,0
+181,6,"Oct 22, 1910",Chattanooga,28,Birmingham,0,0
+182,6,"Oct 22, 1910",Chicago,10,Northwestern,0,0
+183,6,"Oct 22, 1910",Colgate,51,Middlebury,0,0
+184,6,"Oct 22, 1910",Wyoming,3,Colorado,16,1
+185,6,"Oct 22, 1910",Colorado College,21,Utah,17,1
+186,6,"Oct 22, 1910",Colorado State,6,Colorado Mines,10,1
+187,6,"Oct 22, 1910",Cornell,47,St. Bonaventure,0,0
+188,6,"Oct 22, 1910",Franklin & Marshall,10,Dickinson,0,0
+189,6,"Oct 22, 1910",Tennessee,5,Georgia,35,1
+190,6,"Oct 22, 1910",Georgia Tech,36,Alabama,0,1
+191,6,"Oct 22, 1910",Harvard,12,Brown,0,0
+192,6,"Oct 22, 1910",Wisconsin,3,Indiana,12,1
+193,6,"Oct 22, 1910",Iowa,16,Purdue,0,0
+194,6,"Oct 22, 1910",Iowa State,6,Missouri,5,1
+195,6,"Oct 22, 1910",Kansas,6,Drake,0,1
+196,6,"Oct 22, 1910",Lafayette,21,Gettysburg,0,0
+197,6,"Oct 22, 1910",Mercer,13,Florida,0,0
+198,6,"Oct 22, 1910",Ohio State,3,Michigan,3,0
+199,6,"Oct 22, 1910",Navy,3,Virginia Tech,0,0
+200,6,"Oct 22, 1910",Nebraska,27,Denver,0,0
+201,6,"Oct 22, 1910",North Carolina,37,Wake Forest,0,0
+202,6,"Oct 22, 1910",NC State,33,Eastern (Virginia),0,0
+203,6,"Oct 22, 1910",Pennsylvania,10,Penn State,0,0
+204,6,"Oct 22, 1910",Pitt,17,Georgetown,0,0
+205,6,"Oct 22, 1910",Princeton,6,Carlisle,0,0
+206,6,"Oct 22, 1910",Morgan,5,Sewanee,22,1
+207,6,"Oct 22, 1910",South Carolina,33,Lenoir-Rhyne,0,0
+208,6,"Oct 22, 1910",Hobart,5,Syracuse,12,1
+209,6,"Oct 22, 1910",Texas,48,Transylvania,0,0
+210,6,"Oct 22, 1910",Yale,0,Vanderbilt,0,0
+211,6,"Oct 22, 1910",Virginia,29,St. John's (Maryland),0,0
+212,6,"Oct 22, 1910",Washington & Lee,14,Davidson,12,0
+213,6,"Oct 22, 1910",Washington (MO),6,Rose-Hulman,0,0
+214,7,"Oct 26, 1910",Centre,35,Tulane,0,0
+215,7,"Oct 27, 1910",South Carolina,6,Wake Forest,0,0
+216,7,"Oct 28, 1910",Missouri,26,Oklahoma,0,0
+217,7,"Oct 29, 1910",11th Cavalry,3,Chattanooga,0,1
+218,7,"Oct 29, 1910",Arkansas,5,Texas A&M,0,0
+219,7,"Oct 29, 1910",Baylor,39,Fort Worth,0,0
+220,7,"Oct 29, 1910",Tufts,9,Brown,27,1
+221,7,"Oct 29, 1910",Citadel,9,Wake Forest,5,0
+222,7,"Oct 29, 1910",Colorado,11,Utah,0,0
+223,7,"Oct 29, 1910",Colorado College,8,Colorado Mines,0,0
+224,7,"Oct 29, 1910",Vermont,5,Cornell,15,1
+225,7,"Oct 29, 1910",Charleston,6,Davidson,27,0
+226,7,"Oct 29, 1910",Denver,22,Colorado State,0,1
+227,7,"Oct 29, 1910",Drake,3,Simpson,0,0
+228,7,"Oct 29, 1910",Georgetown,12,North Carolina,0,0
+229,7,"Oct 29, 1910",Georgia,21,Mercer,0,0
+230,7,"Oct 29, 1910",Harvard,6,Army,0,1
+231,7,"Oct 29, 1910",Illinois,11,Purdue,0,1
+232,7,"Oct 29, 1910",Indiana,33,Butler,0,0
+233,7,"Oct 29, 1910",Washburn,6,Kansas,21,1
+234,7,"Oct 29, 1910",Tulane,3,Kentucky,10,1
+235,7,"Oct 29, 1910",Lafayette,12,Bucknell,0,0
+236,7,"Oct 29, 1910",Michigan,11,Syracuse,0,1
+237,7,"Oct 29, 1910",Minnesota,24,Chicago,0,1
+238,7,"Oct 29, 1910",Morningside,5,Iowa State,0,1
+239,7,"Oct 29, 1910",Navy,17,Western Reserve,0,0
+240,7,"Oct 29, 1910",Nebraska,6,Doane,0,0
+241,7,"Oct 29, 1910",Wisconsin,0,Northwestern,0,0
+242,7,"Oct 29, 1910",Carlisle,5,Pennsylvania,17,1
+243,7,"Oct 29, 1910",Pitt,71,Ohio Medical,0,0
+244,7,"Oct 29, 1910",Princeton,6,Dartmouth,0,0
+245,7,"Oct 29, 1910",Saint Louis,16,Haskell,0,0
+246,7,"Oct 29, 1910",LSU,5,Sewanee,31,0
+247,7,"Oct 29, 1910",Lehigh,8,Swarthmore,15,1
+248,7,"Oct 29, 1910",Tennessee,17,Samford,0,1
+249,7,"Oct 29, 1910",Texas,9,Auburn,0,0
+250,7,"Oct 29, 1910",Trinity (Texas),6,TCU,18,1
+251,7,"Oct 29, 1910",Ursinus,46,Dickinson,3,1
+252,7,"Oct 29, 1910",Vanderbilt,9,Ole Miss,2,0
+253,7,"Oct 29, 1910",Penn State,0,Villanova,0,0
+254,7,"Oct 29, 1910",Virginia,28,Virginia Military Institute,0,0
+255,7,"Oct 29, 1910",Virginia Tech,23,Washington & Lee,0,0
+256,7,"Oct 29, 1910",Washington & Jefferson,8,Carnegie Mellon,0,1
+257,7,"Oct 29, 1910",Drury,6,Washington (MO),32,1
+258,7,"Oct 29, 1910",Yale,19,Colgate,0,0
+259,7,"Oct 31, 1910",Mississippi State,48,Tennessee,0,0
+260,8,"Nov 1, 1910",Sewanee,6,Tennessee Medical College,0,0
+261,8,"Nov 3, 1910",Clemson,24,South Carolina,0,1
+262,8,"Nov 5, 1910",Allegheny,27,Carnegie Mellon,0,0
+263,8,"Nov 5, 1910",Arkansas,50,Washington (MO),0,1
+264,8,"Nov 5, 1910",Army,5,Springfield,0,0
+265,8,"Nov 5, 1910",Auburn,16,Georgia Tech,0,1
+266,8,"Nov 5, 1910",Brown,21,Yale,0,1
+267,8,"Nov 5, 1910",Virginia,5,Carlisle,22,1
+268,8,"Nov 5, 1910",Chattanooga,6,Mercer,0,1
+269,8,"Nov 5, 1910",Purdue,5,Chicago,14,1
+270,8,"Nov 5, 1910",Colgate,6,Rochester,5,1
+271,8,"Nov 5, 1910",Colorado,44,Colorado State,0,1
+272,8,"Nov 5, 1910",Kansas State,8,Colorado College,15,1
+273,8,"Nov 5, 1910",Colorado Mines,6,Denver,17,1
+274,8,"Nov 5, 1910",Dickinson,12,St. John's (Maryland),0,1
+275,8,"Nov 5, 1910",Grinnell,9,Drake,13,1
+276,8,"Nov 5, 1910",Florida,6,Citadel,2,0
+277,8,"Nov 5, 1910",Gettysburg,9,Bucknell,6,1
+278,8,"Nov 5, 1910",Cornell,5,Harvard,27,1
+279,8,"Nov 5, 1910",Illinois,3,Indiana,0,1
+280,8,"Nov 5, 1910",Iowa,2,Iowa State,0,1
+281,8,"Nov 5, 1910",Kentucky,10,Tennessee,0,1
+282,8,"Nov 5, 1910",Ole Miss,16,Alabama,0,0
+283,8,"Nov 5, 1910",Mississippi State,10,Tulane,0,1
+284,8,"Nov 5, 1910",Navy,30,Lehigh,0,0
+285,8,"Nov 5, 1910",Nebraska,6,Kansas,0,1
+286,8,"Nov 5, 1910",Penn State,34,St. Bonaventure,0,0
+287,8,"Nov 5, 1910",Pennsylvania,18,Lafayette,0,0
+288,8,"Nov 5, 1910",Pitt,38,West Virginia,0,0
+289,8,"Nov 5, 1910",Princeton,17,Holy Cross,0,0
+290,8,"Nov 5, 1910",Saint Louis,3,Missouri,0,0
+291,8,"Nov 5, 1910",Sewanee,15,Georgia,12,0
+292,8,"Nov 5, 1910",Syracuse,3,Vermont,0,0
+293,8,"Nov 5, 1910",Baylor,6,Texas,6,0
+294,8,"Nov 5, 1910",TCU,6,Texas A&M,23,0
+295,8,"Nov 5, 1910",Vanderbilt,22,LSU,0,0
+296,8,"Nov 5, 1910",Virginia Tech,20,North Carolina,0,0
+297,8,"Nov 5, 1910",Washington & Jefferson,41,Waynesburg,0,0
+298,8,"Nov 5, 1910",Wichita State,35,Haskell,0,0
+299,9,"Nov 8, 1910",Wyoming,17,Wyoming Alumni,0,0
+300,9,"Nov 9, 1910",11th Cavalry,6,Chattanooga,19,1
+301,9,"Nov 9, 1910",Haskell,22,Fort Leavenworth,0,0
+302,9,"Nov 10, 1910",Georgia,0,Clemson,0,0
+303,9,"Nov 12, 1910",Army,13,Villanova,0,0
+304,9,"Nov 12, 1910",Auburn,33,Tulane,0,0
+305,9,"Nov 12, 1910",Brown,50,Vermont,0,0
+306,9,"Nov 12, 1910",Chattanooga,56,Samford,0,0
+307,9,"Nov 12, 1910",Syracuse,6,Colgate,11,0
+308,9,"Nov 12, 1910",Colorado College,24,Colorado State,0,1
+309,9,"Nov 12, 1910",Colorado Mines,9,Wyoming,8,0
+310,9,"Nov 12, 1910",Cornell,18,Chicago,0,0
+311,9,"Nov 12, 1910",Davidson,53,South Carolina,0,0
+312,9,"Nov 12, 1910",Georgetown,15,Virginia,0,0
+313,9,"Nov 12, 1910",Gettysburg,7,Dickinson,3,0
+314,9,"Nov 12, 1910",Harvard,18,Dartmouth,0,0
+315,9,"Nov 12, 1910",Illinois,27,Northwestern,0,1
+316,9,"Nov 12, 1910",Iowa,21,Drake,0,0
+317,9,"Nov 12, 1910",Kansas,2,Oklahoma,0,1
+318,9,"Nov 12, 1910",Lehigh,25,Carnegie Mellon,0,1
+319,9,"Nov 12, 1910",Pennsylvania,0,Michigan,0,0
+320,9,"Nov 12, 1910",Minnesota,28,Wisconsin,0,0
+321,9,"Nov 12, 1910",Ole Miss,44,Tennessee Medical College,0,1
+322,9,"Nov 12, 1910",Mississippi State,46,Birmingham,0,0
+323,9,"Nov 12, 1910",Washington (MO),3,Missouri,27,1
+324,9,"Nov 12, 1910",Navy,6,Carlisle,0,0
+325,9,"Nov 12, 1910",Nebraska,24,Iowa State,0,0
+326,9,"Nov 12, 1910",NC State,53,Richmond,0,0
+327,9,"Nov 12, 1910",Penn State,45,Bucknell,3,0
+328,9,"Nov 12, 1910",Pitt,14,Washington & Jefferson,0,0
+329,9,"Nov 12, 1910",DePauw,6,Purdue,14,1
+330,9,"Nov 12, 1910",Sewanee,30,Alabama,0,1
+331,9,"Nov 12, 1910",Tennessee,13,Maryville (TN),0,0
+332,9,"Nov 12, 1910",TCU,9,Trinity (Texas),0,1
+333,9,"Nov 12, 1910",USS Franklin,11,Wake Forest,0,1
+334,9,"Nov 12, 1910",Utah,20,Denver,0,0
+335,9,"Nov 12, 1910",Vanderbilt,23,Georgia Tech,0,1
+336,9,"Nov 12, 1910",George Washington,5,Virginia Tech,16,1
+337,9,"Nov 12, 1910",Washington & Lee,5,North Carolina,0,0
+338,9,"Nov 12, 1910",Yale,5,Princeton,3,1
+339,9,"Nov 13, 1910",Ottawa,11,Haskell,0,0
+340,9,"Nov 14, 1910",Texas,8,Texas A&M,14,1
+341,10,"Nov 15, 1910",Arkansas,6,Missouri-Rolla,2,0
+342,10,"Nov 16, 1910",Harvard Law,3,Carlisle,0,0
+343,10,"Nov 18, 1910",Mercer,21,Citadel,0,1
+344,10,"Nov 18, 1910",Mississippi State,82,Samford,0,0
+345,10,"Nov 19, 1910",Alabama,5,Tulane,3,1
+346,10,"Nov 19, 1910",Army,17,Trinity (CT),0,0
+347,10,"Nov 19, 1910",TCU,3,Baylor,10,0
+348,10,"Nov 19, 1910",Brown,49,Massachusetts,0,0
+349,10,"Nov 19, 1910",Carlisle,12,Johns Hopkins,0,1
+350,10,"Nov 19, 1910",Tennessee,6,Chattanooga,6,0
+351,10,"Nov 19, 1910",Virginia Military Institute,6,Georgetown,14,1
+352,10,"Nov 19, 1910",Georgia Tech,6,Georgia,11,0
+353,10,"Nov 19, 1910",Yale,0,Harvard,0,0
+354,10,"Nov 19, 1910",Illinois,3,Syracuse,0,0
+355,10,"Nov 19, 1910",Indiana,15,Purdue,0,1
+356,10,"Nov 19, 1910",Iowa,38,Washington (MO),0,1
+357,10,"Nov 19, 1910",Lafayette,14,Lehigh,0,0
+358,10,"Nov 19, 1910",Michigan,6,Minnesota,0,0
+359,10,"Nov 19, 1910",Navy,9,New York University,0,0
+360,10,"Nov 19, 1910",South Carolina,6,North Carolina,27,1
+361,10,"Nov 19, 1910",Wake Forest,3,NC State,28,1
+362,10,"Nov 19, 1910",Pitt,35,Carnegie Mellon,0,0
+363,10,"Nov 19, 1910",Swarthmore,23,Bucknell,18,0
+364,10,"Nov 19, 1910",Texas,12,LSU,0,0
+365,10,"Nov 19, 1910",Texas A&M,6,Southwestern (TX),0,0
+366,10,"Nov 19, 1910",Washington & Jefferson,9,Villanova,0,0
+367,10,"Nov 19, 1910",Wisconsin,10,Chicago,0,0
+368,10,"Nov 19, 1910",Wyoming,5,Nebraska Wesleyan,0,0
+369,11,"Nov 24, 1910",Alabama,9,Washington & Lee,0,0
+370,11,"Nov 24, 1910",Arkansas,51,LSU,0,0
+371,11,"Nov 24, 1910",Auburn,26,Georgia,0,1
+372,11,"Nov 24, 1910",Carlisle,6,Brown,15,1
+373,11,"Nov 24, 1910",Chattanooga,28,Maryville (TN),11,0
+374,11,"Nov 24, 1910",Citadel,5,South Carolina,0,0
+375,11,"Nov 24, 1910",Colorado,19,Colorado Mines,0,1
+376,11,"Nov 24, 1910",Colorado College,6,Denver,5,1
+377,11,"Nov 24, 1910",Davidson,32,Wake Forest,0,0
+378,11,"Nov 24, 1910",Georgetown,6,Lehigh,3,1
+379,11,"Nov 24, 1910",Georgia Tech,34,Clemson,0,0
+380,11,"Nov 24, 1910",Iowa State,2,Drake,0,1
+381,11,"Nov 24, 1910",Lafayette,41,Dickinson,0,0
+382,11,"Nov 24, 1910",Mercer,28,Samford,0,0
+383,11,"Nov 24, 1910",Ole Miss,30,Mississippi State,0,0
+384,11,"Nov 24, 1910",Missouri,5,Kansas,5,0
+385,11,"Nov 24, 1910",Nebraska,119,Haskell,0,0
+386,11,"Nov 24, 1910",NC State,5,Virginia Tech,3,0
+387,11,"Nov 24, 1910",Oklahoma,3,Texas,0,1
+388,11,"Nov 24, 1910",Cornell,6,Pennsylvania,12,1
+389,11,"Nov 24, 1910",Pitt,11,Penn State,0,0
+390,11,"Nov 24, 1910",Southwestern (TX),47,Oklahoma Baptist,3,0
+391,11,"Nov 24, 1910",Syracuse,6,Saint Louis,0,1
+392,11,"Nov 24, 1910",Texas A&M,17,Tulane,0,0
+393,11,"Nov 24, 1910",Utah,6,Utah State,0,0
+394,11,"Nov 24, 1910",Sewanee,6,Vanderbilt,23,1
+395,11,"Nov 24, 1910",Virginia,7,North Carolina,0,0
+396,11,"Nov 24, 1910",Wyoming,10,Colorado State,0,0
+397,11,"Nov 26, 1910",Navy,3,Army,0,0
+398,12,"Dec 3, 1910",Southwestern (TX),5,Baylor,27,1
+399,12,"Dec 3, 1910",Citadel,10,Charleston Navy,0,0
+400,12,"Dec 3, 1910",Norfolk Blues,31,Wake Forest,0,1
+401,12,"Dec 3, 1910",Oklahoma City,30,TCU,0,1

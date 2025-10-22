@@ -1,0 +1,661 @@
+0,1,"Sep 13, 1969",Air Force,26,SMU,22,1
+1,1,"Sep 13, 1969",Buffalo,7,Ball State,10,1
+2,1,"Sep 13, 1969",Kent State,24,Dayton,14,0
+3,1,"Sep 13, 1969",Drake,24,Louisville,24,0
+4,1,"Sep 13, 1969",Xavier,7,Miami (OH),35,1
+5,1,"Sep 13, 1969",North Dakota State,28,Northern Illinois,0,0
+6,1,"Sep 13, 1969",UTEP,14,Pacific,10,0
+7,1,"Sep 13, 1969",UCLA,37,Oregon State,0,0
+8,1,"Sep 13, 1969",Villanova,41,West Chester,14,0
+9,1,"Sep 13, 1969",Wake Forest,22,NC State,21,1
+10,1,"Sep 13, 1969",West Virginia,57,Cincinnati,11,0
+11,1,"Sep 13, 1969",Western Michigan,24,Central Michigan,0,0
+12,1,"Sep 13, 1969",Utah State,7,Wichita State,17,1
+13,2,"Sep 20, 1969",Alabama,17,Virginia Tech,13,1
+14,2,"Sep 20, 1969",Arizona State,48,Minnesota,26,0
+15,2,"Sep 20, 1969",Arkansas,39,Oklahoma State,0,0
+16,2,"Sep 20, 1969",Army,31,New Mexico,14,0
+17,2,"Sep 20, 1969",Auburn,57,Wake Forest,0,0
+18,2,"Sep 20, 1969",Boston University,20,Colgate,0,1
+19,2,"Sep 20, 1969",BYU,22,Colorado State,20,0
+20,2,"Sep 20, 1969",Buffalo,17,Xavier,0,0
+21,2,"Sep 20, 1969",Cincinnati,26,William & Mary,18,0
+22,2,"Sep 20, 1969",Citadel,41,Lehigh,16,1
+23,2,"Sep 20, 1969",Clemson,21,Virginia,14,1
+24,2,"Sep 20, 1969",Colorado,35,Tulsa,14,0
+25,2,"Sep 20, 1969",Guilford,8,Davidson,21,0
+26,2,"Sep 20, 1969",East Tennessee State,7,East Carolina,0,0
+27,2,"Sep 20, 1969",Florida,59,Houston,34,0
+28,2,"Sep 20, 1969",Florida State,24,Wichita State,0,0
+29,2,"Sep 20, 1969",Cal Poly-Pomona,7,Fresno State,27,1
+30,2,"Sep 20, 1969",Furman,14,Presbyterian,12,1
+31,2,"Sep 20, 1969",Georgia,35,Tulane,0,0
+32,2,"Sep 20, 1969",Georgia Tech,24,SMU,21,0
+33,2,"Sep 20, 1969",Indiana,58,Kentucky,30,1
+34,2,"Sep 20, 1969",Kansas State,45,Baylor,15,1
+35,2,"Sep 20, 1969",Long Beach State,32,California-Santa Barbara,16,1
+36,2,"Sep 20, 1969",Texas A&M,6,LSU,35,1
+37,2,"Sep 20, 1969",Louisville,17,Southern Illinois,13,0
+38,2,"Sep 20, 1969",Dayton,9,Miami (OH),19,0
+39,2,"Sep 20, 1969",Michigan,42,Vanderbilt,14,0
+40,2,"Sep 20, 1969",Michigan State,27,Washington,11,0
+41,2,"Sep 20, 1969",Memphis,3,Ole Miss,28,1
+42,2,"Sep 20, 1969",Mississippi State,17,Richmond,14,0
+43,2,"Sep 20, 1969",Missouri,19,Air Force,17,0
+44,2,"Sep 20, 1969",Morehead State,27,Marshall,14,0
+45,2,"Sep 20, 1969",New Mexico State,21,Howard Payne,14,0
+46,2,"Sep 20, 1969",North Carolina,3,NC State,10,1
+47,2,"Sep 20, 1969",Louisiana,6,North Texas,40,1
+48,2,"Sep 20, 1969",Northern Arizona,21,West Texas State,20,1
+49,2,"Sep 20, 1969",Northern Illinois,47,Idaho,30,0
+50,2,"Sep 20, 1969",Notre Dame,35,Northwestern,10,0
+51,2,"Sep 20, 1969",Ohio,35,Kent State,0,0
+52,2,"Sep 20, 1969",Oklahoma,48,Wisconsin,21,1
+53,2,"Sep 20, 1969",Oregon,28,Utah,17,1
+54,2,"Sep 20, 1969",Oregon State,42,Iowa,14,1
+55,2,"Sep 20, 1969",Pacific,21,Western Michigan,0,0
+56,2,"Sep 20, 1969",Penn State,45,Navy,22,1
+57,2,"Sep 20, 1969",Purdue,42,TCU,35,1
+58,2,"Sep 20, 1969",Rice,55,Virginia Military Institute,0,0
+59,2,"Sep 20, 1969",Rutgers,44,Lafayette,22,1
+60,2,"Sep 20, 1969",South Carolina,27,Duke,20,0
+61,2,"Sep 20, 1969",USC,31,Nebraska,21,1
+62,2,"Sep 20, 1969",Southeastern Louisiana,6,Southern Miss,14,1
+63,2,"Sep 20, 1969",Stanford,63,San Jose State,21,0
+64,2,"Sep 20, 1969",Syracuse,14,Iowa State,13,0
+65,2,"Sep 20, 1969",Tennessee,31,Chattanooga,0,0
+66,2,"Sep 20, 1969",Texas,17,California,0,1
+67,2,"Sep 20, 1969",Texas Tech,38,Kansas,22,0
+68,2,"Sep 20, 1969",Toledo,45,Villanova,18,0
+69,2,"Sep 20, 1969",Pitt,8,UCLA,42,1
+70,2,"Sep 20, 1969",Bowling Green,6,Utah State,14,0
+71,2,"Sep 20, 1969",Washington State,19,Illinois,18,1
+72,2,"Sep 20, 1969",Maryland,7,West Virginia,31,1
+73,2,"Sep 20, 1969",Arizona,7,Wyoming,23,1
+74,3,"Sep 26, 1969",Florida State,16,Miami,14,1
+75,3,"Sep 27, 1969",Alabama,63,Southern Miss,14,0
+76,3,"Sep 27, 1969",Arkansas,55,Tulsa,0,0
+77,3,"Sep 27, 1969",Vanderbilt,6,Army,16,0
+78,3,"Sep 27, 1969",Boston College,21,Navy,14,0
+79,3,"Sep 27, 1969",Dayton,7,Bowling Green,27,0
+80,3,"Sep 27, 1969",Brown,21,Rhode Island,0,0
+81,3,"Sep 27, 1969",Massachusetts,6,Buffalo,16,0
+82,3,"Sep 27, 1969",California,17,Indiana,14,1
+83,3,"Sep 27, 1969",Nevada,6,California-Santa Barbara,21,1
+84,3,"Sep 27, 1969",Citadel,14,Arkansas State,10,0
+85,3,"Sep 27, 1969",Colgate,28,Cornell,24,1
+86,3,"Sep 27, 1969",Colorado State,50,Wichita State,21,0
+87,3,"Sep 27, 1969",Connecticut,19,Yale,15,1
+88,3,"Sep 27, 1969",Dartmouth,31,New Hampshire,0,1
+89,3,"Sep 27, 1969",Davidson,77,Furman,14,1
+90,3,"Sep 27, 1969",Florida,47,Mississippi State,35,1
+91,3,"Sep 27, 1969",Fresno State,28,Montana State,20,1
+92,3,"Sep 27, 1969",Georgia,30,Clemson,0,1
+93,3,"Sep 27, 1969",Georgia Tech,17,Baylor,10,0
+94,3,"Sep 27, 1969",Harvard,13,Holy Cross,0,0
+95,3,"Sep 27, 1969",Idaho State,47,Idaho,42,0
+96,3,"Sep 27, 1969",Iowa,61,Washington State,35,0
+97,3,"Sep 27, 1969",Iowa State,10,BYU,0,0
+98,3,"Sep 27, 1969",Kansas,13,Syracuse,0,0
+99,3,"Sep 27, 1969",Kansas State,42,Arizona,27,1
+100,3,"Sep 27, 1969",Xavier,7,Kent State,23,0
+101,3,"Sep 27, 1969",Ole Miss,9,Kentucky,10,1
+102,3,"Sep 27, 1969",Lafayette,36,Columbia,22,1
+103,3,"Sep 27, 1969",LSU,42,Rice,0,1
+104,3,"Sep 27, 1969",East Carolina,6,Louisiana Tech,24,0
+105,3,"Sep 27, 1969",Memphis,15,North Texas,13,0
+106,3,"Sep 27, 1969",Miami (OH),24,Western Michigan,20,1
+107,3,"Sep 27, 1969",Washington,7,Michigan,45,1
+108,3,"Sep 27, 1969",Michigan State,23,SMU,15,0
+109,3,"Sep 27, 1969",Illinois,6,Missouri,37,1
+110,3,"Sep 27, 1969",Nebraska,14,Texas A&M,0,0
+111,3,"Sep 27, 1969",Texas-Arlington,7,New Mexico State,16,0
+112,3,"Sep 27, 1969",Maryland,7,NC State,24,0
+113,3,"Sep 27, 1969",Minnesota,35,Ohio,35,0
+114,3,"Sep 27, 1969",Ohio State,62,TCU,0,0
+115,3,"Sep 27, 1969",Pitt,8,Oklahoma,37,1
+116,3,"Sep 27, 1969",Oklahoma State,24,Houston,18,0
+117,3,"Sep 27, 1969",Arizona State,7,Oregon State,30,0
+118,3,"Sep 27, 1969",Pacific,36,Utah State,3,1
+119,3,"Sep 27, 1969",Colorado,3,Penn State,27,1
+120,3,"Sep 27, 1969",Pennsylvania,28,Bucknell,17,0
+121,3,"Sep 27, 1969",Purdue,28,Notre Dame,14,0
+122,3,"Sep 27, 1969",Richmond,20,Virginia Military Institute,0,1
+123,3,"Sep 27, 1969",Rutgers,29,Princeton,0,0
+124,3,"Sep 27, 1969",San Diego State,49,Cal State Los Angeles,0,1
+125,3,"Sep 27, 1969",North Carolina,6,South Carolina,14,1
+126,3,"Sep 27, 1969",Northwestern,6,USC,48,1
+127,3,"Sep 27, 1969",Stanford,28,Oregon,0,0
+128,3,"Sep 27, 1969",Tennessee,45,Auburn,19,0
+129,3,"Sep 27, 1969",Texas Tech,7,Texas,49,1
+130,3,"Sep 27, 1969",Long Beach State,7,Texas A&M-Kingsville,21,1
+131,3,"Sep 27, 1969",New Mexico,6,UTEP,21,0
+132,3,"Sep 27, 1969",Toledo,38,Marshall,13,1
+133,3,"Sep 27, 1969",UCLA,34,Wisconsin,23,1
+134,3,"Sep 27, 1969",San Jose State,7,Utah,42,1
+135,3,"Sep 27, 1969",Villanova,36,Delaware,33,1
+136,3,"Sep 27, 1969",Virginia,10,Duke,0,0
+137,3,"Sep 27, 1969",Wake Forest,16,Virginia Tech,10,0
+138,3,"Sep 27, 1969",Northern Illinois,7,West Texas State,22,1
+139,3,"Sep 27, 1969",West Virginia,35,Tulane,17,1
+140,3,"Sep 27, 1969",William & Mary,7,Temple,6,1
+141,3,"Sep 27, 1969",Wyoming,27,Air Force,25,1
+142,4,"Oct 3, 1969",Idaho,31,Southern Miss,21,1
+143,4,"Oct 3, 1969",Miami,23,NC State,13,0
+144,4,"Oct 4, 1969",Alabama,33,Ole Miss,32,0
+145,4,"Oct 4, 1969",BYU,7,Arizona State,23,1
+146,4,"Oct 4, 1969",TCU,6,Arkansas,24,1
+147,4,"Oct 4, 1969",Auburn,44,Kentucky,3,0
+148,4,"Oct 4, 1969",Boston College,28,Tulane,24,0
+149,4,"Oct 4, 1969",Boston University,13,Harvard,10,1
+150,4,"Oct 4, 1969",Bowling Green,21,Western Michigan,10,0
+151,4,"Oct 4, 1969",Cal Poly-Pomona,14,Cal State Los Angeles,13,0
+152,4,"Oct 4, 1969",Cal State Northridge,32,Long Beach State,21,1
+153,4,"Oct 4, 1969",California,31,Rice,21,0
+154,4,"Oct 4, 1969",California-Santa Barbara,21,Whittier,19,0
+155,4,"Oct 4, 1969",Furman,21,Carson-Newman,21,0
+156,4,"Oct 4, 1969",Cincinnati,17,Xavier,14,0
+157,4,"Oct 4, 1969",Citadel,31,East Carolina,13,1
+158,4,"Oct 4, 1969",Clemson,21,Georgia Tech,10,1
+159,4,"Oct 4, 1969",Indiana,7,Colorado,30,1
+160,4,"Oct 4, 1969",Holy Cross,6,Dartmouth,38,1
+161,4,"Oct 4, 1969",Davidson,17,Trinity (Texas),16,1
+162,4,"Oct 4, 1969",Drake,27,North Texas,23,0
+163,4,"Oct 4, 1969",Florida State,6,Florida,21,1
+164,4,"Oct 4, 1969",Georgia,41,South Carolina,16,0
+165,4,"Oct 4, 1969",Houston,74,Mississippi State,0,0
+166,4,"Oct 4, 1969",Iowa,31,Arizona,19,0
+167,4,"Oct 4, 1969",Iowa State,48,Illinois,20,1
+168,4,"Oct 4, 1969",Buffalo,8,Kent State,17,0
+169,4,"Oct 4, 1969",Lamar,9,New Mexico State,7,0
+170,4,"Oct 4, 1969",Baylor,8,LSU,63,1
+171,4,"Oct 4, 1969",Louisville,24,Dayton,17,0
+172,4,"Oct 4, 1969",Maryland,19,Wake Forest,14,1
+173,4,"Oct 4, 1969",Missouri,40,Michigan,17,1
+174,4,"Oct 4, 1969",Nebraska,42,Minnesota,14,1
+175,4,"Oct 4, 1969",Kansas,7,New Mexico,16,1
+176,4,"Oct 4, 1969",North Carolina,38,Vanderbilt,22,0
+177,4,"Oct 4, 1969",Northern Illinois,18,Marshall,17,1
+178,4,"Oct 4, 1969",Notre Dame,42,Michigan State,28,0
+179,4,"Oct 4, 1969",Ohio State,41,Washington,14,1
+180,4,"Oct 4, 1969",Oklahoma State,17,Texas Tech,10,0
+181,4,"Oct 4, 1969",Oregon,25,Washington State,24,1
+182,4,"Oct 4, 1969",Pacific,40,Fresno State,21,0
+183,4,"Oct 4, 1969",Penn State,17,Kansas State,14,1
+184,4,"Oct 4, 1969",Pennsylvania,23,Brown,2,0
+185,4,"Oct 4, 1969",Pitt,14,Duke,12,1
+186,4,"Oct 4, 1969",Columbia,7,Princeton,21,0
+187,4,"Oct 4, 1969",Purdue,36,Stanford,35,0
+188,4,"Oct 4, 1969",Richmond,17,Virginia Tech,10,0
+189,4,"Oct 4, 1969",Cornell,7,Rutgers,21,1
+190,4,"Oct 4, 1969",San Diego State,55,San Jose State,21,1
+191,4,"Oct 4, 1969",Oregon State,7,USC,31,0
+192,4,"Oct 4, 1969",Wisconsin,7,Syracuse,43,0
+193,4,"Oct 4, 1969",Tennessee,55,Memphis,16,1
+194,4,"Oct 4, 1969",Texas,56,Navy,17,0
+195,4,"Oct 4, 1969",Texas A&M,20,Army,13,1
+196,4,"Oct 4, 1969",Ohio,9,Toledo,34,1
+197,4,"Oct 4, 1969",UCLA,36,Northwestern,0,1
+198,4,"Oct 4, 1969",UTEP,6,Utah,24,0
+199,4,"Oct 4, 1969",Santa Clara,8,Villanova,57,1
+200,4,"Oct 4, 1969",Virginia,28,William & Mary,15,1
+201,4,"Oct 4, 1969",West Texas State,24,Wichita State,14,1
+202,4,"Oct 4, 1969",West Virginia,32,Virginia Military Institute,0,0
+203,4,"Oct 4, 1969",Wyoming,39,Colorado State,3,0
+204,4,"Oct 4, 1969",Yale,40,Colgate,21,0
+205,5,"Oct 10, 1969",LSU,20,Miami,0,1
+206,5,"Oct 10, 1969",SMU,19,TCU,17,0
+207,5,"Oct 11, 1969",Air Force,20,North Carolina,10,1
+208,5,"Oct 11, 1969",Auburn,51,Clemson,0,0
+209,5,"Oct 11, 1969",BYU,41,New Mexico,15,0
+210,5,"Oct 11, 1969",Buffalo,27,Dayton,0,0
+211,5,"Oct 11, 1969",California,44,Washington,13,0
+212,5,"Oct 11, 1969",Colorado,14,Iowa State,0,1
+213,5,"Oct 11, 1969",Colorado State,37,Utah State,33,1
+214,5,"Oct 11, 1969",Dartmouth,41,Pennsylvania,0,0
+215,5,"Oct 11, 1969",Richmond,7,Davidson,37,1
+216,5,"Oct 11, 1969",Duke,27,Wake Forest,20,1
+217,5,"Oct 11, 1969",Florida,18,Tulane,17,0
+218,5,"Oct 11, 1969",Fresno State,38,Cal State Northridge,14,1
+219,5,"Oct 11, 1969",Harvard,51,Columbia,0,0
+220,5,"Oct 11, 1969",Houston,34,Arizona,17,1
+221,5,"Oct 11, 1969",Minnesota,7,Indiana,17,1
+222,5,"Oct 11, 1969",Kansas State,26,Kansas,22,1
+223,5,"Oct 11, 1969",Kentucky,7,Virginia Tech,6,1
+224,5,"Oct 11, 1969",Rutgers,7,Lehigh,17,0
+225,5,"Oct 11, 1969",Long Beach State,28,Hawaii,14,1
+226,5,"Oct 11, 1969",Cincinnati,6,Memphis,52,0
+227,5,"Oct 11, 1969",Marshall,7,Miami (OH),35,1
+228,5,"Oct 11, 1969",Michigan,31,Purdue,20,0
+229,5,"Oct 11, 1969",Ole Miss,25,Georgia,17,0
+230,5,"Oct 11, 1969",Mississippi State,34,Southern Miss,20,0
+231,5,"Oct 11, 1969",Nebraska,7,Missouri,17,1
+232,5,"Oct 11, 1969",Idaho,9,Montana,34,1
+233,5,"Oct 11, 1969",Wichita State,6,New Mexico State,23,0
+234,5,"Oct 11, 1969",North Texas,35,Weber State,13,0
+235,5,"Oct 11, 1969",Northern Arizona,20,Cal State Los Angeles,14,1
+236,5,"Oct 11, 1969",Illinois,6,Northwestern,10,0
+237,5,"Oct 11, 1969",Notre Dame,45,Army,0,1
+238,5,"Oct 11, 1969",Xavier,6,Ohio,31,1
+239,5,"Oct 11, 1969",Ohio State,54,Michigan State,21,0
+240,5,"Oct 11, 1969",Pacific,38,California-Santa Barbara,0,0
+241,5,"Oct 11, 1969",Penn State,20,West Virginia,0,0
+242,5,"Oct 11, 1969",Pitt,46,Navy,19,0
+243,5,"Oct 11, 1969",Princeton,24,Cornell,17,1
+244,5,"Oct 11, 1969",San Diego State,24,West Texas State,14,1
+245,5,"Oct 11, 1969",San Jose State,36,Oregon,34,1
+246,5,"Oct 11, 1969",South Carolina,21,NC State,16,0
+247,5,"Oct 11, 1969",USC,26,Stanford,24,0
+248,5,"Oct 11, 1969",Maryland,9,Syracuse,20,0
+249,5,"Oct 11, 1969",Tampa,31,Tulsa,14,0
+250,5,"Oct 11, 1969",Georgia Tech,8,Tennessee,26,1
+251,5,"Oct 11, 1969",Texas,27,Oklahoma,17,0
+252,5,"Oct 11, 1969",Texas A&M,9,Texas Tech,13,1
+253,5,"Oct 11, 1969",Toledo,27,Bowling Green,26,1
+254,5,"Oct 11, 1969",UCLA,46,Washington State,14,1
+255,5,"Oct 11, 1969",Utah,24,Arizona State,23,0
+256,5,"Oct 11, 1969",Vanderbilt,14,Alabama,10,0
+257,5,"Oct 11, 1969",Virginia,28,Virginia Military Institute,10,0
+258,5,"Oct 11, 1969",Western Kentucky,14,Northern Illinois,12,1
+259,5,"Oct 11, 1969",Western Michigan,33,Kent State,13,0
+260,5,"Oct 11, 1969",William & Mary,21,Citadel,14,1
+261,5,"Oct 11, 1969",Wisconsin,23,Iowa,17,0
+262,5,"Oct 11, 1969",Furman,7,Wofford,49,1
+263,5,"Oct 11, 1969",UTEP,9,Wyoming,37,1
+264,5,"Oct 11, 1969",Yale,27,Brown,13,1
+265,6,"Oct 18, 1969",Air Force,60,Oregon,13,0
+266,6,"Oct 18, 1969",Arizona,26,UTEP,10,0
+267,6,"Oct 18, 1969",Arizona State,45,San Jose State,11,1
+268,6,"Oct 18, 1969",Baylor,7,Arkansas,21,0
+269,6,"Oct 18, 1969",Auburn,17,Georgia Tech,14,1
+270,6,"Oct 18, 1969",Bowling Green,7,Kent State,0,1
+271,6,"Oct 18, 1969",Cal Poly,21,Fresno State,17,0
+272,6,"Oct 18, 1969",California-Santa Barbara,26,Cal State Northridge,2,0
+273,6,"Oct 18, 1969",Cincinnati,21,Wichita State,14,0
+274,6,"Oct 18, 1969",Citadel,28,Virginia Military Institute,2,1
+275,6,"Oct 18, 1969",Clemson,28,Wake Forest,14,0
+276,6,"Oct 18, 1969",Colgate,35,Princeton,28,1
+277,6,"Oct 18, 1969",West Texas State,7,Colorado State,27,1
+278,6,"Oct 18, 1969",Cornell,41,Harvard,24,0
+279,6,"Oct 18, 1969",Dartmouth,38,Brown,13,1
+280,6,"Oct 18, 1969",Davidson,17,William & Mary,15,1
+281,6,"Oct 18, 1969",Dayton,56,Northern Illinois,24,0
+282,6,"Oct 18, 1969",Florida,52,North Carolina,2,0
+283,6,"Oct 18, 1969",Florida State,38,Tulsa,20,1
+284,6,"Oct 18, 1969",Vanderbilt,8,Georgia,40,0
+285,6,"Oct 18, 1969",Indiana,41,Illinois,20,0
+286,6,"Oct 18, 1969",Iowa State,7,Kansas State,34,1
+287,6,"Oct 18, 1969",Long Beach State,23,Northern Arizona,15,0
+288,6,"Oct 18, 1969",LSU,37,Kentucky,10,1
+289,6,"Oct 18, 1969",Louisville,34,Marshall,17,0
+290,6,"Oct 18, 1969",Duke,7,Maryland,20,1
+291,6,"Oct 18, 1969",Memphis,26,Miami,13,0
+292,6,"Oct 18, 1969",Miami (OH),24,Ohio,21,1
+293,6,"Oct 18, 1969",Michigan State,23,Michigan,12,0
+294,6,"Oct 18, 1969",Southern Miss,7,Ole Miss,69,1
+295,6,"Oct 18, 1969",Mississippi State,30,Texas Tech,26,1
+296,6,"Oct 18, 1969",Missouri,31,Oklahoma State,21,0
+297,6,"Oct 18, 1969",Nebraska,21,Kansas,17,0
+298,6,"Oct 18, 1969",NC State,31,Virginia,0,1
+299,6,"Oct 18, 1969",North Texas,30,New Mexico State,12,1
+300,6,"Oct 18, 1969",Wisconsin,7,Northwestern,27,1
+301,6,"Oct 18, 1969",Minnesota,7,Ohio State,34,0
+302,6,"Oct 18, 1969",Oklahoma,42,Colorado,30,0
+303,6,"Oct 18, 1969",Washington,6,Oregon State,10,0
+304,6,"Oct 18, 1969",Pacific,28,Idaho,0,0
+305,6,"Oct 18, 1969",Penn State,15,Syracuse,14,1
+306,6,"Oct 18, 1969",Lehigh,7,Pennsylvania,13,1
+307,6,"Oct 18, 1969",Purdue,35,Iowa,31,0
+308,6,"Oct 18, 1969",East Carolina,7,Richmond,24,1
+309,6,"Oct 18, 1969",Navy,6,Rutgers,20,1
+310,6,"Oct 18, 1969",Samford,34,Furman,14,0
+311,6,"Oct 18, 1969",San Diego State,27,Texas-Arlington,10,1
+312,6,"Oct 18, 1969",South Carolina,17,Virginia Tech,16,1
+313,6,"Oct 18, 1969",Notre Dame,14,USC,14,0
+314,6,"Oct 18, 1969",SMU,34,Rice,14,1
+315,6,"Oct 18, 1969",Stanford,49,Washington State,0,0
+316,6,"Oct 18, 1969",Tennessee,41,Alabama,14,1
+317,6,"Oct 18, 1969",Texas A&M,6,TCU,16,1
+318,6,"Oct 18, 1969",Toledo,38,Western Michigan,13,0
+319,6,"Oct 18, 1969",Tulane,26,Pitt,22,1
+320,6,"Oct 18, 1969",UCLA,32,California,0,0
+321,6,"Oct 18, 1969",Utah,24,New Mexico,0,1
+322,6,"Oct 18, 1969",Army,7,Utah State,23,0
+323,6,"Oct 18, 1969",Boston College,6,Villanova,24,0
+324,6,"Oct 18, 1969",BYU,7,Wyoming,40,1
+325,6,"Oct 18, 1969",Columbia,6,Yale,41,0
+326,7,"Oct 24, 1969",Long Beach State,34,Santa Clara,28,0
+327,7,"Oct 24, 1969",TCU,9,Miami,14,1
+328,7,"Oct 25, 1969",Colorado State,7,Air Force,28,1
+329,7,"Oct 25, 1969",Akron,14,Dayton,10,1
+330,7,"Oct 25, 1969",Alabama,38,Clemson,13,1
+331,7,"Oct 25, 1969",Arizona,52,New Mexico,28,0
+332,7,"Oct 25, 1969",Arkansas,52,Wichita State,14,0
+333,7,"Oct 25, 1969",Boston College,7,Army,38,1
+334,7,"Oct 25, 1969",Bowling Green,3,Miami (OH),0,0
+335,7,"Oct 25, 1969",UTEP,7,BYU,30,0
+336,7,"Oct 25, 1969",California,17,Washington State,0,1
+337,7,"Oct 25, 1969",Citadel,34,Davidson,28,0
+338,7,"Oct 25, 1969",Brown,6,Colgate,20,0
+339,7,"Oct 25, 1969",Colorado,31,Missouri,24,0
+340,7,"Oct 25, 1969",Dartmouth,24,Harvard,10,1
+341,7,"Oct 25, 1969",NC State,25,Duke,25,0
+342,7,"Oct 25, 1969",Southern Illinois,3,East Carolina,17,0
+343,7,"Oct 25, 1969",Florida,41,Vanderbilt,20,0
+344,7,"Oct 25, 1969",Florida State,20,Mississippi State,17,0
+345,7,"Oct 25, 1969",Fresno State,24,Cal State Los Angeles,0,1
+346,7,"Oct 25, 1969",Georgia,30,Kentucky,0,0
+347,7,"Oct 25, 1969",Houston,25,Ole Miss,11,0
+348,7,"Oct 25, 1969",Idaho,31,Montana State,21,0
+349,7,"Oct 25, 1969",Iowa,19,Michigan State,18,0
+350,7,"Oct 25, 1969",Iowa State,44,Kansas,20,0
+351,7,"Oct 25, 1969",Kansas State,59,Oklahoma,21,0
+352,7,"Oct 25, 1969",LSU,21,Auburn,20,0
+353,7,"Oct 25, 1969",Memphis,40,Utah State,0,1
+354,7,"Oct 25, 1969",Minnesota,9,Michigan,35,0
+355,7,"Oct 25, 1969",Navy,10,Virginia,0,0
+356,7,"Oct 25, 1969",Oklahoma State,3,Nebraska,13,1
+357,7,"Oct 25, 1969",Wake Forest,3,North Carolina,23,1
+358,7,"Oct 25, 1969",North Texas,31,Louisville,13,0
+359,7,"Oct 25, 1969",Northern Illinois,17,Ball State,13,0
+360,7,"Oct 25, 1969",Notre Dame,37,Tulane,0,1
+361,7,"Oct 25, 1969",Ohio State,41,Illinois,0,0
+362,7,"Oct 25, 1969",Washington,7,Oregon,22,1
+363,7,"Oct 25, 1969",Penn State,42,Ohio,3,0
+364,7,"Oct 25, 1969",Princeton,42,Pennsylvania,0,0
+365,7,"Oct 25, 1969",Purdue,45,Northwestern,20,0
+366,7,"Oct 25, 1969",Rutgers,21,Columbia,14,0
+367,7,"Oct 25, 1969",San Diego State,55,California-Santa Barbara,13,1
+368,7,"Oct 25, 1969",South Carolina,17,Maryland,0,0
+369,7,"Oct 25, 1969",USC,29,Georgia Tech,18,0
+370,7,"Oct 25, 1969",Southern Miss,31,Richmond,28,0
+371,7,"Oct 25, 1969",Texas,31,Rice,0,0
+372,7,"Oct 25, 1969",Texas A&M,24,Baylor,0,0
+373,7,"Oct 25, 1969",Texas Tech,27,SMU,24,1
+374,7,"Oct 25, 1969",Toledo,43,Kent State,17,0
+375,7,"Oct 25, 1969",Tulsa,40,Cincinnati,24,0
+376,7,"Oct 25, 1969",Stanford,20,UCLA,20,0
+377,7,"Oct 25, 1969",Utah,7,Oregon State,3,1
+378,7,"Oct 25, 1969",Xavier,7,Villanova,35,0
+379,7,"Oct 25, 1969",Buffalo,7,Virginia Tech,21,0
+380,7,"Oct 25, 1969",West Texas State,17,New Mexico State,16,0
+381,7,"Oct 25, 1969",West Virginia,49,Pitt,18,0
+382,7,"Oct 25, 1969",Western Michigan,48,Marshall,14,0
+383,7,"Oct 25, 1969",William & Mary,25,Virginia Military Institute,17,0
+384,7,"Oct 25, 1969",Wisconsin,36,Indiana,34,0
+385,7,"Oct 25, 1969",San Jose State,7,Wyoming,16,1
+386,7,"Oct 25, 1969",Yale,17,Cornell,0,0
+387,8,"Nov 1, 1969",Army,6,Air Force,13,0
+388,8,"Nov 1, 1969",Alabama,23,Mississippi State,19,1
+389,8,"Nov 1, 1969",Arizona State,30,Wyoming,14,0
+390,8,"Nov 1, 1969",Arkansas,35,Texas A&M,13,0
+391,8,"Nov 1, 1969",Auburn,38,Florida,12,0
+392,8,"Nov 1, 1969",BYU,31,Arizona,21,0
+393,8,"Nov 1, 1969",Buffalo,33,Temple,0,0
+394,8,"Nov 1, 1969",Clemson,40,Maryland,0,0
+395,8,"Nov 1, 1969",Lehigh,14,Colgate,14,0
+396,8,"Nov 1, 1969",Columbia,3,Cornell,10,1
+397,8,"Nov 1, 1969",Dartmouth,42,Yale,21,1
+398,8,"Nov 1, 1969",Virginia Military Institute,6,Davidson,59,1
+399,8,"Nov 1, 1969",Dayton,32,Xavier,14,0
+400,8,"Nov 1, 1969",Delaware,44,Rutgers,0,0
+401,8,"Nov 1, 1969",East Carolina,24,Furman,21,0
+402,8,"Nov 1, 1969",South Carolina,9,Florida State,34,1
+403,8,"Nov 1, 1969",Duke,7,Georgia Tech,20,1
+404,8,"Nov 1, 1969",Pennsylvania,6,Harvard,20,0
+405,8,"Nov 1, 1969",Hawaii,52,Cal State Los Angeles,28,0
+406,8,"Nov 1, 1969",Houston,38,Miami,36,0
+407,8,"Nov 1, 1969",Indiana,16,Michigan State,0,1
+408,8,"Nov 1, 1969",Louisville,6,Kent State,35,1
+409,8,"Nov 1, 1969",Long Beach State,22,Cal Poly,20,1
+410,8,"Nov 1, 1969",Marshall,21,Bowling Green,16,0
+411,8,"Nov 1, 1969",Memphis,42,Tulsa,24,0
+412,8,"Nov 1, 1969",Wisconsin,7,Michigan,35,1
+413,8,"Nov 1, 1969",Iowa,8,Minnesota,35,0
+414,8,"Nov 1, 1969",Ole Miss,26,LSU,23,0
+415,8,"Nov 1, 1969",Missouri,41,Kansas State,38,0
+416,8,"Nov 1, 1969",Colorado,7,Nebraska,20,1
+417,8,"Nov 1, 1969",New Mexico,27,San Jose State,24,1
+418,8,"Nov 1, 1969",North Carolina,12,Virginia,0,1
+419,8,"Nov 1, 1969",North Texas,31,Cincinnati,30,1
+420,8,"Nov 1, 1969",Notre Dame,47,Navy,0,0
+421,8,"Nov 1, 1969",Ohio,22,Western Michigan,17,0
+422,8,"Nov 1, 1969",Northwestern,6,Ohio State,35,0
+423,8,"Nov 1, 1969",Oklahoma,37,Iowa State,14,0
+424,8,"Nov 1, 1969",Oklahoma State,28,Kansas,25,1
+425,8,"Nov 1, 1969",Oregon,58,Idaho,14,0
+426,8,"Nov 1, 1969",Pacific,27,Washington State,20,1
+427,8,"Nov 1, 1969",Penn State,38,Boston College,16,0
+428,8,"Nov 1, 1969",Pitt,21,Syracuse,20,0
+429,8,"Nov 1, 1969",Brown,6,Princeton,33,1
+430,8,"Nov 1, 1969",Purdue,49,Illinois,22,1
+431,8,"Nov 1, 1969",Richmond,45,Citadel,18,0
+432,8,"Nov 1, 1969",San Diego State,48,Fresno State,20,1
+433,8,"Nov 1, 1969",California-Santa Barbara,7,Santa Clara,27,0
+434,8,"Nov 1, 1969",California,9,USC,14,0
+435,8,"Nov 1, 1969",Southern Miss,24,Louisiana Tech,23,1
+436,8,"Nov 1, 1969",Stanford,33,Oregon State,0,1
+437,8,"Nov 1, 1969",Georgia,3,Tennessee,17,0
+438,8,"Nov 1, 1969",Texas,45,SMU,14,1
+439,8,"Nov 1, 1969",TCU,31,Baylor,14,1
+440,8,"Nov 1, 1969",Texas Tech,24,Rice,14,0
+441,8,"Nov 1, 1969",UTEP,17,Colorado State,16,1
+442,8,"Nov 1, 1969",Toledo,14,Miami (OH),10,1
+443,8,"Nov 1, 1969",UCLA,57,Washington,14,0
+444,8,"Nov 1, 1969",Utah State,7,Utah,27,1
+445,8,"Nov 1, 1969",Vanderbilt,26,Tulane,23,1
+446,8,"Nov 1, 1969",William & Mary,7,Virginia Tech,48,1
+447,8,"Nov 1, 1969",Texas-Arlington,7,West Texas State,41,0
+448,8,"Nov 1, 1969",West Virginia,7,Kentucky,6,1
+449,9,"Nov 7, 1969",Miami,30,Navy,10,0
+450,9,"Nov 8, 1969",Air Force,38,Utah State,13,0
+451,9,"Nov 8, 1969",Arizona State,48,New Mexico,17,1
+452,9,"Nov 8, 1969",Rice,6,Arkansas,30,0
+453,9,"Nov 8, 1969",Oregon,17,Army,17,0
+454,9,"Nov 8, 1969",Auburn,52,Mississippi State,13,0
+455,9,"Nov 8, 1969",Bowling Green,23,Ohio,16,1
+456,9,"Nov 8, 1969",San Jose State,3,BYU,21,1
+457,9,"Nov 8, 1969",Buffalo,35,Boston College,21,1
+458,9,"Nov 8, 1969",Cal State Los Angeles,6,California-Santa Barbara,28,1
+459,9,"Nov 8, 1969",Cincinnati,31,Louisville,21,1
+460,9,"Nov 8, 1969",Citadel,40,Maine,28,0
+461,9,"Nov 8, 1969",Bucknell,7,Colgate,28,1
+462,9,"Nov 8, 1969",Colorado,17,Kansas,14,1
+463,9,"Nov 8, 1969",Connecticut,28,Rutgers,22,0
+464,9,"Nov 8, 1969",Brown,7,Cornell,14,1
+465,9,"Nov 8, 1969",Columbia,7,Dartmouth,37,0
+466,9,"Nov 8, 1969",Davidson,42,East Carolina,27,1
+467,9,"Nov 8, 1969",Dayton,27,Villanova,20,1
+468,9,"Nov 8, 1969",Duke,34,Clemson,27,0
+469,9,"Nov 8, 1969",Virginia Tech,10,Florida State,10,0
+470,9,"Nov 8, 1969",Georgia,13,Florida,13,0
+471,9,"Nov 8, 1969",Houston,47,Tulsa,14,1
+472,9,"Nov 8, 1969",Iowa,28,Indiana,17,1
+473,9,"Nov 8, 1969",Fresno State,7,Long Beach State,37,1
+474,9,"Nov 8, 1969",LSU,20,Alabama,15,0
+475,9,"Nov 8, 1969",Marshall,31,Kent State,20,1
+476,9,"Nov 8, 1969",Southern Miss,7,Memphis,37,1
+477,9,"Nov 8, 1969",Miami (OH),34,Maryland,21,1
+478,9,"Nov 8, 1969",Michigan,57,Illinois,0,1
+479,9,"Nov 8, 1969",Minnesota,28,Northwestern,21,0
+480,9,"Nov 8, 1969",Ole Miss,21,Chattanooga,0,0
+481,9,"Nov 8, 1969",Missouri,44,Oklahoma,10,0
+482,9,"Nov 8, 1969",Iowa State,3,Nebraska,17,1
+483,9,"Nov 8, 1969",New Mexico State,41,UTEP,38,1
+484,9,"Nov 8, 1969",North Carolina,61,Virginia Military Institute,11,0
+485,9,"Nov 8, 1969",North Texas,47,Wichita State,0,0
+486,9,"Nov 8, 1969",Pitt,7,Notre Dame,49,0
+487,9,"Nov 8, 1969",Wisconsin,7,Ohio State,62,1
+488,9,"Nov 8, 1969",Oklahoma State,28,Kansas State,19,0
+489,9,"Nov 8, 1969",Oregon State,35,California,3,1
+490,9,"Nov 8, 1969",Princeton,51,Harvard,20,1
+491,9,"Nov 8, 1969",Purdue,41,Michigan State,13,0
+492,9,"Nov 8, 1969",Richmond,37,Furman,0,0
+493,9,"Nov 8, 1969",San Diego State,58,Pacific,32,0
+494,9,"Nov 8, 1969",Washington State,7,USC,28,1
+495,9,"Nov 8, 1969",Washington,7,Stanford,21,0
+496,9,"Nov 8, 1969",Syracuse,23,Arizona,0,0
+497,9,"Nov 8, 1969",Tennessee,29,South Carolina,14,0
+498,9,"Nov 8, 1969",Texas,56,Baylor,14,0
+499,9,"Nov 8, 1969",Texas A&M,20,SMU,10,0
+500,9,"Nov 8, 1969",TCU,35,Texas Tech,26,0
+501,9,"Nov 8, 1969",Toledo,35,Northern Illinois,21,1
+502,9,"Nov 8, 1969",Georgia Tech,7,Tulane,14,1
+503,9,"Nov 8, 1969",Utah,34,Wyoming,10,0
+504,9,"Nov 8, 1969",Kentucky,6,Vanderbilt,42,1
+505,9,"Nov 8, 1969",Wake Forest,23,Virginia,21,1
+506,9,"Nov 8, 1969",Idaho,7,Weber State,28,1
+507,9,"Nov 8, 1969",West Texas State,28,Western Michigan,20,1
+508,9,"Nov 8, 1969",West Virginia,31,William & Mary,0,1
+509,9,"Nov 8, 1969",Pennsylvania,3,Yale,21,1
+510,10,"Nov 15, 1969",Miami,6,Alabama,42,1
+511,10,"Nov 15, 1969",Arizona,17,Utah,16,0
+512,10,"Nov 15, 1969",Arizona State,42,UTEP,19,1
+513,10,"Nov 15, 1969",Arkansas,28,SMU,15,1
+514,10,"Nov 15, 1969",Georgia,3,Auburn,16,0
+515,10,"Nov 15, 1969",Boston College,49,Virginia Military Institute,32,0
+516,10,"Nov 15, 1969",Utah State,3,BYU,21,0
+517,10,"Nov 15, 1969",Brown,24,Harvard,17,0
+518,10,"Nov 15, 1969",San Jose State,7,California,31,1
+519,10,"Nov 15, 1969",California-Santa Barbara,9,Cal Poly,7,1
+520,10,"Nov 15, 1969",Citadel,37,Furman,21,0
+521,10,"Nov 15, 1969",Colgate,14,Lafayette,10,1
+522,10,"Nov 15, 1969",Colorado,17,Oklahoma State,14,0
+523,10,"Nov 15, 1969",Colorado State,31,Idaho,21,0
+524,10,"Nov 15, 1969",Cornell,7,Dartmouth,24,1
+525,10,"Nov 15, 1969",Kentucky,6,Florida,31,1
+526,10,"Nov 15, 1969",Fresno State,27,Northern Arizona,18,0
+527,10,"Nov 15, 1969",Houston,34,NC State,13,1
+528,10,"Nov 15, 1969",Kent State,17,Miami (OH),14,0
+529,10,"Nov 15, 1969",Long Beach State,42,Cal State Los Angeles,0,0
+530,10,"Nov 15, 1969",LSU,61,Mississippi State,6,0
+531,10,"Nov 15, 1969",Wichita State,7,Louisville,13,1
+532,10,"Nov 15, 1969",East Carolina,7,Marshall,38,1
+533,10,"Nov 15, 1969",Memphis,28,Florida State,26,1
+534,10,"Nov 15, 1969",Iowa,6,Michigan,51,0
+535,10,"Nov 15, 1969",Minnesota,14,Michigan State,10,1
+536,10,"Nov 15, 1969",Ole Miss,38,Tennessee,0,0
+537,10,"Nov 15, 1969",Missouri,40,Iowa State,13,1
+538,10,"Nov 15, 1969",Kansas State,7,Nebraska,10,0
+539,10,"Nov 15, 1969",New Mexico,24,Wyoming,12,0
+540,10,"Nov 15, 1969",North Carolina,32,Clemson,15,0
+541,10,"Nov 15, 1969",North Texas,42,Tulsa,16,0
+542,10,"Nov 15, 1969",Northwestern,30,Indiana,27,0
+543,10,"Nov 15, 1969",Notre Dame,38,Georgia Tech,20,1
+544,10,"Nov 15, 1969",Cincinnati,6,Ohio,46,1
+545,10,"Nov 15, 1969",Ohio State,42,Purdue,14,0
+546,10,"Nov 15, 1969",Oklahoma,31,Kansas,15,0
+547,10,"Nov 15, 1969",Oregon State,38,Washington State,3,0
+548,10,"Nov 15, 1969",Pacific,40,Santa Clara,15,1
+549,10,"Nov 15, 1969",Penn State,48,Maryland,0,0
+550,10,"Nov 15, 1969",Columbia,7,Pennsylvania,17,0
+551,10,"Nov 15, 1969",Army,6,Pitt,15,0
+552,10,"Nov 15, 1969",Rice,7,Texas A&M,6,0
+553,10,"Nov 15, 1969",San Diego State,70,New Mexico State,21,0
+554,10,"Nov 15, 1969",Wake Forest,6,South Carolina,24,0
+555,10,"Nov 15, 1969",Washington,7,USC,16,0
+556,10,"Nov 15, 1969",Stanford,47,Air Force,34,0
+557,10,"Nov 15, 1969",Syracuse,15,Navy,0,1
+558,10,"Nov 15, 1969",TCU,7,Texas,69,1
+559,10,"Nov 15, 1969",Baylor,7,Texas Tech,41,1
+560,10,"Nov 15, 1969",Toledo,20,Dayton,0,0
+561,10,"Nov 15, 1969",Tulane,31,Virginia,0,0
+562,10,"Nov 15, 1969",UCLA,13,Oregon,10,1
+563,10,"Nov 15, 1969",Villanova,35,William & Mary,21,0
+564,10,"Nov 15, 1969",Virginia Tech,48,Duke,12,0
+565,10,"Nov 15, 1969",West Texas State,28,Bowling Green,12,0
+566,10,"Nov 15, 1969",West Virginia,33,Richmond,21,0
+567,10,"Nov 15, 1969",Western Michigan,31,Northern Illinois,22,1
+568,10,"Nov 15, 1969",Wisconsin,55,Illinois,14,0
+569,10,"Nov 15, 1969",Wofford,28,Davidson,27,1
+570,10,"Nov 15, 1969",Xavier,9,Quantico Marines,7,0
+571,10,"Nov 15, 1969",Yale,17,Princeton,14,1
+572,11,"Nov 21, 1969",Citadel,5,Chattanooga,10,0
+573,11,"Nov 21, 1969",Wake Forest,7,Miami,49,1
+574,11,"Nov 22, 1969",Arizona State,79,Colorado State,7,0
+575,11,"Nov 22, 1969",Boston College,35,Massachusetts,30,0
+576,11,"Nov 22, 1969",Bowling Green,38,Northern Illinois,23,0
+577,11,"Nov 22, 1969",Buffalo,24,Villanova,14,1
+578,11,"Nov 22, 1969",California-Santa Barbara,21,Hawaii,16,1
+579,11,"Nov 22, 1969",Colorado,45,Kansas State,32,0
+580,11,"Nov 22, 1969",Brown,3,Columbia,18,0
+581,11,"Nov 22, 1969",Cornell,28,Pennsylvania,14,1
+582,11,"Nov 22, 1969",Duke,17,North Carolina,13,0
+583,11,"Nov 22, 1969",Florida State,33,NC State,22,0
+584,11,"Nov 22, 1969",Fresno State,28,Portland State,22,0
+585,11,"Nov 22, 1969",Houston,41,Wyoming,14,0
+586,11,"Nov 22, 1969",Iowa,40,Illinois,0,1
+587,11,"Nov 22, 1969",Long Beach State,41,San Francisco State,0,0
+588,11,"Nov 22, 1969",LSU,27,Tulane,0,0
+589,11,"Nov 22, 1969",Maryland,17,Virginia,14,0
+590,11,"Nov 22, 1969",Memphis,69,Louisville,19,0
+591,11,"Nov 22, 1969",Miami (OH),36,Cincinnati,20,1
+592,11,"Nov 22, 1969",Michigan,24,Ohio State,12,0
+593,11,"Nov 22, 1969",Northwestern,7,Michigan State,39,0
+594,11,"Nov 22, 1969",Minnesota,35,Wisconsin,10,0
+595,11,"Nov 22, 1969",Mississippi College,21,Furman,19,1
+596,11,"Nov 22, 1969",Missouri,69,Kansas,21,1
+597,11,"Nov 22, 1969",Nebraska,44,Oklahoma,14,1
+598,11,"Nov 22, 1969",New Mexico,24,New Mexico State,21,1
+599,11,"Nov 22, 1969",Air Force,6,Notre Dame,13,1
+600,11,"Nov 22, 1969",Ohio,38,Marshall,35,1
+601,11,"Nov 22, 1969",Oklahoma State,35,Iowa State,0,1
+602,11,"Nov 22, 1969",Oregon,7,Oregon State,10,0
+603,11,"Nov 22, 1969",Pitt,7,Penn State,27,0
+604,11,"Nov 22, 1969",Dartmouth,7,Princeton,35,1
+605,11,"Nov 22, 1969",Purdue,44,Indiana,21,1
+606,11,"Nov 22, 1969",Richmond,28,William & Mary,17,1
+607,11,"Nov 22, 1969",Rutgers,48,Colgate,12,0
+608,11,"Nov 22, 1969",San Diego State,42,North Texas,24,0
+609,11,"Nov 22, 1969",San Jose State,15,Pacific,12,0
+610,11,"Nov 22, 1969",South Carolina,27,Clemson,13,0
+611,11,"Nov 22, 1969",USC,14,UCLA,12,0
+612,11,"Nov 22, 1969",Baylor,6,SMU,12,0
+613,11,"Nov 22, 1969",East Carolina,7,Southern Miss,14,0
+614,11,"Nov 22, 1969",Stanford,29,California,28,0
+615,11,"Nov 22, 1969",Tampa,53,Cal State Los Angeles,0,0
+616,11,"Nov 22, 1969",Tennessee,31,Kentucky,26,1
+617,11,"Nov 22, 1969",TCU,21,Rice,17,0
+618,11,"Nov 22, 1969",Toledo,35,Xavier,0,1
+619,11,"Nov 22, 1969",BYU,6,Utah,16,0
+620,11,"Nov 22, 1969",Utah State,31,Idaho,21,1
+621,11,"Nov 22, 1969",Davidson,8,Vanderbilt,63,1
+622,11,"Nov 22, 1969",Washington,30,Washington State,21,0
+623,11,"Nov 22, 1969",West Virginia,13,Syracuse,10,1
+624,11,"Nov 22, 1969",Wichita State,28,Tulsa,12,0
+625,11,"Nov 22, 1969",Yale,7,Harvard,0,0
+626,12,"Nov 27, 1969",Arkansas,33,Texas Tech,0,0
+627,12,"Nov 27, 1969",Louisville,35,Tulsa,29,1
+628,12,"Nov 27, 1969",Ole Miss,48,Mississippi State,22,1
+629,12,"Nov 27, 1969",New Mexico State,21,Colorado State,20,0
+630,12,"Nov 27, 1969",Texas,49,Texas A&M,12,1
+631,12,"Nov 27, 1969",Virginia Tech,52,Virginia Military Institute,0,0
+632,12,"Nov 27, 1969",Wofford,31,Furman,21,1
+633,12,"Nov 29, 1969",Arizona State,38,Arizona,24,0
+634,12,"Nov 29, 1969",Army,27,Navy,0,0
+635,12,"Nov 29, 1969",Auburn,49,Alabama,26,0
+636,12,"Nov 29, 1969",Boston College,35,Syracuse,10,1
+637,12,"Nov 29, 1969",Cal State Los Angeles,6,Cal State Northridge,47,0
+638,12,"Nov 29, 1969",Florida,35,Miami,16,1
+639,12,"Nov 29, 1969",Georgia Tech,6,Georgia,0,0
+640,12,"Nov 29, 1969",Houston,41,Florida State,13,0
+641,12,"Nov 29, 1969",Oklahoma,28,Oklahoma State,27,1
+642,12,"Nov 29, 1969",Oregon,57,Hawaii,16,1
+643,12,"Nov 29, 1969",NC State,8,Penn State,33,0
+644,12,"Nov 29, 1969",Baylor,6,Rice,34,1
+645,12,"Nov 29, 1969",San Diego State,36,Long Beach State,32,0
+646,12,"Nov 29, 1969",West Texas State,9,Southern Miss,10,1
+647,12,"Nov 29, 1969",Tennessee,40,Vanderbilt,27,0
+648,12,"Nov 29, 1969",UTEP,17,Xavier,10,0
+649,13,"Dec 6, 1969",Boston University,7,San Diego State,28,1
+650,13,"Dec 6, 1969",Texas,15,Arkansas,14,1
+651,14,"Dec 13, 1969",Colorado,47,Alabama,33,0
+652,15,"Dec 20, 1969",Georgia,6,Nebraska,45,1
+653,16,"Dec 26, 1969",Toledo,56,Davidson,33,0
+654,16,"Dec 27, 1969",Florida,14,Tennessee,13,0
+655,17,"Dec 30, 1969",South Carolina,3,West Virginia,14,1
+656,17,"Dec 31, 1969",Auburn,7,Houston,36,1
+657,17,"Jan 1, 1970",Ole Miss,27,Arkansas,22,0
+658,17,"Jan 1, 1970",Missouri,3,Penn State,10,1
+659,17,"Jan 1, 1970",Michigan,3,USC,10,1
+660,17,"Jan 1, 1970",Texas,21,Notre Dame,17,0
