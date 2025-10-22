@@ -19,22 +19,6 @@ Sporting KC        34   7   7  20  28 -24
 
 MLS Fixtures
 ------------
-Saturday, October 18
-  Nashville            2–5   Inter Miami
-  Atlanta              1–1   DC United
-  Columbus             3–1   Red Bull NY
-  New England          2–2   Chicago Fire
-  Toronto              4–2   Orlando City
-  Cincinnati           3–0   Montreal
-  Charlotte            2–0   Philadelphia
-  New York City        1–2   Seattle Sounders
-  Portland             0–4   San Diego
-  San Jose             2–1   Austin
-  Galaxy               2–1   Minnesota
-  Vancouver W'caps     1–2   Dallas
-  Colorado             2–2   LAFC
-  Sporting KC          0–0   Houston Dynamo
-  St. Louis            2–2   Real Salt Lake
 Wednesday, October 22
   Chicago Fire         vs    Orlando City
   Portland             vs    Real Salt Lake
@@ -63,22 +47,6 @@ D.C. United        34   5  11  18  26 -36
 
 MLS Fixtures
 ------------
-Saturday, October 18
-  Nashville            2–5   Inter Miami
-  Atlanta              1–1   DC United
-  Columbus             3–1   Red Bull NY
-  New England          2–2   Chicago Fire
-  Toronto              4–2   Orlando City
-  Cincinnati           3–0   Montreal
-  Charlotte            2–0   Philadelphia
-  New York City        1–2   Seattle Sounders
-  Portland             0–4   San Diego
-  San Jose             2–1   Austin
-  Galaxy               2–1   Minnesota
-  Vancouver W'caps     1–2   Dallas
-  Colorado             2–2   LAFC
-  Sporting KC          0–0   Houston Dynamo
-  St. Louis            2–2   Real Salt Lake
 Wednesday, October 22
   Chicago Fire         vs    Orlando City
   Portland             vs    Real Salt Lake
@@ -89,28 +57,25 @@ Friday, October 24
 Allsvenskan
 -----------
 Squad              MP   W   D   L  Pt  GD
-Mjällby            26  19   6   1  63  30
+Mjällby            27  20   6   1  66  32
 Hammarby           27  17   4   6  55  26
 GAIS               27  13   9   5  48  14
 Malmö              27  12   9   6  45  14
 AIK Stockholm      27  12   8   7  44   6
-Göteborg           26  14   2  10  44   5
+Göteborg           27  14   2  11  44   3
 Djurgården         27  11   9   7  42  14
 Elfsborg           27  12   4  11  40   4
 Häcken             27   9   6  12  33  -7
+Halmstad           27   9   4  14  31 -25
 Brommapojkarna     27   9   3  15  30  -3
 Sirius             27   8   6  13  30  -5
 Norrköping         27   8   5  14  29 -13
-Halmstad           26   8   4  14  28 -26
 Öster              27   6   7  14  25 -16
-Degerfors          26   6   5  15  23 -21
+Degerfors          27   6   5  16  23 -22
 Värnamo            27   3   7  17  16 -22
 
 Allsvenskan Fixtures
 --------------------
-Saturday, October 18
-  Norrköping           0–2   Malmö
-  Häcken               1–1   Sirius
 Sunday, October 19
   Hammarby             2–1   AIK Stockholm
   GAIS                 3–2   Djurgården
@@ -119,6 +84,9 @@ Sunday, October 19
 Monday, October 20
   Degerfors            0–1   Halmstad
   Göteborg             0–2   Mjällby
+Saturday, October 25
+  Djurgården           vs    Värnamo
+  Öster                vs    Degerfors
 
 
 Bundesliga
@@ -145,18 +113,18 @@ Gladbach            7   0   3   4   3  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, October 18
-  Wolfsburg            0–3   Stuttgart
-  RB Leipzig           2–1   Hamburger SV
-  Köln                 1–1   Augsburg
-  Heidenheim           2–2   Werder Bremen
-  Mainz 05             3–4   Leverkusen
-  Bayern Munich        2–1   Dortmund
 Sunday, October 19
   Freiburg             2–2   Eint Frankfurt
   St. Pauli            0–3   Hoffenheim
 Friday, October 24
   Werder Bremen        vs    Union Berlin
+Saturday, October 25
+  Hamburger SV         vs    Wolfsburg
+  Gladbach             vs    Bayern Munich
+  Hoffenheim           vs    Heidenheim
+  Augsburg             vs    RB Leipzig
+  Eint Frankfurt       vs    St. Pauli
+  Dortmund             vs    Köln
 
 
 Premier League
@@ -185,14 +153,6 @@ Wolves              8   0   2   6   2 -11
 
 Premier League Fixtures
 -----------------------
-Saturday, October 18
-  Nott'ham Forest      0–3   Chelsea
-  Sunderland           2–0   Wolves
-  Burnley              2–0   Leeds United
-  Brighton             2–1   Newcastle Utd
-  Crystal Palace       3–3   Bournemouth
-  Manchester City      2–0   Everton
-  Fulham               0–1   Arsenal
 Sunday, October 19
   Tottenham            1–2   Aston Villa
   Liverpool            1–2   Manchester Utd
@@ -200,6 +160,11 @@ Monday, October 20
   West Ham             0–2   Brentford
 Friday, October 24
   Leeds United         vs    West Ham
+Saturday, October 25
+  Newcastle Utd        vs    Fulham
+  Chelsea              vs    Sunderland
+  Manchester Utd       vs    Brighton
+  Brentford            vs    Liverpool
 
 
 Ligue 1
@@ -226,10 +191,6 @@ Metz                8   0   2   6   2 -15
 
 Ligue 1 Fixtures
 ----------------
-Saturday, October 18
-  Nice                 3–2   Lyon
-  Angers               1–1   Monaco
-  Marseille            6–2   Le Havre
 Sunday, October 19
   Lens                 2–1   Paris FC
   Rennes               2–2   Auxerre
@@ -238,6 +199,10 @@ Sunday, October 19
   Nantes               0–2   Lille
 Friday, October 24
   Paris FC             vs    Nantes
+Saturday, October 25
+  Brest                vs    Paris S-G
+  Monaco               vs    Toulouse
+  Lens                 vs    Marseille
 
 
 Serie A
@@ -266,11 +231,6 @@ Pisa                7   0   3   4   3  -7
 
 Serie A Fixtures
 ----------------
-Saturday, October 18
-  Pisa                 0–0   Hellas Verona
-  Lecce                0–0   Sassuolo
-  Torino               1–0   Napoli
-  Roma                 0–1   Inter
 Sunday, October 19
   Como                 2–0   Juventus
   Cagliari             0–2   Bologna
@@ -281,60 +241,65 @@ Monday, October 20
   Cremonese            1–1   Udinese
 Friday, October 24
   Milan                vs    Pisa
+Saturday, October 25
+  Udinese              vs    Lecce
+  Parma                vs    Como
+  Napoli               vs    Inter
+  Cremonese            vs    Atalanta
 
 
 Champions League
 ----------------
 Cty Squad           MP   W   D   L  Pt  GD
+fr  Paris S-G        3   3   0   0   9  10
+it  Inter            3   3   0   0   9   9
+eng Arsenal          3   3   0   0   9   8
+de  Dortmund         3   2   1   0   7   5
+eng Manchester City  3   2   1   0   7   4
 de  Bayern Munich    2   2   0   0   6   6
+eng Newcastle Utd    3   2   0   1   6   6
 es  Real Madrid      2   2   0   0   6   6
-fr  Paris S-G        2   2   0   0   6   5
-it  Inter            2   2   0   0   6   5
-eng Arsenal          2   2   0   0   6   4
+es  Barcelona        3   2   0   1   6   5
 az  Qarabağ          2   2   0   0   6   3
-de  Dortmund         2   1   1   0   4   3
-eng Manchester City  2   1   1   0   4   2
+nl  PSV Eindhoven    3   1   1   1   4   2
 eng Tottenham        2   1   1   0   4   1
-es  Atlético Madrid  2   1   0   1   3   3
-eng Newcastle Utd    2   1   0   1   3   3
 fr  Marseille        2   1   0   1   3   3
 pt  Sporting CP      2   1   0   1   3   2
 be  Club Brugge      2   1   0   1   3   2
 de  Eint Frankfurt   2   1   0   1   3   0
-es  Barcelona        2   1   0   1   3   0
 eng Liverpool        2   1   0   1   3   0
+es  Atlético Madrid  3   1   0   2   3  -1
 eng Chelsea          2   1   0   1   3  -1
-it  Napoli           2   1   0   1   3  -1
-be  Union SG         2   1   0   1   3  -2
 it  Atalanta         2   1   0   1   3  -3
 tr  Galatasaray      2   1   0   1   3  -3
+it  Napoli           3   1   0   2   3  -5
+be  Union SG         3   1   0   2   3  -6
 it  Juventus         2   0   2   0   2   0
 no  Bodø/Glimt       2   0   2   0   2   0
-de  Leverkusen       2   0   2   0   2   0
-es  Villarreal       2   0   1   1   1  -1
-nl  PSV Eindhoven    2   0   1   1   1  -2
-dk  FC Copenhagen    2   0   1   1   1  -2
-gr  Olympiacos       2   0   1   1   1  -2
+cy  Pafos FC         3   0   2   1   2  -4
+de  Leverkusen       3   0   2   1   2  -5
 fr  Monaco           2   0   1   1   1  -3
 cz  Slavia Prague    2   0   1   1   1  -3
-cy  Pafos FC         2   0   1   1   1  -4
-pt  Benfica          2   0   0   2   0  -2
+es  Villarreal       3   0   1   2   1  -3
+dk  FC Copenhagen    3   0   1   2   1  -4
+gr  Olympiacos       3   0   1   2   1  -7
+kz  Qaırat Almaty    3   0   1   2   1  -8
+pt  Benfica          3   0   0   3   0  -5
 es  Athletic Club    2   0   0   2   0  -5
 nl  Ajax             2   0   0   2   0  -6
-kz  Qaırat Almaty    2   0   0   2   0  -8
 
 Champions League Fixtures
 -------------------------
 Tuesday, October 21
-  Barcelonaes          vs    grOlympiacos
-  Newcastle Utdeng     vs    ptBenfica
-  Arsenaleng           vs    esAtlético Madrid
-  Leverkusende         vs    frParis S-G
-  PSV Eindhovennl      vs    itNapoli
-  Villarreales         vs    engManchester City
-  Union SGbe           vs    itInter
-  FC Copenhagendk      vs    deDortmund
-  Qaırat Almatykz      vs    cyPafos FC
+  Barcelonaes          6–1   grOlympiacos
+  Newcastle Utdeng     3–0   ptBenfica
+  Arsenaleng           4–0   esAtlético Madrid
+  Leverkusende         2–7   frParis S-G
+  PSV Eindhovennl      6–2   itNapoli
+  Villarreales         0–2   engManchester City
+  Union SGbe           0–4   itInter
+  FC Copenhagendk      2–4   deDortmund
+  Qaırat Almatykz      0–0   cyPafos FC
 Wednesday, October 22
   Athletic Clubes      vs    azQarabağ
   Galatasaraytr        vs    noBodø/Glimt
@@ -347,4 +312,4 @@ Wednesday, October 22
   Eint Frankfurtde     vs    engLiverpool
 
 
-Standings from FBRef.com 10.21.25
+Standings from FBRef.com 10.22.25
