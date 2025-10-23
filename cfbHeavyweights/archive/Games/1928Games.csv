@@ -1,0 +1,577 @@
+0,1,"Sep 15, 1928",Washington,26,Willamette,0,0
+1,1,"Sep 15, 1928",YMI,7,Stanford,0,1
+2,2,"Sep 22, 1928",Baylor,31,Stephen F. Austin,0,0
+3,2,"Sep 22, 1928",Clemson,30,Newberry,0,0
+4,2,"Sep 22, 1928",Davidson,28,Guilford,0,0
+5,2,"Sep 22, 1928",Davis & Elkins,7,West Virginia,0,1
+6,2,"Sep 22, 1928",South Carolina,19,Erskine,0,0
+7,2,"Sep 22, 1928",North Texas,6,SMU,33,1
+8,2,"Sep 22, 1928",West Coast Army,8,Stanford,21,1
+9,2,"Sep 22, 1928",Texas A&M,21,Trinity (Texas),0,0
+10,2,"Sep 22, 1928",TCU,21,Texas A&M-Commerce,0,0
+11,2,"Sep 22, 1928",UCLA,19,California-Santa Barbara,0,0
+12,2,"Sep 22, 1928",Hampden-Sydney,7,Virginia Military Institute,14,1
+13,2,"Sep 22, 1928",Washington,41,USS Tennessee,0,0
+14,2,"Sep 22, 1928",Whitman,6,Washington State,33,1
+15,2,"Sep 22, 1928",Wyoming,42,Black Hills State,0,0
+16,3,"Sep 28, 1928",Birmingham-Southern,6,Auburn,0,0
+17,3,"Sep 29, 1928",UCLA,7,Arizona,7,0
+18,3,"Sep 29, 1928",Army,35,Boston University,0,0
+19,3,"Sep 29, 1928",Baylor,45,North Texas,0,0
+20,3,"Sep 29, 1928",BYU,9,Albertson,6,0
+21,3,"Sep 29, 1928",California,22,Santa Clara,0,0
+22,3,"Sep 29, 1928",Clemson,6,Davidson,0,0
+23,3,"Sep 29, 1928",St. Lawrence,6,Colgate,33,1
+24,3,"Sep 29, 1928",Columbia,20,Vermont,0,0
+25,3,"Sep 29, 1928",Norwich,6,Dartmouth,39,1
+26,3,"Sep 29, 1928",Davis & Elkins,2,Navy,0,1
+27,3,"Sep 29, 1928",Western State,6,Denver,37,1
+28,3,"Sep 29, 1928",Detroit Mercy,39,DePaul,0,0
+29,3,"Sep 29, 1928",Fordham,27,St. Bonaventure,0,0
+30,3,"Sep 29, 1928",Furman,6,Duke,0,0
+31,3,"Sep 29, 1928",Georgetown,31,Mount St. Mary's,0,1
+32,3,"Sep 29, 1928",William Penn,6,Grinnell,19,1
+33,3,"Sep 29, 1928",Indiana,14,Wabash,0,0
+34,3,"Sep 29, 1928",Bethany (Kansas),7,Kansas State,32,1
+35,3,"Sep 29, 1928",Marquette,31,St. Viator,0,0
+36,3,"Sep 29, 1928",Maryland,31,Washington (Maryland),0,0
+37,3,"Sep 29, 1928",Michigan State,103,Kalamazoo,0,0
+38,3,"Sep 29, 1928",Ole Miss,25,Arkansas,0,0
+39,3,"Sep 29, 1928",Ouachita,6,Mississippi State,20,1
+40,3,"Sep 29, 1928",Montana,13,Anaconda Anodes,0,0
+41,3,"Sep 29, 1928",Montana State,15,Idaho,13,0
+42,3,"Sep 29, 1928",New York University,21,Niagara,0,0
+43,3,"Sep 29, 1928",North Carolina,65,Wake Forest,0,0
+44,3,"Sep 29, 1928",NC State,57,Elon,0,0
+45,3,"Sep 29, 1928",Northern Colorado,30,Camp Russell,0,0
+46,3,"Sep 29, 1928",Loyola (LA),6,Notre Dame,12,1
+47,3,"Sep 29, 1928",Regis (CO),6,Oklahoma State,13,1
+48,3,"Sep 29, 1928",Stanford,6,Olympic Club,12,0
+49,3,"Sep 29, 1928",Oregon State,14,California-Davis,0,0
+50,3,"Sep 29, 1928",Penn State,25,Lebanon Valley,0,0
+51,3,"Sep 29, 1928",Pennsylvania,34,Ursinus,0,0
+52,3,"Sep 29, 1928",Pitt,20,Thiel,0,0
+53,3,"Sep 29, 1928",Sam Houston,6,Rice,24,1
+54,3,"Sep 29, 1928",Virginia Military Institute,6,Richmond,6,0
+55,3,"Sep 29, 1928",Sewanee,14,Bryson,0,0
+56,3,"Sep 29, 1928",South Carolina,6,Chicago,0,1
+57,3,"Sep 29, 1928",USC,40,Utah State,12,0
+58,3,"Sep 29, 1928",SMU,31,Howard Payne,0,0
+59,3,"Sep 29, 1928",Hobart,6,Syracuse,14,1
+60,3,"Sep 29, 1928",Tennessee,41,Maryville (TN),0,0
+61,3,"Sep 29, 1928",Texas,32,St. Edward's,0,0
+62,3,"Sep 29, 1928",Texas A&M,21,Southwestern (TX),0,0
+63,3,"Sep 29, 1928",TCU,19,Daniel Baker,0,0
+64,3,"Sep 29, 1928",Tulane,65,Northwestern State,0,1
+65,3,"Sep 29, 1928",Vanderbilt,20,Chattanooga,0,1
+66,3,"Sep 29, 1928",Virginia,66,Randolph-Macon,0,0
+67,3,"Sep 29, 1928",Roanoke,7,Virginia Tech,34,1
+68,3,"Sep 29, 1928",Washington,43,Pacific (Oregon),0,0
+69,3,"Sep 29, 1928",Washington & Jefferson,24,Bethany (West Virginia),0,0
+70,3,"Sep 29, 1928",Washington & Lee,56,Lynchburg,0,0
+71,3,"Sep 29, 1928",Washington State,3,Gonzaga,0,1
+72,3,"Sep 29, 1928",West Virginia,12,West Virginia Wesleyan,0,0
+73,3,"Sep 29, 1928",Westminster (Missouri),6,Washington (MO),0,0
+74,3,"Sep 29, 1928",Kearney,6,Wyoming,19,1
+75,3,"Sep 30, 1928",Oregon,45,Pacific (Oregon),0,0
+76,4,"Oct 6, 1928",Alabama,27,Ole Miss,0,0
+77,4,"Oct 6, 1928",Albion,2,Michigan State,0,1
+78,4,"Oct 6, 1928",Arkansas,21,Ozarks,0,0
+79,4,"Oct 6, 1928",Army,14,SMU,13,0
+80,4,"Oct 6, 1928",Baylor,33,Trinity (Texas),0,0
+81,4,"Oct 6, 1928",Boston College,6,Navy,0,1
+82,4,"Oct 6, 1928",BYU,7,California-Davis,6,0
+83,4,"Oct 6, 1928",Brown,32,WPI,0,0
+84,4,"Oct 6, 1928",California,7,Saint Mary's (CA),0,0
+85,4,"Oct 6, 1928",Carnegie Mellon,65,Ashland,0,0
+86,4,"Oct 6, 1928",Chattanooga,15,Furman,0,1
+87,4,"Oct 6, 1928",Chicago,47,Wyoming,0,0
+88,4,"Oct 6, 1928",Chicago,3,Lake Forest,0,0
+89,4,"Oct 6, 1928",Clemson,6,Auburn,0,1
+90,4,"Oct 6, 1928",Colorado College,32,Montana State,14,0
+91,4,"Oct 6, 1928",Colorado Mines,13,Denver,12,1
+92,4,"Oct 6, 1928",Northern Colorado,6,Colorado State,26,1
+93,4,"Oct 6, 1928",Columbia,27,Union (NY),0,0
+94,4,"Oct 6, 1928",Cornell,20,Clarkson,0,0
+95,4,"Oct 6, 1928",Dartmouth,44,Hobart,0,0
+96,4,"Oct 6, 1928",Detroit Mercy,19,Tulsa,14,1
+97,4,"Oct 6, 1928",Simpson,6,Drake,40,1
+98,4,"Oct 6, 1928",South Dakota,6,Duke,25,1
+99,4,"Oct 6, 1928",Florida,26,Florida Southern,0,0
+100,4,"Oct 6, 1928",Fordham,20,George Washington,0,0
+101,4,"Oct 6, 1928",Georgetown,88,Susquehanna,0,0
+102,4,"Oct 6, 1928",Georgia,52,Mercer,0,0
+103,4,"Oct 6, 1928",Georgia Tech,13,Virginia Military Institute,0,0
+104,4,"Oct 6, 1928",Idaho,6,Gonzaga,6,0
+105,4,"Oct 6, 1928",Harvard,30,Springfield,0,0
+106,4,"Oct 6, 1928",Bradley,6,Illinois,33,1
+107,4,"Oct 6, 1928",Oklahoma,7,Indiana,10,1
+108,4,"Oct 6, 1928",Kansas,14,Grinnell,0,0
+109,4,"Oct 6, 1928",Oklahoma State,6,Kansas State,13,0
+110,4,"Oct 6, 1928",Kentucky,61,Carson-Newman,0,0
+111,4,"Oct 6, 1928",LSU,46,Louisiana,0,0
+112,4,"Oct 6, 1928",Lawrence,7,Marquette,19,1
+113,4,"Oct 6, 1928",Minnesota,49,Creighton,0,0
+114,4,"Oct 6, 1928",Nebraska,12,Iowa State,0,1
+115,4,"Oct 6, 1928",West Virginia Wesleyan,7,New York University,26,1
+116,4,"Oct 6, 1928",North Carolina,26,Maryland,19,1
+117,4,"Oct 6, 1928",Northwestern,14,Butler,0,0
+118,4,"Oct 6, 1928",Ohio State,41,Wittenberg,0,0
+119,4,"Oct 6, 1928",Michigan,7,Ohio Wesleyan,17,0
+120,4,"Oct 6, 1928",Penn State,12,Gettysburg,0,0
+121,4,"Oct 6, 1928",Pennsylvania,46,Franklin & Marshall,0,0
+122,4,"Oct 6, 1928",Pitt,53,Bethany (West Virginia),0,0
+123,4,"Oct 6, 1928",Wake Forest,7,Presbyterian,12,0
+124,4,"Oct 6, 1928",Princeton,50,Vermont,0,0
+125,4,"Oct 6, 1928",Purdue,31,DePauw,0,0
+126,4,"Oct 6, 1928",South Carolina,24,Virginia,13,1
+127,4,"Oct 6, 1928",USC,19,Oregon State,0,0
+128,4,"Oct 6, 1928",St. Edward's,31,Rice,0,1
+129,4,"Oct 6, 1928",Stanford,26,Oregon,12,1
+130,4,"Oct 6, 1928",Syracuse,32,William & Mary,0,0
+131,4,"Oct 6, 1928",Centre,7,Tennessee,41,1
+132,4,"Oct 6, 1928",Texas,12,Texas Tech,0,0
+133,4,"Oct 6, 1928",Texas A&M,69,Sewanee,0,0
+134,4,"Oct 6, 1928",Hardin-Simmons,3,TCU,19,0
+135,4,"Oct 6, 1928",Mississippi State,6,Tulane,51,0
+136,4,"Oct 6, 1928",UCLA,32,California Tech,0,1
+137,4,"Oct 6, 1928",Nevada,7,Utah,32,0
+138,4,"Oct 6, 1928",Utah State,54,Montana Tech,0,0
+139,4,"Oct 6, 1928",Colgate,7,Vanderbilt,12,1
+140,4,"Oct 6, 1928",Hampden-Sydney,7,Virginia Tech,32,1
+141,4,"Oct 6, 1928",Washington,7,Whitman,0,0
+142,4,"Oct 6, 1928",Washington & Jefferson,24,Waynesburg,0,1
+143,4,"Oct 6, 1928",NC State,6,Washington & Lee,38,1
+144,4,"Oct 6, 1928",Washington (MO),9,Missouri-Rolla,0,0
+145,4,"Oct 6, 1928",Montana,6,Washington State,26,0
+146,4,"Oct 6, 1928",Haskell,7,West Virginia,28,1
+147,4,"Oct 6, 1928",Notre Dame,6,Wisconsin,22,1
+148,4,"Oct 6, 1928",Yale,27,Maine,0,0
+149,4,"Oct 7, 1928",Iowa,26,Monmouth,0,0
+150,5,"Oct 12, 1928",Boston College,19,Duke,0,0
+151,5,"Oct 12, 1928",Bucknell,6,Penn State,0,1
+152,5,"Oct 12, 1928",Clemson,7,NC State,0,0
+153,5,"Oct 12, 1928",Oregon State,41,Portland,0,1
+154,5,"Oct 13, 1928",Alabama,46,Mississippi State,0,1
+155,5,"Oct 13, 1928",Arkansas,14,Baylor,0,0
+156,5,"Oct 13, 1928",Army,44,Providence,0,0
+157,5,"Oct 13, 1928",Dayton,7,Brown,13,1
+158,5,"Oct 13, 1928",Washington State,3,California,13,1
+159,5,"Oct 13, 1928",Carnegie Mellon,39,Thiel,13,0
+160,5,"Oct 13, 1928",Centenary (LA),6,Texas A&M,0,1
+161,5,"Oct 13, 1928",Colgate,35,Virginia Tech,14,0
+162,5,"Oct 13, 1928",Northern Colorado,6,Colorado,21,0
+163,5,"Oct 13, 1928",Western State,6,Colorado College,24,1
+164,5,"Oct 13, 1928",BYU,6,Colorado State,15,1
+165,5,"Oct 13, 1928",Wesleyan (CT),7,Columbia,31,1
+166,5,"Oct 13, 1928",Cornell,34,Niagara,0,0
+167,5,"Oct 13, 1928",Creighton,37,Oklahoma State,0,0
+168,5,"Oct 13, 1928",Dartmouth,37,Allegheny,12,0
+169,5,"Oct 13, 1928",Davidson,52,Elon,0,0
+170,5,"Oct 13, 1928",Detroit Mercy,46,Louisville,0,0
+171,5,"Oct 13, 1928",Marquette,7,Drake,26,0
+172,5,"Oct 13, 1928",Washington & Jefferson,6,Duquesne,12,0
+173,5,"Oct 13, 1928",Florida,27,Auburn,0,0
+174,5,"Oct 13, 1928",Furman,6,Presbyterian,0,0
+175,5,"Oct 13, 1928",Georgetown,52,Lebanon Valley,0,0
+176,5,"Oct 13, 1928",Georgia Tech,12,Tulane,0,1
+177,5,"Oct 13, 1928",Grinnell,3,Iowa State,0,0
+178,5,"Oct 13, 1928",Harvard,20,North Carolina,0,0
+179,5,"Oct 13, 1928",Idaho,26,Whitman,13,0
+180,5,"Oct 13, 1928",Illinois,31,Coe,0,0
+181,5,"Oct 13, 1928",Indiana,6,Michigan,0,1
+182,5,"Oct 13, 1928",Iowa,13,Chicago,0,1
+183,5,"Oct 13, 1928",Washington (MO),7,Kansas,7,0
+184,5,"Oct 13, 1928",Fort Hays State,7,Kansas State,22,1
+185,5,"Oct 13, 1928",Kentucky,6,Washington & Lee,0,0
+186,5,"Oct 13, 1928",LSU,41,Louisiana College,0,0
+187,5,"Oct 13, 1928",Michigan State,37,Chicago YMCA,0,0
+188,5,"Oct 13, 1928",Minnesota,15,Purdue,0,0
+189,5,"Oct 13, 1928",Missouri,60,Centre,0,0
+190,5,"Oct 13, 1928",Montana State,6,Nebraska,26,1
+191,5,"Oct 13, 1928",Fordham,7,New York University,34,1
+192,5,"Oct 13, 1928",Notre Dame,7,Navy,0,0
+193,5,"Oct 13, 1928",Ohio State,10,Northwestern,0,1
+194,5,"Oct 13, 1928",Willamette,6,Oregon,38,1
+195,5,"Oct 13, 1928",Oregon State,46,Pacific (Oregon),0,0
+196,5,"Oct 13, 1928",Pennsylvania,67,Swarthmore,0,0
+197,5,"Oct 13, 1928",Trinity (Texas),6,Rice,20,1
+198,5,"Oct 13, 1928",Maryland,7,South Carolina,21,1
+199,5,"Oct 13, 1928",Saint Mary's (CA),6,USC,19,1
+200,5,"Oct 13, 1928",SMU,6,Hardin-Simmons,0,0
+201,5,"Oct 13, 1928",UCLA,7,Stanford,45,1
+202,5,"Oct 13, 1928",Syracuse,58,Johns Hopkins,0,0
+203,5,"Oct 13, 1928",Tennessee,13,Ole Miss,12,0
+204,5,"Oct 13, 1928",TCU,21,Austin,0,0
+205,5,"Oct 13, 1928",Transylvania,14,Sewanee,13,1
+206,5,"Oct 13, 1928",Denver,7,Utah State,7,0
+207,5,"Oct 13, 1928",Vanderbilt,13,Texas,12,1
+208,5,"Oct 13, 1928",Princeton,0,Virginia,0,0
+209,5,"Oct 13, 1928",Virginia Military Institute,31,Roanoke,13,0
+210,5,"Oct 13, 1928",William & Mary,0,Wake Forest,0,0
+211,5,"Oct 13, 1928",Washington,25,Montana,0,0
+212,5,"Oct 13, 1928",West Virginia,9,Pitt,6,1
+213,5,"Oct 13, 1928",North Dakota State,7,Wisconsin,13,1
+214,5,"Oct 13, 1928",Wisconsin,49,Cornell College,0,0
+215,5,"Oct 13, 1928",Georgia,6,Yale,21,1
+216,6,"Oct 18, 1928",NC State,37,Wake Forest,0,0
+217,6,"Oct 19, 1928",Clemson,52,Erskine,0,0
+218,6,"Oct 19, 1928",South Carolina,13,Presbyterian,0,0
+219,6,"Oct 19, 1928",Wyoming,6,Utah State,24,0
+220,6,"Oct 20, 1928",Army,15,Harvard,0,1
+221,6,"Oct 20, 1928",Centenary (LA),7,Baylor,28,0
+222,6,"Oct 20, 1928",BYU,46,Western State,0,1
+223,6,"Oct 20, 1928",Washington (MO),7,Butler,13,1
+224,6,"Oct 20, 1928",Carnegie Mellon,19,Washington & Jefferson,0,0
+225,6,"Oct 20, 1928",Citadel,26,Davidson,12,0
+226,6,"Oct 20, 1928",Colgate,16,Michigan State,0,1
+227,6,"Oct 20, 1928",Colorado,39,Colorado Mines,0,0
+228,6,"Oct 20, 1928",Colorado College,18,Denver,13,1
+229,6,"Oct 20, 1928",Hampden-Sydney,6,Cornell,18,1
+230,6,"Oct 20, 1928",Columbia,7,Dartmouth,21,1
+231,6,"Oct 20, 1928",Detroit Mercy,27,Loyola (LA),0,0
+232,6,"Oct 20, 1928",Grinnell,7,Drake,19,1
+233,6,"Oct 20, 1928",Florida,73,Mercer,0,0
+234,6,"Oct 20, 1928",Fordham,19,Holy Cross,13,1
+235,6,"Oct 20, 1928",West Virginia Wesleyan,7,Georgetown,34,1
+236,6,"Oct 20, 1928",Georgia,7,Furman,0,0
+237,6,"Oct 20, 1928",Georgia Tech,13,Notre Dame,0,0
+238,6,"Oct 20, 1928",Indiana,7,Illinois,13,1
+239,6,"Oct 20, 1928",Iowa,61,Ripon,6,0
+240,6,"Oct 20, 1928",Kansas,7,Kansas State,0,1
+241,6,"Oct 20, 1928",LSU,31,Mississippi State,0,1
+242,6,"Oct 20, 1928",Western Maryland,6,Maryland,13,1
+243,6,"Oct 20, 1928",Chicago,7,Minnesota,33,1
+244,6,"Oct 20, 1928",Ole Miss,19,Auburn,0,1
+245,6,"Oct 20, 1928",Missouri,28,Iowa State,19,0
+246,6,"Oct 20, 1928",Montana,20,Montana Tech,0,0
+247,6,"Oct 20, 1928",Montana State,6,Northern Colorado,2,0
+248,6,"Oct 20, 1928",Navy,6,Duke,0,0
+249,6,"Oct 20, 1928",Nebraska,7,Syracuse,6,0
+250,6,"Oct 20, 1928",New York University,48,Rutgers,0,0
+251,6,"Oct 20, 1928",Northwestern,7,Kentucky,0,0
+252,6,"Oct 20, 1928",Michigan,7,Ohio State,19,1
+253,6,"Oct 20, 1928",Oklahoma,7,Creighton,0,1
+254,6,"Oct 20, 1928",Oregon,27,Washington,0,0
+255,6,"Oct 20, 1928",Pennsylvania,14,Penn State,0,0
+256,6,"Oct 20, 1928",Pitt,29,Allegheny,0,0
+257,6,"Oct 20, 1928",Princeton,47,Lehigh,0,0
+258,6,"Oct 20, 1928",Sewanee,38,Cumberland,0,0
+259,6,"Oct 20, 1928",California,0,USC,0,0
+260,6,"Oct 20, 1928",SMU,53,Rice,13,0
+261,6,"Oct 20, 1928",Stanford,47,Idaho,0,0
+262,6,"Oct 20, 1928",Tennessee,15,Alabama,13,1
+263,6,"Oct 20, 1928",Arkansas,7,Texas,20,1
+264,6,"Oct 20, 1928",TCU,6,Texas A&M,0,1
+265,6,"Oct 20, 1928",UCLA,29,Pomona-Pitzer,0,0
+266,6,"Oct 20, 1928",Utah,6,Colorado State,0,0
+267,6,"Oct 20, 1928",Tulane,6,Vanderbilt,13,0
+268,6,"Oct 20, 1928",Virginia Military Institute,9,Virginia,0,0
+269,6,"Oct 20, 1928",Virginia Tech,16,North Carolina,14,1
+270,6,"Oct 20, 1928",Washington State,9,Oregon State,7,0
+271,6,"Oct 20, 1928",West Virginia,22,Washington & Lee,0,0
+272,6,"Oct 20, 1928",Purdue,19,Wisconsin,19,0
+273,6,"Oct 20, 1928",Yale,32,Brown,14,0
+274,7,"Oct 25, 1928",Clemson,32,South Carolina,0,1
+275,7,"Oct 26, 1928",Penn State,6,Syracuse,6,0
+276,7,"Oct 27, 1928",Alabama,42,Sewanee,12,0
+277,7,"Oct 27, 1928",Yale,6,Army,18,0
+278,7,"Oct 27, 1928",Samford,6,Auburn,25,1
+279,7,"Oct 27, 1928",St. Edward's,7,Baylor,48,1
+280,7,"Oct 27, 1928",Brown,19,Tufts,13,0
+281,7,"Oct 27, 1928",Carnegie Mellon,6,Pitt,0,1
+282,7,"Oct 27, 1928",Colorado Mines,26,Western State,19,0
+283,7,"Oct 27, 1928",Williams,6,Columbia,20,1
+284,7,"Oct 27, 1928",Detroit Mercy,7,Dayton,0,1
+285,7,"Oct 27, 1928",NC State,7,Florida,14,1
+286,7,"Oct 27, 1928",Fordham,34,Washington & Jefferson,0,0
+287,7,"Oct 27, 1928",Furman,26,Wofford,0,0
+288,7,"Oct 27, 1928",Georgetown,35,Duke,0,0
+289,7,"Oct 27, 1928",Georgia,20,Tulane,14,0
+290,7,"Oct 27, 1928",North Carolina,7,Georgia Tech,20,0
+291,7,"Oct 27, 1928",Dartmouth,7,Harvard,19,1
+292,7,"Oct 27, 1928",Haskell,7,Washington (MO),0,0
+293,7,"Oct 27, 1928",UCLA,6,Idaho,20,1
+294,7,"Oct 27, 1928",Illinois,6,Northwestern,0,0
+295,7,"Oct 27, 1928",Iowa,7,Minnesota,6,0
+296,7,"Oct 27, 1928",Kansas,0,Iowa State,0,0
+297,7,"Oct 27, 1928",Kentucky,8,Centre,0,0
+298,7,"Oct 27, 1928",Spring Hill,7,LSU,30,1
+299,7,"Oct 27, 1928",Loyola (LA),34,Ole Miss,14,0
+300,7,"Oct 27, 1928",Marquette,26,Oklahoma State,0,0
+301,7,"Oct 27, 1928",Montana,0,Montana State,0,0
+302,7,"Oct 27, 1928",Navy,6,Pennsylvania,0,1
+303,7,"Oct 27, 1928",Nebraska,24,Missouri,0,0
+304,7,"Oct 27, 1928",Colgate,6,New York University,47,1
+305,7,"Oct 27, 1928",Northern Colorado,28,Wyoming,0,1
+306,7,"Oct 27, 1928",Drake,6,Notre Dame,32,1
+307,7,"Oct 27, 1928",Ohio State,13,Indiana,0,1
+308,7,"Oct 27, 1928",Oklahoma,33,Kansas State,21,0
+309,7,"Oct 27, 1928",Olympic Club,12,California,0,1
+310,7,"Oct 27, 1928",Oregon,24,Western Oregon,0,0
+311,7,"Oct 27, 1928",Oregon State,29,Washington,0,1
+312,7,"Oct 27, 1928",Princeton,3,Cornell,0,0
+313,7,"Oct 27, 1928",Purdue,40,Chicago,0,1
+314,7,"Oct 27, 1928",Creighton,6,Saint Louis,16,1
+315,7,"Oct 27, 1928",USC,19,Occidental,0,0
+316,7,"Oct 27, 1928",Trinity (Texas),7,SMU,60,1
+317,7,"Oct 27, 1928",Stanford,47,Fresno State,0,0
+318,7,"Oct 27, 1928",Washington & Lee,7,Tennessee,26,1
+319,7,"Oct 27, 1928",Rice,6,Texas,13,0
+320,7,"Oct 27, 1928",Texas Tech,6,TCU,28,1
+321,7,"Oct 27, 1928",Colorado,6,Utah,25,0
+322,7,"Oct 27, 1928",Utah State,10,BYU,0,1
+323,7,"Oct 27, 1928",Vanderbilt,34,Virginia,0,0
+324,7,"Oct 27, 1928",Virginia Military Institute,0,Maryland,0,0
+325,7,"Oct 27, 1928",Virginia Tech,54,King,0,0
+326,7,"Oct 27, 1928",Davidson,6,Wake Forest,25,1
+327,7,"Oct 27, 1928",Washington State,51,Albertson,0,0
+328,7,"Oct 27, 1928",West Virginia,17,Lafayette,0,1
+329,7,"Oct 27, 1928",Wisconsin,7,Michigan,0,1
+330,7,"Oct 29, 1928",Arkansas,27,Texas A&M,12,0
+331,8,"Nov 1, 1928",South Carolina,0,Citadel,0,0
+332,8,"Nov 3, 1928",Arkansas,7,LSU,0,0
+333,8,"Nov 3, 1928",Army,38,DePauw,12,0
+334,8,"Nov 3, 1928",Baylor,7,TCU,6,1
+335,8,"Nov 3, 1928",Brown,6,Holy Cross,0,0
+336,8,"Nov 3, 1928",California,13,Oregon,0,0
+337,8,"Nov 3, 1928",Westminster (Pennsylvania),6,Carnegie Mellon,32,1
+338,8,"Nov 3, 1928",Wabash,6,Colgate,14,1
+339,8,"Nov 3, 1928",Colorado State,7,Utah State,6,0
+340,8,"Nov 3, 1928",Columbia,0,Cornell,0,0
+341,8,"Nov 3, 1928",Wyoming,7,Denver,26,1
+342,8,"Nov 3, 1928",Detroit Mercy,38,Saint Louis,0,0
+343,8,"Nov 3, 1928",Drake,6,Missouri,0,1
+344,8,"Nov 3, 1928",Duke,38,Mercer,18,0
+345,8,"Nov 3, 1928",Florida,71,Sewanee,6,0
+346,8,"Nov 3, 1928",Furman,18,Wake Forest,0,0
+347,8,"Nov 3, 1928",Georgetown,7,New York University,2,1
+348,8,"Nov 3, 1928",Georgia,13,Auburn,0,0
+349,8,"Nov 3, 1928",Oglethorpe,7,Georgia Tech,32,1
+350,8,"Nov 3, 1928",Grinnell,20,Marquette,13,0
+351,8,"Nov 3, 1928",Harvard,39,Lehigh,0,0
+352,8,"Nov 3, 1928",Iowa,19,South Dakota,0,0
+353,8,"Nov 3, 1928",Iowa State,13,Oklahoma,0,0
+354,8,"Nov 3, 1928",Michigan,3,Illinois,0,0
+355,8,"Nov 3, 1928",Clemson,7,Ole Miss,26,1
+356,8,"Nov 3, 1928",Michigan State,6,Mississippi State,6,0
+357,8,"Nov 3, 1928",BYU,7,Montana State,19,1
+358,8,"Nov 3, 1928",Navy,37,West Virginia Wesleyan,0,0
+359,8,"Nov 3, 1928",Nebraska,20,Kansas,0,1
+360,8,"Nov 3, 1928",NC State,6,North Carolina,6,0
+361,8,"Nov 3, 1928",Northern Colorado,34,Colorado Mines,13,1
+362,8,"Nov 3, 1928",Minnesota,9,Northwestern,10,1
+363,8,"Nov 3, 1928",Notre Dame,9,Penn State,0,1
+364,8,"Nov 3, 1928",Oklahoma City,9,Oklahoma State,0,1
+365,8,"Nov 3, 1928",Oregon State,44,Montana,0,0
+366,8,"Nov 3, 1928",Pennsylvania,20,Chicago,13,1
+367,8,"Nov 3, 1928",Pitt,18,Syracuse,0,0
+368,8,"Nov 3, 1928",Ohio State,6,Princeton,6,0
+369,8,"Nov 3, 1928",Purdue,19,Case,0,0
+370,8,"Nov 3, 1928",Creighton,7,South Dakota State,18,1
+371,8,"Nov 3, 1928",USC,10,Stanford,0,0
+372,8,"Nov 3, 1928",SMU,6,Texas,2,1
+373,8,"Nov 3, 1928",Rice,6,Southwestern (TX),14,0
+374,8,"Nov 3, 1928",Tennessee,57,Carson-Newman,0,0
+375,8,"Nov 3, 1928",Texas A&M,44,North Texas,0,0
+376,8,"Nov 3, 1928",Tulane,27,Millsaps,0,0
+377,8,"Nov 3, 1928",Utah,27,Colorado College,21,0
+378,8,"Nov 3, 1928",Kentucky,7,Vanderbilt,14,1
+379,8,"Nov 3, 1928",Virginia,20,Washington & Lee,13,0
+380,8,"Nov 3, 1928",Virginia Military Institute,13,Davidson,0,0
+381,8,"Nov 3, 1928",Virginia Tech,9,Maryland,6,0
+382,8,"Nov 3, 1928",Washington,40,Puget Sound,0,1
+383,8,"Nov 3, 1928",Lafayette,13,Washington & Jefferson,13,0
+384,8,"Nov 3, 1928",Washington State,26,Idaho,0,1
+385,8,"Nov 3, 1928",Wisconsin,15,Alabama,0,0
+386,8,"Nov 3, 1928",Yale,18,Dartmouth,0,0
+387,9,"Nov 6, 1928",West Virginia,18,Fordham,0,1
+388,9,"Nov 9, 1928",Penn State,50,George Washington,0,0
+389,9,"Nov 10, 1928",Alabama,14,Kentucky,0,0
+390,9,"Nov 10, 1928",Brown,14,Dartmouth,0,1
+391,9,"Nov 10, 1928",California,6,Washington,0,1
+392,9,"Nov 10, 1928",Carnegie Mellon,13,Georgetown,0,0
+393,9,"Nov 10, 1928",Mississippi State,6,Centenary (LA),6,0
+394,9,"Nov 10, 1928",Clemson,12,Virginia Military Institute,0,1
+395,9,"Nov 10, 1928",Colgate,21,Hobart,0,0
+396,9,"Nov 10, 1928",Colorado State,7,Colorado,13,1
+397,9,"Nov 10, 1928",Colorado Mines,6,Colorado College,28,0
+398,9,"Nov 10, 1928",Columbia,14,Johns Hopkins,13,0
+399,9,"Nov 10, 1928",Denver,20,Northern Colorado,11,1
+400,9,"Nov 10, 1928",Detroit Mercy,39,Michigan State,0,0
+401,9,"Nov 10, 1928",Drake,20,Washington (MO),0,0
+402,9,"Nov 10, 1928",Duke,38,Wake Forest,0,0
+403,9,"Nov 10, 1928",Georgia,6,Florida,26,0
+404,9,"Nov 10, 1928",Furman,13,Citadel,0,0
+405,9,"Nov 10, 1928",Vanderbilt,7,Georgia Tech,19,1
+406,9,"Nov 10, 1928",Northern Iowa,0,Grinnell,0,0
+407,9,"Nov 10, 1928",Illinois,14,Butler,0,1
+408,9,"Nov 10, 1928",Ohio State,7,Iowa,14,0
+409,9,"Nov 10, 1928",Ole Miss,6,LSU,19,1
+410,9,"Nov 10, 1928",Marquette,7,Kansas,0,0
+411,9,"Nov 10, 1928",Maryland,6,Yale,0,1
+412,9,"Nov 10, 1928",Navy,6,Michigan,6,0
+413,9,"Nov 10, 1928",Minnesota,21,Indiana,12,0
+414,9,"Nov 10, 1928",Kansas State,6,Missouri,19,0
+415,9,"Nov 10, 1928",Montana,13,Centerville (Butte),0,0
+416,9,"Nov 10, 1928",Wyoming,7,Montana State,14,1
+417,9,"Nov 10, 1928",Oklahoma,6,Nebraska,44,0
+418,9,"Nov 10, 1928",New York University,71,Alfred,0,0
+419,9,"Nov 10, 1928",Davidson,7,NC State,14,1
+420,9,"Nov 10, 1928",Northwestern,7,Purdue,6,0
+421,9,"Nov 10, 1928",Army,6,Notre Dame,12,0
+422,9,"Nov 10, 1928",Ohio Wesleyan,6,Syracuse,0,1
+423,9,"Nov 10, 1928",Pennsylvania,7,Harvard,0,1
+424,9,"Nov 10, 1928",Pitt,25,Washington & Jefferson,0,0
+425,9,"Nov 10, 1928",Princeton,25,Washington & Lee,12,0
+426,9,"Nov 10, 1928",North Carolina,0,South Carolina,0,0
+427,9,"Nov 10, 1928",USC,78,Arizona,7,0
+428,9,"Nov 10, 1928",Cornell,0,St. Bonaventure,0,0
+429,9,"Nov 10, 1928",Stanford,31,Santa Clara,0,0
+430,9,"Nov 10, 1928",Tennessee,37,Sewanee,0,0
+431,9,"Nov 10, 1928",Texas,6,Baylor,0,1
+432,9,"Nov 10, 1928",SMU,19,Texas A&M,19,0
+433,9,"Nov 10, 1928",TCU,7,Rice,0,1
+434,9,"Nov 10, 1928",Tulane,13,Auburn,12,0
+435,9,"Nov 10, 1928",Creighton,7,Utah,7,0
+436,9,"Nov 10, 1928",Utah State,54,Western State,0,0
+437,9,"Nov 10, 1928",Virginia Tech,20,Virginia,0,0
+438,9,"Nov 10, 1928",Washington State,38,UCLA,0,0
+439,9,"Nov 10, 1928",Oklahoma State,6,West Virginia,32,1
+440,9,"Nov 10, 1928",Wisconsin,25,Chicago,0,0
+441,9,"Nov 12, 1928",Fordham,7,Boston College,19,1
+442,10,"Nov 16, 1928",Lafayette,7,Penn State,0,0
+443,10,"Nov 16, 1928",Texas A&M,19,Rice,0,0
+444,10,"Nov 16, 1928",Wake Forest,7,Wofford,7,0
+445,10,"Nov 17, 1928",Missouri-Rolla,6,Arkansas,45,1
+446,10,"Nov 17, 1928",Carleton,7,Army,32,1
+447,10,"Nov 17, 1928",Baylor,2,SMU,0,0
+448,10,"Nov 17, 1928",Utah,0,BYU,0,0
+449,10,"Nov 17, 1928",Brown,20,New Hampshire,0,0
+450,10,"Nov 17, 1928",Washington & Jefferson,0,Bucknell,0,0
+451,10,"Nov 17, 1928",California,60,Nevada,0,0
+452,10,"Nov 17, 1928",Notre Dame,7,Carnegie Mellon,27,0
+453,10,"Nov 17, 1928",Chadron State,31,Wyoming,0,0
+454,10,"Nov 17, 1928",Syracuse,6,Colgate,30,0
+455,10,"Nov 17, 1928",Colorado,24,Colorado College,19,1
+456,10,"Nov 17, 1928",Colorado State,15,Denver,0,1
+457,10,"Nov 17, 1928",Creighton,9,Marquette,6,1
+458,10,"Nov 17, 1928",Dartmouth,28,Cornell,0,1
+459,10,"Nov 17, 1928",Detroit Mercy,19,Fordham,0,1
+460,10,"Nov 17, 1928",Duke,14,NC State,12,1
+461,10,"Nov 17, 1928",Clemson,6,Florida,27,1
+462,10,"Nov 17, 1928",Georgetown,12,West Virginia,0,0
+463,10,"Nov 17, 1928",Georgia Tech,33,Alabama,13,0
+464,10,"Nov 17, 1928",Grinnell,7,Washington (MO),6,1
+465,10,"Nov 17, 1928",Harvard,0,Holy Cross,0,0
+466,10,"Nov 17, 1928",Montana,7,Idaho,21,0
+467,10,"Nov 17, 1928",Illinois,40,Chicago,0,1
+468,10,"Nov 17, 1928",Indiana,6,Northwestern,0,0
+469,10,"Nov 17, 1928",Iowa State,7,Kansas State,0,0
+470,10,"Nov 17, 1928",Virginia Military Institute,6,Kentucky,18,1
+471,10,"Nov 17, 1928",LSU,13,Georgia,12,1
+472,10,"Nov 17, 1928",Virginia,2,Maryland,18,1
+473,10,"Nov 17, 1928",Michigan,3,Michigan State,0,0
+474,10,"Nov 17, 1928",Minnesota,52,Haskell,0,0
+475,10,"Nov 17, 1928",Ole Miss,34,Rhodes,2,1
+476,10,"Nov 17, 1928",Mississippi State,13,Auburn,0,1
+477,10,"Nov 17, 1928",Navy,57,Loyola (Baltimore),0,0
+478,10,"Nov 17, 1928",Missouri,6,New York University,27,1
+479,10,"Nov 17, 1928",Davidson,7,North Carolina,30,0
+480,10,"Nov 17, 1928",Northern Colorado,54,Western State,0,1
+481,10,"Nov 17, 1928",Ohio State,39,Muskingum,0,0
+482,10,"Nov 17, 1928",Oklahoma,7,Kansas,0,1
+483,10,"Nov 17, 1928",Oregon,12,Oregon State,0,1
+484,10,"Nov 17, 1928",Columbia,7,Pennsylvania,34,1
+485,10,"Nov 17, 1928",Nebraska,0,Pitt,0,0
+486,10,"Nov 17, 1928",Yale,2,Princeton,12,1
+487,10,"Nov 17, 1928",Purdue,14,Wabash,0,0
+488,10,"Nov 17, 1928",South Carolina,6,Furman,0,0
+489,10,"Nov 17, 1928",USC,27,Washington State,13,0
+490,10,"Nov 17, 1928",Stanford,12,Washington,0,0
+491,10,"Nov 17, 1928",Tennessee,6,Vanderbilt,0,1
+492,10,"Nov 17, 1928",Texas,6,TCU,0,1
+493,10,"Nov 17, 1928",Sewanee,6,Tulane,41,1
+494,10,"Nov 17, 1928",UCLA,65,La Verne,0,0
+495,10,"Nov 17, 1928",Montana State,7,Utah State,15,1
+496,10,"Nov 17, 1928",Washington & Lee,7,Virginia Tech,13,0
+497,10,"Nov 17, 1928",Wisconsin,13,Iowa,0,1
+498,11,"Nov 24, 1928",Arkansas,57,Oklahoma Baptist,0,0
+499,11,"Nov 24, 1928",Nebraska,3,Army,13,1
+500,11,"Nov 24, 1928",Rhode Island,7,Brown,33,1
+501,11,"Nov 24, 1928",Carroll (Montana),19,Montana State,0,1
+502,11,"Nov 24, 1928",Colorado College,48,Wyoming,25,0
+503,11,"Nov 24, 1928",Colorado State,46,Colorado Mines,20,0
+504,11,"Nov 24, 1928",Creighton,20,Grinnell,19,1
+505,11,"Nov 24, 1928",Drake,18,Iowa State,0,0
+506,11,"Nov 24, 1928",Duke,33,Davidson,0,0
+507,11,"Nov 24, 1928",Fordham,7,Georgetown,27,0
+508,11,"Nov 24, 1928",Harvard,17,Yale,0,1
+509,11,"Nov 24, 1928",Illinois,8,Ohio State,0,0
+510,11,"Nov 24, 1928",Holy Cross,6,Marquette,6,0
+511,11,"Nov 24, 1928",Maryland,6,Washington & Lee,0,1
+512,11,"Nov 24, 1928",Iowa,7,Michigan,10,1
+513,11,"Nov 24, 1928",Michigan State,7,NC State,0,0
+514,11,"Nov 24, 1928",Minnesota,6,Wisconsin,0,1
+515,11,"Nov 24, 1928",Kansas,6,Missouri,25,1
+516,11,"Nov 24, 1928",Navy,9,Princeton,0,0
+517,11,"Nov 24, 1928",New York University,27,Carnegie Mellon,13,1
+518,11,"Nov 24, 1928",Dartmouth,6,Northwestern,27,1
+519,11,"Nov 24, 1928",Oklahoma,46,Oklahoma State,0,1
+520,11,"Nov 24, 1928",Montana,6,Oregon,31,1
+521,11,"Nov 24, 1928",Purdue,14,Indiana,0,0
+522,11,"Nov 24, 1928",Regis (CO),38,Western State,14,1
+523,11,"Nov 24, 1928",Idaho,7,USC,28,1
+524,11,"Nov 24, 1928",California,13,Stanford,13,0
+525,11,"Nov 24, 1928",Louisiana College,7,Tulane,47,1
+526,11,"Nov 24, 1928",Vanderbilt,26,Centre,0,0
+527,11,"Nov 24, 1928",Washington (MO),6,Saint Louis,0,0
+528,12,"Nov 29, 1928",Alabama,19,Georgia,0,0
+529,12,"Nov 29, 1928",Arkansas,73,Southwestern (TX),0,0
+530,12,"Nov 29, 1928",Baylor,25,Rice,14,1
+531,12,"Nov 29, 1928",Brown,16,Colgate,13,0
+532,12,"Nov 29, 1928",Clemson,27,Furman,12,1
+533,12,"Nov 29, 1928",Colorado,7,Denver,0,1
+534,12,"Nov 29, 1928",Detroit Mercy,33,Georgetown,13,0
+535,12,"Nov 29, 1928",Drake,6,Creighton,0,1
+536,12,"Nov 29, 1928",Florida,60,Washington & Lee,6,0
+537,12,"Nov 29, 1928",Georgia Tech,51,Auburn,0,0
+538,12,"Nov 29, 1928",Tennessee,0,Kentucky,0,0
+539,12,"Nov 29, 1928",Tulane,0,LSU,0,0
+540,12,"Nov 29, 1928",Marquette,6,Iowa State,0,0
+541,12,"Nov 29, 1928",Johns Hopkins,6,Maryland,26,1
+542,12,"Nov 29, 1928",Mercer,14,Wake Forest,12,0
+543,12,"Nov 29, 1928",Ole Miss,20,Mississippi State,19,1
+544,12,"Nov 29, 1928",Montana,7,Gonzaga,0,1
+545,12,"Nov 29, 1928",Nebraska,8,Kansas State,0,0
+546,12,"Nov 29, 1928",New Mexico,32,Colorado Mines,13,0
+547,12,"Nov 29, 1928",North Carolina,24,Virginia,20,1
+548,12,"Nov 29, 1928",South Carolina,7,NC State,18,1
+549,12,"Nov 29, 1928",Oklahoma,14,Missouri,0,0
+550,12,"Nov 29, 1928",UCLA,6,Oregon,26,0
+551,12,"Nov 29, 1928",Oregon State,25,New York University,13,1
+552,12,"Nov 29, 1928",Pennsylvania,49,Cornell,0,0
+553,12,"Nov 29, 1928",Pitt,26,Penn State,0,0
+554,12,"Nov 29, 1928",Columbia,6,Syracuse,14,0
+555,12,"Nov 29, 1928",Texas,19,Texas A&M,0,0
+556,12,"Nov 29, 1928",SMU,6,TCU,15,0
+557,12,"Nov 29, 1928",Tulsa,31,Oklahoma State,0,0
+558,12,"Nov 29, 1928",Utah,20,Utah State,0,0
+559,12,"Nov 29, 1928",Virginia Tech,6,Virginia Military Institute,16,1
+560,12,"Nov 29, 1928",Washington,6,Washington State,0,0
+561,12,"Nov 29, 1928",West Virginia,14,Washington & Jefferson,0,0
+562,12,"Dec 1, 1928",Colorado State,35,Colorado College,13,0
+563,12,"Dec 1, 1928",USC,27,Notre Dame,14,0
+564,12,"Dec 1, 1928",Stanford,26,Army,0,1
+565,12,"Dec 1, 1928",Vanderbilt,13,Sewanee,0,0
+566,12,"Dec 1, 1928",Wofford,7,Davidson,0,1
+567,13,"Dec 8, 1928",Alabama,13,LSU,0,0
+568,13,"Dec 8, 1928",Clemson,7,Citadel,12,1
+569,13,"Dec 8, 1928",Georgia,6,Georgia Tech,20,1
+570,13,"Dec 8, 1928",Duke,7,North Carolina,14,1
+571,13,"Dec 8, 1928",Tennessee,13,Florida,12,0
+572,14,"Dec 15, 1928",Denver,13,Hawaii,12,1
+573,15,"Dec 25, 1928",Hawaii All-Stars,2,Oregon,13,0
+574,15,"Dec 25, 1928",Miami,6,Wake Forest,13,0
+575,16,"Jan 1, 1929",Georgia Tech,8,California,7,0
+576,16,"Jan 1, 1929",Oregon,6,Hawaii,0,1

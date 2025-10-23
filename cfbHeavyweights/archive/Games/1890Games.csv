@@ -1,0 +1,118 @@
+0,1,"Oct 1, 1890",Amherst,12,Trinity (CT),11,1
+1,1,"Oct 1, 1890",Cornell,98,Rochester,0,0
+2,1,"Oct 1, 1890",Lafayette,52,Dickinson,0,0
+3,1,"Oct 1, 1890",Pennsylvania,10,Swarthmore,0,1
+4,1,"Oct 1, 1890",Princeton,33,Franklin & Marshall,16,0
+5,1,"Oct 1, 1890",Yale,8,Wesleyan (CT),0,0
+6,1,"Oct 4, 1890",Lafayette,0,Bucknell,0,0
+7,1,"Oct 4, 1890",Cornell,32,Union (NY),0,1
+8,1,"Oct 4, 1890",Andover,5,Dartmouth,10,1
+9,1,"Oct 4, 1890",Harvard,41,Exeter,0,0
+10,1,"Oct 4, 1890",Lehigh,50,Swarthmore,0,0
+11,1,"Oct 4, 1890",Orange A.C.,21,Columbia,0,0
+12,1,"Oct 4, 1890",Rutgers,4,Pennsylvania,16,1
+13,1,"Oct 4, 1890",Trinity (CT),5,Wesleyan (CT),12,1
+14,1,"Oct 4, 1890",Williams,6,Amherst,0,0
+15,1,"Oct 4, 1890",Crescent A.C.,6,Yale,18,0
+16,2,"Oct 8, 1890",Harvard,43,Dartmouth,0,0
+17,2,"Oct 8, 1890",Princeton,27,Rutgers,0,0
+18,2,"Oct 8, 1890",Amherst,0,Trinity (CT),0,0
+19,2,"Oct 8, 1890",Cornell,8,Williams,18,1
+20,2,"Oct 8, 1890",Yale,34,Wesleyan (CT),0,1
+21,2,"Oct 11, 1890",Dartmouth,71,Vermont,0,0
+22,2,"Oct 11, 1890",Franklin & Marshall,18,Lafayette,10,0
+23,2,"Oct 11, 1890",Harvard,74,Amherst,6,0
+24,2,"Oct 11, 1890",Pennsylvania,20,Penn State,0,0
+25,2,"Oct 11, 1890",Orange A.C.,0,Princeton,0,0
+26,2,"Oct 11, 1890",Williams,40,Ridgefield A.C.,0,0
+27,2,"Oct 11, 1890",Yale,26,Lehigh,0,0
+28,2,"Oct 12, 1890",Franklin & Marshall,10,Penn State,0,0
+29,2,"Oct 13, 1890",Harvard,38,Williams,0,0
+30,3,"Oct 15, 1890",Princeton,18,Pennsylvania,0,0
+31,3,"Oct 15, 1890",Williams,42,Troy Laureates,0,0
+32,3,"Oct 15, 1890",Yale,40,Trinity (CT),0,0
+33,3,"Oct 17, 1890",Bucknell,12,Dickinson,0,1
+34,3,"Oct 18, 1890",Cornell,26,Trinity (CT),0,1
+35,3,"Oct 18, 1890",Harvard,64,Dartmouth,0,0
+36,3,"Oct 18, 1890",Pennsylvania,8,Lehigh,0,0
+37,3,"Oct 18, 1890",Princeton,12,Crescent A.C.,0,1
+38,3,"Oct 18, 1890",Rutgers,30,New York A.C.,0,1
+39,3,"Oct 18, 1890",Wesleyan (CT),4,Columbia,0,1
+40,3,"Oct 18, 1890",Williams,50,Bowdoin,0,1
+41,3,"Oct 18, 1890",Yale,16,Orange A.C.,0,0
+42,4,"Oct 21, 1890",Bucknell,6,Franklin & Marshall,22,0
+43,4,"Oct 22, 1890",Harvard,54,Bowdoin,0,0
+44,4,"Oct 22, 1890",Pennsylvania,18,Columbia,0,1
+45,4,"Oct 22, 1890",Lafayette,6,Princeton,26,1
+46,4,"Oct 22, 1890",Wesleyan (CT),8,Amherst,6,1
+47,4,"Oct 22, 1890",Yale,36,Williams,0,0
+48,4,"Oct 25, 1890",Dartmouth,10,Andover,0,1
+49,4,"Oct 25, 1890",Dickinson,8,Swarthmore,0,0
+50,4,"Oct 25, 1890",Harvard,55,Wesleyan (CT),0,0
+51,4,"Oct 25, 1890",Pennsylvania,28,Franklin & Marshall,0,0
+52,4,"Oct 25, 1890",Princeton,50,Lehigh,0,0
+53,4,"Oct 25, 1890",Rutgers,6,Orange A.C.,4,1
+54,4,"Oct 25, 1890",Williams,28,Trinity (CT),0,1
+55,4,"Oct 25, 1890",Yale,12,Amherst,0,1
+56,5,"Oct 29, 1890",Amherst,18,Cornell,0,0
+57,5,"Oct 29, 1890",Dickinson,6,Haverford,0,1
+58,5,"Oct 29, 1890",Princeton,60,Columbia A.C.,0,1
+59,5,"Oct 30, 1890",Columbia,40,Fordham,0,0
+60,5,"Oct 31, 1890",Pennsylvania,72,Virginia,0,0
+61,5,"Nov 1, 1890",MIT,4,Amherst,38,0
+62,5,"Nov 1, 1890",Crescent A.C.,29,Columbia,0,0
+63,5,"Nov 1, 1890",Dartmouth,42,Bowdoin,0,0
+64,5,"Nov 1, 1890",Dickinson,9,Franklin & Marshall,10,0
+65,5,"Nov 1, 1890",Harvard,77,Cornell,0,0
+66,5,"Nov 1, 1890",Lehigh,30,Lafayette,0,1
+67,5,"Nov 1, 1890",Princeton,115,Virginia,0,0
+68,5,"Nov 1, 1890",Trinity (CT),30,Massachusetts,0,1
+69,5,"Nov 1, 1890",Yale,76,Wesleyan (CT),0,0
+70,6,"Nov 4, 1890",Amherst,52,Massachusetts,0,1
+71,6,"Nov 4, 1890",Lehigh,4,Rutgers,2,1
+72,6,"Nov 4, 1890",Princeton,85,Columbia,0,1
+73,6,"Nov 4, 1890",Yale,52,Crescent A.C.,0,1
+74,6,"Nov 5, 1890",Pennsylvania,34,Schuylkill Navy,10,0
+75,6,"Nov 5, 1890",Wesleyan (CT),4,Cornell,2,0
+76,6,"Nov 8, 1890",Amherst,4,Dartmouth,0,0
+77,6,"Nov 8, 1890",Cornell,26,Bucknell,0,0
+78,6,"Nov 8, 1890",Franklin & Marshall,38,Millersville,0,0
+79,6,"Nov 8, 1890",Harvard,33,Orange A.C.,0,0
+80,6,"Nov 8, 1890",Lehigh,60,Lehigh A.C.,6,0
+81,6,"Nov 8, 1890",Dickinson,6,Navy,32,1
+82,6,"Nov 8, 1890",Princeton,6,Pennsylvania,0,0
+83,6,"Nov 8, 1890",Trinity (CT),20,Brown,16,0
+84,6,"Nov 8, 1890",Virginia,136,Randolph-Macon,0,0
+85,6,"Nov 8, 1890",Williams,36,MIT,0,0
+86,6,"Nov 8, 1890",Yale,70,Rutgers,0,0
+87,6,"Nov 10, 1890",Virginia,14,Dickinson,10,0
+88,7,"Nov 11, 1890",Columbia A.C.,6,Dickinson,0,0
+89,7,"Nov 11, 1890",Rutgers,68,Crescent A.C.,0,0
+90,7,"Nov 14, 1890",Rutgers,62,New York University,0,0
+91,7,"Nov 15, 1890",Michigan,5,Cornell,20,0
+92,7,"Nov 15, 1890",Dickinson,12,Haverford,0,1
+93,7,"Nov 15, 1890",Franklin & Marshall,68,Gettysburg,0,0
+94,7,"Nov 15, 1890",Harvard,64,Amherst,0,1
+95,7,"Nov 15, 1890",Lehigh,66,Lafayette,6,0
+96,7,"Nov 15, 1890",Princeton,46,Wesleyan (CT),4,0
+97,7,"Nov 15, 1890",Columbia,6,Rutgers,6,0
+98,7,"Nov 15, 1890",Virginia,46,Washington & Lee,0,1
+99,7,"Nov 15, 1890",Williams,6,Dartmouth,0,0
+100,7,"Nov 15, 1890",Yale,60,Pennsylvania,0,0
+101,8,"Nov 21, 1890",Lafayette,6,Virginia,20,1
+102,8,"Nov 22, 1890",Williston,6,Amherst,48,1
+103,8,"Nov 22, 1890",Cornell,36,Columbia,0,0
+104,8,"Nov 22, 1890",Franklin & Marshall,12,Bucknell,10,0
+105,8,"Nov 22, 1890",Yale,6,Harvard,12,1
+106,8,"Nov 22, 1890",Columbia A.C.,6,Lafayette,20,0
+107,8,"Nov 22, 1890",Pennsylvania,17,Lehigh,14,1
+108,8,"Nov 22, 1890",Rutgers,32,Manhattan A.C.,0,0
+109,8,"Nov 22, 1890",Brown,6,Wesleyan (CT),34,1
+110,9,"Nov 26, 1890",Pennsylvania,16,Wesleyan (CT),10,0
+111,9,"Nov 27, 1890",Chicago A.C.,8,Cornell,12,0
+112,9,"Nov 27, 1890",Franklin & Marshall,18,Fordham,0,0
+113,9,"Nov 27, 1890",Navy,4,Lehigh,24,0
+114,9,"Nov 27, 1890",Duke,4,Virginia,10,1
+115,9,"Nov 27, 1890",Yale,32,Princeton,0,0
+116,10,"Dec 6, 1890",Cornell,82,Fordham,4,0
+117,11,"Dec 13, 1890",Pennsylvania,20,Rutgers,12,0

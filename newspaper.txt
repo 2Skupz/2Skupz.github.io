@@ -19,10 +19,14 @@ Sporting KC        34   7   7  20  46  70 -24  28  42.1  70.6       DC United   
 MLS Fixtures
 ------------
 Wednesday, October 22
-  Chicago              vs    Orlando City
-  Portland             vs    Real Salt Lake
+  Portland             3–1   Real Salt Lake
+  Chicago              3–1   Orlando City
 Friday, October 24
   Inter Miami          vs    Nashville
+Sunday, October 26
+  Vancouver            vs    Dallas
+  Philadelphia         vs    Chicago
+  San Diego            vs    Portland
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -47,18 +51,18 @@ Värnamo            27   3   7  17  33  55 -22  16                   Mainz 05   
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Sunday, October 19                                                  Sunday, October 19
-  Hammarby             2–1   AIK Stockholm                            Freiburg             2–2   Eint Frankfurt
-  GAIS                 3–2   Djurgården                               St. Pauli            0–3   Hoffenheim
-  Värnamo              1–1   Brommapojkarna                         Friday, October 24
-  Elfsborg             5–1   Öster                                    Werder Bremen        vs    Union Berlin
-Monday, October 20                                                  Saturday, October 25
-  Degerfors            0–1   Halmstad                                 Hamburger SV         vs    Wolfsburg
-  Göteborg             0–2   Mjällby                                  Gladbach             vs    Bayern Munich
-Saturday, October 25                                                  Hoffenheim           vs    Heidenheim
-  Djurgården           vs    Värnamo                                  Augsburg             vs    RB Leipzig
-  Öster                vs    Degerfors                                Eint Frankfurt       vs    St. Pauli
-                                                                      Dortmund             vs    Köln
+Monday, October 20                                                  Friday, October 24
+  Degerfors            0–1   Halmstad                                 Werder Bremen        vs    Union Berlin
+  Göteborg             0–2   Mjällby                                Saturday, October 25
+Saturday, October 25                                                  Hamburger SV         vs    Wolfsburg
+  Djurgården           vs    Värnamo                                  Gladbach             vs    Bayern Munich
+  Öster                vs    Degerfors                                Hoffenheim           vs    Heidenheim
+Sunday, October 26                                                    Augsburg             vs    RB Leipzig
+  Sirius               vs    Elfsborg                                 Eint Frankfurt       vs    St. Pauli
+  Mjällby              vs    Norrköping                               Dortmund             vs    Köln
+  AIK Stockholm        vs    Häcken                                 Sunday, October 26
+  Halmstad             vs    Göteborg                                 Leverkusen           vs    Freiburg
+                                                                      Stuttgart            vs    Mainz 05
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -74,29 +78,32 @@ Manchester Utd      8   4   1   3  11  12  -1  13  14.9  12.5       Rennes      
 Brighton            8   3   3   2  12  11   1  12  12.1  10.5       Nice                8   3   2   3  12  14  -2  11  10.1  15.4
 Aston Villa         8   3   3   2   8   8   0  12   6.3  10.6       Paris FC            8   3   1   4  13  15  -2  10  11.6  12.9
 Everton             8   3   2   3   9   9   0  11  10.8  11.9       Brest               8   2   3   3  14  14   0   9  13.1  12.4
-Newcastle Utd       8   2   3   3   7   7   0   9   9.8   5.7       Lorient             8   2   2   4  12  19  -7   8  10.5  12.9
-Fulham              8   2   2   4   8  12  -4   8   7.7  10.7       Auxerre             8   2   1   5   7  12  -5   7   9.0  11.4
-Leeds United        8   2   2   4   7  13  -6   8  10.0   8.3       Nantes              8   1   3   4   5   9  -4   6   5.9  13.0
-Brentford           7   2   1   4   9  12  -3   7  10.7  10.0       Le Havre            8   1   3   4  10  16  -6   6  10.2  11.6
+Brentford           8   3   1   4  11  12  -1  10  10.7  10.0       Lorient             8   2   2   4  12  19  -7   8  10.5  12.9
+Newcastle Utd       8   2   3   3   7   7   0   9   9.8   5.7       Auxerre             8   2   1   5   7  12  -5   7   9.0  11.4
+Fulham              8   2   2   4   8  12  -4   8   7.7  10.7       Nantes              8   1   3   4   5   9  -4   6   5.9  13.0
+Leeds United        8   2   2   4   7  13  -6   8  10.0   8.3       Le Havre            8   1   3   4  10  16  -6   6  10.2  11.6
 Burnley             8   2   1   5   9  15  -6   7   5.4  15.8       Angers              8   1   3   4   4  12  -8   6   8.4  15.7
 Nott'ham Forest     8   1   2   5   5  15 -10   5   8.7  14.1       Metz                8   0   2   6   5  20 -15   2   7.2  18.0
-West Ham            7   1   1   5   6  16 -10   4   6.9  13.3       
+West Ham            8   1   1   6   6  18 -12   4   6.9  13.3       
 Wolves              8   0   2   6   5  16 -11   2   6.9  10.0       
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Sunday, October 19                                                  Sunday, October 19
-  Tottenham            1–2   Aston Villa                              Lens                 2–1   Paris FC
-  Liverpool            1–2   Manchester Utd                           Rennes               2–2   Auxerre
-Monday, October 20                                                    Lorient              3–3   Brest
-  West Ham             0–2   Brentford                                Toulouse             4–0   Metz
-Friday, October 24                                                    Nantes               0–2   Lille
-  Leeds United         vs    West Ham                               Friday, October 24
-Saturday, October 25                                                  Paris FC             vs    Nantes
-  Newcastle Utd        vs    Fulham                                 Saturday, October 25
-  Chelsea              vs    Sunderland                               Brest                vs    Paris S-G
-  Manchester Utd       vs    Brighton                                 Monaco               vs    Toulouse
-  Brentford            vs    Liverpool                                Lens                 vs    Marseille
+Monday, October 20                                                  Friday, October 24
+  West Ham             0–2   Brentford                                Paris FC             vs    Nantes
+Friday, October 24                                                  Saturday, October 25
+  Leeds United         vs    West Ham                                 Brest                vs    Paris S-G
+Saturday, October 25                                                  Monaco               vs    Toulouse
+  Newcastle Utd        vs    Fulham                                   Lens                 vs    Marseille
+  Chelsea              vs    Sunderland                             Sunday, October 26
+  Manchester Utd       vs    Brighton                                 Lille                vs    Metz
+  Brentford            vs    Liverpool                                Auxerre              vs    Le Havre
+Sunday, October 26                                                    Angers               vs    Lorient
+  Arsenal              vs    Crystal Palace                           Rennes               vs    Nice
+  Aston Villa          vs    Manchester City                          Lyon                 vs    Strasbourg
+  Wolves               vs    Burnley                                
+  Bournemouth          vs    Nott'ham Forest                        
+  Everton              vs    Tottenham                              
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -109,10 +116,10 @@ Como                7   3   3   1   9   5   4  12   9.1   6.7
 Juventus            7   3   3   1   9   7   2  12   7.9   7.5       
 Atalanta            7   2   5   0  11   5   6  11  10.6   6.1       
 Sassuolo            7   3   1   3   8   8   0  10   7.1   9.5       
-Cremonese           6   2   3   1   7   8  -1   9   5.4  11.0       
+Cremonese           7   2   4   1   8   9  -1  10   5.4  11.0       
+Udinese             7   2   3   2   7  10  -3   9   8.0   7.5       
 Lazio               7   2   2   3  10   7   3   8   8.8   9.9       
 Cagliari            7   2   2   3   6   8  -2   8   6.4  11.9       
-Udinese             6   2   2   2   6   9  -3   8   8.0   7.5       
 Torino              7   2   2   3   6  13  -7   8   8.5  10.7       
 Parma               7   1   3   3   3   7  -4   6   5.9   7.7       
 Lecce               7   1   3   3   5  10  -5   6   5.1   9.0       
@@ -123,12 +130,6 @@ Pisa                7   0   3   4   3  10  -7   3   5.4  10.6
 
 Serie A Fixtures
 ----------------
-Sunday, October 19
-  Como                 2–0   Juventus
-  Cagliari             0–2   Bologna
-  Genoa                0–0   Parma
-  Atalanta             0–0   Lazio
-  Milan                2–1   Fiorentina
 Monday, October 20
   Cremonese            1–1   Udinese
 Friday, October 24
@@ -138,45 +139,51 @@ Saturday, October 25
   Parma                vs    Como
   Napoli               vs    Inter
   Cremonese            vs    Atalanta
+Sunday, October 26
+  Torino               vs    Genoa
+  Sassuolo             vs    Roma
+  Hellas Verona        vs    Cagliari
+  Fiorentina           vs    Bologna
+  Lazio                vs    Juventus
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-fr  Paris S-G        3   3   0   0  13   3  10   9   7.9   4.3      
-it  Inter            3   3   0   0   9   0   9   9   9.5   2.3      
+fr  Paris S-G        3   3   0   0  13   3  10   9   7.9   4.1      
+de  Bayern Munich    3   3   0   0  12   2  10   9  10.7   1.4      
+it  Inter            3   3   0   0   9   0   9   9   9.8   2.3      
 eng Arsenal          3   3   0   0   8   0   8   9   6.3   1.5      
+es  Real Madrid      3   3   0   0   8   1   7   9   9.8   2.0      
 de  Dortmund         3   2   1   0  12   7   5   7   4.3   3.7      
 eng Manchester City  3   2   1   0   6   2   4   7   5.0   2.8      
-de  Bayern Munich    2   2   0   0   8   2   6   6   6.7   1.1      
 eng Newcastle Utd    3   2   0   1   8   2   6   6   6.5   2.3      
-es  Real Madrid      2   2   0   0   7   1   6   6   7.1   1.2      
-es  Barcelona        3   2   0   1   9   4   5   6   4.9   3.9      
-az  Qarabağ          2   2   0   0   5   2   3   6   3.3   2.4      
+es  Barcelona        3   2   0   1   9   4   5   6   5.0   3.9      
+eng Liverpool        3   2   0   1   8   4   4   6   7.6   2.5      
+eng Chelsea          3   2   0   1   7   4   3   6   5.0   4.1      
+pt  Sporting CP      3   2   0   1   7   4   3   6   5.9   2.0      
+az  Qarabağ          3   2   0   1   6   5   1   6   4.0   5.8      
+tr  Galatasaray      3   2   0   1   5   6  -1   6   6.8   4.3      
+eng Tottenham        3   1   2   0   3   2   1   5   2.8   5.4      
 nl  PSV Eindhoven    3   1   1   1   8   6   2   4   5.5   5.9      
-eng Tottenham        2   1   1   0   3   2   1   4   1.9   3.0      
-fr  Marseille        2   1   0   1   5   2   3   3   1.9   4.4      
-pt  Sporting CP      2   1   0   1   5   3   2   3   5.0   1.5      
-be  Club Brugge      2   1   0   1   5   3   2   3   3.9   4.1      
-de  Eint Frankfurt   2   1   0   1   6   6   0   3   1.7   5.4      
-eng Liverpool        2   1   0   1   3   3   0   3   4.4   2.2      
+it  Atalanta         3   1   1   1   2   5  -3   4   5.1   5.0      
+fr  Marseille        3   1   0   2   6   4   2   3   2.3   5.4      
 es  Atlético Madrid  3   1   0   2   7   8  -1   3   5.5   5.4      
-eng Chelsea          2   1   0   1   2   3  -1   3   1.4   3.0      
-it  Atalanta         2   1   0   1   2   5  -3   3   3.1   4.3      
-tr  Galatasaray      2   1   0   1   2   5  -3   3   2.8   2.9      
+be  Club Brugge      3   1   0   2   5   7  -2   3   4.1   8.1      
+es  Athletic Club    3   1   0   2   4   7  -3   3   4.7   3.1      
+de  Eint Frankfurt   3   1   0   2   7  11  -4   3   1.9   8.6      
 it  Napoli           3   1   0   2   4   9  -5   3   2.2   6.2      
-be  Union SG         3   1   0   2   3   9  -6   3   4.8   9.2      
-it  Juventus         2   0   2   0   6   6   0   2   3.3   3.2      
-no  Bodø/Glimt       2   0   2   0   4   4   0   2   5.3   5.3      
+be  Union SG         3   1   0   2   3   9  -6   3   4.8   9.5      
+it  Juventus         3   0   2   1   6   7  -1   2   4.2   5.9      
+no  Bodø/Glimt       3   0   2   1   5   7  -2   2   6.7   9.4      
+fr  Monaco           3   0   2   1   3   6  -3   2   5.4   5.4      
+cz  Slavia Prague    3   0   2   1   2   5  -3   2   4.8   8.8      
 cy  Pafos FC         3   0   2   1   1   5  -4   2   2.4   7.3      
-de  Leverkusen       3   0   2   1   5  10  -5   2   5.4   5.2      
-fr  Monaco           2   0   1   1   3   6  -3   1   2.9   4.5      
-cz  Slavia Prague    2   0   1   1   2   5  -3   1   4.1   6.8      
+de  Leverkusen       3   0   2   1   5  10  -5   2   5.2   5.2      
 es  Villarreal       3   0   1   2   2   5  -3   1   3.4   3.3      
 dk  FC Copenhagen    3   0   1   2   4   8  -4   1   3.7   4.7      
-gr  Olympiacos       3   0   1   2   1   8  -7   1   3.0   5.6      
+gr  Olympiacos       3   0   1   2   1   8  -7   1   3.0   5.7      
 kz  Qaırat Almaty    3   0   1   2   1   9  -8   1   2.3   8.9      
 pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8      
-es  Athletic Club    2   0   0   2   1   6  -5   0   1.3   2.4      
-nl  Ajax             2   0   0   2   0   6  -6   0   2.0   2.3      
+nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 Champions League Fixtures
 -------------------------
@@ -191,14 +198,14 @@ Tuesday, October 21
   FC Copenhagendk      2–4   deDortmund
   Qaırat Almatykz      0–0   cyPafos FC
 Wednesday, October 22
-  Athletic Clubes      vs    azQarabağ
-  Galatasaraytr        vs    noBodø/Glimt
-  Sporting CPpt        vs    frMarseille
-  Chelseaeng           vs    nlAjax
-  Bayern Munichde      vs    beClub Brugge
-  Atalantait           vs    czSlavia Prague
-  Real Madrides        vs    itJuventus
-  Monacofr             vs    engTottenham
-  Eint Frankfurtde     vs    engLiverpool
+  Athletic Clubes      3–1   azQarabağ
+  Galatasaraytr        3–1   noBodø/Glimt
+  Sporting CPpt        2–1   frMarseille
+  Chelseaeng           5–1   nlAjax
+  Bayern Munichde      4–0   beClub Brugge
+  Atalantait           0–0   czSlavia Prague
+  Real Madrides        1–0   itJuventus
+  Monacofr             0–0   engTottenham
+  Eint Frankfurtde     1–5   engLiverpool
 
-Standings from FBRef.com 10.22.25
+Standings from FBRef.com 10.23.25

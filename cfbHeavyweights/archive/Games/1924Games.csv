@@ -1,0 +1,606 @@
+0,1,"Sep 20, 1924",Davidson,14,Elon,0,0
+1,1,"Sep 20, 1924",Samford,29,Marion,0,0
+2,1,"Sep 20, 1924",Sewanee,27,Transylvania,0,0
+3,1,"Sep 20, 1924",Texas A&M,40,Tarleton State,0,0
+4,1,"Sep 20, 1924",Virginia Military Institute,33,Wofford,0,0
+5,1,"Sep 20, 1924",Washington,32,West Seattle A.C.,0,0
+6,2,"Sep 27, 1924",Alabama,55,Union (Tennessee),0,0
+7,2,"Sep 27, 1924",Northeastern Oklahoma State,6,Arkansas,54,1
+8,2,"Sep 27, 1924",Auburn,7,Birmingham-Southern,0,1
+9,2,"Sep 27, 1924",Hardin-Simmons,6,Baylor,10,1
+10,2,"Sep 27, 1924",Santa Clara,7,California,13,1
+11,2,"Sep 27, 1924",Dayton,3,Carnegie Mellon,14,1
+12,2,"Sep 27, 1924",Citadel,12,Southern College,0,0
+13,2,"Sep 27, 1924",Clemson,60,Elon,0,0
+14,2,"Sep 27, 1924",Colorado College,20,Western State,0,0
+15,2,"Sep 27, 1924",Colorado Mines,7,Regis (CO),0,1
+16,2,"Sep 27, 1924",Haverford,3,Columbia,29,1
+17,2,"Sep 27, 1924",Cornell,56,St. Bonaventure,0,0
+18,2,"Sep 27, 1924",Dartmouth,40,Norwich,0,0
+19,2,"Sep 27, 1924",Presbyterian,3,Davidson,15,0
+20,2,"Sep 27, 1924",Furman,14,Newberry,0,0
+21,2,"Sep 27, 1924",Mercer,7,Georgia,26,1
+22,2,"Sep 27, 1924",Georgia Tech,19,Oglethorpe,0,0
+23,2,"Sep 27, 1924",Gonzaga,27,Eastern Washington,0,0
+24,2,"Sep 27, 1924",Indiana,65,Rose-Hulman,0,0
+25,2,"Sep 27, 1924",Iowa State,23,Nebraska Wesleyan,13,0
+26,2,"Sep 27, 1924",Jacksonville State,14,Chattanooga,13,1
+27,2,"Sep 27, 1924",LSU,7,Spring Hill,6,0
+28,2,"Sep 27, 1924",Maryland,23,Washington (Maryland),0,0
+29,2,"Sep 27, 1924",Millsaps,14,Clarke Memorial,0,0
+30,2,"Sep 27, 1924",NC State,14,Duke,0,0
+31,2,"Sep 27, 1924",Oklahoma State,9,Southwestern Oklahoma State,0,0
+32,2,"Sep 27, 1924",Willamette,0,Oregon,0,0
+33,2,"Sep 27, 1924",Penn State,47,Lebanon Valley,3,0
+34,2,"Sep 27, 1924",Pennsylvania,34,Ursinus,0,0
+35,2,"Sep 27, 1924",Pitt,14,Grove City,0,1
+36,2,"Sep 27, 1924",Wabash,7,Purdue,21,1
+37,2,"Sep 27, 1924",Sewanee,7,Rhodes,0,0
+38,2,"Sep 27, 1924",South Carolina,47,Erskine,0,0
+39,2,"Sep 27, 1924",USC,78,California Tech,6,0
+40,2,"Sep 27, 1924",SMU,7,North Texas,0,0
+41,2,"Sep 27, 1924",Syracuse,35,Hobart,0,0
+42,2,"Sep 27, 1924",Texas,27,Southwestern (TX),0,0
+43,2,"Sep 27, 1924",Texas A&M,33,Trinity (Texas),0,0
+44,2,"Sep 27, 1924",TCU,43,Texas A&M-Commerce,0,0
+45,2,"Sep 27, 1924",Tulane,14,Louisiana,0,0
+46,2,"Sep 27, 1924",Vanderbilt,13,Henderson State,0,0
+47,2,"Sep 27, 1924",Hampden-Sydney,9,Virginia,13,1
+48,2,"Sep 27, 1924",Virginia Military Institute,39,Emory & Henry,0,0
+49,2,"Sep 27, 1924",Virginia Tech,28,Richmond,0,0
+50,2,"Sep 27, 1924",Wake Forest,7,North Carolina,6,0
+51,2,"Sep 27, 1924",Washington,33,USS Maryland,0,0
+52,2,"Sep 27, 1924",Geneva,6,Washington & Jefferson,19,1
+53,2,"Sep 27, 1924",Washington & Lee,34,Roanoke,0,0
+54,2,"Sep 27, 1924",West Virginia Wesleyan,6,West Virginia,21,1
+55,2,"Sep 27, 1924",William & Mary,27,Lenoir-Rhyne,0,1
+56,2,"Sep 27, 1924",Wisconsin,25,North Dakota,0,0
+57,2,"Sep 27, 1924",Wofford,12,Piedmont,0,0
+58,3,"Oct 1, 1924",Pennsylvania,52,Drexel,0,0
+59,3,"Oct 3, 1924",Kansas State,23,Washburn,0,1
+60,3,"Oct 4, 1924",Alabama,20,Furman,0,1
+61,3,"Oct 4, 1924",Arkansas,47,Missouri State,0,0
+62,3,"Oct 4, 1924",Army,17,Saint Louis,0,0
+63,3,"Oct 4, 1924",Auburn,13,Clemson,0,0
+64,3,"Oct 4, 1924",Baylor,30,North Texas,0,0
+65,3,"Oct 4, 1924",Boston University,6,Maine,0,0
+66,3,"Oct 4, 1924",BYU,3,Colorado College,0,1
+67,3,"Oct 4, 1924",Brown,45,Colby,0,0
+68,3,"Oct 4, 1924",Saint Mary's (CA),7,California,17,1
+69,3,"Oct 4, 1924",Carnegie Mellon,22,Thiel,0,1
+70,3,"Oct 4, 1924",Carson-Newman,12,Sewanee,0,1
+71,3,"Oct 4, 1924",Central Oklahoma,2,Oklahoma,0,1
+72,3,"Oct 4, 1924",Citadel,19,Wofford,0,0
+73,3,"Oct 4, 1924",Colgate,35,Alfred,0,0
+74,3,"Oct 4, 1924",Colorado,31,Western State,0,0
+75,3,"Oct 4, 1924",Utah State,6,Colorado Mines,17,1
+76,3,"Oct 4, 1924",Columbia,52,St. Lawrence,0,0
+77,3,"Oct 4, 1924",Cornell,27,Niagara,0,0
+78,3,"Oct 4, 1924",Grinnell,7,Cornell College,20,1
+79,3,"Oct 4, 1924",Chattanooga,0,Cumberland,0,0
+80,3,"Oct 4, 1924",Dartmouth,52,McGill,0,0
+81,3,"Oct 4, 1924",Davidson,7,Richmond,0,0
+82,3,"Oct 4, 1924",Denver,20,Regis (CO),0,0
+83,3,"Oct 4, 1924",Drake,33,Utah,14,1
+84,3,"Oct 4, 1924",Guilford,6,Duke,33,1
+85,3,"Oct 4, 1924",Florida,77,Rollins,0,0
+86,3,"Oct 4, 1924",Fort Benning,20,Oglethorpe,0,0
+87,3,"Oct 4, 1924",Georgia,18,South Carolina,0,0
+88,3,"Oct 4, 1924",Georgia Tech,3,Virginia Military Institute,0,0
+89,3,"Oct 4, 1924",Harvard,14,Virginia,0,0
+90,3,"Oct 4, 1924",Gonzaga,0,Idaho,0,0
+91,3,"Oct 4, 1924",Illinois,9,Nebraska,6,1
+92,3,"Oct 4, 1924",Indiana,21,DePauw,0,0
+93,3,"Oct 4, 1924",Iowa,43,Southeastern Oklahoma State,0,0
+94,3,"Oct 4, 1924",Kentucky,29,Louisville,0,0
+95,3,"Oct 4, 1924",Lafayette,10,Pitt,0,1
+96,3,"Oct 4, 1924",Louisiana,7,LSU,31,1
+97,3,"Oct 4, 1924",Michigan,55,Miami (OH),0,0
+98,3,"Oct 4, 1924",Minnesota,14,North Dakota,0,0
+99,3,"Oct 4, 1924",Arkansas State,7,Ole Miss,10,1
+100,3,"Oct 4, 1924",Millsaps,7,Mississippi State,28,1
+101,3,"Oct 4, 1924",Missouri,3,Chicago,0,1
+102,3,"Oct 4, 1924",Carroll (Montana),7,Montana,40,1
+103,3,"Oct 4, 1924",William & Mary,7,Navy,14,1
+104,3,"Oct 4, 1924",Newberry,23,Lenoir-Rhyne,0,1
+105,3,"Oct 4, 1924",Northwestern,28,South Dakota,0,0
+106,3,"Oct 4, 1924",Notre Dame,40,Lombard,0,0
+107,3,"Oct 4, 1924",Ohio State,7,Purdue,0,0
+108,3,"Oct 4, 1924",Oklahoma State,3,Kansas,0,1
+109,3,"Oct 4, 1924",Oregon State,41,Whitman,0,1
+110,3,"Oct 4, 1924",NC State,6,Penn State,51,1
+111,3,"Oct 4, 1924",Pennsylvania,26,Franklin & Marshall,0,0
+112,3,"Oct 4, 1924",Amherst,6,Princeton,40,1
+113,3,"Oct 4, 1924",Sam Houston,6,Rice,22,1
+114,3,"Oct 4, 1924",Samford,35,Jacksonville State,0,0
+115,3,"Oct 4, 1924",USC,14,Pomona-Pitzer,0,0
+116,3,"Oct 4, 1924",Trinity (Texas),3,SMU,14,1
+117,3,"Oct 4, 1924",Occidental,6,Stanford,20,1
+118,3,"Oct 4, 1924",Syracuse,26,Mercer,0,0
+119,3,"Oct 4, 1924",Tennessee,27,Emory & Henry,0,0
+120,3,"Oct 4, 1924",Texas,27,Phillips,0,0
+121,3,"Oct 4, 1924",Texas A&M,54,Southwestern (TX),0,0
+122,3,"Oct 4, 1924",TCU,13,Daniel Baker,12,0
+123,3,"Oct 4, 1924",Mississippi College,7,Tulane,32,1
+124,3,"Oct 4, 1924",Centre,0,Valparaiso,0,0
+125,3,"Oct 4, 1924",Vanderbilt,61,Birmingham-Southern,0,0
+126,3,"Oct 4, 1924",Virginia Tech,10,Hampden-Sydney,0,0
+127,3,"Oct 4, 1924",Washington,57,Willamette,0,0
+128,3,"Oct 4, 1924",Washington & Jefferson,19,Bethany (West Virginia),13,0
+129,3,"Oct 4, 1924",Maryland,7,Washington & Lee,19,1
+130,3,"Oct 4, 1924",Washington (MO),7,Drury,0,1
+131,3,"Oct 4, 1924",Washington State,65,Pacific (Oregon),0,0
+132,3,"Oct 4, 1924",Allegheny,6,West Virginia,35,1
+133,3,"Oct 4, 1924",Wisconsin,17,Iowa State,0,0
+134,3,"Oct 4, 1924",Yale,27,North Carolina,0,0
+135,4,"Oct 10, 1924",Emporia State,6,Kansas State,19,1
+136,4,"Oct 10, 1924",SMU,7,Austin,0,0
+137,4,"Oct 11, 1924",Alabama,51,Mississippi College,0,0
+138,4,"Oct 11, 1924",Arkansas,34,Hendrix,3,0
+139,4,"Oct 11, 1924",Army,20,Detroit Mercy,0,0
+140,4,"Oct 11, 1924",Virginia Tech,0,Auburn,0,0
+141,4,"Oct 11, 1924",Birmingham-Southern,6,Millsaps,0,0
+142,4,"Oct 11, 1924",California,28,Pomona-Pitzer,0,0
+143,4,"Oct 11, 1924",Carnegie Mellon,54,Toledo,0,0
+144,4,"Oct 11, 1924",Baylor,6,Central Oklahoma,13,0
+145,4,"Oct 11, 1924",Brown,7,Chicago,19,1
+146,4,"Oct 11, 1924",Clemson,14,Presbyterian,0,0
+147,4,"Oct 11, 1924",Wisconsin,7,Coe,7,0
+148,4,"Oct 11, 1924",Colgate,41,Clarkson,0,0
+149,4,"Oct 11, 1924",Colorado,39,Regis (CO),0,0
+150,4,"Oct 11, 1924",Colorado College,9,Utah,0,1
+151,4,"Oct 11, 1924",Colorado State,17,Colorado Mines,0,0
+152,4,"Oct 11, 1924",Columbia,35,Wesleyan (CT),0,0
+153,4,"Oct 11, 1924",Dartmouth,38,Vermont,0,0
+154,4,"Oct 11, 1924",Davidson,45,Lenoir-Rhyne,0,0
+155,4,"Oct 11, 1924",Denver,7,Wyoming,0,0
+156,4,"Oct 11, 1924",Drake,19,Knox,10,0
+157,4,"Oct 11, 1924",Georgia Tech,7,Florida,7,0
+158,4,"Oct 11, 1924",Gonzaga,14,Washington State,12,1
+159,4,"Oct 11, 1924",Grinnell,14,Washington (MO),0,1
+160,4,"Oct 11, 1924",Middlebury,6,Harvard,16,1
+161,4,"Oct 11, 1924",Boston University,7,Holy Cross,16,1
+162,4,"Oct 11, 1924",Idaho,41,Montana,13,0
+163,4,"Oct 11, 1924",Illinois,40,Butler,10,0
+164,4,"Oct 11, 1924",Iowa State,13,Kansas,10,1
+165,4,"Oct 11, 1924",Kentucky,42,Georgetown (Kentucky),0,0
+166,4,"Oct 11, 1924",Princeton,0,Lehigh,0,0
+167,4,"Oct 11, 1924",LSU,20,Indiana,14,1
+168,4,"Oct 11, 1924",Navy,3,Marquette,21,0
+169,4,"Oct 11, 1924",Maryland,38,Richmond,0,0
+170,4,"Oct 11, 1924",Mercer,23,Furman,0,1
+171,4,"Oct 11, 1924",Michigan,7,Michigan State,0,1
+172,4,"Oct 11, 1924",Minnesota,20,Haskell,0,0
+173,4,"Oct 11, 1924",Ole Miss,7,Rhodes,0,0
+174,4,"Oct 11, 1924",Missouri,14,Missouri Wesleyan,0,0
+175,4,"Oct 11, 1924",Montana State,13,BYU,0,0
+176,4,"Oct 11, 1924",Newberry,14,Erskine,0,0
+177,4,"Oct 11, 1924",North Carolina,6,Duke,0,0
+178,4,"Oct 11, 1924",Northwestern,42,Cincinnati,0,0
+179,4,"Oct 11, 1924",Notre Dame,34,Wabash,0,0
+180,4,"Oct 11, 1924",Citadel,7,Oglethorpe,10,0
+181,4,"Oct 11, 1924",Iowa,0,Ohio State,0,0
+182,4,"Oct 11, 1924",Nebraska,7,Oklahoma,14,1
+183,4,"Oct 11, 1924",Oregon,20,Pacific (Oregon),0,0
+184,4,"Oct 11, 1924",Oregon State,7,Multnomah A.C.,6,0
+185,4,"Oct 11, 1924",Ouachita,12,Mississippi State,0,1
+186,4,"Oct 11, 1924",Penn State,26,Gettysburg,0,0
+187,4,"Oct 11, 1924",Swarthmore,7,Pennsylvania,25,1
+188,4,"Oct 11, 1924",West Virginia,7,Pitt,14,1
+189,4,"Oct 11, 1924",Purdue,41,Rose-Hulman,3,0
+190,4,"Oct 11, 1924",Southwestern (TX),6,Rice,20,1
+191,4,"Oct 11, 1924",Samford,28,Chattanooga,0,1
+192,4,"Oct 11, 1924",South Carolina,10,NC State,0,0
+193,4,"Oct 11, 1924",USC,29,Arizona,0,0
+194,4,"Oct 11, 1924",Stanford,7,Olympic Club,0,0
+195,4,"Oct 11, 1924",William & Mary,7,Syracuse,24,1
+196,4,"Oct 11, 1924",Tennessee,28,Maryville (TN),10,0
+197,4,"Oct 11, 1924",Texas,6,Howard Payne,0,0
+198,4,"Oct 11, 1924",Texas A&M,7,Sewanee,0,0
+199,4,"Oct 11, 1924",TCU,17,Oklahoma State,10,0
+200,4,"Oct 11, 1924",Tulane,42,Louisiana Tech,12,0
+201,4,"Oct 11, 1924",Quantico Marines,13,Vanderbilt,13,0
+202,4,"Oct 11, 1924",Randolph-Macon,6,Virginia,26,1
+203,4,"Oct 11, 1924",Virginia Military Institute,28,Roanoke,0,0
+204,4,"Oct 11, 1924",Washington & Lee,8,Wake Forest,10,0
+205,4,"Oct 11, 1924",Washington,55,Whitman,0,0
+206,4,"Oct 11, 1924",Washington & Jefferson,25,Grove City,0,0
+207,4,"Oct 11, 1924",Cornell,7,Williams,14,0
+208,4,"Oct 11, 1924",Yale,7,Georgia,6,0
+209,5,"Oct 16, 1924",North Carolina,10,NC State,0,1
+210,5,"Oct 17, 1924",Washington State,3,Idaho,19,1
+211,5,"Oct 17, 1924",Mississippi College,14,Millsaps,0,1
+212,5,"Oct 17, 1924",Oglethorpe,27,Wofford,0,1
+213,5,"Oct 17, 1924",South Carolina,29,Presbyterian,0,0
+214,5,"Oct 17, 1924",Texas,6,SMU,10,1
+215,5,"Oct 18, 1924",Alabama,14,Sewanee,0,0
+216,5,"Oct 18, 1924",Auburn,17,Samford,0,0
+217,5,"Oct 18, 1924",Baylor,13,Arkansas,0,0
+218,5,"Oct 18, 1924",Brown,35,Boston University,0,0
+219,5,"Oct 18, 1924",California,9,Olympic Club,3,0
+220,5,"Oct 18, 1924",Centre,43,Transylvania,0,0
+221,5,"Oct 18, 1924",Chicago,23,Indiana,0,0
+222,5,"Oct 18, 1924",Colorado,26,Colorado College,0,1
+223,5,"Oct 18, 1924",Yale,14,Dartmouth,14,0
+224,5,"Oct 18, 1924",Denver,6,Colorado Mines,0,1
+225,5,"Oct 18, 1924",Drake,13,Grinnell,0,0
+226,5,"Oct 18, 1924",Duke,14,Richmond,0,1
+227,5,"Oct 18, 1924",Florida,34,Wake Forest,0,0
+228,5,"Oct 18, 1924",Fort Benning,48,Birmingham-Southern,0,0
+229,5,"Oct 18, 1924",Georgia,23,Furman,0,0
+230,5,"Oct 18, 1924",Georgia Tech,15,Penn State,13,0
+231,5,"Oct 18, 1924",Holy Cross,6,Harvard,12,1
+232,5,"Oct 18, 1924",Illinois,39,Michigan,14,0
+233,5,"Oct 18, 1924",Lawrence,5,Iowa,13,1
+234,5,"Oct 18, 1924",Kansas State,6,Kansas,0,0
+235,5,"Oct 18, 1924",LSU,12,Rice,0,1
+236,5,"Oct 18, 1924",Mercer,33,Chattanooga,0,0
+237,5,"Oct 18, 1924",Wisconsin,7,Minnesota,7,0
+238,5,"Oct 18, 1924",Mississippi State,20,Ole Miss,0,0
+239,5,"Oct 18, 1924",Missouri,7,Iowa State,0,1
+240,5,"Oct 18, 1924",Montana State,31,Centerville (Butte),0,0
+241,5,"Oct 18, 1924",Colgate,7,Nebraska,33,1
+242,5,"Oct 18, 1924",Newberry,14,Citadel,0,0
+243,5,"Oct 18, 1924",Army,7,Notre Dame,13,0
+244,5,"Oct 18, 1924",Ohio State,10,Ohio Wesleyan,0,0
+245,5,"Oct 18, 1924",Oklahoma State,23,Missouri-Rolla,0,0
+246,5,"Oct 18, 1924",Columbia,7,Pennsylvania,10,1
+247,5,"Oct 18, 1924",Pitt,26,Johns Hopkins,0,1
+248,5,"Oct 18, 1924",Princeton,17,Navy,14,0
+249,5,"Oct 18, 1924",Purdue,7,Northwestern,3,1
+250,5,"Oct 18, 1924",Rutgers,10,Cornell,0,1
+251,5,"Oct 18, 1924",Oregon State,3,USC,17,0
+252,5,"Oct 18, 1924",Stanford,28,Oregon,13,0
+253,5,"Oct 18, 1924",Syracuse,10,Boston College,0,0
+254,5,"Oct 18, 1924",Tennessee,13,Carson-Newman,0,0
+255,5,"Oct 18, 1924",Texas A&M,40,Arkansas Tech,0,0
+256,5,"Oct 18, 1924",TCU,7,Hardin-Simmons,0,1
+257,5,"Oct 18, 1924",Tulane,21,Vanderbilt,13,0
+258,5,"Oct 18, 1924",Arizona,7,Utah,32,1
+259,5,"Oct 18, 1924",Utah State,47,Montana Tech,0,0
+260,5,"Oct 18, 1924",Virginia,13,Virginia Military Institute,0,0
+261,5,"Oct 18, 1924",Virginia Tech,12,Maryland,0,0
+262,5,"Oct 18, 1924",Montana,7,Washington,52,1
+263,5,"Oct 18, 1924",Washington & Jefferson,10,Carnegie Mellon,0,1
+264,5,"Oct 18, 1924",Kentucky,7,Washington & Lee,10,0
+265,5,"Oct 18, 1924",West Virginia,55,Geneva,0,0
+266,5,"Oct 18, 1924",Western State,20,Regis (CO),0,0
+267,5,"Oct 18, 1924",Randolph-Macon,7,William & Mary,27,0
+268,5,"Oct 18, 1924",Northern Colorado,8,Wyoming,33,1
+269,6,"Oct 22, 1924",Furman,6,Davidson,0,0
+270,6,"Oct 23, 1924",South Carolina,3,Clemson,0,0
+271,6,"Oct 24, 1924",Hendrix,7,Millsaps,0,0
+272,6,"Oct 25, 1924",Alabama,14,Georgia Tech,0,1
+273,6,"Oct 25, 1924",Arkansas,20,Ole Miss,0,0
+274,6,"Oct 25, 1924",Army,20,Boston University,0,0
+275,6,"Oct 25, 1924",Auburn,3,LSU,0,0
+276,6,"Oct 25, 1924",Austin,7,Baylor,3,1
+277,6,"Oct 25, 1924",Mississippi College,6,Birmingham-Southern,13,0
+278,6,"Oct 25, 1924",Washington State,7,California,20,1
+279,6,"Oct 25, 1924",Carnegie Mellon,6,Pitt,0,1
+280,6,"Oct 25, 1924",Ohio State,3,Chicago,3,0
+281,6,"Oct 25, 1924",Citadel,6,Furman,0,0
+282,6,"Oct 25, 1924",Colgate,49,Hobart,0,0
+283,6,"Oct 25, 1924",Colorado,21,Wyoming,0,1
+284,6,"Oct 25, 1924",Williams,3,Columbia,27,1
+285,6,"Oct 25, 1924",Dartmouth,6,Harvard,0,1
+286,6,"Oct 25, 1924",Drake,28,Oklahoma,0,0
+287,6,"Oct 25, 1924",Texas,7,Florida,7,0
+288,6,"Oct 25, 1924",Georgia,3,Vanderbilt,0,1
+289,6,"Oct 25, 1924",Gonzaga,14,Multnomah A.C.,0,1
+290,6,"Oct 25, 1924",Illinois,45,DePauw,0,0
+291,6,"Oct 25, 1924",Iowa,13,Minnesota,0,0
+292,6,"Oct 25, 1924",Kentucky,7,Sewanee,0,0
+293,6,"Oct 25, 1924",Washington & Jefferson,6,Lafayette,20,1
+294,6,"Oct 25, 1924",Maryland,6,North Carolina,0,1
+295,6,"Oct 25, 1924",Samford,5,Mercer,14,1
+296,6,"Oct 25, 1924",Michigan,21,Wisconsin,0,0
+297,6,"Oct 25, 1924",Mississippi State,7,Tennessee,2,0
+298,6,"Oct 25, 1924",Kansas State,7,Missouri,14,1
+299,6,"Oct 25, 1924",Montana Tech,6,Montana,106,0
+300,6,"Oct 25, 1924",Montana State,59,Northern Colorado,0,1
+301,6,"Oct 25, 1924",Kansas,7,Nebraska,14,0
+302,6,"Oct 25, 1924",Newberry,7,Scout Fleet,6,1
+303,6,"Oct 25, 1924",Michigan State,9,Northwestern,13,1
+304,6,"Oct 25, 1924",Notre Dame,12,Princeton,0,1
+305,6,"Oct 25, 1924",Loyola (LA),13,Oglethorpe,13,0
+306,6,"Oct 25, 1924",Oklahoma State,13,Phillips,0,0
+307,6,"Oct 25, 1924",Whitman,6,Oregon,40,1
+308,6,"Oct 25, 1924",Pennsylvania,27,Virginia,0,0
+309,6,"Oct 25, 1924",Rice,7,TCU,3,1
+310,6,"Oct 25, 1924",Richmond,25,Randolph-Macon,0,0
+311,6,"Oct 25, 1924",Nevada,7,USC,21,1
+312,6,"Oct 25, 1924",Stanford,3,Idaho,0,0
+313,6,"Oct 25, 1924",Penn State,6,Syracuse,10,0
+314,6,"Oct 25, 1924",SMU,7,Texas A&M,7,0
+315,6,"Oct 25, 1924",Tulane,33,Spring Hill,0,0
+316,6,"Oct 25, 1924",BYU,6,Utah,35,1
+317,6,"Oct 25, 1924",Utah State,16,Denver,0,1
+318,6,"Oct 25, 1924",NC State,7,Virginia Military Institute,17,1
+319,6,"Oct 25, 1924",Lynchburg,7,Wake Forest,37,0
+320,6,"Oct 25, 1924",Washington,6,Oregon State,3,0
+321,6,"Oct 25, 1924",Washington & Lee,0,Virginia Tech,0,0
+322,6,"Oct 25, 1924",Washington (MO),13,Missouri-Rolla,0,1
+323,6,"Oct 25, 1924",Centre,6,West Virginia,13,1
+324,6,"Oct 25, 1924",Navy,7,West Virginia Wesleyan,10,0
+325,6,"Oct 25, 1924",Wofford,3,Erskine,0,0
+326,6,"Oct 25, 1924",Brown,3,Yale,13,1
+327,7,"Oct 29, 1924",Citadel,3,South Carolina,14,1
+328,7,"Nov 1, 1924",Alabama,61,Ole Miss,0,0
+329,7,"Nov 1, 1924",LSU,7,Arkansas,10,1
+330,7,"Nov 1, 1924",Yale,7,Army,7,0
+331,7,"Nov 1, 1924",Texas A&M,7,Baylor,15,1
+332,7,"Nov 1, 1924",Jacksonville State,6,Birmingham-Southern,25,1
+333,7,"Nov 1, 1924",California,7,USC,0,0
+334,7,"Nov 1, 1924",Carnegie Mellon,27,Western Maryland,0,0
+335,7,"Nov 1, 1924",Centre,7,Kentucky,0,1
+336,7,"Nov 1, 1924",Purdue,6,Chicago,19,1
+337,7,"Nov 1, 1924",Colgate,42,Providence,0,0
+338,7,"Nov 1, 1924",Colorado,3,Utah,0,0
+339,7,"Nov 1, 1924",Colorado Mines,6,Wyoming,3,0
+340,7,"Nov 1, 1924",Colorado State,17,Utah State,13,0
+341,7,"Nov 1, 1924",Cornell,14,Columbia,0,0
+342,7,"Nov 1, 1924",Brown,3,Dartmouth,10,1
+343,7,"Nov 1, 1924",Denver,3,Colorado College,0,0
+344,7,"Nov 1, 1924",Florida,26,Florida Southern,0,0
+345,7,"Nov 1, 1924",Georgetown,20,Furman,0,1
+346,7,"Nov 1, 1924",Georgia,33,Tennessee,0,0
+347,7,"Nov 1, 1924",Gonzaga,20,Montana,14,1
+348,7,"Nov 1, 1924",Grinnell,6,Coe,0,0
+349,7,"Nov 1, 1924",Harvard,13,Boston University,0,0
+350,7,"Nov 1, 1924",Idaho,22,Oregon State,0,1
+351,7,"Nov 1, 1924",Illinois,36,Iowa,0,0
+352,7,"Nov 1, 1924",Iowa State,21,Kansas State,0,1
+353,7,"Nov 1, 1924",Kansas,48,Washington (MO),0,1
+354,7,"Nov 1, 1924",Catholic,0,Maryland,0,0
+355,7,"Nov 1, 1924",Loyola (LA),0,Mercer,0,0
+356,7,"Nov 1, 1924",Michigan,13,Minnesota,0,1
+357,7,"Nov 1, 1924",Millsaps,6,Rhodes,0,0
+358,7,"Nov 1, 1924",Louisiana College,7,Mississippi College,48,1
+359,7,"Nov 1, 1924",Tulane,6,Mississippi State,14,0
+360,7,"Nov 1, 1924",Missouri,6,Nebraska,14,1
+361,7,"Nov 1, 1924",Newberry,10,Presbyterian,0,1
+362,7,"Nov 1, 1924",NC State,10,Davidson,10,0
+363,7,"Nov 1, 1924",Regis (CO),7,Northern Colorado,20,1
+364,7,"Nov 1, 1924",Indiana,7,Northwestern,17,1
+365,7,"Nov 1, 1924",Notre Dame,34,Georgia Tech,3,0
+366,7,"Nov 1, 1924",Oglethorpe,7,Sewanee,0,0
+367,7,"Nov 1, 1924",Oklahoma State,6,Oklahoma,0,0
+368,7,"Nov 1, 1924",Oregon,7,Washington,3,0
+369,7,"Nov 1, 1924",Parris Island Marines,7,Erskine,6,1
+370,7,"Nov 1, 1924",Penn State,6,Navy,0,1
+371,7,"Nov 1, 1924",Pennsylvania,6,Lafayette,3,0
+372,7,"Nov 1, 1924",Syracuse,7,Pitt,7,0
+373,7,"Nov 1, 1924",Swarthmore,6,Princeton,21,1
+374,7,"Nov 1, 1924",Texas,6,Rice,19,1
+375,7,"Nov 1, 1924",Richmond,9,St. John's (Maryland),7,0
+376,7,"Nov 1, 1924",North Carolina,7,South Carolina,10,0
+377,7,"Nov 1, 1924",SMU,6,TCU,0,1
+378,7,"Nov 1, 1924",Spring Hill,6,Samford,0,1
+379,7,"Nov 1, 1924",Stanford,20,Santa Clara,0,0
+380,7,"Nov 1, 1924",Chattanooga,6,Union (Tennessee),26,1
+381,7,"Nov 1, 1924",Vanderbilt,13,Auburn,0,0
+382,7,"Nov 1, 1924",Clemson,6,Virginia Tech,50,0
+383,7,"Nov 1, 1924",Wake Forest,67,Guilford,0,0
+384,7,"Nov 1, 1924",Detroit Mercy,6,Washington & Jefferson,18,1
+385,7,"Nov 1, 1924",Virginia,7,Washington & Lee,20,0
+386,7,"Nov 1, 1924",West Virginia,71,Bethany (West Virginia),6,0
+387,7,"Nov 1, 1924",Duke,3,William & Mary,21,1
+388,7,"Nov 1, 1924",Ohio State,7,Wooster,7,0
+389,8,"Nov 5, 1924",Wyoming,18,Montana State,17,0
+390,8,"Nov 7, 1924",Austin,6,Rice,2,1
+391,8,"Nov 7, 1924",BYU,9,Utah State,13,0
+392,8,"Nov 8, 1924",Kentucky,7,Alabama,42,1
+393,8,"Nov 8, 1924",Florida,7,Army,14,1
+394,8,"Nov 8, 1924",Baylor,28,Texas,10,1
+395,8,"Nov 8, 1924",Washington,7,California,7,0
+396,8,"Nov 8, 1924",Centre,32,Tennessee,0,1
+397,8,"Nov 8, 1924",Birmingham-Southern,7,Chattanooga,20,1
+398,8,"Nov 8, 1924",Colorado,38,Colorado Mines,0,0
+399,8,"Nov 8, 1924",Colorado College,7,Colorado State,6,1
+400,8,"Nov 8, 1924",Columbia,40,New York University,0,0
+401,8,"Nov 8, 1924",Cornell,91,Susquehanna,0,0
+402,8,"Nov 8, 1924",Dartmouth,38,Boston University,0,0
+403,8,"Nov 8, 1924",Davidson,7,Clemson,0,0
+404,8,"Nov 8, 1924",Duke,54,Elon,0,0
+405,8,"Nov 8, 1924",Furman,10,South Carolina,0,1
+406,8,"Nov 8, 1924",Georgia,7,Virginia,0,1
+407,8,"Nov 8, 1924",LSU,7,Georgia Tech,28,1
+408,8,"Nov 8, 1924",Haskell,17,Brown,13,1
+409,8,"Nov 8, 1924",Idaho,13,Oregon,0,0
+410,8,"Nov 8, 1924",Chicago,21,Illinois,21,0
+411,8,"Nov 8, 1924",Ohio State,7,Indiana,12,0
+412,8,"Nov 8, 1924",Iowa,7,Butler,0,0
+413,8,"Nov 8, 1924",Minnesota,7,Iowa State,7,0
+414,8,"Nov 8, 1924",Drake,6,Kansas,6,0
+415,8,"Nov 8, 1924",Mercer,16,Wofford,0,0
+416,8,"Nov 8, 1924",Michigan,27,Northwestern,0,0
+417,8,"Nov 8, 1924",Spring Hill,20,Millsaps,20,0
+418,8,"Nov 8, 1924",Missouri,10,Oklahoma,0,1
+419,8,"Nov 8, 1924",Pacific (Oregon),7,Montana,61,1
+420,8,"Nov 8, 1924",Navy,53,Vermont,0,0
+421,8,"Nov 8, 1924",Newberry,9,Parris Island Marines,0,0
+422,8,"Nov 8, 1924",North Carolina,3,Virginia Military Institute,0,0
+423,8,"Nov 8, 1924",NC State,6,Virginia Tech,3,0
+424,8,"Nov 8, 1924",Notre Dame,38,Wisconsin,3,1
+425,8,"Nov 8, 1924",Samford,7,Oglethorpe,32,0
+426,8,"Nov 8, 1924",Creighton,20,Oklahoma State,20,0
+427,8,"Nov 8, 1924",Oregon State,14,Washington State,13,0
+428,8,"Nov 8, 1924",Carnegie Mellon,7,Penn State,22,1
+429,8,"Nov 8, 1924",Pennsylvania,3,Georgetown,0,0
+430,8,"Nov 8, 1924",Pitt,13,Geneva,0,0
+431,8,"Nov 8, 1924",Presbyterian,7,Erskine,0,1
+432,8,"Nov 8, 1924",Princeton,34,Harvard,0,1
+433,8,"Nov 8, 1924",Purdue,36,DePauw,0,0
+434,8,"Nov 8, 1924",Northern Colorado,7,Regis (CO),27,1
+435,8,"Nov 8, 1924",Roanoke,9,Richmond,0,1
+436,8,"Nov 8, 1924",Saint Mary's (CA),14,USC,10,1
+437,8,"Nov 8, 1924",Sewanee,21,Ole Miss,0,0
+438,8,"Nov 8, 1924",Arkansas,14,SMU,14,0
+439,8,"Nov 8, 1924",Stanford,30,Utah,0,0
+440,8,"Nov 8, 1924",Texas A&M,28,TCU,0,0
+441,8,"Nov 8, 1924",Auburn,6,Tulane,14,0
+442,8,"Nov 8, 1924",Vanderbilt,18,Mississippi State,0,0
+443,8,"Nov 8, 1924",Washington & Jefferson,27,Waynesburg,0,1
+444,8,"Nov 8, 1924",Citadel,7,Washington & Lee,32,1
+445,8,"Nov 8, 1924",Washington (MO),10,James Millikin,0,0
+446,8,"Nov 8, 1924",West Virginia,34,Colgate,2,0
+447,8,"Nov 8, 1924",West Virginia Wesleyan,7,Syracuse,3,1
+448,8,"Nov 8, 1924",Whitman,7,Willamette,6,0
+449,8,"Nov 8, 1924",William & Mary,27,King,0,1
+450,8,"Nov 8, 1924",Yale,47,Maryland,0,0
+451,9,"Nov 11, 1924",BYU,26,Western State,0,1
+452,9,"Nov 11, 1924",Wake Forest,32,Duke,0,1
+453,9,"Nov 14, 1924",Rhodes,6,Birmingham-Southern,19,1
+454,9,"Nov 14, 1924",Mercer,10,Florida,0,0
+455,9,"Nov 14, 1924",Millsaps,14,Samford,0,0
+456,9,"Nov 15, 1924",Phillips,6,Arkansas,28,1
+457,9,"Nov 15, 1924",SMU,7,Baylor,7,0
+458,9,"Nov 15, 1924",Colorado Mines,0,BYU,0,0
+459,9,"Nov 15, 1924",Brown,7,Harvard,0,1
+460,9,"Nov 15, 1924",Bucknell,6,Navy,0,1
+461,9,"Nov 15, 1924",California,27,Nevada,0,0
+462,9,"Nov 15, 1924",Centre,17,Alabama,0,1
+463,9,"Nov 15, 1924",Chicago,3,Northwestern,0,0
+464,9,"Nov 15, 1924",Citadel,20,Clemson,0,0
+465,9,"Nov 15, 1924",Colgate,33,Springfield,0,0
+466,9,"Nov 15, 1924",Denver,0,Colorado,0,0
+467,9,"Nov 15, 1924",Northern Colorado,7,Colorado State,22,0
+468,9,"Nov 15, 1924",Army,14,Columbia,14,0
+469,9,"Nov 15, 1924",Dartmouth,27,Cornell,14,0
+470,9,"Nov 15, 1924",Drake,7,Kansas State,6,1
+471,9,"Nov 15, 1924",Furman,7,Ole Miss,2,0
+472,9,"Nov 15, 1924",Chattanooga,6,Georgetown (Kentucky),13,0
+473,9,"Nov 15, 1924",Georgia,6,Auburn,0,0
+474,9,"Nov 15, 1924",Gonzaga,63,Whitman,0,0
+475,9,"Nov 15, 1924",Grinnell,14,Iowa State,13,0
+476,9,"Nov 15, 1924",Richmond,0,Hampden-Sydney,0,0
+477,9,"Nov 15, 1924",Wabash,7,Indiana,21,1
+478,9,"Nov 15, 1924",Wisconsin,7,Iowa,21,0
+479,9,"Nov 15, 1924",Kansas,20,Oklahoma,0,0
+480,9,"Nov 15, 1924",LSU,40,Northwestern State,0,0
+481,9,"Nov 15, 1924",Ohio State,6,Michigan,16,0
+482,9,"Nov 15, 1924",Illinois,7,Minnesota,20,1
+483,9,"Nov 15, 1924",Mississippi State,7,Mississippi College,6,0
+484,9,"Nov 15, 1924",Missouri,35,Washington (MO),0,0
+485,9,"Nov 15, 1924",Newberry,9,Rollins,0,0
+486,9,"Nov 15, 1924",North Carolina,6,Davidson,0,1
+487,9,"Nov 15, 1924",Maryland,0,NC State,0,0
+488,9,"Nov 15, 1924",Nebraska,6,Notre Dame,34,1
+489,9,"Nov 15, 1924",Pennsylvania,0,Penn State,0,0
+490,9,"Nov 15, 1924",Quantico Marines,3,Carnegie Mellon,0,0
+491,9,"Nov 15, 1924",Oglethorpe,6,Saint Louis,18,1
+492,9,"Nov 15, 1924",Sewanee,10,South Carolina,0,1
+493,9,"Nov 15, 1924",USC,51,Whittier,0,0
+494,9,"Nov 15, 1924",Stanford,41,Montana,3,0
+495,9,"Nov 15, 1924",Niagara,6,Syracuse,23,1
+496,9,"Nov 15, 1924",Texas,13,TCU,0,1
+497,9,"Nov 15, 1924",Rice,6,Texas A&M,13,1
+498,9,"Nov 15, 1924",Tennessee,7,Tulane,26,1
+499,9,"Nov 15, 1924",Utah,28,Wyoming,0,0
+500,9,"Nov 15, 1924",Vanderbilt,3,Georgia Tech,0,1
+501,9,"Nov 15, 1924",Virginia,6,Virginia Tech,0,1
+502,9,"Nov 15, 1924",Kentucky,3,Virginia Military Institute,10,0
+503,9,"Nov 15, 1924",Washington,96,Puget Sound,0,1
+504,9,"Nov 15, 1924",Washington & Jefferson,10,Pitt,0,1
+505,9,"Nov 15, 1924",Oregon,7,Washington State,7,0
+506,9,"Nov 15, 1924",West Virginia,6,Washington & Lee,0,0
+507,9,"Nov 15, 1924",William & Mary,27,Albright,0,1
+508,9,"Nov 15, 1924",Presbyterian,7,Wofford,19,1
+509,9,"Nov 15, 1924",Yale,10,Princeton,0,1
+510,10,"Nov 19, 1924",Utah State,25,Wyoming,2,0
+511,10,"Nov 21, 1924",Oklahoma State,20,Arkansas,0,0
+512,10,"Nov 22, 1924",St. Edward's,7,Baylor,20,1
+513,10,"Nov 22, 1924",Samford,0,Birmingham-Southern,0,0
+514,10,"Nov 22, 1924",Brown,21,New Hampshire,0,0
+515,10,"Nov 22, 1924",Citadel,7,Erskine,0,1
+516,10,"Nov 22, 1924",Colorado,36,Colorado State,0,0
+517,10,"Nov 22, 1924",Wyoming,3,Colorado College,28,1
+518,10,"Nov 22, 1924",Northern Colorado,7,Colorado Mines,14,1
+519,10,"Nov 22, 1924",Creighton,13,Grinnell,0,0
+520,10,"Nov 22, 1924",Duke,12,Wofford,0,0
+521,10,"Nov 22, 1924",Florida,27,Mississippi State,0,0
+522,10,"Nov 22, 1924",Illinois,7,Ohio State,0,0
+523,10,"Nov 22, 1924",Iowa,9,Michigan,2,1
+524,10,"Nov 22, 1924",Iowa State,10,Drake,0,0
+525,10,"Nov 22, 1924",Louisville,10,Chattanooga,0,0
+526,10,"Nov 22, 1924",Mississippi College,6,Ole Miss,10,1
+527,10,"Nov 22, 1924",Montana,20,Whitman,0,0
+528,10,"Nov 22, 1924",Denver,0,Montana State,0,0
+529,10,"Nov 22, 1924",Nebraska,24,Kansas State,0,1
+530,10,"Nov 22, 1924",Northwestern,6,Notre Dame,13,0
+531,10,"Nov 22, 1924",Oglethorpe,25,Mercer,0,0
+532,10,"Nov 22, 1924",Oklahoma,7,Washington (MO),0,1
+533,10,"Nov 22, 1924",Oregon,7,Oregon State,3,1
+534,10,"Nov 22, 1924",Penn State,28,Marietta,0,0
+535,10,"Nov 22, 1924",Indiana,7,Purdue,26,1
+536,10,"Nov 22, 1924",USC,13,Idaho,0,0
+537,10,"Nov 22, 1924",California,20,Stanford,20,0
+538,10,"Nov 22, 1924",Stetson,28,Newberry,0,0
+539,10,"Nov 22, 1924",Syracuse,7,Colgate,3,0
+540,10,"Nov 22, 1924",Vanderbilt,16,Minnesota,0,1
+541,10,"Nov 22, 1924",Virginia Military Institute,25,Hampden-Sydney,0,0
+542,10,"Nov 22, 1924",Wake Forest,12,NC State,0,1
+543,10,"Nov 22, 1924",Washington,14,Washington State,0,0
+544,10,"Nov 22, 1924",Western State,12,Regis (CO),0,0
+545,10,"Nov 22, 1924",Roanoke,7,William & Mary,7,0
+546,10,"Nov 22, 1924",Chicago,0,Wisconsin,0,0
+547,10,"Nov 22, 1924",Harvard,6,Yale,19,1
+548,11,"Nov 26, 1924",Oklahoma,7,Kansas State,7,0
+549,11,"Nov 27, 1924",Alabama,33,Georgia,0,0
+550,11,"Nov 27, 1924",Arkansas,20,TCU,0,0
+551,11,"Nov 27, 1924",Rice,9,Baylor,17,0
+552,11,"Nov 27, 1924",Colorado College,14,Colorado Mines,0,0
+553,11,"Nov 27, 1924",Florida,10,Drake,0,0
+554,11,"Nov 27, 1924",Furman,3,Clemson,0,1
+555,11,"Nov 27, 1924",Georgia Tech,7,Auburn,0,0
+556,11,"Nov 27, 1924",Idaho,23,Nevada,0,0
+557,11,"Nov 27, 1924",Tennessee,6,Kentucky,27,0
+558,11,"Nov 27, 1924",Lenoir-Rhyne,12,Erskine,0,1
+559,11,"Nov 27, 1924",Maryland,0,Johns Hopkins,0,0
+560,11,"Nov 27, 1924",Ole Miss,7,Millsaps,0,1
+561,11,"Nov 27, 1924",Missouri,14,Kansas,0,0
+562,11,"Nov 27, 1924",Nebraska,14,Oregon State,0,0
+563,11,"Nov 27, 1924",New Mexico,14,Western State,0,0
+564,11,"Nov 27, 1924",Oglethorpe,20,Chattanooga,2,1
+565,11,"Nov 27, 1924",Pennsylvania,20,Cornell,0,0
+566,11,"Nov 27, 1924",Penn State,3,Pitt,24,1
+567,11,"Nov 27, 1924",South Carolina,7,Wake Forest,0,0
+568,11,"Nov 27, 1924",Syracuse,9,Columbia,6,1
+569,11,"Nov 27, 1924",Texas,7,Texas A&M,0,0
+570,11,"Nov 27, 1924",Tulane,13,LSU,0,1
+571,11,"Nov 27, 1924",Utah,7,Utah State,7,0
+572,11,"Nov 27, 1924",Virginia,7,North Carolina,0,0
+573,11,"Nov 27, 1924",Virginia Tech,0,Virginia Military Institute,0,0
+574,11,"Nov 27, 1924",Washington & Lee,34,NC State,0,1
+575,11,"Nov 27, 1924",Mississippi State,6,Washington (MO),12,1
+576,11,"Nov 27, 1924",Gonzaga,0,Washington State,0,0
+577,11,"Nov 27, 1924",Washington & Jefferson,7,West Virginia,40,1
+578,11,"Nov 27, 1924",Richmond,6,William & Mary,20,0
+579,11,"Nov 29, 1924",Army,12,Navy,0,1
+580,11,"Nov 29, 1924",Colgate,6,Brown,20,1
+581,11,"Nov 29, 1924",Georgia,7,Centre,14,1
+582,11,"Nov 29, 1924",Citadel,13,Presbyterian,0,0
+583,11,"Nov 29, 1924",Colorado State,19,Denver,0,1
+584,11,"Nov 29, 1924",Davidson,20,Duke,13,1
+585,11,"Nov 29, 1924",Mississippi College,7,Mercer,7,0
+586,11,"Nov 29, 1924",Montana State,68,Intermountain,0,0
+587,11,"Nov 29, 1924",Wofford,7,Newberry,16,0
+588,11,"Nov 29, 1924",Northern Colorado,7,Colorado State Freshmen,0,0
+589,11,"Nov 29, 1924",Notre Dame,40,Carnegie Mellon,19,1
+590,11,"Nov 29, 1924",SMU,13,Oklahoma State,13,0
+591,11,"Nov 29, 1924",Multnomah A.C.,0,Oregon,0,0
+592,11,"Nov 29, 1924",Sewanee,16,Vanderbilt,0,1
+593,12,"Dec 6, 1924",Davidson,7,Wofford,0,0
+594,12,"Dec 6, 1924",Washington & Lee,6,Florida,16,1
+595,12,"Dec 6, 1924",Montana State,86,Montana Tech,0,0
+596,12,"Dec 6, 1924",Florida Southern,0,Presbyterian,0,0
+597,12,"Dec 6, 1924",USC,16,Syracuse,0,0
+598,12,"Dec 6, 1924",Wake Forest,42,Elon,0,0
+599,12,"Dec 6, 1924",Kentucky,7,West Virginia Wesleyan,24,1
+600,13,"Dec 25, 1924",Colorado,43,Hawaii All-Stars,0,1
+601,13,"Dec 25, 1924",Missouri,7,USC,20,1
+602,14,"Jan 1, 1925",California,14,Pennsylvania,0,0
+603,14,"Jan 1, 1925",Hawaii,13,Colorado,0,0
+604,14,"Jan 1, 1925",Notre Dame,27,Stanford,10,0
+605,14,"Jan 1, 1925",West Virginia Wesleyan,9,SMU,7,1

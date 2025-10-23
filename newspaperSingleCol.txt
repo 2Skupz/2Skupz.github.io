@@ -20,10 +20,14 @@ Sporting KC        34   7   7  20  28 -24
 MLS Fixtures
 ------------
 Wednesday, October 22
-  Chicago Fire         vs    Orlando City
-  Portland             vs    Real Salt Lake
+  Portland             3–1   Real Salt Lake
+  Chicago Fire         3–1   Orlando City
 Friday, October 24
   Inter Miami          vs    Nashville
+Sunday, October 26
+  Vancouver W'caps     vs    Dallas
+  Philadelphia         vs    Chicago Fire
+  San Diego            vs    Portland
 
 
 MLS East
@@ -48,10 +52,14 @@ D.C. United        34   5  11  18  26 -36
 MLS Fixtures
 ------------
 Wednesday, October 22
-  Chicago Fire         vs    Orlando City
-  Portland             vs    Real Salt Lake
+  Portland             3–1   Real Salt Lake
+  Chicago Fire         3–1   Orlando City
 Friday, October 24
   Inter Miami          vs    Nashville
+Sunday, October 26
+  Vancouver W'caps     vs    Dallas
+  Philadelphia         vs    Chicago Fire
+  San Diego            vs    Portland
 
 
 Allsvenskan
@@ -76,17 +84,17 @@ Värnamo            27   3   7  17  16 -22
 
 Allsvenskan Fixtures
 --------------------
-Sunday, October 19
-  Hammarby             2–1   AIK Stockholm
-  GAIS                 3–2   Djurgården
-  Värnamo              1–1   Brommapojkarna
-  Elfsborg             5–1   Öster
 Monday, October 20
   Degerfors            0–1   Halmstad
   Göteborg             0–2   Mjällby
 Saturday, October 25
   Djurgården           vs    Värnamo
   Öster                vs    Degerfors
+Sunday, October 26
+  Sirius               vs    Elfsborg
+  Mjällby              vs    Norrköping
+  AIK Stockholm        vs    Häcken
+  Halmstad             vs    Göteborg
 
 
 Bundesliga
@@ -113,9 +121,6 @@ Gladbach            7   0   3   4   3  -9
 
 Bundesliga Fixtures
 -------------------
-Sunday, October 19
-  Freiburg             2–2   Eint Frankfurt
-  St. Pauli            0–3   Hoffenheim
 Friday, October 24
   Werder Bremen        vs    Union Berlin
 Saturday, October 25
@@ -125,6 +130,9 @@ Saturday, October 25
   Augsburg             vs    RB Leipzig
   Eint Frankfurt       vs    St. Pauli
   Dortmund             vs    Köln
+Sunday, October 26
+  Leverkusen           vs    Freiburg
+  Stuttgart            vs    Mainz 05
 
 
 Premier League
@@ -142,20 +150,17 @@ Manchester Utd      8   4   1   3  13  -1
 Brighton            8   3   3   2  12   1
 Aston Villa         8   3   3   2  12   0
 Everton             8   3   2   3  11   0
+Brentford           8   3   1   4  10  -1
 Newcastle Utd       8   2   3   3   9   0
 Fulham              8   2   2   4   8  -4
 Leeds United        8   2   2   4   8  -6
-Brentford           7   2   1   4   7  -3
 Burnley             8   2   1   5   7  -6
 Nott'ham Forest     8   1   2   5   5 -10
-West Ham            7   1   1   5   4 -10
+West Ham            8   1   1   6   4 -12
 Wolves              8   0   2   6   2 -11
 
 Premier League Fixtures
 -----------------------
-Sunday, October 19
-  Tottenham            1–2   Aston Villa
-  Liverpool            1–2   Manchester Utd
 Monday, October 20
   West Ham             0–2   Brentford
 Friday, October 24
@@ -165,6 +170,12 @@ Saturday, October 25
   Chelsea              vs    Sunderland
   Manchester Utd       vs    Brighton
   Brentford            vs    Liverpool
+Sunday, October 26
+  Arsenal              vs    Crystal Palace
+  Aston Villa          vs    Manchester City
+  Wolves               vs    Burnley
+  Bournemouth          vs    Nott'ham Forest
+  Everton              vs    Tottenham
 
 
 Ligue 1
@@ -191,18 +202,18 @@ Metz                8   0   2   6   2 -15
 
 Ligue 1 Fixtures
 ----------------
-Sunday, October 19
-  Lens                 2–1   Paris FC
-  Rennes               2–2   Auxerre
-  Lorient              3–3   Brest
-  Toulouse             4–0   Metz
-  Nantes               0–2   Lille
 Friday, October 24
   Paris FC             vs    Nantes
 Saturday, October 25
   Brest                vs    Paris S-G
   Monaco               vs    Toulouse
   Lens                 vs    Marseille
+Sunday, October 26
+  Lille                vs    Metz
+  Auxerre              vs    Le Havre
+  Angers               vs    Lorient
+  Rennes               vs    Nice
+  Lyon                 vs    Strasbourg
 
 
 Serie A
@@ -217,10 +228,10 @@ Como                7   3   3   1  12   4
 Juventus            7   3   3   1  12   2
 Atalanta            7   2   5   0  11   6
 Sassuolo            7   3   1   3  10   0
-Cremonese           6   2   3   1   9  -1
+Cremonese           7   2   4   1  10  -1
+Udinese             7   2   3   2   9  -3
 Lazio               7   2   2   3   8   3
 Cagliari            7   2   2   3   8  -2
-Udinese             6   2   2   2   8  -3
 Torino              7   2   2   3   8  -7
 Parma               7   1   3   3   6  -4
 Lecce               7   1   3   3   6  -5
@@ -231,12 +242,6 @@ Pisa                7   0   3   4   3  -7
 
 Serie A Fixtures
 ----------------
-Sunday, October 19
-  Como                 2–0   Juventus
-  Cagliari             0–2   Bologna
-  Genoa                0–0   Parma
-  Atalanta             0–0   Lazio
-  Milan                2–1   Fiorentina
 Monday, October 20
   Cremonese            1–1   Udinese
 Friday, October 24
@@ -246,47 +251,53 @@ Saturday, October 25
   Parma                vs    Como
   Napoli               vs    Inter
   Cremonese            vs    Atalanta
+Sunday, October 26
+  Torino               vs    Genoa
+  Sassuolo             vs    Roma
+  Hellas Verona        vs    Cagliari
+  Fiorentina           vs    Bologna
+  Lazio                vs    Juventus
 
 
 Champions League
 ----------------
 Cty Squad           MP   W   D   L  Pt  GD
 fr  Paris S-G        3   3   0   0   9  10
+de  Bayern Munich    3   3   0   0   9  10
 it  Inter            3   3   0   0   9   9
 eng Arsenal          3   3   0   0   9   8
+es  Real Madrid      3   3   0   0   9   7
 de  Dortmund         3   2   1   0   7   5
 eng Manchester City  3   2   1   0   7   4
-de  Bayern Munich    2   2   0   0   6   6
 eng Newcastle Utd    3   2   0   1   6   6
-es  Real Madrid      2   2   0   0   6   6
 es  Barcelona        3   2   0   1   6   5
-az  Qarabağ          2   2   0   0   6   3
+eng Liverpool        3   2   0   1   6   4
+eng Chelsea          3   2   0   1   6   3
+pt  Sporting CP      3   2   0   1   6   3
+az  Qarabağ          3   2   0   1   6   1
+tr  Galatasaray      3   2   0   1   6  -1
+eng Tottenham        3   1   2   0   5   1
 nl  PSV Eindhoven    3   1   1   1   4   2
-eng Tottenham        2   1   1   0   4   1
-fr  Marseille        2   1   0   1   3   3
-pt  Sporting CP      2   1   0   1   3   2
-be  Club Brugge      2   1   0   1   3   2
-de  Eint Frankfurt   2   1   0   1   3   0
-eng Liverpool        2   1   0   1   3   0
+it  Atalanta         3   1   1   1   4  -3
+fr  Marseille        3   1   0   2   3   2
 es  Atlético Madrid  3   1   0   2   3  -1
-eng Chelsea          2   1   0   1   3  -1
-it  Atalanta         2   1   0   1   3  -3
-tr  Galatasaray      2   1   0   1   3  -3
+be  Club Brugge      3   1   0   2   3  -2
+es  Athletic Club    3   1   0   2   3  -3
+de  Eint Frankfurt   3   1   0   2   3  -4
 it  Napoli           3   1   0   2   3  -5
 be  Union SG         3   1   0   2   3  -6
-it  Juventus         2   0   2   0   2   0
-no  Bodø/Glimt       2   0   2   0   2   0
+it  Juventus         3   0   2   1   2  -1
+no  Bodø/Glimt       3   0   2   1   2  -2
+fr  Monaco           3   0   2   1   2  -3
+cz  Slavia Prague    3   0   2   1   2  -3
 cy  Pafos FC         3   0   2   1   2  -4
 de  Leverkusen       3   0   2   1   2  -5
-fr  Monaco           2   0   1   1   1  -3
-cz  Slavia Prague    2   0   1   1   1  -3
 es  Villarreal       3   0   1   2   1  -3
 dk  FC Copenhagen    3   0   1   2   1  -4
 gr  Olympiacos       3   0   1   2   1  -7
 kz  Qaırat Almaty    3   0   1   2   1  -8
 pt  Benfica          3   0   0   3   0  -5
-es  Athletic Club    2   0   0   2   0  -5
-nl  Ajax             2   0   0   2   0  -6
+nl  Ajax             3   0   0   3   0 -10
 
 Champions League Fixtures
 -------------------------
@@ -301,15 +312,15 @@ Tuesday, October 21
   FC Copenhagendk      2–4   deDortmund
   Qaırat Almatykz      0–0   cyPafos FC
 Wednesday, October 22
-  Athletic Clubes      vs    azQarabağ
-  Galatasaraytr        vs    noBodø/Glimt
-  Sporting CPpt        vs    frMarseille
-  Chelseaeng           vs    nlAjax
-  Bayern Munichde      vs    beClub Brugge
-  Atalantait           vs    czSlavia Prague
-  Real Madrides        vs    itJuventus
-  Monacofr             vs    engTottenham
-  Eint Frankfurtde     vs    engLiverpool
+  Athletic Clubes      3–1   azQarabağ
+  Galatasaraytr        3–1   noBodø/Glimt
+  Sporting CPpt        2–1   frMarseille
+  Chelseaeng           5–1   nlAjax
+  Bayern Munichde      4–0   beClub Brugge
+  Atalantait           0–0   czSlavia Prague
+  Real Madrides        1–0   itJuventus
+  Monacofr             0–0   engTottenham
+  Eint Frankfurtde     1–5   engLiverpool
 
 
-Standings from FBRef.com 10.22.25
+Standings from FBRef.com 10.23.25

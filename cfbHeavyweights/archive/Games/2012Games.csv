@@ -1,0 +1,840 @@
+0,1,"Aug 30, 2012",Arizona State,63,Northern Arizona,6,0
+1,1,"Aug 30, 2012",Ball State,37,Eastern Michigan,26,0
+2,1,"Aug 30, 2012",Washington State,6,BYU,30,1
+3,1,"Aug 30, 2012",UCF,56,Akron,14,1
+4,1,"Aug 30, 2012",Central Michigan,38,Southeast Missouri State,27,0
+5,1,"Aug 30, 2012",Connecticut,37,Massachusetts,0,0
+6,1,"Aug 30, 2012",Idaho,3,Eastern Washington,20,0
+7,1,"Aug 30, 2012",Kent State,41,Towson,21,0
+8,1,"Aug 30, 2012",McNeese State,27,Middle Tennessee,21,1
+9,1,"Aug 30, 2012",Minnesota,30,UNLV,27,1
+10,1,"Aug 30, 2012",New Mexico State,49,Sacramento State,19,0
+11,1,"Aug 30, 2012",South Carolina,17,Vanderbilt,13,1
+12,1,"Aug 30, 2012",UCLA,49,Rice,24,1
+13,1,"Aug 30, 2012",Utah,41,Northern Colorado,0,0
+14,1,"Aug 30, 2012",Utah State,34,Southern Utah,3,0
+15,1,"Aug 31, 2012",Florida Atlantic,7,Wagner,3,0
+16,1,"Aug 31, 2012",Michigan State,17,Boise State,13,0
+17,1,"Aug 31, 2012",Stanford,20,San Jose State,17,0
+18,1,"Aug 31, 2012",Temple,41,Villanova,10,0
+19,1,"Aug 31, 2012",Tennessee,35,NC State,21,0
+20,1,"Sep 1, 2012",Air Force,49,Idaho State,21,0
+21,1,"Sep 1, 2012",Alabama,41,Michigan,14,0
+22,1,"Sep 1, 2012",Arizona,24,Toledo,17,0
+23,1,"Sep 1, 2012",Arkansas,49,Jacksonville State,24,0
+24,1,"Sep 1, 2012",Clemson,26,Auburn,19,0
+25,1,"Sep 1, 2012",Colorado State,22,Colorado,17,0
+26,1,"Sep 1, 2012",Duke,46,Florida Int'l,26,0
+27,1,"Sep 1, 2012",East Carolina,35,Appalachian State,13,0
+28,1,"Sep 1, 2012",Florida,27,Bowling Green,14,0
+29,1,"Sep 1, 2012",Florida State,69,Murray State,3,0
+30,1,"Sep 1, 2012",Fresno State,37,Weber State,10,0
+31,1,"Sep 1, 2012",Georgia,45,Buffalo,23,0
+32,1,"Sep 1, 2012",Western Michigan,7,Illinois,24,1
+33,1,"Sep 1, 2012",Indiana,24,Indiana State,17,0
+34,1,"Sep 1, 2012",Iowa,18,Northern Illinois,17,1
+35,1,"Sep 1, 2012",Iowa State,38,Tulsa,23,0
+36,1,"Sep 1, 2012",Kansas,31,South Dakota State,17,0
+37,1,"Sep 1, 2012",Missouri State,9,Kansas State,51,1
+38,1,"Sep 1, 2012",Louisiana,40,Lamar,0,0
+39,1,"Sep 1, 2012",LSU,41,North Texas,14,0
+40,1,"Sep 1, 2012",Maryland,7,William & Mary,6,0
+41,1,"Sep 1, 2012",Miami,41,Boston College,32,1
+42,1,"Sep 1, 2012",Ole Miss,49,Central Arkansas,27,0
+43,1,"Sep 1, 2012",Jackson State,9,Mississippi State,56,1
+44,1,"Sep 1, 2012",Missouri,62,Southeastern Louisiana,10,0
+45,1,"Sep 1, 2012",Nebraska,49,Southern Miss,20,0
+46,1,"Sep 1, 2012",Nevada,31,California,24,1
+47,1,"Sep 1, 2012",New Mexico,66,Southern,21,0
+48,1,"Sep 1, 2012",North Carolina,62,Elon,0,0
+49,1,"Sep 1, 2012",Northwestern,42,Syracuse,41,1
+50,1,"Sep 1, 2012",Notre Dame,50,Navy,10,0
+51,1,"Sep 1, 2012",Ohio,24,Penn State,14,1
+52,1,"Sep 1, 2012",Ohio State,56,Miami (OH),10,0
+53,1,"Sep 1, 2012",UTEP,7,Oklahoma,24,0
+54,1,"Sep 1, 2012",Oklahoma State,84,Savannah State,0,0
+55,1,"Sep 1, 2012",Oregon,57,Arkansas State,34,0
+56,1,"Sep 1, 2012",Eastern Kentucky,6,Purdue,48,1
+57,1,"Sep 1, 2012",Rutgers,24,Tulane,12,1
+58,1,"Sep 1, 2012",South Florida,34,Chattanooga,13,0
+59,1,"Sep 1, 2012",USC,49,Hawaii,10,0
+60,1,"Sep 1, 2012",Tennessee-Martin,20,Memphis,17,1
+61,1,"Sep 1, 2012",Texas,37,Wyoming,17,0
+62,1,"Sep 1, 2012",Texas State,30,Houston,13,1
+63,1,"Sep 1, 2012",Northwestern State,6,Texas Tech,44,1
+64,1,"Sep 1, 2012",UTSA,33,South Alabama,31,1
+65,1,"Sep 1, 2012",Troy,39,UAB,29,1
+66,1,"Sep 1, 2012",Virginia,43,Richmond,19,0
+67,1,"Sep 1, 2012",Wake Forest,20,Liberty,17,0
+68,1,"Sep 1, 2012",Washington,21,San Diego State,12,0
+69,1,"Sep 1, 2012",West Virginia,69,Marshall,34,0
+70,1,"Sep 1, 2012",Western Kentucky,49,Austin Peay,10,0
+71,1,"Sep 1, 2012",Wisconsin,26,Northern Iowa,21,0
+72,1,"Sep 1, 2012",Youngstown State,31,Pitt,17,1
+73,1,"Sep 2, 2012",Baylor,59,SMU,24,0
+74,1,"Sep 2, 2012",Louisville,32,Kentucky,14,0
+75,1,"Sep 3, 2012",Virginia Tech,20,Georgia Tech,17,0
+76,2,"Sep 6, 2012",Cincinnati,34,Pitt,10,0
+77,2,"Sep 7, 2012",Utah State,27,Utah,20,0
+78,2,"Sep 8, 2012",Alabama,35,Western Kentucky,0,0
+79,2,"Sep 8, 2012",Arizona,59,Oklahoma State,38,0
+80,2,"Sep 8, 2012",Arizona State,45,Illinois,14,0
+81,2,"Sep 8, 2012",Arkansas State,33,Memphis,28,0
+82,2,"Sep 8, 2012",Boston College,34,Maine,3,0
+83,2,"Sep 8, 2012",Bowling Green,21,Idaho,13,0
+84,2,"Sep 8, 2012",BYU,45,Weber State,13,0
+85,2,"Sep 8, 2012",Buffalo,56,Morgan State,34,0
+86,2,"Sep 8, 2012",California,50,Southern Utah,31,0
+87,2,"Sep 8, 2012",Clemson,52,Ball State,27,0
+88,2,"Sep 8, 2012",Florida,20,Texas A&M,17,1
+89,2,"Sep 8, 2012",Florida Int'l,41,Akron,38,0
+90,2,"Sep 8, 2012",Florida State,55,Savannah State,0,0
+91,2,"Sep 8, 2012",Georgia,41,Missouri,20,1
+92,2,"Sep 8, 2012",Georgia Tech,59,Presbyterian,3,0
+93,2,"Sep 8, 2012",Illinois State,31,Eastern Michigan,14,1
+94,2,"Sep 8, 2012",Massachusetts,6,Indiana,45,0
+95,2,"Sep 8, 2012",Iowa State,9,Iowa,6,1
+96,2,"Sep 8, 2012",Kansas State,52,Miami,13,0
+97,2,"Sep 8, 2012",Kentucky,47,Kent State,14,0
+98,2,"Sep 8, 2012",Louisiana,37,Troy,24,1
+99,2,"Sep 8, 2012",LSU,41,Washington,3,0
+100,2,"Sep 8, 2012",Louisiana Tech,56,Houston,49,1
+101,2,"Sep 8, 2012",Louisiana-Monroe,34,Arkansas,31,1
+102,2,"Sep 8, 2012",Missouri State,7,Louisville,35,1
+103,2,"Sep 8, 2012",Marshall,52,Western Carolina,24,0
+104,2,"Sep 8, 2012",Maryland,36,Temple,27,1
+105,2,"Sep 8, 2012",Miami (OH),30,Southern Illinois,14,0
+106,2,"Sep 8, 2012",Michigan,31,Air Force,25,0
+107,2,"Sep 8, 2012",Central Michigan,7,Michigan State,41,0
+108,2,"Sep 8, 2012",Middle Tennessee,31,Florida Atlantic,17,0
+109,2,"Sep 8, 2012",New Hampshire,7,Minnesota,44,1
+110,2,"Sep 8, 2012",Ole Miss,28,UTEP,10,0
+111,2,"Sep 8, 2012",Mississippi State,28,Auburn,10,0
+112,2,"Sep 8, 2012",Connecticut,7,NC State,10,0
+113,2,"Sep 8, 2012",Colorado State,7,North Dakota State,22,0
+114,2,"Sep 8, 2012",Texas Southern,7,North Texas,34,1
+115,2,"Sep 8, 2012",Northern Arizona,17,UNLV,14,1
+116,2,"Sep 8, 2012",Tennessee-Martin,7,Northern Illinois,35,1
+117,2,"Sep 8, 2012",Northwestern,23,Vanderbilt,13,0
+118,2,"Sep 8, 2012",Notre Dame,20,Purdue,17,0
+119,2,"Sep 8, 2012",Ohio,51,New Mexico State,24,0
+120,2,"Sep 8, 2012",Ohio State,31,UCF,16,0
+121,2,"Sep 8, 2012",Oklahoma,69,Florida A&M,13,0
+122,2,"Sep 8, 2012",Oregon,42,Fresno State,25,0
+123,2,"Sep 8, 2012",Wisconsin,7,Oregon State,10,1
+124,2,"Sep 8, 2012",Rice,25,Kansas,24,1
+125,2,"Sep 8, 2012",Rutgers,26,Howard,0,0
+126,2,"Sep 8, 2012",Sacramento State,30,Colorado,28,1
+127,2,"Sep 8, 2012",Army,7,San Diego State,42,1
+128,2,"Sep 8, 2012",San Jose State,45,California-Davis,13,0
+129,2,"Sep 8, 2012",South Alabama,9,Nicholls State,3,0
+130,2,"Sep 8, 2012",South Carolina,48,East Carolina,10,0
+131,2,"Sep 8, 2012",South Florida,32,Nevada,31,1
+132,2,"Sep 8, 2012",USC,42,Syracuse,29,1
+133,2,"Sep 8, 2012",SMU,52,Stephen F. Austin,0,0
+134,2,"Sep 8, 2012",Stanford,50,Duke,13,0
+135,2,"Sep 8, 2012",Tennessee,51,Georgia State,13,0
+136,2,"Sep 8, 2012",Texas,45,New Mexico,0,0
+137,2,"Sep 8, 2012",TCU,56,Grambling State,0,0
+138,2,"Sep 8, 2012",Texas Tech,58,Texas State,10,1
+139,2,"Sep 8, 2012",UTSA,27,Texas A&M-Commerce,16,0
+140,2,"Sep 8, 2012",Toledo,34,Wyoming,31,1
+141,2,"Sep 8, 2012",Tulsa,45,Tulane,10,0
+142,2,"Sep 8, 2012",UCLA,36,Nebraska,30,0
+143,2,"Sep 8, 2012",Virginia,17,Penn State,16,0
+144,2,"Sep 8, 2012",Austin Peay,7,Virginia Tech,42,1
+145,2,"Sep 8, 2012",Wake Forest,28,North Carolina,27,0
+146,2,"Sep 8, 2012",Washington State,24,Eastern Washington,20,0
+147,2,"Sep 8, 2012",Western Michigan,52,Eastern Illinois,21,0
+148,3,"Sep 13, 2012",Rutgers,23,South Florida,13,1
+149,3,"Sep 14, 2012",Washington State,35,UNLV,27,1
+150,3,"Sep 15, 2012",Akron,66,Morgan State,6,0
+151,3,"Sep 15, 2012",Alabama,52,Arkansas,0,1
+152,3,"Sep 15, 2012",Arizona,56,South Carolina State,0,0
+153,3,"Sep 15, 2012",Auburn,31,Louisiana-Monroe,28,0
+154,3,"Sep 15, 2012",Ball State,41,Indiana,39,1
+155,3,"Sep 15, 2012",Baylor,48,Sam Houston,23,0
+156,3,"Sep 15, 2012",Boise State,39,Miami (OH),12,0
+157,3,"Sep 15, 2012",Cal Poly,24,Wyoming,22,1
+158,3,"Sep 15, 2012",UCF,33,Florida Int'l,20,0
+159,3,"Sep 15, 2012",Delaware State,7,Cincinnati,23,1
+160,3,"Sep 15, 2012",Furman,7,Clemson,41,1
+161,3,"Sep 15, 2012",Connecticut,24,Maryland,21,1
+162,3,"Sep 15, 2012",Duke,54,North Carolina Central,17,0
+163,3,"Sep 15, 2012",East Carolina,24,Southern Miss,14,1
+164,3,"Sep 15, 2012",Florida,37,Tennessee,20,1
+165,3,"Sep 15, 2012",Florida State,52,Wake Forest,0,0
+166,3,"Sep 15, 2012",Fresno State,69,Colorado,14,0
+167,3,"Sep 15, 2012",Georgia,56,Florida Atlantic,20,0
+168,3,"Sep 15, 2012",Georgia Tech,56,Virginia,20,0
+169,3,"Sep 15, 2012",Hawaii,54,Lamar,2,0
+170,3,"Sep 15, 2012",Illinois,44,Charleston Southern,0,0
+171,3,"Sep 15, 2012",Iowa,27,Northern Iowa,16,0
+172,3,"Sep 15, 2012",Iowa State,37,Western Illinois,3,0
+173,3,"Sep 15, 2012",Kansas State,35,North Texas,21,0
+174,3,"Sep 15, 2012",LSU,63,Idaho,14,0
+175,3,"Sep 15, 2012",Louisiana Tech,56,Rice,37,0
+176,3,"Sep 15, 2012",Louisville,39,North Carolina,34,0
+177,3,"Sep 15, 2012",Miami,38,Bethune-Cookman,10,0
+178,3,"Sep 15, 2012",Michigan,63,Massachusetts,13,0
+179,3,"Sep 15, 2012",Middle Tennessee,48,Memphis,30,1
+180,3,"Sep 15, 2012",Minnesota,28,Western Michigan,23,0
+181,3,"Sep 15, 2012",Mississippi State,30,Troy,24,1
+182,3,"Sep 15, 2012",Missouri,24,Arizona State,20,0
+183,3,"Sep 15, 2012",Nebraska,42,Arkansas State,13,0
+184,3,"Sep 15, 2012",Nevada,45,Northwestern State,34,0
+185,3,"Sep 15, 2012",South Alabama,7,NC State,31,1
+186,3,"Sep 15, 2012",Northern Illinois,41,Army,40,1
+187,3,"Sep 15, 2012",Northwestern,22,Boston College,13,0
+188,3,"Sep 15, 2012",Michigan State,3,Notre Dame,20,0
+189,3,"Sep 15, 2012",Ohio,27,Marshall,24,1
+190,3,"Sep 15, 2012",Ohio State,35,California,28,0
+191,3,"Sep 15, 2012",Oklahoma State,65,Louisiana,24,0
+192,3,"Sep 15, 2012",Oregon,63,Tennessee Tech,14,0
+193,3,"Sep 15, 2012",Navy,7,Penn State,34,1
+194,3,"Sep 15, 2012",Pitt,35,Virginia Tech,17,0
+195,3,"Sep 15, 2012",Purdue,54,Eastern Michigan,16,0
+196,3,"Sep 15, 2012",San Diego State,49,North Dakota,41,0
+197,3,"Sep 15, 2012",San Jose State,40,Colorado State,20,0
+198,3,"Sep 15, 2012",UAB,6,South Carolina,49,1
+199,3,"Sep 15, 2012",Stanford,21,USC,14,0
+200,3,"Sep 15, 2012",Syracuse,28,Stony Brook,17,0
+201,3,"Sep 15, 2012",Texas,66,Ole Miss,31,1
+202,3,"Sep 15, 2012",Texas A&M,48,SMU,3,1
+203,3,"Sep 15, 2012",Kansas,6,TCU,20,0
+204,3,"Sep 15, 2012",Texas Tech,49,New Mexico,14,0
+205,3,"Sep 15, 2012",UTEP,41,New Mexico State,28,0
+206,3,"Sep 15, 2012",UTSA,38,Georgia State,14,1
+207,3,"Sep 15, 2012",Toledo,27,Bowling Green,15,0
+208,3,"Sep 15, 2012",Tulsa,66,Nicholls State,16,0
+209,3,"Sep 15, 2012",Houston,6,UCLA,37,1
+210,3,"Sep 15, 2012",Utah,24,BYU,21,0
+211,3,"Sep 15, 2012",Vanderbilt,58,Presbyterian,0,0
+212,3,"Sep 15, 2012",Washington,52,Portland State,13,0
+213,3,"Sep 15, 2012",West Virginia,42,James Madison,12,0
+214,3,"Sep 15, 2012",Western Kentucky,32,Kentucky,31,1
+215,3,"Sep 15, 2012",Wisconsin,16,Utah State,14,0
+216,4,"Sep 19, 2012",Buffalo,7,Kent State,23,0
+217,4,"Sep 20, 2012",Boise State,7,BYU,6,0
+218,4,"Sep 21, 2012",Baylor,47,Louisiana-Monroe,42,1
+219,4,"Sep 22, 2012",Florida Atlantic,7,Alabama,40,1
+220,4,"Sep 22, 2012",Utah,7,Arizona State,37,1
+221,4,"Sep 22, 2012",Arkansas State,56,Alcorn State,0,0
+222,4,"Sep 22, 2012",Ball State,31,South Florida,27,0
+223,4,"Sep 22, 2012",Central Michigan,32,Iowa,31,1
+224,4,"Sep 22, 2012",Colorado,35,Washington State,34,1
+225,4,"Sep 22, 2012",Duke,38,Memphis,14,0
+226,4,"Sep 22, 2012",Florida,38,Kentucky,0,0
+227,4,"Sep 22, 2012",Florida State,49,Clemson,37,0
+228,4,"Sep 22, 2012",Georgia,48,Vanderbilt,3,0
+229,4,"Sep 22, 2012",Kansas State,24,Oklahoma,19,1
+230,4,"Sep 22, 2012",LSU,12,Auburn,10,1
+231,4,"Sep 22, 2012",Louisiana Tech,52,Illinois,24,1
+232,4,"Sep 22, 2012",Louisville,28,Florida Int'l,21,1
+233,4,"Sep 22, 2012",Marshall,54,Rice,51,1
+234,4,"Sep 22, 2012",Miami,42,Georgia Tech,36,1
+235,4,"Sep 22, 2012",Miami (OH),27,Massachusetts,16,0
+236,4,"Sep 22, 2012",Eastern Michigan,7,Michigan State,23,1
+237,4,"Sep 22, 2012",Minnesota,17,Syracuse,10,0
+238,4,"Sep 22, 2012",Ole Miss,39,Tulane,0,0
+239,4,"Sep 22, 2012",Mississippi State,30,South Alabama,10,0
+240,4,"Sep 22, 2012",Navy,41,Virginia Military Institute,3,0
+241,4,"Sep 22, 2012",Nebraska,73,Idaho State,7,0
+242,4,"Sep 22, 2012",Nevada,69,Hawaii,24,1
+243,4,"Sep 22, 2012",UNLV,38,Air Force,35,0
+244,4,"Sep 22, 2012",New Mexico,27,New Mexico State,14,1
+245,4,"Sep 22, 2012",East Carolina,6,North Carolina,27,1
+246,4,"Sep 22, 2012",NC State,52,Citadel,14,0
+247,4,"Sep 22, 2012",Northern Illinois,30,Kansas,23,0
+248,4,"Sep 22, 2012",South Dakota,7,Northwestern,38,1
+249,4,"Sep 22, 2012",Michigan,6,Notre Dame,13,1
+250,4,"Sep 22, 2012",Ohio,44,Norfolk State,10,0
+251,4,"Sep 22, 2012",Ohio State,29,UAB,15,0
+252,4,"Sep 22, 2012",Oregon,49,Arizona,0,0
+253,4,"Sep 22, 2012",Oregon State,27,UCLA,20,1
+254,4,"Sep 22, 2012",Penn State,24,Temple,13,0
+255,4,"Sep 22, 2012",Pitt,55,Gardner-Webb,10,0
+256,4,"Sep 22, 2012",Rutgers,35,Arkansas,26,1
+257,4,"Sep 22, 2012",San Jose State,38,San Diego State,34,1
+258,4,"Sep 22, 2012",South Carolina,31,Missouri,10,0
+259,4,"Sep 22, 2012",California,9,USC,27,1
+260,4,"Sep 22, 2012",Tennessee,47,Akron,26,0
+261,4,"Sep 22, 2012",Texas A&M,70,South Carolina State,14,0
+262,4,"Sep 22, 2012",Virginia,7,TCU,27,1
+263,4,"Sep 22, 2012",Texas State,41,Stephen F. Austin,37,0
+264,4,"Sep 22, 2012",UTSA,56,Northwestern Oklahoma State,3,0
+265,4,"Sep 22, 2012",Toledo,38,Coastal Carolina,28,0
+266,4,"Sep 22, 2012",North Texas,7,Troy,14,0
+267,4,"Sep 22, 2012",Tulsa,27,Fresno State,26,0
+268,4,"Sep 22, 2012",Utah State,31,Colorado State,19,1
+269,4,"Sep 22, 2012",Virginia Tech,37,Bowling Green,0,0
+270,4,"Sep 22, 2012",Wake Forest,49,Army,37,0
+271,4,"Sep 22, 2012",West Virginia,31,Maryland,21,0
+272,4,"Sep 22, 2012",Western Kentucky,42,Southern Miss,17,0
+273,4,"Sep 22, 2012",Western Michigan,30,Connecticut,24,0
+274,4,"Sep 22, 2012",Wisconsin,37,UTEP,26,0
+275,4,"Sep 22, 2012",Wyoming,40,Idaho,37,1
+276,5,"Sep 27, 2012",Washington,17,Stanford,13,0
+277,5,"Sep 28, 2012",BYU,47,Hawaii,0,0
+278,5,"Sep 29, 2012",Air Force,42,Colorado State,21,0
+279,5,"Sep 29, 2012",Alabama,33,Ole Miss,14,0
+280,5,"Sep 29, 2012",Arizona State,27,California,17,1
+281,5,"Sep 29, 2012",Boise State,32,New Mexico,29,1
+282,5,"Sep 29, 2012",Rhode Island,8,Bowling Green,48,1
+283,5,"Sep 29, 2012",Cincinnati,27,Virginia Tech,24,0
+284,5,"Sep 29, 2012",Clemson,45,Boston College,31,1
+285,5,"Sep 29, 2012",Connecticut,24,Buffalo,17,0
+286,5,"Sep 29, 2012",Duke,34,Wake Forest,27,1
+287,5,"Sep 29, 2012",East Carolina,28,UTEP,18,0
+288,5,"Sep 29, 2012",Florida State,30,South Florida,17,1
+289,5,"Sep 29, 2012",Fresno State,52,San Diego State,40,0
+290,5,"Sep 29, 2012",Georgia,51,Tennessee,44,0
+291,5,"Sep 29, 2012",Houston,35,Rice,14,0
+292,5,"Sep 29, 2012",Iowa,31,Minnesota,13,0
+293,5,"Sep 29, 2012",Kent State,45,Ball State,43,0
+294,5,"Sep 29, 2012",Louisiana,48,Florida Int'l,20,0
+295,5,"Sep 29, 2012",LSU,38,Towson,22,0
+296,5,"Sep 29, 2012",Louisiana Tech,44,Virginia,38,1
+297,5,"Sep 29, 2012",Louisiana-Monroe,63,Tulane,10,1
+298,5,"Sep 29, 2012",Louisville,21,Southern Miss,17,1
+299,5,"Sep 29, 2012",Miami,44,NC State,37,0
+300,5,"Sep 29, 2012",Miami (OH),56,Akron,49,1
+301,5,"Sep 29, 2012",Middle Tennessee,49,Georgia Tech,28,1
+302,5,"Sep 29, 2012",Missouri,21,UCF,16,1
+303,5,"Sep 29, 2012",Nebraska,30,Wisconsin,27,0
+304,5,"Sep 29, 2012",Nevada,34,Texas State,21,1
+305,5,"Sep 29, 2012",North Carolina,66,Idaho,0,0
+306,5,"Sep 29, 2012",North Texas,20,Florida Atlantic,14,1
+307,5,"Sep 29, 2012",Northern Illinois,55,Central Michigan,24,0
+308,5,"Sep 29, 2012",Northwestern,44,Indiana,29,0
+309,5,"Sep 29, 2012",Ohio,37,Massachusetts,34,1
+310,5,"Sep 29, 2012",Ohio State,17,Michigan State,16,1
+311,5,"Sep 29, 2012",Oregon,51,Washington State,26,1
+312,5,"Sep 29, 2012",Oregon State,38,Arizona,35,1
+313,5,"Sep 29, 2012",Illinois,7,Penn State,35,0
+314,5,"Sep 29, 2012",Purdue,51,Marshall,41,0
+315,5,"Sep 29, 2012",San Jose State,12,Navy,0,1
+316,5,"Sep 29, 2012",South Carolina,38,Kentucky,17,1
+317,5,"Sep 29, 2012",Army,3,Stony Brook,23,0
+318,5,"Sep 29, 2012",Texas,41,Oklahoma State,36,1
+319,5,"Sep 29, 2012",Texas A&M,58,Arkansas,10,0
+320,5,"Sep 29, 2012",TCU,24,SMU,16,1
+321,5,"Sep 29, 2012",Texas Tech,24,Iowa State,13,1
+322,5,"Sep 29, 2012",UTSA,35,New Mexico State,14,1
+323,5,"Sep 29, 2012",Toledo,37,Western Michigan,17,1
+324,5,"Sep 29, 2012",Troy,31,South Alabama,10,1
+325,5,"Sep 29, 2012",Tulsa,49,UAB,42,1
+326,5,"Sep 29, 2012",UCLA,42,Colorado,14,1
+327,5,"Sep 29, 2012",Utah State,35,UNLV,13,0
+328,5,"Sep 29, 2012",West Virginia,70,Baylor,63,0
+329,5,"Sep 29, 2012",Western Kentucky,26,Arkansas State,13,1
+330,6,"Oct 4, 2012",Arkansas State,34,Florida Int'l,20,1
+331,6,"Oct 4, 2012",UCF,40,East Carolina,20,0
+332,6,"Oct 4, 2012",USC,38,Utah,28,1
+333,6,"Oct 5, 2012",BYU,6,Utah State,3,0
+334,6,"Oct 5, 2012",Syracuse,14,Pitt,13,0
+335,6,"Oct 6, 2012",UAB,52,Southeastern Louisiana,3,0
+336,6,"Oct 6, 2012",Auburn,7,Arkansas,24,0
+337,6,"Oct 6, 2012",Army,34,Boston College,31,0
+338,6,"Oct 6, 2012",Boise State,40,Southern Miss,14,1
+339,6,"Oct 6, 2012",Bowling Green,24,Akron,10,1
+340,6,"Oct 6, 2012",California,43,UCLA,17,0
+341,6,"Oct 6, 2012",Cincinnati,52,Miami (OH),14,0
+342,6,"Oct 6, 2012",Clemson,47,Georgia Tech,31,0
+343,6,"Oct 6, 2012",Duke,42,Virginia,17,0
+344,6,"Oct 6, 2012",LSU,6,Florida,14,1
+345,6,"Oct 6, 2012",Colorado State,7,Fresno State,28,0
+346,6,"Oct 6, 2012",Houston,44,North Texas,21,0
+347,6,"Oct 6, 2012",Idaho,26,New Mexico State,18,0
+348,6,"Oct 6, 2012",Iowa State,37,TCU,23,1
+349,6,"Oct 6, 2012",Kansas State,56,Kansas,16,0
+350,6,"Oct 6, 2012",Kent State,41,Eastern Michigan,14,1
+351,6,"Oct 6, 2012",Louisiana,41,Tulane,13,0
+352,6,"Oct 6, 2012",Louisiana Tech,58,UNLV,31,0
+353,6,"Oct 6, 2012",Louisiana-Monroe,31,Middle Tennessee,17,1
+354,6,"Oct 6, 2012",Maryland,19,Wake Forest,14,0
+355,6,"Oct 6, 2012",Memphis,14,Rice,10,0
+356,6,"Oct 6, 2012",Michigan,44,Purdue,13,1
+357,6,"Oct 6, 2012",Michigan State,31,Indiana,27,1
+358,6,"Oct 6, 2012",Mississippi State,27,Kentucky,14,1
+359,6,"Oct 6, 2012",Navy,28,Air Force,21,1
+360,6,"Oct 6, 2012",Nevada,35,Wyoming,28,0
+361,6,"Oct 6, 2012",New Mexico,35,Texas State,14,0
+362,6,"Oct 6, 2012",North Carolina,48,Virginia Tech,34,0
+363,6,"Oct 6, 2012",NC State,17,Florida State,16,0
+364,6,"Oct 6, 2012",Northern Illinois,35,Ball State,23,1
+365,6,"Oct 6, 2012",Notre Dame,41,Miami,3,0
+366,6,"Oct 6, 2012",Ohio,38,Buffalo,31,0
+367,6,"Oct 6, 2012",Ohio State,63,Nebraska,38,0
+368,6,"Oct 6, 2012",Oklahoma,41,Texas Tech,20,1
+369,6,"Oct 6, 2012",Oregon,52,Washington,21,0
+370,6,"Oct 6, 2012",Washington State,6,Oregon State,19,1
+371,6,"Oct 6, 2012",Penn State,39,Northwestern,28,0
+372,6,"Oct 6, 2012",Connecticut,3,Rutgers,19,1
+373,6,"Oct 6, 2012",San Diego State,52,Hawaii,14,0
+374,6,"Oct 6, 2012",Georgia,7,South Carolina,35,1
+375,6,"Oct 6, 2012",SMU,17,UTEP,0,1
+376,6,"Oct 6, 2012",Stanford,54,Arizona,48,0
+377,6,"Oct 6, 2012",Temple,37,South Florida,28,0
+378,6,"Oct 6, 2012",Texas A&M,30,Ole Miss,27,1
+379,6,"Oct 6, 2012",Toledo,50,Central Michigan,35,0
+380,6,"Oct 6, 2012",Tulsa,45,Marshall,38,1
+381,6,"Oct 6, 2012",Vanderbilt,19,Missouri,15,1
+382,6,"Oct 6, 2012",West Virginia,48,Texas,45,1
+383,6,"Oct 6, 2012",Western Michigan,52,Massachusetts,14,0
+384,6,"Oct 6, 2012",Wisconsin,31,Illinois,14,0
+385,7,"Oct 11, 2012",Arizona State,51,Colorado,17,1
+386,7,"Oct 11, 2012",Tulsa,33,UTEP,11,0
+387,7,"Oct 11, 2012",Western Kentucky,31,Troy,26,1
+388,7,"Oct 12, 2012",Navy,31,Central Michigan,13,1
+389,7,"Oct 13, 2012",Air Force,28,Wyoming,27,1
+390,7,"Oct 13, 2012",Alabama,42,Missouri,10,1
+391,7,"Oct 13, 2012",Kentucky,7,Arkansas,49,1
+392,7,"Oct 13, 2012",Arkansas State,36,South Alabama,29,0
+393,7,"Oct 13, 2012",Ball State,30,Western Michigan,24,0
+394,7,"Oct 13, 2012",Boise State,20,Fresno State,10,0
+395,7,"Oct 13, 2012",Bowling Green,37,Miami (OH),12,0
+396,7,"Oct 13, 2012",California,31,Washington State,17,1
+397,7,"Oct 13, 2012",UCF,38,Southern Miss,31,0
+398,7,"Oct 13, 2012",Cincinnati,49,Fordham,17,0
+399,7,"Oct 13, 2012",Memphis,7,East Carolina,41,1
+400,7,"Oct 13, 2012",Florida,31,Vanderbilt,17,1
+401,7,"Oct 13, 2012",Boston College,7,Florida State,51,1
+402,7,"Oct 13, 2012",Houston,39,UAB,17,0
+403,7,"Oct 13, 2012",Iowa,19,Michigan State,16,1
+404,7,"Oct 13, 2012",Kansas State,27,Iowa State,21,1
+405,7,"Oct 13, 2012",Kent State,31,Army,17,1
+406,7,"Oct 13, 2012",LSU,23,South Carolina,21,0
+407,7,"Oct 13, 2012",Louisiana-Monroe,35,Florida Atlantic,14,0
+408,7,"Oct 13, 2012",Louisville,45,Pitt,35,1
+409,7,"Oct 13, 2012",Maryland,27,Virginia,20,1
+410,7,"Oct 13, 2012",Michigan,45,Illinois,0,0
+411,7,"Oct 13, 2012",Middle Tennessee,34,Florida Int'l,30,1
+412,7,"Oct 13, 2012",Ole Miss,41,Auburn,20,0
+413,7,"Oct 13, 2012",Mississippi State,41,Tennessee,31,0
+414,7,"Oct 13, 2012",Nevada,42,UNLV,37,1
+415,7,"Oct 13, 2012",New Mexico,35,Hawaii,23,1
+416,7,"Oct 13, 2012",North Carolina,18,Miami,14,1
+417,7,"Oct 13, 2012",Northern Illinois,45,Buffalo,3,0
+418,7,"Oct 13, 2012",Northwestern,21,Minnesota,13,1
+419,7,"Oct 13, 2012",Notre Dame,20,Stanford,13,0
+420,7,"Oct 13, 2012",Ohio,34,Akron,28,0
+421,7,"Oct 13, 2012",Ohio State,52,Indiana,49,1
+422,7,"Oct 13, 2012",Oklahoma,63,Texas,21,0
+423,7,"Oct 13, 2012",Oklahoma State,20,Kansas,14,1
+424,7,"Oct 13, 2012",Oregon State,42,BYU,24,1
+425,7,"Oct 13, 2012",Rice,34,UTSA,14,0
+426,7,"Oct 13, 2012",Rutgers,23,Syracuse,15,0
+427,7,"Oct 13, 2012",San Diego State,38,Colorado State,14,0
+428,7,"Oct 13, 2012",USC,24,Washington,14,1
+429,7,"Oct 13, 2012",Temple,17,Connecticut,14,1
+430,7,"Oct 13, 2012",Texas A&M,59,Louisiana Tech,57,1
+431,7,"Oct 13, 2012",TCU,49,Baylor,21,1
+432,7,"Oct 13, 2012",Idaho,7,Texas State,38,1
+433,7,"Oct 13, 2012",Texas Tech,49,West Virginia,14,0
+434,7,"Oct 13, 2012",Toledo,52,Eastern Michigan,47,1
+435,7,"Oct 13, 2012",Tulane,27,SMU,26,0
+436,7,"Oct 13, 2012",UCLA,21,Utah,14,0
+437,7,"Oct 13, 2012",Utah State,49,San Jose State,27,1
+438,7,"Oct 13, 2012",Virginia Tech,41,Duke,20,0
+439,7,"Oct 13, 2012",Wisconsin,38,Purdue,14,1
+440,8,"Oct 16, 2012",North Texas,30,Louisiana,23,0
+441,8,"Oct 18, 2012",Oregon,43,Arizona State,21,1
+442,8,"Oct 18, 2012",SMU,72,Houston,42,0
+443,8,"Oct 19, 2012",Syracuse,40,Connecticut,10,0
+444,8,"Oct 20, 2012",Air Force,28,New Mexico,23,0
+445,8,"Oct 20, 2012",Alabama,44,Tennessee,13,1
+446,8,"Oct 20, 2012",Arizona,52,Washington,17,0
+447,8,"Oct 20, 2012",Ball State,41,Central Michigan,30,1
+448,8,"Oct 20, 2012",UNLV,7,Boise State,32,1
+449,8,"Oct 20, 2012",Bowling Green,24,Massachusetts,0,1
+450,8,"Oct 20, 2012",UCF,35,Memphis,17,1
+451,8,"Oct 20, 2012",Clemson,38,Virginia Tech,17,0
+452,8,"Oct 20, 2012",Duke,33,North Carolina,30,0
+453,8,"Oct 20, 2012",East Carolina,42,UAB,35,1
+454,8,"Oct 20, 2012",Eastern Michigan,48,Army,38,0
+455,8,"Oct 20, 2012",Florida,44,South Carolina,11,0
+456,8,"Oct 20, 2012",Florida State,33,Miami,20,1
+457,8,"Oct 20, 2012",Fresno State,42,Wyoming,14,0
+458,8,"Oct 20, 2012",Georgia,29,Kentucky,24,1
+459,8,"Oct 20, 2012",Georgia Tech,37,Boston College,17,0
+460,8,"Oct 20, 2012",Kansas State,55,West Virginia,14,1
+461,8,"Oct 20, 2012",Kent State,41,Western Michigan,24,0
+462,8,"Oct 20, 2012",LSU,24,Texas A&M,19,1
+463,8,"Oct 20, 2012",Louisiana Tech,70,Idaho,28,0
+464,8,"Oct 20, 2012",Louisiana-Monroe,43,Western Kentucky,42,1
+465,8,"Oct 20, 2012",Louisville,27,South Florida,25,0
+466,8,"Oct 20, 2012",Marshall,59,Southern Miss,24,1
+467,8,"Oct 20, 2012",Michigan,12,Michigan State,10,0
+468,8,"Oct 20, 2012",Mississippi State,45,Middle Tennessee,3,0
+469,8,"Oct 20, 2012",Navy,31,Indiana,30,0
+470,8,"Oct 20, 2012",Nebraska,29,Northwestern,28,1
+471,8,"Oct 20, 2012",NC State,20,Maryland,18,1
+472,8,"Oct 20, 2012",Akron,7,Northern Illinois,37,0
+473,8,"Oct 20, 2012",Notre Dame,17,BYU,14,0
+474,8,"Oct 20, 2012",Ohio State,29,Purdue,22,0
+475,8,"Oct 20, 2012",Kansas,7,Oklahoma,52,1
+476,8,"Oct 20, 2012",Oklahoma State,31,Iowa State,10,0
+477,8,"Oct 20, 2012",Utah,7,Oregon State,21,1
+478,8,"Oct 20, 2012",Penn State,38,Iowa,14,1
+479,8,"Oct 20, 2012",Buffalo,6,Pitt,20,0
+480,8,"Oct 20, 2012",Rutgers,35,Temple,10,1
+481,8,"Oct 20, 2012",San Diego State,39,Nevada,38,1
+482,8,"Oct 20, 2012",San Jose State,52,UTSA,24,1
+483,8,"Oct 20, 2012",South Alabama,37,Florida Atlantic,34,0
+484,8,"Oct 20, 2012",Colorado,6,USC,50,1
+485,8,"Oct 20, 2012",California,3,Stanford,21,0
+486,8,"Oct 20, 2012",Texas,56,Baylor,50,0
+487,8,"Oct 20, 2012",Texas Tech,56,TCU,53,1
+488,8,"Oct 20, 2012",UTEP,24,Tulane,20,0
+489,8,"Oct 20, 2012",Toledo,29,Cincinnati,23,0
+490,8,"Oct 20, 2012",Troy,38,Florida Int'l,37,0
+491,8,"Oct 20, 2012",Tulsa,28,Rice,24,0
+492,8,"Oct 20, 2012",New Mexico State,7,Utah State,41,1
+493,8,"Oct 20, 2012",Vanderbilt,17,Auburn,13,0
+494,8,"Oct 20, 2012",Wake Forest,16,Virginia,10,1
+495,8,"Oct 20, 2012",Wisconsin,38,Minnesota,13,0
+496,9,"Oct 23, 2012",Arkansas State,50,Louisiana,27,1
+497,9,"Oct 25, 2012",Clemson,42,Wake Forest,13,1
+498,9,"Oct 26, 2012",Air Force,48,Nevada,31,0
+499,9,"Oct 26, 2012",Louisville,34,Cincinnati,31,0
+500,9,"Oct 27, 2012",Mississippi State,7,Alabama,38,1
+501,9,"Oct 27, 2012",Arizona,39,USC,36,0
+502,9,"Oct 27, 2012",Ball State,30,Army,22,1
+503,9,"Oct 27, 2012",Boise State,45,Wyoming,14,1
+504,9,"Oct 27, 2012",Boston College,20,Maryland,17,0
+505,9,"Oct 27, 2012",Eastern Michigan,3,Bowling Green,24,1
+506,9,"Oct 27, 2012",BYU,41,Georgia Tech,17,1
+507,9,"Oct 27, 2012",UCF,54,Marshall,17,1
+508,9,"Oct 27, 2012",Central Michigan,35,Akron,14,0
+509,9,"Oct 27, 2012",Colorado State,42,Hawaii,27,0
+510,9,"Oct 27, 2012",Florida Atlantic,34,Troy,27,0
+511,9,"Oct 27, 2012",Duke,7,Florida State,48,1
+512,9,"Oct 27, 2012",Fresno State,49,New Mexico,32,1
+513,9,"Oct 27, 2012",Florida,9,Georgia,17,1
+514,9,"Oct 27, 2012",Houston,45,UTEP,35,0
+515,9,"Oct 27, 2012",Indiana,31,Illinois,17,1
+516,9,"Oct 27, 2012",Iowa State,35,Baylor,21,0
+517,9,"Oct 27, 2012",Kansas State,55,Texas Tech,24,0
+518,9,"Oct 27, 2012",Kent State,35,Rutgers,23,1
+519,9,"Oct 27, 2012",Louisiana Tech,28,New Mexico State,14,1
+520,9,"Oct 27, 2012",Louisiana-Monroe,38,South Alabama,24,0
+521,9,"Oct 27, 2012",Miami (OH),23,Ohio,20,0
+522,9,"Oct 27, 2012",Michigan State,16,Wisconsin,13,1
+523,9,"Oct 27, 2012",Middle Tennessee,38,North Texas,21,0
+524,9,"Oct 27, 2012",Minnesota,44,Purdue,28,0
+525,9,"Oct 27, 2012",Ole Miss,30,Arkansas,27,1
+526,9,"Oct 27, 2012",Missouri,33,Kentucky,10,0
+527,9,"Oct 27, 2012",Navy,56,East Carolina,28,1
+528,9,"Oct 27, 2012",Michigan,9,Nebraska,23,1
+529,9,"Oct 27, 2012",North Carolina,43,NC State,35,0
+530,9,"Oct 27, 2012",Northern Illinois,48,Western Michigan,34,1
+531,9,"Oct 27, 2012",Northwestern,28,Iowa,17,0
+532,9,"Oct 27, 2012",Notre Dame,30,Oklahoma,13,1
+533,9,"Oct 27, 2012",Ohio State,35,Penn State,23,1
+534,9,"Oct 27, 2012",Oklahoma State,36,TCU,14,0
+535,9,"Oct 27, 2012",Oregon,70,Colorado,14,0
+536,9,"Oct 27, 2012",Pitt,47,Temple,17,0
+537,9,"Oct 27, 2012",Rice,44,Southern Miss,17,0
+538,9,"Oct 27, 2012",San Diego State,24,UNLV,13,0
+539,9,"Oct 27, 2012",San Jose State,31,Texas State,20,0
+540,9,"Oct 27, 2012",South Carolina,38,Tennessee,35,0
+541,9,"Oct 27, 2012",SMU,44,Memphis,13,0
+542,9,"Oct 27, 2012",Stanford,24,Washington State,17,0
+543,9,"Oct 27, 2012",Syracuse,37,South Florida,36,1
+544,9,"Oct 27, 2012",Texas,21,Kansas,17,1
+545,9,"Oct 27, 2012",Texas A&M,63,Auburn,21,1
+546,9,"Oct 27, 2012",Toledo,25,Buffalo,20,1
+547,9,"Oct 27, 2012",Tulane,55,UAB,45,0
+548,9,"Oct 27, 2012",UCLA,45,Arizona State,43,1
+549,9,"Oct 27, 2012",Utah,49,California,27,0
+550,9,"Oct 27, 2012",Utah State,48,UTSA,17,1
+551,9,"Oct 27, 2012",Massachusetts,7,Vanderbilt,49,1
+552,9,"Oct 27, 2012",Washington,20,Oregon State,17,0
+553,9,"Oct 27, 2012",Florida Int'l,6,Western Kentucky,14,0
+554,10,"Nov 1, 2012",Miami,30,Virginia Tech,12,0
+555,10,"Nov 1, 2012",Middle Tennessee,34,Western Kentucky,29,1
+556,10,"Nov 1, 2012",Ohio,45,Eastern Michigan,14,0
+557,10,"Nov 2, 2012",Washington,21,California,13,1
+558,10,"Nov 3, 2012",Alabama,21,LSU,17,1
+559,10,"Nov 3, 2012",UAB,27,Southern Miss,19,1
+560,10,"Nov 3, 2012",Arkansas,19,Tulsa,15,0
+561,10,"Nov 3, 2012",Arkansas State,37,North Texas,19,1
+562,10,"Nov 3, 2012",Army,41,Air Force,21,0
+563,10,"Nov 3, 2012",New Mexico State,7,Auburn,42,1
+564,10,"Nov 3, 2012",Baylor,41,Kansas,14,0
+565,10,"Nov 3, 2012",Buffalo,27,Miami (OH),24,0
+566,10,"Nov 3, 2012",UCF,42,SMU,17,0
+567,10,"Nov 3, 2012",Cincinnati,35,Syracuse,24,0
+568,10,"Nov 3, 2012",Clemson,56,Duke,20,1
+569,10,"Nov 3, 2012",East Carolina,48,Houston,28,0
+570,10,"Nov 3, 2012",Missouri,7,Florida,14,1
+571,10,"Nov 3, 2012",Florida Int'l,28,South Alabama,20,1
+572,10,"Nov 3, 2012",Fresno State,45,Hawaii,10,0
+573,10,"Nov 3, 2012",Georgia,37,Ole Miss,10,0
+574,10,"Nov 3, 2012",Georgia Tech,33,Maryland,13,1
+575,10,"Nov 3, 2012",Indiana,24,Iowa,21,0
+576,10,"Nov 3, 2012",Kansas State,44,Oklahoma State,30,0
+577,10,"Nov 3, 2012",Kent State,35,Akron,24,0
+578,10,"Nov 3, 2012",Louisiana,40,Louisiana-Monroe,24,1
+579,10,"Nov 3, 2012",Louisiana Tech,51,UTSA,27,0
+580,10,"Nov 3, 2012",Louisville,45,Temple,17,0
+581,10,"Nov 3, 2012",Marshall,38,Memphis,28,0
+582,10,"Nov 3, 2012",Michigan,35,Minnesota,13,1
+583,10,"Nov 3, 2012",Navy,24,Florida Atlantic,17,0
+584,10,"Nov 3, 2012",Nebraska,28,Michigan State,24,1
+585,10,"Nov 3, 2012",New Mexico,7,UNLV,35,1
+586,10,"Nov 3, 2012",Northern Illinois,63,Massachusetts,0,0
+587,10,"Nov 3, 2012",Notre Dame,29,Pitt,26,0
+588,10,"Nov 3, 2012",Ohio State,52,Illinois,22,0
+589,10,"Nov 3, 2012",Oklahoma,35,Iowa State,20,1
+590,10,"Nov 3, 2012",Oregon,62,USC,51,1
+591,10,"Nov 3, 2012",Oregon State,36,Arizona State,26,0
+592,10,"Nov 3, 2012",Purdue,9,Penn State,34,0
+593,10,"Nov 3, 2012",Rice,49,Tulane,47,1
+594,10,"Nov 3, 2012",San Diego State,21,Boise State,19,1
+595,10,"Nov 3, 2012",San Jose State,42,Idaho,13,1
+596,10,"Nov 3, 2012",Connecticut,6,South Florida,13,1
+597,10,"Nov 3, 2012",Stanford,48,Colorado,0,1
+598,10,"Nov 3, 2012",Tennessee,55,Troy,48,0
+599,10,"Nov 3, 2012",Texas,31,Texas Tech,22,1
+600,10,"Nov 3, 2012",Texas A&M,38,Mississippi State,13,1
+601,10,"Nov 3, 2012",TCU,39,West Virginia,38,1
+602,10,"Nov 3, 2012",UCLA,66,Arizona,10,0
+603,10,"Nov 3, 2012",Washington State,6,Utah,49,1
+604,10,"Nov 3, 2012",Texas State,7,Utah State,38,1
+605,10,"Nov 3, 2012",Vanderbilt,40,Kentucky,0,1
+606,10,"Nov 3, 2012",NC State,6,Virginia,33,0
+607,10,"Nov 3, 2012",Wake Forest,28,Boston College,14,0
+608,10,"Nov 3, 2012",Western Michigan,42,Central Michigan,31,1
+609,10,"Nov 3, 2012",Wyoming,45,Colorado State,31,0
+610,11,"Nov 6, 2012",Ball State,34,Toledo,27,1
+611,11,"Nov 7, 2012",Bowling Green,26,Ohio,14,1
+612,11,"Nov 8, 2012",Arkansas State,45,Louisiana-Monroe,23,0
+613,11,"Nov 8, 2012",Florida State,28,Virginia Tech,22,1
+614,11,"Nov 9, 2012",Connecticut,24,Pitt,17,0
+615,11,"Nov 10, 2012",UAB,38,Marshall,31,0
+616,11,"Nov 10, 2012",Arizona,56,Colorado,31,0
+617,11,"Nov 10, 2012",Boise State,49,Hawaii,14,1
+618,11,"Nov 10, 2012",BYU,52,Idaho,13,0
+619,11,"Nov 10, 2012",Buffalo,29,Western Michigan,24,0
+620,11,"Nov 10, 2012",UCF,31,UTEP,24,1
+621,11,"Nov 10, 2012",Central Michigan,34,Eastern Michigan,31,1
+622,11,"Nov 10, 2012",Cincinnati,34,Temple,10,1
+623,11,"Nov 10, 2012",Clemson,45,Maryland,10,0
+624,11,"Nov 10, 2012",Colorado State,33,UNLV,11,0
+625,11,"Nov 10, 2012",Florida,27,Louisiana,20,0
+626,11,"Nov 10, 2012",Florida Atlantic,37,Western Kentucky,28,1
+627,11,"Nov 10, 2012",Fresno State,52,Nevada,36,1
+628,11,"Nov 10, 2012",Georgia,38,Auburn,0,1
+629,11,"Nov 10, 2012",Georgia Tech,68,North Carolina,50,1
+630,11,"Nov 10, 2012",Kansas State,23,TCU,10,1
+631,11,"Nov 10, 2012",Kent State,48,Miami (OH),32,1
+632,11,"Nov 10, 2012",LSU,37,Mississippi State,17,0
+633,11,"Nov 10, 2012",Louisiana Tech,62,Texas State,55,1
+634,11,"Nov 10, 2012",Massachusetts,22,Akron,14,1
+635,11,"Nov 10, 2012",Memphis,37,Tulane,23,0
+636,11,"Nov 10, 2012",Michigan,38,Northwestern,31,0
+637,11,"Nov 10, 2012",Illinois,3,Minnesota,17,0
+638,11,"Nov 10, 2012",Missouri,51,Tennessee,48,1
+639,11,"Nov 10, 2012",Nebraska,32,Penn State,23,0
+640,11,"Nov 10, 2012",Wake Forest,6,NC State,37,1
+641,11,"Nov 10, 2012",North Texas,24,South Alabama,14,0
+642,11,"Nov 10, 2012",Boston College,6,Notre Dame,21,0
+643,11,"Nov 10, 2012",Oklahoma,42,Baylor,34,0
+644,11,"Nov 10, 2012",Oklahoma State,55,West Virginia,34,0
+645,11,"Nov 10, 2012",Oregon,59,California,17,1
+646,11,"Nov 10, 2012",Purdue,27,Iowa,24,1
+647,11,"Nov 10, 2012",Army,7,Rutgers,28,1
+648,11,"Nov 10, 2012",Air Force,9,San Diego State,28,1
+649,11,"Nov 10, 2012",New Mexico State,7,San Jose State,47,0
+650,11,"Nov 10, 2012",South Carolina,38,Arkansas,20,0
+651,11,"Nov 10, 2012",USC,38,Arizona State,17,0
+652,11,"Nov 10, 2012",Southern Miss,6,SMU,34,1
+653,11,"Nov 10, 2012",Stanford,27,Oregon State,23,0
+654,11,"Nov 10, 2012",Syracuse,45,Louisville,26,0
+655,11,"Nov 10, 2012",Iowa State,7,Texas,33,1
+656,11,"Nov 10, 2012",Texas A&M,29,Alabama,24,1
+657,11,"Nov 10, 2012",Texas Tech,41,Kansas,34,0
+658,11,"Nov 10, 2012",UTSA,31,McNeese State,24,0
+659,11,"Nov 10, 2012",Troy,41,Navy,31,0
+660,11,"Nov 10, 2012",Houston,7,Tulsa,41,0
+661,11,"Nov 10, 2012",UCLA,44,Washington State,36,1
+662,11,"Nov 10, 2012",Vanderbilt,27,Ole Miss,26,1
+663,11,"Nov 10, 2012",Virginia,41,Miami,40,0
+664,11,"Nov 10, 2012",Washington,34,Utah,15,0
+665,11,"Nov 10, 2012",Wisconsin,62,Indiana,14,1
+666,11,"Nov 10, 2012",Wyoming,28,New Mexico,23,1
+667,12,"Nov 14, 2012",Ball State,52,Ohio,27,0
+668,12,"Nov 14, 2012",Northern Illinois,31,Toledo,24,0
+669,12,"Nov 15, 2012",North Carolina,37,Virginia,13,1
+670,12,"Nov 16, 2012",Hawaii,7,Air Force,21,1
+671,12,"Nov 16, 2012",Florida Int'l,34,Florida Atlantic,24,1
+672,12,"Nov 17, 2012",Alabama,49,Western Carolina,0,0
+673,12,"Nov 17, 2012",Arizona,34,Utah,24,1
+674,12,"Nov 17, 2012",Washington State,7,Arizona State,46,1
+675,12,"Nov 17, 2012",Arkansas State,41,Troy,34,1
+676,12,"Nov 17, 2012",Alabama A&M,7,Auburn,51,1
+677,12,"Nov 17, 2012",Baylor,52,Kansas State,24,0
+678,12,"Nov 17, 2012",Boise State,42,Colorado State,14,0
+679,12,"Nov 17, 2012",Buffalo,29,Massachusetts,19,1
+680,12,"Nov 17, 2012",Central Michigan,30,Miami (OH),16,0
+681,12,"Nov 17, 2012",Clemson,62,NC State,48,0
+682,12,"Nov 17, 2012",East Carolina,28,Tulane,23,1
+683,12,"Nov 17, 2012",Eastern Michigan,29,Western Michigan,23,1
+684,12,"Nov 17, 2012",Florida,23,Jacksonville State,0,0
+685,12,"Nov 17, 2012",Florida State,41,Maryland,14,1
+686,12,"Nov 17, 2012",Georgia,45,Georgia Southern,14,0
+687,12,"Nov 17, 2012",Georgia Tech,42,Duke,24,0
+688,12,"Nov 17, 2012",Iowa State,51,Kansas,23,1
+689,12,"Nov 17, 2012",Kent State,31,Bowling Green,24,1
+690,12,"Nov 17, 2012",Kentucky,34,Samford,3,0
+691,12,"Nov 17, 2012",Louisiana,31,Western Kentucky,27,0
+692,12,"Nov 17, 2012",LSU,41,Ole Miss,35,0
+693,12,"Nov 17, 2012",Louisiana-Monroe,42,North Texas,16,0
+694,12,"Nov 17, 2012",Marshall,44,Houston,41,0
+695,12,"Nov 17, 2012",UAB,9,Memphis,46,0
+696,12,"Nov 17, 2012",South Florida,9,Miami,40,1
+697,12,"Nov 17, 2012",Michigan,42,Iowa,17,0
+698,12,"Nov 17, 2012",Middle Tennessee,20,South Alabama,12,1
+699,12,"Nov 17, 2012",Mississippi State,45,Arkansas,14,0
+700,12,"Nov 17, 2012",Navy,21,Texas State,10,0
+701,12,"Nov 17, 2012",Nebraska,38,Minnesota,14,0
+702,12,"Nov 17, 2012",Nevada,31,New Mexico,24,1
+703,12,"Nov 17, 2012",Northwestern,23,Michigan State,20,1
+704,12,"Nov 17, 2012",Notre Dame,38,Wake Forest,0,0
+705,12,"Nov 17, 2012",Ohio State,21,Wisconsin,14,1
+706,12,"Nov 17, 2012",Oklahoma,50,West Virginia,49,1
+707,12,"Nov 17, 2012",Oklahoma State,59,Texas Tech,21,0
+708,12,"Nov 17, 2012",Oregon State,62,California,14,0
+709,12,"Nov 17, 2012",Penn State,45,Indiana,22,0
+710,12,"Nov 17, 2012",Purdue,20,Illinois,17,1
+711,12,"Nov 17, 2012",Rice,36,SMU,14,0
+712,12,"Nov 17, 2012",Cincinnati,3,Rutgers,10,0
+713,12,"Nov 17, 2012",San Jose State,20,BYU,14,0
+714,12,"Nov 17, 2012",Wofford,7,South Carolina,24,1
+715,12,"Nov 17, 2012",Stanford,17,Oregon,14,1
+716,12,"Nov 17, 2012",Syracuse,31,Missouri,27,1
+717,12,"Nov 17, 2012",Temple,63,Army,32,1
+718,12,"Nov 17, 2012",Texas A&M,47,Sam Houston,28,0
+719,12,"Nov 17, 2012",UTEP,34,Southern Miss,33,1
+720,12,"Nov 17, 2012",UTSA,34,Idaho,27,1
+721,12,"Nov 17, 2012",Tulsa,23,UCF,21,0
+722,12,"Nov 17, 2012",UCLA,38,USC,28,0
+723,12,"Nov 17, 2012",Utah State,48,Louisiana Tech,41,1
+724,12,"Nov 17, 2012",Vanderbilt,41,Tennessee,18,0
+725,12,"Nov 17, 2012",Virginia Tech,30,Boston College,23,1
+726,12,"Nov 17, 2012",Washington,38,Colorado,3,1
+727,12,"Nov 17, 2012",Wyoming,28,UNLV,23,1
+728,13,"Nov 20, 2012",Toledo,35,Akron,23,0
+729,13,"Nov 22, 2012",TCU,20,Texas,13,1
+730,13,"Nov 23, 2012",Arizona State,41,Arizona,34,1
+731,13,"Nov 23, 2012",Ball State,31,Miami (OH),24,1
+732,13,"Nov 23, 2012",Buffalo,7,Bowling Green,21,1
+733,13,"Nov 23, 2012",Central Michigan,42,Massachusetts,21,1
+734,13,"Nov 23, 2012",Cincinnati,27,South Florida,10,0
+735,13,"Nov 23, 2012",East Carolina,65,Marshall,59,0
+736,13,"Nov 23, 2012",Ohio,6,Kent State,28,1
+737,13,"Nov 23, 2012",LSU,20,Arkansas,13,1
+738,13,"Nov 23, 2012",Iowa,7,Nebraska,13,0
+739,13,"Nov 23, 2012",Eastern Michigan,7,Northern Illinois,49,0
+740,13,"Nov 23, 2012",Syracuse,38,Temple,20,1
+741,13,"Nov 23, 2012",Utah,42,Colorado,35,1
+742,13,"Nov 23, 2012",Washington State,31,Washington,28,0
+743,13,"Nov 23, 2012",West Virginia,31,Iowa State,24,1
+744,13,"Nov 24, 2012",Alabama,49,Auburn,0,0
+745,13,"Nov 24, 2012",Baylor,52,Texas Tech,45,0
+746,13,"Nov 24, 2012",BYU,50,New Mexico State,14,1
+747,13,"Nov 24, 2012",UCF,49,UAB,24,0
+748,13,"Nov 24, 2012",Colorado State,24,New Mexico,20,0
+749,13,"Nov 24, 2012",Connecticut,23,Louisville,20,1
+750,13,"Nov 24, 2012",Florida,37,Florida State,26,1
+751,13,"Nov 24, 2012",Fresno State,48,Air Force,15,0
+752,13,"Nov 24, 2012",Georgia,42,Georgia Tech,10,0
+753,13,"Nov 24, 2012",Hawaii,48,UNLV,10,0
+754,13,"Nov 24, 2012",Houston,40,Tulane,17,0
+755,13,"Nov 24, 2012",Louisiana,52,South Alabama,30,0
+756,13,"Nov 24, 2012",Louisiana-Monroe,23,Florida Int'l,17,1
+757,13,"Nov 24, 2012",Memphis,42,Southern Miss,24,0
+758,13,"Nov 24, 2012",Miami,52,Duke,45,1
+759,13,"Nov 24, 2012",Michigan State,26,Minnesota,10,1
+760,13,"Nov 24, 2012",Middle Tennessee,24,Troy,21,0
+761,13,"Nov 24, 2012",Ole Miss,41,Mississippi State,24,0
+762,13,"Nov 24, 2012",North Carolina,45,Maryland,38,0
+763,13,"Nov 24, 2012",NC State,27,Boston College,10,0
+764,13,"Nov 24, 2012",Northwestern,50,Illinois,14,0
+765,13,"Nov 24, 2012",Notre Dame,22,USC,13,1
+766,13,"Nov 24, 2012",Ohio State,26,Michigan,21,0
+767,13,"Nov 24, 2012",Oklahoma,51,Oklahoma State,48,0
+768,13,"Nov 24, 2012",Oregon,48,Oregon State,24,1
+769,13,"Nov 24, 2012",Penn State,24,Wisconsin,21,0
+770,13,"Nov 24, 2012",Rutgers,6,Pitt,27,1
+771,13,"Nov 24, 2012",Purdue,56,Indiana,35,0
+772,13,"Nov 24, 2012",Rice,33,UTEP,24,1
+773,13,"Nov 24, 2012",San Diego State,42,Wyoming,28,1
+774,13,"Nov 24, 2012",San Jose State,52,Louisiana Tech,43,0
+775,13,"Nov 24, 2012",South Carolina,27,Clemson,17,1
+776,13,"Nov 24, 2012",SMU,35,Tulsa,27,0
+777,13,"Nov 24, 2012",Stanford,35,UCLA,17,1
+778,13,"Nov 24, 2012",Tennessee,37,Kentucky,17,0
+779,13,"Nov 24, 2012",Texas A&M,59,Missouri,29,0
+780,13,"Nov 24, 2012",UTSA,38,Texas State,31,0
+781,13,"Nov 24, 2012",Idaho,9,Utah State,45,1
+782,13,"Nov 24, 2012",Vanderbilt,55,Wake Forest,21,1
+783,13,"Nov 24, 2012",Virginia Tech,17,Virginia,14,0
+784,13,"Nov 24, 2012",Western Kentucky,25,North Texas,24,0
+785,14,"Nov 29, 2012",Louisville,20,Rutgers,17,1
+786,14,"Nov 30, 2012",Northern Illinois,44,Kent State,37,0
+787,14,"Nov 30, 2012",Stanford,27,UCLA,24,0
+788,14,"Dec 1, 2012",Alabama,32,Georgia,28,0
+789,14,"Dec 1, 2012",Arkansas State,45,Middle Tennessee,0,0
+790,14,"Dec 1, 2012",Baylor,41,Oklahoma State,34,0
+791,14,"Dec 1, 2012",Boise State,27,Nevada,21,1
+792,14,"Dec 1, 2012",Cincinnati,34,Connecticut,17,1
+793,14,"Dec 1, 2012",Florida State,21,Georgia Tech,15,0
+794,14,"Dec 1, 2012",South Alabama,7,Hawaii,23,1
+795,14,"Dec 1, 2012",Kansas State,42,Texas,24,0
+796,14,"Dec 1, 2012",Louisiana,35,Florida Atlantic,21,1
+797,14,"Dec 1, 2012",Oklahoma,24,TCU,17,1
+798,14,"Dec 1, 2012",Oregon State,77,Nicholls State,3,0
+799,14,"Dec 1, 2012",South Florida,3,Pitt,27,0
+800,14,"Dec 1, 2012",Texas State,66,New Mexico State,28,0
+801,14,"Dec 1, 2012",Tulsa,33,UCF,27,0
+802,14,"Dec 1, 2012",West Virginia,59,Kansas,10,0
+803,14,"Dec 1, 2012",Wisconsin,70,Nebraska,31,0
+804,15,"Dec 8, 2012",Navy,17,Army,13,0
+805,16,"Dec 15, 2012",Arizona,49,Nevada,48,0
+806,16,"Dec 15, 2012",Utah State,41,Toledo,15,0
+807,17,"Dec 20, 2012",San Diego State,6,BYU,23,0
+808,17,"Dec 21, 2012",UCF,38,Ball State,17,0
+809,17,"Dec 22, 2012",Boise State,28,Washington,26,0
+810,17,"Dec 22, 2012",Louisiana,43,East Carolina,34,0
+811,17,"Dec 24, 2012",SMU,43,Fresno State,10,0
+812,18,"Dec 26, 2012",Central Michigan,24,Western Kentucky,21,0
+813,18,"Dec 27, 2012",Baylor,49,UCLA,26,0
+814,18,"Dec 27, 2012",Cincinnati,48,Duke,34,0
+815,18,"Dec 27, 2012",San Jose State,29,Bowling Green,20,0
+816,18,"Dec 28, 2012",Ohio,45,Louisiana-Monroe,14,0
+817,18,"Dec 28, 2012",Texas Tech,34,Minnesota,31,0
+818,18,"Dec 28, 2012",Virginia Tech,13,Rutgers,10,0
+819,18,"Dec 29, 2012",Arizona State,62,Navy,28,0
+820,18,"Dec 29, 2012",Michigan State,17,TCU,16,0
+821,18,"Dec 29, 2012",Rice,33,Air Force,14,0
+822,18,"Dec 29, 2012",Syracuse,38,West Virginia,14,0
+823,18,"Dec 29, 2012",Texas,31,Oregon State,27,0
+824,19,"Dec 31, 2012",Clemson,25,LSU,24,0
+825,19,"Dec 31, 2012",USC,7,Georgia Tech,21,1
+826,19,"Dec 31, 2012",Tulsa,31,Iowa State,17,0
+827,19,"Dec 31, 2012",Vanderbilt,38,NC State,24,0
+828,20,"Jan 1, 2013",Florida State,31,Northern Illinois,10,0
+829,20,"Jan 1, 2013",Georgia,45,Nebraska,31,0
+830,20,"Jan 1, 2013",Northwestern,34,Mississippi State,20,0
+831,20,"Jan 1, 2013",Oklahoma State,58,Purdue,14,0
+832,20,"Jan 1, 2013",South Carolina,33,Michigan,28,0
+833,20,"Jan 1, 2013",Stanford,20,Wisconsin,14,0
+834,20,"Jan 2, 2013",Louisville,33,Florida,23,0
+835,20,"Jan 3, 2013",Oregon,35,Kansas State,17,0
+836,20,"Jan 4, 2013",Texas A&M,41,Oklahoma,13,0
+837,20,"Jan 5, 2013",Ole Miss,38,Pitt,17,0
+838,20,"Jan 6, 2013",Arkansas State,17,Kent State,13,0
+839,20,"Jan 7, 2013",Alabama,42,Notre Dame,14,0

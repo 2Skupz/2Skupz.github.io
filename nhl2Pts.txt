@@ -11,7 +11,7 @@ Edmonton                7    2    3    2    -2     6
 SEATTLE                 7    1    2    4    -4     6
 Los Angeles             7    0    3    4    -6     4
 San Jose                6    0    4    2   -13     2
-Calgary                 7    0    6    1   -15     1
+Calgary                 8    0    6    2   -16     2
 
 --------------------------------------------------------------------------------
 Central                GP    W    L    T    GD   Pts
@@ -21,14 +21,14 @@ Winnipeg                6    5    1    0    10    10
 Utah                    7    3    2    2     5     8
 St. Louis               6    3    2    1    -4     7
 Chicago                 7    2    2    3     4     7
-Minnesota               7    2    3    2    -3     6
 Nashville               7    2    3    2    -7     6
+Minnesota               8    2    4    2    -6     6
 Dallas                  6    2    3    1    -3     5
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-New Jersey              6    5    1    0     7    10
+New Jersey              7    6    1    0    10    12
 Pittsburgh              7    5    2    0     7    10
 Washington              7    4    2    1     8     9
 Carolina                6    3    1    2     9     8
@@ -40,12 +40,12 @@ Philadelphia            6    2    2    2     2     6
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Detroit                 6    4    1    1     6     9
-Montreal                7    3    2    2     5     8
+Detroit                 7    4    2    1     4     9
+Montreal                8    3    2    3     6     9
 Florida                 8    4    4    0    -4     8
+Buffalo                 7    3    4    0    -1     6
 Toronto                 7    2    3    2    -1     6
 Boston                  8    2    5    1    -2     5
-Buffalo                 6    2    4    0    -3     4
 Tampa Bay               6    1    3    2    -5     4
 Ottawa                  7    1    4    2   -11     4
 

@@ -1,0 +1,632 @@
+0,1,"Aug 28, 1993",Florida State,42,Kansas,0,0
+1,1,"Aug 29, 1993",USC,9,North Carolina,31,0
+2,2,"Sep 2, 1993",Akron,23,Central Michigan,13,1
+3,2,"Sep 2, 1993",Auburn,16,Ole Miss,12,0
+4,2,"Sep 2, 1993",Iowa State,54,Northern Illinois,10,0
+5,2,"Sep 2, 1993",Youngstown State,17,Western Michigan,13,1
+6,2,"Sep 4, 1993",Air Force,63,Indiana State,21,0
+7,2,"Sep 4, 1993",Alabama,31,Tulane,17,0
+8,2,"Sep 4, 1993",UTEP,6,Arizona,24,1
+9,2,"Sep 4, 1993",Arizona State,38,Utah,0,0
+10,2,"Sep 4, 1993",SMU,6,Arkansas,10,0
+11,2,"Sep 4, 1993",Baylor,42,Fresno State,39,0
+12,2,"Sep 4, 1993",BYU,34,New Mexico,31,1
+13,2,"Sep 4, 1993",California,27,UCLA,25,1
+14,2,"Sep 4, 1993",Cincinnati,42,Austin Peay,10,0
+15,2,"Sep 4, 1993",Clemson,24,UNLV,14,0
+16,2,"Sep 4, 1993",Colorado,36,Texas,14,0
+17,2,"Sep 4, 1993",Arkansas State,6,Florida,44,1
+18,2,"Sep 4, 1993",Duke,7,Florida State,45,0
+19,2,"Sep 4, 1993",Hawaii,35,Middle Tennessee,14,0
+20,2,"Sep 4, 1993",Indiana,27,Toledo,0,0
+21,2,"Sep 4, 1993",Iowa,26,Tulsa,25,0
+22,2,"Sep 4, 1993",Kansas,46,Western Carolina,3,0
+23,2,"Sep 4, 1993",Kansas State,34,New Mexico State,10,0
+24,2,"Sep 4, 1993",Kentucky,35,Kent State,0,0
+25,2,"Sep 4, 1993",Louisville,31,San Jose State,24,0
+26,2,"Sep 4, 1993",Memphis,45,Mississippi State,35,1
+27,2,"Sep 4, 1993",Boston College,7,Miami,23,0
+28,2,"Sep 4, 1993",Michigan,41,Washington State,14,0
+29,2,"Sep 4, 1993",Nebraska,76,North Texas,14,0
+30,2,"Sep 4, 1993",North Carolina,44,Ohio,3,0
+31,2,"Sep 4, 1993",Purdue,7,NC State,20,1
+32,2,"Sep 4, 1993",Notre Dame,27,Northwestern,12,0
+33,2,"Sep 4, 1993",Rice,7,Ohio State,34,1
+34,2,"Sep 4, 1993",Oklahoma,35,TCU,3,1
+35,2,"Sep 4, 1993",Colorado State,9,Oregon,23,0
+36,2,"Sep 4, 1993",Oregon State,27,Wyoming,16,1
+37,2,"Sep 4, 1993",Penn State,38,Minnesota,20,0
+38,2,"Sep 4, 1993",Pitt,14,Southern Miss,10,1
+39,2,"Sep 4, 1993",Rutgers,68,Colgate,6,0
+40,2,"Sep 4, 1993",San Diego State,34,Cal State Northridge,17,0
+41,2,"Sep 4, 1993",South Carolina,23,Georgia,21,1
+42,2,"Sep 4, 1993",Houston,7,USC,49,1
+43,2,"Sep 4, 1993",Syracuse,35,Ball State,12,0
+44,2,"Sep 4, 1993",Tennessee,50,Louisiana Tech,0,0
+45,2,"Sep 4, 1993",Texas A&M,24,LSU,0,0
+46,2,"Sep 4, 1993",Pacific,7,Texas Tech,55,1
+47,2,"Sep 4, 1993",Utah State,34,Louisiana,13,1
+48,2,"Sep 4, 1993",Vanderbilt,27,Wake Forest,12,1
+49,2,"Sep 4, 1993",Virginia,43,Maryland,29,1
+50,2,"Sep 4, 1993",Virginia Tech,33,Bowling Green,16,0
+51,2,"Sep 4, 1993",Washington,31,Stanford,14,0
+52,2,"Sep 4, 1993",Eastern Michigan,6,West Virginia,48,1
+53,2,"Sep 4, 1993",Wisconsin,35,Nevada,17,0
+54,3,"Sep 9, 1993",Syracuse,41,East Carolina,22,1
+55,3,"Sep 9, 1993",Temple,31,Eastern Michigan,28,1
+56,3,"Sep 11, 1993",Kent State,7,Akron,42,1
+57,3,"Sep 11, 1993",Vanderbilt,6,Alabama,17,0
+58,3,"Sep 11, 1993",Arizona,16,Pacific,13,0
+59,3,"Sep 11, 1993",Arkansas,18,South Carolina,17,0
+60,3,"Sep 11, 1993",Army,30,Colgate,0,0
+61,3,"Sep 11, 1993",Samford,7,Auburn,35,1
+62,3,"Sep 11, 1993",Ball State,45,Illinois State,30,0
+63,3,"Sep 11, 1993",Cincinnati,7,Bowling Green,21,1
+64,3,"Sep 11, 1993",BYU,41,Hawaii,38,0
+65,3,"Sep 11, 1993",California,45,San Diego State,25,0
+66,3,"Sep 11, 1993",Central Michigan,38,Ohio,0,0
+67,3,"Sep 11, 1993",Colorado,45,Baylor,21,0
+68,3,"Sep 11, 1993",Colorado State,8,Air Force,5,0
+69,3,"Sep 11, 1993",Florida,24,Kentucky,20,1
+70,3,"Sep 11, 1993",Florida State,57,Clemson,0,0
+71,3,"Sep 11, 1993",Fresno State,48,Oregon State,30,0
+72,3,"Sep 11, 1993",Georgia Tech,37,Furman,3,0
+73,3,"Sep 11, 1993",Indiana,28,Northern Illinois,10,0
+74,3,"Sep 11, 1993",Iowa,31,Iowa State,28,1
+75,3,"Sep 11, 1993",Kansas State,38,Western Kentucky,13,0
+76,3,"Sep 11, 1993",LSU,18,Mississippi State,16,1
+77,3,"Sep 11, 1993",Louisville,54,Memphis,28,1
+78,3,"Sep 11, 1993",Miami (OH),29,Louisiana,28,0
+79,3,"Sep 11, 1993",Michigan State,31,Kansas,14,0
+80,3,"Sep 11, 1993",Minnesota,27,Indiana State,10,0
+81,3,"Sep 11, 1993",Chattanooga,7,Ole Miss,40,1
+82,3,"Sep 11, 1993",Missouri,31,Illinois,3,0
+83,3,"Sep 11, 1993",Nebraska,50,Texas Tech,27,0
+84,3,"Sep 11, 1993",Nevada,38,Boise State,10,0
+85,3,"Sep 11, 1993",New Mexico State,22,Arkansas State,19,1
+86,3,"Sep 11, 1993",North Carolina,59,Maryland,42,0
+87,3,"Sep 11, 1993",NC State,34,Wake Forest,16,1
+88,3,"Sep 11, 1993",Notre Dame,27,Michigan,23,1
+89,3,"Sep 11, 1993",Ohio State,21,Washington,12,0
+90,3,"Sep 11, 1993",Oklahoma,44,Texas A&M,14,0
+91,3,"Sep 11, 1993",Missouri State,7,Oklahoma State,45,1
+92,3,"Sep 11, 1993",Oregon,35,Montana,30,0
+93,3,"Sep 11, 1993",Penn State,21,USC,20,0
+94,3,"Sep 11, 1993",Purdue,28,Western Michigan,13,0
+95,3,"Sep 11, 1993",Rice,34,Tulane,0,0
+96,3,"Sep 11, 1993",Rutgers,39,Duke,38,0
+97,3,"Sep 11, 1993",Stanford,31,San Jose State,28,0
+98,3,"Sep 11, 1993",Georgia,6,Tennessee,38,1
+99,3,"Sep 11, 1993",TCU,35,New Mexico,34,0
+100,3,"Sep 11, 1993",UTEP,41,UNLV,24,0
+101,3,"Sep 11, 1993",Tulsa,38,Houston,24,1
+102,3,"Sep 11, 1993",Utah,31,Utah State,29,0
+103,3,"Sep 11, 1993",Virginia,38,Navy,0,0
+104,3,"Sep 11, 1993",Virginia Tech,63,Pitt,21,1
+105,3,"Sep 11, 1993",Washington State,54,Montana State,14,0
+106,3,"Sep 11, 1993",Wisconsin,24,SMU,16,1
+107,3,"Sep 11, 1993",Wyoming,45,Northern Iowa,42,0
+108,4,"Sep 16, 1993",Virginia,35,Georgia Tech,14,1
+109,4,"Sep 18, 1993",Alabama,43,Arkansas,3,0
+110,4,"Sep 18, 1993",Arizona,16,Illinois,14,1
+111,4,"Sep 18, 1993",Auburn,34,LSU,10,1
+112,4,"Sep 18, 1993",Ball State,24,Ohio,16,1
+113,4,"Sep 18, 1993",Baylor,28,Utah State,24,1
+114,4,"Sep 18, 1993",BYU,27,Colorado State,22,1
+115,4,"Sep 18, 1993",California,58,Temple,0,1
+116,4,"Sep 18, 1993",Cincinnati,30,Miami (OH),23,0
+117,4,"Sep 18, 1993",Duke,42,Army,21,0
+118,4,"Sep 18, 1993",East Carolina,41,UCF,17,0
+119,4,"Sep 18, 1993",Eastern Michigan,16,Western Illinois,14,0
+120,4,"Sep 18, 1993",Florida,41,Tennessee,34,0
+121,4,"Sep 18, 1993",North Carolina,7,Florida State,33,0
+122,4,"Sep 18, 1993",Fresno State,41,New Mexico,24,1
+123,4,"Sep 18, 1993",Georgia,52,Texas Tech,37,0
+124,4,"Sep 18, 1993",Hawaii,49,Kent State,17,0
+125,4,"Sep 18, 1993",Kentucky,8,Indiana,24,1
+126,4,"Sep 18, 1993",Kansas State,30,Minnesota,25,1
+127,4,"Sep 18, 1993",Louisiana,17,Memphis,15,0
+128,4,"Sep 18, 1993",Louisville,35,Arizona State,17,0
+129,4,"Sep 18, 1993",Miami,21,Virginia Tech,2,0
+130,4,"Sep 18, 1993",Vanderbilt,7,Ole Miss,49,1
+131,4,"Sep 18, 1993",Navy,31,Eastern Illinois,10,0
+132,4,"Sep 18, 1993",Nebraska,14,UCLA,13,1
+133,4,"Sep 18, 1993",Nevada,63,Texas Southern,14,0
+134,4,"Sep 18, 1993",UNLV,33,Central Michigan,20,0
+135,4,"Sep 18, 1993",New Mexico State,31,UTEP,14,0
+136,4,"Sep 18, 1993",Arkansas State,7,Northern Illinois,23,1
+137,4,"Sep 18, 1993",Northwestern,22,Boston College,21,0
+138,4,"Sep 18, 1993",Notre Dame,36,Michigan State,14,0
+139,4,"Sep 18, 1993",Ohio State,63,Pitt,28,1
+140,4,"Sep 18, 1993",Oklahoma State,16,Tulsa,10,1
+141,4,"Sep 18, 1993",Penn State,31,Iowa,0,1
+142,4,"Sep 18, 1993",Rice,14,Sam Houston,13,0
+143,4,"Sep 18, 1993",San Diego State,38,Air Force,31,1
+144,4,"Sep 18, 1993",South Carolina,34,Louisiana Tech,3,0
+145,4,"Sep 18, 1993",Southern Miss,44,Louisiana-Monroe,37,0
+146,4,"Sep 18, 1993",Stanford,41,Colorado,37,0
+147,4,"Sep 18, 1993",Texas,21,Syracuse,21,0
+148,4,"Sep 18, 1993",Texas A&M,73,Missouri,0,0
+149,4,"Sep 18, 1993",Toledo,49,Southern Illinois,28,0
+150,4,"Sep 18, 1993",Tulane,10,William & Mary,0,0
+151,4,"Sep 18, 1993",Utah,41,Kansas,16,1
+152,4,"Sep 18, 1993",Appalachian State,3,Wake Forest,20,1
+153,4,"Sep 18, 1993",Oregon State,6,Washington State,51,1
+154,4,"Sep 18, 1993",West Virginia,42,Maryland,37,1
+155,4,"Sep 18, 1993",Akron,3,Western Michigan,20,1
+156,4,"Sep 18, 1993",Iowa State,7,Wisconsin,28,1
+157,4,"Sep 18, 1993",Wyoming,36,San Jose State,25,1
+158,5,"Sep 23, 1993",Kentucky,21,South Carolina,17,1
+159,5,"Sep 25, 1993",Alabama,56,Louisiana Tech,3,0
+160,5,"Sep 25, 1993",Arizona,33,Oregon State,0,1
+161,5,"Sep 25, 1993",Arizona State,12,Oklahoma State,10,0
+162,5,"Sep 25, 1993",Southern Illinois,6,Arkansas State,27,1
+163,5,"Sep 25, 1993",Virginia Military Institute,9,Army,31,1
+164,5,"Sep 25, 1993",Auburn,35,Southern Miss,24,0
+165,5,"Sep 25, 1993",Baylor,28,Texas Tech,26,0
+166,5,"Sep 25, 1993",Boston College,66,Temple,14,0
+167,5,"Sep 25, 1993",BYU,30,Air Force,3,0
+168,5,"Sep 25, 1993",California,46,San Jose State,13,0
+169,5,"Sep 25, 1993",Clemson,16,Georgia Tech,13,0
+170,5,"Sep 25, 1993",Fresno State,30,Utah State,14,0
+171,5,"Sep 25, 1993",Hawaii,52,UTEP,0,0
+172,5,"Sep 25, 1993",Kansas State,36,UNLV,20,0
+173,5,"Sep 25, 1993",Louisville,41,Texas,10,0
+174,5,"Sep 25, 1993",Memphis,6,Arkansas,0,1
+175,5,"Sep 25, 1993",Miami,35,Colorado,29,1
+176,5,"Sep 25, 1993",Michigan,42,Houston,21,0
+177,5,"Sep 25, 1993",Michigan State,48,Central Michigan,34,0
+178,5,"Sep 25, 1993",Ole Miss,31,Georgia,14,0
+179,5,"Sep 25, 1993",Mississippi State,36,Tulane,10,1
+180,5,"Sep 25, 1993",Navy,27,Bowling Green,20,0
+181,5,"Sep 25, 1993",Nebraska,48,Colorado State,13,0
+182,5,"Sep 25, 1993",New Mexico State,7,New Mexico,42,1
+183,5,"Sep 25, 1993",North Carolina,35,NC State,14,1
+184,5,"Sep 25, 1993",Northern Illinois,46,Nevada,42,1
+185,5,"Sep 25, 1993",Northwestern,26,Wake Forest,14,0
+186,5,"Sep 25, 1993",Notre Dame,17,Purdue,0,1
+187,5,"Sep 25, 1993",Oklahoma,41,Tulsa,20,0
+188,5,"Sep 25, 1993",Illinois,7,Oregon,13,0
+189,5,"Sep 25, 1993",Sacramento State,6,Pacific,30,1
+190,5,"Sep 25, 1993",Rutgers,7,Penn State,31,1
+191,5,"Sep 25, 1993",Rice,49,Iowa State,21,0
+192,5,"Sep 25, 1993",San Diego State,48,Minnesota,17,0
+193,5,"Sep 25, 1993",USC,34,Washington State,3,0
+194,5,"Sep 25, 1993",SMU,21,TCU,15,1
+195,5,"Sep 25, 1993",Syracuse,24,Cincinnati,21,0
+196,5,"Sep 25, 1993",Tennessee,42,LSU,20,0
+197,5,"Sep 25, 1993",Toledo,28,Ohio,10,0
+198,5,"Sep 25, 1993",UCLA,28,Stanford,25,1
+199,5,"Sep 25, 1993",Virginia,35,Duke,0,0
+200,5,"Sep 25, 1993",Virginia Tech,55,Maryland,28,0
+201,5,"Sep 25, 1993",Washington,35,East Carolina,0,0
+202,5,"Sep 25, 1993",West Virginia,35,Missouri,3,0
+203,5,"Sep 25, 1993",Western Michigan,17,Miami (OH),0,0
+204,5,"Sep 25, 1993",Wisconsin,27,Indiana,15,1
+205,5,"Sep 25, 1993",Wyoming,28,Utah,12,0
+206,6,"Sep 30, 1993",UCLA,52,San Diego State,13,1
+207,6,"Oct 2, 1993",South Carolina,6,Alabama,17,0
+208,6,"Oct 2, 1993",USC,7,Arizona,38,1
+209,6,"Oct 2, 1993",Arkansas,20,Georgia,10,1
+210,6,"Oct 2, 1993",Army,35,Akron,14,0
+211,6,"Oct 2, 1993",Auburn,14,Vanderbilt,10,1
+212,6,"Oct 2, 1993",Ball State,20,Central Michigan,17,1
+213,6,"Oct 2, 1993",Boston College,33,Syracuse,29,1
+214,6,"Oct 2, 1993",Bowling Green,17,Toledo,10,0
+215,6,"Oct 2, 1993",California,42,Oregon,41,0
+216,6,"Oct 2, 1993",Cincinnati,22,Tulsa,15,1
+217,6,"Oct 2, 1993",Clemson,20,NC State,14,0
+218,6,"Oct 2, 1993",Miami (OH),7,Eastern Michigan,15,0
+219,6,"Oct 2, 1993",Florida,38,Mississippi State,24,0
+220,6,"Oct 2, 1993",Florida State,51,Georgia Tech,0,0
+221,6,"Oct 2, 1993",Baylor,3,Houston,24,1
+222,6,"Oct 2, 1993",Idaho,28,Utah,17,1
+223,6,"Oct 2, 1993",Illinois,28,Purdue,10,1
+224,6,"Oct 2, 1993",Indiana,23,Minnesota,19,1
+225,6,"Oct 2, 1993",Colorado State,6,Kansas,24,1
+226,6,"Oct 2, 1993",Kentucky,21,Ole Miss,0,0
+227,6,"Oct 2, 1993",Southern Miss,7,Louisiana,13,1
+228,6,"Oct 2, 1993",LSU,38,Utah State,17,0
+229,6,"Oct 2, 1993",Arkansas State,3,Louisiana Tech,17,1
+230,6,"Oct 2, 1993",Pitt,7,Louisville,29,0
+231,6,"Oct 2, 1993",East Carolina,7,Memphis,34,0
+232,6,"Oct 2, 1993",Georgia Southern,7,Miami,30,1
+233,6,"Oct 2, 1993",Iowa,7,Michigan,24,1
+234,6,"Oct 2, 1993",Nevada,49,UNLV,14,0
+235,6,"Oct 2, 1993",New Mexico,41,Hawaii,14,0
+236,6,"Oct 2, 1993",North Carolina,45,UTEP,39,0
+237,6,"Oct 2, 1993",Northern Illinois,45,Southern Illinois,15,0
+238,6,"Oct 2, 1993",Notre Dame,48,Stanford,20,1
+239,6,"Oct 2, 1993",Ohio State,51,Northwestern,3,0
+240,6,"Oct 2, 1993",Iowa State,7,Oklahoma,24,0
+241,6,"Oct 2, 1993",Oklahoma State,27,TCU,22,0
+242,6,"Oct 2, 1993",Oregon State,30,Arizona State,14,0
+243,6,"Oct 2, 1993",Penn State,70,Maryland,7,1
+244,6,"Oct 2, 1993",Rutgers,62,Temple,0,0
+245,6,"Oct 2, 1993",Missouri,10,SMU,10,0
+246,6,"Oct 2, 1993",Tennessee,52,Duke,19,0
+247,6,"Oct 2, 1993",Texas,55,Rice,38,0
+248,6,"Oct 2, 1993",Texas Tech,6,Texas A&M,31,0
+249,6,"Oct 2, 1993",Tulane,27,Navy,25,0
+250,6,"Oct 2, 1993",Ohio,7,Virginia,41,1
+251,6,"Oct 2, 1993",Washington,52,San Jose State,17,0
+252,6,"Oct 2, 1993",Washington State,12,Pacific,0,1
+253,6,"Oct 2, 1993",West Virginia,14,Virginia Tech,13,0
+254,6,"Oct 2, 1993",Western Michigan,27,Kent State,21,1
+255,6,"Oct 2, 1993",Wyoming,31,Air Force,18,1
+256,7,"Oct 7, 1993",Nebraska,27,Oklahoma State,13,1
+257,7,"Oct 9, 1993",Akron,31,Miami (OH),13,0
+258,7,"Oct 9, 1993",Army,56,Temple,21,1
+259,7,"Oct 9, 1993",Auburn,31,Mississippi State,17,0
+260,7,"Oct 9, 1993",Ball State,31,Toledo,30,0
+261,7,"Oct 9, 1993",Baylor,31,SMU,12,1
+262,7,"Oct 9, 1993",Boston College,31,Rutgers,21,1
+263,7,"Oct 9, 1993",Bowling Green,20,Ohio,0,1
+264,7,"Oct 9, 1993",Cal State Northridge,24,UNLV,18,1
+265,7,"Oct 9, 1993",Central Michigan,23,Western Michigan,18,1
+266,7,"Oct 9, 1993",Clemson,13,Duke,10,1
+267,7,"Oct 9, 1993",Colorado,30,Missouri,18,0
+268,7,"Oct 9, 1993",Colorado State,34,Fresno State,32,0
+269,7,"Oct 9, 1993",Eastern Michigan,20,Kent State,15,0
+270,7,"Oct 9, 1993",Florida,58,LSU,3,1
+271,7,"Oct 9, 1993",Florida State,28,Miami,10,0
+272,7,"Oct 9, 1993",Georgia,54,Southern Miss,24,0
+273,7,"Oct 9, 1993",Georgia Tech,38,Maryland,0,0
+274,7,"Oct 9, 1993",Indiana,16,Iowa,10,0
+275,7,"Oct 9, 1993",Kansas,9,Kansas State,10,1
+276,7,"Oct 9, 1993",Louisiana,36,Tulane,15,1
+277,7,"Oct 9, 1993",Memphis,45,Arkansas State,3,0
+278,7,"Oct 9, 1993",Michigan,7,Michigan State,17,1
+279,7,"Oct 9, 1993",Minnesota,59,Purdue,56,0
+280,7,"Oct 9, 1993",Navy,28,Air Force,24,0
+281,7,"Oct 9, 1993",New Mexico,42,Utah,35,1
+282,7,"Oct 9, 1993",New Mexico State,24,Northern Illinois,17,0
+283,7,"Oct 9, 1993",North Carolina,45,Wake Forest,35,0
+284,7,"Oct 9, 1993",NC State,36,Texas Tech,34,1
+285,7,"Oct 9, 1993",Notre Dame,44,Pitt,0,0
+286,7,"Oct 9, 1993",Ohio State,20,Illinois,12,1
+287,7,"Oct 9, 1993",Oklahoma,38,Texas,17,0
+288,7,"Oct 9, 1993",Pacific,7,Oregon State,42,1
+289,7,"Oct 9, 1993",Rice,34,TCU,19,0
+290,7,"Oct 9, 1993",San Diego State,45,Hawaii,14,1
+291,7,"Oct 9, 1993",East Carolina,3,South Carolina,27,1
+292,7,"Oct 9, 1993",USC,24,Oregon,13,1
+293,7,"Oct 9, 1993",Tennessee,28,Arkansas,14,1
+294,7,"Oct 9, 1993",Texas A&M,34,Houston,10,0
+295,7,"Oct 9, 1993",UCLA,68,BYU,14,0
+296,7,"Oct 9, 1993",Cincinnati,7,Vanderbilt,17,1
+297,7,"Oct 9, 1993",Washington,24,California,23,1
+298,7,"Oct 9, 1993",Washington State,44,Arizona State,25,0
+299,7,"Oct 9, 1993",West Virginia,36,Louisville,34,0
+300,7,"Oct 9, 1993",Wisconsin,53,Northwestern,14,0
+301,7,"Oct 9, 1993",Wyoming,33,UTEP,26,1
+302,8,"Oct 16, 1993",Arizona,27,Stanford,24,0
+303,8,"Oct 16, 1993",Auburn,38,Florida,35,0
+304,8,"Oct 16, 1993",Akron,7,Bowling Green,49,1
+305,8,"Oct 16, 1993",Cincinnati,44,Ball State,12,0
+306,8,"Oct 16, 1993",Colorado,27,Oklahoma,10,1
+307,8,"Oct 16, 1993",East Carolina,31,Louisiana Tech,28,0
+308,8,"Oct 16, 1993",Eastern Michigan,28,Central Michigan,21,1
+309,8,"Oct 16, 1993",Florida State,40,Virginia,14,0
+310,8,"Oct 16, 1993",Fresno State,33,Air Force,20,0
+311,8,"Oct 16, 1993",Georgia,41,Vanderbilt,3,1
+312,8,"Oct 16, 1993",Illinois,49,Iowa,3,1
+313,8,"Oct 16, 1993",Kansas,35,Iowa State,20,0
+314,8,"Oct 16, 1993",Kentucky,35,LSU,17,0
+315,8,"Oct 16, 1993",Arkansas State,3,Louisiana,19,0
+316,8,"Oct 16, 1993",Louisville,35,Southern Miss,27,0
+317,8,"Oct 16, 1993",Maryland,26,Duke,18,0
+318,8,"Oct 16, 1993",Miami (OH),22,Toledo,19,1
+319,8,"Oct 16, 1993",Michigan,21,Penn State,13,1
+320,8,"Oct 16, 1993",Minnesota,28,Northwestern,26,1
+321,8,"Oct 16, 1993",Ole Miss,19,Arkansas,0,0
+322,8,"Oct 16, 1993",Mississippi State,23,South Carolina,0,0
+323,8,"Oct 16, 1993",Oklahoma State,9,Missouri,42,1
+324,8,"Oct 16, 1993",Navy,31,Colgate,3,0
+325,8,"Oct 16, 1993",Nebraska,45,Kansas State,28,0
+326,8,"Oct 16, 1993",Nevada,48,Utah State,44,1
+327,8,"Oct 16, 1993",North Carolina,41,Georgia Tech,3,1
+328,8,"Oct 16, 1993",NC State,24,Marshall,17,0
+329,8,"Oct 16, 1993",Northern Illinois,21,Pacific,16,0
+330,8,"Oct 16, 1993",Notre Dame,45,BYU,20,1
+331,8,"Oct 16, 1993",Ohio,15,Kent State,10,0
+332,8,"Oct 16, 1993",Ohio State,28,Michigan State,21,0
+333,8,"Oct 16, 1993",Oregon,45,Arizona State,36,1
+334,8,"Oct 16, 1993",Rutgers,45,Army,38,1
+335,8,"Oct 16, 1993",San Diego State,30,Colorado State,3,0
+336,8,"Oct 16, 1993",San Jose State,52,New Mexico State,13,1
+337,8,"Oct 16, 1993",Oregon State,9,USC,34,1
+338,8,"Oct 16, 1993",Houston,28,SMU,28,0
+339,8,"Oct 16, 1993",Syracuse,24,Pitt,21,1
+340,8,"Oct 16, 1993",Alabama,17,Tennessee,17,0
+341,8,"Oct 16, 1993",Texas A&M,34,Baylor,17,1
+342,8,"Oct 16, 1993",Tulane,7,TCU,14,1
+343,8,"Oct 16, 1993",Texas Tech,45,Rice,16,0
+344,8,"Oct 16, 1993",Tulsa,23,Memphis,19,1
+345,8,"Oct 16, 1993",UCLA,39,Washington,25,0
+346,8,"Oct 16, 1993",Utah,45,UTEP,29,1
+347,8,"Oct 16, 1993",Temple,7,Virginia Tech,55,1
+348,8,"Oct 16, 1993",Wake Forest,20,Clemson,16,1
+349,8,"Oct 16, 1993",California,7,Washington State,34,1
+350,8,"Oct 16, 1993",Wisconsin,42,Purdue,28,1
+351,9,"Oct 23, 1993",Air Force,35,Citadel,0,0
+352,9,"Oct 23, 1993",Temple,7,Akron,31,0
+353,9,"Oct 23, 1993",Alabama,19,Ole Miss,14,1
+354,9,"Oct 23, 1993",Arizona,9,Washington State,6,0
+355,9,"Oct 23, 1993",Arizona State,38,Stanford,30,1
+356,9,"Oct 23, 1993",Mississippi State,15,Arkansas State,15,0
+357,9,"Oct 23, 1993",Boston College,41,Army,14,0
+358,9,"Oct 23, 1993",Ball State,26,Bowling Green,26,0
+359,9,"Oct 23, 1993",Central Michigan,33,Kent State,28,1
+360,9,"Oct 23, 1993",Cincinnati,31,Toledo,24,1
+361,9,"Oct 23, 1993",Clemson,27,East Tennessee State,0,0
+362,9,"Oct 23, 1993",Kansas State,16,Colorado,16,0
+363,9,"Oct 23, 1993",Duke,21,Wake Forest,13,1
+364,9,"Oct 23, 1993",Fresno State,48,BYU,45,1
+365,9,"Oct 23, 1993",Georgia,33,Kentucky,28,0
+366,9,"Oct 23, 1993",Illinois,24,Michigan,21,1
+367,9,"Oct 23, 1993",Indiana,24,Northwestern,0,1
+368,9,"Oct 23, 1993",Iowa State,20,Oklahoma State,17,0
+369,9,"Oct 23, 1993",Louisiana,33,Northern Illinois,19,1
+370,9,"Oct 23, 1993",Louisville,28,Navy,0,0
+371,9,"Oct 23, 1993",Miami,49,Syracuse,0,0
+372,9,"Oct 23, 1993",Michigan State,24,Iowa,10,0
+373,9,"Oct 23, 1993",Minnesota,28,Wisconsin,21,0
+374,9,"Oct 23, 1993",Missouri,7,Nebraska,49,1
+375,9,"Oct 23, 1993",New Mexico State,27,Pacific,23,1
+376,9,"Oct 23, 1993",NC State,28,Georgia Tech,23,0
+377,9,"Oct 23, 1993",Notre Dame,31,USC,13,0
+378,9,"Oct 23, 1993",Ohio,22,Miami (OH),20,1
+379,9,"Oct 23, 1993",Ohio State,45,Purdue,24,1
+380,9,"Oct 23, 1993",Oklahoma,38,Kansas,23,0
+381,9,"Oct 23, 1993",San Diego State,20,New Mexico,17,0
+382,9,"Oct 23, 1993",Louisiana Tech,6,San Jose State,31,1
+383,9,"Oct 23, 1993",South Carolina,22,Vanderbilt,0,0
+384,9,"Oct 23, 1993",Southern Miss,24,East Carolina,16,0
+385,9,"Oct 23, 1993",Texas,37,SMU,10,0
+386,9,"Oct 23, 1993",Texas A&M,38,Rice,10,1
+387,9,"Oct 23, 1993",TCU,38,Baylor,13,1
+388,9,"Oct 23, 1993",UCLA,20,Oregon State,17,1
+389,9,"Oct 23, 1993",Utah,38,Colorado State,21,0
+390,9,"Oct 23, 1993",Utah State,33,UNLV,26,1
+391,9,"Oct 23, 1993",Virginia,17,North Carolina,10,0
+392,9,"Oct 23, 1993",Virginia Tech,49,Rutgers,42,0
+393,9,"Oct 23, 1993",Oregon,6,Washington,21,1
+394,9,"Oct 23, 1993",Weber State,47,Nevada,30,1
+395,9,"Oct 23, 1993",West Virginia,42,Pitt,21,0
+396,9,"Oct 23, 1993",Western Michigan,21,Eastern Michigan,20,1
+397,9,"Oct 23, 1993",Wyoming,48,Hawaii,10,0
+398,10,"Oct 28, 1993",Pitt,21,Rutgers,10,1
+399,10,"Oct 30, 1993",Air Force,31,UTEP,10,0
+400,10,"Oct 30, 1993",Alabama,40,Southern Miss,0,0
+401,10,"Oct 30, 1993",Arizona State,32,Washington,17,0
+402,10,"Oct 30, 1993",Auburn,31,Arkansas,21,1
+403,10,"Oct 30, 1993",Ball State,18,Eastern Michigan,13,1
+404,10,"Oct 30, 1993",Boston College,42,Tulane,14,0
+405,10,"Oct 30, 1993",Bowling Green,30,Miami (OH),25,1
+406,10,"Oct 30, 1993",Cincinnati,23,Memphis,20,0
+407,10,"Oct 30, 1993",Clemson,29,Maryland,0,0
+408,10,"Oct 30, 1993",Colorado State,21,New Mexico,20,0
+409,10,"Oct 30, 1993",Florida,33,Georgia,26,0
+410,10,"Oct 30, 1993",Florida State,54,Wake Forest,0,0
+411,10,"Oct 30, 1993",Georgia Tech,47,Duke,14,1
+412,10,"Oct 30, 1993",Illinois,20,Northwestern,13,0
+413,10,"Oct 30, 1993",Indiana,10,Michigan State,0,0
+414,10,"Oct 30, 1993",Iowa,26,Purdue,17,0
+415,10,"Oct 30, 1993",Oklahoma State,6,Kansas,13,0
+416,10,"Oct 30, 1993",Oklahoma,7,Kansas State,21,1
+417,10,"Oct 30, 1993",Kentucky,26,Mississippi State,17,1
+418,10,"Oct 30, 1993",Louisiana,24,San Jose State,13,0
+419,10,"Oct 30, 1993",LSU,19,Ole Miss,17,0
+420,10,"Oct 30, 1993",Louisiana Tech,17,Northern Illinois,16,0
+421,10,"Oct 30, 1993",Temple,7,Miami,42,1
+422,10,"Oct 30, 1993",Missouri,37,Iowa State,34,0
+423,10,"Oct 30, 1993",Nebraska,21,Colorado,17,1
+424,10,"Oct 30, 1993",Nevada,31,Pacific,23,1
+425,10,"Oct 30, 1993",New Mexico State,52,UNLV,40,1
+426,10,"Oct 30, 1993",NC State,34,Virginia,29,0
+427,10,"Oct 30, 1993",Notre Dame,58,Navy,27,0
+428,10,"Oct 30, 1993",Ohio,21,Akron,13,0
+429,10,"Oct 30, 1993",Penn State,6,Ohio State,24,1
+430,10,"Oct 30, 1993",Oregon,46,Washington State,23,0
+431,10,"Oct 30, 1993",USC,42,California,14,1
+432,10,"Oct 30, 1993",Stanford,31,Oregon State,27,0
+433,10,"Oct 30, 1993",Tennessee,55,South Carolina,3,0
+434,10,"Oct 30, 1993",Texas A&M,37,SMU,13,0
+435,10,"Oct 30, 1993",TCU,28,Houston,10,0
+436,10,"Oct 30, 1993",Texas Tech,31,Texas,22,1
+437,10,"Oct 30, 1993",Toledo,45,Kent State,27,1
+438,10,"Oct 30, 1993",Tulsa,38,Middle Tennessee,17,0
+439,10,"Oct 30, 1993",UCLA,37,Arizona,17,0
+440,10,"Oct 30, 1993",Utah,45,San Diego State,41,0
+441,10,"Oct 30, 1993",Utah State,58,BYU,56,0
+442,10,"Oct 30, 1993",Virginia Tech,31,East Carolina,12,0
+443,10,"Oct 30, 1993",West Virginia,43,Syracuse,0,1
+444,10,"Oct 30, 1993",Army,7,Western Michigan,20,0
+445,10,"Oct 30, 1993",Wisconsin,13,Michigan,10,0
+446,10,"Oct 30, 1993",Wyoming,32,Fresno State,28,0
+447,11,"Nov 4, 1993",Texas,34,Houston,16,1
+448,11,"Nov 6, 1993",Army,6,Air Force,25,1
+449,11,"Nov 6, 1993",Eastern Michigan,7,Akron,19,1
+450,11,"Nov 6, 1993",Arizona,31,Oregon,10,0
+451,11,"Nov 6, 1993",Arizona State,41,California,0,0
+452,11,"Nov 6, 1993",Auburn,55,New Mexico State,14,0
+453,11,"Nov 6, 1993",Ball State,21,Miami (OH),0,0
+454,11,"Nov 6, 1993",Boston College,48,Virginia Tech,34,0
+455,11,"Nov 6, 1993",Kent State,7,Bowling Green,40,1
+456,11,"Nov 6, 1993",Toledo,7,Central Michigan,38,0
+457,11,"Nov 6, 1993",Colorado,31,Oklahoma State,14,1
+458,11,"Nov 6, 1993",Duke,21,NC State,20,0
+459,11,"Nov 6, 1993",Florida,61,Louisiana,14,0
+460,11,"Nov 6, 1993",Florida State,49,Maryland,20,1
+461,11,"Nov 6, 1993",Fresno State,30,UTEP,10,0
+462,11,"Nov 6, 1993",Georgia Tech,37,Baylor,27,0
+463,11,"Nov 6, 1993",Hawaii,41,Utah,30,0
+464,11,"Nov 6, 1993",Illinois,23,Minnesota,20,0
+465,11,"Nov 6, 1993",Iowa,54,Northern Illinois,20,0
+466,11,"Nov 6, 1993",Iowa State,27,Kansas State,23,0
+467,11,"Nov 6, 1993",LSU,17,Alabama,13,1
+468,11,"Nov 6, 1993",Louisiana-Monroe,42,Arkansas State,10,1
+469,11,"Nov 6, 1993",Ole Miss,3,Memphis,19,1
+470,11,"Nov 6, 1993",Pitt,7,Miami,35,0
+471,11,"Nov 6, 1993",Michigan,25,Purdue,10,0
+472,11,"Nov 6, 1993",Michigan State,31,Northwestern,29,0
+473,11,"Nov 6, 1993",Arkansas,13,Mississippi State,13,0
+474,11,"Nov 6, 1993",Nebraska,21,Kansas,20,1
+475,11,"Nov 6, 1993",Nevada,46,San Jose State,45,0
+476,11,"Nov 6, 1993",UNLV,28,Louisiana Tech,23,1
+477,11,"Nov 6, 1993",New Mexico,39,Idaho State,13,0
+478,11,"Nov 6, 1993",North Carolina,24,Clemson,0,0
+479,11,"Nov 6, 1993",Wisconsin,14,Ohio State,14,0
+480,11,"Nov 6, 1993",Oklahoma,42,Missouri,23,1
+481,11,"Nov 6, 1993",Penn State,38,Indiana,31,0
+482,11,"Nov 6, 1993",Rice,31,SMU,24,1
+483,11,"Nov 6, 1993",USC,45,Stanford,20,0
+484,11,"Nov 6, 1993",Syracuse,52,Temple,3,0
+485,11,"Nov 6, 1993",Tennessee,45,Louisville,10,0
+486,11,"Nov 6, 1993",Texas Tech,49,TCU,21,0
+487,11,"Nov 6, 1993",Tulane,17,Southern Miss,15,1
+488,11,"Nov 6, 1993",Tulsa,52,East Carolina,26,1
+489,11,"Nov 6, 1993",UCLA,40,Washington State,27,1
+490,11,"Nov 6, 1993",Utah State,24,Pacific,21,0
+491,11,"Nov 6, 1993",Kentucky,7,Vanderbilt,12,1
+492,11,"Nov 6, 1993",Wake Forest,9,Virginia,21,1
+493,11,"Nov 6, 1993",Washington,28,Oregon State,21,1
+494,11,"Nov 6, 1993",West Virginia,58,Rutgers,22,0
+495,11,"Nov 6, 1993",Western Michigan,34,Ohio,28,1
+496,12,"Nov 11, 1993",BYU,45,San Diego State,44,1
+497,12,"Nov 13, 1993",Alabama,36,Mississippi State,25,0
+498,12,"Nov 13, 1993",Arizona State,9,UCLA,3,1
+499,12,"Nov 13, 1993",Arkansas,24,Tulsa,11,0
+500,12,"Nov 13, 1993",Army,35,Lafayette,12,0
+501,12,"Nov 13, 1993",Auburn,42,Georgia,28,1
+502,12,"Nov 13, 1993",Akron,9,Ball State,31,0
+503,12,"Nov 13, 1993",Baylor,38,Rice,14,0
+504,12,"Nov 13, 1993",Boston College,33,Pitt,0,1
+505,12,"Nov 13, 1993",California,24,Arizona,20,0
+506,12,"Nov 13, 1993",Central Michigan,17,Bowling Green,15,0
+507,12,"Nov 13, 1993",Cincinnati,41,Houston,17,1
+508,12,"Nov 13, 1993",Clemson,23,Virginia,14,0
+509,12,"Nov 13, 1993",Colorado,38,Kansas,14,0
+510,12,"Nov 13, 1993",Colorado State,52,UTEP,0,1
+511,12,"Nov 13, 1993",Florida,37,South Carolina,26,1
+512,12,"Nov 13, 1993",Fresno State,45,Hawaii,21,0
+513,12,"Nov 13, 1993",Georgia Tech,38,Wake Forest,28,1
+514,12,"Nov 13, 1993",Iowa,23,Northwestern,19,1
+515,12,"Nov 13, 1993",Kansas State,31,Missouri,21,0
+516,12,"Nov 13, 1993",Kentucky,6,East Carolina,3,0
+517,12,"Nov 13, 1993",Southern Miss,9,Memphis,20,1
+518,12,"Nov 13, 1993",Miami,31,Rutgers,17,0
+519,12,"Nov 13, 1993",Miami (OH),23,Kent State,14,1
+520,12,"Nov 13, 1993",Minnesota,7,Michigan,58,0
+521,12,"Nov 13, 1993",Michigan State,27,Purdue,24,1
+522,12,"Nov 13, 1993",Ole Miss,44,Northern Illinois,0,0
+523,12,"Nov 13, 1993",Nebraska,49,Iowa State,17,0
+524,12,"Nov 13, 1993",Nevada,34,New Mexico State,14,1
+525,12,"Nov 13, 1993",UNLV,28,San Jose State,14,1
+526,12,"Nov 13, 1993",Wyoming,7,New Mexico,10,1
+527,12,"Nov 13, 1993",North Carolina,42,Tulane,10,1
+528,12,"Nov 13, 1993",NC State,44,Maryland,21,0
+529,12,"Nov 13, 1993",Notre Dame,31,Florida State,24,0
+530,12,"Nov 13, 1993",Ohio,12,Eastern Michigan,10,1
+531,12,"Nov 13, 1993",Ohio State,23,Indiana,17,0
+532,12,"Nov 13, 1993",Oklahoma,31,Oklahoma State,0,0
+533,12,"Nov 13, 1993",Arkansas State,6,Pacific,20,1
+534,12,"Nov 13, 1993",Penn State,28,Illinois,14,0
+535,12,"Nov 13, 1993",USC,22,Washington,17,1
+536,12,"Nov 13, 1993",Stanford,38,Oregon,34,1
+537,12,"Nov 13, 1993",TCU,3,Texas,24,1
+538,12,"Nov 13, 1993",Louisville,7,Texas A&M,42,1
+539,12,"Nov 13, 1993",Texas Tech,41,SMU,24,1
+540,12,"Nov 13, 1993",Utah,41,Air Force,24,0
+541,12,"Nov 13, 1993",Utah State,24,Louisiana Tech,13,0
+542,12,"Nov 13, 1993",Navy,7,Vanderbilt,41,1
+543,12,"Nov 13, 1993",Virginia Tech,45,Syracuse,24,0
+544,12,"Nov 13, 1993",Temple,7,West Virginia,49,0
+545,12,"Nov 13, 1993",Western Michigan,39,Toledo,26,0
+546,13,"Nov 19, 1993",Toledo,14,Eastern Michigan,0,0
+547,13,"Nov 20, 1993",Arkansas State,23,Nevada,21,0
+548,13,"Nov 20, 1993",Auburn,22,Alabama,14,0
+549,13,"Nov 20, 1993",Kent State,3,Ball State,28,1
+550,13,"Nov 20, 1993",Boston College,41,Notre Dame,39,1
+551,13,"Nov 20, 1993",California,46,Stanford,17,1
+552,13,"Nov 20, 1993",UCF,38,Louisiana Tech,16,1
+553,13,"Nov 20, 1993",Cincinnati,34,East Carolina,14,0
+554,13,"Nov 20, 1993",Clemson,16,South Carolina,13,1
+555,13,"Nov 20, 1993",Colorado,21,Iowa State,16,1
+556,13,"Nov 20, 1993",Colorado State,41,Wyoming,21,1
+557,13,"Nov 20, 1993",Florida,52,Vanderbilt,0,0
+558,13,"Nov 20, 1993",Florida State,62,NC State,3,0
+559,13,"Nov 20, 1993",Fresno State,63,San Diego State,37,0
+560,13,"Nov 20, 1993",Hawaii,45,Air Force,17,0
+561,13,"Nov 20, 1993",Indiana,24,Purdue,17,0
+562,13,"Nov 20, 1993",Minnesota,3,Iowa,21,1
+563,13,"Nov 20, 1993",Kansas,28,Missouri,0,0
+564,13,"Nov 20, 1993",Kansas State,21,Oklahoma State,17,1
+565,13,"Nov 20, 1993",Louisiana,31,UNLV,14,1
+566,13,"Nov 20, 1993",LSU,24,Tulane,10,0
+567,13,"Nov 20, 1993",Maryland,33,Wake Forest,32,1
+568,13,"Nov 20, 1993",Miami (OH),24,Central Michigan,21,0
+569,13,"Nov 20, 1993",Michigan,28,Ohio State,0,0
+570,13,"Nov 20, 1993",New Mexico,35,UTEP,29,1
+571,13,"Nov 20, 1993",Oregon State,15,Oregon,12,1
+572,13,"Nov 20, 1993",Pacific,24,San Jose State,20,1
+573,13,"Nov 20, 1993",Penn State,43,Northwestern,21,1
+574,13,"Nov 20, 1993",Pitt,28,Temple,18,1
+575,13,"Nov 20, 1993",SMU,42,Navy,13,1
+576,13,"Nov 20, 1993",Tulsa,30,Southern Miss,30,0
+577,13,"Nov 20, 1993",Tennessee,48,Kentucky,0,1
+578,13,"Nov 20, 1993",Texas,38,Baylor,17,0
+579,13,"Nov 20, 1993",Texas A&M,59,TCU,3,1
+580,13,"Nov 20, 1993",Houston,7,Texas Tech,58,1
+581,13,"Nov 20, 1993",UCLA,27,USC,21,1
+582,13,"Nov 20, 1993",Utah,34,BYU,31,1
+583,13,"Nov 20, 1993",Utah State,20,New Mexico State,17,1
+584,13,"Nov 20, 1993",Virginia Tech,20,Virginia,17,1
+585,13,"Nov 20, 1993",Washington State,3,Washington,26,1
+586,13,"Nov 20, 1993",West Virginia,17,Miami,14,0
+587,13,"Nov 20, 1993",Bowling Green,14,Western Michigan,14,0
+588,13,"Nov 20, 1993",Wisconsin,35,Illinois,10,1
+589,13,"Nov 20, 1993",Youngstown State,19,Akron,0,1
+590,14,"Nov 25, 1993",Georgia,43,Georgia Tech,10,1
+591,14,"Nov 25, 1993",Louisville,28,Tulsa,0,1
+592,14,"Nov 25, 1993",Texas,9,Texas A&M,18,1
+593,14,"Nov 26, 1993",Arizona,34,Arizona State,20,1
+594,14,"Nov 26, 1993",Oklahoma,7,Nebraska,21,1
+595,14,"Nov 26, 1993",North Carolina,38,Duke,24,0
+596,14,"Nov 26, 1993",Houston,7,Rice,37,1
+597,14,"Nov 26, 1993",Syracuse,31,Rutgers,18,1
+598,14,"Nov 26, 1993",West Virginia,17,Boston College,14,1
+599,14,"Nov 27, 1993",Arkansas,42,LSU,24,1
+600,14,"Nov 27, 1993",BYU,47,UTEP,16,0
+601,14,"Nov 27, 1993",California,42,Hawaii,18,1
+602,14,"Nov 27, 1993",Florida State,33,Florida,21,1
+603,14,"Nov 27, 1993",Louisiana,21,Louisiana Tech,17,0
+604,14,"Nov 27, 1993",Miami,41,Memphis,17,0
+605,14,"Nov 27, 1993",Mississippi State,20,Ole Miss,13,0
+606,14,"Nov 27, 1993",Penn State,38,Michigan State,37,1
+607,14,"Nov 27, 1993",Tennessee,62,Vanderbilt,14,0
+608,14,"Nov 27, 1993",Wyoming,43,San Diego State,38,1
+609,15,"Dec 4, 1993",Army,16,Navy,14,0
+610,15,"Dec 4, 1993",Florida,28,Alabama,13,1
+611,15,"Dec 4, 1993",Hawaii,56,Tulane,17,0
+612,15,"Dec 5, 1993",Wisconsin,41,Michigan State,20,0
+613,16,"Dec 17, 1993",Utah State,42,Ball State,33,0
+614,17,"Dec 24, 1993",Oklahoma,41,Texas Tech,10,0
+615,17,"Dec 25, 1993",Colorado,41,Fresno State,30,0
+616,18,"Dec 28, 1993",Michigan State,7,Louisville,18,1
+617,18,"Dec 29, 1993",Kansas State,52,Wyoming,17,0
+618,18,"Dec 30, 1993",Ohio State,28,BYU,21,0
+619,18,"Dec 30, 1993",USC,28,Utah,21,0
+620,18,"Dec 31, 1993",Alabama,24,North Carolina,10,0
+621,18,"Dec 31, 1993",California,37,Iowa,3,0
+622,18,"Dec 31, 1993",Clemson,14,Kentucky,13,0
+623,18,"Dec 31, 1993",Virginia Tech,45,Indiana,20,0
+624,18,"Jan 1, 1994",Arizona,29,Miami,0,0
+625,18,"Jan 1, 1994",Boston College,31,Virginia,13,0
+626,18,"Jan 1, 1994",West Virginia,7,Florida,41,1
+627,18,"Jan 1, 1994",Florida State,18,Nebraska,16,0
+628,18,"Jan 1, 1994",NC State,7,Michigan,42,1
+629,18,"Jan 1, 1994",Notre Dame,24,Texas A&M,21,0
+630,18,"Jan 1, 1994",Penn State,31,Tennessee,13,0
+631,18,"Jan 1, 1994",Wisconsin,21,UCLA,16,1

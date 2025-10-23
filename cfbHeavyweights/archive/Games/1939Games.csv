@@ -1,0 +1,656 @@
+0,1,"Sep 16, 1939",Western New Mexico,12,Northern Arizona,12,0
+1,1,"Sep 16, 1939",Northwestern State,15,Centenary (LA),0,1
+2,1,"Sep 16, 1939",Wake Forest,34,Elon,0,0
+3,1,"Sep 17, 1939",St. Mary's (Texas),7,San Francisco,6,1
+4,2,"Sep 22, 1939",Central Michigan,7,Detroit Mercy,20,1
+5,2,"Sep 22, 1939",Erskine,7,Furman,38,1
+6,2,"Sep 22, 1939",Western New Mexico,7,New Mexico,29,1
+7,2,"Sep 22, 1939",Fort Hays State,7,New Mexico State,33,1
+8,2,"Sep 22, 1939",Washburn,27,Baker,0,1
+9,2,"Sep 23, 1939",Arizona,21,Pomona-Pitzer,0,0
+10,2,"Sep 23, 1939",Arizona State,20,San Diego State,0,1
+11,2,"Sep 23, 1939",East Central Oklahoma,6,Arkansas,32,1
+12,2,"Sep 23, 1939",BYU,25,Northern Arizona,0,1
+13,2,"Sep 23, 1939",Clemson,18,Presbyterian,0,0
+14,2,"Sep 23, 1939",Florida,21,Stetson,0,0
+15,2,"Sep 23, 1939",Iowa State,19,Coe,0,0
+16,2,"Sep 23, 1939",Mississippi State,45,Samford,0,0
+17,2,"Sep 23, 1939",North Carolina,50,Citadel,0,0
+18,2,"Sep 23, 1939",NC State,18,Davidson,14,0
+19,2,"Sep 23, 1939",Richmond,37,Newport News,0,1
+20,2,"Sep 23, 1939",Vanderbilt,13,Tennessee Tech,13,0
+21,2,"Sep 23, 1939",Texas A&M,32,Oklahoma State,0,1
+22,2,"Sep 23, 1939",UTEP,7,Texas Tech,2,0
+23,2,"Sep 23, 1939",Virginia,26,Hampden-Sydney,0,0
+24,2,"Sep 23, 1939",Virginia Military Institute,41,Roanoke,0,0
+25,2,"Sep 23, 1939",Virginia Tech,26,Randolph-Macon,0,0
+26,2,"Sep 23, 1939",South Carolina,7,Wake Forest,19,1
+27,2,"Sep 23, 1939",Gonzaga,6,Washington State,19,1
+28,2,"Sep 23, 1939",Guilford,6,William & Mary,31,1
+29,2,"Sep 24, 1939",San Francisco,6,San Jose State,16,0
+30,3,"Sep 28, 1939",Arkansas-Monticello,3,New Mexico State,12,0
+31,3,"Sep 29, 1939",Auburn,6,Birmingham-Southern,0,0
+32,3,"Sep 29, 1939",Catholic,12,South Carolina,0,1
+33,3,"Sep 29, 1939",Denver,6,Iowa State,0,0
+34,3,"Sep 29, 1939",Detroit Mercy,14,Western Michigan,0,0
+35,3,"Sep 29, 1939",Kansas,6,Drake,12,1
+36,3,"Sep 29, 1939",Duquesne,31,Illinois Wesleyan,0,0
+37,3,"Sep 29, 1939",Wyoming,7,New Mexico,34,1
+38,3,"Sep 29, 1939",Saint Louis,13,Missouri-Rolla,0,0
+39,3,"Sep 29, 1939",Syracuse,12,Clarkson,0,0
+40,3,"Sep 29, 1939",Tennessee,13,NC State,0,1
+41,3,"Sep 29, 1939",UCLA,6,TCU,2,0
+42,3,"Sep 30, 1939",Alabama,21,Samford,0,0
+43,3,"Sep 30, 1939",Arizona State,19,West Texas A&M,0,0
+44,3,"Sep 30, 1939",Furman,7,Army,16,1
+45,3,"Sep 30, 1939",Baylor,34,Southwestern (TX),0,0
+46,3,"Sep 30, 1939",Beloit,6,Chicago,0,1
+47,3,"Sep 30, 1939",Boston College,45,Lebanon Valley,0,0
+48,3,"Sep 30, 1939",Illinois,0,Bradley,0,0
+49,3,"Sep 30, 1939",Brown,34,Rhode Island,0,0
+50,3,"Sep 30, 1939",California,32,California-Davis,14,0
+51,3,"Sep 30, 1939",Carnegie Mellon,35,Wittenberg,0,1
+52,3,"Sep 30, 1939",Colorado Mines,19,Colorado State,14,1
+53,3,"Sep 30, 1939",Creighton,26,Northern Iowa,0,0
+54,3,"Sep 30, 1939",St. Lawrence,9,Dartmouth,41,1
+55,3,"Sep 30, 1939",Davidson,6,Duke,26,0
+56,3,"Sep 30, 1939",Waynesburg,7,Fordham,34,1
+57,3,"Sep 30, 1939",UTEP,7,Fresno State,10,1
+58,3,"Sep 30, 1939",Georgetown,3,Temple,2,1
+59,3,"Sep 30, 1939",Georgia,26,Citadel,0,0
+60,3,"Sep 30, 1939",Gettysburg,6,Bucknell,0,0
+61,3,"Sep 30, 1939",Hardin-Simmons,14,Howard Payne,0,0
+62,3,"Sep 30, 1939",Holy Cross,28,Manhattan,0,0
+63,3,"Sep 30, 1939",Idaho,7,Montana State,6,0
+64,3,"Sep 30, 1939",Iowa,41,South Dakota,0,0
+65,3,"Sep 30, 1939",Fort Hays State,7,Kansas State,34,1
+66,3,"Sep 30, 1939",Kentucky,21,Virginia Military Institute,0,0
+67,3,"Sep 30, 1939",Loyola Marymount,6,Redlands,0,0
+68,3,"Sep 30, 1939",Marshall,20,Virginia Tech,0,0
+69,3,"Sep 30, 1939",Maryland,25,Hampden-Sydney,0,0
+70,3,"Sep 30, 1939",Michigan State,16,Wayne State,0,0
+71,3,"Sep 30, 1939",Minnesota,62,Arizona,0,0
+72,3,"Sep 30, 1939",LSU,7,Ole Miss,14,0
+73,3,"Sep 30, 1939",Mississippi State,19,Arkansas,0,0
+74,3,"Sep 30, 1939",Missouri,30,Colorado,0,0
+75,3,"Sep 30, 1939",Montana,9,Portland,0,0
+76,3,"Sep 30, 1939",William & Mary,6,Navy,31,1
+77,3,"Sep 30, 1939",Indiana,7,Nebraska,7,0
+78,3,"Sep 30, 1939",New York University,7,Colgate,6,1
+79,3,"Sep 30, 1939",Wake Forest,6,North Carolina,36,1
+80,3,"Sep 30, 1939",Northern Arizona,9,Nevada,7,0
+81,3,"Sep 30, 1939",Northwest Missouri State,9,Washington (MO),7,0
+82,3,"Sep 30, 1939",Notre Dame,3,Purdue,0,0
+83,3,"Sep 30, 1939",Oklahoma State,52,Northwestern Oklahoma State,0,0
+84,3,"Sep 30, 1939",USC,7,Oregon,7,0
+85,3,"Sep 30, 1939",Oregon State,12,Stanford,0,1
+86,3,"Sep 30, 1939",Pacific,6,California,0,1
+87,3,"Sep 30, 1939",Washington,6,Pitt,27,0
+88,3,"Sep 30, 1939",Rhodes,32,Memphis,0,0
+89,3,"Sep 30, 1939",Richmond,26,Randolph-Macon,0,0
+90,3,"Sep 30, 1939",Utah,7,Santa Clara,7,0
+91,3,"Sep 30, 1939",Oklahoma,7,SMU,7,0
+92,3,"Sep 30, 1939",Texas,12,Florida,0,0
+93,3,"Sep 30, 1939",Texas A&M,14,Centenary (LA),0,0
+94,3,"Sep 30, 1939",Texas Tech,30,Texas Wesleyan,0,0
+95,3,"Sep 30, 1939",Tulane,7,Clemson,6,0
+96,3,"Sep 30, 1939",Wichita State,6,Tulsa,23,1
+97,3,"Sep 30, 1939",Utah State,33,Albertson,0,0
+98,3,"Sep 30, 1939",Vanderbilt,13,Rice,12,1
+99,3,"Sep 30, 1939",Villanova,14,Muhlenberg,0,0
+100,3,"Sep 30, 1939",Washburn,12,Emporia State,0,0
+101,3,"Sep 30, 1939",Washington & Lee,9,Sewanee,0,0
+102,3,"Sep 30, 1939",West Virginia,44,West Virginia Wesleyan,0,0
+103,3,"Sep 30, 1939",Wisconsin,14,Marquette,13,0
+104,3,"Oct 1, 1939",Saint Mary's (CA),19,Gonzaga,0,0
+105,4,"Oct 6, 1939",St. Joseph's (Pennsylvania),6,Boston College,20,1
+106,4,"Oct 6, 1939",Saint Louis,0,Bradley,0,0
+107,4,"Oct 6, 1939",Duquesne,20,Waynesburg,0,0
+108,4,"Oct 6, 1939",Kansas State,3,Marquette,0,1
+109,4,"Oct 6, 1939",New Mexico,7,Denver,6,1
+110,4,"Oct 6, 1939",Loyola Marymount,13,Pacific,13,0
+111,4,"Oct 6, 1939",Villanova,40,South Carolina,0,0
+112,4,"Oct 6, 1939",Wake Forest,33,Miami,0,1
+113,4,"Oct 7, 1939",Alabama,7,Fordham,6,1
+114,4,"Oct 7, 1939",Arizona State,35,Cal Poly,0,0
+115,4,"Oct 7, 1939",Arkansas,14,TCU,13,0
+116,4,"Oct 7, 1939",Army,9,Centre,6,0
+117,4,"Oct 7, 1939",Baylor,13,Oklahoma State,0,1
+118,4,"Oct 7, 1939",BYU,13,Colorado State,12,0
+119,4,"Oct 7, 1939",Brown,20,Amherst,14,0
+120,4,"Oct 7, 1939",Carnegie Mellon,6,Temple,0,1
+121,4,"Oct 7, 1939",Wabash,2,Chicago,12,1
+122,4,"Oct 7, 1939",Presbyterian,7,Citadel,12,1
+123,4,"Oct 7, 1939",NC State,6,Clemson,25,1
+124,4,"Oct 7, 1939",Syracuse,6,Cornell,19,1
+125,4,"Oct 7, 1939",Hampden-Sydney,6,Dartmouth,34,1
+126,4,"Oct 7, 1939",Drake,13,Grinnell,0,0
+127,4,"Oct 7, 1939",Duke,37,Colgate,0,0
+128,4,"Oct 7, 1939",Furman,20,Georgia,0,0
+129,4,"Oct 7, 1939",George Washington,19,Davis & Elkins,0,0
+130,4,"Oct 7, 1939",Georgetown,25,Roanoke,0,0
+131,4,"Oct 7, 1939",Gonzaga,6,Texas Tech,0,1
+132,4,"Oct 7, 1939",Hardin-Simmons,12,UTEP,0,1
+133,4,"Oct 7, 1939",Harvard,20,Bates,0,0
+134,4,"Oct 7, 1939",Iowa,32,Indiana,29,0
+135,4,"Oct 7, 1939",Kansas,14,Iowa State,0,0
+136,4,"Oct 7, 1939",Kentucky,21,Vanderbilt,13,1
+137,4,"Oct 7, 1939",Holy Cross,7,LSU,26,0
+138,4,"Oct 7, 1939",Manhattan,6,St. Bonaventure,0,0
+139,4,"Oct 7, 1939",Maryland,12,Western Maryland,0,0
+140,4,"Oct 7, 1939",Michigan,26,Michigan State,13,0
+141,4,"Oct 7, 1939",Ole Miss,41,Rhodes,0,1
+142,4,"Oct 7, 1939",Mississippi State,14,Florida,0,1
+143,4,"Oct 7, 1939",Navy,14,Virginia,12,0
+144,4,"Oct 7, 1939",Nebraska,6,Minnesota,0,0
+145,4,"Oct 7, 1939",New Mexico State,25,Northern Arizona,13,1
+146,4,"Oct 7, 1939",New York University,43,Pennsylvania Military,0,0
+147,4,"Oct 7, 1939",Virginia Tech,6,North Carolina,13,1
+148,4,"Oct 7, 1939",Notre Dame,17,Georgia Tech,14,0
+149,4,"Oct 7, 1939",Ohio State,19,Missouri,0,0
+150,4,"Oct 7, 1939",Oklahoma,23,Northwestern,0,1
+151,4,"Oct 7, 1939",Oregon,10,Stanford,0,0
+152,4,"Oct 7, 1939",Oregon State,7,Idaho,6,0
+153,4,"Oct 7, 1939",Bucknell,3,Penn State,13,1
+154,4,"Oct 7, 1939",Pennsylvania,6,Lafayette,0,0
+155,4,"Oct 7, 1939",Pitt,20,West Virginia,0,0
+156,4,"Oct 7, 1939",Williams,6,Princeton,26,1
+157,4,"Oct 7, 1939",Rice,13,Centenary (LA),0,0
+158,4,"Oct 7, 1939",Richmond,7,Washington & Lee,0,1
+159,4,"Oct 7, 1939",Saint Mary's (CA),7,California,3,1
+160,4,"Oct 7, 1939",Montana,7,San Francisco,12,0
+161,4,"Oct 7, 1939",USC,27,Washington State,0,0
+162,4,"Oct 7, 1939",SMU,16,North Texas,0,0
+163,4,"Oct 7, 1939",Tennessee,40,Sewanee,0,0
+164,4,"Oct 7, 1939",Wisconsin,7,Texas,17,0
+165,4,"Oct 7, 1939",Texas A&M,7,Santa Clara,3,1
+166,4,"Oct 7, 1939",Tulane,12,Auburn,0,0
+167,4,"Oct 7, 1939",Tulsa,21,Creighton,14,1
+168,4,"Oct 7, 1939",Washington,7,UCLA,14,0
+169,4,"Oct 7, 1939",Utah,60,Wyoming,0,0
+170,4,"Oct 7, 1939",Colorado,6,Utah State,16,0
+171,4,"Oct 7, 1939",Virginia Military Institute,2,Davidson,0,0
+172,4,"Oct 7, 1939",Washburn,26,Washington (MO),20,0
+173,4,"Oct 7, 1939",Newport News,6,William & Mary,39,0
+174,4,"Oct 7, 1939",Columbia,7,Yale,10,1
+175,5,"Oct 12, 1939",Florida,7,Boston College,0,1
+176,5,"Oct 12, 1939",New Mexico,14,UTEP,0,0
+177,5,"Oct 13, 1939",Wyoming,7,Denver,32,1
+178,5,"Oct 13, 1939",Gonzaga,19,Idaho,0,0
+179,5,"Oct 13, 1939",Saint Louis,7,Wichita State,0,0
+180,5,"Oct 13, 1939",South Carolina,7,Davidson,0,0
+181,5,"Oct 13, 1939",Colorado College,6,Washburn,22,1
+182,5,"Oct 14, 1939",Alabama,20,Mercer,0,0
+183,5,"Oct 14, 1939",New Mexico State,3,Arizona,20,1
+184,5,"Oct 14, 1939",Arizona State,28,Whittier,0,0
+185,5,"Oct 14, 1939",Columbia,6,Army,6,0
+186,5,"Oct 14, 1939",Auburn,7,Mississippi State,0,0
+187,5,"Oct 14, 1939",Arkansas,7,Baylor,19,1
+188,5,"Oct 14, 1939",Bucknell,15,Albright,0,0
+189,5,"Oct 14, 1939",George Washington,6,Butler,13,1
+190,5,"Oct 14, 1939",Carnegie Mellon,21,Case,0,1
+191,5,"Oct 14, 1939",Catholic,14,Detroit Mercy,13,0
+192,5,"Oct 14, 1939",Colgate,10,Brown,0,0
+193,5,"Oct 14, 1939",Princeton,7,Cornell,20,0
+194,5,"Oct 14, 1939",Creighton,7,Drake,0,0
+195,5,"Oct 14, 1939",Navy,0,Dartmouth,0,0
+196,5,"Oct 14, 1939",Saint Mary's (CA),6,Dayton,6,0
+197,5,"Oct 14, 1939",Duquesne,7,Manhattan,0,1
+198,5,"Oct 14, 1939",Fresno State,21,San Francisco,2,0
+199,5,"Oct 14, 1939",Furman,7,Citadel,0,1
+200,5,"Oct 14, 1939",Syracuse,13,Georgetown,13,0
+201,5,"Oct 14, 1939",Georgia Tech,35,Samford,0,0
+202,5,"Oct 14, 1939",Hampden-Sydney,32,Guilford,0,0
+203,5,"Oct 14, 1939",Hardin-Simmons,18,West Texas A&M,13,0
+204,5,"Oct 14, 1939",Harvard,61,Chicago,0,1
+205,5,"Oct 14, 1939",Holy Cross,13,Georgia,0,1
+206,5,"Oct 14, 1939",Indiana,14,Wisconsin,0,1
+207,5,"Oct 14, 1939",Kansas,7,Colorado State,0,1
+208,5,"Oct 14, 1939",Kansas State,20,Colorado,0,0
+209,5,"Oct 14, 1939",Kentucky,59,Oglethorpe,0,0
+210,5,"Oct 14, 1939",LSU,7,Rice,0,0
+211,5,"Oct 14, 1939",Marquette,17,Michigan State,14,1
+212,5,"Oct 14, 1939",Tampa,7,Miami,32,0
+213,5,"Oct 14, 1939",Iowa,7,Michigan,27,1
+214,5,"Oct 14, 1939",Ole Miss,34,Centenary (LA),0,1
+215,5,"Oct 14, 1939",Missouri,14,Washington (MO),0,1
+216,5,"Oct 14, 1939",Montana,6,Montana State,0,0
+217,5,"Oct 14, 1939",Iowa State,7,Nebraska,10,0
+218,5,"Oct 14, 1939",New York University,7,North Carolina,14,1
+219,5,"Oct 14, 1939",Notre Dame,20,SMU,19,0
+220,5,"Oct 14, 1939",Ohio State,13,Northwestern,0,0
+221,5,"Oct 14, 1939",Oklahoma,24,Texas,12,0
+222,5,"Oct 14, 1939",Oklahoma State,9,Tulsa,7,1
+223,5,"Oct 14, 1939",Oregon,6,California,0,1
+224,5,"Oct 14, 1939",Oregon State,14,Portland,12,1
+225,5,"Oct 14, 1939",Lehigh,7,Penn State,49,1
+226,5,"Oct 14, 1939",Pennsylvania,6,Yale,0,1
+227,5,"Oct 14, 1939",Pitt,14,Duke,13,0
+228,5,"Oct 14, 1939",Minnesota,13,Purdue,13,0
+229,5,"Oct 14, 1939",Rutgers,6,Richmond,6,0
+230,5,"Oct 14, 1939",Santa Clara,41,Loyola Marymount,0,1
+231,5,"Oct 14, 1939",USC,26,Illinois,0,0
+232,5,"Oct 14, 1939",Temple,13,TCU,11,0
+233,5,"Oct 14, 1939",Tennessee,28,Chattanooga,0,1
+234,5,"Oct 14, 1939",Villanova,7,Texas A&M,33,1
+235,5,"Oct 14, 1939",Texas Tech,54,Northern Arizona,0,0
+236,5,"Oct 14, 1939",Tulane,7,Fordham,0,0
+237,5,"Oct 14, 1939",Stanford,14,UCLA,14,0
+238,5,"Oct 14, 1939",Utah,35,BYU,13,1
+239,5,"Oct 14, 1939",Maryland,7,Virginia,12,1
+240,5,"Oct 14, 1939",Virginia Military Institute,20,Vanderbilt,13,1
+241,5,"Oct 14, 1939",Wake Forest,32,NC State,0,1
+242,5,"Oct 14, 1939",Rhodes,7,Washington & Lee,7,0
+243,5,"Oct 14, 1939",Washington State,6,Washington,0,0
+244,5,"Oct 14, 1939",West Virginia,7,Cincinnati,0,1
+245,6,"Oct 17, 1939",William & Mary,6,Virginia Tech,6,0
+246,6,"Oct 19, 1939",Clemson,27,South Carolina,0,1
+247,6,"Oct 20, 1939",Arizona State,7,New Mexico State,0,1
+248,6,"Oct 20, 1939",Rollins,6,Miami,14,1
+249,6,"Oct 20, 1939",Washington (MO),42,Creighton,12,0
+250,6,"Oct 21, 1939",Loyola Marymount,7,Arizona,25,1
+251,6,"Oct 21, 1939",Boston College,19,Temple,0,0
+252,6,"Oct 21, 1939",BYU,7,Nevada,0,1
+253,6,"Oct 21, 1939",Washington State,7,California,13,1
+254,6,"Oct 21, 1939",Colgate,31,St. Lawrence,0,0
+255,6,"Oct 21, 1939",Colorado,13,Colorado State,0,0
+256,6,"Oct 21, 1939",Cornell,47,Penn State,0,0
+257,6,"Oct 21, 1939",Dartmouth,14,Lafayette,0,0
+258,6,"Oct 21, 1939",Denver,7,Utah State,0,1
+259,6,"Oct 21, 1939",NC State,6,Detroit Mercy,21,1
+260,6,"Oct 21, 1939",Drake,7,Iowa State,0,0
+261,6,"Oct 21, 1939",Syracuse,6,Duke,33,1
+262,6,"Oct 21, 1939",Duquesne,21,Pitt,13,1
+263,6,"Oct 21, 1939",Florida,7,Tampa,0,0
+264,6,"Oct 21, 1939",Citadel,7,George Washington,13,0
+265,6,"Oct 21, 1939",Bucknell,7,Georgetown,13,0
+266,6,"Oct 21, 1939",Vanderbilt,6,Georgia Tech,14,1
+267,6,"Oct 21, 1939",Oregon,7,Gonzaga,12,0
+268,6,"Oct 21, 1939",Hardin-Simmons,33,St. Edward's,3,0
+269,6,"Oct 21, 1939",Holy Cross,20,Brown,0,1
+270,6,"Oct 21, 1939",Indiana,7,Illinois,6,1
+271,6,"Oct 21, 1939",Georgia,6,Kentucky,13,1
+272,6,"Oct 21, 1939",LSU,20,Loyola (LA),0,0
+273,6,"Oct 21, 1939",Manhattan,7,Auburn,0,0
+274,6,"Oct 21, 1939",Michigan,85,Chicago,0,1
+275,6,"Oct 21, 1939",Ole Miss,42,Saint Louis,0,0
+276,6,"Oct 21, 1939",Mississippi State,37,Rhodes,0,0
+277,6,"Oct 21, 1939",Missouri,9,Kansas State,7,0
+278,6,"Oct 21, 1939",Nebraska,20,Baylor,0,0
+279,6,"Oct 21, 1939",New York University,6,Carnegie Mellon,0,0
+280,6,"Oct 21, 1939",Tulane,14,North Carolina,14,0
+281,6,"Oct 21, 1939",Wisconsin,7,Northwestern,13,1
+282,6,"Oct 21, 1939",Navy,7,Notre Dame,14,1
+283,6,"Oct 21, 1939",Ohio State,23,Minnesota,20,1
+284,6,"Oct 21, 1939",Kansas,7,Oklahoma,27,1
+285,6,"Oct 21, 1939",Washburn,6,Oklahoma State,27,0
+286,6,"Oct 21, 1939",Washington,7,Oregon State,13,0
+287,6,"Oct 21, 1939",Harvard,7,Pennsylvania,22,0
+288,6,"Oct 21, 1939",Columbia,7,Princeton,14,0
+289,6,"Oct 21, 1939",Michigan State,7,Purdue,20,1
+290,6,"Oct 21, 1939",Richmond,21,Gettysburg,0,0
+291,6,"Oct 21, 1939",Rutgers,25,Maryland,12,0
+292,6,"Oct 21, 1939",Sam Houston,9,Rice,8,1
+293,6,"Oct 21, 1939",San Francisco,13,Santa Clara,13,0
+294,6,"Oct 21, 1939",Sewanee,9,Tennessee Tech,7,0
+295,6,"Oct 21, 1939",SMU,16,Marquette,0,0
+296,6,"Oct 21, 1939",Tennessee,21,Alabama,0,0
+297,6,"Oct 21, 1939",Texas,14,Arkansas,13,0
+298,6,"Oct 21, 1939",TCU,6,Texas A&M,20,0
+299,6,"Oct 21, 1939",New Mexico,7,Texas Tech,19,1
+300,6,"Oct 21, 1939",UTEP,14,Wichita State,0,0
+301,6,"Oct 21, 1939",Centenary (LA),7,Tulsa,15,1
+302,6,"Oct 21, 1939",Montana,6,UCLA,20,1
+303,6,"Oct 21, 1939",Utah,35,Idaho,0,1
+304,6,"Oct 21, 1939",Virginia Military Institute,16,Virginia,13,0
+305,6,"Oct 21, 1939",Wake Forest,66,Western Maryland,0,0
+306,6,"Oct 21, 1939",Washington & Lee,9,West Virginia,0,0
+307,6,"Oct 21, 1939",Whittier,27,Northern Arizona,13,1
+308,6,"Oct 21, 1939",William & Mary,26,Hampden-Sydney,0,0
+309,6,"Oct 21, 1939",Yale,20,Army,15,0
+310,7,"Oct 27, 1939",Western State,6,BYU,18,0
+311,7,"Oct 27, 1939",Catholic,14,Miami,0,1
+312,7,"Oct 27, 1939",Duquesne,13,Texas Tech,0,0
+313,7,"Oct 27, 1939",New Mexico,33,Northern Arizona,0,0
+314,7,"Oct 27, 1939",Virginia Tech,28,Centre,0,0
+315,7,"Oct 27, 1939",Washburn,20,St. Benedict,14,1
+316,7,"Oct 27, 1939",South Carolina,6,West Virginia,6,0
+317,7,"Oct 28, 1939",Alabama,7,Mississippi State,0,0
+318,7,"Oct 28, 1939",UTEP,7,Arizona State,27,1
+319,7,"Oct 28, 1939",Army,46,Ursinus,13,0
+320,7,"Oct 28, 1939",Boston College,28,St. Anselm,0,0
+321,7,"Oct 28, 1939",Navy,7,Clemson,15,0
+322,7,"Oct 28, 1939",Wyoming,7,Colorado,27,0
+323,7,"Oct 28, 1939",Colorado State,9,Utah State,0,1
+324,7,"Oct 28, 1939",Virginia Military Institute,7,Columbia,26,1
+325,7,"Oct 28, 1939",Cornell,23,Ohio State,14,1
+326,7,"Oct 28, 1939",Creighton,21,Loyola (LA),13,0
+327,7,"Oct 28, 1939",Dartmouth,16,Harvard,0,1
+328,7,"Oct 28, 1939",Tulsa,7,Detroit Mercy,16,0
+329,7,"Oct 28, 1939",Drake,12,Saint Louis,0,1
+330,7,"Oct 28, 1939",Duke,6,Wake Forest,0,0
+331,7,"Oct 28, 1939",Florida,14,Maryland,0,1
+332,7,"Oct 28, 1939",Fordham,27,Pitt,13,0
+333,7,"Oct 28, 1939",Furman,15,Davidson,0,1
+334,7,"Oct 28, 1939",Georgetown,7,George Washington,0,0
+335,7,"Oct 28, 1939",Georgia Tech,7,Auburn,6,0
+336,7,"Oct 28, 1939",Delaware,6,Hampden-Sydney,26,0
+337,7,"Oct 28, 1939",Colgate,7,Holy Cross,27,1
+338,7,"Oct 28, 1939",Iowa,19,Wisconsin,13,1
+339,7,"Oct 28, 1939",Kentucky,21,Xavier,0,1
+340,7,"Oct 28, 1939",Vanderbilt,6,LSU,12,0
+341,7,"Oct 28, 1939",Loyola Marymount,6,Hardin-Simmons,0,0
+342,7,"Oct 28, 1939",Arizona,6,Marquette,13,1
+343,7,"Oct 28, 1939",Yale,7,Michigan,27,1
+344,7,"Oct 28, 1939",Illinois Wesleyan,6,Michigan State,13,1
+345,7,"Oct 28, 1939",Iowa State,6,Missouri,21,0
+346,7,"Oct 28, 1939",Montana,13,Idaho,0,1
+347,7,"Oct 28, 1939",Kansas State,9,Nebraska,25,0
+348,7,"Oct 28, 1939",New York University,14,Georgia,13,0
+349,7,"Oct 28, 1939",Pennsylvania,6,North Carolina,30,0
+350,7,"Oct 28, 1939",Northwestern,13,Illinois,0,0
+351,7,"Oct 28, 1939",Notre Dame,7,Carnegie Mellon,6,1
+352,7,"Oct 28, 1939",Oklahoma,41,Oklahoma State,0,0
+353,7,"Oct 28, 1939",Oregon State,13,Washington State,0,0
+354,7,"Oct 28, 1939",Syracuse,6,Penn State,6,0
+355,7,"Oct 28, 1939",Princeton,26,Brown,12,0
+356,7,"Oct 28, 1939",Richmond,19,Citadel,0,0
+357,7,"Oct 28, 1939",San Francisco,7,Saint Mary's (CA),0,0
+358,7,"Oct 28, 1939",Purdue,6,Santa Clara,13,1
+359,7,"Oct 28, 1939",Sewanee,6,Rhodes,0,1
+360,7,"Oct 28, 1939",USC,26,California,0,1
+361,7,"Oct 28, 1939",Temple,16,Bucknell,0,0
+362,7,"Oct 28, 1939",Tennessee,17,Mercer,0,0
+363,7,"Oct 28, 1939",Texas,26,Rice,12,0
+364,7,"Oct 28, 1939",Texas A&M,20,Baylor,0,0
+365,7,"Oct 28, 1939",TCU,21,Centenary (LA),0,1
+366,7,"Oct 28, 1939",Ole Miss,6,Tulane,18,1
+367,7,"Oct 28, 1939",Oregon,6,UCLA,16,1
+368,7,"Oct 28, 1939",Denver,7,Utah,7,0
+369,7,"Oct 28, 1939",Villanova,7,Arkansas,0,0
+370,7,"Oct 28, 1939",William & Mary,6,Virginia,26,1
+371,7,"Oct 28, 1939",Washington,8,Stanford,5,0
+372,7,"Oct 28, 1939",Washington & Lee,6,Virginia Tech,0,0
+373,7,"Oct 28, 1939",Butler,6,Washington (MO),6,0
+374,8,"Nov 3, 1939",George Washington,6,Clemson,13,0
+375,8,"Nov 3, 1939",Mercer,9,Georgia,16,1
+376,8,"Nov 3, 1939",Miami,19,Texas Tech,0,0
+377,8,"Nov 3, 1939",Rhodes,20,Loyola (LA),0,1
+378,8,"Nov 4, 1939",Arizona,7,Centenary (LA),0,0
+379,8,"Nov 4, 1939",Baylor,27,TCU,0,0
+380,8,"Nov 4, 1939",Auburn,7,Boston College,13,1
+381,8,"Nov 4, 1939",BYU,21,Denver,18,1
+382,8,"Nov 4, 1939",Tufts,7,Brown,54,1
+383,8,"Nov 4, 1939",Western Maryland,6,Bucknell,32,1
+384,8,"Nov 4, 1939",Tulsa,7,Catholic,13,1
+385,8,"Nov 4, 1939",Sewanee,7,Chattanooga,10,1
+386,8,"Nov 4, 1939",Colorado,21,Utah,14,1
+387,8,"Nov 4, 1939",Colorado State,22,Wyoming,0,0
+388,8,"Nov 4, 1939",Columbia,7,Cornell,13,1
+389,8,"Nov 4, 1939",Dartmouth,33,Yale,0,1
+390,8,"Nov 4, 1939",Davidson,22,Citadel,14,0
+391,8,"Nov 4, 1939",Washburn,7,Drake,20,1
+392,8,"Nov 4, 1939",Duke,7,Georgia Tech,6,1
+393,8,"Nov 4, 1939",Duquesne,21,Marquette,13,0
+394,8,"Nov 4, 1939",Rice,7,Fordham,13,1
+395,8,"Nov 4, 1939",Georgetown,14,West Virginia,0,0
+396,8,"Nov 4, 1939",Arizona State,7,Hardin-Simmons,19,1
+397,8,"Nov 4, 1939",Holy Cross,46,Providence,0,0
+398,8,"Nov 4, 1939",Utah State,7,Idaho,19,1
+399,8,"Nov 4, 1939",Michigan,7,Illinois,16,1
+400,8,"Nov 4, 1939",Iowa,4,Purdue,0,1
+401,8,"Nov 4, 1939",Kansas,6,Kansas State,27,0
+402,8,"Nov 4, 1939",Alabama,7,Kentucky,7,0
+403,8,"Nov 4, 1939",Manhattan,26,Boston University,0,1
+404,8,"Nov 4, 1939",Syracuse,3,Michigan State,14,0
+405,8,"Nov 4, 1939",Vanderbilt,7,Ole Miss,14,1
+406,8,"Nov 4, 1939",Mississippi State,28,Birmingham-Southern,0,0
+407,8,"Nov 4, 1939",Missouri,27,Nebraska,13,0
+408,8,"Nov 4, 1939",New York University,14,Lafayette,0,0
+409,8,"Nov 4, 1939",North Carolina,17,NC State,0,0
+410,8,"Nov 4, 1939",Minnesota,7,Northwestern,14,0
+411,8,"Nov 4, 1939",Notre Dame,14,Army,0,1
+412,8,"Nov 4, 1939",Ohio State,24,Indiana,0,0
+413,8,"Nov 4, 1939",Iowa State,6,Oklahoma,38,1
+414,8,"Nov 4, 1939",Oklahoma State,20,New Mexico State,0,0
+415,8,"Nov 4, 1939",Oregon,38,Washington State,0,0
+416,8,"Nov 4, 1939",Penn State,12,Maryland,0,0
+417,8,"Nov 4, 1939",Navy,6,Pennsylvania,13,1
+418,8,"Nov 4, 1939",Temple,7,Pitt,13,0
+419,8,"Nov 4, 1939",Portland,14,Saint Mary's (CA),12,1
+420,8,"Nov 4, 1939",Princeton,9,Harvard,6,0
+421,8,"Nov 4, 1939",Saint Louis,21,Creighton,14,1
+422,8,"Nov 4, 1939",Stanford,7,Santa Clara,27,0
+423,8,"Nov 4, 1939",South Carolina,6,Florida,0,0
+424,8,"Nov 4, 1939",Oregon State,7,USC,19,0
+425,8,"Nov 4, 1939",SMU,10,Texas,0,0
+426,8,"Nov 4, 1939",Tennessee,20,LSU,0,1
+427,8,"Nov 4, 1939",Texas A&M,27,Arkansas,0,1
+428,8,"Nov 4, 1939",California,7,UCLA,20,1
+429,8,"Nov 4, 1939",Detroit Mercy,6,Villanova,13,0
+430,8,"Nov 4, 1939",Virginia,47,Chicago,0,0
+431,8,"Nov 4, 1939",Richmond,0,Virginia Military Institute,0,0
+432,8,"Nov 4, 1939",Furman,7,Virginia Tech,20,1
+433,8,"Nov 4, 1939",Wake Forest,14,Marshall,13,1
+434,8,"Nov 4, 1939",Washington,9,Montana,0,0
+435,8,"Nov 4, 1939",Washington & Lee,6,Washington (MO),12,1
+436,8,"Nov 5, 1939",Loyola Marymount,7,San Francisco,14,0
+437,9,"Nov 10, 1939",Drake,6,Miami,33,1
+438,9,"Nov 10, 1939",New Mexico,9,New Mexico State,6,1
+439,9,"Nov 10, 1939",Wyoming,6,Saint Louis,39,1
+440,9,"Nov 10, 1939",Virginia,7,Washington & Lee,0,1
+441,9,"Nov 11, 1939",Northern Arizona,6,Arizona State,41,1
+442,9,"Nov 11, 1939",Rice,12,Arkansas,12,0
+443,9,"Nov 11, 1939",Villanova,9,Auburn,10,1
+444,9,"Nov 11, 1939",Baylor,20,Texas,0,0
+445,9,"Nov 11, 1939",Boston College,20,Detroit Mercy,13,1
+446,9,"Nov 11, 1939",Utah State,0,BYU,0,0
+447,9,"Nov 11, 1939",Yale,14,Brown,14,0
+448,9,"Nov 11, 1939",Wake Forest,7,Clemson,20,1
+449,9,"Nov 11, 1939",Columbia,19,Navy,13,1
+450,9,"Nov 11, 1939",Cornell,14,Colgate,12,0
+451,9,"Nov 11, 1939",Colorado State,6,Denver,13,1
+452,9,"Nov 11, 1939",Virginia Military Institute,7,Duke,20,0
+453,9,"Nov 11, 1939",Duquesne,7,NC State,0,1
+454,9,"Nov 11, 1939",Fordham,13,Indiana,0,0
+455,9,"Nov 11, 1939",Furman,20,South Carolina,0,1
+456,9,"Nov 11, 1939",Georgetown,20,Maryland,0,0
+457,9,"Nov 11, 1939",Georgia,6,Florida,2,0
+458,9,"Nov 11, 1939",Kentucky,6,Georgia Tech,13,1
+459,9,"Nov 11, 1939",Gonzaga,23,Montana,0,1
+460,9,"Nov 11, 1939",Hampden-Sydney,14,Wofford,0,0
+461,9,"Nov 11, 1939",Harvard,15,Army,0,0
+462,9,"Nov 11, 1939",Holy Cross,14,Temple,0,0
+463,9,"Nov 11, 1939",Illinois,7,Wisconsin,0,0
+464,9,"Nov 11, 1939",Iowa,7,Notre Dame,6,0
+465,9,"Nov 11, 1939",West Virginia,7,Manhattan,19,0
+466,9,"Nov 11, 1939",Marquette,21,Iowa State,2,0
+467,9,"Nov 11, 1939",Michigan,7,Minnesota,20,0
+468,9,"Nov 11, 1939",Southern Miss,7,Ole Miss,27,0
+469,9,"Nov 11, 1939",Mississippi State,15,LSU,12,1
+470,9,"Nov 11, 1939",New York University,7,Missouri,20,0
+471,9,"Nov 11, 1939",Nebraska,7,Kansas,0,0
+472,9,"Nov 11, 1939",North Carolina,32,Davidson,0,0
+473,9,"Nov 11, 1939",Ohio State,61,Chicago,0,1
+474,9,"Nov 11, 1939",Oklahoma,13,Kansas State,10,1
+475,9,"Nov 11, 1939",Oregon State,19,Oregon,14,1
+476,9,"Nov 11, 1939",Penn State,10,Pennsylvania,0,1
+477,9,"Nov 11, 1939",Pitt,6,Carnegie Mellon,0,0
+478,9,"Nov 11, 1939",Princeton,9,Dartmouth,7,0
+479,9,"Nov 11, 1939",Purdue,3,Northwestern,0,1
+480,9,"Nov 11, 1939",Samford,6,Rhodes,13,1
+481,9,"Nov 11, 1939",Richmond,13,Virginia Tech,0,0
+482,9,"Nov 11, 1939",Loyola Marymount,7,Saint Mary's (CA),40,1
+483,9,"Nov 11, 1939",Hardin-Simmons,6,San Francisco,6,0
+484,9,"Nov 11, 1939",Santa Clara,6,Michigan State,0,0
+485,9,"Nov 11, 1939",USC,33,Stanford,0,0
+486,9,"Nov 11, 1939",Tennessee,34,Citadel,0,0
+487,9,"Nov 11, 1939",Texas A&M,6,SMU,2,0
+488,9,"Nov 11, 1939",TCU,16,Tulsa,0,0
+489,9,"Nov 11, 1939",Centenary (LA),0,Texas Tech,0,0
+490,9,"Nov 11, 1939",Arizona,6,UTEP,14,1
+491,9,"Nov 11, 1939",Tulane,13,Alabama,0,0
+492,9,"Nov 11, 1939",Utah,34,Hawaii,19,0
+493,9,"Nov 11, 1939",Sewanee,7,Vanderbilt,25,1
+494,9,"Nov 11, 1939",Grinnell,7,Washburn,19,0
+495,9,"Nov 11, 1939",California,6,Washington,13,0
+496,9,"Nov 11, 1939",Washington (MO),7,Oklahoma State,0,0
+497,9,"Nov 11, 1939",Washington State,21,Idaho,13,0
+498,9,"Nov 11, 1939",Randolph-Macon,6,William & Mary,19,1
+499,10,"Nov 17, 1939",Arkansas,14,SMU,0,0
+500,10,"Nov 17, 1939",Hardin-Simmons,28,New Mexico State,13,1
+501,10,"Nov 17, 1939",San Jose State,10,Loyola Marymount,0,1
+502,10,"Nov 18, 1939",Pacific,7,Arizona,12,1
+503,10,"Nov 18, 1939",New Mexico,6,Arizona State,28,1
+504,10,"Nov 18, 1939",LSU,7,Auburn,21,0
+505,10,"Nov 18, 1939",Centenary (LA),6,Baylor,13,0
+506,10,"Nov 18, 1939",Boston College,19,Boston University,0,0
+507,10,"Nov 18, 1939",Brown,41,Connecticut,0,0
+508,10,"Nov 18, 1939",Muhlenberg,3,Bucknell,25,1
+509,10,"Nov 18, 1939",San Francisco,0,California-Santa Barbara,0,0
+510,10,"Nov 18, 1939",Chicago,25,Oberlin,0,0
+511,10,"Nov 18, 1939",Rhodes,6,Clemson,21,0
+512,10,"Nov 18, 1939",BYU,6,Colorado,12,0
+513,10,"Nov 18, 1939",Dartmouth,6,Cornell,35,0
+514,10,"Nov 18, 1939",Creighton,47,Washburn,0,0
+515,10,"Nov 18, 1939",Erskine,6,Davidson,32,1
+516,10,"Nov 18, 1939",Denver,23,Idaho,0,0
+517,10,"Nov 18, 1939",Detroit Mercy,36,Manhattan,13,0
+518,10,"Nov 18, 1939",North Carolina,3,Duke,13,1
+519,10,"Nov 18, 1939",Florida,13,Miami,0,1
+520,10,"Nov 18, 1939",Fordham,13,Saint Mary's (CA),0,0
+521,10,"Nov 18, 1939",Kansas,7,George Washington,14,0
+522,10,"Nov 18, 1939",Georgetown,14,New York University,0,1
+523,10,"Nov 18, 1939",South Carolina,7,Georgia,33,1
+524,10,"Nov 18, 1939",Georgia Tech,6,Alabama,0,1
+525,10,"Nov 18, 1939",Gonzaga,27,Eastern Washington,0,0
+526,10,"Nov 18, 1939",Harvard,46,New Hampshire,0,0
+527,10,"Nov 18, 1939",Holy Cross,21,Carnegie Mellon,0,0
+528,10,"Nov 18, 1939",Michigan State,7,Indiana,7,0
+529,10,"Nov 18, 1939",Minnesota,9,Iowa,13,1
+530,10,"Nov 18, 1939",Iowa State,10,Kansas State,0,0
+531,10,"Nov 18, 1939",West Virginia,6,Kentucky,13,1
+532,10,"Nov 18, 1939",Marquette,22,Texas Tech,19,1
+533,10,"Nov 18, 1939",Michigan,19,Pennsylvania,17,1
+534,10,"Nov 18, 1939",Memphis,7,Ole Miss,46,1
+535,10,"Nov 18, 1939",Mississippi State,40,Millsaps,0,0
+536,10,"Nov 18, 1939",Missouri,7,Oklahoma,6,0
+537,10,"Nov 18, 1939",Nebraska,14,Pitt,13,1
+538,10,"Nov 18, 1939",Furman,7,NC State,12,0
+539,10,"Nov 18, 1939",Notre Dame,7,Northwestern,0,0
+540,10,"Nov 18, 1939",Ohio State,21,Illinois,0,0
+541,10,"Nov 18, 1939",Wichita State,0,Oklahoma State,0,0
+542,10,"Nov 18, 1939",Oregon State,21,California,0,0
+543,10,"Nov 18, 1939",Army,14,Penn State,14,0
+544,10,"Nov 18, 1939",Yale,7,Princeton,13,0
+545,10,"Nov 18, 1939",Wisconsin,7,Purdue,7,0
+546,10,"Nov 18, 1939",Hampden-Sydney,7,Richmond,26,1
+547,10,"Nov 18, 1939",Tulsa,0,Saint Louis,0,0
+548,10,"Nov 18, 1939",UCLA,0,Santa Clara,0,0
+549,10,"Nov 18, 1939",Citadel,7,Sewanee,14,0
+550,10,"Nov 18, 1939",Syracuse,7,Colgate,0,0
+551,10,"Nov 18, 1939",Tennessee,13,Vanderbilt,0,0
+552,10,"Nov 18, 1939",Texas,25,TCU,19,0
+553,10,"Nov 18, 1939",Texas A&M,19,Rice,0,1
+554,10,"Nov 18, 1939",UTEP,27,Louisiana Tech,0,0
+555,10,"Nov 18, 1939",Tulane,25,Columbia,0,1
+556,10,"Nov 18, 1939",Colorado State,7,Utah,42,0
+557,10,"Nov 18, 1939",Utah State,20,Wyoming,13,1
+558,10,"Nov 18, 1939",Temple,6,Villanova,12,0
+559,10,"Nov 18, 1939",Virginia Military Institute,13,Maryland,0,0
+560,10,"Nov 18, 1939",Virginia Tech,13,Virginia,0,1
+561,10,"Nov 18, 1939",Washington (MO),25,Drake,13,1
+562,10,"Nov 18, 1939",Washington State,7,Stanford,0,1
+563,10,"Nov 18, 1939",William & Mary,18,Washington & Lee,14,0
+564,11,"Nov 23, 1939",Utah,27,Utah State,0,0
+565,11,"Nov 24, 1939",Whittier,19,Loyola Marymount,13,0
+566,11,"Nov 25, 1939",Auburn,7,Georgia,0,0
+567,11,"Nov 25, 1939",Kansas State,7,Boston College,38,1
+568,11,"Nov 25, 1939",Wyoming,7,BYU,7,0
+569,11,"Nov 25, 1939",California,32,Stanford,14,1
+570,11,"Nov 25, 1939",Rhodes,7,Centenary (LA),13,1
+571,11,"Nov 25, 1939",Citadel,34,Erskine,0,1
+572,11,"Nov 25, 1939",Furman,3,Clemson,14,0
+573,11,"Nov 25, 1939",Columbia,0,Colgate,0,0
+574,11,"Nov 25, 1939",Cornell,26,Pennsylvania,0,1
+575,11,"Nov 25, 1939",Duke,28,NC State,0,1
+576,11,"Nov 25, 1939",Carnegie Mellon,7,Duquesne,22,1
+577,11,"Nov 25, 1939",George Washington,7,Bucknell,6,0
+578,11,"Nov 25, 1939",Florida,7,Georgia Tech,21,0
+579,11,"Nov 25, 1939",Gonzaga,7,Portland,0,1
+580,11,"Nov 25, 1939",Hampden-Sydney,12,Randolph-Macon,0,0
+581,11,"Nov 25, 1939",Illinois,46,Chicago,0,1
+582,11,"Nov 25, 1939",Northwestern,7,Iowa,7,0
+583,11,"Nov 25, 1939",Michigan,21,Ohio State,14,0
+584,11,"Nov 25, 1939",Temple,7,Michigan State,18,1
+585,11,"Nov 25, 1939",Wisconsin,6,Minnesota,23,1
+586,11,"Nov 25, 1939",Ole Miss,6,Mississippi State,18,0
+587,11,"Nov 25, 1939",Missouri,20,Kansas,0,1
+588,11,"Nov 25, 1939",Oklahoma,7,Nebraska,13,1
+589,11,"Nov 25, 1939",New Mexico,7,Arizona,6,0
+590,11,"Nov 25, 1939",Creighton,9,Oklahoma State,20,1
+591,11,"Nov 25, 1939",UCLA,13,Oregon State,13,0
+592,11,"Nov 25, 1939",Penn State,10,Pitt,0,0
+593,11,"Nov 25, 1939",Princeton,28,Navy,0,0
+594,11,"Nov 25, 1939",Purdue,7,Indiana,6,1
+595,11,"Nov 25, 1939",Saint Louis,6,South Dakota,0,0
+596,11,"Nov 25, 1939",San Diego Marines,18,Arizona State,0,0
+597,11,"Nov 25, 1939",Santa Clara,7,Saint Mary's (CA),0,0
+598,11,"Nov 25, 1939",South Carolina,7,Miami,6,0
+599,11,"Nov 25, 1939",USC,20,Notre Dame,12,1
+600,11,"Nov 25, 1939",SMU,21,Baylor,0,0
+601,11,"Nov 25, 1939",TCU,21,Rice,0,0
+602,11,"Nov 25, 1939",Texas Tech,13,Montana,0,0
+603,11,"Nov 25, 1939",UTEP,34,New Mexico State,0,1
+604,11,"Nov 25, 1939",Tulane,52,Sewanee,0,0
+605,11,"Nov 25, 1939",Tulsa,14,Drake,0,0
+606,11,"Nov 25, 1939",Villanova,7,Manhattan,0,1
+607,11,"Nov 25, 1939",Washington,20,Oregon,13,0
+608,11,"Nov 25, 1939",Washington (MO),32,Missouri-Rolla,0,0
+609,11,"Nov 25, 1939",William & Mary,7,Richmond,0,1
+610,11,"Nov 25, 1939",Harvard,7,Yale,20,0
+611,12,"Nov 30, 1939",Alabama,39,Vanderbilt,0,1
+612,12,"Nov 30, 1939",Arizona,6,Montana,0,0
+613,12,"Nov 30, 1939",Arkansas,23,Tulsa,0,1
+614,12,"Nov 30, 1939",Brown,13,Rutgers,0,0
+615,12,"Nov 30, 1939",Colorado,27,Denver,17,0
+616,12,"Nov 30, 1939",Auburn,7,Florida,7,0
+617,12,"Nov 30, 1939",New Mexico,21,Colorado State,19,0
+618,12,"Nov 30, 1939",North Carolina,19,Virginia,0,0
+619,12,"Nov 30, 1939",San Jose State,12,Drake,0,0
+620,12,"Nov 30, 1939",Maryland,7,Syracuse,10,0
+621,12,"Nov 30, 1939",Tennessee,19,Kentucky,0,1
+622,12,"Nov 30, 1939",Texas A&M,20,Texas,0,0
+623,12,"Nov 30, 1939",Texas Tech,13,Loyola (LA),0,1
+624,12,"Nov 30, 1939",Washington State,7,UCLA,24,1
+625,12,"Nov 30, 1939",Virginia Tech,7,Virginia Military Institute,19,1
+626,12,"Nov 30, 1939",Davidson,7,Wake Forest,46,1
+627,12,"Nov 30, 1939",Wichita State,7,Washburn,6,1
+628,12,"Dec 1, 1939",NC State,7,Miami,27,1
+629,12,"Dec 2, 1939",Rice,7,Baylor,10,0
+630,12,"Dec 2, 1939",Boston College,14,Holy Cross,0,0
+631,12,"Dec 2, 1939",Citadel,21,Wofford,2,0
+632,12,"Dec 2, 1939",Duquesne,10,Detroit Mercy,10,0
+633,12,"Dec 2, 1939",New York University,7,Fordham,18,1
+634,12,"Dec 2, 1939",George Washington,13,West Virginia,0,1
+635,12,"Dec 2, 1939",Georgia Tech,13,Georgia,0,0
+636,12,"Dec 2, 1939",Hardin-Simmons,7,Centenary (LA),6,1
+637,12,"Dec 2, 1939",Navy,10,Army,0,0
+638,12,"Dec 2, 1939",USC,9,Washington,7,0
+639,12,"Dec 2, 1939",TCU,7,SMU,14,0
+640,12,"Dec 2, 1939",Dartmouth,3,Stanford,14,0
+641,12,"Dec 2, 1939",Tulane,33,LSU,20,0
+642,12,"Dec 2, 1939",Washington (MO),21,Saint Louis,17,1
+643,12,"Dec 3, 1939",San Francisco,26,Creighton,14,0
+644,13,"Dec 8, 1939",Georgia,13,Miami,0,1
+645,13,"Dec 9, 1939",Centenary (LA),19,Louisiana Tech,0,1
+646,13,"Dec 9, 1939",UCLA,0,USC,0,0
+647,13,"Dec 9, 1939",Rice,6,SMU,13,1
+648,13,"Dec 9, 1939",Tennessee,7,Auburn,0,0
+649,14,"Dec 30, 1939",Oregon State,28,Hawaii All-Stars,0,1
+650,15,"Jan 1, 1940",Catholic,0,Arizona State,0,0
+651,15,"Jan 1, 1940",Clemson,6,Boston College,3,0
+652,15,"Jan 1, 1940",Missouri,7,Georgia Tech,21,1
+653,15,"Jan 1, 1940",Hawaii,6,Oregon State,39,0
+654,15,"Jan 1, 1940",USC,14,Tennessee,0,0
+655,15,"Jan 1, 1940",Texas A&M,14,Tulane,13,1

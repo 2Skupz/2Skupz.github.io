@@ -1,0 +1,616 @@
+0,1,"Sep 23, 1922",Auburn,61,Marion,0,0
+1,1,"Sep 23, 1922",Centre,72,Carson-Newman,0,0
+2,1,"Sep 23, 1922",Davidson,24,Elon,0,0
+3,1,"Sep 23, 1922",Georgia,82,Newberry,13,0
+4,1,"Sep 23, 1922",Piedmont,3,Mercer,24,1
+5,1,"Sep 23, 1922",Penn State,54,St. Bonaventure,0,0
+6,1,"Sep 23, 1922",Samford,12,Jacksonville State,0,0
+7,1,"Sep 23, 1922",Hobart,7,Syracuse,28,1
+8,1,"Sep 23, 1922",Tennessee,50,Emory & Henry,0,0
+9,1,"Sep 23, 1922",Virginia Tech,38,Hampden-Sydney,0,0
+10,1,"Sep 23, 1922",Wake Forest,34,Atlantic Christian,0,0
+11,1,"Sep 23, 1922",Yale,48,Bates,0,0
+12,2,"Sep 29, 1922",Chattanooga,40,Bryson,0,0
+13,2,"Sep 29, 1922",Furman,33,Newberry,0,0
+14,2,"Sep 29, 1922",South Carolina,13,Erskine,0,0
+15,2,"Sep 29, 1922",Texas,19,Austin,0,0
+16,2,"Sep 30, 1922",Alabama,110,Marion,0,0
+17,2,"Sep 30, 1922",Arkansas,39,Hendrix,0,0
+18,2,"Sep 30, 1922",Army,35,Springfield,0,0
+19,2,"Sep 30, 1922",Army,12,Lebanon Valley,0,0
+20,2,"Sep 30, 1922",Auburn,72,Samford,0,1
+21,2,"Sep 30, 1922",Baylor,55,North Texas,0,0
+22,2,"Sep 30, 1922",Birmingham-Southern,31,Jacksonville State,0,0
+23,2,"Sep 30, 1922",Brown,27,Rhode Island,0,0
+24,2,"Sep 30, 1922",California,45,Santa Clara,14,0
+25,2,"Sep 30, 1922",Centre,21,Clemson,0,1
+26,2,"Sep 30, 1922",Clarkson,6,Colgate,50,1
+27,2,"Sep 30, 1922",Colorado College,20,Wyoming,0,0
+28,2,"Sep 30, 1922",Ursinus,7,Columbia,48,1
+29,2,"Sep 30, 1922",St. Bonaventure,6,Cornell,55,1
+30,2,"Sep 30, 1922",Dartmouth,20,Norwich,0,0
+31,2,"Sep 30, 1922",Duke,43,Guilford,0,0
+32,2,"Sep 30, 1922",Georgia,41,Mercer,0,0
+33,2,"Sep 30, 1922",Oglethorpe,6,Georgia Tech,31,1
+34,2,"Sep 30, 1922",Grinnell,14,Parsons (Iowa),0,0
+35,2,"Sep 30, 1922",Harvard,20,Middlebury,0,0
+36,2,"Sep 30, 1922",Texas A&M,7,Howard Payne,13,0
+37,2,"Sep 30, 1922",Kentucky,16,Marshall,0,0
+38,2,"Sep 30, 1922",Lafayette,34,Richmond,0,0
+39,2,"Sep 30, 1922",Gettysburg,0,Lehigh,0,0
+40,2,"Sep 30, 1922",LSU,13,Northwestern State,0,0
+41,2,"Sep 30, 1922",Maryland,7,3rd Army Corps,0,0
+42,2,"Sep 30, 1922",Mississippi College,22,Louisiana College,0,0
+43,2,"Sep 30, 1922",North Carolina,62,Wake Forest,3,0
+44,2,"Sep 30, 1922",NC State,20,Randolph-Macon,2,0
+45,2,"Sep 30, 1922",Notre Dame,46,Kalamazoo,0,0
+46,2,"Sep 30, 1922",Oklahoma State,49,Northwestern Oklahoma State,0,0
+47,2,"Sep 30, 1922",William & Mary,7,Penn State,27,1
+48,2,"Sep 30, 1922",Pennsylvania,14,Franklin & Marshall,0,0
+49,2,"Sep 30, 1922",Pitt,37,Cincinnati,0,1
+50,2,"Sep 30, 1922",Presbyterian,8,Davidson,7,0
+51,2,"Sep 30, 1922",Princeton,30,Johns Hopkins,0,0
+52,2,"Sep 30, 1922",Rutgers,13,Pennsylvania Military,0,0
+53,2,"Sep 30, 1922",USC,20,USS Mississippi,0,0
+54,2,"Sep 30, 1922",USC,20,Southern California Alumni,0,0
+55,2,"Sep 30, 1922",SMU,16,Southern Methodist Freshmen,0,0
+56,2,"Sep 30, 1922",Syracuse,47,Muhlenberg,0,0
+57,2,"Sep 30, 1922",Talladega,27,Fort Benning,13,0
+58,2,"Sep 30, 1922",Carson-Newman,7,Tennessee,32,1
+59,2,"Sep 30, 1922",Ole Miss,0,Union (Tennessee),0,0
+60,2,"Sep 30, 1922",Utah State,6,Montana Wesleyan,0,1
+61,2,"Sep 30, 1922",Vanderbilt,38,Middle Tennessee,0,0
+62,2,"Sep 30, 1922",Virginia,34,George Washington,0,0
+63,2,"Sep 30, 1922",Lynchburg,7,Virginia Military Institute,34,0
+64,2,"Sep 30, 1922",Virginia Tech,25,King,0,0
+65,2,"Sep 30, 1922",Washington,49,USS Idaho,0,0
+66,2,"Sep 30, 1922",Washington & Jefferson,14,Geneva,0,0
+67,2,"Sep 30, 1922",Washington & Lee,85,Emory & Henry,0,0
+68,2,"Sep 30, 1922",West Virginia Wesleyan,3,West Virginia,20,1
+69,2,"Sep 30, 1922",Wofford,20,North Georgia,0,1
+70,2,"Sep 30, 1922",Yale,13,Carnegie Mellon,0,0
+71,3,"Oct 6, 1922",Kansas State,47,Washburn,0,0
+72,3,"Oct 7, 1922",Alabama,41,Oglethorpe,0,0
+73,3,"Oct 7, 1922",Arkansas,22,Drury,0,0
+74,3,"Oct 7, 1922",Army,13,Kansas,0,0
+75,3,"Oct 7, 1922",Spring Hill,6,Auburn,19,1
+76,3,"Oct 7, 1922",Baylor,42,Hardin-Simmons,0,0
+77,3,"Oct 7, 1922",Brown,13,Colby,0,0
+78,3,"Oct 7, 1922",California,80,Mare Island Marines,0,0
+79,3,"Oct 7, 1922",Carnegie Mellon,54,Waynesburg,0,0
+80,3,"Oct 7, 1922",Centre,55,Ole Miss,0,0
+81,3,"Oct 7, 1922",Chattanooga,40,Cumberland,0,0
+82,3,"Oct 7, 1922",Chicago,20,Georgia,0,0
+83,3,"Oct 7, 1922",Parris Island Marines,6,Citadel,14,0
+84,3,"Oct 7, 1922",Clemson,57,Newberry,0,0
+85,3,"Oct 7, 1922",Coe,24,Iowa State,0,1
+86,3,"Oct 7, 1922",Colgate,19,Allegheny,0,0
+87,3,"Oct 7, 1922",Colorado,14,Regis (CO),0,1
+88,3,"Oct 7, 1922",Colorado Mines,32,Wyoming,0,0
+89,3,"Oct 7, 1922",Amherst,6,Columbia,43,1
+90,3,"Oct 7, 1922",Cornell,66,Niagara,0,0
+91,3,"Oct 7, 1922",Dartmouth,19,Maine,0,0
+92,3,"Oct 7, 1922",Denver,41,New Mexico,0,1
+93,3,"Oct 7, 1922",Indiana,0,DePauw,0,0
+94,3,"Oct 7, 1922",Drake,16,Cornell College,0,0
+95,3,"Oct 7, 1922",Duke,27,Hampden-Sydney,0,0
+96,3,"Oct 7, 1922",Fort Benning,12,Wofford,0,0
+97,3,"Oct 7, 1922",Furman,7,Florida,6,1
+98,3,"Oct 7, 1922",Georgia Tech,19,Davidson,0,0
+99,3,"Oct 7, 1922",Gonzaga,34,Puget Sound,0,0
+100,3,"Oct 7, 1922",Harvard,20,Holy Cross,0,0
+101,3,"Oct 7, 1922",Idaho,3,Whitman,0,1
+102,3,"Oct 7, 1922",Iowa,61,Knox,0,0
+103,3,"Oct 7, 1922",Kentucky,15,Cincinnati,0,0
+104,3,"Oct 7, 1922",Lafayette,7,Pitt,0,1
+105,3,"Oct 7, 1922",Lehigh,37,St. Francis (Pennsylvania),0,0
+106,3,"Oct 7, 1922",Loyola (LA),7,LSU,0,1
+107,3,"Oct 7, 1922",Samford,0,Marion,0,0
+108,3,"Oct 7, 1922",Richmond,0,Maryland,0,0
+109,3,"Oct 7, 1922",Mercer,31,North Georgia,0,0
+110,3,"Oct 7, 1922",Michigan,48,Case,0,0
+111,3,"Oct 7, 1922",Minnesota,22,North Dakota,0,0
+112,3,"Oct 7, 1922",Mississippi State,14,Birmingham-Southern,0,0
+113,3,"Oct 7, 1922",Missouri,23,Grinnell,0,0
+114,3,"Oct 7, 1922",Navy,71,Western Reserve,0,0
+115,3,"Oct 7, 1922",Nebraska,66,South Dakota,0,0
+116,3,"Oct 7, 1922",Northwestern,17,Beloit,0,0
+117,3,"Oct 7, 1922",Notre Dame,26,Saint Louis,0,0
+118,3,"Oct 7, 1922",Ohio State,5,Ohio Wesleyan,0,0
+119,3,"Oct 7, 1922",Oklahoma State,17,Central Oklahoma,0,0
+120,3,"Oct 7, 1922",Stanford,9,Olympic Club,27,0
+121,3,"Oct 7, 1922",Oregon,37,Willamette,0,0
+122,3,"Oct 7, 1922",Oregon State Alumni,6,Oregon State,22,1
+123,3,"Oct 7, 1922",Penn State,20,Gettysburg,0,0
+124,3,"Oct 7, 1922",Pennsylvania,27,Sewanee,0,0
+125,3,"Oct 7, 1922",Princeton,5,Virginia,0,0
+126,3,"Oct 7, 1922",Purdue,10,James Millikin,0,0
+127,3,"Oct 7, 1922",Sam Houston,3,Rice,23,1
+128,3,"Oct 7, 1922",Rutgers,20,Fordham,15,0
+129,3,"Oct 7, 1922",South Carolina,6,Presbyterian,0,0
+130,3,"Oct 7, 1922",USC,54,Pomona-Pitzer,13,1
+131,3,"Oct 7, 1922",SMU,66,North Texas,0,0
+132,3,"Oct 7, 1922",Syracuse,34,New York University,0,0
+133,3,"Oct 7, 1922",Tennessee,21,Maryville (TN),0,0
+134,3,"Oct 7, 1922",Texas,41,Phillips,10,0
+135,3,"Oct 7, 1922",Dallas,6,TCU,21,0
+136,3,"Oct 7, 1922",Tulane,30,Mississippi College,0,0
+137,3,"Oct 7, 1922",Utah,16,Albertson,12,0
+138,3,"Oct 7, 1922",Utah State,42,BYU,3,1
+139,3,"Oct 7, 1922",Vanderbilt,33,Henderson State,0,0
+140,3,"Oct 7, 1922",Virginia Military Institute,50,Roanoke,0,0
+141,3,"Oct 7, 1922",William & Mary,6,Virginia Tech,20,1
+142,3,"Oct 7, 1922",Wake Forest,7,Elon,0,0
+143,3,"Oct 7, 1922",Washington,26,Montana,0,0
+144,3,"Oct 7, 1922",Washington & Jefferson,34,Westminster (Pennsylvania),0,0
+145,3,"Oct 7, 1922",NC State,6,Washington & Lee,14,1
+146,3,"Oct 7, 1922",Missouri-Rolla,6,Washington (MO),14,1
+147,3,"Oct 7, 1922",West Virginia,55,Marietta,0,0
+148,3,"Oct 7, 1922",Wisconsin,41,Carleton,0,0
+149,3,"Oct 7, 1922",Yale,18,North Carolina,0,0
+150,4,"Oct 10, 1922",Tulsa,13,Texas A&M,10,1
+151,4,"Oct 12, 1922",North Carolina,20,Duke,0,0
+152,4,"Oct 13, 1922",Clemson,13,Presbyterian,0,0
+153,4,"Oct 13, 1922",Montana State,6,Utah State,39,0
+154,4,"Oct 13, 1922",Wofford,5,Erskine,0,1
+155,4,"Oct 14, 1922",Auburn,6,Army,19,1
+156,4,"Oct 14, 1922",Baylor,31,Rice,0,1
+157,4,"Oct 14, 1922",Illinois,7,Butler,10,0
+158,4,"Oct 14, 1922",California,41,Saint Mary's (CA),0,0
+159,4,"Oct 14, 1922",Geneva,6,Carnegie Mellon,27,0
+160,4,"Oct 14, 1922",Virginia Tech,6,Centre,10,0
+161,4,"Oct 14, 1922",Chattanooga,56,Emory & Henry,0,0
+162,4,"Oct 14, 1922",Northwestern,7,Chicago,15,1
+163,4,"Oct 14, 1922",Colorado,3,New Mexico,0,0
+164,4,"Oct 14, 1922",Colorado State,60,Wyoming,0,1
+165,4,"Oct 14, 1922",Wesleyan (CT),6,Columbia,10,1
+166,4,"Oct 14, 1922",New Hampshire,7,Cornell,68,1
+167,4,"Oct 14, 1922",Dartmouth,21,Middlebury,0,0
+168,4,"Oct 14, 1922",Denver,7,Regis (CO),0,1
+169,4,"Oct 14, 1922",Drake,6,Kansas,0,0
+170,4,"Oct 14, 1922",Florida,19,Rollins,0,1
+171,4,"Oct 14, 1922",Georgia,7,Furman,0,1
+172,4,"Oct 14, 1922",Alabama,7,Georgia Tech,33,1
+173,4,"Oct 14, 1922",Grinnell,26,Saint Louis,0,0
+174,4,"Oct 14, 1922",Harvard,15,Bowdoin,0,0
+175,4,"Oct 14, 1922",Iowa,6,Yale,0,1
+176,4,"Oct 14, 1922",Kansas State,22,Washington (MO),14,1
+177,4,"Oct 14, 1922",Kentucky,73,Louisville,0,0
+178,4,"Oct 14, 1922",Lafayette,62,Muhlenberg,0,0
+179,4,"Oct 14, 1922",Lynchburg,6,Hampden-Sydney,0,1
+180,4,"Oct 14, 1922",Mercer,17,Birmingham-Southern,13,1
+181,4,"Oct 14, 1922",Vanderbilt,0,Michigan,0,0
+182,4,"Oct 14, 1922",Minnesota,20,Indiana,0,1
+183,4,"Oct 14, 1922",Ole Miss,23,Rhodes,0,0
+184,4,"Oct 14, 1922",Mississippi College,3,Henderson State,0,0
+185,4,"Oct 14, 1922",Missouri,6,Iowa State,3,1
+186,4,"Oct 14, 1922",Multnomah A.C.,20,Oregon,0,0
+187,4,"Oct 14, 1922",Bucknell,7,Navy,14,1
+188,4,"Oct 14, 1922",South Carolina,7,North Carolina,10,1
+189,4,"Oct 14, 1922",NC State,13,Roanoke,0,0
+190,4,"Oct 14, 1922",Notre Dame,20,Purdue,0,1
+191,4,"Oct 14, 1922",Ohio State,14,Oberlin,0,0
+192,4,"Oct 14, 1922",Oklahoma,21,Central Oklahoma,0,0
+193,4,"Oct 14, 1922",Oregon State,3,Pacific (Oregon),0,0
+194,4,"Oct 14, 1922",Arkansas,7,Ouachita,13,1
+195,4,"Oct 14, 1922",Lebanon Valley,6,Penn State,32,1
+196,4,"Oct 14, 1922",Pennsylvania,12,Maryland,0,0
+197,4,"Oct 14, 1922",Princeton,10,Colgate,0,0
+198,4,"Oct 14, 1922",Lehigh,7,Rutgers,13,0
+199,4,"Oct 14, 1922",Mississippi State,0,Samford,0,0
+200,4,"Oct 14, 1922",Sewanee,19,Oglethorpe,0,0
+201,4,"Oct 14, 1922",USC,15,Arizona,0,0
+202,4,"Oct 14, 1922",SMU,51,LSU,0,0
+203,4,"Oct 14, 1922",Stanford,7,Santa Clara,0,0
+204,4,"Oct 14, 1922",Brown,0,Syracuse,0,0
+205,4,"Oct 14, 1922",Tennessee,15,Fort Benning,0,1
+206,4,"Oct 14, 1922",Oklahoma State,7,Texas,19,1
+207,4,"Oct 14, 1922",Texas A&M,33,Southwestern (TX),0,0
+208,4,"Oct 14, 1922",TCU,7,Hardin-Simmons,7,0
+209,4,"Oct 14, 1922",Tulane,30,Spring Hill,10,0
+210,4,"Oct 14, 1922",Utah,49,BYU,0,0
+211,4,"Oct 14, 1922",Richmond,6,Virginia,14,1
+212,4,"Oct 14, 1922",Virginia Military Institute,62,Morris Harvey,0,0
+213,4,"Oct 14, 1922",Wake Forest,6,Davidson,6,0
+214,4,"Oct 14, 1922",Washington,2,Idaho,0,0
+215,4,"Oct 14, 1922",Bethany (West Virginia),7,Washington & Jefferson,19,1
+216,4,"Oct 14, 1922",Washington & Lee,13,Carson-Newman,0,0
+217,4,"Oct 14, 1922",Gonzaga,7,Washington State,10,0
+218,4,"Oct 14, 1922",West Virginia,9,Pitt,6,1
+219,4,"Oct 14, 1922",Randolph-Macon,7,William & Mary,33,0
+220,4,"Oct 14, 1922",South Dakota State,6,Wisconsin,20,1
+221,4,"Oct 15, 1922",Colorado College,58,Western State,0,0
+222,5,"Oct 19, 1922",Furman,28,Citadel,0,0
+223,5,"Oct 19, 1922",NC State,9,North Carolina,14,0
+224,5,"Oct 20, 1922",SMU,7,Austin,10,0
+225,5,"Oct 20, 1922",Oregon,6,Whitman,3,1
+226,5,"Oct 20, 1922",South Carolina,20,Wofford,0,0
+227,5,"Oct 20, 1922",Texas A&M,46,LSU,0,0
+228,5,"Oct 20, 1922",Idaho,9,Washington State,18,0
+229,5,"Oct 21, 1922",Army,33,New Hampshire,0,0
+230,5,"Oct 21, 1922",Mercer,6,Auburn,50,1
+231,5,"Oct 21, 1922",Baylor,60,Arkansas,13,0
+232,5,"Oct 21, 1922",Rutgers,7,Bethany (West Virginia),14,0
+233,5,"Oct 21, 1922",Chattanooga,0,Birmingham-Southern,0,0
+234,5,"Oct 21, 1922",Brown,6,Lehigh,2,1
+235,5,"Oct 21, 1922",California,25,Olympic Club,0,0
+236,5,"Oct 21, 1922",Chicago,12,Purdue,0,0
+237,5,"Oct 21, 1922",Colorado State,0,Colorado College,0,0
+238,5,"Oct 21, 1922",Colorado Mines,19,Utah State,0,1
+239,5,"Oct 21, 1922",Columbia,6,New York University,2,0
+240,5,"Oct 21, 1922",Cornell,14,Colgate,0,0
+241,5,"Oct 21, 1922",Daniel Baker,21,TCU,13,1
+242,5,"Oct 21, 1922",Denver,3,Nebraska Wesleyan,0,1
+243,5,"Oct 21, 1922",Washington (MO),7,Drake,31,0
+244,5,"Oct 21, 1922",Elon,13,Hampden-Sydney,0,0
+245,5,"Oct 21, 1922",Florida,14,American Legion,0,1
+246,5,"Oct 21, 1922",Furman,26,Oglethorpe,0,1
+247,5,"Oct 21, 1922",Georgia,7,Tennessee,3,0
+248,5,"Oct 21, 1922",Harvard,24,Centre,10,0
+249,5,"Oct 21, 1922",Iowa,8,Illinois,7,1
+250,5,"Oct 21, 1922",Iowa State,7,Grinnell,0,1
+251,5,"Oct 21, 1922",Kansas,32,Washburn,3,0
+252,5,"Oct 21, 1922",Oklahoma,7,Kansas State,7,0
+253,5,"Oct 21, 1922",Georgetown (Kentucky),6,Kentucky,40,0
+254,5,"Oct 21, 1922",Bucknell,7,Lafayette,28,1
+255,5,"Oct 21, 1922",Wake Forest,7,Lynchburg,20,1
+256,5,"Oct 21, 1922",Michigan,19,Ohio State,0,1
+257,5,"Oct 21, 1922",Northwestern,7,Minnesota,7,0
+258,5,"Oct 21, 1922",Mississippi College,26,Samford,0,0
+259,5,"Oct 21, 1922",Mississippi State,19,Ole Miss,13,0
+260,5,"Oct 21, 1922",Navy,13,Georgia Tech,0,0
+261,5,"Oct 21, 1922",Nebraska,48,Missouri,0,0
+262,5,"Oct 21, 1922",DePauw,7,Notre Dame,34,1
+263,5,"Oct 21, 1922",Oklahoma State,21,Rice,0,0
+264,5,"Oct 21, 1922",Parris Island Marines,6,Newberry,0,1
+265,5,"Oct 21, 1922",Penn State,33,Middlebury,0,0
+266,5,"Oct 21, 1922",Swarthmore,6,Pennsylvania,14,1
+267,5,"Oct 21, 1922",Phillips,47,Baylor,0,0
+268,5,"Oct 21, 1922",Pitt,21,Syracuse,14,1
+269,5,"Oct 21, 1922",Presbyterian,19,Erskine,0,1
+270,5,"Oct 21, 1922",Princeton,26,Maryland,0,0
+271,5,"Oct 21, 1922",Richmond,6,Roanoke,0,0
+272,5,"Oct 21, 1922",Alabama,7,Sewanee,7,0
+273,5,"Oct 21, 1922",USC,6,Nevada,0,0
+274,5,"Oct 21, 1922",Spring Hill,31,Marion,18,1
+275,5,"Oct 21, 1922",Stanford,9,Saint Mary's (CA),0,0
+276,5,"Oct 21, 1922",Tulane,18,Fort Benning,0,0
+277,5,"Oct 21, 1922",Utah,3,Colorado,0,1
+278,5,"Oct 21, 1922",Vanderbilt,20,Texas,10,1
+279,5,"Oct 21, 1922",Vermont,6,Dartmouth,3,1
+280,5,"Oct 21, 1922",Virginia Military Institute,14,Virginia,0,1
+281,5,"Oct 21, 1922",Davidson,7,Virginia Tech,7,0
+282,5,"Oct 21, 1922",Oregon State,3,Washington,14,1
+283,5,"Oct 21, 1922",Carnegie Mellon,7,Washington & Jefferson,7,0
+284,5,"Oct 21, 1922",West Virginia,12,Washington & Lee,12,0
+285,5,"Oct 21, 1922",Duke,7,William & Mary,13,0
+286,5,"Oct 21, 1922",Wisconsin,20,Indiana,0,0
+287,5,"Oct 21, 1922",Yale,38,Williams,0,0
+288,6,"Oct 24, 1922",Colorado Mines,47,BYU,0,1
+289,6,"Oct 25, 1922",Utah,27,Wyoming,0,1
+290,6,"Oct 26, 1922",Clemson,3,South Carolina,0,1
+291,6,"Oct 27, 1922",Guilford,0,Wake Forest,0,0
+292,6,"Oct 28, 1922",LSU,6,Arkansas,40,1
+293,6,"Oct 28, 1922",Yale,7,Army,7,0
+294,6,"Oct 28, 1922",Auburn,30,Fort Benning,0,0
+295,6,"Oct 28, 1922",Mississippi College,7,Baylor,40,1
+296,6,"Oct 28, 1922",Birmingham-Southern,21,Millsaps,0,1
+297,6,"Oct 28, 1922",Boston University,6,Brown,16,1
+298,6,"Oct 28, 1922",California,12,USC,0,1
+299,6,"Oct 28, 1922",Carnegie Mellon,59,Thiel,0,1
+300,6,"Oct 28, 1922",Carson-Newman,35,Wofford,0,1
+301,6,"Oct 28, 1922",Louisville,7,Centre,32,1
+302,6,"Oct 28, 1922",Transylvania,6,Chattanooga,40,1
+303,6,"Oct 28, 1922",Coe,15,Grinnell,0,0
+304,6,"Oct 28, 1922",Colgate,87,Susquehanna,6,0
+305,6,"Oct 28, 1922",Utah State,6,Colorado State,34,1
+306,6,"Oct 28, 1922",Duke,12,Davidson,0,1
+307,6,"Oct 28, 1922",Erskine,9,Elon,23,0
+308,6,"Oct 28, 1922",Florida,57,Samford,0,0
+309,6,"Oct 28, 1922",Oglethorpe,6,Georgia,26,1
+310,6,"Oct 28, 1922",Montana,6,Gonzaga,37,0
+311,6,"Oct 28, 1922",Dartmouth,3,Harvard,12,1
+312,6,"Oct 28, 1922",Michigan State,6,Indiana,14,1
+313,6,"Oct 28, 1922",Iowa,56,Purdue,0,0
+314,6,"Oct 28, 1922",Iowa State,13,Washington (MO),0,0
+315,6,"Oct 28, 1922",Kansas State,7,Kansas,7,0
+316,6,"Oct 28, 1922",Kentucky,7,Sewanee,0,0
+317,6,"Oct 28, 1922",Lafayette,19,Boston College,0,1
+318,6,"Oct 28, 1922",Muhlenberg,7,Lehigh,26,1
+319,6,"Oct 28, 1922",Michigan,24,Illinois,0,0
+320,6,"Oct 28, 1922",Minnesota,9,Ohio State,0,0
+321,6,"Oct 28, 1922",Missouri,9,Saint Louis,0,1
+322,6,"Oct 28, 1922",Oklahoma,7,Nebraska,39,0
+323,6,"Oct 28, 1922",Maryland,3,North Carolina,27,1
+324,6,"Oct 28, 1922",Georgia Tech,3,Notre Dame,13,0
+325,6,"Oct 28, 1922",Oregon,3,Idaho,0,0
+326,6,"Oct 28, 1922",Navy,7,Pennsylvania,13,1
+327,6,"Oct 28, 1922",Pitt,7,Bucknell,0,0
+328,6,"Oct 28, 1922",Presbyterian,9,Citadel,0,1
+329,6,"Oct 28, 1922",Princeton,21,Chicago,18,1
+330,6,"Oct 28, 1922",Southwestern (TX),6,Rice,28,1
+331,6,"Oct 28, 1922",Richmond,13,Furman,0,1
+332,6,"Oct 28, 1922",Oklahoma State,6,SMU,32,1
+333,6,"Oct 28, 1922",Spring Hill,14,Loyola (LA),0,0
+334,6,"Oct 28, 1922",Stanford,6,Oregon State,0,1
+335,6,"Oct 28, 1922",Syracuse,0,Penn State,0,0
+336,6,"Oct 28, 1922",Tennessee,49,Ole Miss,0,0
+337,6,"Oct 28, 1922",Texas,19,Alabama,10,0
+338,6,"Oct 28, 1922",Ouachita,6,Texas A&M,19,1
+339,6,"Oct 28, 1922",Tulane,26,Mississippi State,0,0
+340,6,"Oct 28, 1922",Tulsa,21,TCU,0,0
+341,6,"Oct 28, 1922",Vanderbilt,25,Mercer,0,0
+342,6,"Oct 28, 1922",Virginia,19,Johns Hopkins,0,1
+343,6,"Oct 28, 1922",Virginia Military Institute,14,NC State,0,0
+344,6,"Oct 28, 1922",Virginia Tech,73,Catholic,0,0
+345,6,"Oct 28, 1922",Washington,16,Washington State,13,1
+346,6,"Oct 28, 1922",Washington & Jefferson,14,West Virginia Wesleyan,0,1
+347,6,"Oct 28, 1922",Washington & Lee,53,Lynchburg,0,0
+348,6,"Oct 28, 1922",West Virginia,28,Rutgers,0,0
+349,6,"Oct 28, 1922",Hampden-Sydney,6,William & Mary,32,0
+350,6,"Oct 28, 1922",Williams,13,Columbia,10,1
+351,6,"Oct 29, 1922",Denver,16,Colorado,0,0
+352,7,"Nov 2, 1922",Spring Hill,7,LSU,25,1
+353,7,"Nov 3, 1922",Navy,14,Penn State,0,0
+354,7,"Nov 4, 1922",Alabama,9,Pennsylvania,7,1
+355,7,"Nov 4, 1922",Army,53,St. Bonaventure,0,0
+356,7,"Nov 4, 1922",Auburn,7,Georgia,3,0
+357,7,"Nov 4, 1922",Texas A&M,7,Baylor,13,1
+358,7,"Nov 4, 1922",California,61,Washington State,0,0
+359,7,"Nov 4, 1922",Carnegie Mellon,28,Grove City,0,0
+360,7,"Nov 4, 1922",Mercer,7,Carson-Newman,12,1
+361,7,"Nov 4, 1922",Kentucky,3,Centre,27,0
+362,7,"Nov 4, 1922",Lehigh,6,Colgate,35,1
+363,7,"Nov 4, 1922",Colorado,7,Colorado State,0,0
+364,7,"Nov 4, 1922",Cornell,56,Columbia,0,0
+365,7,"Nov 4, 1922",Boston University,7,Dartmouth,10,1
+366,7,"Nov 4, 1922",Denver,7,Wyoming,0,0
+367,7,"Nov 4, 1922",Iowa State,7,Drake,14,1
+368,7,"Nov 4, 1922",Duke,7,Oglethorpe,6,0
+369,7,"Nov 4, 1922",Talladega,6,Fort Benning,19,1
+370,7,"Nov 4, 1922",Furman,67,Erskine,6,0
+371,7,"Nov 4, 1922",Clemson,7,Georgia Tech,21,1
+372,7,"Nov 4, 1922",Gonzaga,12,Montana State,0,1
+373,7,"Nov 4, 1922",Grinnell,16,Washington (MO),0,1
+374,7,"Nov 4, 1922",Harvard,24,Florida,0,0
+375,7,"Nov 4, 1922",Illinois,6,Northwestern,3,0
+376,7,"Nov 4, 1922",Oklahoma,3,Kansas,19,1
+377,7,"Nov 4, 1922",Kansas State,14,Missouri,10,1
+378,7,"Nov 4, 1922",Michigan,63,Michigan State,0,0
+379,7,"Nov 4, 1922",Ole Miss,6,Birmingham-Southern,0,0
+380,7,"Nov 4, 1922",Millsaps,6,Mississippi College,13,0
+381,7,"Nov 4, 1922",Multnomah A.C.,6,Oregon State,0,0
+382,7,"Nov 4, 1922",Citadel,7,Newberry,10,1
+383,7,"Nov 4, 1922",North Carolina,19,Tulane,12,1
+384,7,"Nov 4, 1922",NC State,15,Davidson,0,0
+385,7,"Nov 4, 1922",Notre Dame,27,Indiana,0,0
+386,7,"Nov 4, 1922",Oregon,27,Pacific (Oregon),0,0
+387,7,"Nov 4, 1922",Mississippi State,7,Ouachita,7,0
+388,7,"Nov 4, 1922",Pitt,62,Geneva,0,0
+389,7,"Nov 4, 1922",Presbyterian,32,Wofford,0,1
+390,7,"Nov 4, 1922",Princeton,22,Swarthmore,13,0
+391,7,"Nov 4, 1922",Richmond,43,Randolph-Macon,13,0
+392,7,"Nov 4, 1922",Roanoke,14,Hampden-Sydney,0,1
+393,7,"Nov 4, 1922",Sewanee,7,South Carolina,6,1
+394,7,"Nov 4, 1922",USC,46,Occidental,0,0
+395,7,"Nov 4, 1922",SMU,46,Southwestern (TX),14,0
+396,7,"Nov 4, 1922",Nevada,7,Stanford,17,1
+397,7,"Nov 4, 1922",Syracuse,9,Nebraska,6,0
+398,7,"Nov 4, 1922",Tennessee Medical College,19,Chattanooga,0,0
+399,7,"Nov 4, 1922",Texas,29,Rice,0,1
+400,7,"Nov 4, 1922",TCU,22,Oklahoma State,14,0
+401,7,"Nov 4, 1922",Arkansas,6,Tulsa,13,0
+402,7,"Nov 4, 1922",Samford,7,Union (Tennessee),20,0
+403,7,"Nov 4, 1922",Colorado College,7,Utah,20,1
+404,7,"Nov 4, 1922",Utah State,7,Montana Tech,0,0
+405,7,"Nov 4, 1922",Tennessee,6,Vanderbilt,14,0
+406,7,"Nov 4, 1922",Washington & Lee,6,Virginia,22,1
+407,7,"Nov 4, 1922",Virginia Military Institute,61,Catholic,0,0
+408,7,"Nov 4, 1922",Virginia Tech,21,Maryland,0,0
+409,7,"Nov 4, 1922",Wabash,7,Purdue,6,1
+410,7,"Nov 4, 1922",Washington & Jefferson,14,Lafayette,13,0
+411,7,"Nov 4, 1922",West Virginia,34,Cincinnati,0,1
+412,7,"Nov 4, 1922",William & Mary,18,Wake Forest,0,1
+413,7,"Nov 4, 1922",Wisconsin,14,Minnesota,0,1
+414,7,"Nov 4, 1922",Yale,20,Brown,0,0
+415,8,"Nov 7, 1922",Rutgers,25,LSU,0,0
+416,8,"Nov 10, 1922",Alabama,47,LSU,3,0
+417,8,"Nov 11, 1922",Auburn,19,Tulane,0,0
+418,8,"Nov 11, 1922",TCU,7,Austin,20,1
+419,8,"Nov 11, 1922",Boston College,33,Baylor,0,0
+420,8,"Nov 11, 1922",Brown,27,Bates,12,0
+421,8,"Nov 11, 1922",Bucknell,14,Lehigh,0,1
+422,8,"Nov 11, 1922",Washington,7,California,45,0
+423,8,"Nov 11, 1922",Washington & Lee,6,Centre,27,1
+424,8,"Nov 11, 1922",Mercer,6,Chattanooga,13,1
+425,8,"Nov 11, 1922",Ohio State,9,Chicago,14,0
+426,8,"Nov 11, 1922",Clemson,18,Citadel,0,1
+427,8,"Nov 11, 1922",Colgate,40,Rochester,0,0
+428,8,"Nov 11, 1922",Colorado College,21,Colorado,10,0
+429,8,"Nov 11, 1922",Denver,7,Colorado Mines,7,0
+430,8,"Nov 11, 1922",Middlebury,6,Columbia,17,1
+431,8,"Nov 11, 1922",Cornell,23,Dartmouth,0,0
+432,8,"Nov 11, 1922",Cornell College,3,Grinnell,0,0
+433,8,"Nov 11, 1922",Davidson,34,Wofford,0,0
+434,8,"Nov 11, 1922",Colorado State,6,Drake,19,1
+435,8,"Nov 11, 1922",Duke,3,Wake Forest,0,1
+436,8,"Nov 11, 1922",Florida,58,Mississippi College,0,0
+437,8,"Nov 11, 1922",Virginia,6,Georgia,6,0
+438,8,"Nov 11, 1922",Georgetown,7,Georgia Tech,19,1
+439,8,"Nov 11, 1922",Hampden-Sydney,13,Emory & Henry,0,0
+440,8,"Nov 11, 1922",Idaho,16,Utah,0,0
+441,8,"Nov 11, 1922",Illinois,3,Wisconsin,0,1
+442,8,"Nov 11, 1922",Iowa,28,Minnesota,14,0
+443,8,"Nov 11, 1922",Iowa State,2,Kansas State,12,1
+444,8,"Nov 11, 1922",Rutgers,6,Lafayette,33,0
+445,8,"Nov 11, 1922",Hendrix,7,Ole Miss,13,1
+446,8,"Nov 11, 1922",Navy,52,Xavier,0,0
+447,8,"Nov 11, 1922",Nebraska,28,Kansas,0,1
+448,8,"Nov 11, 1922",Newberry,36,Erskine,0,0
+449,8,"Nov 11, 1922",North Carolina,9,Virginia Military Institute,7,1
+450,8,"Nov 11, 1922",Northwestern,24,Purdue,13,0
+451,8,"Nov 11, 1922",Army,0,Notre Dame,0,0
+452,8,"Nov 11, 1922",Fort Benning,3,Oglethorpe,14,0
+453,8,"Nov 11, 1922",Oklahoma,18,Missouri,14,0
+454,8,"Nov 11, 1922",Oregon,13,Washington State,0,0
+455,8,"Nov 11, 1922",Penn State,10,Carnegie Mellon,0,0
+456,8,"Nov 11, 1922",Pitt,7,Pennsylvania,6,1
+457,8,"Nov 11, 1922",Presbyterian,67,North Georgia,0,0
+458,8,"Nov 11, 1922",Harvard,3,Princeton,10,0
+459,8,"Nov 11, 1922",Arkansas,7,Rice,31,1
+460,8,"Nov 11, 1922",Richmond,45,Lynchburg,0,1
+461,8,"Nov 11, 1922",Sewanee,21,Birmingham-Southern,0,0
+462,8,"Nov 11, 1922",Furman,7,South Carolina,27,1
+463,8,"Nov 11, 1922",USC,6,Stanford,0,1
+464,8,"Nov 11, 1922",Texas A&M,6,SMU,17,1
+465,8,"Nov 11, 1922",Spring Hill,48,Samford,0,0
+466,8,"Nov 11, 1922",Syracuse,32,McGill,0,0
+467,8,"Nov 11, 1922",Tennessee,31,Mississippi State,3,0
+468,8,"Nov 11, 1922",Texas,26,Southwestern (TX),0,0
+469,8,"Nov 11, 1922",Utah State,26,Wyoming,0,0
+470,8,"Nov 11, 1922",Vanderbilt,9,Kentucky,0,0
+471,8,"Nov 11, 1922",Virginia Tech,24,NC State,0,0
+472,8,"Nov 11, 1922",Wabash,6,Washington & Jefferson,32,1
+473,8,"Nov 11, 1922",West Virginia,33,Indiana,0,1
+474,8,"Nov 11, 1922",William & Mary,14,Roanoke,0,1
+475,8,"Nov 11, 1922",Yale,45,Maryland,3,0
+476,9,"Nov 14, 1922",BYU,7,Wyoming,0,0
+477,9,"Nov 16, 1922",Samford,7,Millsaps,13,0
+478,9,"Nov 16, 1922",South Carolina,13,Citadel,0,0
+479,9,"Nov 18, 1922",Arkansas,9,SMU,0,0
+480,9,"Nov 18, 1922",Army,39,Bates,0,0
+481,9,"Nov 18, 1922",Auburn,6,Centre,0,0
+482,9,"Nov 18, 1922",Baylor,10,Oklahoma State,0,1
+483,9,"Nov 18, 1922",Brown,3,Harvard,0,1
+484,9,"Nov 18, 1922",California,61,Nevada,13,0
+485,9,"Nov 18, 1922",Carnegie Mellon,7,Allegheny,0,1
+486,9,"Nov 18, 1922",Central Oklahoma,14,Iowa State,13,1
+487,9,"Nov 18, 1922",Chicago,9,Illinois,0,0
+488,9,"Nov 18, 1922",Clemson,52,Erskine,0,0
+489,9,"Nov 18, 1922",Colorado State,19,Colorado Mines,0,0
+490,9,"Nov 18, 1922",Cornell,48,Albright,14,0
+491,9,"Nov 18, 1922",Columbia,7,Dartmouth,28,0
+492,9,"Nov 18, 1922",Denver,20,Colorado College,14,0
+493,9,"Nov 18, 1922",Drake,21,Grinnell,0,0
+494,9,"Nov 18, 1922",Duke,25,Randolph-Macon,12,0
+495,9,"Nov 18, 1922",Tulane,6,Florida,27,0
+496,9,"Nov 18, 1922",Fort Benning,15,Parris Island Marines,0,0
+497,9,"Nov 18, 1922",Furman,41,Wofford,0,1
+498,9,"Nov 18, 1922",Chattanooga,6,Georgetown (Kentucky),20,1
+499,9,"Nov 18, 1922",Georgia Tech,17,NC State,0,0
+500,9,"Nov 18, 1922",Howard Payne,26,TCU,14,1
+501,9,"Nov 18, 1922",Ohio State,9,Iowa,12,0
+502,9,"Nov 18, 1922",Colorado,6,Kansas,39,1
+503,9,"Nov 18, 1922",Kentucky,6,Alabama,0,0
+504,9,"Nov 18, 1922",Lehigh,6,Lebanon Valley,2,1
+505,9,"Nov 18, 1922",Maryland,3,Johns Hopkins,0,1
+506,9,"Nov 18, 1922",Mercer,18,Oglethorpe,16,0
+507,9,"Nov 18, 1922",Wisconsin,6,Michigan,13,1
+508,9,"Nov 18, 1922",Mississippi College,6,Birmingham-Southern,0,1
+509,9,"Nov 18, 1922",Mississippi State,7,LSU,0,1
+510,9,"Nov 18, 1922",Missouri,27,Washington (MO),0,0
+511,9,"Nov 18, 1922",Multnomah A.C.,35,Gonzaga,21,0
+512,9,"Nov 18, 1922",Nebraska,21,Kansas State,0,0
+513,9,"Nov 18, 1922",Davidson,6,North Carolina,29,1
+514,9,"Nov 18, 1922",Northwestern,58,Monmouth,14,0
+515,9,"Nov 18, 1922",Notre Dame,31,Butler,3,1
+516,9,"Nov 18, 1922",Oregon,10,Oregon State,0,1
+517,9,"Nov 18, 1922",Pennsylvania,7,Penn State,6,0
+518,9,"Nov 18, 1922",Pitt,19,Washington & Jefferson,0,0
+519,9,"Nov 18, 1922",Princeton,3,Yale,0,0
+520,9,"Nov 18, 1922",Richmond,34,Hampden-Sydney,0,0
+521,9,"Nov 18, 1922",Rutgers,37,New York University,0,0
+522,9,"Nov 18, 1922",USC,14,Idaho,0,0
+523,9,"Nov 18, 1922",Spring Hill,13,Louisiana,12,0
+524,9,"Nov 18, 1922",Colgate,7,Syracuse,14,1
+525,9,"Nov 18, 1922",Sewanee,7,Tennessee,18,1
+526,9,"Nov 18, 1922",Tennessee Medical College,32,Ole Miss,0,0
+527,9,"Nov 18, 1922",Oklahoma,7,Texas,32,0
+528,9,"Nov 18, 1922",Texas A&M,24,Rice,0,0
+529,9,"Nov 18, 1922",Whitman,6,Utah,24,1
+530,9,"Nov 18, 1922",Vanderbilt,12,Georgia,0,1
+531,9,"Nov 18, 1922",Virginia Military Institute,46,George Washington,0,1
+532,9,"Nov 18, 1922",Washington & Lee,6,Virginia Tech,41,1
+533,9,"Nov 18, 1922",Stanford,8,Washington,12,0
+534,9,"Nov 18, 1922",West Virginia,13,Virginia,0,0
+535,9,"Nov 18, 1922",William & Mary,45,Gallaudet,0,1
+536,10,"Nov 21, 1922",Gonzaga,77,Wyoming,0,0
+537,10,"Nov 23, 1922",Colorado,16,Colorado Mines,0,1
+538,10,"Nov 24, 1922",Trinity (Texas),7,TCU,7,0
+539,10,"Nov 25, 1922",Georgia,6,Alabama,10,1
+540,10,"Nov 25, 1922",Army,17,Navy,14,0
+541,10,"Nov 25, 1922",Bucknell,20,Rutgers,13,1
+542,10,"Nov 25, 1922",California,28,Stanford,0,1
+543,10,"Nov 25, 1922",Citadel,53,Southern College,0,0
+544,10,"Nov 25, 1922",Colorado State,33,BYU,0,0
+545,10,"Nov 25, 1922",Dartmouth,7,Brown,0,0
+546,10,"Nov 25, 1922",Washington & Jefferson,9,Detroit Mercy,20,0
+547,10,"Nov 25, 1922",Mississippi State,6,Drake,48,0
+548,10,"Nov 25, 1922",Presbyterian,6,Duke,6,0
+549,10,"Nov 25, 1922",Florida,12,Oglethorpe,0,1
+550,10,"Nov 25, 1922",Fort Benning,14,Ole Miss,13,0
+551,10,"Nov 25, 1922",Clemson,6,Furman,20,1
+552,10,"Nov 25, 1922",Idaho,7,Gonzaga,14,1
+553,10,"Nov 25, 1922",Yale,3,Harvard,10,0
+554,10,"Nov 25, 1922",Purdue,7,Indiana,7,0
+555,10,"Nov 25, 1922",Iowa,37,Northwestern,3,0
+556,10,"Nov 25, 1922",Lafayette,3,Lehigh,0,0
+557,10,"Nov 25, 1922",Maryland,54,Catholic,0,1
+558,10,"Nov 25, 1922",Mercer,12,Maryville (TN),0,0
+559,10,"Nov 25, 1922",Minnesota,7,Michigan,16,0
+560,10,"Nov 25, 1922",Mississippi College,7,Spring Hill,6,0
+561,10,"Nov 25, 1922",Iowa State,6,Nebraska,54,1
+562,10,"Nov 25, 1922",NC State,32,Wake Forest,0,1
+563,10,"Nov 25, 1922",Notre Dame,19,Carnegie Mellon,0,1
+564,10,"Nov 25, 1922",Ohio State,6,Illinois,3,1
+565,10,"Nov 25, 1922",Oklahoma State,3,Oklahoma,3,0
+566,10,"Nov 25, 1922",Oregon State,16,Washington State,0,0
+567,10,"Nov 25, 1922",Arizona,7,Rice,14,1
+568,10,"Nov 25, 1922",Samford,9,Birmingham-Southern,7,0
+569,10,"Nov 25, 1922",Vanderbilt,26,Sewanee,0,0
+570,10,"Nov 25, 1922",West Virginia,28,Ohio,0,0
+571,10,"Nov 25, 1922",Chicago,0,Wisconsin,0,0
+572,11,"Nov 30, 1922",Alabama,59,Mississippi State,0,0
+573,11,"Nov 30, 1922",Baylor,24,SMU,0,1
+574,11,"Nov 30, 1922",Centre,42,South Carolina,0,0
+575,11,"Nov 30, 1922",Oglethorpe,9,Chattanooga,13,1
+576,11,"Nov 30, 1922",Columbia,6,Colgate,59,0
+577,11,"Nov 30, 1922",Colorado College,6,Colorado Mines,25,0
+578,11,"Nov 30, 1922",Cornell,9,Pennsylvania,0,1
+579,11,"Nov 30, 1922",Furman,13,Davidson,0,0
+580,11,"Nov 30, 1922",Auburn,6,Georgia Tech,14,1
+581,11,"Nov 30, 1922",Kansas State,45,TCU,0,0
+582,11,"Nov 30, 1922",LSU,25,Tulane,14,0
+583,11,"Nov 30, 1922",Maryland,7,NC State,6,1
+584,11,"Nov 30, 1922",Millsaps,7,Ole Miss,19,0
+585,11,"Nov 30, 1922",Missouri,9,Kansas,7,0
+586,11,"Nov 30, 1922",Notre Dame,6,Nebraska,14,1
+587,11,"Nov 30, 1922",Virginia,7,North Carolina,10,0
+588,11,"Nov 30, 1922",Oklahoma State,13,Arkansas,0,1
+589,11,"Nov 30, 1922",Washington,3,Oregon,3,0
+590,11,"Nov 30, 1922",Pitt,14,Penn State,0,0
+591,11,"Nov 30, 1922",William & Mary,3,Richmond,13,1
+592,11,"Nov 30, 1922",USC,41,Washington State,3,0
+593,11,"Nov 30, 1922",Kentucky,7,Tennessee,14,1
+594,11,"Nov 30, 1922",Texas,7,Texas A&M,14,0
+595,11,"Nov 30, 1922",Utah,14,Utah State,0,0
+596,11,"Nov 30, 1922",Virginia Tech,7,Virginia Military Institute,3,0
+597,11,"Nov 30, 1922",Washington & Lee,14,Johns Hopkins,0,1
+598,11,"Nov 30, 1922",West Virginia,14,Washington & Jefferson,0,0
+599,11,"Nov 30, 1922",Wyoming,13,BYU,0,0
+600,11,"Dec 2, 1922",Citadel,28,Erskine,0,1
+601,11,"Dec 2, 1922",Denver,6,Colorado State,27,0
+602,11,"Dec 2, 1922",Duke,26,Wofford,0,1
+603,11,"Dec 2, 1922",Florida,47,Clemson,14,0
+604,11,"Dec 2, 1922",Fort Benning,27,Mercer,13,0
+605,11,"Dec 2, 1922",Lafayette,7,Georgetown,13,1
+606,11,"Dec 2, 1922",Idaho,39,Montana,0,0
+607,11,"Dec 2, 1922",Washington (MO),0,Oklahoma,0,0
+608,11,"Dec 2, 1922",Newberry,9,Presbyterian,35,1
+609,11,"Dec 2, 1922",Wake Forest,9,Hampden-Sydney,3,0
+610,12,"Dec 9, 1922",Arizona,7,Utah State,6,0
+611,12,"Dec 9, 1922",Haskell,21,Baylor,20,1
+612,12,"Dec 9, 1922",TCU,0,SMU,0,0
+613,13,"Dec 25, 1922",West Virginia,21,Gonzaga,13,0
+614,14,"Dec 30, 1922",Stanford,7,Pitt,16,0
+615,15,"Jan 1, 1923",Penn State,3,USC,14,1

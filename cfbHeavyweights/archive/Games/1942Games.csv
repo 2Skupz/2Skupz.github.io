@@ -1,0 +1,664 @@
+0,1,"Sep 12, 1942",Catawba College,2,North Carolina Pre-Flight,13,1
+1,2,"Sep 18, 1942",Chattanooga,7,Auburn,20,1
+2,2,"Sep 18, 1942",Denver,21,Colorado Mines,0,0
+3,2,"Sep 19, 1942",Baylor,68,Blackland Field,0,0
+4,2,"Sep 19, 1942",Clemson,32,Presbyterian,13,0
+5,2,"Sep 19, 1942",Drake,32,Central (Iowa),0,0
+6,2,"Sep 19, 1942",Georgia,7,Kentucky,6,1
+7,2,"Sep 19, 1942",Hardin-Simmons,12,Howard Payne,0,0
+8,2,"Sep 19, 1942",Washington (MO),7,Iowa,26,1
+9,2,"Sep 19, 1942",Iowa Pre-Flight,61,Kansas,0,1
+10,2,"Sep 19, 1942",Florida,7,Jacksonville Naval Air Station,20,1
+11,2,"Sep 19, 1942",Kansas Wesleyan,6,Kansas State,37,0
+12,2,"Sep 19, 1942",LSU,40,Northwestern State,0,0
+13,2,"Sep 19, 1942",Missouri,31,Fort Riley,0,0
+14,2,"Sep 19, 1942",New Mexico,7,Kirtland Field,6,0
+15,2,"Sep 19, 1942",Western New Mexico,6,New Mexico State,27,1
+16,2,"Sep 19, 1942",NC State,0,Davidson,0,0
+17,2,"Sep 19, 1942",Richmond,27,Camp Pickett,0,0
+18,2,"Sep 19, 1942",Pacific,9,Saint Mary's (CA) Pre-Flight,38,0
+19,2,"Sep 19, 1942",Texas,40,Corpus Christi NAS,0,0
+20,2,"Sep 19, 1942",Virginia Tech,28,Catawba College,14,0
+21,2,"Sep 19, 1942",William & Mary,27,Hampden-Sydney,0,1
+22,2,"Sep 19, 1942",Wisconsin,7,Camp Grant,0,0
+23,3,"Sep 25, 1942",Alabama,54,Louisiana,0,0
+24,3,"Sep 25, 1942",Citadel,32,Camp Davis,0,0
+25,3,"Sep 25, 1942",Creighton,20,Colorado Springs Field,0,1
+26,3,"Sep 25, 1942",Georgia,14,Jacksonville Naval Air Station,0,0
+27,3,"Sep 25, 1942",Iowa State,7,Denver,0,1
+28,3,"Sep 25, 1942",Kentucky,35,Xavier,19,1
+29,3,"Sep 25, 1942",Clarkson,6,Syracuse,58,1
+30,3,"Sep 25, 1942",TCU,7,UCLA,6,1
+31,3,"Sep 26, 1942",Arizona,53,New Mexico State,0,0
+32,3,"Sep 26, 1942",Arkansas,27,Wichita State,0,0
+33,3,"Sep 26, 1942",Montana,6,BYU,12,0
+34,3,"Sep 26, 1942",California,6,Saint Mary's (CA),0,0
+35,3,"Sep 26, 1942",Virginia Military Institute,0,Clemson,0,0
+36,3,"Sep 26, 1942",Colgate,49,St. Lawrence,0,0
+37,3,"Sep 26, 1942",Colorado,54,Colorado Mines,0,0
+38,3,"Sep 26, 1942",Colorado State,10,Wyoming,0,1
+39,3,"Sep 26, 1942",Columbia,39,Fort Monmouth,0,0
+40,3,"Sep 26, 1942",Cornell,20,Lafayette,16,0
+41,3,"Sep 26, 1942",Holy Cross,6,Dartmouth,17,0
+42,3,"Sep 26, 1942",Duke,21,Davidson,0,0
+43,3,"Sep 26, 1942",Duquesne,26,Waynesburg,0,0
+44,3,"Sep 26, 1942",Florida,45,Randolph-Macon,0,0
+45,3,"Sep 26, 1942",Purdue,7,Fordham,14,0
+46,3,"Sep 26, 1942",George Washington,20,Western Maryland,0,0
+47,3,"Sep 26, 1942",Georgetown,7,Temple,0,1
+48,3,"Sep 26, 1942",Pennsylvania,6,Georgia Pre-Flight,14,0
+49,3,"Sep 26, 1942",Georgia Tech,15,Auburn,0,0
+50,3,"Sep 26, 1942",Baylor,6,Hardin-Simmons,13,0
+51,3,"Sep 26, 1942",Illinois,46,South Dakota,0,0
+52,3,"Sep 26, 1942",Indiana,53,Butler,0,0
+53,3,"Sep 26, 1942",Iowa,27,Nebraska,0,0
+54,3,"Sep 26, 1942",Iowa Pre-Flight,20,Northwestern,12,1
+55,3,"Sep 26, 1942",Texas A&M,7,LSU,16,1
+56,3,"Sep 26, 1942",Marquette,14,Kansas,0,1
+57,3,"Sep 26, 1942",Maryland,34,Connecticut,0,0
+58,3,"Sep 26, 1942",Michigan,9,Great Lakes Navy,0,0
+59,3,"Sep 26, 1942",Pitt,7,Minnesota,50,1
+60,3,"Sep 26, 1942",Western Kentucky,6,Ole Miss,39,1
+61,3,"Sep 26, 1942",Mississippi State,35,Union (Tennessee),2,0
+62,3,"Sep 26, 1942",Saint Louis,7,Missouri,38,1
+63,3,"Sep 26, 1942",Northern Arizona,6,New Mexico,26,1
+64,3,"Sep 26, 1942",North Carolina,6,Wake Forest,0,0
+65,3,"Sep 26, 1942",North Carolina Pre-Flight,13,Harvard,0,1
+66,3,"Sep 26, 1942",NC State,13,Richmond,0,0
+67,3,"Sep 26, 1942",Wisconsin,7,Notre Dame,7,0
+68,3,"Sep 26, 1942",Ohio State,59,Fort Knox,0,0
+69,3,"Sep 26, 1942",Oklahoma State,0,Oklahoma,0,0
+70,3,"Sep 26, 1942",Oregon State,32,Idaho,0,1
+71,3,"Sep 26, 1942",Lakehurst NAS,6,Princeton,20,1
+72,3,"Sep 26, 1942",Corpus Christi NAS,7,Rice,18,1
+73,3,"Sep 26, 1942",Oregon,9,Saint Mary's (CA) Pre-Flight,10,0
+74,3,"Sep 26, 1942",Arizona State,6,San Francisco,54,1
+75,3,"Sep 26, 1942",Santa Clara,12,Utah,0,1
+76,3,"Sep 26, 1942",North Texas,7,SMU,26,1
+77,3,"Sep 26, 1942",Drake,6,St. Ambrose,12,0
+78,3,"Sep 26, 1942",South Carolina,0,Tennessee,0,0
+79,3,"Sep 26, 1942",Texas,64,Kansas State,0,0
+80,3,"Sep 26, 1942",Texas Tech,39,West Texas State,0,0
+81,3,"Sep 26, 1942",Tulane,27,USC,13,1
+82,3,"Sep 26, 1942",Utah State,47,Idaho Marines,0,1
+83,3,"Sep 26, 1942",Vanderbilt,52,Tennessee Tech,0,0
+84,3,"Sep 26, 1942",Virginia,12,Hampden-Sydney,0,0
+85,3,"Sep 26, 1942",Virginia Tech,7,Furman,6,1
+86,3,"Sep 26, 1942",Washington,27,Pacific,0,0
+87,3,"Sep 26, 1942",Southeast Missouri State,7,Washington (MO),26,1
+88,3,"Sep 26, 1942",Washington State,6,Stanford,0,1
+89,3,"Sep 26, 1942",Washington & Lee,7,West Virginia,21,1
+90,3,"Sep 26, 1942",William & Mary,3,Navy,0,1
+91,3,"Sep 27, 1942",Tulsa,84,Waco Field,0,0
+92,4,"Oct 2, 1942",Denver,17,Kansas,0,0
+93,4,"Oct 2, 1942",Detroit Mercy,27,Wayne State,0,0
+94,4,"Oct 2, 1942",Ole Miss,6,Georgetown,14,1
+95,4,"Oct 2, 1942",Muhlenberg,7,Manhattan,27,1
+96,4,"Oct 2, 1942",Georgia Pre-Flight,14,North Carolina Pre-Flight,14,0
+97,4,"Oct 2, 1942",Missouri-Rolla,7,Saint Louis,14,1
+98,4,"Oct 2, 1942",UTEP,7,New Mexico,0,0
+99,4,"Oct 2, 1942",Washington (MO),13,Creighton,12,1
+100,4,"Oct 2, 1942",BYU,6,Wyoming,13,0
+101,4,"Oct 3, 1942",Mississippi State,6,Alabama,21,1
+102,4,"Oct 3, 1942",Arizona,14,Utah,0,0
+103,4,"Oct 3, 1942",Army,14,Lafayette,0,0
+104,4,"Oct 3, 1942",Auburn,27,Tulane,13,1
+105,4,"Oct 3, 1942",Baylor,18,Oklahoma State,12,1
+106,4,"Oct 3, 1942",Boston College,33,West Virginia,0,0
+107,4,"Oct 3, 1942",Brown,28,Rhode Island,0,0
+108,4,"Oct 3, 1942",Citadel,47,Presbyterian,12,1
+109,4,"Oct 3, 1942",Cornell,6,Colgate,18,0
+110,4,"Oct 3, 1942",Colorado State,27,Colorado Mines,0,0
+111,4,"Oct 3, 1942",Columbia,34,Maine,2,0
+112,4,"Oct 3, 1942",Miami (OH),7,Dartmouth,58,1
+113,4,"Oct 3, 1942",Drake,7,Grinnell,6,0
+114,4,"Oct 3, 1942",Duquesne,25,Holy Cross,0,1
+115,4,"Oct 3, 1942",Tampa,6,Florida,26,0
+116,4,"Oct 3, 1942",Kansas State,7,Fort Riley,21,0
+117,4,"Oct 3, 1942",George Washington,27,Richmond,0,0
+118,4,"Oct 3, 1942",Furman,7,Georgia,40,1
+119,4,"Oct 3, 1942",Notre Dame,6,Georgia Tech,13,0
+120,4,"Oct 3, 1942",Great Lakes Navy,25,Iowa,0,1
+121,4,"Oct 3, 1942",Hardin-Simmons,34,North Texas,0,0
+122,4,"Oct 3, 1942",Illinois,67,Butler,0,0
+123,4,"Oct 3, 1942",Iowa Pre-Flight,7,Minnesota,6,1
+124,4,"Oct 3, 1942",Jacksonville Naval Air Station,14,Miami,0,1
+125,4,"Oct 3, 1942",Kentucky,53,Washington & Lee,0,0
+126,4,"Oct 3, 1942",Loyola Marymount,25,Occidental,0,0
+127,4,"Oct 3, 1942",Maryland,14,Lakehurst NAS,0,0
+128,4,"Oct 3, 1942",Mather Field,19,Montana,13,1
+129,4,"Oct 3, 1942",McMurry,12,New Mexico State,0,1
+130,4,"Oct 3, 1942",Michigan,20,Michigan State,0,0
+131,4,"Oct 3, 1942",Missouri,26,Colorado,13,0
+132,4,"Oct 3, 1942",Navy,35,Virginia,0,0
+133,4,"Oct 3, 1942",Nebraska,26,Iowa State,0,0
+134,4,"Oct 3, 1942",South Carolina,6,North Carolina,18,1
+135,4,"Oct 3, 1942",NC State,7,Clemson,6,0
+136,4,"Oct 3, 1942",Northwestern,3,Texas,0,0
+137,4,"Oct 3, 1942",Ohio State,32,Indiana,21,0
+138,4,"Oct 3, 1942",California,8,Oregon State,13,1
+139,4,"Oct 3, 1942",Bucknell,7,Penn State,14,1
+140,4,"Oct 3, 1942",Harvard,7,Pennsylvania,19,0
+141,4,"Oct 3, 1942",SMU,7,Pitt,20,1
+142,4,"Oct 3, 1942",Redlands,6,Northern Arizona,0,1
+143,4,"Oct 3, 1942",Rice,27,LSU,14,0
+144,4,"Oct 3, 1942",Rollins,14,Davidson,0,1
+145,4,"Oct 3, 1942",UCLA,7,Saint Mary's (CA) Pre-Flight,18,0
+146,4,"Oct 3, 1942",Stanford,6,Santa Clara,14,1
+147,4,"Oct 3, 1942",Second Air Force (Washington),14,Idaho,0,0
+148,4,"Oct 3, 1942",Washington,0,USC,0,0
+149,4,"Oct 3, 1942",Syracuse,25,Boston University,0,0
+150,4,"Oct 3, 1942",Temple,7,Virginia Military Institute,6,0
+151,4,"Oct 3, 1942",Tennessee,40,Fordham,14,0
+152,4,"Oct 3, 1942",Texas A&M,19,Texas Tech,0,0
+153,4,"Oct 3, 1942",Arkansas,6,TCU,13,1
+154,4,"Oct 3, 1942",Tulsa,23,Oklahoma,0,0
+155,4,"Oct 3, 1942",Utah State,28,Regis (CO),2,0
+156,4,"Oct 3, 1942",Vanderbilt,26,Purdue,0,0
+157,4,"Oct 3, 1942",Duke,7,Wake Forest,20,1
+158,4,"Oct 3, 1942",Washington State,7,Oregon,0,0
+159,4,"Oct 3, 1942",West Texas State,28,Arizona State,0,0
+160,4,"Oct 3, 1942",Virginia Tech,7,William & Mary,21,0
+161,4,"Oct 3, 1942",Princeton,7,Williams,19,0
+162,4,"Oct 3, 1942",Marquette,7,Wisconsin,35,1
+163,4,"Oct 3, 1942",Lehigh,6,Yale,33,1
+164,4,"Oct 4, 1942",Nevada,7,San Francisco,27,0
+165,5,"Oct 9, 1942",Temple,7,Bucknell,7,0
+166,5,"Oct 9, 1942",Colorado,31,Utah State,14,0
+167,5,"Oct 9, 1942",Eastern Washington,7,Idaho,28,0
+168,5,"Oct 9, 1942",Syracuse,13,Western Reserve,0,0
+169,5,"Oct 9, 1942",West Texas State,18,Albuquerque Field,13,0
+170,5,"Oct 10, 1942",Alabama,27,Pensacola NAS,0,0
+171,5,"Oct 10, 1942",Arizona,23,Arizona State,0,1
+172,5,"Oct 10, 1942",Cornell,8,Army,28,1
+173,5,"Oct 10, 1942",Arkansas,7,Baylor,20,0
+174,5,"Oct 10, 1942",Clemson,7,Boston College,14,1
+175,5,"Oct 10, 1942",Utah,7,BYU,12,0
+176,5,"Oct 10, 1942",Brown,28,Columbia,21,1
+177,5,"Oct 10, 1942",George Washington,2,Citadel,14,0
+178,5,"Oct 10, 1942",Colgate,27,Dartmouth,19,1
+179,5,"Oct 10, 1942",Texas A&M,7,Corpus Christi NAS,18,1
+180,5,"Oct 10, 1942",Denver,26,Colorado State,0,0
+181,5,"Oct 10, 1942",Saint Louis,9,Drake,19,1
+182,5,"Oct 10, 1942",Duquesne,33,Kansas State,0,0
+183,5,"Oct 10, 1942",Florida,6,Auburn,0,0
+184,5,"Oct 10, 1942",Georgetown,9,Manhattan,7,0
+185,5,"Oct 10, 1942",Georgia,48,Ole Miss,13,1
+186,5,"Oct 10, 1942",Georgia Pre-Flight,26,Duke,12,1
+187,5,"Oct 10, 1942",Georgia Tech,30,Chattanooga,12,0
+188,5,"Oct 10, 1942",Great Lakes Navy,7,Pitt,6,0
+189,5,"Oct 10, 1942",Hardin-Simmons,7,SMU,6,0
+190,5,"Oct 10, 1942",Holy Cross,60,Fort Totten,0,0
+191,5,"Oct 10, 1942",Illinois,20,Minnesota,13,0
+192,5,"Oct 10, 1942",Indiana,12,Nebraska,0,1
+193,5,"Oct 10, 1942",Iowa,33,Camp Grant,16,0
+194,5,"Oct 10, 1942",Iowa Pre-Flight,26,Michigan,14,1
+195,5,"Oct 10, 1942",Mississippi State,6,LSU,16,1
+196,5,"Oct 10, 1942",Louisiana Tech,20,UTEP,0,0
+197,5,"Oct 10, 1942",Manhattan Beach Coast Guard,20,Villanova,13,1
+198,5,"Oct 10, 1942",Marquette,34,Iowa State,12,1
+199,5,"Oct 10, 1942",Maryland,27,Rutgers,13,0
+200,5,"Oct 10, 1942",Miami,65,Tampa,6,0
+201,5,"Oct 10, 1942",Wayne State,6,Michigan State,46,1
+202,5,"Oct 10, 1942",New Mexico,32,New Mexico State,0,0
+203,5,"Oct 10, 1942",Fordham,0,North Carolina,0,0
+204,5,"Oct 10, 1942",NC State,7,North Carolina Pre-Flight,19,0
+205,5,"Oct 10, 1942",Notre Dame,27,Stanford,0,0
+206,5,"Oct 10, 1942",Ohio State,28,USC,12,0
+207,5,"Oct 10, 1942",Oklahoma State,9,Texas Tech,6,1
+208,5,"Oct 10, 1942",Lehigh,3,Penn State,19,0
+209,5,"Oct 10, 1942",Yale,6,Pennsylvania,35,0
+210,5,"Oct 10, 1942",Princeton,10,Navy,0,0
+211,5,"Oct 10, 1942",Purdue,7,Northwestern,6,1
+212,5,"Oct 10, 1942",Randolph-Macon,6,Richmond,0,1
+213,5,"Oct 10, 1942",Rollins,46,Washington & Lee,0,0
+214,5,"Oct 10, 1942",Saint Mary's (CA) Pre-Flight,40,Alameda Coast Guard,0,0
+215,5,"Oct 10, 1942",Santa Clara,7,California,6,1
+216,5,"Oct 10, 1942",Dayton,6,Tennessee,34,1
+217,5,"Oct 10, 1942",Texas,7,Oklahoma,0,0
+218,5,"Oct 10, 1942",Kansas,6,TCU,41,1
+219,5,"Oct 10, 1942",Rice,7,Tulane,18,1
+220,5,"Oct 10, 1942",Oregon State,7,UCLA,30,1
+221,5,"Oct 10, 1942",Vanderbilt,7,Kentucky,6,1
+222,5,"Oct 10, 1942",Virginia Military Institute,38,Virginia,18,1
+223,5,"Oct 10, 1942",Virginia Tech,16,Davidson,0,0
+224,5,"Oct 10, 1942",Furman,6,Wake Forest,14,0
+225,5,"Oct 10, 1942",Oregon,7,Washington,15,0
+226,5,"Oct 10, 1942",Wichita State,6,Washington (MO),27,1
+227,5,"Oct 10, 1942",Washington State,68,Montana,16,0
+228,5,"Oct 10, 1942",West Virginia,13,South Carolina,0,0
+229,5,"Oct 10, 1942",Harvard,7,William & Mary,7,0
+230,5,"Oct 10, 1942",Missouri,9,Wisconsin,17,1
+231,5,"Oct 10, 1942",Wyoming,33,Northern Colorado,0,0
+232,5,"Oct 11, 1942",Fort Riley,7,Creighton,34,1
+233,5,"Oct 11, 1942",Detroit Mercy,16,Fort Knox,0,0
+234,5,"Oct 11, 1942",Jacksonville Naval Air Station,33,Spence Field,0,0
+235,5,"Oct 11, 1942",Loyola Marymount,7,San Francisco,2,1
+236,5,"Oct 11, 1942",Nevada,6,Saint Mary's (CA),20,1
+237,5,"Oct 11, 1942",Tulsa,68,Randolph Field,0,0
+238,6,"Oct 16, 1942",Manhattan,7,Detroit Mercy,21,0
+239,6,"Oct 16, 1942",Fort Douglas,24,BYU,13,1
+240,6,"Oct 16, 1942",Furman,6,George Washington,0,1
+241,6,"Oct 16, 1942",Saint Louis,6,Miami,31,0
+242,6,"Oct 17, 1942",Alabama,8,Tennessee,0,0
+243,6,"Oct 17, 1942",Oklahoma State,6,Arizona,20,1
+244,6,"Oct 17, 1942",Arizona State,20,New Mexico State,0,0
+245,6,"Oct 17, 1942",Columbia,6,Army,34,0
+246,6,"Oct 17, 1942",Georgetown,6,Auburn,6,0
+247,6,"Oct 17, 1942",Texas Tech,7,Baylor,14,0
+248,6,"Oct 17, 1942",Boston College,7,North Carolina Pre-Flight,6,0
+249,6,"Oct 17, 1942",Brown,7,Lafayette,0,0
+250,6,"Oct 17, 1942",Newberry,7,Citadel,21,1
+251,6,"Oct 17, 1942",Colorado,12,New Mexico,0,0
+252,6,"Oct 17, 1942",Harvard,2,Dartmouth,14,0
+253,6,"Oct 17, 1942",Denver,17,Wyoming,14,0
+254,6,"Oct 17, 1942",Duke,34,Colgate,0,1
+255,6,"Oct 17, 1942",Fordham,23,West Virginia,14,0
+256,6,"Oct 17, 1942",Georgia,40,Tulane,0,0
+257,6,"Oct 17, 1942",Georgia Pre-Flight,26,Pensacola NAS,0,1
+258,6,"Oct 17, 1942",Georgia Tech,33,Davidson,0,0
+259,6,"Oct 17, 1942",Hardin-Simmons,47,Louisiana Tech,13,0
+260,6,"Oct 17, 1942",Iowa,7,Illinois,12,0
+261,6,"Oct 17, 1942",Pitt,7,Indiana,19,0
+262,6,"Oct 17, 1942",Drake,6,Iowa State,29,1
+263,6,"Oct 17, 1942",Virginia Tech,21,Kentucky,21,0
+264,6,"Oct 17, 1942",Ole Miss,7,LSU,21,1
+265,6,"Oct 17, 1942",Michigan State,7,Marquette,28,0
+266,6,"Oct 17, 1942",Michigan,34,Northwestern,16,0
+267,6,"Oct 17, 1942",Nebraska,2,Minnesota,15,0
+268,6,"Oct 17, 1942",Mississippi State,33,Vanderbilt,0,1
+269,6,"Oct 17, 1942",Missouri,46,Kansas State,2,1
+270,6,"Oct 17, 1942",Yale,6,Navy,13,1
+271,6,"Oct 17, 1942",Duquesne,6,North Carolina,13,1
+272,6,"Oct 17, 1942",Notre Dame,28,Iowa Pre-Flight,0,0
+273,6,"Oct 17, 1942",Ohio State,26,Purdue,0,0
+274,6,"Oct 17, 1942",Oklahoma,25,Kansas,0,1
+275,6,"Oct 17, 1942",Cornell,0,Penn State,0,0
+276,6,"Oct 17, 1942",Pennsylvania,6,Princeton,6,0
+277,6,"Oct 17, 1942",Saint Mary's (CA),27,San Francisco,0,0
+278,6,"Oct 17, 1942",Santa Clara,7,Oregon State,0,1
+279,6,"Oct 17, 1942",USC,26,Washington State,12,0
+280,6,"Oct 17, 1942",Idaho,7,Stanford,54,1
+281,6,"Oct 17, 1942",Syracuse,19,Holy Cross,0,1
+282,6,"Oct 17, 1942",SMU,6,Temple,6,0
+283,6,"Oct 17, 1942",Arkansas,6,Texas,47,0
+284,6,"Oct 17, 1942",TCU,7,Texas A&M,2,1
+285,6,"Oct 17, 1942",UTEP,20,Abilene Christian,14,1
+286,6,"Oct 17, 1942",Tulsa,40,Washington (MO),0,0
+287,6,"Oct 17, 1942",UCLA,21,California,0,1
+288,6,"Oct 17, 1942",Utah State,6,Utah,34,0
+289,6,"Oct 17, 1942",Florida,3,Villanova,13,1
+290,6,"Oct 17, 1942",Richmond,7,Virginia,7,0
+291,6,"Oct 17, 1942",Virginia Military Institute,29,Maryland,0,0
+292,6,"Oct 17, 1942",NC State,0,Wake Forest,0,0
+293,6,"Oct 17, 1942",Washington,35,Montana,0,0
+294,6,"Oct 17, 1942",Washington & Lee,20,Hampden-Sydney,13,0
+295,6,"Oct 17, 1942",Northern Arizona,7,West Texas State,27,0
+296,6,"Oct 17, 1942",Great Lakes Navy,7,Wisconsin,13,0
+297,6,"Oct 18, 1942",Creighton,14,Xavier,13,1
+298,6,"Oct 18, 1942",Jacksonville Naval Air Station,55,Daniel Field,0,0
+299,6,"Oct 18, 1942",Alameda Coast Guard,6,Loyola Marymount,38,1
+300,7,"Oct 22, 1942",South Carolina,6,Clemson,18,0
+301,7,"Oct 23, 1942",Villanova,6,Auburn,14,1
+302,7,"Oct 23, 1942",North Carolina Pre-Flight,34,Temple,0,1
+303,7,"Oct 23, 1942",Tulsa,41,Saint Louis,0,1
+304,7,"Oct 23, 1942",Fort Douglas,7,Utah State,49,1
+305,7,"Oct 24, 1942",Alabama,14,Kentucky,0,1
+306,7,"Oct 24, 1942",Arkansas,7,Ole Miss,6,0
+307,7,"Oct 24, 1942",Army,14,Harvard,0,1
+308,7,"Oct 24, 1942",Baylor,6,Texas A&M,0,0
+309,7,"Oct 24, 1942",Washington,6,California,19,0
+310,7,"Oct 24, 1942",Colorado State,7,Colorado,34,0
+311,7,"Oct 24, 1942",Creighton,33,Drake,14,1
+312,7,"Oct 24, 1942",Detroit Mercy,6,Georgetown,0,0
+313,7,"Oct 24, 1942",Duke,28,Pitt,0,1
+314,7,"Oct 24, 1942",Georgia,35,Cincinnati,13,1
+315,7,"Oct 24, 1942",Georgia Tech,21,Navy,0,1
+316,7,"Oct 24, 1942",Hardin-Simmons,21,Arizona State,0,0
+317,7,"Oct 24, 1942",Holy Cross,28,NC State,0,0
+318,7,"Oct 24, 1942",Iowa,14,Indiana,13,1
+319,7,"Oct 24, 1942",Kansas State,7,Kansas,19,0
+320,7,"Oct 24, 1942",Lafayette,19,Virginia,13,0
+321,7,"Oct 24, 1942",LSU,34,Georgia Pre-Flight,0,0
+322,7,"Oct 24, 1942",Duquesne,7,Manhattan,10,1
+323,7,"Oct 24, 1942",Marquette,39,Arizona,0,0
+324,7,"Oct 24, 1942",Maryland,51,Western Maryland,0,0
+325,7,"Oct 24, 1942",Miami,21,Rollins,0,0
+326,7,"Oct 24, 1942",Michigan State,14,Great Lakes Navy,0,0
+327,7,"Oct 24, 1942",Minnesota,16,Michigan,14,0
+328,7,"Oct 24, 1942",Mississippi State,26,Florida,12,1
+329,7,"Oct 24, 1942",Iowa State,6,Missouri,45,1
+330,7,"Oct 24, 1942",Nebraska,7,Oklahoma,0,1
+331,7,"Oct 24, 1942",Notre Dame,21,Illinois,14,1
+332,7,"Oct 24, 1942",Northwestern,6,Ohio State,20,0
+333,7,"Oct 24, 1942",Washington (MO),7,Oklahoma State,40,1
+334,7,"Oct 24, 1942",Oregon,28,Idaho,0,0
+335,7,"Oct 24, 1942",Penn State,13,Colgate,10,0
+336,7,"Oct 24, 1942",Pennsylvania,42,Columbia,12,0
+337,7,"Oct 24, 1942",Princeton,32,Brown,13,0
+338,7,"Oct 24, 1942",Saint Mary's (CA),13,Loyola Marymount,0,1
+339,7,"Oct 24, 1942",Corpus Christi NAS,6,SMU,21,1
+340,7,"Oct 24, 1942",USC,6,Stanford,14,1
+341,7,"Oct 24, 1942",Cornell,7,Syracuse,12,1
+342,7,"Oct 24, 1942",Furman,7,Tennessee,52,1
+343,7,"Oct 24, 1942",Rice,7,Texas,12,0
+344,7,"Oct 24, 1942",TCU,21,Pensacola NAS,0,1
+345,7,"Oct 24, 1942",Texas Tech,20,New Mexico,0,1
+346,7,"Oct 24, 1942",Tulane,29,North Carolina,14,0
+347,7,"Oct 24, 1942",Santa Clara,6,UCLA,14,1
+348,7,"Oct 24, 1942",Utah,21,Denver,12,0
+349,7,"Oct 24, 1942",Vanderbilt,66,Centre,0,0
+350,7,"Oct 24, 1942",Richmond,6,Virginia Military Institute,20,0
+351,7,"Oct 24, 1942",Washington & Lee,6,Virginia Tech,19,1
+352,7,"Oct 24, 1942",Washington State,26,Oregon State,13,1
+353,7,"Oct 24, 1942",West Texas State,7,UTEP,0,0
+354,7,"Oct 24, 1942",West Virginia,27,Waynesburg,0,0
+355,7,"Oct 24, 1942",William & Mary,61,George Washington,0,0
+356,7,"Oct 24, 1942",Wisconsin,13,Purdue,0,1
+357,7,"Oct 24, 1942",Colorado Mines,6,Wyoming,26,0
+358,7,"Oct 24, 1942",Dartmouth,7,Yale,17,1
+359,7,"Oct 25, 1942",Boston College,27,Wake Forest,0,0
+360,7,"Oct 25, 1942",Jacksonville Naval Air Station,26,Tampa,0,0
+361,7,"Oct 25, 1942",San Francisco,20,San Jose State,13,0
+362,8,"Oct 30, 1942",Jacksonville Naval Air Station,6,Georgia Pre-Flight,20,1
+363,8,"Oct 30, 1942",George Washington,6,Kentucky,27,0
+364,8,"Oct 30, 1942",South Carolina,14,Citadel,0,0
+365,8,"Oct 30, 1942",Tulsa,40,Drake,0,1
+366,8,"Oct 31, 1942",TCU,7,Baylor,10,0
+367,8,"Oct 31, 1942",Boston College,47,Georgetown,0,0
+368,8,"Oct 31, 1942",Oregon,7,California,20,1
+369,8,"Oct 31, 1942",Holy Cross,6,Colgate,6,0
+370,8,"Oct 31, 1942",Wyoming,7,Colorado,28,1
+371,8,"Oct 31, 1942",Columbia,14,Cornell,13,0
+372,8,"Oct 31, 1942",Virginia Military Institute,6,Davidson,24,0
+373,8,"Oct 31, 1942",Fort Douglas,6,Denver,44,1
+374,8,"Oct 31, 1942",Duquesne,14,St. Vincent's (Pennsylvania),0,0
+375,8,"Oct 31, 1942",Fordham,7,Saint Mary's (CA),0,0
+376,8,"Oct 31, 1942",Georgia,21,Alabama,10,0
+377,8,"Oct 31, 1942",Duke,7,Georgia Tech,26,0
+378,8,"Oct 31, 1942",Great Lakes Navy,17,Missouri,0,1
+379,8,"Oct 31, 1942",UTEP,7,Hardin-Simmons,39,1
+380,8,"Oct 31, 1942",Harvard,19,Princeton,14,0
+381,8,"Oct 31, 1942",Idaho,21,Montana,0,1
+382,8,"Oct 31, 1942",Purdue,7,Iowa,13,1
+383,8,"Oct 31, 1942",Indiana,6,Iowa Pre-Flight,26,0
+384,8,"Oct 31, 1942",Maryland,13,Florida,0,0
+385,8,"Oct 31, 1942",Miami,32,Furman,13,0
+386,8,"Oct 31, 1942",Michigan,28,Illinois,14,0
+387,8,"Oct 31, 1942",Temple,7,Michigan State,7,0
+388,8,"Oct 31, 1942",Northwestern,7,Minnesota,19,1
+389,8,"Oct 31, 1942",Ole Miss,48,Memphis,0,0
+390,8,"Oct 31, 1942",Mississippi State,6,Auburn,0,1
+391,8,"Oct 31, 1942",Kansas,7,Nebraska,14,0
+392,8,"Oct 31, 1942",Nevada,0,New Mexico,0,0
+393,8,"Oct 31, 1942",North Carolina Pre-Flight,9,Syracuse,0,1
+394,8,"Oct 31, 1942",NC State,21,North Carolina,14,0
+395,8,"Oct 31, 1942",Notre Dame,9,Navy,0,0
+396,8,"Oct 31, 1942",Iowa State,7,Oklahoma,14,0
+397,8,"Oct 31, 1942",Creighton,6,Oklahoma State,20,0
+398,8,"Oct 31, 1942",Pennsylvania,19,Army,0,0
+399,8,"Oct 31, 1942",Carnegie Mellon,6,Pitt,19,1
+400,8,"Oct 31, 1942",Texas Tech,7,Rice,19,1
+401,8,"Oct 31, 1942",Richmond,8,Washington & Lee,6,0
+402,8,"Oct 31, 1942",Santa Ana Field,40,Arizona State,0,1
+403,8,"Oct 31, 1942",Santa Clara,8,San Francisco,6,0
+404,8,"Oct 31, 1942",Tennessee,26,LSU,0,0
+405,8,"Oct 31, 1942",SMU,7,Texas,21,1
+406,8,"Oct 31, 1942",Texas A&M,41,Arkansas,0,0
+407,8,"Oct 31, 1942",Tulane,28,Vanderbilt,21,0
+408,8,"Oct 31, 1942",Stanford,7,UCLA,21,1
+409,8,"Oct 31, 1942",Utah,33,Colorado State,14,0
+410,8,"Oct 31, 1942",Utah State,9,BYU,6,1
+411,8,"Oct 31, 1942",Virginia Tech,20,Virginia,14,0
+412,8,"Oct 31, 1942",Clemson,6,Wake Forest,19,1
+413,8,"Oct 31, 1942",Washington,13,Oregon State,0,0
+414,8,"Oct 31, 1942",West Texas State,23,New Mexico State,0,1
+415,8,"Oct 31, 1942",West Virginia,24,Penn State,0,0
+416,8,"Oct 31, 1942",Wichita State,9,Kansas State,0,0
+417,8,"Oct 31, 1942",William & Mary,35,Dartmouth,14,1
+418,8,"Oct 31, 1942",Ohio State,7,Wisconsin,17,1
+419,8,"Oct 31, 1942",Yale,27,Brown,0,0
+420,8,"Nov 1, 1942",Marquette,10,Detroit Mercy,0,0
+421,8,"Nov 1, 1942",Loyola Marymount,6,Saint Louis,20,0
+422,8,"Nov 1, 1942",Villanova,32,Manhattan,0,0
+423,9,"Nov 6, 1942",Iowa State,7,Villanova,32,1
+424,9,"Nov 7, 1942",Alabama,29,South Carolina,0,0
+425,9,"Nov 7, 1942",Arizona,14,New Mexico,13,0
+426,9,"Nov 7, 1942",Boston College,28,Temple,0,0
+427,9,"Nov 7, 1942",Brown,20,Holy Cross,14,0
+428,9,"Nov 7, 1942",Colgate,35,Columbia,26,1
+429,9,"Nov 7, 1942",Colorado State,25,Utah State,0,0
+430,9,"Nov 7, 1942",Yale,7,Cornell,13,0
+431,9,"Nov 7, 1942",Princeton,7,Dartmouth,19,0
+432,9,"Nov 7, 1942",BYU,6,Denver,26,0
+433,9,"Nov 7, 1942",Duke,42,Maryland,0,0
+434,9,"Nov 7, 1942",Loyola Marymount,6,Fresno State,27,0
+435,9,"Nov 7, 1942",Furman,20,Citadel,0,0
+436,9,"Nov 7, 1942",George Washington,7,Clemson,0,1
+437,9,"Nov 7, 1942",Georgia,75,Florida,0,0
+438,9,"Nov 7, 1942",Georgia Pre-Flight,41,Auburn,14,0
+439,9,"Nov 7, 1942",Kentucky,7,Georgia Tech,47,1
+440,9,"Nov 7, 1942",Great Lakes Navy,42,Purdue,0,1
+441,9,"Nov 7, 1942",Hardin-Simmons,40,West Texas State,0,1
+442,9,"Nov 7, 1942",Northwestern,7,Illinois,14,0
+443,9,"Nov 7, 1942",Indiana,7,Minnesota,0,1
+444,9,"Nov 7, 1942",Iowa,6,Wisconsin,0,0
+445,9,"Nov 7, 1942",Fort Knox,7,Iowa Pre-Flight,13,0
+446,9,"Nov 7, 1942",Washington (MO),7,Kansas,19,1
+447,9,"Nov 7, 1942",LSU,26,Fordham,13,1
+448,9,"Nov 7, 1942",Harvard,7,Michigan,35,1
+449,9,"Nov 7, 1942",Mississippi State,7,Tulane,0,1
+450,9,"Nov 7, 1942",Nebraska,6,Missouri,26,0
+451,9,"Nov 7, 1942",Navy,7,Pennsylvania,0,1
+452,9,"Nov 7, 1942",North Carolina,43,Davidson,14,0
+453,9,"Nov 7, 1942",Georgetown,7,North Carolina Pre-Flight,23,0
+454,9,"Nov 7, 1942",NC State,2,Miami,0,1
+455,9,"Nov 7, 1942",Northern Iowa,27,Drake,12,0
+456,9,"Nov 7, 1942",Notre Dame,13,Army,0,1
+457,9,"Nov 7, 1942",Ohio State,59,Pitt,19,0
+458,9,"Nov 7, 1942",Oklahoma,76,Kansas State,0,0
+459,9,"Nov 7, 1942",UCLA,7,Oregon,14,1
+460,9,"Nov 7, 1942",Oregon State,33,Montana,0,0
+461,9,"Nov 7, 1942",Penn State,18,Syracuse,13,0
+462,9,"Nov 7, 1942",Arkansas,9,Rice,40,0
+463,9,"Nov 7, 1942",Duquesne,7,Saint Mary's (CA),7,0
+464,9,"Nov 7, 1942",California,7,USC,21,1
+465,9,"Nov 7, 1942",Washington,7,Stanford,20,1
+466,9,"Nov 7, 1942",Tennessee,34,Cincinnati,12,0
+467,9,"Nov 7, 1942",Texas,20,Baylor,0,0
+468,9,"Nov 7, 1942",Texas A&M,27,SMU,20,1
+469,9,"Nov 7, 1942",TCU,6,Texas Tech,13,1
+470,9,"Nov 7, 1942",UTEP,20,Northern Arizona,0,0
+471,9,"Nov 7, 1942",Oklahoma State,6,Tulsa,34,1
+472,9,"Nov 7, 1942",Utah,13,Colorado,0,1
+473,9,"Nov 7, 1942",Vanderbilt,19,Ole Miss,0,0
+474,9,"Nov 7, 1942",Washington & Lee,7,Virginia,34,0
+475,9,"Nov 7, 1942",Richmond,7,Virginia Tech,16,0
+476,9,"Nov 7, 1942",Wake Forest,28,Virginia Military Institute,0,0
+477,9,"Nov 7, 1942",Washington State,25,Michigan State,13,0
+478,9,"Nov 7, 1942",William & Mary,40,Randolph-Macon,0,0
+479,9,"Nov 8, 1942",Marquette,27,Manhattan,12,0
+480,9,"Nov 8, 1942",Jacksonville Naval Air Station,6,Rollins,13,1
+481,9,"Nov 8, 1942",Saint Louis,21,Creighton,19,0
+482,9,"Nov 8, 1942",Saint Mary's (CA) Pre-Flight,59,Santa Ana Field,0,1
+483,10,"Nov 11, 1942",Great Lakes Navy,33,Camp Grant,0,1
+484,10,"Nov 11, 1942",Kirtland Field,13,New Mexico State,0,1
+485,10,"Nov 13, 1942",Wake Forest,20,George Washington,0,1
+486,10,"Nov 14, 1942",Virginia Tech,7,Army,19,1
+487,10,"Nov 14, 1942",LSU,7,Auburn,25,1
+488,10,"Nov 14, 1942",Fordham,6,Boston College,56,1
+489,10,"Nov 14, 1942",California,13,Montana,0,0
+490,10,"Nov 14, 1942",Colgate,14,Syracuse,0,1
+491,10,"Nov 14, 1942",Colorado,48,BYU,0,0
+492,10,"Nov 14, 1942",Northern Colorado,6,Colorado State,14,0
+493,10,"Nov 14, 1942",Cornell,21,Dartmouth,19,0
+494,10,"Nov 14, 1942",Texas Tech,6,Creighton,13,1
+495,10,"Nov 14, 1942",Davidson,21,Washington & Lee,13,0
+496,10,"Nov 14, 1942",Detroit Mercy,9,Villanova,0,0
+497,10,"Nov 14, 1942",North Carolina,13,Duke,13,0
+498,10,"Nov 14, 1942",Furman,6,South Carolina,0,1
+499,10,"Nov 14, 1942",Georgetown,28,NC State,20,1
+500,10,"Nov 14, 1942",Georgia,40,Chattanooga,0,1
+501,10,"Nov 14, 1942",Georgia Pre-Flight,7,Tulane,0,1
+502,10,"Nov 14, 1942",Georgia Tech,7,Alabama,0,0
+503,10,"Nov 14, 1942",Hardin-Simmons,34,Arizona,26,1
+504,10,"Nov 14, 1942",Harvard,7,Brown,0,0
+505,10,"Nov 14, 1942",Holy Cross,13,Temple,0,1
+506,10,"Nov 14, 1942",Indiana,54,Kansas State,0,0
+507,10,"Nov 14, 1942",Iowa State,20,Kansas,13,0
+508,10,"Nov 14, 1942",Clemson,6,Jacksonville Naval Air Station,24,1
+509,10,"Nov 14, 1942",Maryland,27,Virginia,12,1
+510,10,"Nov 14, 1942",Miami,12,Florida,0,0
+511,10,"Nov 14, 1942",Michigan,32,Notre Dame,20,1
+512,10,"Nov 14, 1942",Purdue,6,Michigan State,19,1
+513,10,"Nov 14, 1942",Iowa,7,Minnesota,27,1
+514,10,"Nov 14, 1942",Duquesne,6,Mississippi State,28,1
+515,10,"Nov 14, 1942",Oklahoma,6,Missouri,6,0
+516,10,"Nov 14, 1942",Columbia,9,Navy,13,1
+517,10,"Nov 14, 1942",North Carolina Pre-Flight,17,Manhattan,0,1
+518,10,"Nov 14, 1942",Ohio State,44,Illinois,20,0
+519,10,"Nov 14, 1942",Saint Louis,7,Oklahoma State,54,1
+520,10,"Nov 14, 1942",Pennsylvania,7,Penn State,13,0
+521,10,"Nov 14, 1942",Pitt,6,Nebraska,0,0
+522,10,"Nov 14, 1942",Richmond,26,Hampden-Sydney,0,1
+523,10,"Nov 14, 1942",Washington,0,Saint Mary's (CA) Pre-Flight,0,0
+524,10,"Nov 14, 1942",San Francisco,33,Fresno State,13,1
+525,10,"Nov 14, 1942",Saint Mary's (CA),7,Santa Clara,20,1
+526,10,"Nov 14, 1942",USC,40,Oregon,0,0
+527,10,"Nov 14, 1942",Arkansas,6,SMU,14,1
+528,10,"Nov 14, 1942",Stanford,49,Oregon State,13,0
+529,10,"Nov 14, 1942",Tennessee,14,Ole Miss,0,0
+530,10,"Nov 14, 1942",Rice,0,Texas A&M,0,0
+531,10,"Nov 14, 1942",Texas,7,TCU,13,1
+532,10,"Nov 14, 1942",Arizona State,6,UTEP,40,1
+533,10,"Nov 14, 1942",Tulsa,24,Baylor,0,0
+534,10,"Nov 14, 1942",Wyoming,7,Utah,34,0
+535,10,"Nov 14, 1942",Denver,13,Utah State,13,0
+536,10,"Nov 14, 1942",Vanderbilt,27,Union (Tennessee),0,1
+537,10,"Nov 14, 1942",Drake,7,Washington (MO),14,1
+538,10,"Nov 14, 1942",Washington State,7,Idaho,0,1
+539,10,"Nov 14, 1942",New Mexico,7,West Texas State,13,0
+540,10,"Nov 14, 1942",West Virginia,7,Kentucky,0,1
+541,10,"Nov 14, 1942",Virginia Military Institute,6,William & Mary,27,1
+542,10,"Nov 14, 1942",Wisconsin,20,Northwestern,19,1
+543,10,"Nov 14, 1942",Princeton,6,Yale,13,1
+544,10,"Nov 15, 1942",Great Lakes Navy,24,Marquette,0,1
+545,10,"Nov 15, 1942",Loyola Marymount,13,Santa Ana Field,0,0
+546,11,"Nov 20, 1942",Baylor,6,SMU,6,0
+547,11,"Nov 20, 1942",Lubbock Field,6,West Texas State,14,1
+548,11,"Nov 21, 1942",Vanderbilt,7,Alabama,27,1
+549,11,"Nov 21, 1942",Albuquerque Field,13,Arizona State,0,1
+550,11,"Nov 21, 1942",UTEP,7,Arizona,19,0
+551,11,"Nov 21, 1942",Detroit Mercy,7,Arkansas,14,0
+552,11,"Nov 21, 1942",Princeton,7,Army,40,1
+553,11,"Nov 21, 1942",Auburn,27,Georgia,13,0
+554,11,"Nov 21, 1942",Boston College,37,Boston University,0,0
+555,11,"Nov 21, 1942",Davidson,9,Citadel,21,1
+556,11,"Nov 21, 1942",Furman,7,Clemson,12,1
+557,11,"Nov 21, 1942",Colgate,13,Brown,0,1
+558,11,"Nov 21, 1942",Dartmouth,26,Columbia,13,1
+559,11,"Nov 21, 1942",Duke,47,NC State,0,0
+560,11,"Nov 21, 1942",Fordham,20,Missouri,12,0
+561,11,"Nov 21, 1942",Georgetown,21,George Washington,0,0
+562,11,"Nov 21, 1942",Florida,7,Georgia Tech,20,1
+563,11,"Nov 21, 1942",Great Lakes Navy,6,Illinois,0,1
+564,11,"Nov 21, 1942",Texas Tech,0,Hardin-Simmons,0,0
+565,11,"Nov 21, 1942",Holy Cross,28,Manhattan,0,0
+566,11,"Nov 21, 1942",Idaho,20,Portland,14,0
+567,11,"Nov 21, 1942",Indiana,20,Purdue,0,1
+568,11,"Nov 21, 1942",Iowa Pre-Flight,46,Nebraska,0,0
+569,11,"Nov 21, 1942",Jacksonville Naval Air Station,16,Pensacola NAS,10,1
+570,11,"Nov 21, 1942",Kansas State,7,Iowa State,6,0
+571,11,"Nov 21, 1942",Maryland,32,Washington & Lee,28,0
+572,11,"Nov 21, 1942",South Carolina,6,Miami,13,1
+573,11,"Nov 21, 1942",Michigan State,7,West Virginia,0,0
+574,11,"Nov 21, 1942",Loyola Marymount,14,New Mexico,14,0
+575,11,"Nov 21, 1942",North Carolina,28,Virginia,13,1
+576,11,"Nov 21, 1942",North Carolina Pre-Flight,14,William & Mary,0,1
+577,11,"Nov 21, 1942",Northern Arizona,3,New Mexico State,0,1
+578,11,"Nov 21, 1942",Notre Dame,27,Northwestern,20,0
+579,11,"Nov 21, 1942",Michigan,7,Ohio State,21,1
+580,11,"Nov 21, 1942",Oklahoma State,55,Drake,12,0
+581,11,"Nov 21, 1942",Oregon State,39,Oregon,2,0
+582,11,"Nov 21, 1942",Pitt,6,Penn State,14,1
+583,11,"Nov 21, 1942",Rice,26,TCU,0,0
+584,11,"Nov 21, 1942",Saint Mary's (CA),33,Mather Field,0,0
+585,11,"Nov 21, 1942",Washington State,6,Second Air Force (Washington),6,0
+586,11,"Nov 21, 1942",California,7,Stanford,26,0
+587,11,"Nov 21, 1942",Rutgers,7,Syracuse,12,0
+588,11,"Nov 21, 1942",Oklahoma,7,Temple,14,1
+589,11,"Nov 21, 1942",Tennessee,26,Kentucky,0,0
+590,11,"Nov 21, 1942",Tulsa,33,Creighton,19,1
+591,11,"Nov 21, 1942",UCLA,14,Washington,10,0
+592,11,"Nov 21, 1942",Wyoming,6,Utah State,14,1
+593,11,"Nov 21, 1942",Missouri-Rolla,6,Washington (MO),19,0
+594,11,"Nov 21, 1942",Minnesota,6,Wisconsin,20,1
+595,11,"Nov 21, 1942",Yale,7,Harvard,3,0
+596,11,"Nov 22, 1942",Duquesne,6,Villanova,0,1
+597,11,"Nov 22, 1942",Marquette,34,Camp Grant,0,0
+598,11,"Nov 22, 1942",Santa Clara,6,Saint Mary's (CA) Pre-Flight,13,1
+599,11,"Nov 22, 1942",Alameda Coast Guard,6,San Francisco,44,1
+600,12,"Nov 26, 1942",Denver,6,Colorado,31,0
+601,12,"Nov 26, 1942",Duquesne,13,Lakehurst NAS,0,0
+602,12,"Nov 26, 1942",Great Lakes Navy,48,Northwestern,0,1
+603,12,"Nov 26, 1942",Tulane,6,LSU,18,1
+604,12,"Nov 26, 1942",Missouri,42,Kansas,13,0
+605,12,"Nov 26, 1942",Cornell,7,Pennsylvania,34,1
+606,12,"Nov 26, 1942",Texas A&M,6,Texas,12,1
+607,12,"Nov 26, 1942",Arizona,7,Texas Tech,13,0
+608,12,"Nov 26, 1942",UTEP,61,New Mexico State,6,0
+609,12,"Nov 26, 1942",Arkansas,7,Tulsa,40,1
+610,12,"Nov 26, 1942",Idaho,7,Utah,13,1
+611,12,"Nov 26, 1942",Utah State,21,Wichita State,13,1
+612,12,"Nov 26, 1942",Virginia Military Institute,6,Virginia Tech,20,1
+613,12,"Nov 26, 1942",Wake Forest,33,South Carolina,14,0
+614,12,"Nov 26, 1942",William & Mary,10,Richmond,0,1
+615,12,"Nov 28, 1942",Auburn,41,Clemson,13,0
+616,12,"Nov 28, 1942",Fordham,6,North Carolina Pre-Flight,0,0
+617,12,"Nov 28, 1942",Georgia,34,Georgia Tech,0,0
+618,12,"Nov 28, 1942",Georgia Pre-Flight,35,Alabama,19,1
+619,12,"Nov 28, 1942",Holy Cross,55,Boston College,12,0
+620,12,"Nov 28, 1942",Illinois,20,Camp Grant,0,1
+621,12,"Nov 28, 1942",Indiana,51,Fort Knox,0,1
+622,12,"Nov 28, 1942",Jacksonville Naval Air Station,13,Duke,0,0
+623,12,"Nov 28, 1942",Kansas State,19,Nebraska,0,1
+624,12,"Nov 28, 1942",Miami,21,West Virginia,13,0
+625,12,"Nov 28, 1942",Michigan,28,Iowa,14,0
+626,12,"Nov 28, 1942",Mississippi State,34,Ole Miss,13,0
+627,12,"Nov 28, 1942",Navy,14,Army,0,0
+628,12,"Nov 28, 1942",Arizona State,7,New Mexico,35,1
+629,12,"Nov 28, 1942",Notre Dame,13,USC,0,1
+630,12,"Nov 28, 1942",Ohio State,41,Iowa Pre-Flight,12,0
+631,12,"Nov 28, 1942",Detroit Mercy,6,Oklahoma State,33,0
+632,12,"Nov 28, 1942",Michigan State,7,Oregon State,7,0
+633,12,"Nov 28, 1942",Rice,20,Baylor,0,1
+634,12,"Nov 28, 1942",Saint Louis,26,Washington (MO),0,1
+635,12,"Nov 28, 1942",Santa Clara,21,Loyola Marymount,0,0
+636,12,"Nov 28, 1942",Stanford,28,Saint Mary's (CA) Pre-Flight,13,0
+637,12,"Nov 28, 1942",Vanderbilt,7,Tennessee,19,0
+638,12,"Nov 28, 1942",SMU,6,TCU,14,0
+639,12,"Nov 28, 1942",Temple,7,Villanova,20,0
+640,12,"Nov 28, 1942",Washington,0,Washington State,0,0
+641,12,"Nov 28, 1942",Oklahoma,7,William & Mary,14,0
+642,12,"Nov 29, 1942",Saint Mary's (CA),26,Alameda Coast Guard,0,0
+643,12,"Nov 29, 1942",San Francisco,28,Albuquerque Field,0,1
+644,13,"Dec 5, 1942",Northern Arizona,2,Arizona State,14,0
+645,13,"Dec 5, 1942",Saint Mary's (CA) Pre-Flight,6,California,12,1
+646,13,"Dec 5, 1942",Spence Field,6,Jacksonville Naval Air Station,19,0
+647,13,"Dec 5, 1942",Loyola Marymount,27,Redlands,0,1
+648,13,"Dec 5, 1942",San Francisco,7,Mississippi State,19,1
+649,13,"Dec 5, 1942",Missouri,7,Iowa Pre-Flight,0,0
+650,13,"Dec 5, 1942",Great Lakes Navy,13,Notre Dame,13,0
+651,13,"Dec 5, 1942",SMU,7,Rice,13,1
+652,13,"Dec 5, 1942",Second Air Force (Washington),27,Arizona,13,1
+653,13,"Dec 5, 1942",USC,38,Montana,0,0
+654,13,"Dec 5, 1942",Texas A&M,21,Washington State,0,0
+655,13,"Dec 5, 1942",UCLA,40,Idaho,13,0
+656,13,"Dec 6, 1942",Saint Mary's (CA),2,Detroit Mercy,0,0
+657,14,"Dec 12, 1942",USC,7,UCLA,14,0
+658,15,"Dec 19, 1942",USC,21,Saint Mary's (CA) Pre-Flight,13,0
+659,16,"Jan 1, 1943",Alabama,37,Boston College,21,0
+660,16,"Jan 1, 1943",Georgia,9,UCLA,0,1
+661,16,"Jan 1, 1943",Hardin-Simmons,7,Second Air Force (Washington),13,1
+662,16,"Jan 1, 1943",Tulsa,7,Tennessee,14,1
+663,16,"Jan 1, 1943",Georgia Tech,7,Texas,14,1

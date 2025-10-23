@@ -1,0 +1,687 @@
+0,1,"Sep 15, 1933",Waynesburg,6,Duquesne,18,1
+1,1,"Sep 16, 1933",TCU,33,Austin,0,1
+2,1,"Sep 16, 1933",William & Mary,7,Roanoke,6,1
+3,2,"Sep 22, 1933",Birmingham-Southern,7,Auburn,20,1
+4,2,"Sep 22, 1933",San Francisco,7,Nevada,12,1
+5,2,"Sep 22, 1933",Oregon State,21,Southern Oregon,0,0
+6,2,"Sep 23, 1933",Arkansas,40,Ozarks,0,0
+7,2,"Sep 23, 1933",Waynesburg,7,Bucknell,46,1
+8,2,"Sep 23, 1933",Coe,7,Grinnell,6,1
+9,2,"Sep 23, 1933",Davidson,6,Elon,0,0
+10,2,"Sep 23, 1933",Simpson,7,Drake,14,1
+11,2,"Sep 23, 1933",Emory & Henry,20,Virginia Military Institute,0,1
+12,2,"Sep 23, 1933",Virginia,7,Hampden-Sydney,7,0
+13,2,"Sep 23, 1933",Iowa State,14,Central (Iowa),0,0
+14,2,"Sep 23, 1933",Kansas,34,Central Missouri State,0,0
+15,2,"Sep 23, 1933",Kentucky,46,Maryville (TN),2,0
+16,2,"Sep 23, 1933",Rhodes,6,Ole Miss,6,0
+17,2,"Sep 23, 1933",NC State,7,Catawba College,0,0
+18,2,"Sep 23, 1933",North Texas,7,SMU,0,1
+19,2,"Sep 23, 1933",Oregon,53,Linfield,0,0
+20,2,"Sep 23, 1933",Oregon State,21,Willamette,0,0
+21,2,"Sep 23, 1933",Clemson,6,Presbyterian,6,0
+22,2,"Sep 23, 1933",Rice,7,Texas A&M-Kingsville,0,0
+23,2,"Sep 23, 1933",Santa Clara,7,California,0,1
+24,2,"Sep 23, 1933",South Carolina,31,Wofford,0,0
+25,2,"Sep 23, 1933",USC,39,Occidental,0,0
+26,2,"Sep 23, 1933",USC,51,Whittier,0,0
+27,2,"Sep 23, 1933",Stanford,27,San Jose State,0,0
+28,2,"Sep 23, 1933",Texas,46,Southwestern (TX),0,1
+29,2,"Sep 23, 1933",Texas A&M,38,Trinity (Texas),0,0
+30,2,"Sep 23, 1933",Daniel Baker,6,TCU,28,0
+31,2,"Sep 23, 1933",U.S. Marines,21,BYU,0,0
+32,2,"Sep 23, 1933",UCLA,34,Los Angeles Junior College,0,0
+33,2,"Sep 23, 1933",UCLA,13,San Diego State,0,0
+34,2,"Sep 23, 1933",Utah,61,Montana State,0,0
+35,2,"Sep 23, 1933",Vanderbilt,50,Cumberland,0,0
+36,2,"Sep 23, 1933",Villanova,45,West Chester,0,0
+37,2,"Sep 23, 1933",Virginia Tech,7,Roanoke,0,0
+38,2,"Sep 23, 1933",Washington,13,Gonzaga,0,0
+39,2,"Sep 23, 1933",West Virginia,0,Washington & Lee,0,0
+40,2,"Sep 23, 1933",William & Mary,12,Randolph-Macon,0,1
+41,2,"Sep 23, 1933",Wyoming,33,Fort Warren,0,1
+42,3,"Sep 29, 1933",Auburn,19,Samford,0,1
+43,3,"Sep 29, 1933",Ball State,2,Butler,19,1
+44,3,"Sep 29, 1933",Colorado College,9,Northern Colorado,7,1
+45,3,"Sep 29, 1933",Detroit Mercy,31,Eastern Michigan,0,0
+46,3,"Sep 29, 1933",West Virginia,7,Duquesne,19,1
+47,3,"Sep 29, 1933",Iowa State,18,Denver,13,1
+48,3,"Sep 29, 1933",New Mexico State,63,Wayland,0,0
+49,3,"Sep 29, 1933",Redlands,7,Northern Arizona,13,1
+50,3,"Sep 29, 1933",SMU,14,Texas Tech,0,0
+51,3,"Sep 29, 1933",South Carolina,6,Temple,26,1
+52,3,"Sep 30, 1933",Alabama,34,Oglethorpe,0,0
+53,3,"Sep 30, 1933",Arizona,18,Occidental,0,0
+54,3,"Sep 30, 1933",Oklahoma Baptist,7,Arkansas,42,1
+55,3,"Sep 30, 1933",Mercer,6,Army,19,1
+56,3,"Sep 30, 1933",St. Edward's,6,Baylor,20,1
+57,3,"Sep 30, 1933",BYU,25,Montana State,0,0
+58,3,"Sep 30, 1933",Bucknell,34,Lebanon Valley,0,0
+59,3,"Sep 30, 1933",California,39,California-Davis,0,0
+60,3,"Sep 30, 1933",California,34,Nevada,0,0
+61,3,"Sep 30, 1933",Centenary (LA),18,Northwestern State,0,0
+62,3,"Sep 30, 1933",Citadel,25,Erskine,0,0
+63,3,"Sep 30, 1933",Colorado,19,Chadron State,0,0
+64,3,"Sep 30, 1933",Colorado State,7,Wyoming,0,1
+65,3,"Sep 30, 1933",St. Lawrence,7,Cornell,48,1
+66,3,"Sep 30, 1933",Dartmouth,41,Norwich,0,0
+67,3,"Sep 30, 1933",Virginia Military Institute,6,Duke,37,1
+68,3,"Sep 30, 1933",Florida,28,Stetson,0,0
+69,3,"Sep 30, 1933",Fordham,52,Albright,0,0
+70,3,"Sep 30, 1933",Richmond,6,Furman,14,0
+71,3,"Sep 30, 1933",Georgetown,18,Mount St. Mary's,0,1
+72,3,"Sep 30, 1933",Georgia,20,NC State,10,0
+73,3,"Sep 30, 1933",Georgia Tech,39,Clemson,2,0
+74,3,"Sep 30, 1933",Drake,6,Illinois,13,1
+75,3,"Sep 30, 1933",Indiana,7,Miami (OH),0,0
+76,3,"Sep 30, 1933",Kansas,14,Creighton,0,1
+77,3,"Sep 30, 1933",Kansas State,25,Emporia State,0,0
+78,3,"Sep 30, 1933",Kentucky,7,Sewanee,0,0
+79,3,"Sep 30, 1933",Lafayette,20,Muhlenberg,0,0
+80,3,"Sep 30, 1933",LSU,13,Rice,0,0
+81,3,"Sep 30, 1933",Marquette,8,Lawrence,0,1
+82,3,"Sep 30, 1933",Maryland,20,St. John's (Maryland),0,0
+83,3,"Sep 30, 1933",Michigan State,14,Grinnell,0,0
+84,3,"Sep 30, 1933",South Dakota State,6,Minnesota,19,1
+85,3,"Sep 30, 1933",Ole Miss,45,Southern Miss,0,0
+86,3,"Sep 30, 1933",Mississippi State,12,Millsaps,0,0
+87,3,"Sep 30, 1933",Navy,12,William & Mary,0,0
+88,3,"Sep 30, 1933",North Carolina,6,Davidson,0,0
+89,3,"Sep 30, 1933",Oklahoma State,20,Central Oklahoma,12,0
+90,3,"Sep 30, 1933",Oregon,14,Gonzaga,0,1
+91,3,"Sep 30, 1933",Oregon State,20,Montana,0,0
+92,3,"Sep 30, 1933",Pitt,9,Washington & Jefferson,0,0
+93,3,"Sep 30, 1933",Saint Louis,32,James Millikin,0,0
+94,3,"Sep 30, 1933",Saint Mary's (CA),7,San Francisco,0,1
+95,3,"Sep 30, 1933",Santa Clara,19,Olympic Club,0,0
+96,3,"Sep 30, 1933",USC,18,Loyola Marymount,0,0
+97,3,"Sep 30, 1933",Stanford,3,UCLA,0,0
+98,3,"Sep 30, 1933",Tennessee,27,Virginia Tech,0,0
+99,3,"Sep 30, 1933",UTEP,6,Texas,22,1
+100,3,"Sep 30, 1933",Tulane,6,Texas A&M,13,0
+101,3,"Sep 30, 1933",TCU,13,North Texas,0,1
+102,3,"Sep 30, 1933",Villanova,7,Ursinus,7,0
+103,3,"Sep 30, 1933",Utah State,28,Western State,0,0
+104,3,"Sep 30, 1933",Oklahoma,0,Vanderbilt,0,0
+105,3,"Sep 30, 1933",Virginia,39,Randolph-Macon,0,0
+106,3,"Sep 30, 1933",Idaho,6,Washington,32,1
+107,3,"Sep 30, 1933",Roanoke,6,Washington & Lee,14,1
+108,3,"Sep 30, 1933",McKendree,7,Washington (MO),22,1
+109,3,"Sep 30, 1933",Washington State,56,Puget Sound,0,0
+110,3,"Sep 30, 1933",Whittier,27,Arizona State,0,0
+111,3,"Sep 30, 1933",Wofford,7,Lenoir-Rhyne,6,0
+112,4,"Oct 6, 1933",BYU,6,Northern Colorado,2,1
+113,4,"Oct 6, 1933",Colorado,6,Oklahoma State,0,1
+114,4,"Oct 6, 1933",Detroit Mercy,26,Western Michigan,0,0
+115,4,"Oct 6, 1933",Duquesne,6,Bucknell,0,0
+116,4,"Oct 6, 1933",Furman,33,Erskine,0,0
+117,4,"Oct 6, 1933",Kansas State,20,Saint Louis,14,1
+118,4,"Oct 6, 1933",Missouri,31,Central Methodist,0,0
+119,4,"Oct 6, 1933",New Mexico Highlands,4,New Mexico State,14,0
+120,4,"Oct 6, 1933",Northern Arizona,14,New Mexico,0,1
+121,4,"Oct 6, 1933",Texas Tech,33,Dixie,0,0
+122,4,"Oct 6, 1933",UCLA,21,Utah,0,0
+123,4,"Oct 7, 1933",Arkansas,13,TCU,0,0
+124,4,"Oct 7, 1933",Army,32,Virginia Military Institute,0,0
+125,4,"Oct 7, 1933",Brown,26,Rhode Island,0,0
+126,4,"Oct 7, 1933",California,14,Saint Mary's (CA),13,0
+127,4,"Oct 7, 1933",Canisius,6,Georgetown,0,0
+128,4,"Oct 7, 1933",Carnegie Mellon,25,Temple,0,1
+129,4,"Oct 7, 1933",Centenary (LA),19,Baylor,0,0
+130,4,"Oct 7, 1933",Chicago,32,Cornell College,0,0
+131,4,"Oct 7, 1933",Newberry,7,Citadel,7,0
+132,4,"Oct 7, 1933",Clemson,9,NC State,0,0
+133,4,"Oct 7, 1933",Colgate,47,St. Lawrence,0,0
+134,4,"Oct 7, 1933",Columbia,39,Lehigh,0,0
+135,4,"Oct 7, 1933",Richmond,7,Cornell,28,1
+136,4,"Oct 7, 1933",Vermont,6,Dartmouth,39,1
+137,4,"Oct 7, 1933",Davidson,28,Wofford,13,1
+138,4,"Oct 7, 1933",Colorado Mines,7,Denver,19,0
+139,4,"Oct 7, 1933",Butler,6,Drake,26,1
+140,4,"Oct 7, 1933",Duke,22,Wake Forest,0,0
+141,4,"Oct 7, 1933",Florida,31,Sewanee,0,0
+142,4,"Oct 7, 1933",North Dakota,6,George Washington,27,0
+143,4,"Oct 7, 1933",Georgia,26,Tulane,13,0
+144,4,"Oct 7, 1933",Oregon State,0,Gonzaga,0,0
+145,4,"Oct 7, 1933",Harvard,33,Bates,0,0
+146,4,"Oct 7, 1933",Creighton,0,Haskell,0,0
+147,4,"Oct 7, 1933",Idaho,60,Whitman,0,0
+148,4,"Oct 7, 1933",Washington (MO),6,Illinois,21,0
+149,4,"Oct 7, 1933",Minnesota,6,Indiana,6,0
+150,4,"Oct 7, 1933",Iowa,7,Northwestern,0,1
+151,4,"Oct 7, 1933",Notre Dame,0,Kansas,0,0
+152,4,"Oct 7, 1933",Kentucky,7,Georgia Tech,6,0
+153,4,"Oct 7, 1933",Lafayette,12,Franklin & Marshall,0,1
+154,4,"Oct 7, 1933",LSU,40,Millsaps,0,0
+155,4,"Oct 7, 1933",Loyola Marymount,14,Arizona,13,0
+156,4,"Oct 7, 1933",Michigan State,6,Michigan,20,1
+157,4,"Oct 7, 1933",Alabama,0,Ole Miss,0,0
+158,4,"Oct 7, 1933",Mercer,6,Navy,25,1
+159,4,"Oct 7, 1933",Nebraska,26,Texas,0,0
+160,4,"Oct 7, 1933",Grinnell,6,Northern Iowa,13,1
+161,4,"Oct 7, 1933",Ohio State,75,Virginia,0,0
+162,4,"Oct 7, 1933",Portland,7,Oregon,14,1
+163,4,"Oct 7, 1933",Lebanon Valley,6,Penn State,32,1
+164,4,"Oct 7, 1933",Pitt,21,West Virginia,0,0
+165,4,"Oct 7, 1933",Princeton,40,Amherst,0,0
+166,4,"Oct 7, 1933",Ohio,6,Purdue,13,1
+167,4,"Oct 7, 1933",Rice,13,Loyola (LA),0,0
+168,4,"Oct 7, 1933",San Diego Marines,26,Arizona State,0,0
+169,4,"Oct 7, 1933",USC,33,Washington State,0,0
+170,4,"Oct 7, 1933",UTEP,6,SMU,27,1
+171,4,"Oct 7, 1933",Stanford,7,Santa Clara,0,0
+172,4,"Oct 7, 1933",Syracuse,52,Clarkson,0,0
+173,4,"Oct 7, 1933",Tennessee,20,Mississippi State,0,0
+174,4,"Oct 7, 1933",Texas A&M,34,Sam Houston,14,0
+175,4,"Oct 7, 1933",Missouri,6,Truman State,26,0
+176,4,"Oct 7, 1933",Oklahoma,6,Tulsa,20,1
+177,4,"Oct 7, 1933",Montana State,6,Utah State,40,0
+178,4,"Oct 7, 1933",Vanderbilt,20,North Carolina,13,0
+179,4,"Oct 7, 1933",South Carolina,6,Villanova,15,0
+180,4,"Oct 7, 1933",Virginia Tech,14,Maryland,0,0
+181,4,"Oct 7, 1933",Waynesburg,7,Washington & Jefferson,19,1
+182,4,"Oct 7, 1933",Washington & Lee,7,William & Mary,0,0
+183,4,"Oct 7, 1933",West Virginia Wesleyan,3,New York University,0,1
+184,4,"Oct 7, 1933",Wisconsin,19,Marquette,0,0
+185,4,"Oct 7, 1933",Colorado College,0,Wyoming,0,0
+186,4,"Oct 7, 1933",Maine,7,Yale,14,1
+187,4,"Oct 9, 1933",Fordham,57,Muhlenberg,0,0
+188,5,"Oct 12, 1933",Tulsa,7,Washburn,0,1
+189,5,"Oct 13, 1933",George Washington,0,Clemson,0,0
+190,5,"Oct 13, 1933",Detroit Mercy,14,Washington & Jefferson,0,0
+191,5,"Oct 13, 1933",Drake,6,Creighton,0,0
+192,5,"Oct 13, 1933",Duquesne,13,Western Maryland,0,0
+193,5,"Oct 13, 1933",Loyola Marymount,21,Nevada,0,0
+194,5,"Oct 14, 1933",Alabama,18,Mississippi State,0,0
+195,5,"Oct 14, 1933",Baylor,7,Arkansas,19,1
+196,5,"Oct 14, 1933",Army,52,Delaware,0,0
+197,5,"Oct 14, 1933",Springfield,6,Brown,13,1
+198,5,"Oct 14, 1933",Bucknell,19,Villanova,17,1
+199,5,"Oct 14, 1933",California,23,Olympic Club,0,0
+200,5,"Oct 14, 1933",Carnegie Mellon,3,Xavier,0,0
+201,5,"Oct 14, 1933",LSU,0,Centenary (LA),0,0
+202,5,"Oct 14, 1933",Chicago,40,Washington (MO),0,1
+203,5,"Oct 14, 1933",Colgate,25,Rutgers,2,0
+204,5,"Oct 14, 1933",Colorado,42,Colorado Mines,0,0
+205,5,"Oct 14, 1933",Denver,0,Colorado State,0,0
+206,5,"Oct 14, 1933",Virginia,6,Columbia,15,1
+207,5,"Oct 14, 1933",Dartmouth,14,Bates,0,0
+208,5,"Oct 14, 1933",Davidson,6,Virginia Military Institute,0,0
+209,5,"Oct 14, 1933",Tennessee,2,Duke,10,1
+210,5,"Oct 14, 1933",NC State,0,Florida,0,0
+211,5,"Oct 14, 1933",Fordham,20,West Virginia,0,0
+212,5,"Oct 14, 1933",Butler,2,Franklin,16,1
+213,5,"Oct 14, 1933",Furman,14,Citadel,0,0
+214,5,"Oct 14, 1933",Georgia,30,North Carolina,0,1
+215,5,"Oct 14, 1933",Auburn,6,Georgia Tech,16,1
+216,5,"Oct 14, 1933",Gonzaga,8,West Seattle A.C.,6,0
+217,5,"Oct 14, 1933",Harvard,34,New Hampshire,0,0
+218,5,"Oct 14, 1933",Idaho,13,Albertson,0,0
+219,5,"Oct 14, 1933",Illinois,21,Wisconsin,0,0
+220,5,"Oct 14, 1933",Iowa,38,Bradley,0,0
+221,5,"Oct 14, 1933",Kansas State,33,Missouri,0,1
+222,5,"Oct 14, 1933",Kentucky,3,Cincinnati,0,1
+223,5,"Oct 14, 1933",Georgetown,20,Manhattan,20,0
+224,5,"Oct 14, 1933",Mercer,44,Spring Hill,3,0
+225,5,"Oct 14, 1933",Michigan,40,Cornell,0,0
+226,5,"Oct 14, 1933",Michigan State,20,Illinois Wesleyan,12,0
+227,5,"Oct 14, 1933",Ole Miss,7,Marquette,0,1
+228,5,"Oct 14, 1933",Montana State,7,Wyoming,0,1
+229,5,"Oct 14, 1933",Muhlenberg,3,Penn State,0,1
+230,5,"Oct 14, 1933",Nebraska,20,Iowa State,0,1
+231,5,"Oct 14, 1933",New Mexico Military,6,New Mexico,6,0
+232,5,"Oct 14, 1933",New York University,13,Lafayette,12,0
+233,5,"Oct 14, 1933",New Mexico State,7,Northern Arizona,13,1
+234,5,"Oct 14, 1933",Indiana,2,Notre Dame,12,0
+235,5,"Oct 14, 1933",Ohio State,20,Vanderbilt,0,0
+236,5,"Oct 14, 1933",Oklahoma,9,Texas,0,0
+237,5,"Oct 14, 1933",Oklahoma City,19,Oklahoma State,13,0
+238,5,"Oct 14, 1933",Oregon,6,Washington,0,1
+239,5,"Oct 14, 1933",San Francisco,7,Oregon State,12,0
+240,5,"Oct 14, 1933",Pennsylvania,9,Franklin & Marshall,0,0
+241,5,"Oct 14, 1933",Navy,6,Pitt,34,1
+242,5,"Oct 14, 1933",Princeton,45,Williams,0,0
+243,5,"Oct 14, 1933",Minnesota,7,Purdue,7,0
+244,5,"Oct 14, 1933",Richmond,13,Emory & Henry,0,0
+245,5,"Oct 14, 1933",Saint Louis,19,Grinnell,13,1
+246,5,"Oct 14, 1933",Santa Clara,7,San Diego Marines,14,0
+247,5,"Oct 14, 1933",Rhodes,7,Sewanee,12,0
+248,5,"Oct 14, 1933",Saint Mary's (CA),7,USC,14,1
+249,5,"Oct 14, 1933",Rice,7,SMU,13,0
+250,5,"Oct 14, 1933",Northwestern,0,Stanford,0,0
+251,5,"Oct 14, 1933",Syracuse,40,Ohio Wesleyan,0,0
+252,5,"Oct 14, 1933",Temple,31,Haskell,0,0
+253,5,"Oct 14, 1933",Texas A&M,17,Texas A&M-Kingsville,0,0
+254,5,"Oct 14, 1933",TCU,20,Hardin-Simmons,0,0
+255,5,"Oct 14, 1933",Texas Tech,7,Arizona,0,1
+256,5,"Oct 14, 1933",Tulane,20,Maryland,0,0
+257,5,"Oct 14, 1933",BYU,6,Utah,21,1
+258,5,"Oct 14, 1933",William & Mary,7,Virginia Tech,13,1
+259,5,"Oct 14, 1933",Montana,7,Washington State,13,0
+260,5,"Oct 14, 1933",Wofford,13,Erskine,12,0
+261,5,"Oct 14, 1933",Yale,14,Washington & Lee,0,0
+262,6,"Oct 19, 1933",South Carolina,7,Clemson,0,0
+263,6,"Oct 20, 1933",Duquesne,14,Detroit Mercy,0,0
+264,6,"Oct 20, 1933",Georgia,13,Mercer,12,1
+265,6,"Oct 20, 1933",New Mexico Highlands,3,Colorado College,0,1
+266,6,"Oct 20, 1933",Oregon,19,Idaho,0,0
+267,6,"Oct 20, 1933",Texas Tech,40,Louisiana Tech,10,0
+268,6,"Oct 21, 1933",Tennessee,6,Alabama,12,0
+269,6,"Oct 21, 1933",Arizona State,26,New Mexico,13,1
+270,6,"Oct 21, 1933",Army,6,Illinois,0,0
+271,6,"Oct 21, 1933",Baylor,21,Hardin-Simmons,0,0
+272,6,"Oct 21, 1933",BYU,13,Western State,0,1
+273,6,"Oct 21, 1933",Bucknell,21,Lafayette,0,1
+274,6,"Oct 21, 1933",Evansville,6,Butler,24,1
+275,6,"Oct 21, 1933",Carnegie Mellon,7,Notre Dame,0,0
+276,6,"Oct 21, 1933",Texas,0,Centenary (LA),0,0
+277,6,"Oct 21, 1933",Colgate,7,New York University,0,1
+278,6,"Oct 21, 1933",Colorado,6,Colorado State,19,1
+279,6,"Oct 21, 1933",Creighton,14,Rice,13,0
+280,6,"Oct 21, 1933",Pennsylvania,7,Dartmouth,14,0
+281,6,"Oct 21, 1933",Denver,12,Utah State,0,0
+282,6,"Oct 21, 1933",Drake,13,Grinnell,0,0
+283,6,"Oct 21, 1933",Davidson,7,Duke,19,0
+284,6,"Oct 21, 1933",Florida,9,North Carolina,0,0
+285,6,"Oct 21, 1933",Boston College,6,Fordham,32,1
+286,6,"Oct 21, 1933",Furman,7,Centre,6,1
+287,6,"Oct 21, 1933",Auburn,6,George Washington,19,1
+288,6,"Oct 21, 1933",Harvard,7,Holy Cross,10,0
+289,6,"Oct 21, 1933",Wisconsin,7,Iowa,26,1
+290,6,"Oct 21, 1933",LSU,20,Arkansas,0,0
+291,6,"Oct 21, 1933",Michigan,13,Ohio State,0,0
+292,6,"Oct 21, 1933",Michigan State,6,Marquette,0,1
+293,6,"Oct 21, 1933",Minnesota,7,Pitt,3,0
+294,6,"Oct 21, 1933",Ole Miss,41,Sewanee,0,0
+295,6,"Oct 21, 1933",Vanderbilt,7,Mississippi State,7,0
+296,6,"Oct 21, 1933",Virginia,7,Navy,13,1
+297,6,"Oct 21, 1933",Nebraska,9,Kansas State,0,1
+298,6,"Oct 21, 1933",Northern Colorado,27,Wyoming,0,0
+299,6,"Oct 21, 1933",Northwestern,25,Indiana,0,0
+300,6,"Oct 21, 1933",Iowa State,7,Oklahoma,19,1
+301,6,"Oct 21, 1933",SMU,7,Oklahoma State,7,0
+302,6,"Oct 21, 1933",Penn State,33,Lehigh,0,0
+303,6,"Oct 21, 1933",Wofford,6,Presbyterian,26,1
+304,6,"Oct 21, 1933",Princeton,20,Columbia,0,0
+305,6,"Oct 21, 1933",Purdue,14,Chicago,0,1
+306,6,"Oct 21, 1933",Missouri,7,Saint Louis,13,1
+307,6,"Oct 21, 1933",Oregon State,0,USC,0,0
+308,6,"Oct 21, 1933",Stanford,20,San Francisco,13,1
+309,6,"Oct 21, 1933",Cornell,7,Syracuse,14,0
+310,6,"Oct 21, 1933",West Virginia,7,Temple,13,1
+311,6,"Oct 21, 1933",Texas A&M,7,TCU,13,1
+312,6,"Oct 21, 1933",Tulane,7,Georgia Tech,0,1
+313,6,"Oct 21, 1933",Tulsa,7,Kansas,0,0
+314,6,"Oct 21, 1933",Loyola Marymount,7,UCLA,20,1
+315,6,"Oct 21, 1933",Villanova,40,Gettysburg,0,0
+316,6,"Oct 21, 1933",Virginia Military Institute,19,Maryland,13,0
+317,6,"Oct 21, 1933",Virginia Tech,7,Richmond,0,1
+318,6,"Oct 21, 1933",NC State,0,Wake Forest,0,0
+319,6,"Oct 21, 1933",Puget Sound,6,Washington,14,0
+320,6,"Oct 21, 1933",Washington & Jefferson,8,Xavier,0,1
+321,6,"Oct 21, 1933",Washington & Lee,7,Kentucky,0,0
+322,6,"Oct 21, 1933",Bradley,7,Washington (MO),19,1
+323,6,"Oct 21, 1933",Washington State,6,California,6,0
+324,6,"Oct 21, 1933",Western Maryland,20,Georgetown,0,0
+325,6,"Oct 21, 1933",Guilford,7,William & Mary,37,0
+326,6,"Oct 21, 1933",Brown,6,Yale,14,1
+327,6,"Oct 22, 1933",Duquesne,25,West Virginia Wesleyan,0,0
+328,7,"Oct 26, 1933",Citadel,6,South Carolina,12,1
+329,7,"Oct 27, 1933",Arizona,6,New Mexico State,0,1
+330,7,"Oct 27, 1933",Creighton,6,Grinnell,0,1
+331,7,"Oct 27, 1933",Duquesne,31,Westminster (Pennsylvania),0,0
+332,7,"Oct 27, 1933",Rhodes,6,Mississippi State,0,0
+333,7,"Oct 27, 1933",Saint Mary's (CA),61,Nevada,0,1
+334,7,"Oct 28, 1933",Arkansas,3,SMU,0,0
+335,7,"Oct 28, 1933",Army,21,Yale,0,1
+336,7,"Oct 28, 1933",Tulane,7,Auburn,13,0
+337,7,"Oct 28, 1933",Temple,7,Bucknell,20,1
+338,7,"Oct 28, 1933",Washington & Jefferson,0,Carnegie Mellon,0,0
+339,7,"Oct 28, 1933",Catholic,12,Wake Forest,0,1
+340,7,"Oct 28, 1933",Butler,7,Cincinnati,34,1
+341,7,"Oct 28, 1933",Colorado,40,Wyoming,12,0
+342,7,"Oct 28, 1933",Colorado Mines,19,Western State,13,1
+343,7,"Oct 28, 1933",Columbia,33,Penn State,0,0
+344,7,"Oct 28, 1933",Harvard,7,Dartmouth,7,0
+345,7,"Oct 28, 1933",NC State,6,Davidson,6,0
+346,7,"Oct 28, 1933",West Virginia,7,Davis & Elkins,7,0
+347,7,"Oct 28, 1933",Denver,31,Colorado College,0,0
+348,7,"Oct 28, 1933",Marquette,6,Detroit Mercy,22,1
+349,7,"Oct 28, 1933",Drake,6,Washington (MO),0,1
+350,7,"Oct 28, 1933",Kentucky,7,Duke,14,0
+351,7,"Oct 28, 1933",Fordham,2,Alabama,0,0
+352,7,"Oct 28, 1933",George Washington,33,West Virginia Wesleyan,0,1
+353,7,"Oct 28, 1933",Georgia,25,New York University,0,0
+354,7,"Oct 28, 1933",North Carolina,6,Georgia Tech,10,0
+355,7,"Oct 28, 1933",Brown,7,Holy Cross,19,1
+356,7,"Oct 28, 1933",Montana,6,Idaho,12,1
+357,7,"Oct 28, 1933",Missouri,7,Iowa State,14,1
+358,7,"Oct 28, 1933",Kansas State,6,Kansas,0,1
+359,7,"Oct 28, 1933",Colgate,0,Lafayette,0,0
+360,7,"Oct 28, 1933",Saint Louis,6,Loyola (LA),16,1
+361,7,"Oct 28, 1933",New Mexico,7,Loyola Marymount,43,0
+362,7,"Oct 28, 1933",Furman,6,Mercer,6,0
+363,7,"Oct 28, 1933",Michigan,28,Chicago,0,1
+364,7,"Oct 28, 1933",Syracuse,3,Michigan State,27,1
+365,7,"Oct 28, 1933",Iowa,7,Minnesota,19,1
+366,7,"Oct 28, 1933",Ole Miss,13,Clemson,0,0
+367,7,"Oct 28, 1933",Navy,13,Pennsylvania,0,1
+368,7,"Oct 28, 1933",Oklahoma,7,Nebraska,16,1
+369,7,"Oct 28, 1933",Northern Arizona,13,Arizona State,0,0
+370,7,"Oct 28, 1933",Ohio State,12,Northwestern,0,0
+371,7,"Oct 28, 1933",Oklahoma State,18,Haskell,0,0
+372,7,"Oct 28, 1933",Oregon,7,UCLA,0,1
+373,7,"Oct 28, 1933",Oregon State,2,Washington State,0,0
+374,7,"Oct 28, 1933",Pitt,14,Notre Dame,0,1
+375,7,"Oct 28, 1933",Princeton,6,Washington & Lee,0,0
+376,7,"Oct 28, 1933",Purdue,14,Wisconsin,0,1
+377,7,"Oct 28, 1933",Richmond,19,Roanoke,0,0
+378,7,"Oct 28, 1933",San Francisco,6,Gonzaga,0,0
+379,7,"Oct 28, 1933",Sewanee,14,Cumberland,0,0
+380,7,"Oct 28, 1933",South Carolina,12,Virginia Tech,0,1
+381,7,"Oct 28, 1933",USC,6,California,3,1
+382,7,"Oct 28, 1933",Florida,6,Tennessee,13,1
+383,7,"Oct 28, 1933",Texas,18,Rice,0,0
+384,7,"Oct 28, 1933",Baylor,7,Texas A&M,14,1
+385,7,"Oct 28, 1933",Centenary (LA),0,TCU,0,0
+386,7,"Oct 28, 1933",Texas Tech,12,UTEP,0,1
+387,7,"Oct 28, 1933",Utah State,6,Utah,14,1
+388,7,"Oct 28, 1933",LSU,7,Vanderbilt,7,0
+389,7,"Oct 28, 1933",Villanova,47,Manhattan,0,1
+390,7,"Oct 28, 1933",Virginia Military Institute,13,Virginia,12,1
+391,7,"Oct 28, 1933",Washington,6,Stanford,0,0
+392,7,"Oct 28, 1933",Maryland,7,Western Maryland,13,1
+393,7,"Oct 28, 1933",Georgetown,6,William & Mary,12,0
+394,8,"Nov 4, 1933",Alabama,20,Kentucky,0,0
+395,8,"Nov 4, 1933",Arizona,24,Northern Arizona,0,0
+396,8,"Nov 4, 1933",Fresno State,7,Arizona State,21,1
+397,8,"Nov 4, 1933",Army,34,Coe,0,0
+398,8,"Nov 4, 1933",Baylor,7,TCU,0,0
+399,8,"Nov 4, 1933",Boston College,39,Georgetown,0,0
+400,8,"Nov 4, 1933",UCLA,0,California,0,0
+401,8,"Nov 4, 1933",Carleton,18,Grinnell,0,0
+402,8,"Nov 4, 1933",Centenary (LA),20,Texas A&M,0,0
+403,8,"Nov 4, 1933",Clemson,13,Wake Forest,0,0
+404,8,"Nov 4, 1933",Colorado,26,Colorado College,0,0
+405,8,"Nov 4, 1933",Colorado State,19,Colorado Mines,0,1
+406,8,"Nov 4, 1933",Columbia,9,Cornell,6,1
+407,8,"Nov 4, 1933",Creighton,18,Washington (MO),0,0
+408,8,"Nov 4, 1933",Denver,6,BYU,0,0
+409,8,"Nov 4, 1933",Detroit Mercy,24,Holy Cross,0,0
+410,8,"Nov 4, 1933",Auburn,7,Duke,13,1
+411,8,"Nov 4, 1933",Washington & Jefferson,6,Duquesne,21,0
+412,8,"Nov 4, 1933",Furman,38,Wofford,0,0
+413,8,"Nov 4, 1933",Georgia,14,Florida,0,0
+414,8,"Nov 4, 1933",Harvard,27,Lehigh,0,0
+415,8,"Nov 4, 1933",Iowa State,7,Iowa,27,1
+416,8,"Nov 4, 1933",Michigan State,0,Kansas State,0,0
+417,8,"Nov 4, 1933",South Carolina,7,LSU,30,1
+418,8,"Nov 4, 1933",Loyola Marymount,21,Whittier,0,1
+419,8,"Nov 4, 1933",West Virginia,13,Marquette,13,0
+420,8,"Nov 4, 1933",Michigan,7,Illinois,6,1
+421,8,"Nov 4, 1933",Northwestern,0,Minnesota,0,0
+422,8,"Nov 4, 1933",Ole Miss,12,Birmingham-Southern,0,0
+423,8,"Nov 4, 1933",Mississippi State,18,Mississippi College,0,0
+424,8,"Nov 4, 1933",Montana,32,Montana State,0,0
+425,8,"Nov 4, 1933",Navy,7,Notre Dame,0,0
+426,8,"Nov 4, 1933",Nebraska,26,Missouri,0,1
+427,8,"Nov 4, 1933",New Mexico Highlands,6,New Mexico,45,1
+428,8,"Nov 4, 1933",North Carolina,6,NC State,0,1
+429,8,"Nov 4, 1933",Northern Colorado,6,Western State,0,0
+430,8,"Nov 4, 1933",Ohio State,21,Indiana,0,0
+431,8,"Nov 4, 1933",Oklahoma,20,Kansas,0,0
+432,8,"Nov 4, 1933",Oklahoma State,7,Tulsa,0,1
+433,8,"Nov 4, 1933",Utah,7,Oregon,26,1
+434,8,"Nov 4, 1933",Lafayette,7,Pennsylvania,16,1
+435,8,"Nov 4, 1933",Pitt,37,Centre,0,0
+436,8,"Nov 4, 1933",Presbyterian,7,Citadel,6,1
+437,8,"Nov 4, 1933",Princeton,33,Brown,0,1
+438,8,"Nov 4, 1933",Carnegie Mellon,7,Purdue,17,1
+439,8,"Nov 4, 1933",Richmond,27,Randolph-Macon,0,0
+440,8,"Nov 4, 1933",Saint Louis,7,Wichita State,0,1
+441,8,"Nov 4, 1933",Fordham,6,Saint Mary's (CA),13,0
+442,8,"Nov 4, 1933",Santa Clara,13,Rice,0,0
+443,8,"Nov 4, 1933",Sewanee,13,Tennessee Tech,0,0
+444,8,"Nov 4, 1933",Stanford,21,Olympic Club,0,0
+445,8,"Nov 4, 1933",Penn State,6,Syracuse,12,1
+446,8,"Nov 4, 1933",Temple,20,Drake,14,0
+447,8,"Nov 4, 1933",Tennessee,13,George Washington,0,1
+448,8,"Nov 4, 1933",Texas,10,SMU,0,1
+449,8,"Nov 4, 1933",Haskell,6,Texas Tech,26,1
+450,8,"Nov 4, 1933",UTEP,9,New Mexico State,0,0
+451,8,"Nov 4, 1933",Tulane,7,Colgate,0,1
+452,8,"Nov 4, 1933",Utah State,27,Wyoming,0,0
+453,8,"Nov 4, 1933",Vanderbilt,9,Georgia Tech,6,1
+454,8,"Nov 4, 1933",Villanova,21,Albright,0,1
+455,8,"Nov 4, 1933",Virginia,6,Maryland,0,0
+456,8,"Nov 4, 1933",Wabash,12,Butler,0,1
+457,8,"Nov 4, 1933",Virginia Tech,7,Washington & Lee,7,0
+458,8,"Nov 4, 1933",Washington State,16,Gonzaga,0,1
+459,8,"Nov 4, 1933",Western Maryland,14,Bucknell,13,0
+460,8,"Nov 4, 1933",William & Mary,14,Virginia Military Institute,0,0
+461,8,"Nov 4, 1933",Chicago,0,Wisconsin,0,0
+462,8,"Nov 4, 1933",Yale,14,Dartmouth,13,0
+463,9,"Nov 11, 1933",Alabama,27,Virginia Tech,0,0
+464,9,"Nov 11, 1933",New Mexico State,7,Arizona State,19,1
+465,9,"Nov 11, 1933",Army,27,Harvard,0,1
+466,9,"Nov 11, 1933",Oglethorpe,6,Auburn,27,1
+467,9,"Nov 11, 1933",Boston College,9,Villanova,0,0
+468,9,"Nov 11, 1933",BYU,25,Colorado College,0,1
+469,9,"Nov 11, 1933",Syracuse,7,Brown,10,0
+470,9,"Nov 11, 1933",Bucknell,12,Furman,0,0
+471,9,"Nov 11, 1933",California,33,Washington,0,0
+472,9,"Nov 11, 1933",Michigan State,0,Carnegie Mellon,0,0
+473,9,"Nov 11, 1933",Centenary (LA),27,Henderson State,0,0
+474,9,"Nov 11, 1933",Colgate,72,Ohio Northern,0,0
+475,9,"Nov 11, 1933",Colorado State,3,Utah State,0,0
+476,9,"Nov 11, 1933",Navy,7,Columbia,14,1
+477,9,"Nov 11, 1933",Citadel,6,Davidson,24,1
+478,9,"Nov 11, 1933",Detroit Mercy,26,Catholic,0,1
+479,9,"Nov 11, 1933",Maryland,7,Duke,38,0
+480,9,"Nov 11, 1933",William & Mary,6,Emory & Henry,25,1
+481,9,"Nov 11, 1933",Fordham,20,New York University,12,0
+482,9,"Nov 11, 1933",Washington & Jefferson,6,George Washington,13,0
+483,9,"Nov 11, 1933",Georgia,7,Yale,0,1
+484,9,"Nov 11, 1933",Florida,7,Georgia Tech,19,1
+485,9,"Nov 11, 1933",Haskell,0,Grinnell,0,0
+486,9,"Nov 11, 1933",Hawaii,7,Denver,6,1
+487,9,"Nov 11, 1933",Illinois,3,Northwestern,0,1
+488,9,"Nov 11, 1933",Chicago,7,Indiana,7,0
+489,9,"Nov 11, 1933",Kansas State,7,Iowa State,0,1
+490,9,"Nov 11, 1933",Virginia Military Institute,6,Kentucky,21,1
+491,9,"Nov 11, 1933",Loyola Marymount,45,California Tech,0,0
+492,9,"Nov 11, 1933",Creighton,9,Marquette,14,1
+493,9,"Nov 11, 1933",Mercer,7,Chattanooga,0,1
+494,9,"Nov 11, 1933",Iowa,6,Michigan,10,1
+495,9,"Nov 11, 1933",Gonzaga,7,Montana,13,1
+496,9,"Nov 11, 1933",Montana State,19,Montana Tech,0,1
+497,9,"Nov 11, 1933",Nebraska,12,Kansas,0,0
+498,9,"Nov 11, 1933",New Mexico,7,Arizona,0,0
+499,9,"Nov 11, 1933",North Carolina,26,Wake Forest,0,0
+500,9,"Nov 11, 1933",Colorado Mines,9,Northern Colorado,26,0
+501,9,"Nov 11, 1933",Pennsylvania,7,Ohio State,20,0
+502,9,"Nov 11, 1933",Oklahoma,21,Missouri,0,1
+503,9,"Nov 11, 1933",Oklahoma State,21,Drake,0,0
+504,9,"Nov 11, 1933",Oregon State,3,Oregon,13,1
+505,9,"Nov 11, 1933",Johns Hopkins,6,Penn State,40,1
+506,9,"Nov 11, 1933",Pitt,7,Duquesne,0,0
+507,9,"Nov 11, 1933",Princeton,7,Dartmouth,0,0
+508,9,"Nov 11, 1933",Purdue,19,Notre Dame,0,1
+509,9,"Nov 11, 1933",Rice,7,Arkansas,6,0
+510,9,"Nov 11, 1933",Rutgers,20,Lafayette,13,1
+511,9,"Nov 11, 1933",Saint Louis,26,Missouri-Rolla,0,0
+512,9,"Nov 11, 1933",Saint Mary's (CA),7,Pacific,0,1
+513,9,"Nov 11, 1933",Santa Clara,7,San Francisco,0,0
+514,9,"Nov 11, 1933",South Carolina,14,NC State,0,0
+515,9,"Nov 11, 1933",SMU,19,Texas A&M,0,1
+516,9,"Nov 11, 1933",USC,7,Stanford,13,0
+517,9,"Nov 11, 1933",Ole Miss,6,Tennessee,35,1
+518,9,"Nov 11, 1933",North Dakota,7,TCU,19,1
+519,9,"Nov 11, 1933",Texas Tech,7,Hardin-Simmons,0,0
+520,9,"Nov 11, 1933",Tulane,33,Mississippi State,0,0
+521,9,"Nov 11, 1933",Tulsa,39,Oklahoma City,0,0
+522,9,"Nov 11, 1933",UCLA,14,San Diego Marines,13,1
+523,9,"Nov 11, 1933",Colorado,6,Utah,13,1
+524,9,"Nov 11, 1933",Vanderbilt,27,Sewanee,14,0
+525,9,"Nov 11, 1933",Washington & Lee,6,Virginia,0,0
+526,9,"Nov 11, 1933",Washington (MO),36,Butler,12,1
+527,9,"Nov 11, 1933",Idaho,6,Washington State,14,0
+528,9,"Nov 11, 1933",West Virginia,6,Wisconsin,25,1
+529,9,"Nov 11, 1933",Wofford,14,Clemson,13,0
+530,9,"Nov 12, 1933",Baylor,3,Texas,0,1
+531,10,"Nov 14, 1933",Richmond,13,Hampden-Sydney,0,0
+532,10,"Nov 17, 1933",Texas Tech,13,Baylor,0,0
+533,10,"Nov 17, 1933",George Washington,6,Tulsa,13,0
+534,10,"Nov 18, 1933",Georgia Tech,9,Alabama,12,0
+535,10,"Nov 18, 1933",Arizona State,7,Arizona,26,0
+536,10,"Nov 18, 1933",Arkansas,63,Hendrix,0,0
+537,10,"Nov 18, 1933",Army,12,Pennsylvania Military,0,0
+538,10,"Nov 18, 1933",Georgia,6,Auburn,14,1
+539,10,"Nov 18, 1933",California,6,Idaho,0,0
+540,10,"Nov 18, 1933",Carnegie Mellon,19,Georgetown,0,1
+541,10,"Nov 18, 1933",Centenary (LA),7,SMU,0,1
+542,10,"Nov 18, 1933",Centre,12,Washington & Lee,0,0
+543,10,"Nov 18, 1933",Citadel,13,Oglethorpe,0,0
+544,10,"Nov 18, 1933",Syracuse,3,Colgate,13,0
+545,10,"Nov 18, 1933",Colorado,24,Northern Colorado,0,0
+546,10,"Nov 18, 1933",Colorado Mines,6,Colorado College,23,1
+547,10,"Nov 18, 1933",Lafayette,6,Columbia,46,1
+548,10,"Nov 18, 1933",Cornell,7,Dartmouth,0,1
+549,10,"Nov 18, 1933",William & Mary,7,Davidson,12,0
+550,10,"Nov 18, 1933",Denver,13,Utah,0,0
+551,10,"Nov 18, 1933",Drake,13,Grinnell,0,1
+552,10,"Nov 18, 1933",Duke,21,North Carolina,0,0
+553,10,"Nov 18, 1933",Columbia (Oregon),8,Gonzaga,13,1
+554,10,"Nov 18, 1933",Brown,6,Harvard,12,1
+555,10,"Nov 18, 1933",Montana State,6,Idaho State,13,1
+556,10,"Nov 18, 1933",Illinois,7,Chicago,0,0
+557,10,"Nov 18, 1933",Purdue,6,Iowa,14,0
+558,10,"Nov 18, 1933",Iowa State,6,Kansas,20,1
+559,10,"Nov 18, 1933",Kansas State,14,Oklahoma,0,0
+560,10,"Nov 18, 1933",LSU,31,Ole Miss,0,0
+561,10,"Nov 18, 1933",Saint Louis,6,Marquette,21,0
+562,10,"Nov 18, 1933",Johns Hopkins,7,Maryland,27,0
+563,10,"Nov 18, 1933",Mercer,13,Clemson,0,0
+564,10,"Nov 18, 1933",Michigan,0,Minnesota,0,0
+565,10,"Nov 18, 1933",Mississippi State,26,Sewanee,13,0
+566,10,"Nov 18, 1933",New Mexico State,7,New Mexico,14,0
+567,10,"Nov 18, 1933",Newberry,19,Wofford,14,0
+568,10,"Nov 18, 1933",Notre Dame,7,Northwestern,0,1
+569,10,"Nov 18, 1933",Ohio State,6,Wisconsin,0,1
+570,10,"Nov 18, 1933",Oklahoma State,33,Creighton,13,1
+571,10,"Nov 18, 1933",Oregon State,9,Fordham,6,1
+572,10,"Nov 18, 1933",Pennsylvania,6,Penn State,6,0
+573,10,"Nov 18, 1933",Pitt,6,Nebraska,0,0
+574,10,"Nov 18, 1933",Princeton,13,Navy,0,0
+575,10,"Nov 18, 1933",Richmond,15,Virginia Military Institute,0,0
+576,10,"Nov 18, 1933",New York University,6,Rutgers,6,0
+577,10,"Nov 18, 1933",Santa Clara,6,Saint Mary's (CA),6,0
+578,10,"Nov 18, 1933",Loyola Marymount,0,San Francisco,0,0
+579,10,"Nov 18, 1933",USC,26,Oregon,0,0
+580,10,"Nov 18, 1933",Montana,7,Stanford,33,1
+581,10,"Nov 18, 1933",Temple,13,Washington & Jefferson,0,0
+582,10,"Nov 18, 1933",Vanderbilt,6,Tennessee,33,1
+583,10,"Nov 18, 1933",Texas A&M,27,Rice,0,1
+584,10,"Nov 18, 1933",TCU,30,Texas,0,1
+585,10,"Nov 18, 1933",Tulane,34,Kentucky,0,0
+586,10,"Nov 18, 1933",Utah State,14,BYU,0,0
+587,10,"Nov 18, 1933",Butler,7,Valparaiso,20,1
+588,10,"Nov 18, 1933",Virginia,6,Virginia Tech,6,0
+589,10,"Nov 18, 1933",Washington,10,UCLA,0,0
+590,10,"Nov 18, 1933",Missouri,7,Washington (MO),33,1
+591,10,"Nov 18, 1933",West Virginia,26,West Virginia Wesleyan,13,0
+592,10,"Nov 18, 1933",Xavier,6,Indiana,0,0
+593,10,"Nov 19, 1933",South Carolina,0,Furman,0,0
+594,11,"Nov 23, 1933",Maryland,33,Washington & Lee,13,0
+595,11,"Nov 23, 1933",Oklahoma State,13,Oklahoma,0,1
+596,11,"Nov 24, 1933",Texas,6,Arkansas,20,0
+597,11,"Nov 24, 1933",Pacific,7,Loyola Marymount,14,1
+598,11,"Nov 25, 1933",Arizona,26,Whittier,0,0
+599,11,"Nov 25, 1933",Navy,7,Army,12,1
+600,11,"Nov 25, 1933",SMU,7,Baylor,13,0
+601,11,"Nov 25, 1933",Washington & Jefferson,6,Bucknell,38,1
+602,11,"Nov 25, 1933",Centenary (LA),7,Ole Miss,6,1
+603,11,"Nov 25, 1933",Chicago,39,Dartmouth,0,0
+604,11,"Nov 25, 1933",Clemson,7,Citadel,0,0
+605,11,"Nov 25, 1933",Colgate,25,Brown,0,1
+606,11,"Nov 25, 1933",Colorado College,7,Colorado State,30,1
+607,11,"Nov 25, 1933",Columbia,16,Syracuse,0,0
+608,11,"Nov 25, 1933",Detroit Mercy,14,Michigan State,0,0
+609,11,"Nov 25, 1933",Duke,7,NC State,0,0
+610,11,"Nov 25, 1933",Duquesne,26,Geneva,0,0
+611,11,"Nov 25, 1933",Auburn,7,Florida,14,1
+612,11,"Nov 25, 1933",George Washington,27,Catawba College,0,0
+613,11,"Nov 25, 1933",Georgia,7,Georgia Tech,6,1
+614,11,"Nov 25, 1933",Yale,6,Harvard,19,1
+615,11,"Nov 25, 1933",Idaho,20,Gonzaga,12,0
+616,11,"Nov 25, 1933",Drake,7,Iowa State,7,0
+617,11,"Nov 25, 1933",Lafayette,54,Lehigh,12,1
+618,11,"Nov 25, 1933",Mississippi State,6,LSU,21,1
+619,11,"Nov 25, 1933",Birmingham-Southern,0,Mercer,0,0
+620,11,"Nov 25, 1933",Michigan,13,Northwestern,0,1
+621,11,"Nov 25, 1933",Minnesota,6,Wisconsin,3,0
+622,11,"Nov 25, 1933",Montana,26,Utah State,0,0
+623,11,"Nov 25, 1933",Nebraska,7,Iowa,6,0
+624,11,"Nov 25, 1933",New York University,7,Carnegie Mellon,0,0
+625,11,"Nov 25, 1933",Northern Arizona,6,Arizona State,0,1
+626,11,"Nov 25, 1933",Ohio State,7,Illinois,6,0
+627,11,"Nov 25, 1933",San Francisco,9,Olympic Club,16,0
+628,11,"Nov 25, 1933",Rutgers,6,Princeton,26,1
+629,11,"Nov 25, 1933",Indiana,3,Purdue,19,0
+630,11,"Nov 25, 1933",Saint Louis,6,Washington (MO),0,0
+631,11,"Nov 25, 1933",Saint Mary's (CA),22,UCLA,14,1
+632,11,"Nov 25, 1933",USC,19,Notre Dame,0,1
+633,11,"Nov 25, 1933",Stanford,7,California,3,0
+634,11,"Nov 25, 1933",Rice,3,TCU,26,1
+635,11,"Nov 25, 1933",Sewanee,9,Tulane,26,1
+636,11,"Nov 25, 1933",Villanova,24,Temple,0,1
+637,11,"Nov 25, 1933",Washington,6,Washington State,17,1
+638,11,"Nov 25, 1933",West Virginia,14,Georgetown,12,1
+639,11,"Nov 25, 1933",Wyoming,6,Western State,0,0
+640,11,"Nov 26, 1933",Northern Colorado,6,New Mexico,0,1
+641,11,"Nov 26, 1933",William & Mary,6,Richmond,0,1
+642,12,"Nov 30, 1933",Alabama,7,Vanderbilt,0,1
+643,12,"Nov 30, 1933",BYU,6,Wyoming,3,0
+644,12,"Nov 30, 1933",Denver,7,Colorado,14,0
+645,12,"Nov 30, 1933",Cornell,20,Pennsylvania,12,1
+646,12,"Nov 30, 1933",Davidson,20,Wake Forest,13,0
+647,12,"Nov 30, 1933",Furman,6,Clemson,0,0
+648,12,"Nov 30, 1933",Kansas,27,Missouri,0,0
+649,12,"Nov 30, 1933",Nebraska,22,Oregon State,0,0
+650,12,"Nov 30, 1933",New Mexico Military,7,New Mexico State,2,1
+651,12,"Nov 30, 1933",North Carolina,14,Virginia,0,0
+652,12,"Nov 30, 1933",Saint Mary's (CA),7,Oregon,13,0
+653,12,"Nov 30, 1933",Pitt,16,Carnegie Mellon,0,0
+654,12,"Nov 30, 1933",Tennessee,27,Kentucky,0,1
+655,12,"Nov 30, 1933",Texas A&M,10,Texas,10,0
+656,12,"Nov 30, 1933",Texas Tech,6,Kansas State,0,0
+657,12,"Nov 30, 1933",Tulsa,7,Arkansas,0,0
+658,12,"Nov 30, 1933",UCLA,7,Washington State,0,0
+659,12,"Nov 30, 1933",Utah,13,Colorado State,0,0
+660,12,"Nov 30, 1933",Virginia Tech,0,Virginia Military Institute,0,0
+661,12,"Nov 30, 1933",West Virginia,7,Washington & Jefferson,2,0
+662,12,"Dec 2, 1933",Baylor,7,Rice,6,0
+663,12,"Dec 2, 1933",Centenary (LA),48,Union (Tennessee),0,0
+664,12,"Dec 2, 1933",Citadel,14,Wofford,0,0
+665,12,"Dec 2, 1933",Florida,19,Maryland,0,0
+666,12,"Dec 2, 1933",Georgia Tech,6,Duke,0,0
+667,12,"Dec 2, 1933",Kansas,7,George Washington,0,1
+668,12,"Dec 2, 1933",Tulane,7,LSU,7,0
+669,12,"Dec 2, 1933",San Diego Marines,6,Loyola Marymount,13,0
+670,12,"Dec 2, 1933",Mercer,31,Oglethorpe,0,0
+671,12,"Dec 2, 1933",Ole Miss,31,Mississippi State,0,0
+672,12,"Dec 2, 1933",Notre Dame,13,Army,12,1
+673,12,"Dec 2, 1933",Princeton,27,Yale,2,1
+674,12,"Dec 2, 1933",South Carolina,16,Auburn,14,1
+675,12,"Dec 2, 1933",USC,31,Georgia,0,0
+676,12,"Dec 2, 1933",SMU,6,TCU,26,1
+677,12,"Dec 2, 1933",Villanova,18,Rutgers,13,1
+678,13,"Dec 9, 1933",Centenary (LA),28,Loyola (LA),12,0
+679,13,"Dec 9, 1933",LSU,7,Tennessee,0,0
+680,13,"Dec 9, 1933",SMU,6,Saint Mary's (CA),18,0
+681,13,"Dec 9, 1933",Washington,7,USC,13,1
+682,14,"Dec 25, 1933",Hawaii All-Stars,6,Santa Clara,16,0
+683,15,"Jan 1, 1934",Centenary (LA),7,Arkansas,7,0
+684,15,"Jan 1, 1934",Columbia,7,Stanford,0,0
+685,15,"Jan 1, 1934",Miami,7,Duquesne,33,0
+686,15,"Jan 1, 1934",Hawaii,7,Santa Clara,26,0

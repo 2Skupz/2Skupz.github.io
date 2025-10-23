@@ -1,0 +1,227 @@
+0,1,"Sep 10, 1898",Chicago,14,Englewood High,0,0
+1,2,"Sep 14, 1898",Chicago,18,Northwest Division High,0,0
+2,2,"Sep 17, 1898",Beloit,21,Wisconsin-Whitewater,0,0
+3,2,"Sep 17, 1898",Chicago,9,Northwest Division High,0,0
+4,2,"Sep 17, 1898",Chicago,0,Englewood High,0,0
+5,3,"Sep 21, 1898",Austin High,8,Chicago,14,1
+6,3,"Sep 21, 1898",Cornell,28,Syracuse,0,0
+7,3,"Sep 21, 1898",Northwestern,34,Northwest Division High,0,0
+8,3,"Sep 22, 1898",Chicago,20,Hyde Park High,0,0
+9,3,"Sep 24, 1898",Amherst,100,Williston,0,0
+10,3,"Sep 24, 1898",Beloit,12,Wisconsin-Whitewater,0,1
+11,3,"Sep 24, 1898",Bowdoin,28,Maine,0,0
+12,3,"Sep 24, 1898",Bucknell,6,Wyoming Seminary,0,0
+13,3,"Sep 24, 1898",Carlisle,43,Bloomsburg,0,0
+14,3,"Sep 24, 1898",Chicago,22,Knox,0,0
+15,3,"Sep 24, 1898",Colgate,5,Cornell,29,1
+16,3,"Sep 24, 1898",Exeter,5,Dartmouth,23,1
+17,3,"Sep 24, 1898",Dickinson,24,Susquehanna,0,0
+18,3,"Sep 24, 1898",Harvard,11,Williams,0,0
+19,3,"Sep 24, 1898",Minnesota,32,Carleton,0,0
+20,3,"Sep 24, 1898",Northwestern,22,Englewood High,0,0
+21,3,"Sep 24, 1898",Penn State,47,Gettysburg,0,0
+22,3,"Sep 24, 1898",Pennsylvania,41,Franklin & Marshall,0,0
+23,3,"Sep 24, 1898",Princeton,21,Lehigh,0,0
+24,3,"Sep 24, 1898",Yale,18,Trinity (CT),0,1
+25,4,"Sep 28, 1898",Amherst,12,Trinity (CT),0,1
+26,4,"Sep 28, 1898",Chicago,8,Rush Medical,0,0
+27,4,"Sep 28, 1898",Cornell,41,Hamilton,0,0
+28,4,"Sep 28, 1898",Bowdoin,6,Harvard,28,1
+29,4,"Sep 28, 1898",Illinois,18,Illinois Wesleyan,0,0
+30,4,"Sep 28, 1898",Lehigh,12,Rutgers,0,0
+31,4,"Sep 28, 1898",Northwestern,18,Hyde Park High,0,0
+32,4,"Sep 28, 1898",Pennsylvania,50,Gettysburg,0,0
+33,4,"Sep 28, 1898",Williams,6,Andover,0,0
+34,4,"Oct 1, 1898",Army,40,Tufts,0,0
+35,4,"Oct 1, 1898",Bates,6,Bowdoin,0,1
+36,4,"Oct 1, 1898",Beloit,45,Madison High,0,0
+37,4,"Oct 1, 1898",Brown,19,Holy Cross,0,0
+38,4,"Oct 1, 1898",Bradford National Guard,0,Bucknell,0,0
+39,4,"Oct 1, 1898",Carlisle,48,Susquehanna,0,0
+40,4,"Oct 1, 1898",Chicago,24,Monmouth,0,0
+41,4,"Oct 1, 1898",Cornell,47,Trinity (CT),0,0
+42,4,"Oct 1, 1898",Dickinson,6,Bloomsburg,0,1
+43,4,"Oct 1, 1898",Franklin & Marshall,5,Phialdelphia YMCA,0,0
+44,4,"Oct 1, 1898",Harvard,21,Dartmouth,0,0
+45,4,"Oct 1, 1898",Lafayette,16,Villanova,0,0
+46,4,"Oct 1, 1898",Michigan,21,Eastern Michigan,0,0
+47,4,"Oct 1, 1898",Minnesota Alumni,5,Minnesota,0,0
+48,4,"Oct 1, 1898",Northwestern,57,Dixon,0,0
+49,4,"Oct 1, 1898",Pennsylvania,40,Penn State,0,0
+50,4,"Oct 1, 1898",Illinois,6,Physicians & Surgeons,11,0
+51,4,"Oct 1, 1898",Princeton,42,Stevens,0,0
+52,4,"Oct 1, 1898",Williams,5,Colgate,0,0
+53,4,"Oct 1, 1898",Wisconsin,52,Ripon,0,0
+54,4,"Oct 1, 1898",Yale,5,Wesleyan (CT),0,0
+55,5,"Oct 5, 1898",Tufts,6,Brown,29,1
+56,5,"Oct 5, 1898",Chicago,22,Physicians & Surgeons,0,0
+57,5,"Oct 5, 1898",Cornell,30,Syracuse,0,1
+58,5,"Oct 5, 1898",Pennsylvania,50,Mansfield,0,0
+59,5,"Oct 5, 1898",Union (NY),6,Williams,0,1
+60,5,"Oct 5, 1898",Washington & Jefferson,16,Lafayette,0,0
+61,5,"Oct 5, 1898",Wisconsin,21,Madison High,0,0
+62,5,"Oct 5, 1898",Yale,34,Amherst,0,0
+63,5,"Oct 8, 1898",Wesleyan (CT),8,Army,27,1
+64,5,"Oct 8, 1898",Chicago,38,Iowa,0,0
+65,5,"Oct 8, 1898",Bowdoin,6,Dartmouth,35,1
+66,5,"Oct 8, 1898",Dickinson,24,Haverford,0,0
+67,5,"Oct 8, 1898",Harvard,53,Amherst,2,0
+68,5,"Oct 8, 1898",Michigan,29,Kenyon,0,0
+69,5,"Oct 8, 1898",Minnesota,12,Rush Medical,0,0
+70,5,"Oct 8, 1898",Navy,11,Bucknell,0,0
+71,5,"Oct 8, 1898",New York University,10,Lehigh,0,0
+72,5,"Oct 8, 1898",Northwestern,17,Beloit,11,0
+73,5,"Oct 8, 1898",Notre Dame,5,Illinois,0,1
+74,5,"Oct 8, 1898",Penn State,5,Lafayette,0,1
+75,5,"Oct 8, 1898",Pennsylvania,18,Brown,0,0
+76,5,"Oct 8, 1898",Princeton,58,Franklin & Marshall,0,0
+77,5,"Oct 8, 1898",Purdue Alumni,6,Purdue,0,0
+78,5,"Oct 8, 1898",Wisconsin,76,Dixon,0,0
+79,5,"Oct 8, 1898",Tufts,5,WPI,17,0
+80,5,"Oct 8, 1898",Yale,23,Williams,0,0
+81,6,"Oct 12, 1898",Colby,5,Brown,41,1
+82,6,"Oct 12, 1898",Bucknell,6,Maryland-Baltimore,0,1
+83,6,"Oct 12, 1898",Carlisle,6,Cornell,23,1
+84,6,"Oct 12, 1898",Michigan,39,Michigan State,0,0
+85,6,"Oct 12, 1898",Hahnemann Medical,6,Northwestern,22,1
+86,6,"Oct 12, 1898",Pennsylvania,40,Virginia,0,0
+87,6,"Oct 12, 1898",Princeton,34,Lafayette,0,0
+88,6,"Oct 12, 1898",Wesleyan (CT),12,Holy Cross,0,0
+89,6,"Oct 14, 1898",Princeton,24,Maryland A.C.,0,1
+90,6,"Oct 15, 1898",Bowdoin,18,Tufts,11,0
+91,6,"Oct 15, 1898",Williams,6,Carlisle,17,1
+92,6,"Oct 15, 1898",Chicago,21,Beloit,0,0
+93,6,"Oct 15, 1898",Vermont,6,Dartmouth,45,1
+94,6,"Oct 15, 1898",Lafayette,6,Dickinson,12,0
+95,6,"Oct 15, 1898",Franklin & Marshall,26,Gettysburg,0,0
+96,6,"Oct 15, 1898",Minnesota,6,Grinnell,16,0
+97,6,"Oct 15, 1898",Harvard,28,Army,0,1
+98,6,"Oct 15, 1898",Illinois,16,DePauw,0,0
+99,6,"Oct 15, 1898",Physicians & Surgeons,2,Northwestern,11,1
+100,6,"Oct 15, 1898",Susquehanna,6,Penn State,45,1
+101,6,"Oct 15, 1898",Pennsylvania,40,Lehigh,0,0
+102,6,"Oct 15, 1898",Princeton,30,Navy,0,1
+103,6,"Oct 15, 1898",Trinity (CT),17,WPI,0,0
+104,6,"Oct 15, 1898",Wesleyan (CT),33,Amherst,0,0
+105,6,"Oct 15, 1898",Wisconsin,42,Rush Medical,0,0
+106,6,"Oct 15, 1898",Yale,6,Newton A.C.,0,1
+107,6,"Oct 17, 1898",Michigan,18,Western Reserve,0,0
+108,7,"Oct 18, 1898",Northwestern,5,Chicago A.C.,0,0
+109,7,"Oct 18, 1898",Purdue,5,Haskell,0,1
+110,7,"Oct 19, 1898",Cornell,27,Buffalo,0,0
+111,7,"Oct 19, 1898",Harvard,22,Newtowne A.C.,0,0
+112,7,"Oct 19, 1898",Case,5,Michigan,23,1
+113,7,"Oct 19, 1898",Pennsylvania,17,Wesleyan (CT),0,0
+114,7,"Oct 19, 1898",Brown,6,Yale,22,1
+115,7,"Oct 22, 1898",Army,18,Lehigh,0,0
+116,7,"Oct 22, 1898",Bowdoin,24,Colby,0,0
+117,7,"Oct 22, 1898",Bucknell,34,Swarthmore,18,0
+118,7,"Oct 22, 1898",Northwestern,5,Chicago,34,1
+119,7,"Oct 22, 1898",Dartmouth,64,Amherst,6,1
+120,7,"Oct 22, 1898",Dickinson,23,Wyoming Seminary,0,0
+121,7,"Oct 22, 1898",Franklin & Marshall,6,Susquehanna,0,1
+122,7,"Oct 22, 1898",Harvard,39,Chicago A.C.,0,0
+123,7,"Oct 22, 1898",Illinois Alumni,6,Illinois,10,1
+124,7,"Oct 22, 1898",Iowa State,6,Minnesota,0,1
+125,7,"Oct 22, 1898",Navy,16,Penn State,11,0
+126,7,"Oct 22, 1898",Pennsylvania,32,Lafayette,0,0
+127,7,"Oct 22, 1898",Princeton,6,Cornell,0,0
+128,7,"Oct 22, 1898",Purdue,15,Haskell,0,0
+129,7,"Oct 22, 1898",Hamilton,5,Trinity (CT),18,0
+130,7,"Oct 22, 1898",Tufts,6,Boston College,5,0
+131,7,"Oct 22, 1898",Wesleyan (CT),22,Williams,0,1
+132,7,"Oct 22, 1898",Wisconsin,17,Beloit,0,0
+133,7,"Oct 22, 1898",Carlisle,5,Yale,18,1
+134,7,"Oct 23, 1898",Michigan,23,Notre Dame,0,0
+135,8,"Oct 26, 1898",Brown,6,Boston College,0,0
+136,8,"Oct 26, 1898",Princeton,5,Penn State,0,0
+137,8,"Oct 29, 1898",Bowdoin,59,New Hampshire,0,0
+138,8,"Oct 29, 1898",Lehigh,0,Bucknell,0,0
+139,8,"Oct 29, 1898",Cornell,6,Oberlin,0,0
+140,8,"Oct 29, 1898",Williams,6,Dartmouth,10,0
+141,8,"Oct 29, 1898",Dickinson,22,Franklin & Marshall,0,1
+142,8,"Oct 29, 1898",Penn State,5,Duquesne A.C.,18,1
+143,8,"Oct 29, 1898",Carlisle,5,Harvard,11,1
+144,8,"Oct 29, 1898",Holy Cross,12,Tufts,0,0
+145,8,"Oct 29, 1898",Trinity (CT),0,MIT,0,0
+146,8,"Oct 29, 1898",Navy,18,Lafayette,0,0
+147,8,"Oct 29, 1898",Northwestern,27,Lake Forest,0,0
+148,8,"Oct 29, 1898",Pennsylvania,23,Chicago,11,0
+149,8,"Oct 29, 1898",Princeton,23,Brown,0,0
+150,8,"Oct 29, 1898",Wesleyan (CT),28,Amherst,0,1
+151,8,"Oct 29, 1898",Wisconsin,29,Minnesota,0,0
+152,8,"Oct 29, 1898",Yale,10,Army,0,1
+153,9,"Nov 2, 1898",Princeton,12,Virginia,0,0
+154,9,"Nov 4, 1898",Illinois Alumni,23,Illinois,17,0
+155,9,"Nov 5, 1898",Beloit,11,Rush Medical,0,0
+156,9,"Nov 5, 1898",Bowdoin,6,Tufts,5,1
+157,9,"Nov 5, 1898",Newton A.C.,5,Brown,16,1
+158,9,"Nov 5, 1898",Carlisle,46,Dickinson,0,0
+159,9,"Nov 5, 1898",Chicago,17,Purdue,0,0
+160,9,"Nov 5, 1898",Cornell,12,Williams,0,1
+161,9,"Nov 5, 1898",Harvard,10,Pennsylvania,0,0
+162,9,"Nov 5, 1898",Lehigh,22,Lafayette,0,0
+163,9,"Nov 5, 1898",Amherst,0,Massachusetts,0,0
+164,9,"Nov 5, 1898",Michigan,6,Northwestern,5,1
+165,9,"Nov 5, 1898",Minnesota,15,North Dakota,0,0
+166,9,"Nov 5, 1898",MIT,6,Boston College,0,1
+167,9,"Nov 5, 1898",Navy,52,Columbia A.C.,5,0
+168,9,"Nov 5, 1898",Penn State,16,Bucknell,0,0
+169,9,"Nov 5, 1898",Army,5,Princeton,5,0
+170,9,"Nov 5, 1898",Franklin & Marshall,6,Swarthmore,10,0
+171,9,"Nov 5, 1898",Dartmouth,5,Wesleyan (CT),23,0
+172,9,"Nov 5, 1898",Wisconsin,12,Wisconsin Alumni,11,0
+173,9,"Nov 5, 1898",Yale,10,Chicago A.C.,0,0
+174,10,"Nov 9, 1898",Bucknell,6,Maryland A.C.,5,1
+175,10,"Nov 9, 1898",Wesleyan (CT),30,Trinity (CT),0,0
+176,10,"Nov 12, 1898",Williams,5,Amherst,16,0
+177,10,"Nov 12, 1898",Dixon,0,Beloit,0,0
+178,10,"Nov 12, 1898",Bowdoin,17,Colby,0,1
+179,10,"Nov 12, 1898",Franklin & Marshall,11,Bucknell,11,0
+180,10,"Nov 12, 1898",Chicago,6,Wisconsin,0,0
+181,10,"Nov 12, 1898",Dartmouth,5,Chicago A.C.,17,1
+182,10,"Nov 12, 1898",Cornell,47,Lafayette,0,0
+183,10,"Nov 12, 1898",Dickinson,56,Lebanon Valley,0,0
+184,10,"Nov 12, 1898",Exeter,10,Tufts,0,0
+185,10,"Nov 12, 1898",Brown,6,Harvard,17,1
+186,10,"Nov 12, 1898",Illinois,5,Michigan,12,1
+187,10,"Nov 12, 1898",Northwestern,6,Minnesota,17,1
+188,10,"Nov 12, 1898",MIT,22,New Hampshire,0,0
+189,10,"Nov 12, 1898",Navy,6,Lehigh,5,0
+190,10,"Nov 12, 1898",Carlisle,5,Pennsylvania,35,1
+191,10,"Nov 12, 1898",Princeton,6,Yale,0,0
+192,10,"Nov 12, 1898",Purdue,14,Indiana,0,0
+193,10,"Nov 12, 1898",Wesleyan (CT),59,Rutgers,0,0
+194,11,"Nov 16, 1898",Dickinson,44,Gettysburg,0,0
+195,11,"Nov 19, 1898",MIT,6,Amherst,10,0
+196,11,"Nov 19, 1898",Andover,5,Tufts,0,0
+197,11,"Nov 19, 1898",Northwestern,0,Armour,0,0
+198,11,"Nov 19, 1898",Bowdoin,28,Campello,0,1
+199,11,"Nov 19, 1898",Brown,12,Dartmouth,0,0
+200,11,"Nov 19, 1898",Carlisle,11,Illinois,0,1
+201,11,"Nov 19, 1898",Ursinus,10,Franklin & Marshall,10,0
+202,11,"Nov 19, 1898",Harvard,17,Yale,0,1
+203,11,"Nov 19, 1898",Lafayette,6,Bucknell,0,0
+204,11,"Nov 19, 1898",Lehigh,5,Maryland A.C.,0,0
+205,11,"Nov 19, 1898",Michigan,22,Beloit,0,0
+206,11,"Nov 19, 1898",Navy,6,Virginia,0,1
+207,11,"Nov 19, 1898",Washington & Jefferson,6,Penn State,11,0
+208,11,"Nov 19, 1898",Syracuse,0,Trinity (CT),0,0
+209,11,"Nov 19, 1898",Wisconsin,22,Wisconsin-Whitewater,0,0
+210,12,"Nov 24, 1898",Exeter,5,Bowdoin,12,0
+211,12,"Nov 24, 1898",Bucknell,5,Buffalo,36,1
+212,12,"Nov 24, 1898",Cincinnati,17,Dartmouth,12,0
+213,12,"Nov 24, 1898",Franklin & Marshall,11,Haverford,0,1
+214,12,"Nov 24, 1898",Illinois,11,Minnesota,10,0
+215,12,"Nov 24, 1898",Knox,18,Beloit,0,0
+216,12,"Nov 24, 1898",Lehigh,5,Lafayette,11,1
+217,12,"Nov 24, 1898",Michigan,12,Chicago,11,1
+218,12,"Nov 24, 1898",MIT,8,Tufts,6,1
+219,12,"Nov 24, 1898",Virginia Military Institute,5,Navy,21,1
+220,12,"Nov 24, 1898",Oberlin,10,Purdue,0,1
+221,12,"Nov 24, 1898",Penn State,34,Dickinson,0,0
+222,12,"Nov 24, 1898",Cornell,6,Pennsylvania,12,1
+223,12,"Nov 24, 1898",Williams,24,Trinity (CT),0,0
+224,12,"Nov 24, 1898",Wisconsin,47,Northwestern,0,1
+225,13,"Dec 3, 1898",Portland A.C.,0,Bowdoin,0,0
+226,13,"Dec 3, 1898",Dartmouth,6,Carlisle,17,1

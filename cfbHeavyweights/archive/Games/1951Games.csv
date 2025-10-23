@@ -1,0 +1,625 @@
+0,1,"Sep 14, 1951",Idaho State,7,BYU,27,1
+1,1,"Sep 14, 1951",Furman,39,Presbyterian,0,0
+2,1,"Sep 15, 1951",Arizona,67,New Mexico State,13,0
+3,1,"Sep 15, 1951",Virginia Military Institute,7,Cincinnati,26,1
+4,1,"Sep 15, 1951",Denver,41,Colorado College,0,0
+5,1,"Sep 15, 1951",Abilene Christian,7,Drake,19,1
+6,1,"Sep 15, 1951",Florida,13,Wyoming,0,0
+7,1,"Sep 15, 1951",Kentucky,72,Tennessee Tech,13,0
+8,1,"Sep 15, 1951",Northern Arizona,6,New Mexico Highlands,13,1
+9,1,"Sep 15, 1951",NC State,34,Catawba College,0,0
+10,1,"Sep 15, 1951",West Texas State,7,Trinity (Texas),19,0
+11,1,"Sep 15, 1951",Montana State,6,Utah,55,1
+12,1,"Sep 15, 1951",Virginia Tech,18,Marshall,12,0
+13,2,"Sep 21, 1951",Alabama,89,Delta State,0,0
+14,2,"Sep 21, 1951",Ole Miss,32,Memphis,0,1
+15,2,"Sep 21, 1951",San Francisco,39,San Jose State,2,0
+16,2,"Sep 21, 1951",Syracuse,19,Temple,0,0
+17,2,"Sep 21, 1951",Texas A&M,21,UCLA,14,1
+18,2,"Sep 21, 1951",Boston College,6,Wake Forest,20,0
+19,2,"Sep 22, 1951",Arizona State,33,Utah State,27,1
+20,2,"Sep 22, 1951",Oklahoma State,7,Arkansas,42,0
+21,2,"Sep 22, 1951",Baylor,19,Houston,0,1
+22,2,"Sep 22, 1951",Tampa,6,Bradley,32,1
+23,2,"Sep 22, 1951",Western State,7,BYU,67,1
+24,2,"Sep 22, 1951",California,34,Santa Clara,0,0
+25,2,"Sep 22, 1951",Cincinnati,34,Kansas State,0,1
+26,2,"Sep 22, 1951",Presbyterian,6,Clemson,53,1
+27,2,"Sep 22, 1951",Colorado,28,Colorado State,13,0
+28,2,"Sep 22, 1951",Detroit Mercy,34,Toledo,32,0
+29,2,"Sep 22, 1951",Denver,7,Drake,20,0
+30,2,"Sep 22, 1951",South Carolina,6,Duke,34,0
+31,2,"Sep 22, 1951",Citadel,7,Florida,27,1
+32,2,"Sep 22, 1951",Fordham,34,Missouri,20,1
+33,2,"Sep 22, 1951",Georgia,33,George Washington,0,0
+34,2,"Sep 22, 1951",SMU,7,Georgia Tech,21,1
+35,2,"Sep 22, 1951",Harvard,21,Springfield,13,0
+36,2,"Sep 22, 1951",Iowa State,53,Wayne State,21,0
+37,2,"Sep 22, 1951",Kansas,27,TCU,13,1
+38,2,"Sep 22, 1951",Davidson,7,Lenoir-Rhyne,21,0
+39,2,"Sep 22, 1951",LSU,13,Southern Miss,0,0
+40,2,"Sep 22, 1951",South Dakota,6,Marquette,48,1
+41,2,"Sep 22, 1951",Miami (OH),21,Wichita State,13,1
+42,2,"Sep 22, 1951",Michigan State,6,Oregon State,0,0
+43,2,"Sep 22, 1951",Mississippi State,32,Arkansas State,0,0
+44,2,"Sep 22, 1951",Northern Arizona,6,New Mexico,55,1
+45,2,"Sep 22, 1951",North Carolina,21,NC State,0,0
+46,2,"Sep 22, 1951",North Texas,33,UTEP,0,1
+47,2,"Sep 22, 1951",Hardin-Simmons,7,Pacific,33,1
+48,2,"Sep 22, 1951",Randolph-Macon,6,Richmond,13,1
+49,2,"Sep 22, 1951",USC,31,Washington State,21,0
+50,2,"Sep 22, 1951",Stanford,27,Oregon,20,1
+51,2,"Sep 22, 1951",New Mexico State,7,Stephen F. Austin,27,0
+52,2,"Sep 22, 1951",Texas,7,Kentucky,6,0
+53,2,"Sep 22, 1951",West Texas State,7,Texas Tech,46,1
+54,2,"Sep 22, 1951",Tulsa,58,Hawaii,0,0
+55,2,"Sep 22, 1951",Arizona,7,Utah,27,0
+56,2,"Sep 22, 1951",Middle Tennessee,7,Vanderbilt,22,1
+57,2,"Sep 22, 1951",Wofford,6,Virginia Military Institute,29,1
+58,2,"Sep 22, 1951",Montana,7,Washington,58,1
+59,2,"Sep 22, 1951",Furman,7,Washington & Lee,25,0
+60,2,"Sep 22, 1951",Waynesburg,9,West Virginia,20,1
+61,2,"Sep 22, 1951",William & Mary,34,Boston University,25,0
+62,2,"Sep 22, 1951",Wyoming,28,Idaho,0,0
+63,2,"Sep 22, 1951",Yale,48,Bates,0,0
+64,2,"Sep 23, 1951",San Diego Navy,42,Loyola Marymount,28,1
+65,3,"Sep 28, 1951",Detroit Mercy,7,Houston,33,0
+66,3,"Sep 28, 1951",Wichita State,7,Utah State,21,1
+67,3,"Sep 28, 1951",Furman,7,West Virginia,18,0
+68,3,"Sep 29, 1951",Arkansas,30,Arizona State,13,0
+69,3,"Sep 29, 1951",Auburn,24,Vanderbilt,14,0
+70,3,"Sep 29, 1951",Hawaii,7,BYU,20,1
+71,3,"Sep 29, 1951",California,35,Pennsylvania,0,1
+72,3,"Sep 29, 1951",California Tech,28,Northern Arizona,14,1
+73,3,"Sep 29, 1951",Cincinnati,47,Tulsa,35,0
+74,3,"Sep 29, 1951",Clemson,20,Rice,14,1
+75,3,"Sep 29, 1951",Colgate,47,Buffalo,13,1
+76,3,"Sep 29, 1951",Colorado State,41,Colorado Mines,0,0
+77,3,"Sep 29, 1951",Cornell,21,Syracuse,14,0
+78,3,"Sep 29, 1951",Davidson,32,Virginia Tech,20,1
+79,3,"Sep 29, 1951",Drake,20,Bradley,14,1
+80,3,"Sep 29, 1951",Duke,19,Pitt,14,1
+81,3,"Sep 29, 1951",Dartmouth,6,Fordham,14,0
+82,3,"Sep 29, 1951",Georgia,28,North Carolina,16,1
+83,3,"Sep 29, 1951",Georgia Tech,27,Florida,0,1
+84,3,"Sep 29, 1951",Trinity (Texas),6,Hardin-Simmons,20,0
+85,3,"Sep 29, 1951",Harvard,6,Holy Cross,33,0
+86,3,"Sep 29, 1951",Illinois,27,UCLA,13,0
+87,3,"Sep 29, 1951",Iowa,16,Kansas State,0,0
+88,3,"Sep 29, 1951",Kansas,53,Iowa State,33,0
+89,3,"Sep 29, 1951",Alabama,7,LSU,13,0
+90,3,"Sep 29, 1951",Maryland,54,Washington & Lee,14,1
+91,3,"Sep 29, 1951",Michigan State,25,Michigan,0,1
+92,3,"Sep 29, 1951",Ole Miss,21,Kentucky,17,0
+93,3,"Sep 29, 1951",Missouri,27,Oklahoma State,26,0
+94,3,"Sep 29, 1951",New Mexico,7,Montana,25,1
+95,3,"Sep 29, 1951",Yale,7,Navy,7,0
+96,3,"Sep 29, 1951",Northwestern,35,Colorado,14,0
+97,3,"Sep 29, 1951",Indiana,6,Notre Dame,48,1
+98,3,"Sep 29, 1951",Ohio State,7,SMU,0,0
+99,3,"Sep 29, 1951",William & Mary,7,Oklahoma,49,1
+100,3,"Sep 29, 1951",Oregon,39,Arizona,21,0
+101,3,"Sep 29, 1951",Oregon State,61,Utah,28,0
+102,3,"Sep 29, 1951",Pacific,41,Loyola Marymount,28,0
+103,3,"Sep 29, 1951",Penn State,40,Boston University,34,0
+104,3,"Sep 29, 1951",Princeton,54,New York University,20,0
+105,3,"Sep 29, 1951",Rutgers,47,Lafayette,12,1
+106,3,"Sep 29, 1951",Idaho,7,San Francisco,28,0
+107,3,"Sep 29, 1951",Citadel,7,South Carolina,26,1
+108,3,"Sep 29, 1951",San Diego Navy,7,USC,41,1
+109,3,"Sep 29, 1951",Stanford,26,San Jose State,13,0
+110,3,"Sep 29, 1951",Temple,20,Brown,14,1
+111,3,"Sep 29, 1951",Tennessee,14,Mississippi State,0,0
+112,3,"Sep 29, 1951",Texas,14,Purdue,0,1
+113,3,"Sep 29, 1951",Texas Tech,7,Texas A&M,20,1
+114,3,"Sep 29, 1951",Nebraska,7,TCU,28,0
+115,3,"Sep 29, 1951",New Mexico State,7,UTEP,41,1
+116,3,"Sep 29, 1951",Miami,7,Tulane,21,1
+117,3,"Sep 29, 1951",Army,7,Villanova,21,0
+118,3,"Sep 29, 1951",Virginia,20,George Washington,0,0
+119,3,"Sep 29, 1951",Virginia Military Institute,34,Richmond,0,1
+120,3,"Sep 29, 1951",NC State,6,Wake Forest,21,0
+121,3,"Sep 29, 1951",Washington,25,Minnesota,20,1
+122,3,"Sep 29, 1951",Washington State,34,Santa Clara,20,0
+123,3,"Sep 29, 1951",West Texas State,28,McMurry,20,0
+124,3,"Sep 29, 1951",Marquette,6,Wisconsin,22,1
+125,3,"Sep 29, 1951",Wyoming,20,Denver,14,0
+126,4,"Oct 5, 1951",Auburn,30,Wofford,14,0
+127,4,"Oct 5, 1951",Louisville,7,Boston University,39,0
+128,4,"Oct 5, 1951",Miami,35,Florida State,13,0
+129,4,"Oct 5, 1951",Boston College,7,Ole Miss,34,1
+130,4,"Oct 5, 1951",Detroit Mercy,6,Notre Dame,40,0
+131,4,"Oct 5, 1951",Washington State,27,Oklahoma State,13,0
+132,4,"Oct 6, 1951",Abilene Christian,20,UTEP,13,0
+133,4,"Oct 6, 1951",Arizona,28,West Texas State,13,0
+134,4,"Oct 6, 1951",Wayne State,6,Arizona State,50,1
+135,4,"Oct 6, 1951",Baylor,27,Tulane,14,1
+136,4,"Oct 6, 1951",Brown,14,Yale,13,1
+137,4,"Oct 6, 1951",California,55,Minnesota,14,0
+138,4,"Oct 6, 1951",Citadel,34,Davidson,14,1
+139,4,"Oct 6, 1951",Clemson,6,NC State,0,1
+140,4,"Oct 6, 1951",Colorado,35,Kansas,27,0
+141,4,"Oct 6, 1951",Colorado State,54,Colorado College,13,1
+142,4,"Oct 6, 1951",Columbia,35,Harvard,0,0
+143,4,"Oct 6, 1951",Cornell,41,Colgate,18,1
+144,4,"Oct 6, 1951",Denver,55,Montana,0,1
+145,4,"Oct 6, 1951",Northern Iowa,6,Drake,39,1
+146,4,"Oct 6, 1951",Loyola Marymount,7,Florida,40,0
+147,4,"Oct 6, 1951",Kentucky,7,Georgia Tech,13,0
+148,4,"Oct 6, 1951",Hardin-Simmons,32,Midwestern Texas State,21,0
+149,4,"Oct 6, 1951",Holy Cross,54,Fordham,20,0
+150,4,"Oct 6, 1951",Houston,6,Texas Tech,0,0
+151,4,"Oct 6, 1951",Illinois,14,Wisconsin,10,0
+152,4,"Oct 6, 1951",Pitt,6,Indiana,13,1
+153,4,"Oct 6, 1951",Marquette,6,Iowa State,6,0
+154,4,"Oct 6, 1951",LSU,7,Rice,6,0
+155,4,"Oct 6, 1951",George Washington,6,Maryland,33,1
+156,4,"Oct 6, 1951",Michigan State,24,Ohio State,20,1
+157,4,"Oct 6, 1951",Mississippi State,6,Georgia,0,0
+158,4,"Oct 6, 1951",Kansas State,6,Nebraska,6,0
+159,4,"Oct 6, 1951",New Mexico,20,New Mexico State,0,1
+160,4,"Oct 6, 1951",New York University,21,Merchant Marine,13,1
+161,4,"Oct 6, 1951",Northern Arizona,6,Whittier,0,0
+162,4,"Oct 6, 1951",Northwestern,20,Army,14,0
+163,4,"Oct 6, 1951",Idaho,6,Oregon State,34,0
+164,4,"Oct 6, 1951",Oregon,6,Pacific,34,1
+165,4,"Oct 6, 1951",Pennsylvania,39,Dartmouth,14,0
+166,4,"Oct 6, 1951",Princeton,24,Navy,20,1
+167,4,"Oct 6, 1951",Purdue,34,Iowa,30,0
+168,4,"Oct 6, 1951",Fresno State,6,San Jose State,32,0
+169,4,"Oct 6, 1951",Furman,6,South Carolina,21,1
+170,4,"Oct 6, 1951",USC,20,Washington,13,1
+171,4,"Oct 6, 1951",SMU,34,Missouri,0,0
+172,4,"Oct 6, 1951",Stanford,23,Michigan,13,1
+173,4,"Oct 6, 1951",Syracuse,46,Lafayette,0,0
+174,4,"Oct 6, 1951",Rutgers,7,Temple,14,1
+175,4,"Oct 6, 1951",Tennessee,26,Duke,0,0
+176,4,"Oct 6, 1951",Texas,45,North Carolina,20,0
+177,4,"Oct 6, 1951",Oklahoma,7,Texas A&M,14,1
+178,4,"Oct 6, 1951",Arkansas,7,TCU,17,0
+179,4,"Oct 6, 1951",UCLA,44,Santa Clara,17,0
+180,4,"Oct 6, 1951",Utah,7,BYU,6,0
+181,4,"Oct 6, 1951",Vanderbilt,22,Alabama,20,0
+182,4,"Oct 6, 1951",Villanova,20,Penn State,14,0
+183,4,"Oct 6, 1951",Virginia,33,Virginia Tech,0,0
+184,4,"Oct 6, 1951",William & Mary,7,Virginia Military Institute,20,0
+185,4,"Oct 6, 1951",Richmond,6,Wake Forest,56,1
+186,4,"Oct 6, 1951",Washington & Lee,34,West Virginia,0,1
+187,4,"Oct 6, 1951",Bradley,6,Wichita State,15,1
+188,4,"Oct 6, 1951",Wyoming,37,Utah State,0,0
+189,4,"Oct 7, 1951",San Francisco,26,Camp Pendleton,0,0
+190,5,"Oct 12, 1951",Newberry,7,Citadel,41,1
+191,5,"Oct 12, 1951",Colorado Mines,7,New Mexico State,0,0
+192,5,"Oct 12, 1951",Detroit Mercy,6,Drake,26,1
+193,5,"Oct 12, 1951",Fordham,35,Boston College,19,1
+194,5,"Oct 12, 1951",George Washington,38,Virginia Tech,13,0
+195,5,"Oct 12, 1951",Miami,7,Purdue,0,0
+196,5,"Oct 12, 1951",San Jose State,7,San Francisco,42,0
+197,5,"Oct 12, 1951",Stetson,21,Furman,20,1
+198,5,"Oct 12, 1951",Villanova,41,Alabama,18,1
+199,5,"Oct 13, 1951",Arizona,19,UTEP,15,0
+200,5,"Oct 13, 1951",Auburn,14,Florida,13,0
+201,5,"Oct 13, 1951",Baylor,9,Arkansas,7,0
+202,5,"Oct 13, 1951",Boston University,16,Camp Lejeune,0,0
+203,5,"Oct 13, 1951",Bradley,34,Wayne State,27,1
+204,5,"Oct 13, 1951",Brown,20,Rhode Island,13,0
+205,5,"Oct 13, 1951",California,42,Washington State,35,1
+206,5,"Oct 13, 1951",Western Reserve,7,Colgate,28,0
+207,5,"Oct 13, 1951",Colorado,34,Missouri,13,0
+208,5,"Oct 13, 1951",Wyoming,7,Colorado State,14,1
+209,5,"Oct 13, 1951",Columbia,14,Yale,0,0
+210,5,"Oct 13, 1951",Harvard,6,Cornell,42,1
+211,5,"Oct 13, 1951",Dartmouth,28,Army,14,1
+212,5,"Oct 13, 1951",Denver,33,New Mexico,17,0
+213,5,"Oct 13, 1951",Duke,27,NC State,21,0
+214,5,"Oct 13, 1951",LSU,7,Georgia Tech,25,1
+215,5,"Oct 13, 1951",Hardin-Simmons,39,Arizona State,14,1
+216,5,"Oct 13, 1951",Montana,9,Idaho,12,0
+217,5,"Oct 13, 1951",Illinois,41,Syracuse,20,1
+218,5,"Oct 13, 1951",Iowa,34,Pitt,17,0
+219,5,"Oct 13, 1951",Kansas State,6,Iowa State,32,1
+220,5,"Oct 13, 1951",Utah,7,Kansas,26,1
+221,5,"Oct 13, 1951",Kentucky,27,Mississippi State,0,0
+222,5,"Oct 13, 1951",La Verne,13,Northern Arizona,12,1
+223,5,"Oct 13, 1951",Georgia,7,Maryland,43,0
+224,5,"Oct 13, 1951",Michigan,33,Indiana,14,0
+225,5,"Oct 13, 1951",Michigan State,20,Marquette,14,0
+226,5,"Oct 13, 1951",South Carolina,6,North Carolina,21,1
+227,5,"Oct 13, 1951",North Texas,42,West Texas State,14,1
+228,5,"Oct 13, 1951",Minnesota,7,Northwestern,21,0
+229,5,"Oct 13, 1951",Wisconsin,6,Ohio State,6,0
+230,5,"Oct 13, 1951",Oklahoma State,43,Wichita State,0,0
+231,5,"Oct 13, 1951",Clemson,7,Pacific,21,1
+232,5,"Oct 13, 1951",Nebraska,7,Penn State,15,0
+233,5,"Oct 13, 1951",Presbyterian,14,Davidson,12,1
+234,5,"Oct 13, 1951",Pennsylvania,7,Princeton,13,0
+235,5,"Oct 13, 1951",Rice,21,Navy,14,0
+236,5,"Oct 13, 1951",Rutgers,55,New York University,0,1
+237,5,"Oct 13, 1951",Santa Clara,20,Loyola Marymount,16,0
+238,5,"Oct 13, 1951",USC,16,Oregon State,14,0
+239,5,"Oct 13, 1951",SMU,27,Notre Dame,20,1
+240,5,"Oct 13, 1951",UCLA,7,Stanford,21,1
+241,5,"Oct 13, 1951",Albright,6,Temple,47,1
+242,5,"Oct 13, 1951",Tennessee,42,Chattanooga,13,0
+243,5,"Oct 13, 1951",Texas,9,Oklahoma,7,0
+244,5,"Oct 13, 1951",Texas A&M,53,Trinity (Texas),14,1
+245,5,"Oct 13, 1951",Texas Tech,33,TCU,19,0
+246,5,"Oct 13, 1951",Tulane,20,Holy Cross,14,0
+247,5,"Oct 13, 1951",Tulsa,46,Houston,27,0
+248,5,"Oct 13, 1951",Vanderbilt,34,Ole Miss,20,0
+249,5,"Oct 13, 1951",Washington,63,Oregon,6,1
+250,5,"Oct 13, 1951",Washington & Lee,42,Virginia,14,0
+251,5,"Oct 13, 1951",West Virginia,24,Richmond,0,0
+252,5,"Oct 13, 1951",William & Mary,7,Wake Forest,6,0
+253,6,"Oct 19, 1951",Boston University,27,Pacific,12,0
+254,6,"Oct 19, 1951",Detroit Mercy,19,Boston College,13,1
+255,6,"Oct 19, 1951",Furman,35,Citadel,14,0
+256,6,"Oct 19, 1951",Miami,32,Washington & Lee,12,0
+257,6,"Oct 19, 1951",Wake Forest,27,George Washington,13,1
+258,6,"Oct 20, 1951",San Diego State,27,Arizona State,27,0
+259,6,"Oct 20, 1951",Arkansas,16,Texas,14,0
+260,6,"Oct 20, 1951",Baylor,40,Texas Tech,20,0
+261,6,"Oct 20, 1951",New Mexico State,6,Bradley,34,1
+262,6,"Oct 20, 1951",Wyoming,20,BYU,20,0
+263,6,"Oct 20, 1951",Colgate,32,Brown,14,1
+264,6,"Oct 20, 1951",Kansas State,7,Colorado,20,0
+265,6,"Oct 20, 1951",Cornell,27,Yale,0,1
+266,6,"Oct 20, 1951",Dartmouth,14,Syracuse,0,0
+267,6,"Oct 20, 1951",Virginia Tech,6,Duke,55,1
+268,6,"Oct 20, 1951",Florida,33,Vanderbilt,13,0
+269,6,"Oct 20, 1951",Auburn,7,Georgia Tech,27,1
+270,6,"Oct 20, 1951",Harvard,22,Army,21,0
+271,6,"Oct 20, 1951",New York University,6,Holy Cross,53,1
+272,6,"Oct 20, 1951",Houston,35,Hardin-Simmons,27,0
+273,6,"Oct 20, 1951",San Jose State,7,Idaho,40,1
+274,6,"Oct 20, 1951",Idaho State,34,Northern Arizona,20,0
+275,6,"Oct 20, 1951",Illinois,27,Washington,20,1
+276,6,"Oct 20, 1951",Indiana,32,Ohio State,10,1
+277,6,"Oct 20, 1951",Iowa State,21,Missouri,14,0
+278,6,"Oct 20, 1951",Kentucky,35,Villanova,13,0
+279,6,"Oct 20, 1951",Rutgers,6,Lehigh,21,0
+280,6,"Oct 20, 1951",LSU,7,Georgia,0,1
+281,6,"Oct 20, 1951",North Carolina,7,Maryland,14,1
+282,6,"Oct 20, 1951",Michigan,21,Iowa,0,1
+283,6,"Oct 20, 1951",Michigan State,32,Penn State,21,1
+284,6,"Oct 20, 1951",Minnesota,39,Nebraska,20,0
+285,6,"Oct 20, 1951",Tulane,6,Ole Miss,25,1
+286,6,"Oct 20, 1951",Montana,38,Montana State,0,0
+287,6,"Oct 20, 1951",Navy,7,Northwestern,16,1
+288,6,"Oct 20, 1951",Notre Dame,33,Pitt,0,1
+289,6,"Oct 20, 1951",Oklahoma,33,Kansas,21,0
+290,6,"Oct 20, 1951",Oklahoma State,27,Drake,14,0
+291,6,"Oct 20, 1951",Pennsylvania,28,Columbia,13,0
+292,6,"Oct 20, 1951",Lafayette,7,Princeton,60,1
+293,6,"Oct 20, 1951",SMU,7,Rice,28,0
+294,6,"Oct 20, 1951",Davidson,6,Richmond,25,1
+295,6,"Oct 20, 1951",San Francisco,32,Fordham,26,1
+296,6,"Oct 20, 1951",USC,21,California,14,1
+297,6,"Oct 20, 1951",Stanford,21,Santa Clara,14,0
+298,6,"Oct 20, 1951",Delaware,7,Temple,13,0
+299,6,"Oct 20, 1951",Tennessee,27,Alabama,13,1
+300,6,"Oct 20, 1951",TCU,20,Texas A&M,14,0
+301,6,"Oct 20, 1951",New Mexico,7,UTEP,32,1
+302,6,"Oct 20, 1951",Tulsa,27,Marquette,21,0
+303,6,"Oct 20, 1951",UCLA,41,Oregon,0,0
+304,6,"Oct 20, 1951",Utah,17,Denver,14,0
+305,6,"Oct 20, 1951",Colorado State,20,Utah State,20,0
+306,6,"Oct 20, 1951",Virginia,34,Virginia Military Institute,14,0
+307,6,"Oct 20, 1951",Washington State,26,Oregon State,13,1
+308,6,"Oct 20, 1951",West Virginia,89,Geneva,0,0
+309,6,"Oct 20, 1951",William & Mary,35,NC State,28,1
+310,6,"Oct 20, 1951",Purdue,7,Wisconsin,31,0
+311,7,"Oct 25, 1951",South Carolina,20,Clemson,0,0
+312,7,"Oct 26, 1951",George Washington,19,Furman,19,0
+313,7,"Oct 26, 1951",Loyola Marymount,13,San Jose State,12,1
+314,7,"Oct 26, 1951",Ole Miss,7,Miami,20,1
+315,7,"Oct 26, 1951",Detroit Mercy,7,Oklahoma State,20,0
+316,7,"Oct 26, 1951",San Diego Navy,7,San Francisco,26,1
+317,7,"Oct 27, 1951",Alabama,7,Mississippi State,0,1
+318,7,"Oct 27, 1951",Arizona State,46,New Mexico State,0,0
+319,7,"Oct 27, 1951",Columbia,9,Army,14,1
+320,7,"Oct 27, 1951",Auburn,21,Tulane,0,1
+321,7,"Oct 27, 1951",Texas A&M,21,Baylor,21,0
+322,7,"Oct 27, 1951",Bradley,47,Brandeis,0,1
+323,7,"Oct 27, 1951",California,35,Oregon State,14,0
+324,7,"Oct 27, 1951",Cincinnati,53,UTEP,18,0
+325,7,"Oct 27, 1951",Citadel,35,Presbyterian,0,0
+326,7,"Oct 27, 1951",Colorado State,20,New Mexico,15,1
+327,7,"Oct 27, 1951",Dartmouth,26,Harvard,20,1
+328,7,"Oct 27, 1951",BYU,6,Denver,56,1
+329,7,"Oct 27, 1951",Georgia,35,Boston College,28,0
+330,7,"Oct 27, 1951",Georgia Tech,8,Vanderbilt,7,1
+331,7,"Oct 27, 1951",West Texas State,6,Hardin-Simmons,27,0
+332,7,"Oct 27, 1951",Brown,6,Holy Cross,41,0
+333,7,"Oct 27, 1951",Illinois,21,Indiana,0,1
+334,7,"Oct 27, 1951",Iowa State,13,Drake,0,1
+335,7,"Oct 27, 1951",Kansas,33,Kansas State,14,0
+336,7,"Oct 27, 1951",Florida,6,Kentucky,14,0
+337,7,"Oct 27, 1951",Lehigh,27,New York University,20,0
+338,7,"Oct 27, 1951",Miami (OH),7,Marquette,27,0
+339,7,"Oct 27, 1951",Maryland,27,LSU,0,1
+340,7,"Oct 27, 1951",Michigan,54,Minnesota,27,0
+341,7,"Oct 27, 1951",Michigan State,53,Pitt,26,0
+342,7,"Oct 27, 1951",Missouri,35,Nebraska,19,0
+343,7,"Oct 27, 1951",NC State,19,Virginia Tech,14,1
+344,7,"Oct 27, 1951",Purdue,9,Notre Dame,30,1
+345,7,"Oct 27, 1951",Ohio State,47,Iowa,21,0
+346,7,"Oct 27, 1951",Oklahoma,55,Colorado,14,0
+347,7,"Oct 27, 1951",Pacific,34,North Texas,0,0
+348,7,"Oct 27, 1951",West Virginia,7,Penn State,13,1
+349,7,"Oct 27, 1951",Pennsylvania,14,Navy,0,0
+350,7,"Oct 27, 1951",Princeton,53,Cornell,15,0
+351,7,"Oct 27, 1951",Santa Clara,21,Arkansas,12,1
+352,7,"Oct 27, 1951",USC,28,TCU,26,0
+353,7,"Oct 27, 1951",Washington,7,Stanford,14,0
+354,7,"Oct 27, 1951",Syracuse,33,Fordham,20,0
+355,7,"Oct 27, 1951",Temple,20,Boston University,13,0
+356,7,"Oct 27, 1951",Tennessee,68,Tennessee Tech,0,0
+357,7,"Oct 27, 1951",Rice,6,Texas,14,1
+358,7,"Oct 27, 1951",Texas Tech,41,Arizona,0,0
+359,7,"Oct 27, 1951",Tulsa,33,Wichita State,0,1
+360,7,"Oct 27, 1951",Montana,6,Utah State,19,1
+361,7,"Oct 27, 1951",Villanova,33,Houston,27,1
+362,7,"Oct 27, 1951",Duke,7,Virginia,30,0
+363,7,"Oct 27, 1951",Virginia Military Institute,34,Catawba College,14,1
+364,7,"Oct 27, 1951",North Carolina,7,Wake Forest,39,1
+365,7,"Oct 27, 1951",Washington & Lee,34,Davidson,0,0
+366,7,"Oct 27, 1951",Oregon,6,Washington State,41,1
+367,7,"Oct 27, 1951",William & Mary,20,Richmond,14,1
+368,7,"Oct 27, 1951",Wisconsin,41,Northwestern,0,1
+369,7,"Oct 27, 1951",Wyoming,13,Utah,0,1
+370,7,"Oct 27, 1951",Colgate,7,Yale,27,1
+371,8,"Nov 2, 1951",Richmond,7,Boston College,21,1
+372,8,"Nov 2, 1951",Louisville,26,NC State,2,0
+373,8,"Nov 2, 1951",Pacific,39,Marquette,27,1
+374,8,"Nov 2, 1951",Wofford,14,Furman,12,0
+375,8,"Nov 3, 1951",Alabama,16,Georgia,14,1
+376,8,"Nov 3, 1951",Arizona,32,New Mexico,20,0
+377,8,"Nov 3, 1951",Arizona State,34,West Texas State,0,0
+378,8,"Nov 3, 1951",Arkansas,33,Texas A&M,21,0
+379,8,"Nov 3, 1951",Auburn,49,Louisiana College,0,0
+380,8,"Nov 3, 1951",New York University,6,Boston University,52,1
+381,8,"Nov 3, 1951",BYU,21,Colorado State,19,0
+382,8,"Nov 3, 1951",Temple,7,Bucknell,28,1
+383,8,"Nov 3, 1951",Cincinnati,13,Hardin-Simmons,12,1
+384,8,"Nov 3, 1951",Wake Forest,6,Clemson,21,1
+385,8,"Nov 3, 1951",Colorado,47,Iowa State,20,0
+386,8,"Nov 3, 1951",Columbia,21,Cornell,20,1
+387,8,"Nov 3, 1951",Dartmouth,14,Yale,10,1
+388,8,"Nov 3, 1951",Detroit Mercy,7,Bradley,6,1
+389,8,"Nov 3, 1951",Drake,35,Great Lakes Navy,20,0
+390,8,"Nov 3, 1951",Georgia Tech,14,Duke,14,0
+391,8,"Nov 3, 1951",George Washington,20,South Carolina,14,1
+392,8,"Nov 3, 1951",Colgate,6,Holy Cross,34,1
+393,8,"Nov 3, 1951",Illinois,7,Michigan,0,0
+394,8,"Nov 3, 1951",Nebraska,7,Kansas,27,0
+395,8,"Nov 3, 1951",Kentucky,32,Miami,0,0
+396,8,"Nov 3, 1951",Pepperdine,7,Loyola Marymount,46,1
+397,8,"Nov 3, 1951",Maryland,35,Missouri,0,0
+398,8,"Nov 3, 1951",Iowa,20,Minnesota,20,0
+399,8,"Nov 3, 1951",LSU,6,Ole Miss,6,0
+400,8,"Nov 3, 1951",Tulane,7,Mississippi State,10,0
+401,8,"Nov 3, 1951",New Mexico State,48,Northern Arizona,12,0
+402,8,"Nov 3, 1951",Notre Dame,19,Navy,0,1
+403,8,"Nov 3, 1951",Ohio State,3,Northwestern,0,0
+404,8,"Nov 3, 1951",Oklahoma,33,Kansas State,0,1
+405,8,"Nov 3, 1951",Oregon,14,Idaho,13,0
+406,8,"Nov 3, 1951",Oregon State,40,Washington,14,1
+407,8,"Nov 3, 1951",Princeton,12,Brown,0,0
+408,8,"Nov 3, 1951",Purdue,28,Penn State,0,0
+409,8,"Nov 3, 1951",Rice,21,Pitt,13,0
+410,8,"Nov 3, 1951",Fordham,7,Rutgers,13,1
+411,8,"Nov 3, 1951",San Diego Navy,28,San Jose State,12,0
+412,8,"Nov 3, 1951",Army,6,USC,28,0
+413,8,"Nov 3, 1951",Stanford,21,Washington State,13,0
+414,8,"Nov 3, 1951",Tennessee,27,North Carolina,0,1
+415,8,"Nov 3, 1951",Texas,20,SMU,13,1
+416,8,"Nov 3, 1951",Baylor,7,TCU,20,0
+417,8,"Nov 3, 1951",UTEP,7,Texas Tech,27,0
+418,8,"Nov 3, 1951",Oklahoma State,7,Tulsa,35,0
+419,8,"Nov 3, 1951",California,7,UCLA,21,1
+420,8,"Nov 3, 1951",Utah,28,Utah State,20,1
+421,8,"Nov 3, 1951",Vanderbilt,19,Chattanooga,14,0
+422,8,"Nov 3, 1951",Virginia,39,Citadel,0,0
+423,8,"Nov 3, 1951",Virginia Military Institute,35,Davidson,13,0
+424,8,"Nov 3, 1951",Washington & Lee,60,Virginia Tech,0,0
+425,8,"Nov 3, 1951",Western Reserve,7,West Virginia,35,1
+426,8,"Nov 3, 1951",Wichita State,19,Houston,14,0
+427,8,"Nov 3, 1951",William & Mary,20,Pennsylvania,12,1
+428,8,"Nov 3, 1951",Wisconsin,6,Indiana,0,0
+429,8,"Nov 3, 1951",Montana,7,Wyoming,34,0
+430,8,"Nov 4, 1951",Santa Clara,7,San Francisco,26,1
+431,9,"Nov 9, 1951",Furman,33,Newberry,13,0
+432,9,"Nov 9, 1951",Hardin-Simmons,46,UTEP,0,0
+433,9,"Nov 9, 1951",Chattanooga,7,Miami,34,1
+434,9,"Nov 10, 1951",Southern Miss,7,Alabama,40,1
+435,9,"Nov 10, 1951",Arizona State,61,Arizona,14,0
+436,9,"Nov 10, 1951",Citadel,6,Army,27,1
+437,9,"Nov 10, 1951",Texas,6,Baylor,18,0
+438,9,"Nov 10, 1951",Oregon,6,Boston University,35,1
+439,9,"Nov 10, 1951",BYU,28,Utah State,27,0
+440,9,"Nov 10, 1951",Bucknell,21,Colgate,20,1
+441,9,"Nov 10, 1951",California,37,Washington,28,0
+442,9,"Nov 10, 1951",Clemson,21,Boston College,2,0
+443,9,"Nov 10, 1951",Colorado,54,Utah,0,0
+444,9,"Nov 10, 1951",Montana,6,Colorado State,34,1
+445,9,"Nov 10, 1951",Dartmouth,6,Columbia,21,1
+446,9,"Nov 10, 1951",Michigan,7,Cornell,20,1
+447,9,"Nov 10, 1951",Denver,35,Pacific,33,1
+448,9,"Nov 10, 1951",Wichita State,7,Drake,14,0
+449,9,"Nov 10, 1951",Georgia,7,Florida,6,0
+450,9,"Nov 10, 1951",Virginia Military Institute,7,Georgia Tech,34,1
+451,9,"Nov 10, 1951",Holy Cross,39,Marquette,13,0
+452,9,"Nov 10, 1951",Illinois,40,Iowa,13,0
+453,9,"Nov 10, 1951",Kansas,34,Loyola Marymount,26,0
+454,9,"Nov 10, 1951",Kentucky,37,Tulane,0,1
+455,9,"Nov 10, 1951",Louisville,35,Houston,28,0
+456,9,"Nov 10, 1951",Maryland,40,Navy,21,0
+457,9,"Nov 10, 1951",Michigan State,35,Notre Dame,0,0
+458,9,"Nov 10, 1951",Minnesota,16,Indiana,14,0
+459,9,"Nov 10, 1951",Ole Miss,39,Auburn,14,1
+460,9,"Nov 10, 1951",Mississippi State,27,Memphis,20,1
+461,9,"Nov 10, 1951",Nebraska,34,Iowa State,27,1
+462,9,"Nov 10, 1951",NC State,31,Davidson,0,0
+463,9,"Nov 10, 1951",Ohio State,16,Pitt,14,1
+464,9,"Nov 10, 1951",Oklahoma,34,Missouri,20,1
+465,9,"Nov 10, 1951",Penn State,32,Syracuse,13,0
+466,9,"Nov 10, 1951",Princeton,54,Harvard,13,1
+467,9,"Nov 10, 1951",Purdue,35,Northwestern,14,1
+468,9,"Nov 10, 1951",Rice,6,Arkansas,0,0
+469,9,"Nov 10, 1951",Rutgers,28,Brown,21,1
+470,9,"Nov 10, 1951",South Carolina,34,West Virginia,13,1
+471,9,"Nov 10, 1951",Texas A&M,14,SMU,14,0
+472,9,"Nov 10, 1951",Stanford,27,USC,20,1
+473,9,"Nov 10, 1951",Stetson,19,Richmond,14,0
+474,9,"Nov 10, 1951",New York University,6,Temple,34,1
+475,9,"Nov 10, 1951",Tennessee,60,Washington & Lee,14,0
+476,9,"Nov 10, 1951",Toledo,38,Bradley,13,0
+477,9,"Nov 10, 1951",Tulsa,42,Kansas State,26,0
+478,9,"Nov 10, 1951",UCLA,7,Oregon State,0,1
+479,9,"Nov 10, 1951",Vanderbilt,20,LSU,13,1
+480,9,"Nov 10, 1951",Detroit Mercy,7,Villanova,26,1
+481,9,"Nov 10, 1951",Virginia,34,North Carolina,14,0
+482,9,"Nov 10, 1951",Wake Forest,19,Duke,13,1
+483,9,"Nov 10, 1951",Washington State,9,Idaho,6,1
+484,9,"Nov 10, 1951",West Texas State,50,New Mexico State,20,1
+485,9,"Nov 10, 1951",Western New Mexico,20,Northern Arizona,0,1
+486,9,"Nov 10, 1951",Virginia Tech,7,William & Mary,28,1
+487,9,"Nov 10, 1951",Pennsylvania,7,Wisconsin,16,1
+488,9,"Nov 10, 1951",New Mexico,7,Wyoming,41,0
+489,10,"Nov 17, 1951",Idaho,6,Arizona,13,1
+490,10,"Nov 17, 1951",Arizona State,23,UTEP,13,1
+491,10,"Nov 17, 1951",Baylor,42,Wake Forest,0,0
+492,10,"Nov 17, 1951",Boston College,20,Villanova,13,0
+493,10,"Nov 17, 1951",Wichita State,6,Boston University,39,1
+494,10,"Nov 17, 1951",California,28,Oregon,26,0
+495,10,"Nov 17, 1951",Clemson,34,Furman,14,1
+496,10,"Nov 17, 1951",Colorado,36,Nebraska,14,1
+497,10,"Nov 17, 1951",Cornell,21,Dartmouth,13,1
+498,10,"Nov 17, 1951",Temple,6,Fordham,35,0
+499,10,"Nov 17, 1951",Georgia,46,Auburn,14,0
+500,10,"Nov 17, 1951",Alabama,7,Georgia Tech,27,0
+501,10,"Nov 17, 1951",Harvard,34,Brown,21,0
+502,10,"Nov 17, 1951",Holy Cross,39,Quantico Marines,14,0
+503,10,"Nov 17, 1951",Ohio State,0,Illinois,0,0
+504,10,"Nov 17, 1951",Kansas,27,Oklahoma State,12,1
+505,10,"Nov 17, 1951",Kansas State,14,Missouri,12,1
+506,10,"Nov 17, 1951",Kentucky,47,George Washington,13,0
+507,10,"Nov 17, 1951",LSU,3,Mississippi State,0,0
+508,10,"Nov 17, 1951",Washington & Lee,7,Louisville,14,1
+509,10,"Nov 17, 1951",Loyola Marymount,14,Hardin-Simmons,13,0
+510,10,"Nov 17, 1951",Marquette,26,Detroit Mercy,13,0
+511,10,"Nov 17, 1951",Maryland,53,NC State,0,0
+512,10,"Nov 17, 1951",McMurry,33,New Mexico State,14,1
+513,10,"Nov 17, 1951",Florida,6,Miami,21,1
+514,10,"Nov 17, 1951",Michigan State,30,Indiana,26,1
+515,10,"Nov 17, 1951",Columbia,7,Navy,21,0
+516,10,"Nov 17, 1951",New Mexico,34,BYU,0,0
+517,10,"Nov 17, 1951",Northwestern,6,Michigan,0,1
+518,10,"Nov 17, 1951",North Carolina,7,Notre Dame,12,0
+519,10,"Nov 17, 1951",Iowa State,6,Oklahoma,35,1
+520,10,"Nov 17, 1951",Rutgers,7,Penn State,13,0
+521,10,"Nov 17, 1951",Pennsylvania,7,Army,6,0
+522,10,"Nov 17, 1951",Pitt,32,West Virginia,12,0
+523,10,"Nov 17, 1951",Princeton,27,Yale,0,0
+524,10,"Nov 17, 1951",Purdue,19,Minnesota,13,0
+525,10,"Nov 17, 1951",Rice,28,Texas A&M,13,0
+526,10,"Nov 17, 1951",San Francisco,47,Pacific,14,1
+527,10,"Nov 17, 1951",San Jose State,7,Santa Clara,7,0
+528,10,"Nov 17, 1951",Arkansas,7,SMU,47,1
+529,10,"Nov 17, 1951",Stanford,35,Oregon State,14,0
+530,10,"Nov 17, 1951",Syracuse,9,Colgate,0,0
+531,10,"Nov 17, 1951",Tennessee,46,Ole Miss,21,1
+532,10,"Nov 17, 1951",Texas,32,TCU,21,0
+533,10,"Nov 17, 1951",Tulane,14,Vanderbilt,10,1
+534,10,"Nov 17, 1951",Tulsa,21,Texas Tech,14,0
+535,10,"Nov 17, 1951",Utah,27,Colorado State,21,0
+536,10,"Nov 17, 1951",Denver,7,Utah State,14,0
+537,10,"Nov 17, 1951",Virginia,28,South Carolina,27,0
+538,10,"Nov 17, 1951",Virginia Military Institute,27,Citadel,21,1
+539,10,"Nov 17, 1951",Virginia Tech,20,Richmond,14,0
+540,10,"Nov 17, 1951",UCLA,20,Washington,20,0
+541,10,"Nov 17, 1951",Washington State,47,Montana,10,0
+542,10,"Nov 17, 1951",William & Mary,14,Duke,13,0
+543,10,"Nov 17, 1951",Iowa,7,Wisconsin,34,1
+544,11,"Nov 22, 1951",Utah,40,Idaho,19,0
+545,11,"Nov 22, 1951",Virginia Tech,7,Virginia Military Institute,20,1
+546,11,"Nov 22, 1951",Richmond,7,Washington & Lee,39,0
+547,11,"Nov 23, 1951",Detroit Mercy,9,Wichita State,7,1
+548,11,"Nov 23, 1951",San Jose State,7,Pacific,0,0
+549,11,"Nov 24, 1951",Tulsa,7,Arkansas,24,1
+550,11,"Nov 24, 1951",Baylor,14,SMU,13,0
+551,11,"Nov 24, 1951",Bradley,6,Bowling Green,20,0
+552,11,"Nov 24, 1951",BYU,20,Pepperdine,0,1
+553,11,"Nov 24, 1951",Stanford,7,California,20,0
+554,11,"Nov 24, 1951",East Carolina,7,Citadel,21,1
+555,11,"Nov 24, 1951",Clemson,34,Auburn,0,0
+556,11,"Nov 24, 1951",Colgate,26,Rutgers,21,1
+557,11,"Nov 24, 1951",Columbia,29,Brown,14,0
+558,11,"Nov 24, 1951",Colorado State,6,Denver,21,1
+559,11,"Nov 24, 1951",North Carolina,7,Duke,19,1
+560,11,"Nov 24, 1951",Florida,30,Alabama,21,1
+561,11,"Nov 24, 1951",Fordham,41,New York University,0,0
+562,11,"Nov 24, 1951",Davidson,7,Georgia Tech,34,1
+563,11,"Nov 24, 1951",Hardin-Simmons,14,Arizona,13,0
+564,11,"Nov 24, 1951",Yale,21,Harvard,21,0
+565,11,"Nov 24, 1951",Temple,7,Holy Cross,41,1
+566,11,"Nov 24, 1951",Oklahoma State,7,Houston,31,1
+567,11,"Nov 24, 1951",Illinois,3,Northwestern,0,1
+568,11,"Nov 24, 1951",Notre Dame,20,Iowa,20,0
+569,11,"Nov 24, 1951",Villanova,7,LSU,45,1
+570,11,"Nov 24, 1951",West Virginia,7,Maryland,54,1
+571,11,"Nov 24, 1951",Michigan,7,Ohio State,0,0
+572,11,"Nov 24, 1951",Colorado,7,Michigan State,45,1
+573,11,"Nov 24, 1951",Oklahoma,27,Nebraska,0,1
+574,11,"Nov 24, 1951",Oregon,7,Oregon State,14,0
+575,11,"Nov 24, 1951",Pennsylvania,7,Cornell,0,0
+576,11,"Nov 24, 1951",Penn State,7,Pitt,13,1
+577,11,"Nov 24, 1951",Princeton,13,Dartmouth,0,0
+578,11,"Nov 24, 1951",Purdue,21,Indiana,13,1
+579,11,"Nov 24, 1951",Santa Clara,27,Marquette,14,1
+580,11,"Nov 24, 1951",Wake Forest,6,South Carolina,21,1
+581,11,"Nov 24, 1951",Syracuse,26,Boston University,19,1
+582,11,"Nov 24, 1951",Tennessee,28,Kentucky,0,1
+583,11,"Nov 24, 1951",Rice,6,TCU,22,1
+584,11,"Nov 24, 1951",Texas Tech,60,New Mexico,14,1
+585,11,"Nov 24, 1951",West Texas State,6,UTEP,13,0
+586,11,"Nov 24, 1951",Southeastern Louisiana,7,Tulane,48,1
+587,11,"Nov 24, 1951",USC,7,UCLA,21,0
+588,11,"Nov 24, 1951",Memphis,7,Vanderbilt,13,1
+589,11,"Nov 24, 1951",Virginia,46,William & Mary,0,0
+590,11,"Nov 24, 1951",Washington State,27,Washington,25,1
+591,11,"Nov 24, 1951",Minnesota,6,Wisconsin,30,0
+592,11,"Nov 24, 1951",Arizona State,7,Wyoming,20,0
+593,11,"Nov 25, 1951",San Francisco,20,Loyola Marymount,2,0
+594,12,"Nov 29, 1951",Texas A&M,22,Texas,21,0
+595,12,"Nov 30, 1951",Houston,20,North Texas,14,1
+596,12,"Nov 30, 1951",Nebraska,7,Miami,19,1
+597,12,"Nov 30, 1951",Richmond,20,George Washington,19,1
+598,12,"Dec 1, 1951",Baylor,34,Rice,13,1
+599,12,"Dec 1, 1951",Boston College,19,Holy Cross,14,0
+600,12,"Dec 1, 1951",Georgia,6,Georgia Tech,48,1
+601,12,"Dec 1, 1951",Kansas,41,Missouri,28,0
+602,12,"Dec 1, 1951",LSU,14,Tulane,13,0
+603,12,"Dec 1, 1951",San Jose State,7,Marquette,21,0
+604,12,"Dec 1, 1951",Mississippi State,7,Ole Miss,49,0
+605,12,"Dec 1, 1951",Army,7,Navy,42,1
+606,12,"Dec 1, 1951",New Mexico,17,Utah State,13,0
+607,12,"Dec 1, 1951",Notre Dame,19,USC,12,1
+608,12,"Dec 1, 1951",Oklahoma State,6,Oklahoma,41,1
+609,12,"Dec 1, 1951",Tennessee,35,Vanderbilt,27,0
+610,12,"Dec 1, 1951",SMU,2,TCU,13,1
+611,12,"Dec 1, 1951",Texas Tech,28,Hardin-Simmons,21,0
+612,12,"Dec 1, 1951",Tulsa,34,Detroit Mercy,20,0
+613,12,"Dec 2, 1951",Auburn,7,Alabama,25,1
+614,13,"Dec 7, 1951",Miami,7,Pitt,21,0
+615,13,"Dec 8, 1951",Tulsa,33,Hardin-Simmons,14,0
+616,14,"Dec 21, 1951",Arizona,32,Hawaii,21,1
+617,15,"Jan 1, 1952",Georgia Tech,17,Baylor,14,0
+618,15,"Jan 1, 1952",Houston,26,Dayton,21,0
+619,15,"Jan 1, 1952",Stanford,7,Illinois,40,1
+620,15,"Jan 1, 1952",TCU,7,Kentucky,20,0
+621,15,"Jan 1, 1952",Maryland,28,Tennessee,13,0
+622,15,"Jan 1, 1952",Miami,14,Clemson,0,0
+623,15,"Jan 1, 1952",Stetson,35,Arkansas State,20,0
+624,15,"Jan 1, 1952",Texas Tech,25,Pacific,14,0

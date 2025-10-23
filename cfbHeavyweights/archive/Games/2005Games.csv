@@ -1,0 +1,718 @@
+0,1,"Sep 1, 2005",Arizona State,63,Temple,16,0
+1,1,"Sep 1, 2005",Cincinnati,28,Eastern Michigan,26,0
+2,1,"Sep 1, 2005",Connecticut,38,Buffalo,0,0
+3,1,"Sep 1, 2005",Marshall,36,William & Mary,24,0
+4,1,"Sep 1, 2005",Minnesota,41,Tulsa,10,1
+5,1,"Sep 1, 2005",Northwestern State,27,Louisiana-Monroe,23,1
+6,1,"Sep 1, 2005",Oregon,38,Houston,24,1
+7,1,"Sep 1, 2005",South Carolina,24,UCF,15,0
+8,1,"Sep 1, 2005",Toledo,62,Western Illinois,14,0
+9,1,"Sep 1, 2005",Vanderbilt,24,Wake Forest,20,1
+10,1,"Sep 1, 2005",Washington State,38,Idaho,26,0
+11,1,"Sep 2, 2005",Indiana,20,Central Michigan,13,1
+12,1,"Sep 2, 2005",Utah,27,Arizona,24,0
+13,1,"Sep 3, 2005",Air Force,20,Washington,17,1
+14,1,"Sep 3, 2005",Middle Tennessee,7,Alabama,26,1
+15,1,"Sep 3, 2005",Arkansas,49,Missouri State,17,0
+16,1,"Sep 3, 2005",Baylor,28,SMU,23,1
+17,1,"Sep 3, 2005",BYU,3,Boston College,20,0
+18,1,"Sep 3, 2005",California,41,Sacramento State,3,0
+19,1,"Sep 3, 2005",Clemson,25,Texas A&M,24,0
+20,1,"Sep 3, 2005",Colorado,31,Colorado State,28,0
+21,1,"Sep 3, 2005",East Carolina,24,Duke,21,0
+22,1,"Sep 3, 2005",Florida,32,Wyoming,14,0
+23,1,"Sep 3, 2005",Georgia,48,Boise State,13,0
+24,1,"Sep 3, 2005",Georgia Tech,23,Auburn,14,1
+25,1,"Sep 3, 2005",Illinois,33,Rutgers,30,0
+26,1,"Sep 3, 2005",Iowa,56,Ball State,0,0
+27,1,"Sep 3, 2005",Iowa State,32,Illinois State,21,0
+28,1,"Sep 3, 2005",Kansas,30,Florida Atlantic,19,0
+29,1,"Sep 3, 2005",Kansas State,35,Florida Int'l,21,0
+30,1,"Sep 3, 2005",Maryland,23,Navy,20,0
+31,1,"Sep 3, 2005",Michigan,33,Northern Illinois,17,0
+32,1,"Sep 3, 2005",Michigan State,49,Kent State,14,0
+33,1,"Sep 3, 2005",Murray State,6,Mississippi State,38,1
+34,1,"Sep 3, 2005",Missouri,44,Arkansas State,17,0
+35,1,"Sep 3, 2005",Maine,7,Nebraska,25,1
+36,1,"Sep 3, 2005",Northwestern,38,Ohio,14,0
+37,1,"Sep 3, 2005",Notre Dame,42,Pitt,21,1
+38,1,"Sep 3, 2005",Ohio State,34,Miami (OH),14,0
+39,1,"Sep 3, 2005",Oklahoma State,15,Montana State,10,0
+40,1,"Sep 3, 2005",Oregon State,41,Portland State,14,0
+41,1,"Sep 3, 2005",Penn State,23,South Florida,13,0
+42,1,"Sep 3, 2005",San Jose State,35,Eastern Washington,24,0
+43,1,"Sep 3, 2005",USC,63,Hawaii,17,1
+44,1,"Sep 3, 2005",Tennessee,17,UAB,10,0
+45,1,"Sep 3, 2005",Texas,60,Louisiana,3,0
+46,1,"Sep 3, 2005",TCU,17,Oklahoma,10,1
+47,1,"Sep 3, 2005",UTEP,34,New Mexico State,17,1
+48,1,"Sep 3, 2005",Troy,27,Cal Poly,10,0
+49,1,"Sep 3, 2005",UCLA,44,San Diego State,21,1
+50,1,"Sep 3, 2005",Virginia,31,Western Michigan,19,0
+51,1,"Sep 3, 2005",Wisconsin,56,Bowling Green,42,0
+52,1,"Sep 4, 2005",Louisville,31,Kentucky,24,1
+53,1,"Sep 4, 2005",Virginia Tech,20,NC State,16,1
+54,1,"Sep 4, 2005",Syracuse,7,West Virginia,15,0
+55,1,"Sep 5, 2005",Miami,7,Florida State,10,1
+56,1,"Sep 5, 2005",Memphis,6,Ole Miss,10,0
+57,1,"Sep 5, 2005",New Mexico,24,UNLV,22,0
+58,2,"Sep 8, 2005",Florida Atlantic,3,Oklahoma State,23,0
+59,2,"Sep 9, 2005",Ohio,16,Pitt,10,0
+60,2,"Sep 9, 2005",Washington State,55,Nevada,21,1
+61,2,"Sep 10, 2005",Air Force,41,San Diego State,29,0
+62,2,"Sep 10, 2005",Alabama,30,Southern Miss,21,0
+63,2,"Sep 10, 2005",Troy,7,UAB,27,0
+64,2,"Sep 10, 2005",Arizona,31,Northern Arizona,12,0
+65,2,"Sep 10, 2005",Tennessee-Martin,7,Arkansas State,56,1
+66,2,"Sep 10, 2005",Auburn,28,Mississippi State,0,0
+67,2,"Sep 10, 2005",Baylor,48,Samford,14,0
+68,2,"Sep 10, 2005",Army,7,Boston College,44,1
+69,2,"Sep 10, 2005",Bowling Green,40,Ball State,31,1
+70,2,"Sep 10, 2005",BYU,45,Eastern Illinois,10,0
+71,2,"Sep 10, 2005",California,56,Washington,17,1
+72,2,"Sep 10, 2005",Central Michigan,38,Miami (OH),37,1
+73,2,"Sep 10, 2005",Clemson,28,Maryland,24,1
+74,2,"Sep 10, 2005",Colorado,39,New Mexico State,0,0
+75,2,"Sep 10, 2005",Connecticut,59,Liberty,0,0
+76,2,"Sep 10, 2005",Eastern Michigan,31,Louisiana,10,0
+77,2,"Sep 10, 2005",Florida,41,Louisiana Tech,3,0
+78,2,"Sep 10, 2005",Florida State,62,Citadel,10,0
+79,2,"Sep 10, 2005",Fresno State,55,Weber State,17,0
+80,2,"Sep 10, 2005",Georgia,17,South Carolina,15,0
+81,2,"Sep 10, 2005",Georgia Tech,27,North Carolina,21,0
+82,2,"Sep 10, 2005",Houston,31,Sam Houston,10,0
+83,2,"Sep 10, 2005",Illinois,40,San Jose State,19,0
+84,2,"Sep 10, 2005",Indiana,35,Nicholls State,31,0
+85,2,"Sep 10, 2005",Iowa,3,Iowa State,23,1
+86,2,"Sep 10, 2005",Appalachian State,8,Kansas,36,1
+87,2,"Sep 10, 2005",Kansas State,21,Marshall,19,1
+88,2,"Sep 10, 2005",Kent State,33,Southeast Missouri State,12,0
+89,2,"Sep 10, 2005",Kentucky,41,Idaho State,29,0
+90,2,"Sep 10, 2005",LSU,35,Arizona State,31,1
+91,2,"Sep 10, 2005",Michigan State,42,Hawaii,14,0
+92,2,"Sep 10, 2005",Minnesota,56,Colorado State,24,0
+93,2,"Sep 10, 2005",Nebraska,31,Wake Forest,3,0
+94,2,"Sep 10, 2005",UNLV,34,Idaho,31,0
+95,2,"Sep 10, 2005",New Mexico,45,Missouri,35,1
+96,2,"Sep 10, 2005",Middle Tennessee,7,North Texas,14,0
+97,2,"Sep 10, 2005",Northwestern,38,Northern Illinois,37,0
+98,2,"Sep 10, 2005",Notre Dame,17,Michigan,10,1
+99,2,"Sep 10, 2005",Oklahoma,31,Tulsa,15,0
+100,2,"Sep 10, 2005",Oregon,47,Montana,14,0
+101,2,"Sep 10, 2005",Oregon State,30,Boise State,27,0
+102,2,"Sep 10, 2005",Penn State,42,Cincinnati,24,0
+103,2,"Sep 10, 2005",Purdue,49,Akron,24,0
+104,2,"Sep 10, 2005",Villanova,6,Rutgers,38,1
+105,2,"Sep 10, 2005",South Florida,37,Florida A&M,3,0
+106,2,"Sep 10, 2005",SMU,21,TCU,10,0
+107,2,"Sep 10, 2005",Stanford,41,Navy,38,1
+108,2,"Sep 10, 2005",Syracuse,31,Buffalo,0,0
+109,2,"Sep 10, 2005",Texas,25,Ohio State,22,1
+110,2,"Sep 10, 2005",Texas Tech,56,Florida Int'l,3,0
+111,2,"Sep 10, 2005",Toledo,56,Western Michigan,23,0
+112,2,"Sep 10, 2005",UCLA,63,Rice,21,0
+113,2,"Sep 10, 2005",Utah State,7,Utah,31,1
+114,2,"Sep 10, 2005",Vanderbilt,28,Arkansas,24,1
+115,2,"Sep 10, 2005",Virginia Tech,45,Duke,0,1
+116,2,"Sep 10, 2005",Wofford,7,West Virginia,35,1
+117,2,"Sep 10, 2005",Wisconsin,65,Temple,0,0
+118,2,"Sep 10, 2005",Wyoming,38,Louisiana-Monroe,0,0
+119,3,"Sep 15, 2005",TCU,23,Utah,20,0
+120,3,"Sep 16, 2005",UTEP,44,Houston,41,0
+121,3,"Sep 17, 2005",Middle Tennessee,7,Akron,17,0
+122,3,"Sep 17, 2005",Alabama,37,South Carolina,14,1
+123,3,"Sep 17, 2005",UAB,35,Jacksonville State,28,0
+124,3,"Sep 17, 2005",Arizona State,52,Northwestern,21,0
+125,3,"Sep 17, 2005",Auburn,63,Ball State,3,0
+126,3,"Sep 17, 2005",Baylor,20,Army,10,1
+127,3,"Sep 17, 2005",California,35,Illinois,20,0
+128,3,"Sep 17, 2005",California-Davis,20,Stanford,17,1
+129,3,"Sep 17, 2005",Cincinnati,7,Western Carolina,3,0
+130,3,"Sep 17, 2005",Duke,40,Virginia Military Institute,14,0
+131,3,"Sep 17, 2005",Tennessee,7,Florida,16,1
+132,3,"Sep 17, 2005",Florida State,28,Boston College,17,1
+133,3,"Sep 17, 2005",Louisiana-Monroe,7,Georgia,44,1
+134,3,"Sep 17, 2005",Georgia Tech,28,Connecticut,13,0
+135,3,"Sep 17, 2005",Indiana,38,Kentucky,14,0
+136,3,"Sep 17, 2005",Iowa,45,Northern Iowa,21,0
+137,3,"Sep 17, 2005",Kansas,34,Louisiana Tech,14,0
+138,3,"Sep 17, 2005",Louisiana,49,Northwestern State,28,0
+139,3,"Sep 17, 2005",Louisville,63,Oregon State,27,0
+140,3,"Sep 17, 2005",Memphis,59,Chattanooga,14,0
+141,3,"Sep 17, 2005",Miami,36,Clemson,30,1
+142,3,"Sep 17, 2005",Miami (OH),27,Kent State,10,1
+143,3,"Sep 17, 2005",Michigan,55,Eastern Michigan,0,0
+144,3,"Sep 17, 2005",Michigan State,44,Notre Dame,41,1
+145,3,"Sep 17, 2005",Florida Atlantic,7,Minnesota,46,1
+146,3,"Sep 17, 2005",Mississippi State,21,Tulane,14,0
+147,3,"Sep 17, 2005",Missouri,52,Troy,21,0
+148,3,"Sep 17, 2005",Nebraska,7,Pitt,6,0
+149,3,"Sep 17, 2005",Nevada,22,UNLV,14,0
+150,3,"Sep 17, 2005",New Mexico,38,New Mexico State,21,0
+151,3,"Sep 17, 2005",NC State,54,Eastern Kentucky,10,0
+152,3,"Sep 17, 2005",Northern Illinois,42,Tennessee Tech,3,0
+153,3,"Sep 17, 2005",San Diego State,6,Ohio State,27,1
+154,3,"Sep 17, 2005",Oklahoma State,20,Arkansas State,10,0
+155,3,"Sep 17, 2005",Oregon,37,Fresno State,34,0
+156,3,"Sep 17, 2005",Penn State,40,Central Michigan,3,0
+157,3,"Sep 17, 2005",Purdue,31,Arizona,24,1
+158,3,"Sep 17, 2005",Buffalo,3,Rutgers,17,0
+159,3,"Sep 17, 2005",South Florida,31,UCF,14,0
+160,3,"Sep 17, 2005",USC,70,Arkansas,17,0
+161,3,"Sep 17, 2005",Southern Miss,48,McNeese State,20,0
+162,3,"Sep 17, 2005",Texas,51,Rice,10,0
+163,3,"Sep 17, 2005",SMU,8,Texas A&M,66,1
+164,3,"Sep 17, 2005",Texas Tech,80,Sam Houston,21,0
+165,3,"Sep 17, 2005",Toledo,42,Temple,17,1
+166,3,"Sep 17, 2005",Tulsa,54,North Texas,2,1
+167,3,"Sep 17, 2005",UCLA,41,Oklahoma,24,0
+168,3,"Sep 17, 2005",Vanderbilt,31,Ole Miss,23,0
+169,3,"Sep 17, 2005",Virginia,27,Syracuse,24,1
+170,3,"Sep 17, 2005",Virginia Tech,45,Ohio,0,0
+171,3,"Sep 17, 2005",Wake Forest,44,East Carolina,34,0
+172,3,"Sep 17, 2005",Idaho,6,Washington,34,1
+173,3,"Sep 17, 2005",Grambling State,7,Washington State,48,1
+174,3,"Sep 17, 2005",West Virginia,31,Maryland,19,1
+175,3,"Sep 17, 2005",Western Michigan,34,Southern Illinois,28,0
+176,3,"Sep 17, 2005",North Carolina,5,Wisconsin,14,0
+177,3,"Sep 17, 2005",Wyoming,29,Air Force,28,1
+178,4,"Sep 21, 2005",Boise State,48,Bowling Green,20,0
+179,4,"Sep 22, 2005",Louisiana-Monroe,28,Florida Atlantic,21,1
+180,4,"Sep 22, 2005",Texas A&M,44,Texas State,31,0
+181,4,"Sep 22, 2005",Utah,38,Air Force,35,0
+182,4,"Sep 23, 2005",California,41,New Mexico State,13,1
+183,4,"Sep 23, 2005",Iowa State,28,Army,21,1
+184,4,"Sep 24, 2005",Akron,48,Northern Illinois,42,0
+185,4,"Sep 24, 2005",Alabama,24,Arkansas,13,0
+186,4,"Sep 24, 2005",Arizona State,42,Oregon State,24,1
+187,4,"Sep 24, 2005",Arkansas State,66,Florida Int'l,24,0
+188,4,"Sep 24, 2005",Auburn,37,Western Kentucky,14,0
+189,4,"Sep 24, 2005",Boston College,16,Clemson,13,1
+190,4,"Sep 24, 2005",UCF,23,Marshall,13,0
+191,4,"Sep 24, 2005",Colorado State,42,Nevada,21,0
+192,4,"Sep 24, 2005",Eastern Michigan,23,Central Michigan,20,1
+193,4,"Sep 24, 2005",Florida,49,Kentucky,28,1
+194,4,"Sep 24, 2005",Georgia,23,Mississippi State,10,1
+195,4,"Sep 24, 2005",Hawaii,24,Idaho,0,1
+196,4,"Sep 24, 2005",North Texas,7,Kansas State,54,1
+197,4,"Sep 24, 2005",Maryland,22,Wake Forest,12,1
+198,4,"Sep 24, 2005",Colorado,3,Miami,23,1
+199,4,"Sep 24, 2005",Michigan State,61,Illinois,14,1
+200,4,"Sep 24, 2005",Minnesota,42,Purdue,35,0
+201,4,"Sep 24, 2005",North Carolina,31,NC State,24,1
+202,4,"Sep 24, 2005",Notre Dame,36,Washington,17,1
+203,4,"Sep 24, 2005",Ohio,35,Kent State,32,0
+204,4,"Sep 24, 2005",Iowa,6,Ohio State,31,1
+205,4,"Sep 24, 2005",Penn State,34,Northwestern,29,1
+206,4,"Sep 24, 2005",Pitt,41,Youngstown State,0,0
+207,4,"Sep 24, 2005",San Diego State,52,San Jose State,21,0
+208,4,"Sep 24, 2005",South Carolina,45,Troy,20,0
+209,4,"Sep 24, 2005",South Florida,45,Louisville,14,0
+210,4,"Sep 24, 2005",USC,45,Oregon,13,1
+211,4,"Sep 24, 2005",TCU,51,BYU,50,1
+212,4,"Sep 24, 2005",Indiana State,7,Texas Tech,63,1
+213,4,"Sep 24, 2005",UTEP,21,New Mexico,13,0
+214,4,"Sep 24, 2005",Tulane,31,SMU,10,1
+215,4,"Sep 24, 2005",Tulsa,37,Memphis,31,0
+216,4,"Sep 24, 2005",Utah State,31,UNLV,24,0
+217,4,"Sep 24, 2005",Vanderbilt,37,Richmond,13,0
+218,4,"Sep 24, 2005",Duke,7,Virginia,38,1
+219,4,"Sep 24, 2005",Georgia Tech,7,Virginia Tech,51,1
+220,4,"Sep 24, 2005",West Virginia,20,East Carolina,15,0
+221,4,"Sep 24, 2005",Western Michigan,19,Temple,16,1
+222,4,"Sep 24, 2005",Wisconsin,23,Michigan,20,0
+223,4,"Sep 24, 2005",Wyoming,24,Ole Miss,14,1
+224,4,"Sep 26, 2005",Tennessee,30,LSU,27,1
+225,5,"Sep 27, 2005",Fresno State,44,Toledo,14,0
+226,5,"Sep 28, 2005",Miami (OH),44,Cincinnati,16,0
+227,5,"Sep 29, 2005",Colorado State,41,Air Force,23,0
+228,5,"Sep 30, 2005",Rutgers,37,Pitt,29,0
+229,5,"Oct 1, 2005",Alabama,31,Florida,3,0
+230,5,"Oct 1, 2005",UAB,45,Rice,26,0
+231,5,"Oct 1, 2005",South Carolina,7,Auburn,48,1
+232,5,"Oct 1, 2005",Boise State,44,Hawaii,41,1
+233,5,"Oct 1, 2005",Boston College,38,Ball State,0,0
+234,5,"Oct 1, 2005",Bowling Green,70,Temple,7,0
+235,5,"Oct 1, 2005",California,28,Arizona,0,0
+236,5,"Oct 1, 2005",UCF,24,Louisiana,21,1
+237,5,"Oct 1, 2005",Central Michigan,31,Akron,17,1
+238,5,"Oct 1, 2005",Colorado,34,Oklahoma State,0,1
+239,5,"Oct 1, 2005",Connecticut,47,Army,13,1
+240,5,"Oct 1, 2005",Eastern Michigan,27,Kent State,20,0
+241,5,"Oct 1, 2005",Florida A&M,6,Florida Int'l,23,1
+242,5,"Oct 1, 2005",Florida State,38,Syracuse,14,0
+243,5,"Oct 1, 2005",Houston,30,Tulsa,23,1
+244,5,"Oct 1, 2005",Idaho,27,Utah State,13,0
+245,5,"Oct 1, 2005",Illinois,7,Iowa,35,1
+246,5,"Oct 1, 2005",Mississippi State,7,LSU,37,0
+247,5,"Oct 1, 2005",Louisiana Tech,34,New Mexico State,14,0
+248,5,"Oct 1, 2005",Louisiana-Monroe,31,Arkansas State,27,0
+249,5,"Oct 1, 2005",Louisville,61,Florida Atlantic,10,0
+250,5,"Oct 1, 2005",Marshall,16,SMU,13,0
+251,5,"Oct 1, 2005",Maryland,45,Virginia,33,0
+252,5,"Oct 1, 2005",Memphis,27,UTEP,20,0
+253,5,"Oct 1, 2005",South Florida,7,Miami,27,1
+254,5,"Oct 1, 2005",Michigan,34,Michigan State,31,1
+255,5,"Oct 1, 2005",Middle Tennessee,17,Vanderbilt,15,1
+256,5,"Oct 1, 2005",Navy,28,Duke,21,1
+257,5,"Oct 1, 2005",Nebraska,27,Iowa State,20,0
+258,5,"Oct 1, 2005",Nevada,30,San Jose State,23,1
+259,5,"Oct 1, 2005",North Carolina,31,Utah,17,0
+260,5,"Oct 1, 2005",Notre Dame,49,Purdue,28,1
+261,5,"Oct 1, 2005",Oklahoma,43,Kansas State,21,0
+262,5,"Oct 1, 2005",Oregon,44,Stanford,20,1
+263,5,"Oct 1, 2005",Oregon State,44,Washington State,33,0
+264,5,"Oct 1, 2005",Penn State,44,Minnesota,14,0
+265,5,"Oct 1, 2005",San Diego State,31,BYU,10,0
+266,5,"Oct 1, 2005",USC,38,Arizona State,28,1
+267,5,"Oct 1, 2005",East Carolina,7,Southern Miss,33,0
+268,5,"Oct 1, 2005",Tennessee,27,Ole Miss,10,0
+269,5,"Oct 1, 2005",Texas,51,Missouri,20,1
+270,5,"Oct 1, 2005",Texas A&M,16,Baylor,13,0
+271,5,"Oct 1, 2005",TCU,49,New Mexico,28,0
+272,5,"Oct 1, 2005",Texas Tech,30,Kansas,17,0
+273,5,"Oct 1, 2005",Tulane,28,Southeastern Louisiana,21,0
+274,5,"Oct 1, 2005",UCLA,21,Washington,17,0
+275,5,"Oct 1, 2005",Virginia Tech,34,West Virginia,17,1
+276,5,"Oct 1, 2005",Wake Forest,31,Clemson,27,0
+277,5,"Oct 1, 2005",Western Michigan,31,Buffalo,21,0
+278,5,"Oct 1, 2005",Wisconsin,41,Indiana,24,0
+279,5,"Oct 1, 2005",Wyoming,42,UNLV,17,0
+280,6,"Oct 4, 2005",Troy,13,North Texas,10,1
+281,6,"Oct 5, 2005",Northern Illinois,38,Miami (OH),27,0
+282,6,"Oct 6, 2005",Florida Atlantic,28,Louisiana,10,1
+283,6,"Oct 6, 2005",NC State,17,Georgia Tech,14,1
+284,6,"Oct 7, 2005",Syracuse,7,Connecticut,26,1
+285,6,"Oct 8, 2005",Buffalo,7,Akron,13,0
+286,6,"Oct 8, 2005",Arkansas,44,Louisiana-Monroe,15,0
+287,6,"Oct 8, 2005",Ball State,60,Western Michigan,57,1
+288,6,"Oct 8, 2005",Baylor,23,Iowa State,13,1
+289,6,"Oct 8, 2005",Boise State,21,Portland State,14,0
+290,6,"Oct 8, 2005",Boston College,28,Virginia,17,0
+291,6,"Oct 8, 2005",Bowling Green,38,Ohio,14,0
+292,6,"Oct 8, 2005",BYU,27,New Mexico,24,1
+293,6,"Oct 8, 2005",UCF,38,Memphis,17,0
+294,6,"Oct 8, 2005",Central Michigan,14,Army,10,1
+295,6,"Oct 8, 2005",Colorado,41,Texas A&M,20,0
+296,6,"Oct 8, 2005",Colorado State,21,Utah,17,0
+297,6,"Oct 8, 2005",East Carolina,41,Rice,28,0
+298,6,"Oct 8, 2005",Mississippi State,9,Florida,35,1
+299,6,"Oct 8, 2005",Florida State,41,Wake Forest,24,0
+300,6,"Oct 8, 2005",New Mexico State,7,Fresno State,37,0
+301,6,"Oct 8, 2005",Georgia,27,Tennessee,14,1
+302,6,"Oct 8, 2005",Houston,35,Tulane,14,0
+303,6,"Oct 8, 2005",Indiana,36,Illinois,13,0
+304,6,"Oct 8, 2005",Iowa,34,Purdue,17,1
+305,6,"Oct 8, 2005",Kansas,3,Kansas State,12,1
+306,6,"Oct 8, 2005",Vanderbilt,6,LSU,34,0
+307,6,"Oct 8, 2005",Louisiana Tech,46,Hawaii,14,0
+308,6,"Oct 8, 2005",Louisville,69,North Carolina,14,0
+309,6,"Oct 8, 2005",Temple,7,Maryland,38,0
+310,6,"Oct 8, 2005",Duke,7,Miami,52,1
+311,6,"Oct 8, 2005",Minnesota,23,Michigan,20,1
+312,6,"Oct 8, 2005",Citadel,7,Ole Miss,27,1
+313,6,"Oct 8, 2005",Missouri,38,Oklahoma State,31,1
+314,6,"Oct 8, 2005",Navy,27,Air Force,24,0
+315,6,"Oct 8, 2005",Nevada,62,Idaho,14,0
+316,6,"Oct 8, 2005",UNLV,13,San Diego State,10,0
+317,6,"Oct 8, 2005",Northwestern,51,Wisconsin,48,0
+318,6,"Oct 8, 2005",Oregon,31,Arizona State,17,1
+319,6,"Oct 8, 2005",Penn State,17,Ohio State,10,0
+320,6,"Oct 8, 2005",Pitt,38,Cincinnati,20,0
+321,6,"Oct 8, 2005",South Carolina,44,Kentucky,16,0
+322,6,"Oct 8, 2005",USC,42,Arizona,21,0
+323,6,"Oct 8, 2005",SMU,28,UAB,27,1
+324,6,"Oct 8, 2005",Stanford,24,Washington State,21,1
+325,6,"Oct 8, 2005",Texas,45,Oklahoma,12,0
+326,6,"Oct 8, 2005",TCU,28,Wyoming,14,1
+327,6,"Oct 8, 2005",Texas Tech,34,Nebraska,31,1
+328,6,"Oct 8, 2005",Toledo,30,Eastern Michigan,3,0
+329,6,"Oct 8, 2005",Tulsa,34,Southern Miss,17,1
+330,6,"Oct 8, 2005",UCLA,47,California,40,0
+331,6,"Oct 8, 2005",Utah State,24,San Jose State,17,0
+332,6,"Oct 8, 2005",Virginia Tech,41,Marshall,14,0
+333,6,"Oct 8, 2005",West Virginia,27,Rutgers,14,1
+334,7,"Oct 13, 2005",Arkansas State,39,Louisiana,36,0
+335,7,"Oct 13, 2005",Clemson,31,NC State,10,1
+336,7,"Oct 14, 2005",UTEP,45,Tulane,21,1
+337,7,"Oct 15, 2005",UNLV,7,Air Force,42,1
+338,7,"Oct 15, 2005",Alabama,13,Ole Miss,10,1
+339,7,"Oct 15, 2005",Auburn,34,Arkansas,17,1
+340,7,"Oct 15, 2005",Boise State,38,San Jose State,21,0
+341,7,"Oct 15, 2005",Boston College,35,Wake Forest,30,0
+342,7,"Oct 15, 2005",Buffalo,7,Bowling Green,27,0
+343,7,"Oct 15, 2005",BYU,24,Colorado State,14,0
+344,7,"Oct 15, 2005",Central Michigan,37,Ohio,10,0
+345,7,"Oct 15, 2005",Cincinnati,28,Connecticut,17,0
+346,7,"Oct 15, 2005",East Carolina,24,SMU,17,1
+347,7,"Oct 15, 2005",Fresno State,53,Utah State,21,0
+348,7,"Oct 15, 2005",Georgia,34,Vanderbilt,17,1
+349,7,"Oct 15, 2005",Georgia Tech,35,Duke,10,1
+350,7,"Oct 15, 2005",Hawaii,49,New Mexico State,28,0
+351,7,"Oct 15, 2005",Iowa,38,Indiana,21,0
+352,7,"Oct 15, 2005",LSU,21,Florida,17,0
+353,7,"Oct 15, 2005",Troy,3,Louisiana-Monroe,27,1
+354,7,"Oct 15, 2005",Marshall,20,UAB,19,0
+355,7,"Oct 15, 2005",Memphis,35,Houston,20,1
+356,7,"Oct 15, 2005",Miami,34,Temple,3,1
+357,7,"Oct 15, 2005",Miami (OH),51,Akron,23,0
+358,7,"Oct 15, 2005",Michigan,27,Penn State,25,0
+359,7,"Oct 15, 2005",Middle Tennessee,35,Florida Atlantic,14,1
+360,7,"Oct 15, 2005",Missouri,27,Iowa State,24,0
+361,7,"Oct 15, 2005",Navy,34,Kent State,31,0
+362,7,"Oct 15, 2005",Nebraska,23,Baylor,14,1
+363,7,"Oct 15, 2005",Nevada,37,Louisiana Tech,27,0
+364,7,"Oct 15, 2005",New Mexico,27,Wyoming,24,1
+365,7,"Oct 15, 2005",North Texas,13,Florida Int'l,10,1
+366,7,"Oct 15, 2005",Eastern Michigan,8,Northern Illinois,24,1
+367,7,"Oct 15, 2005",Northwestern,34,Purdue,29,1
+368,7,"Oct 15, 2005",Ohio State,35,Michigan State,24,0
+369,7,"Oct 15, 2005",Kansas,3,Oklahoma,19,0
+370,7,"Oct 15, 2005",Oregon,45,Washington,21,0
+371,7,"Oct 15, 2005",Oregon State,23,California,20,1
+372,7,"Oct 15, 2005",Pitt,31,South Florida,17,0
+373,7,"Oct 15, 2005",Syracuse,9,Rutgers,31,0
+374,7,"Oct 15, 2005",San Diego State,28,Utah,19,1
+375,7,"Oct 15, 2005",USC,34,Notre Dame,31,1
+376,7,"Oct 15, 2005",Southern Miss,52,UCF,31,0
+377,7,"Oct 15, 2005",Stanford,20,Arizona,16,1
+378,7,"Oct 15, 2005",Texas,42,Colorado,17,0
+379,7,"Oct 15, 2005",Texas A&M,62,Oklahoma State,23,0
+380,7,"Oct 15, 2005",TCU,38,Army,17,0
+381,7,"Oct 15, 2005",Texas Tech,59,Kansas State,20,0
+382,7,"Oct 15, 2005",Toledo,34,Ball State,14,1
+383,7,"Oct 15, 2005",Tulsa,41,Rice,21,1
+384,7,"Oct 15, 2005",UCLA,44,Washington State,41,1
+385,7,"Oct 15, 2005",Virginia,26,Florida State,21,0
+386,7,"Oct 15, 2005",West Virginia,46,Louisville,44,0
+387,7,"Oct 15, 2005",Wisconsin,38,Minnesota,34,1
+388,8,"Oct 20, 2005",Troy,18,Florida Int'l,13,0
+389,8,"Oct 20, 2005",Maryland,9,Virginia Tech,28,0
+390,8,"Oct 21, 2005",UCF,34,Tulane,24,0
+391,8,"Oct 21, 2005",Southern Miss,37,UAB,28,1
+392,8,"Oct 22, 2005",Alabama,6,Tennessee,3,0
+393,8,"Oct 22, 2005",Arkansas State,3,Florida Atlantic,0,0
+394,8,"Oct 22, 2005",Army,20,Akron,0,1
+395,8,"Oct 22, 2005",Boise State,45,Utah State,21,1
+396,8,"Oct 22, 2005",California,42,Washington State,38,0
+397,8,"Oct 22, 2005",Temple,7,Clemson,37,1
+398,8,"Oct 22, 2005",Colorado,44,Kansas,13,0
+399,8,"Oct 22, 2005",Colorado State,39,Wyoming,31,0
+400,8,"Oct 22, 2005",Florida State,55,Duke,24,1
+401,8,"Oct 22, 2005",Fresno State,40,Idaho,10,1
+402,8,"Oct 22, 2005",Georgia,23,Arkansas,20,0
+403,8,"Oct 22, 2005",Hawaii,45,San Jose State,38,1
+404,8,"Oct 22, 2005",Houston,28,Mississippi State,16,1
+405,8,"Oct 22, 2005",Iowa State,37,Oklahoma State,10,0
+406,8,"Oct 22, 2005",Louisiana,13,Middle Tennessee,10,1
+407,8,"Oct 22, 2005",LSU,20,Auburn,17,0
+408,8,"Oct 22, 2005",Louisiana Tech,40,North Texas,14,0
+409,8,"Oct 22, 2005",Louisville,46,Cincinnati,22,1
+410,8,"Oct 22, 2005",Memphis,27,East Carolina,24,0
+411,8,"Oct 22, 2005",Miami (OH),24,Eastern Michigan,23,1
+412,8,"Oct 22, 2005",Michigan,23,Iowa,20,1
+413,8,"Oct 22, 2005",Kentucky,7,Ole Miss,13,1
+414,8,"Oct 22, 2005",Missouri,41,Nebraska,24,0
+415,8,"Oct 22, 2005",Rice,9,Navy,41,0
+416,8,"Oct 22, 2005",New Mexico,47,San Diego State,24,1
+417,8,"Oct 22, 2005",North Carolina,7,Virginia,5,0
+418,8,"Oct 22, 2005",Northern Illinois,34,Kent State,3,1
+419,8,"Oct 22, 2005",Northwestern,49,Michigan State,14,1
+420,8,"Oct 22, 2005",Notre Dame,49,BYU,23,0
+421,8,"Oct 22, 2005",Ohio,38,Ball State,21,0
+422,8,"Oct 22, 2005",Ohio State,41,Indiana,10,1
+423,8,"Oct 22, 2005",Oklahoma,37,Baylor,30,0
+424,8,"Oct 22, 2005",Oregon,28,Arizona,21,1
+425,8,"Oct 22, 2005",Penn State,63,Illinois,10,1
+426,8,"Oct 22, 2005",Pitt,34,Syracuse,17,0
+427,8,"Oct 22, 2005",Rutgers,26,Connecticut,24,1
+428,8,"Oct 22, 2005",South Carolina,35,Vanderbilt,28,0
+429,8,"Oct 22, 2005",USC,51,Washington,24,1
+430,8,"Oct 22, 2005",Stanford,45,Arizona State,35,0
+431,8,"Oct 22, 2005",Texas,52,Texas Tech,17,0
+432,8,"Oct 22, 2005",Texas A&M,30,Kansas State,28,1
+433,8,"Oct 22, 2005",TCU,48,Air Force,10,1
+434,8,"Oct 22, 2005",UTEP,31,Marshall,3,0
+435,8,"Oct 22, 2005",Toledo,38,Buffalo,15,0
+436,8,"Oct 22, 2005",Tulsa,20,SMU,13,0
+437,8,"Oct 22, 2005",UCLA,51,Oregon State,28,0
+438,8,"Oct 22, 2005",Utah,42,UNLV,32,1
+439,8,"Oct 22, 2005",Wake Forest,27,NC State,19,0
+440,8,"Oct 22, 2005",Western Michigan,45,Bowling Green,14,1
+441,8,"Oct 22, 2005",Wisconsin,31,Purdue,20,0
+442,9,"Oct 27, 2005",Virginia Tech,30,Boston College,10,0
+443,9,"Oct 28, 2005",Colorado State,35,New Mexico,25,1
+444,9,"Oct 29, 2005",Akron,24,Bowling Green,14,1
+445,9,"Oct 29, 2005",Alabama,35,Utah State,3,0
+446,9,"Oct 29, 2005",Arizona,29,Oregon State,27,1
+447,9,"Oct 29, 2005",Arizona State,44,Washington,20,0
+448,9,"Oct 29, 2005",Ole Miss,3,Auburn,27,1
+449,9,"Oct 29, 2005",Ball State,31,Northern Illinois,17,1
+450,9,"Oct 29, 2005",Boise State,49,Nevada,14,0
+451,9,"Oct 29, 2005",BYU,62,Air Force,41,0
+452,9,"Oct 29, 2005",UCF,30,East Carolina,20,1
+453,9,"Oct 29, 2005",Central Michigan,21,Toledo,17,0
+454,9,"Oct 29, 2005",Cincinnati,22,Syracuse,16,1
+455,9,"Oct 29, 2005",Colorado,23,Kansas State,20,1
+456,9,"Oct 29, 2005",Florida,14,Georgia,10,0
+457,9,"Oct 29, 2005",Florida State,35,Maryland,27,0
+458,9,"Oct 29, 2005",Fresno State,27,Hawaii,13,1
+459,9,"Oct 29, 2005",Clemson,9,Georgia Tech,10,1
+460,9,"Oct 29, 2005",Idaho,38,New Mexico State,37,1
+461,9,"Oct 29, 2005",Iowa State,42,Texas A&M,14,1
+462,9,"Oct 29, 2005",Missouri,3,Kansas,13,1
+463,9,"Oct 29, 2005",Mississippi State,7,Kentucky,13,1
+464,9,"Oct 29, 2005",Louisiana,31,Troy,28,0
+465,9,"Oct 29, 2005",LSU,56,North Texas,3,0
+466,9,"Oct 29, 2005",Louisiana Tech,31,San Jose State,14,0
+467,9,"Oct 29, 2005",Marshall,27,Tulane,26,1
+468,9,"Oct 29, 2005",Miami,34,North Carolina,16,0
+469,9,"Oct 29, 2005",Miami (OH),41,Temple,14,1
+470,9,"Oct 29, 2005",Michigan,33,Northwestern,17,1
+471,9,"Oct 29, 2005",Michigan State,46,Indiana,15,0
+472,9,"Oct 29, 2005",NC State,21,Southern Miss,17,0
+473,9,"Oct 29, 2005",Ohio,34,Buffalo,20,1
+474,9,"Oct 29, 2005",Ohio State,45,Minnesota,31,1
+475,9,"Oct 29, 2005",Oklahoma,31,Nebraska,24,1
+476,9,"Oct 29, 2005",Penn State,33,Purdue,15,0
+477,9,"Oct 29, 2005",Rutgers,31,Navy,21,0
+478,9,"Oct 29, 2005",South Carolina,16,Tennessee,15,1
+479,9,"Oct 29, 2005",USC,55,Washington State,13,0
+480,9,"Oct 29, 2005",Texas,47,Oklahoma State,28,1
+481,9,"Oct 29, 2005",TCU,23,San Diego State,20,1
+482,9,"Oct 29, 2005",Texas Tech,28,Baylor,0,1
+483,9,"Oct 29, 2005",UTEP,38,Rice,31,1
+484,9,"Oct 29, 2005",UCLA,30,Stanford,27,1
+485,9,"Oct 29, 2005",Duke,6,Wake Forest,44,0
+486,9,"Oct 29, 2005",Western Michigan,44,Kent State,14,0
+487,9,"Oct 29, 2005",Wisconsin,41,Illinois,24,1
+488,10,"Nov 1, 2005",UAB,37,Memphis,20,1
+489,10,"Nov 2, 2005",West Virginia,45,Connecticut,13,0
+490,10,"Nov 3, 2005",Louisville,42,Pitt,20,0
+491,10,"Nov 4, 2005",Toledo,30,Ohio,21,1
+492,10,"Nov 5, 2005",Alabama,17,Mississippi State,0,1
+493,10,"Nov 5, 2005",Arizona,52,UCLA,14,0
+494,10,"Nov 5, 2005",Arizona State,27,Washington State,24,1
+495,10,"Nov 5, 2005",Army,27,Air Force,24,1
+496,10,"Nov 5, 2005",Auburn,49,Kentucky,27,1
+497,10,"Nov 5, 2005",Ball State,23,Akron,17,0
+498,10,"Nov 5, 2005",New Mexico State,6,Boise State,56,1
+499,10,"Nov 5, 2005",Bowling Green,24,Kent State,14,1
+500,10,"Nov 5, 2005",BYU,55,UNLV,14,1
+501,10,"Nov 5, 2005",UCF,31,Houston,29,0
+502,10,"Nov 5, 2005",Clemson,49,Duke,20,0
+503,10,"Nov 5, 2005",Colorado,41,Missouri,12,0
+504,10,"Nov 5, 2005",Florida,49,Vanderbilt,42,0
+505,10,"Nov 5, 2005",Florida Int'l,31,Louisiana-Monroe,29,1
+506,10,"Nov 5, 2005",San Jose State,7,Fresno State,45,1
+507,10,"Nov 5, 2005",Georgia Tech,30,Wake Forest,17,0
+508,10,"Nov 5, 2005",Iowa State,45,Kansas State,17,0
+509,10,"Nov 5, 2005",Kansas,40,Nebraska,15,0
+510,10,"Nov 5, 2005",Louisiana,31,North Texas,28,1
+511,10,"Nov 5, 2005",LSU,24,Appalachian State,0,0
+512,10,"Nov 5, 2005",Louisiana Tech,27,Utah State,17,1
+513,10,"Nov 5, 2005",Virginia Tech,7,Miami,27,0
+514,10,"Nov 5, 2005",Miami (OH),54,Buffalo,13,0
+515,10,"Nov 5, 2005",Arkansas State,7,Middle Tennessee,45,1
+516,10,"Nov 5, 2005",Minnesota,42,Indiana,21,1
+517,10,"Nov 5, 2005",Navy,49,Tulane,21,0
+518,10,"Nov 5, 2005",Nevada,38,Hawaii,28,0
+519,10,"Nov 5, 2005",North Carolina,16,Boston College,14,0
+520,10,"Nov 5, 2005",NC State,20,Florida State,15,1
+521,10,"Nov 5, 2005",Northern Illinois,31,Central Michigan,28,1
+522,10,"Nov 5, 2005",Northwestern,28,Iowa,27,0
+523,10,"Nov 5, 2005",Notre Dame,41,Tennessee,21,0
+524,10,"Nov 5, 2005",Ohio State,40,Illinois,2,0
+525,10,"Nov 5, 2005",Oregon,27,California,20,0
+526,10,"Nov 5, 2005",Oregon State,18,Washington,10,1
+527,10,"Nov 5, 2005",Penn State,35,Wisconsin,14,0
+528,10,"Nov 5, 2005",Purdue,28,Michigan State,21,0
+529,10,"Nov 5, 2005",South Carolina,14,Arkansas,10,1
+530,10,"Nov 5, 2005",South Florida,45,Rutgers,31,1
+531,10,"Nov 5, 2005",USC,51,Stanford,21,0
+532,10,"Nov 5, 2005",Rice,7,SMU,27,1
+533,10,"Nov 5, 2005",Texas,62,Baylor,0,1
+534,10,"Nov 5, 2005",Colorado State,6,TCU,33,1
+535,10,"Nov 5, 2005",Texas Tech,56,Texas A&M,17,0
+536,10,"Nov 5, 2005",UTEP,41,Tulsa,38,0
+537,10,"Nov 5, 2005",Troy,28,Florida Atlantic,14,0
+538,10,"Nov 5, 2005",Utah,43,Wyoming,13,0
+539,10,"Nov 5, 2005",Virginia,51,Temple,3,0
+540,10,"Nov 5, 2005",Western Michigan,44,Eastern Michigan,36,1
+541,11,"Nov 8, 2005",Southern Miss,27,Marshall,24,1
+542,11,"Nov 9, 2005",West Virginia,38,Cincinnati,0,1
+543,11,"Nov 10, 2005",Boise State,7,Fresno State,27,1
+544,11,"Nov 11, 2005",Louisville,56,Rutgers,5,0
+545,11,"Nov 12, 2005",Arkansas,28,Ole Miss,17,1
+546,11,"Nov 12, 2005",Arkansas State,9,Troy,3,0
+547,11,"Nov 12, 2005",Army,34,Massachusetts,27,0
+548,11,"Nov 12, 2005",Auburn,31,Georgia,30,1
+549,11,"Nov 12, 2005",Ball State,26,Eastern Michigan,25,1
+550,11,"Nov 12, 2005",Boston College,30,NC State,10,0
+551,11,"Nov 12, 2005",BYU,35,Wyoming,21,1
+552,11,"Nov 12, 2005",Kent State,6,Buffalo,10,0
+553,11,"Nov 12, 2005",UCF,27,UAB,21,1
+554,11,"Nov 12, 2005",Clemson,35,Florida State,14,0
+555,11,"Nov 12, 2005",Florida Atlantic,26,North Texas,23,0
+556,11,"Nov 12, 2005",Hawaii,50,Utah State,23,0
+557,11,"Nov 12, 2005",Iowa,20,Wisconsin,10,1
+558,11,"Nov 12, 2005",Iowa State,30,Colorado,16,0
+559,11,"Nov 12, 2005",Kentucky,48,Vanderbilt,43,1
+560,11,"Nov 12, 2005",Florida Int'l,7,Louisiana,28,1
+561,11,"Nov 12, 2005",LSU,16,Alabama,13,1
+562,11,"Nov 12, 2005",Louisiana Tech,41,Idaho,38,1
+563,11,"Nov 12, 2005",Louisiana-Monroe,34,Middle Tennessee,31,1
+564,11,"Nov 12, 2005",Maryland,33,North Carolina,30,1
+565,11,"Nov 12, 2005",Miami,47,Wake Forest,17,1
+566,11,"Nov 12, 2005",Michigan,41,Indiana,14,0
+567,11,"Nov 12, 2005",Minnesota,41,Michigan State,18,0
+568,11,"Nov 12, 2005",Missouri,31,Baylor,16,0
+569,11,"Nov 12, 2005",Nebraska,27,Kansas State,25,0
+570,11,"Nov 12, 2005",Nevada,48,New Mexico State,24,1
+571,11,"Nov 12, 2005",New Mexico,31,Utah,27,1
+572,11,"Nov 12, 2005",Notre Dame,42,Navy,21,0
+573,11,"Nov 12, 2005",Northwestern,7,Ohio State,48,1
+574,11,"Nov 12, 2005",Oklahoma,36,Texas A&M,30,0
+575,11,"Nov 12, 2005",Oklahoma State,24,Texas Tech,17,0
+576,11,"Nov 12, 2005",Oregon,34,Washington State,31,1
+577,11,"Nov 12, 2005",Pitt,24,Connecticut,0,0
+578,11,"Nov 12, 2005",Purdue,37,Illinois,3,0
+579,11,"Nov 12, 2005",Rice,42,Tulane,34,0
+580,11,"Nov 12, 2005",San Diego State,30,Colorado State,10,1
+581,11,"Nov 12, 2005",South Carolina,30,Florida,22,0
+582,11,"Nov 12, 2005",South Florida,27,Syracuse,0,1
+583,11,"Nov 12, 2005",USC,35,California,10,1
+584,11,"Nov 12, 2005",Stanford,20,Oregon State,17,1
+585,11,"Nov 12, 2005",Tennessee,20,Memphis,16,0
+586,11,"Nov 12, 2005",Texas,66,Kansas,14,0
+587,11,"Nov 12, 2005",TCU,51,UNLV,3,0
+588,11,"Nov 12, 2005",UTEP,45,Texas Southern,0,0
+589,11,"Nov 12, 2005",Tulsa,45,East Carolina,13,0
+590,11,"Nov 12, 2005",UCLA,45,Arizona State,35,0
+591,11,"Nov 12, 2005",Virginia,27,Georgia Tech,17,0
+592,11,"Nov 12, 2005",Washington,38,Arizona,14,1
+593,11,"Nov 12, 2005",Western Michigan,31,Central Michigan,24,0
+594,11,"Nov 13, 2005",Houston,27,Southern Miss,24,0
+595,12,"Nov 15, 2005",Ohio,3,Akron,27,1
+596,12,"Nov 15, 2005",Bowling Green,42,Miami (OH),14,1
+597,12,"Nov 16, 2005",Northern Illinois,35,Toledo,17,1
+598,12,"Nov 19, 2005",Air Force,42,New Mexico,24,1
+599,12,"Nov 19, 2005",UAB,35,UTEP,23,1
+600,12,"Nov 19, 2005",Arkansas,44,Mississippi State,10,0
+601,12,"Nov 19, 2005",Army,38,Arkansas State,10,0
+602,12,"Nov 19, 2005",Auburn,28,Alabama,18,0
+603,12,"Nov 19, 2005",Baylor,44,Oklahoma State,34,0
+604,12,"Nov 19, 2005",Boise State,70,Idaho,35,0
+605,12,"Nov 19, 2005",Boston College,31,Maryland,16,1
+606,12,"Nov 19, 2005",Stanford,3,California,27,0
+607,12,"Nov 19, 2005",UCF,31,Rice,28,1
+608,12,"Nov 19, 2005",Central Michigan,31,Ball State,24,1
+609,12,"Nov 19, 2005",South Carolina,9,Clemson,13,0
+610,12,"Nov 19, 2005",Colorado State,31,UNLV,27,1
+611,12,"Nov 19, 2005",East Carolina,34,Marshall,29,1
+612,12,"Nov 19, 2005",Eastern Michigan,38,Buffalo,14,1
+613,12,"Nov 19, 2005",Florida Int'l,38,Western Kentucky,35,0
+614,12,"Nov 19, 2005",Georgia,45,Kentucky,13,0
+615,12,"Nov 19, 2005",Georgia Tech,14,Miami,10,1
+616,12,"Nov 19, 2005",Iowa,52,Minnesota,28,0
+617,12,"Nov 19, 2005",Kansas State,36,Missouri,28,0
+618,12,"Nov 19, 2005",Ole Miss,7,LSU,40,0
+619,12,"Nov 19, 2005",Louisiana-Monroe,24,North Texas,19,1
+620,12,"Nov 19, 2005",Memphis,24,Southern Miss,22,1
+621,12,"Nov 19, 2005",Navy,38,Temple,17,0
+622,12,"Nov 19, 2005",Nevada,30,Utah State,24,1
+623,12,"Nov 19, 2005",North Carolina,24,Duke,21,0
+624,12,"Nov 19, 2005",Middle Tennessee,3,NC State,24,1
+625,12,"Nov 19, 2005",Northwestern,38,Illinois,21,1
+626,12,"Nov 19, 2005",Notre Dame,34,Syracuse,10,0
+627,12,"Nov 19, 2005",Ohio State,25,Michigan,21,1
+628,12,"Nov 19, 2005",Oregon,56,Oregon State,14,0
+629,12,"Nov 19, 2005",Penn State,31,Michigan State,22,1
+630,12,"Nov 19, 2005",Purdue,41,Indiana,14,1
+631,12,"Nov 19, 2005",San Diego State,34,Wyoming,21,0
+632,12,"Nov 19, 2005",San Jose State,27,New Mexico State,10,0
+633,12,"Nov 19, 2005",South Florida,31,Cincinnati,16,0
+634,12,"Nov 19, 2005",USC,50,Fresno State,42,0
+635,12,"Nov 19, 2005",SMU,29,Houston,24,1
+636,12,"Nov 19, 2005",Texas Tech,23,Oklahoma,21,0
+637,12,"Nov 19, 2005",Tulsa,38,Tulane,14,1
+638,12,"Nov 19, 2005",Utah,41,BYU,34,1
+639,12,"Nov 19, 2005",Vanderbilt,28,Tennessee,24,1
+640,12,"Nov 19, 2005",Virginia Tech,52,Virginia,14,1
+641,12,"Nov 19, 2005",Washington State,26,Washington,22,1
+642,12,"Nov 21, 2005",Ohio,7,Miami (OH),38,0
+643,13,"Nov 22, 2005",Toledo,44,Bowling Green,41,1
+644,13,"Nov 23, 2005",Western Michigan,7,Northern Illinois,42,1
+645,13,"Nov 24, 2005",Akron,35,Kent State,3,0
+646,13,"Nov 24, 2005",West Virginia,45,Pitt,13,0
+647,13,"Nov 25, 2005",Arizona State,23,Arizona,20,0
+648,13,"Nov 25, 2005",LSU,19,Arkansas,17,0
+649,13,"Nov 25, 2005",Nebraska,30,Colorado,3,1
+650,13,"Nov 25, 2005",Texas,40,Texas A&M,29,1
+651,13,"Nov 25, 2005",Wisconsin,41,Hawaii,24,1
+652,13,"Nov 26, 2005",Arkansas State,31,North Texas,24,1
+653,13,"Nov 26, 2005",Boise State,30,Louisiana Tech,13,1
+654,13,"Nov 26, 2005",Connecticut,15,South Florida,10,0
+655,13,"Nov 26, 2005",East Carolina,31,UAB,23,0
+656,13,"Nov 26, 2005",Florida State,7,Florida,34,1
+657,13,"Nov 26, 2005",Florida Atlantic,6,Florida Int'l,52,1
+658,13,"Nov 26, 2005",Georgia Tech,7,Georgia,14,0
+659,13,"Nov 26, 2005",Houston,35,Rice,18,0
+660,13,"Nov 26, 2005",Kansas,24,Iowa State,21,0
+661,13,"Nov 26, 2005",Louisiana,54,Louisiana-Monroe,21,1
+662,13,"Nov 26, 2005",Louisville,41,Syracuse,17,0
+663,13,"Nov 26, 2005",Marshall,3,Memphis,26,1
+664,13,"Nov 26, 2005",Miami,25,Virginia,17,0
+665,13,"Nov 26, 2005",Troy,7,Middle Tennessee,17,0
+666,13,"Nov 26, 2005",Mississippi State,35,Ole Miss,14,0
+667,13,"Nov 26, 2005",Nevada,38,Fresno State,35,0
+668,13,"Nov 26, 2005",NC State,20,Maryland,14,0
+669,13,"Nov 26, 2005",Notre Dame,38,Stanford,31,1
+670,13,"Nov 26, 2005",Oklahoma,42,Oklahoma State,14,0
+671,13,"Nov 26, 2005",Cincinnati,9,Rutgers,44,1
+672,13,"Nov 26, 2005",San Jose State,26,Idaho,18,0
+673,13,"Nov 26, 2005",SMU,40,UTEP,27,0
+674,13,"Nov 26, 2005",Tulane,7,Southern Miss,26,1
+675,13,"Nov 26, 2005",Kentucky,8,Tennessee,27,0
+676,13,"Nov 26, 2005",Utah State,24,New Mexico State,21,1
+677,13,"Nov 26, 2005",Virginia Tech,30,North Carolina,3,0
+678,14,"Dec 1, 2005",Akron,31,Northern Illinois,30,0
+679,14,"Dec 2, 2005",Louisiana Tech,40,Fresno State,28,1
+680,14,"Dec 3, 2005",Florida Int'l,35,Middle Tennessee,31,0
+681,14,"Dec 3, 2005",Florida State,27,Virginia Tech,22,0
+682,14,"Dec 3, 2005",Georgia,34,LSU,14,0
+683,14,"Dec 3, 2005",Hawaii,49,San Diego State,38,0
+684,14,"Dec 3, 2005",Louisville,30,Connecticut,20,1
+685,14,"Dec 3, 2005",Navy,42,Army,23,0
+686,14,"Dec 3, 2005",USC,66,UCLA,19,0
+687,14,"Dec 3, 2005",Texas,70,Colorado,3,0
+688,14,"Dec 3, 2005",Tulsa,44,UCF,27,1
+689,14,"Dec 3, 2005",West Virginia,28,South Florida,13,1
+690,15,"Dec 20, 2005",Southern Miss,31,Arkansas State,19,0
+691,15,"Dec 21, 2005",Toledo,45,UTEP,13,0
+692,15,"Dec 22, 2005",California,35,BYU,28,0
+693,15,"Dec 22, 2005",Navy,51,Colorado State,30,0
+694,15,"Dec 23, 2005",Kansas,42,Houston,13,0
+695,15,"Dec 24, 2005",Nevada,49,UCF,48,0
+696,15,"Dec 26, 2005",Memphis,38,Akron,31,0
+697,16,"Dec 27, 2005",Arizona State,45,Rutgers,40,0
+698,16,"Dec 27, 2005",Clemson,19,Colorado,10,0
+699,16,"Dec 28, 2005",Boston College,27,Boise State,21,1
+700,16,"Dec 28, 2005",Nebraska,32,Michigan,28,0
+701,16,"Dec 29, 2005",Oklahoma,17,Oregon,14,0
+702,16,"Dec 29, 2005",Utah,38,Georgia Tech,10,0
+703,16,"Dec 30, 2005",LSU,40,Miami,3,0
+704,16,"Dec 30, 2005",Missouri,38,South Carolina,31,0
+705,16,"Dec 30, 2005",UCLA,50,Northwestern,38,0
+706,16,"Dec 30, 2005",Virginia,34,Minnesota,31,0
+707,16,"Dec 31, 2005",NC State,14,South Florida,0,0
+708,16,"Dec 31, 2005",TCU,27,Iowa State,24,0
+709,16,"Dec 31, 2005",Tulsa,31,Fresno State,24,0
+710,17,"Jan 2, 2006",Alabama,13,Texas Tech,10,0
+711,17,"Jan 2, 2006",Florida,31,Iowa,24,0
+712,17,"Jan 2, 2006",Ohio State,34,Notre Dame,20,0
+713,17,"Jan 2, 2006",Virginia Tech,35,Louisville,24,0
+714,17,"Jan 2, 2006",West Virginia,38,Georgia,35,0
+715,17,"Jan 2, 2006",Wisconsin,24,Auburn,10,0
+716,18,"Jan 3, 2006",Penn State,26,Florida State,23,0
+717,18,"Jan 4, 2006",Texas,41,USC,38,1

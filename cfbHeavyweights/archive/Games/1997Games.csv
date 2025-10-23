@@ -1,0 +1,666 @@
+0,1,"Aug 23, 1997",Northwestern,24,Oklahoma,0,0
+1,1,"Aug 24, 1997",Syracuse,34,Wisconsin,0,0
+2,2,"Aug 28, 1997",Central Michigan,44,Northern Illinois,10,0
+3,2,"Aug 28, 1997",Cincinnati,34,Tulsa,24,0
+4,2,"Aug 28, 1997",Kansas,24,UAB,0,0
+5,2,"Aug 28, 1997",Kent State,7,Ohio,31,1
+6,2,"Aug 28, 1997",Ohio State,24,Wyoming,10,0
+7,2,"Aug 28, 1997",Western Michigan,34,Temple,14,0
+8,2,"Aug 30, 1997",Air Force,14,Idaho,10,0
+9,2,"Aug 30, 1997",Alabama,42,Houston,17,0
+10,2,"Aug 30, 1997",Arizona State,41,New Mexico State,10,0
+11,2,"Aug 30, 1997",Cal State Northridge,63,Boise State,23,1
+12,2,"Aug 30, 1997",Colorado State,45,Nevada,13,0
+13,2,"Aug 30, 1997",Southern Miss,6,Florida,21,1
+14,2,"Aug 30, 1997",Portland State,7,Fresno State,35,1
+15,2,"Aug 30, 1997",Arkansas State,7,Georgia,38,1
+16,2,"Aug 30, 1997",Minnesota,3,Hawaii,17,1
+17,2,"Aug 30, 1997",Kentucky,38,Louisville,24,0
+18,2,"Aug 30, 1997",Louisiana Tech,30,Bowling Green,23,0
+19,2,"Aug 30, 1997",Louisiana-Monroe,28,Nicholls State,0,0
+20,2,"Aug 30, 1997",Miami,45,Baylor,14,1
+21,2,"Aug 30, 1997",Miami (OH),27,Ball State,10,0
+22,2,"Aug 30, 1997",Ole Miss,24,UCF,23,0
+23,2,"Aug 30, 1997",Mississippi State,13,Memphis,10,0
+24,2,"Aug 30, 1997",Nebraska,59,Akron,14,0
+25,2,"Aug 30, 1997",New Mexico,33,Northern Arizona,10,0
+26,2,"Aug 30, 1997",NC State,32,Syracuse,31,1
+27,2,"Aug 30, 1997",Oklahoma State,21,Iowa State,14,1
+28,2,"Aug 30, 1997",Pitt,45,Louisiana,13,0
+29,2,"Aug 30, 1997",Tennessee,52,Texas Tech,17,0
+30,2,"Aug 30, 1997",Utah State,21,Utah,14,1
+31,2,"Aug 30, 1997",Vanderbilt,29,North Texas,12,0
+32,2,"Aug 30, 1997",Virginia Tech,59,Rutgers,19,1
+33,2,"Aug 30, 1997",Washington State,37,UCLA,34,0
+34,2,"Aug 30, 1997",West Virginia,42,Marshall,31,0
+35,3,"Sep 4, 1997",Auburn,28,Virginia,17,1
+36,3,"Sep 4, 1997",Arizona,9,Oregon,16,1
+37,3,"Sep 5, 1997",San Diego State,45,Navy,31,0
+38,3,"Sep 6, 1997",Air Force,41,Rice,12,1
+39,3,"Sep 6, 1997",Arkansas,28,Louisiana-Monroe,16,0
+40,3,"Sep 6, 1997",James Madison,6,Ball State,24,1
+41,3,"Sep 6, 1997",Baylor,37,Fresno State,35,1
+42,3,"Sep 6, 1997",Bowling Green,28,Miami (OH),21,0
+43,3,"Sep 6, 1997",California,35,Houston,3,1
+44,3,"Sep 6, 1997",Clemson,23,Appalachian State,12,0
+45,3,"Sep 6, 1997",Colorado,31,Colorado State,21,0
+46,3,"Sep 6, 1997",Florida,82,Central Michigan,6,0
+47,3,"Sep 6, 1997",USC,7,Florida State,14,0
+48,3,"Sep 6, 1997",Hawaii,34,Cal State Northridge,21,0
+49,3,"Sep 6, 1997",Idaho,46,Portland State,0,0
+50,3,"Sep 6, 1997",Iowa,66,Northern Iowa,0,0
+51,3,"Sep 6, 1997",Kansas,17,TCU,10,0
+52,3,"Sep 6, 1997",Northern Illinois,7,Kansas State,47,0
+53,3,"Sep 6, 1997",LSU,55,UTEP,3,0
+54,3,"Sep 6, 1997",Marshall,35,Army,25,1
+55,3,"Sep 6, 1997",UAB,7,Memphis,28,1
+56,3,"Sep 6, 1997",Michigan State,42,Western Michigan,10,0
+57,3,"Sep 6, 1997",Ole Miss,23,SMU,15,0
+58,3,"Sep 6, 1997",Mississippi State,35,Kentucky,27,0
+59,3,"Sep 6, 1997",Missouri,44,Eastern Michigan,24,0
+60,3,"Sep 6, 1997",Nevada,31,UNLV,14,0
+61,3,"Sep 6, 1997",New Mexico,61,New Mexico State,24,0
+62,3,"Sep 6, 1997",Indiana,6,North Carolina,23,1
+63,3,"Sep 6, 1997",NC State,45,Duke,14,1
+64,3,"Sep 6, 1997",Notre Dame,17,Georgia Tech,13,0
+65,3,"Sep 6, 1997",Ohio,21,Maryland,14,1
+66,3,"Sep 6, 1997",Oklahoma,36,Syracuse,34,0
+67,3,"Sep 6, 1997",Louisiana,7,Oklahoma State,31,0
+68,3,"Sep 6, 1997",North Texas,7,Oregon State,33,1
+69,3,"Sep 6, 1997",Penn State,34,Pitt,17,0
+70,3,"Sep 6, 1997",South Carolina,33,UCF,31,0
+71,3,"Sep 6, 1997",Illinois,7,Southern Miss,24,0
+72,3,"Sep 6, 1997",Stanford,28,San Jose State,12,0
+73,3,"Sep 6, 1997",Temple,28,Boston College,21,0
+74,3,"Sep 6, 1997",Tennessee,30,UCLA,24,1
+75,3,"Sep 6, 1997",Texas,48,Rutgers,14,0
+76,3,"Sep 6, 1997",Sam Houston,6,Texas A&M,59,1
+77,3,"Sep 6, 1997",Toledo,36,Purdue,22,0
+78,3,"Sep 6, 1997",Tulane,31,Cincinnati,17,0
+79,3,"Sep 6, 1997",Utah,27,Louisville,21,1
+80,3,"Sep 6, 1997",Idaho State,7,Utah State,41,1
+81,3,"Sep 6, 1997",Wake Forest,27,Northwestern,20,0
+82,3,"Sep 6, 1997",Washington,42,BYU,20,1
+83,3,"Sep 6, 1997",West Virginia,24,East Carolina,17,0
+84,3,"Sep 6, 1997",Wisconsin,28,Boise State,24,0
+85,3,"Sep 6, 1997",Wyoming,56,Iowa State,10,0
+86,3,"Sep 6, 1997",Youngstown State,44,Kent State,23,0
+87,4,"Sep 11, 1997",Alabama,20,Vanderbilt,0,1
+88,4,"Sep 13, 1997",Air Force,25,UNLV,24,0
+89,4,"Sep 13, 1997",Arizona,24,UAB,10,0
+90,4,"Sep 13, 1997",Arizona State,23,Miami,12,1
+91,4,"Sep 13, 1997",Arkansas State,36,Central Arkansas,35,0
+92,4,"Sep 13, 1997",Army,41,Lafayette,14,0
+93,4,"Sep 13, 1997",Ole Miss,9,Auburn,19,1
+94,4,"Sep 13, 1997",Boston College,31,West Virginia,24,0
+95,4,"Sep 13, 1997",Central Michigan,44,Boise State,26,0
+96,4,"Sep 13, 1997",Clemson,19,NC State,17,1
+97,4,"Sep 13, 1997",Colorado State,35,Utah State,24,1
+98,4,"Sep 13, 1997",East Carolina,25,Wake Forest,24,0
+99,4,"Sep 13, 1997",Maryland,7,Florida State,50,1
+100,4,"Sep 13, 1997",Georgia,31,South Carolina,15,0
+101,4,"Sep 13, 1997",Idaho,43,Idaho State,0,1
+102,4,"Sep 13, 1997",Ball State,6,Indiana,33,1
+103,4,"Sep 13, 1997",Iowa,54,Tulsa,16,0
+104,4,"Sep 13, 1997",Missouri,7,Kansas,15,1
+105,4,"Sep 13, 1997",Kansas State,23,Ohio,20,0
+106,4,"Sep 13, 1997",Mississippi State,9,LSU,24,0
+107,4,"Sep 13, 1997",Louisiana Tech,17,Louisiana-Monroe,16,0
+108,4,"Sep 13, 1997",Louisville,26,Illinois,14,0
+109,4,"Sep 13, 1997",Marshall,42,Kent State,17,1
+110,4,"Sep 13, 1997",Miami (OH),49,Akron,20,0
+111,4,"Sep 13, 1997",Colorado,3,Michigan,27,1
+112,4,"Sep 13, 1997",Michigan State,51,Memphis,21,0
+113,4,"Sep 13, 1997",Minnesota,53,Iowa State,29,0
+114,4,"Sep 13, 1997",Rutgers,7,Navy,36,1
+115,4,"Sep 13, 1997",Nebraska,38,UCF,24,0
+116,4,"Sep 13, 1997",New Mexico,38,UTEP,20,1
+117,4,"Sep 13, 1997",New Mexico State,28,Cal State Northridge,18,0
+118,4,"Sep 13, 1997",North Carolina,28,Stanford,17,0
+119,4,"Sep 13, 1997",Indiana State,6,North Texas,41,1
+120,4,"Sep 13, 1997",Northwestern,24,Duke,20,0
+121,4,"Sep 13, 1997",Ohio State,44,Bowling Green,13,0
+122,4,"Sep 13, 1997",Oklahoma State,35,Fresno State,0,0
+123,4,"Sep 13, 1997",Oregon,24,Nevada,20,1
+124,4,"Sep 13, 1997",Penn State,52,Temple,10,0
+125,4,"Sep 13, 1997",Pitt,35,Houston,24,1
+126,4,"Sep 13, 1997",Purdue,28,Notre Dame,17,0
+127,4,"Sep 13, 1997",Rice,30,Tulane,24,1
+128,4,"Sep 13, 1997",Arkansas,9,SMU,31,1
+129,4,"Sep 13, 1997",Texas Tech,59,Louisiana,14,0
+130,4,"Sep 13, 1997",Toledo,38,Eastern Michigan,35,0
+131,4,"Sep 13, 1997",UCLA,66,Texas,3,1
+132,4,"Sep 13, 1997",Utah,32,TCU,18,1
+133,4,"Sep 13, 1997",Richmond,7,Virginia,26,1
+134,4,"Sep 13, 1997",Virginia Tech,31,Syracuse,3,0
+135,4,"Sep 13, 1997",Washington,36,San Diego State,3,0
+136,4,"Sep 13, 1997",Washington State,28,USC,21,1
+137,4,"Sep 13, 1997",Western Michigan,21,Northern Illinois,13,1
+138,4,"Sep 13, 1997",Wisconsin,56,San Jose State,10,1
+139,4,"Sep 13, 1997",Hawaii,6,Wyoming,35,0
+140,5,"Sep 18, 1997",Pitt,21,Miami,17,0
+141,5,"Sep 20, 1997",Air Force,24,Colorado State,0,1
+142,5,"Sep 20, 1997",UAB,34,Jacksonville State,16,0
+143,5,"Sep 20, 1997",Arkansas,17,Alabama,16,1
+144,5,"Sep 20, 1997",Auburn,31,LSU,28,1
+145,5,"Sep 20, 1997",Weber State,7,Boise State,24,1
+146,5,"Sep 20, 1997",Boston College,35,Rutgers,21,1
+147,5,"Sep 20, 1997",Bowling Green,31,Akron,28,1
+148,5,"Sep 20, 1997",BYU,13,Arizona State,10,1
+149,5,"Sep 20, 1997",California,40,Oklahoma,36,0
+150,5,"Sep 20, 1997",UCF,41,Idaho,10,0
+151,5,"Sep 20, 1997",Kansas,7,Cincinnati,34,1
+152,5,"Sep 20, 1997",Duke,20,Army,17,0
+153,5,"Sep 20, 1997",Florida,33,Tennessee,20,0
+154,5,"Sep 20, 1997",Florida State,35,Clemson,28,1
+155,5,"Sep 20, 1997",Georgia,42,Louisiana-Monroe,3,0
+156,5,"Sep 20, 1997",Georgia Tech,28,Wake Forest,26,1
+157,5,"Sep 20, 1997",Iowa,63,Iowa State,20,1
+158,5,"Sep 20, 1997",Kent State,41,Eastern Michigan,38,1
+159,5,"Sep 20, 1997",Indiana,7,Kentucky,49,0
+160,5,"Sep 20, 1997",Louisiana Tech,56,Central Michigan,28,0
+161,5,"Sep 20, 1997",Western Illinois,7,Marshall,48,1
+162,5,"Sep 20, 1997",Michigan,38,Baylor,3,0
+163,5,"Sep 20, 1997",Notre Dame,7,Michigan State,23,0
+164,5,"Sep 20, 1997",Minnesota,20,Memphis,17,1
+165,5,"Sep 20, 1997",Missouri,42,Tulsa,21,1
+166,5,"Sep 20, 1997",Navy,46,SMU,16,1
+167,5,"Sep 20, 1997",Nebraska,27,Washington,14,1
+168,5,"Sep 20, 1997",UNLV,25,Hawaii,15,0
+169,5,"Sep 20, 1997",New Mexico,25,Utah State,22,1
+170,5,"Sep 20, 1997",North Carolina,40,Maryland,14,1
+171,5,"Sep 20, 1997",NC State,41,Northern Illinois,14,0
+172,5,"Sep 20, 1997",North Texas,30,Texas Tech,27,1
+173,5,"Sep 20, 1997",Ohio,50,Buffalo,0,0
+174,5,"Sep 20, 1997",Ohio State,28,Arizona,20,0
+175,5,"Sep 20, 1997",Oregon,43,Fresno State,40,0
+176,5,"Sep 20, 1997",Penn State,57,Louisville,21,1
+177,5,"Sep 20, 1997",Purdue,28,Ball State,14,0
+178,5,"Sep 20, 1997",Rice,40,Northwestern,34,1
+179,5,"Sep 20, 1997",South Carolina,26,East Carolina,0,1
+180,5,"Sep 20, 1997",Southern Miss,35,Nevada,19,0
+181,5,"Sep 20, 1997",Southern Utah,34,Arkansas State,24,1
+182,5,"Sep 20, 1997",Stanford,27,Oregon State,24,1
+183,5,"Sep 20, 1997",Syracuse,30,Tulane,19,0
+184,5,"Sep 20, 1997",Texas A&M,66,Louisiana,0,0
+185,5,"Sep 20, 1997",Toledo,23,Western Michigan,13,1
+186,5,"Sep 20, 1997",Utah,56,UTEP,3,0
+187,5,"Sep 20, 1997",Vanderbilt,40,TCU,16,0
+188,5,"Sep 20, 1997",Virginia Tech,23,Temple,13,1
+189,5,"Sep 20, 1997",Washington State,35,Illinois,22,1
+190,5,"Sep 20, 1997",Wisconsin,36,San Diego State,10,0
+191,5,"Sep 20, 1997",Wyoming,30,San Jose State,10,0
+192,6,"Sep 25, 1997",Wake Forest,19,NC State,18,0
+193,6,"Sep 27, 1997",Air Force,24,San Diego State,18,0
+194,6,"Sep 27, 1997",Alabama,27,Southern Miss,13,0
+195,6,"Sep 27, 1997",Louisiana,7,UAB,42,0
+196,6,"Sep 27, 1997",Arizona State,13,Oregon State,10,1
+197,6,"Sep 27, 1997",Arkansas,17,Louisiana Tech,13,0
+198,6,"Sep 27, 1997",Auburn,41,UCF,14,0
+199,6,"Sep 27, 1997",BYU,19,SMU,16,1
+200,6,"Sep 27, 1997",Boston College,6,Cincinnati,24,0
+201,6,"Sep 27, 1997",Colorado,20,Wyoming,19,0
+202,6,"Sep 27, 1997",Duke,26,Navy,17,0
+203,6,"Sep 27, 1997",Eastern Michigan,31,Central Michigan,24,1
+204,6,"Sep 27, 1997",Florida,55,Kentucky,28,1
+205,6,"Sep 27, 1997",Georgia Tech,23,Clemson,20,0
+206,6,"Sep 27, 1997",Houston,45,Minnesota,43,1
+207,6,"Sep 27, 1997",Iowa,38,Illinois,10,0
+208,6,"Sep 27, 1997",Kansas State,58,Bowling Green,0,0
+209,6,"Sep 27, 1997",LSU,56,Akron,0,0
+210,6,"Sep 27, 1997",Marshall,42,Ball State,16,1
+211,6,"Sep 27, 1997",Maryland,24,Temple,21,1
+212,6,"Sep 27, 1997",Miami (OH),38,Army,14,1
+213,6,"Sep 27, 1997",Michigan,21,Notre Dame,14,0
+214,6,"Sep 27, 1997",Vanderbilt,3,Ole Miss,15,1
+215,6,"Sep 27, 1997",Mississippi State,37,South Carolina,17,0
+216,6,"Sep 27, 1997",Illinois State,6,UNLV,41,1
+217,6,"Sep 27, 1997",North Carolina,48,Virginia,20,0
+218,6,"Sep 27, 1997",Western Michigan,7,Ohio,31,1
+219,6,"Sep 27, 1997",Ohio State,31,Missouri,10,1
+220,6,"Sep 27, 1997",Oklahoma,35,Louisville,14,0
+221,6,"Sep 27, 1997",Louisiana-Monroe,7,Oklahoma State,38,1
+222,6,"Sep 27, 1997",Northwestern,9,Purdue,21,1
+223,6,"Sep 27, 1997",USC,27,California,17,1
+224,6,"Sep 27, 1997",Stanford,58,Oregon,49,0
+225,6,"Sep 27, 1997",Texas,38,Rice,31,1
+226,6,"Sep 27, 1997",Texas A&M,36,North Texas,10,1
+227,6,"Sep 27, 1997",UTEP,24,New Mexico State,16,0
+228,6,"Sep 27, 1997",Toledo,31,Nevada,13,0
+229,6,"Sep 27, 1997",UCLA,40,Arizona,27,0
+230,6,"Sep 27, 1997",Virginia Tech,50,Arkansas State,0,0
+231,6,"Sep 27, 1997",Washington State,58,Boise State,0,0
+232,6,"Sep 27, 1997",West Virginia,28,Miami,17,1
+233,6,"Sep 27, 1997",Wisconsin,27,Indiana,26,0
+234,7,"Oct 2, 1997",Fresno State,27,Utah,13,0
+235,7,"Oct 3, 1997",BYU,42,Utah State,35,0
+236,7,"Oct 4, 1997",Citadel,3,Air Force,17,1
+237,7,"Oct 4, 1997",Akron,53,Central Michigan,14,0
+238,7,"Oct 4, 1997",UAB,20,Western Kentucky,16,0
+239,7,"Oct 4, 1997",Arizona,31,San Diego State,28,0
+240,7,"Oct 4, 1997",South Carolina,6,Auburn,23,0
+241,7,"Oct 4, 1997",Bowling Green,35,Northern Illinois,10,0
+242,7,"Oct 4, 1997",Cal Poly,38,New Mexico State,35,1
+243,7,"Oct 4, 1997",UCF,59,Kent State,43,1
+244,7,"Oct 4, 1997",Cincinnati,20,Memphis,17,0
+245,7,"Oct 4, 1997",UTEP,7,Clemson,39,1
+246,7,"Oct 4, 1997",Colorado State,63,Hawaii,0,0
+247,7,"Oct 4, 1997",Arkansas,7,Florida,56,1
+248,7,"Oct 4, 1997",Florida State,47,Miami,0,0
+249,7,"Oct 4, 1997",Georgia,47,Mississippi State,0,0
+250,7,"Oct 4, 1997",Georgia Tech,42,Boston College,14,1
+251,7,"Oct 4, 1997",Idaho,30,North Texas,17,0
+252,7,"Oct 4, 1997",Kansas,20,Oklahoma,17,0
+253,7,"Oct 4, 1997",Kentucky,40,Alabama,34,0
+254,7,"Oct 4, 1997",Louisiana,41,Arkansas State,38,1
+255,7,"Oct 4, 1997",LSU,7,Vanderbilt,6,1
+256,7,"Oct 4, 1997",Louisiana Tech,41,California,34,0
+257,7,"Oct 4, 1997",Northwestern State,7,Louisiana-Monroe,17,1
+258,7,"Oct 4, 1997",Maryland,16,Duke,10,0
+259,7,"Oct 4, 1997",Miami (OH),24,Virginia Tech,17,1
+260,7,"Oct 4, 1997",Michigan,37,Indiana,0,1
+261,7,"Oct 4, 1997",Michigan State,31,Minnesota,10,0
+262,7,"Oct 4, 1997",Missouri,45,Iowa State,21,0
+263,7,"Oct 4, 1997",Nebraska,56,Kansas State,26,0
+264,7,"Oct 4, 1997",New Mexico,22,SMU,15,0
+265,7,"Oct 4, 1997",North Carolina,31,TCU,10,1
+266,7,"Oct 4, 1997",Eastern Michigan,7,Ohio,47,0
+267,7,"Oct 4, 1997",Iowa,7,Ohio State,23,1
+268,7,"Oct 4, 1997",Oklahoma State,42,Texas,16,0
+269,7,"Oct 4, 1997",Oregon State,26,San Jose State,12,0
+270,7,"Oct 4, 1997",Illinois,6,Penn State,41,0
+271,7,"Oct 4, 1997",Rice,42,Tulsa,24,1
+272,7,"Oct 4, 1997",USC,35,UNLV,21,0
+273,7,"Oct 4, 1997",Southern Miss,42,Louisville,24,0
+274,7,"Oct 4, 1997",Stanford,33,Notre Dame,15,0
+275,7,"Oct 4, 1997",Syracuse,56,East Carolina,0,0
+276,7,"Oct 4, 1997",Temple,17,Pitt,13,0
+277,7,"Oct 4, 1997",Tennessee,31,Ole Miss,17,0
+278,7,"Oct 4, 1997",Texas A&M,16,Colorado,10,1
+279,7,"Oct 4, 1997",Texas Tech,35,Baylor,14,1
+280,7,"Oct 4, 1997",Tulane,41,Army,0,0
+281,7,"Oct 4, 1997",UCLA,66,Houston,10,0
+282,7,"Oct 4, 1997",Virginia,21,Wake Forest,13,0
+283,7,"Oct 4, 1997",Washington,26,Arizona State,14,0
+284,7,"Oct 4, 1997",Washington State,24,Oregon,13,1
+285,7,"Oct 4, 1997",West Virginia,48,Rutgers,0,0
+286,7,"Oct 4, 1997",Western Michigan,21,Ball State,13,0
+287,7,"Oct 4, 1997",Wisconsin,26,Northwestern,25,1
+288,7,"Oct 4, 1997",Wyoming,28,Montana,13,0
+289,8,"Oct 9, 1997",Syracuse,50,Rutgers,3,1
+290,8,"Oct 11, 1997",Navy,7,Air Force,10,0
+291,8,"Oct 11, 1997",Arizona,28,Stanford,22,0
+292,8,"Oct 11, 1997",USC,7,Arizona State,35,1
+293,8,"Oct 11, 1997",Auburn,49,Louisiana Tech,13,0
+294,8,"Oct 11, 1997",Boise State,52,New Mexico State,10,0
+295,8,"Oct 11, 1997",Samford,7,UCF,52,1
+296,8,"Oct 11, 1997",Cincinnati,33,UAB,29,0
+297,8,"Oct 11, 1997",Colorado State,55,San Jose State,20,1
+298,8,"Oct 11, 1997",Eastern Michigan,38,Ball State,32,0
+299,8,"Oct 11, 1997",Florida State,51,Duke,27,1
+300,8,"Oct 11, 1997",Georgia Tech,27,NC State,17,0
+301,8,"Oct 11, 1997",Hawaii,28,Fresno State,16,0
+302,8,"Oct 11, 1997",Idaho,44,California-Davis,14,0
+303,8,"Oct 11, 1997",Kansas State,41,Missouri,11,0
+304,8,"Oct 11, 1997",LSU,28,Florida,21,0
+305,8,"Oct 11, 1997",Marshall,52,Akron,17,0
+306,8,"Oct 11, 1997",Arkansas State,9,Memphis,38,1
+307,8,"Oct 11, 1997",Miami (OH),62,Kent State,26,1
+308,8,"Oct 11, 1997",Northwestern,6,Michigan,23,1
+309,8,"Oct 11, 1997",Indiana,6,Michigan State,38,0
+310,8,"Oct 11, 1997",Mississippi State,24,Louisiana-Monroe,10,0
+311,8,"Oct 11, 1997",Nebraska,49,Baylor,21,1
+312,8,"Oct 11, 1997",UNLV,21,TCU,19,0
+313,8,"Oct 11, 1997",New Mexico,36,San Diego State,21,1
+314,8,"Oct 11, 1997",North Alabama,48,Louisiana,42,1
+315,8,"Oct 11, 1997",North Carolina,30,Wake Forest,12,0
+316,8,"Oct 11, 1997",Notre Dame,45,Pitt,21,1
+317,8,"Oct 11, 1997",Oklahoma State,33,Colorado,29,0
+318,8,"Oct 11, 1997",Oregon State,24,Utah State,16,0
+319,8,"Oct 11, 1997",Penn State,31,Ohio State,27,0
+320,8,"Oct 11, 1997",Purdue,59,Minnesota,43,1
+321,8,"Oct 11, 1997",Rice,27,BYU,14,0
+322,8,"Oct 11, 1997",South Carolina,38,Kentucky,24,0
+323,8,"Oct 11, 1997",SMU,20,Utah,19,1
+324,8,"Oct 11, 1997",Southern Miss,23,East Carolina,13,1
+325,8,"Oct 11, 1997",Tennessee,38,Georgia,13,0
+326,8,"Oct 11, 1997",Texas,27,Oklahoma,24,0
+327,8,"Oct 11, 1997",Texas A&M,56,Iowa State,17,0
+328,8,"Oct 11, 1997",Kansas,7,Texas Tech,17,1
+329,8,"Oct 11, 1997",UTEP,33,Tulsa,18,1
+330,8,"Oct 11, 1997",Toledo,41,Central Michigan,10,1
+331,8,"Oct 11, 1997",Tulane,64,Louisville,33,1
+332,8,"Oct 11, 1997",UCLA,39,Oregon,31,1
+333,8,"Oct 11, 1997",Northern Illinois,7,Vanderbilt,17,0
+334,8,"Oct 11, 1997",Clemson,7,Virginia,21,0
+335,8,"Oct 11, 1997",Boston College,7,Virginia Tech,17,1
+336,8,"Oct 11, 1997",Washington,30,California,3,1
+337,8,"Oct 11, 1997",West Virginia,31,Maryland,14,1
+338,8,"Oct 11, 1997",Western Michigan,34,Bowling Green,21,1
+339,8,"Oct 11, 1997",Illinois,7,Wisconsin,31,1
+340,8,"Oct 11, 1997",Wyoming,34,Nevada,30,1
+341,9,"Oct 18, 1997",Arizona State,31,Stanford,14,1
+342,9,"Oct 18, 1997",Army,37,Rutgers,35,0
+343,9,"Oct 18, 1997",Ball State,37,Central Michigan,34,0
+344,9,"Oct 18, 1997",Boise State,17,North Texas,14,1
+345,9,"Oct 18, 1997",Hawaii,3,BYU,17,1
+346,9,"Oct 18, 1997",Kansas,6,Colorado,42,1
+347,9,"Oct 18, 1997",Wyoming,7,Colorado State,14,0
+348,9,"Oct 18, 1997",Eastern Michigan,45,Akron,0,0
+349,9,"Oct 18, 1997",Florida,24,Auburn,10,1
+350,9,"Oct 18, 1997",Florida State,38,Georgia Tech,0,0
+351,9,"Oct 18, 1997",Fresno State,20,Air Force,17,1
+352,9,"Oct 18, 1997",Georgia,34,Vanderbilt,13,1
+353,9,"Oct 18, 1997",Houston,41,Cincinnati,38,0
+354,9,"Oct 18, 1997",Kansas State,36,Texas A&M,17,0
+355,9,"Oct 18, 1997",Kentucky,49,Louisiana-Monroe,14,0
+356,9,"Oct 18, 1997",Louisiana Tech,42,Arkansas State,14,0
+357,9,"Oct 18, 1997",Miami,45,Boston College,44,1
+358,9,"Oct 18, 1997",Miami (OH),45,Marshall,21,0
+359,9,"Oct 18, 1997",Michigan,28,Iowa,24,0
+360,9,"Oct 18, 1997",Ole Miss,36,LSU,21,1
+361,9,"Oct 18, 1997",Missouri,37,Texas,29,0
+362,9,"Oct 18, 1997",Virginia Military Institute,7,Navy,42,1
+363,9,"Oct 18, 1997",Nebraska,29,Texas Tech,0,0
+364,9,"Oct 18, 1997",Nevada,42,Idaho,23,0
+365,9,"Oct 18, 1997",NC State,7,North Carolina,20,0
+366,9,"Oct 18, 1997",Northwestern,19,Michigan State,17,0
+367,9,"Oct 18, 1997",Ohio,24,Bowling Green,0,0
+368,9,"Oct 18, 1997",Ohio State,31,Indiana,0,0
+369,9,"Oct 18, 1997",Oklahoma,24,Baylor,23,0
+370,9,"Oct 18, 1997",Oregon,31,Utah,13,0
+371,9,"Oct 18, 1997",Penn State,16,Minnesota,15,0
+372,9,"Oct 18, 1997",Purdue,45,Wisconsin,20,0
+373,9,"Oct 18, 1997",Rice,35,New Mexico,23,1
+374,9,"Oct 18, 1997",San Diego State,20,UNLV,17,0
+375,9,"Oct 18, 1997",UTEP,7,San Jose State,10,0
+376,9,"Oct 18, 1997",South Carolina,39,Arkansas,13,1
+377,9,"Oct 18, 1997",USC,20,Notre Dame,17,1
+378,9,"Oct 18, 1997",Temple,7,Syracuse,60,1
+379,9,"Oct 18, 1997",Tennessee,38,Alabama,21,1
+380,9,"Oct 18, 1997",Toledo,41,Northern Illinois,14,0
+381,9,"Oct 18, 1997",Tulane,33,East Carolina,16,0
+382,9,"Oct 18, 1997",Tulsa,33,TCU,22,1
+383,9,"Oct 18, 1997",UCLA,34,Oregon State,10,0
+384,9,"Oct 18, 1997",New Mexico State,7,Utah State,38,1
+385,9,"Oct 18, 1997",Virginia,13,Duke,10,0
+386,9,"Oct 18, 1997",Wake Forest,35,Maryland,17,0
+387,9,"Oct 18, 1997",Washington,58,Arizona,28,1
+388,9,"Oct 18, 1997",Washington State,63,California,37,0
+389,9,"Oct 18, 1997",Western Michigan,50,Kent State,27,0
+390,10,"Oct 25, 1997",Alabama,29,Ole Miss,20,1
+391,10,"Oct 25, 1997",Army,35,Colgate,27,0
+392,10,"Oct 25, 1997",Auburn,26,Arkansas,21,1
+393,10,"Oct 25, 1997",Ball State,21,Northern Illinois,14,1
+394,10,"Oct 25, 1997",BYU,31,TCU,10,0
+395,10,"Oct 25, 1997",Cincinnati,34,Miami (OH),31,1
+396,10,"Oct 25, 1997",Maryland,9,Clemson,20,0
+397,10,"Oct 25, 1997",Colorado,47,Texas,30,1
+398,10,"Oct 25, 1997",East Carolina,32,Memphis,10,0
+399,10,"Oct 25, 1997",Florida State,47,Virginia,21,1
+400,10,"Oct 25, 1997",Fresno State,46,UNLV,28,0
+401,10,"Oct 25, 1997",Georgia,23,Kentucky,13,0
+402,10,"Oct 25, 1997",Houston,36,Louisville,22,1
+403,10,"Oct 25, 1997",Iowa,62,Indiana,0,0
+404,10,"Oct 25, 1997",Iowa State,24,Baylor,17,0
+405,10,"Oct 25, 1997",Oklahoma,7,Kansas State,26,0
+406,10,"Oct 25, 1997",Kent State,60,Central Michigan,37,0
+407,10,"Oct 25, 1997",Louisiana Tech,31,Boise State,27,1
+408,10,"Oct 25, 1997",Louisiana-Monroe,28,Louisiana,21,1
+409,10,"Oct 25, 1997",Marshall,48,Eastern Michigan,25,0
+410,10,"Oct 25, 1997",Miami,47,Temple,15,0
+411,10,"Oct 25, 1997",Michigan State,7,Michigan,23,0
+412,10,"Oct 25, 1997",Mississippi State,35,UCF,28,0
+413,10,"Oct 25, 1997",Missouri,51,Oklahoma State,50,1
+414,10,"Oct 25, 1997",Nebraska,35,Kansas,0,1
+415,10,"Oct 25, 1997",Nevada,65,North Texas,10,0
+416,10,"Oct 25, 1997",New Mexico State,34,Arkansas State,20,0
+417,10,"Oct 25, 1997",Notre Dame,52,Boston College,20,0
+418,10,"Oct 25, 1997",Ohio,21,Akron,17,1
+419,10,"Oct 25, 1997",Northwestern,6,Ohio State,49,1
+420,10,"Oct 25, 1997",Pitt,55,Rutgers,48,1
+421,10,"Oct 25, 1997",Purdue,48,Illinois,3,1
+422,10,"Oct 25, 1997",Hawaii,3,San Diego State,10,0
+423,10,"Oct 25, 1997",San Jose State,25,Air Force,22,0
+424,10,"Oct 25, 1997",South Carolina,35,Vanderbilt,3,0
+425,10,"Oct 25, 1997",USC,24,Oregon,22,0
+426,10,"Oct 25, 1997",SMU,22,Wyoming,17,0
+427,10,"Oct 25, 1997",Southern Miss,34,Tulane,13,0
+428,10,"Oct 25, 1997",Texas Tech,16,Texas A&M,13,0
+429,10,"Oct 25, 1997",Toledo,35,Bowling Green,20,1
+430,10,"Oct 25, 1997",UCLA,35,California,17,0
+431,10,"Oct 25, 1997",Utah,15,New Mexico,10,0
+432,10,"Oct 25, 1997",Utah State,63,Idaho,17,1
+433,10,"Oct 25, 1997",Wake Forest,38,Duke,24,1
+434,10,"Oct 25, 1997",Washington,45,Oregon State,17,1
+435,10,"Oct 25, 1997",Washington State,35,Arizona,34,0
+436,10,"Oct 25, 1997",West Virginia,30,Virginia Tech,17,0
+437,10,"Oct 25, 1997",Wisconsin,22,Minnesota,21,1
+438,10,"Oct 26, 1997",Tulsa,8,Colorado State,44,1
+439,11,"Oct 30, 1997",North Carolina,16,Georgia Tech,13,1
+440,11,"Nov 1, 1997",Air Force,34,Hawaii,27,1
+441,11,"Nov 1, 1997",Arizona State,44,Washington State,31,0
+442,11,"Nov 1, 1997",Ball State,31,Akron,14,0
+443,11,"Nov 1, 1997",Baylor,23,Texas,21,0
+444,11,"Nov 1, 1997",Boston College,22,Pitt,21,0
+445,11,"Nov 1, 1997",California,33,Oregon State,14,0
+446,11,"Nov 1, 1997",Clemson,33,Wake Forest,16,1
+447,11,"Nov 1, 1997",Colorado State,45,UNLV,19,1
+448,11,"Nov 1, 1997",East Carolina,45,Louisville,31,1
+449,11,"Nov 1, 1997",Eastern Washington,24,Idaho,21,0
+450,11,"Nov 1, 1997",Florida State,48,NC State,35,0
+451,11,"Nov 1, 1997",Fresno State,53,San Jose State,12,1
+452,11,"Nov 1, 1997",Georgia,37,Florida,17,0
+453,11,"Nov 1, 1997",Illinois,6,Indiana,23,1
+454,11,"Nov 1, 1997",Iowa,35,Purdue,17,0
+455,11,"Nov 1, 1997",Kansas,34,Iowa State,24,0
+456,11,"Nov 1, 1997",Texas Tech,2,Kansas State,13,0
+457,11,"Nov 1, 1997",Kent State,29,Bowling Green,20,0
+458,11,"Nov 1, 1997",LSU,63,Kentucky,28,1
+459,11,"Nov 1, 1997",Louisiana Tech,26,Alabama,20,1
+460,11,"Nov 1, 1997",Louisiana-Monroe,45,UCF,41,0
+461,11,"Nov 1, 1997",Marshall,45,Central Michigan,17,1
+462,11,"Nov 1, 1997",Houston,3,Memphis,24,1
+463,11,"Nov 1, 1997",Miami,42,Arkansas State,10,0
+464,11,"Nov 1, 1997",Minnesota,3,Michigan,24,1
+465,11,"Nov 1, 1997",Mississippi State,20,Auburn,0,1
+466,11,"Nov 1, 1997",Missouri,41,Colorado,31,1
+467,11,"Nov 1, 1997",Oklahoma,7,Nebraska,69,1
+468,11,"Nov 1, 1997",Nevada,45,New Mexico State,24,1
+469,11,"Nov 1, 1997",New Mexico,40,TCU,10,1
+470,11,"Nov 1, 1997",Notre Dame,21,Navy,17,0
+471,11,"Nov 1, 1997",Ohio,35,Northern Illinois,30,1
+472,11,"Nov 1, 1997",Ohio State,37,Michigan State,13,1
+473,11,"Nov 1, 1997",Penn State,30,Northwestern,27,1
+474,11,"Nov 1, 1997",Rice,6,SMU,24,1
+475,11,"Nov 1, 1997",Southern Miss,24,Cincinnati,17,1
+476,11,"Nov 1, 1997",Syracuse,40,West Virginia,10,0
+477,11,"Nov 1, 1997",Rutgers,7,Temple,49,1
+478,11,"Nov 1, 1997",South Carolina,7,Tennessee,22,1
+479,11,"Nov 1, 1997",Texas A&M,28,Oklahoma State,25,0
+480,11,"Nov 1, 1997",BYU,3,UTEP,14,1
+481,11,"Nov 1, 1997",Toledo,35,Miami (OH),28,0
+482,11,"Nov 1, 1997",Tulane,56,Louisiana,0,1
+483,11,"Nov 1, 1997",Tulsa,21,Utah,13,0
+484,11,"Nov 1, 1997",Stanford,7,UCLA,27,0
+485,11,"Nov 1, 1997",Utah State,24,Boise State,20,0
+486,11,"Nov 1, 1997",Virginia,45,Maryland,0,1
+487,11,"Nov 1, 1997",Virginia Tech,37,UAB,0,0
+488,11,"Nov 1, 1997",Washington,27,USC,0,0
+489,11,"Nov 1, 1997",Western Michigan,41,Eastern Michigan,38,1
+490,11,"Nov 1, 1997",Wyoming,41,San Diego State,17,0
+491,12,"Nov 6, 1997",Arkansas,9,Ole Miss,19,1
+492,12,"Nov 8, 1997",Air Force,24,Army,0,0
+493,12,"Nov 8, 1997",Akron,45,Kent State,35,0
+494,12,"Nov 8, 1997",Oregon State,7,Arizona,27,1
+495,12,"Nov 8, 1997",Arizona State,28,California,21,1
+496,12,"Nov 8, 1997",Arkansas State,35,Missouri State,27,0
+497,12,"Nov 8, 1997",Ball State,35,Toledo,3,0
+498,12,"Nov 8, 1997",BYU,49,Tulsa,39,0
+499,12,"Nov 8, 1997",Louisville,9,Cincinnati,28,1
+500,12,"Nov 8, 1997",Clemson,29,Duke,20,0
+501,12,"Nov 8, 1997",Colorado,43,Iowa State,38,1
+502,12,"Nov 8, 1997",Colorado State,41,Fresno State,3,0
+503,12,"Nov 8, 1997",East Carolina,28,Houston,27,1
+504,12,"Nov 8, 1997",Eastern Michigan,38,Northern Illinois,10,1
+505,12,"Nov 8, 1997",Vanderbilt,7,Florida,20,1
+506,12,"Nov 8, 1997",North Carolina,3,Florida State,20,0
+507,12,"Nov 8, 1997",Kansas State,48,Kansas,16,0
+508,12,"Nov 8, 1997",LSU,27,Alabama,0,1
+509,12,"Nov 8, 1997",Louisiana Tech,32,UAB,29,1
+510,12,"Nov 8, 1997",Marshall,28,Bowling Green,0,0
+511,12,"Nov 8, 1997",Miami (OH),45,Ohio,21,1
+512,12,"Nov 8, 1997",Penn State,8,Michigan,34,0
+513,12,"Nov 8, 1997",Navy,49,Temple,17,0
+514,12,"Nov 8, 1997",Nebraska,45,Missouri,38,1
+515,12,"Nov 8, 1997",Nevada,56,Boise State,42,1
+516,12,"Nov 8, 1997",NC State,45,Maryland,28,0
+517,12,"Nov 8, 1997",North Texas,26,New Mexico State,15,1
+518,12,"Nov 8, 1997",Northwestern,34,Illinois,21,1
+519,12,"Nov 8, 1997",Ohio State,31,Minnesota,3,1
+520,12,"Nov 8, 1997",Oklahoma,7,Oklahoma State,30,0
+521,12,"Nov 8, 1997",Oregon,31,Washington,28,1
+522,12,"Nov 8, 1997",Purdue,22,Michigan State,21,0
+523,12,"Nov 8, 1997",Rice,38,TCU,19,0
+524,12,"Nov 8, 1997",San Diego State,48,San Jose State,21,0
+525,12,"Nov 8, 1997",USC,45,Stanford,21,0
+526,12,"Nov 8, 1997",SMU,28,UTEP,14,0
+527,12,"Nov 8, 1997",Syracuse,20,Boston College,13,0
+528,12,"Nov 8, 1997",Tennessee,44,Southern Miss,20,0
+529,12,"Nov 8, 1997",Texas A&M,38,Baylor,10,0
+530,12,"Nov 8, 1997",Texas Tech,24,Texas,10,1
+531,12,"Nov 8, 1997",Tulane,26,Memphis,14,0
+532,12,"Nov 8, 1997",Virginia,35,Georgia Tech,31,0
+533,12,"Nov 8, 1997",Virginia Tech,27,Miami,25,0
+534,12,"Nov 8, 1997",Wake Forest,28,Rutgers,14,1
+535,12,"Nov 8, 1997",Washington State,77,Louisiana,7,0
+536,12,"Nov 8, 1997",Western Michigan,38,Central Michigan,24,0
+537,12,"Nov 8, 1997",Wisconsin,13,Iowa,10,0
+538,12,"Nov 8, 1997",Wyoming,35,UNLV,23,0
+539,13,"Nov 13, 1997",Cincinnati,7,East Carolina,14,1
+540,13,"Nov 15, 1997",Wyoming,3,Air Force,14,1
+541,13,"Nov 15, 1997",UAB,38,Tennessee Tech,14,0
+542,13,"Nov 15, 1997",Arizona,41,California,38,0
+543,13,"Nov 15, 1997",Arizona State,52,Oregon,31,0
+544,13,"Nov 15, 1997",Army,25,North Texas,14,0
+545,13,"Nov 15, 1997",Auburn,45,Georgia,34,1
+546,13,"Nov 15, 1997",UCF,27,Eastern Michigan,10,0
+547,13,"Nov 15, 1997",Florida,48,South Carolina,21,1
+548,13,"Nov 15, 1997",Wake Forest,7,Florida State,58,1
+549,13,"Nov 15, 1997",Georgia Tech,41,Duke,38,1
+550,13,"Nov 15, 1997",Idaho,35,New Mexico State,18,1
+551,13,"Nov 15, 1997",Kansas State,37,Colorado,20,0
+552,13,"Nov 15, 1997",Kentucky,21,Vanderbilt,10,1
+553,13,"Nov 15, 1997",Louisiana Tech,63,Louisiana,24,1
+554,13,"Nov 15, 1997",Marshall,27,Ohio,0,0
+555,13,"Nov 15, 1997",Memphis,21,Louisville,20,0
+556,13,"Nov 15, 1997",Miami,51,Rutgers,23,0
+557,13,"Nov 15, 1997",Miami (OH),42,Northern Illinois,0,0
+558,13,"Nov 15, 1997",Michigan,26,Wisconsin,16,1
+559,13,"Nov 15, 1997",Minnesota,24,Indiana,12,0
+560,13,"Nov 15, 1997",Ole Miss,41,Tulane,24,1
+561,13,"Nov 15, 1997",Mississippi State,32,Alabama,20,1
+562,13,"Nov 15, 1997",Missouri,42,Baylor,24,0
+563,13,"Nov 15, 1997",Navy,52,Colgate,24,0
+564,13,"Nov 15, 1997",Nebraska,77,Iowa State,14,0
+565,13,"Nov 15, 1997",New Mexico,38,BYU,28,0
+566,13,"Nov 15, 1997",North Carolina,17,Clemson,10,1
+567,13,"Nov 15, 1997",NC State,31,Virginia,24,0
+568,13,"Nov 15, 1997",Northwestern,15,Iowa,14,0
+569,13,"Nov 15, 1997",LSU,6,Notre Dame,24,0
+570,13,"Nov 15, 1997",Illinois,6,Ohio State,41,1
+571,13,"Nov 15, 1997",Penn State,42,Purdue,17,1
+572,13,"Nov 15, 1997",San Diego State,20,Fresno State,19,1
+573,13,"Nov 15, 1997",San Jose State,38,Hawaii,14,0
+574,13,"Nov 15, 1997",USC,23,Oregon State,0,1
+575,13,"Nov 15, 1997",SMU,42,Tulsa,41,1
+576,13,"Nov 15, 1997",Southern Miss,33,Houston,0,0
+577,13,"Nov 15, 1997",Syracuse,32,Pitt,27,1
+578,13,"Nov 15, 1997",Tennessee,30,Arkansas,22,1
+579,13,"Nov 15, 1997",Texas,45,Kansas,31,0
+580,13,"Nov 15, 1997",Oklahoma,7,Texas A&M,51,0
+581,13,"Nov 15, 1997",Oklahoma State,3,Texas Tech,27,0
+582,13,"Nov 15, 1997",UTEP,24,TCU,17,0
+583,13,"Nov 15, 1997",Toledo,42,Akron,10,0
+584,13,"Nov 15, 1997",UCLA,52,Washington,28,0
+585,13,"Nov 15, 1997",Utah,31,Rice,14,0
+586,13,"Nov 15, 1997",Utah State,38,Nevada,19,1
+587,13,"Nov 15, 1997",Washington State,38,Stanford,28,0
+588,13,"Nov 15, 1997",West Virginia,41,Temple,21,0
+589,13,"Nov 15, 1997",Western Michigan,32,Louisiana-Monroe,19,1
+590,14,"Nov 20, 1997",TCU,21,SMU,18,0
+591,14,"Nov 22, 1997",Arkansas State,7,UAB,13,0
+592,14,"Nov 22, 1997",Mississippi State,7,Arkansas,17,1
+593,14,"Nov 22, 1997",Auburn,18,Alabama,17,0
+594,14,"Nov 22, 1997",Boise State,30,Idaho,23,1
+595,14,"Nov 22, 1997",Boston College,24,Army,20,0
+596,14,"Nov 22, 1997",UCF,34,Toledo,17,0
+597,14,"Nov 22, 1997",Clemson,47,South Carolina,21,1
+598,14,"Nov 22, 1997",Colorado State,38,San Diego State,17,1
+599,14,"Nov 22, 1997",Florida,32,Florida State,29,0
+600,14,"Nov 22, 1997",Wyoming,7,Fresno State,24,1
+601,14,"Nov 22, 1997",Georgia,21,Ole Miss,14,1
+602,14,"Nov 22, 1997",Georgia Tech,37,Maryland,18,0
+603,14,"Nov 22, 1997",Iowa,31,Minnesota,0,0
+604,14,"Nov 22, 1997",Iowa State,3,Kansas State,28,0
+605,14,"Nov 22, 1997",Louisiana-Monroe,23,Hawaii,20,1
+606,14,"Nov 22, 1997",Michigan,20,Ohio State,14,0
+607,14,"Nov 22, 1997",Michigan State,27,Illinois,17,1
+608,14,"Nov 22, 1997",Navy,62,Kent State,29,0
+609,14,"Nov 22, 1997",New Mexico,51,Tulsa,13,0
+610,14,"Nov 22, 1997",North Carolina,50,Duke,14,0
+611,14,"Nov 22, 1997",NC State,37,East Carolina,24,0
+612,14,"Nov 22, 1997",North Texas,51,Utah State,48,0
+613,14,"Nov 22, 1997",Notre Dame,21,West Virginia,14,0
+614,14,"Nov 22, 1997",Oklahoma,32,Texas Tech,21,1
+615,14,"Nov 22, 1997",Oklahoma State,24,Baylor,14,1
+616,14,"Nov 22, 1997",Oregon,48,Oregon State,30,0
+617,14,"Nov 22, 1997",Penn State,35,Wisconsin,10,0
+618,14,"Nov 22, 1997",Pitt,30,Virginia Tech,23,0
+619,14,"Nov 22, 1997",Indiana,7,Purdue,56,0
+620,14,"Nov 22, 1997",Rice,31,UTEP,13,0
+621,14,"Nov 22, 1997",San Jose State,55,UNLV,48,1
+622,14,"Nov 22, 1997",Southern Miss,42,Memphis,18,1
+623,14,"Nov 22, 1997",Stanford,21,California,20,0
+624,14,"Nov 22, 1997",Tennessee,59,Kentucky,31,1
+625,14,"Nov 22, 1997",Tulane,44,Houston,10,1
+626,14,"Nov 22, 1997",UCLA,31,USC,24,1
+627,14,"Nov 22, 1997",Utah,20,BYU,14,1
+628,14,"Nov 22, 1997",Washington State,41,Washington,35,1
+629,15,"Nov 28, 1997",Arizona,28,Arizona State,16,1
+630,15,"Nov 28, 1997",LSU,31,Arkansas,21,0
+631,15,"Nov 28, 1997",Nebraska,27,Colorado,24,1
+632,15,"Nov 28, 1997",Pitt,41,West Virginia,38,1
+633,15,"Nov 28, 1997",Texas A&M,27,Texas,16,0
+634,15,"Nov 29, 1997",Georgia,27,Georgia Tech,24,1
+635,15,"Nov 29, 1997",Michigan State,49,Penn State,14,0
+636,15,"Nov 29, 1997",Ole Miss,15,Mississippi State,14,1
+637,15,"Nov 29, 1997",Notre Dame,23,Hawaii,22,1
+638,15,"Nov 29, 1997",Syracuse,33,Miami,13,1
+639,15,"Nov 29, 1997",Tennessee,17,Vanderbilt,10,0
+640,15,"Nov 29, 1997",Virginia,34,Virginia Tech,20,0
+641,16,"Dec 5, 1997",Marshall,34,Toledo,14,0
+642,16,"Dec 6, 1997",Colorado State,41,New Mexico,13,0
+643,16,"Dec 6, 1997",Army,7,Navy,39,0
+644,16,"Dec 6, 1997",Nebraska,54,Texas A&M,15,0
+645,16,"Dec 6, 1997",Tennessee,30,Auburn,29,0
+646,17,"Dec 20, 1997",Oregon,41,Air Force,13,0
+647,18,"Dec 25, 1997",Washington,51,Michigan State,23,0
+648,18,"Dec 26, 1997",Ole Miss,34,Marshall,31,0
+649,18,"Dec 27, 1997",Arizona,20,New Mexico,14,0
+650,18,"Dec 28, 1997",Notre Dame,9,LSU,27,1
+651,19,"Dec 29, 1997",Cincinnati,35,Utah State,19,0
+652,19,"Dec 29, 1997",Colorado State,35,Missouri,24,0
+653,19,"Dec 29, 1997",Georgia Tech,35,West Virginia,30,0
+654,20,"Dec 30, 1997",Purdue,33,Oklahoma State,20,0
+655,20,"Dec 31, 1997",Iowa,7,Arizona State,17,1
+656,20,"Dec 31, 1997",Kansas State,35,Syracuse,18,0
+657,20,"Dec 31, 1997",Pitt,7,Southern Miss,41,1
+658,20,"Jan 1, 1998",Penn State,6,Florida,21,1
+659,20,"Jan 1, 1998",Florida State,31,Ohio State,14,0
+660,20,"Jan 1, 1998",Wisconsin,6,Georgia,33,1
+661,20,"Jan 1, 1998",Michigan,21,Washington State,16,0
+662,20,"Jan 1, 1998",North Carolina,42,Virginia Tech,3,0
+663,20,"Jan 1, 1998",UCLA,29,Texas A&M,23,0
+664,20,"Jan 2, 1998",Auburn,21,Clemson,17,0
+665,20,"Jan 2, 1998",Nebraska,42,Tennessee,17,0

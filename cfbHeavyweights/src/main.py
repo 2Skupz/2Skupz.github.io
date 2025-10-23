@@ -42,82 +42,7 @@ def writePreamble(page, historyTeamList, beltTeam):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>College Football Heavyweight Championship</title>
-    <style>
-        body {{
-            font-family: 'Georgia', serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }}
-        .container {{
-            max-width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #ffffff;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }}
-        .center-image {{
-            text-align: center;
-            margin-bottom: 20px;
-        }}
-        .center-image img {{
-            width: 400px;
-            height: 300px;
-            object-fit: contain;
-        }}
-        .preamble {{
-            text-align: justify;
-            margin-top: 20px;
-        }}
-        .small-table-container {{
-            max-width: 40%;
-            margin: 0 auto;
-        }}
-        .champ-header {{
-            text-align: center;
-            padding: 10px 0;
-            background-color: #2c3e50; /* Subtle navy */
-            color: #ecf0f1; /* Light gray text */
-            margin-bottom: 10px;
-            font-size: 1.3em;
-            letter-spacing: 1px;
-            width: 100%;
-            box-sizing: border-box;
-        }}
-        .table {{
-            margin: 10px 0;
-            border-collapse: collapse;
-            width: 100%;
-        }}
-        .table th, .table td {{
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }}
-        .table th {{
-            background-color: #f2f2f2;
-        }}
-        .links-container {{
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }}
-        .links-column {{
-            width: 45%;
-        }}
-        .links-column a {{
-            display: block;
-            margin-bottom: 10px;
-            text-decoration: none;
-            color: #34495e; /* Dark, muted blue */
-            font-weight: bold;
-            transition: color 0.3s;
-        }}
-        .links-column a:hover {{
-            color: #2980b9; /* Brighter blue on hover */
-        }}
-    </style>
+    <link rel="stylesheet" href="assets/cfbHeavyweights.css">
 </head>
 <body>
     <div class="container">
@@ -131,9 +56,7 @@ def writePreamble(page, historyTeamList, beltTeam):
             rematch 8-0 to take back the Belt. Since then, I've tracked the progress of the Belt and all the challenges for it. The {numReigns} (and current) 
             Heavyweight Champion of College Football is {beltTeam.getName()}.
         </div>
-    </div>
-</body>
-</html>"""
+"""
     os.makedirs(os.path.dirname(page), exist_ok=True)
     with open(page, 'w') as file:
         file.write(html_content)
@@ -148,27 +71,31 @@ def writeCurrentReign(webpage, beltTeam):
     reignLength = len(currentReign.games)
     gs = "game" if reignLength == 1 else "games"
     with open(webpage, 'a') as file:
-        file.write("<h3>***Current Reign***</h3\n")
-        file.write(f"        <p>{reignLength} {gs}</p>\n")
-        file.write("        <ul>\n")
+        file.write("<div class=\"content-section\">\n")
+        file.write("    <h3>***Current Reign***</h3>\n")
+        file.write(f"    <p>{reignLength} {gs}</p>\n")
+        file.write("    <ul>\n")
         for game in currentReign.games:
-            file.write(f"            <li>{str(game)}</li>\n")
-        file.write("        </ul>\n\n")
+            file.write(f"        <li>{str(game)}</li>\n")
+        file.write("    </ul>\n")
+        file.write("</div>\n\n")
 
 def writePreviousReigns(webpage, beltTeam):
     """Write the previous reigns section."""
     reigns = beltTeam.reigns
     numReigns = len(reigns)
     with open(webpage, 'a') as file:
-        file.write("<h3>Previous Reigns:</h3>\n")
+        file.write("<div class=\"content-section\">\n")
+        file.write("    <h3>Previous Reigns:</h3>\n")
         for reign in reversed(reigns):
             reignGames = reign.games
-            file.write(f"        <h4>Reign #{numReigns}</h4>\n")
-            file.write("        <ul>\n")
+            file.write(f"    <h4>Reign #{numReigns}</h4>\n")
+            file.write("    <ul>\n")
             for game in reignGames:
-                file.write(f"            <li>{str(game)}</li>\n")
-            file.write("        </ul>\n\n")
+                file.write(f"        <li>{str(game)}</li>\n")
+            file.write("    </ul>\n")
             numReigns -= 1
+        file.write("</div>\n\n")
 
 def writeChallenges(webpage, beltTeam):
     """Write the challenges section."""
@@ -177,16 +104,18 @@ def writeChallenges(webpage, beltTeam):
     gs = "time" if numChall == 1 else "times"
     numWins = beltTeam.numReigns
     with open(webpage, 'a') as file:
+        file.write("<div class=\"content-section\">\n")
         file.write("    <h3>Challenges:</h3>\n")
         file.write(f"    <p>{beltTeam.getName()} has challenged {numChall} {gs}, winning {numWins}:</p>\n")
-        file.write("        <ul>\n")
+        file.write("    <ul>\n")
         for game in challenges:
             winner = game.winnerWas(beltTeam.getName())
             if winner:
                 file.write(f"        <li><strong>{str(game)}</strong></li>\n")
             else:
                 file.write(f"        <li>{str(game)}</li>\n")
-        file.write("    </ul>\n\n")
+        file.write("    </ul>\n")
+        file.write("</div>\n\n")
 
 def otherLinks(webpage):
     """Write the links to other reports and close HTML."""
@@ -201,7 +130,9 @@ def otherLinks(webpage):
         ('All Bouts', '../data/reports/allBouts.txt')
     ]
     with open(webpage, 'a') as file:
-        file.write("\n<h3>Reports:</h3>    <!-- Links in Two Columns -->\n")
+        file.write("<div class=\"content-section\">\n")
+        file.write("    <h3>Reports:</h3>\n")
+        file.write("    <!-- Links in Two Columns -->\n")
         file.write("    <div class=\"links-container\">\n")
         file.write("        <div class=\"links-column\">\n")
         for text, href in column1Links:
@@ -211,34 +142,54 @@ def otherLinks(webpage):
         for text, href in column2Links:
             file.write(f"            <a href=\"{href}\">{text}</a>\n")
         file.write("        </div>\n")
-        file.write("    </div>\n\n")
-        file.write(f"Compiled {datetime.now().strftime('%Y-%m-%d')}")
+        file.write("    </div>\n")
+        file.write(f"    <p style=\"text-align: center; margin-top: 20px;\">Compiled {datetime.now().strftime('%Y-%m-%d')}</p>\n")
+        file.write("</div>\n")
+        file.write("    </div>\n")  # Close container
+        file.write("</body>\n")
+        file.write("</html>\n")
 
 def writeChampInfo(webpage, beltTeam):
     """Write the current champion information table."""
     cW, cL, cT, dW, dL, dT, numReigns, natties = beltTeam.records()
     with open(webpage, 'a') as file:
-        file.write("        <!-- Smaller Table Container -->        <div class=\"small-table-container\">\n")
-        file.write("            <!-- Champ Header above the table -->            <div class=\"champ-header\">                Current Champ            </div>\n")
-        file.write("            <!-- Text Content -->            <div class=\"text-content\">\n")
-        file.write("                <table class=\"table\">")
-        file.write("                    <tr>                        <th>School</th>")
-        file.write(f"                        <td>{beltTeam.getName()}</td>                    </tr>")
-        file.write("                    <tr>                        <th>Number of Reigns</th>")
-        file.write(f"                        <td>{beltTeam.numReigns}</td>                    </tr>")
-        file.write("                    <tr>                        <th>National Titles</th>")
+        file.write("        <!-- Smaller Table Container -->\n")
+        file.write("        <div class=\"small-table-container\">\n")
+        file.write("            <!-- Champ Header above the table -->\n")
+        file.write("            <div class=\"champ-header\">Current Champ</div>\n")
+        file.write("            <!-- Text Content -->\n")
+        file.write("            <div class=\"text-content\">\n")
+        file.write("                <table class=\"table\">\n")
+        file.write("                    <tr>\n")
+        file.write("                        <th>School</th>\n")
+        file.write(f"                        <td>{beltTeam.getName()}</td>\n")
+        file.write("                    </tr>\n")
+        file.write("                    <tr>\n")
+        file.write("                        <th>Number of Reigns</th>\n")
+        file.write(f"                        <td>{beltTeam.numReigns}</td>\n")
+        file.write("                    </tr>\n")
+        file.write("                    <tr>\n")
+        file.write("                        <th>National Titles</th>\n")
         if natties > 0:
-            file.write(f"                        <td>{natties} — ({beltTeam.getTitleString()})</td>                    </tr>")
+            file.write(f"                        <td>{natties} — ({beltTeam.getTitleString()})</td>\n")
         else:
-            file.write(f"                        <td>0</td>                    </tr>")
-        file.write("                    <tr>                        <th>Record in Bouts</th>")
-        file.write(f"                        <td>{dW+cW}-{dL+cL}-{dT+cT}</td>                    </tr>")
-        file.write("                    <tr>                        <th>As Belt Holder</th>")
-        file.write(f"                        <td>{dW}-{dL}-{dT}</td>                    </tr>")
-        file.write("                    <tr>                        <th>As Challenger</th>")
-        file.write(f"                        <td>{cW}-{cL}-{cT}</td>                    </tr>                </table>\n")
+            file.write(f"                        <td>0</td>\n")
+        file.write("                    </tr>\n")
+        file.write("                    <tr>\n")
+        file.write("                        <th>Record in Bouts</th>\n")
+        file.write(f"                        <td>{dW+cW}-{dL+cL}-{dT+cT}</td>\n")
+        file.write("                    </tr>\n")
+        file.write("                    <tr>\n")
+        file.write("                        <th>As Belt Holder</th>\n")
+        file.write(f"                        <td>{dW}-{dL}-{dT}</td>\n")
+        file.write("                    </tr>\n")
+        file.write("                    <tr>\n")
+        file.write("                        <th>As Challenger</th>\n")
+        file.write(f"                        <td>{cW}-{cL}-{cT}</td>\n")
+        file.write("                    </tr>\n")
+        file.write("                </table>\n")
         file.write("            </div>\n")
-        file.write("        </div>")
+        file.write("        </div>\n")
 
 def getTotalReigns(teamList):
     """Calculate total number of reigns across all teams."""

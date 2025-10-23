@@ -1,3 +1,5 @@
+/* web/assets/cfbHeavyweights.css */
+
 body {
     font-family: 'Georgia', serif;
     line-height: 1.6;
@@ -86,28 +88,32 @@ body {
     color: #2980b9;
 }
 
-h3 {
+.content-section {
+    max-width: 80%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.content-section h3 {
+    text-align: center;
     color: #2c3e50;
-    margin-top: 30px;
     border-bottom: 2px solid #ecf0f1;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
-h4 {
-    color: #34495e;
-    margin-top: 20px;
-}
-
-ul {
+.content-section ul {
     list-style-type: none;
     padding-left: 0;
+    text-align: left;
+    display: inline-block;
+    min-width: 60%;
 }
 
-li {
-    padding: 5px 0;
+.content-section li {
+    padding: 8px;
     border-bottom: 1px solid #ecf0f1;
 }
 
-li:last-child {
-    border-bottom: none;
+.content-section p {
+    text-align: center;
 }

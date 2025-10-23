@@ -10,7 +10,7 @@ Anaheim                 6    3    3     .500   1.5
 Edmonton                7    3    4     .429   2.0
 SEATTLE                 7    3    4     .429   2.0
 Los Angeles             7    2    5     .286   3.0
-Calgary                 7    1    6     .143   4.0
+Calgary                 8    1    7     .125   4.5
 San Jose                6    0    6     .000   4.5
 
 --------------------------------------------------------------------------------
@@ -22,30 +22,30 @@ Utah                    7    5    2     .714   0.5
 Dallas                  6    3    3     .500   2.0
 St. Louis               6    3    3     .500   2.0
 Chicago                 7    3    4     .429   2.5
-Minnesota               7    3    4     .429   2.5
+Minnesota               8    3    5     .375   3.0
 Nashville               7    2    5     .286   3.5
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Carolina                6    5    1     .833    --
-New Jersey              6    5    1     .833    --
-Washington              7    5    2     .714   0.5
-Pittsburgh              7    5    2     .714   0.5
-Columbus                6    3    3     .500   2.0
-Philadelphia            6    3    3     .500   2.0
-NY Islanders            6    3    3     .500   2.0
-NY Rangers              8    3    5     .375   3.0
+New Jersey              7    6    1     .857    --
+Carolina                6    5    1     .833   0.5
+Washington              7    5    2     .714   1.0
+Pittsburgh              7    5    2     .714   1.0
+Columbus                6    3    3     .500   2.5
+Philadelphia            6    3    3     .500   2.5
+NY Islanders            6    3    3     .500   2.5
+NY Rangers              8    3    5     .375   3.5
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Detroit                 6    5    1     .833    --
-Montreal                7    5    2     .714   0.5
+Montreal                8    6    2     .750    --
+Detroit                 7    5    2     .714   0.5
 Florida                 8    4    4     .500   2.0
 Toronto                 7    3    4     .429   2.5
+Buffalo                 7    3    4     .429   2.5
 Boston                  8    3    5     .375   3.0
-Buffalo                 6    2    4     .333   3.0
 Ottawa                  7    2    5     .286   3.5
 Tampa Bay               6    1    5     .167   4.0
 

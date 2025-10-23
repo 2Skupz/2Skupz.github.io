@@ -1,0 +1,674 @@
+0,1,"Aug 29, 1998",Colorado State,23,Michigan State,16,1
+1,1,"Aug 29, 1998",Nebraska,56,Louisiana Tech,27,0
+2,1,"Aug 30, 1998",USC,27,Purdue,17,0
+3,1,"Aug 31, 1998",Florida State,23,Texas A&M,14,0
+4,2,"Sep 3, 1998",Hawaii,6,Arizona,27,0
+5,2,"Sep 3, 1998",NC State,34,Ohio,31,0
+6,2,"Sep 3, 1998",Northern Iowa,13,Eastern Michigan,10,1
+7,2,"Sep 3, 1998",Virginia,19,Auburn,0,1
+8,2,"Sep 3, 1998",Western Michigan,37,Northern Illinois,23,0
+9,2,"Sep 5, 1998",Air Force,42,Wake Forest,0,0
+10,2,"Sep 5, 1998",Alabama,38,BYU,31,0
+11,2,"Sep 5, 1998",Arkansas,38,Louisiana,17,0
+12,2,"Sep 5, 1998",Boise State,26,Cal State Northridge,13,0
+13,2,"Sep 5, 1998",Boston College,41,Georgia Tech,31,1
+14,2,"Sep 5, 1998",California,14,Houston,10,0
+15,2,"Sep 5, 1998",UCF,64,Louisiana Tech,30,1
+16,2,"Sep 5, 1998",Clemson,33,Furman,0,0
+17,2,"Sep 5, 1998",Colorado,42,Colorado State,14,0
+18,2,"Sep 5, 1998",Duke,24,Western Carolina,10,0
+19,2,"Sep 5, 1998",Florida,49,Citadel,10,0
+20,2,"Sep 5, 1998",Georgia,56,Kent State,3,0
+21,2,"Sep 5, 1998",Idaho,31,Eastern Washington,14,0
+22,2,"Sep 5, 1998",Iowa,38,Central Michigan,0,0
+23,2,"Sep 5, 1998",Kansas State,66,Indiana State,0,0
+24,2,"Sep 5, 1998",Kentucky,68,Louisville,34,1
+25,2,"Sep 5, 1998",Louisiana-Monroe,44,Nicholls State,10,0
+26,2,"Sep 5, 1998",Marshall,27,Akron,16,1
+27,2,"Sep 5, 1998",Maryland,23,James Madison,15,0
+28,2,"Sep 5, 1998",Miami,66,East Tennessee State,17,0
+29,2,"Sep 5, 1998",Miami (OH),13,North Carolina,10,1
+30,2,"Sep 5, 1998",Minnesota,17,Arkansas State,14,0
+31,2,"Sep 5, 1998",Ole Miss,30,Memphis,10,0
+32,2,"Sep 5, 1998",Mississippi State,42,Vanderbilt,0,0
+33,2,"Sep 5, 1998",Missouri,37,Bowling Green,0,0
+34,2,"Sep 5, 1998",UAB,7,Nebraska,38,1
+35,2,"Sep 5, 1998",Idaho State,9,New Mexico,38,1
+36,2,"Sep 5, 1998",UNLV,7,Northwestern,41,1
+37,2,"Sep 5, 1998",Notre Dame,36,Michigan,20,0
+38,2,"Sep 5, 1998",Ohio State,34,West Virginia,17,1
+39,2,"Sep 5, 1998",North Texas,9,Oklahoma,37,1
+40,2,"Sep 5, 1998",Oklahoma State,38,Kansas,28,1
+41,2,"Sep 5, 1998",Oregon,48,Michigan State,14,0
+42,2,"Sep 5, 1998",Nevada,6,Oregon State,48,1
+43,2,"Sep 5, 1998",Southern Miss,6,Penn State,34,1
+44,2,"Sep 5, 1998",Pitt,48,Villanova,41,0
+45,2,"Sep 5, 1998",Rice,23,SMU,17,0
+46,2,"Sep 5, 1998",Rutgers,7,Richmond,6,0
+47,2,"Sep 5, 1998",San Jose State,35,Stanford,23,1
+48,2,"Sep 5, 1998",South Carolina,38,Ball State,20,0
+49,2,"Sep 5, 1998",Tennessee,34,Syracuse,33,1
+50,2,"Sep 5, 1998",Texas,66,New Mexico State,36,0
+51,2,"Sep 5, 1998",TCU,31,Iowa State,21,1
+52,2,"Sep 5, 1998",Texas Tech,35,UTEP,3,0
+53,2,"Sep 5, 1998",Toledo,24,Temple,12,0
+54,2,"Sep 5, 1998",Tulane,52,Cincinnati,34,1
+55,2,"Sep 5, 1998",Tulsa,49,Missouri State,14,0
+56,2,"Sep 5, 1998",Utah,20,Utah State,12,1
+57,2,"Sep 5, 1998",Virginia Tech,38,East Carolina,3,0
+58,2,"Sep 5, 1998",Washington,42,Arizona State,38,1
+59,2,"Sep 5, 1998",Washington State,20,Illinois,13,0
+60,2,"Sep 5, 1998",Wisconsin,26,San Diego State,14,1
+61,3,"Sep 10, 1998",Wake Forest,26,Navy,14,0
+62,3,"Sep 12, 1998",Air Force,52,UNLV,10,1
+63,3,"Sep 12, 1998",Akron,35,Temple,28,1
+64,3,"Sep 12, 1998",Vanderbilt,7,Alabama,32,1
+65,3,"Sep 12, 1998",Arizona,31,Stanford,14,1
+66,3,"Sep 12, 1998",Auburn,17,Ole Miss,0,1
+67,3,"Sep 12, 1998",Boston College,41,Rutgers,14,0
+68,3,"Sep 12, 1998",Arizona State,6,BYU,26,1
+69,3,"Sep 12, 1998",UCF,48,Eastern Illinois,0,0
+70,3,"Sep 12, 1998",Central Michigan,35,Western Illinois,14,0
+71,3,"Sep 12, 1998",Colorado,29,Fresno State,21,0
+72,3,"Sep 12, 1998",Colorado State,26,Nevada,14,1
+73,3,"Sep 12, 1998",Duke,44,Northwestern,10,1
+74,3,"Sep 12, 1998",East Carolina,31,Chattanooga,0,0
+75,3,"Sep 12, 1998",Ball State,7,Eastern Michigan,13,0
+76,3,"Sep 12, 1998",Florida,42,Louisiana-Monroe,10,0
+77,3,"Sep 12, 1998",South Carolina,3,Georgia,17,0
+78,3,"Sep 12, 1998",New Mexico State,7,Georgia Tech,42,1
+79,3,"Sep 12, 1998",Idaho,17,San Jose State,12,1
+80,3,"Sep 12, 1998",Illinois,48,Middle Tennessee,20,0
+81,3,"Sep 12, 1998",Indiana,45,Western Michigan,30,0
+82,3,"Sep 12, 1998",Iowa,9,Iowa State,27,0
+83,3,"Sep 12, 1998",Kansas State,73,Northern Illinois,7,0
+84,3,"Sep 12, 1998",Eastern Kentucky,7,Kentucky,52,1
+85,3,"Sep 12, 1998",Arkansas State,6,LSU,42,1
+86,3,"Sep 12, 1998",Marshall,42,Troy,12,0
+87,3,"Sep 12, 1998",Miami,38,Cincinnati,12,1
+88,3,"Sep 12, 1998",Miami (OH),14,Army,13,1
+89,3,"Sep 12, 1998",Michigan State,45,Notre Dame,23,0
+90,3,"Sep 12, 1998",Houston,7,Minnesota,14,0
+91,3,"Sep 12, 1998",Memphis,6,Mississippi State,14,0
+92,3,"Sep 12, 1998",Missouri,41,Kansas,23,0
+93,3,"Sep 12, 1998",California,3,Nebraska,24,0
+94,3,"Sep 12, 1998",New Mexico,39,Utah State,36,0
+95,3,"Sep 12, 1998",Florida State,7,NC State,24,1
+96,3,"Sep 12, 1998",Northwestern State,24,Louisiana,22,1
+97,3,"Sep 12, 1998",Ohio State,49,Toledo,0,0
+98,3,"Sep 12, 1998",TCU,9,Oklahoma,10,0
+99,3,"Sep 12, 1998",Oregon,33,UTEP,26,1
+100,3,"Sep 12, 1998",Oregon State,27,Baylor,17,0
+101,3,"Sep 12, 1998",Penn State,48,Bowling Green,3,0
+102,3,"Sep 12, 1998",Purdue,21,Rice,19,0
+103,3,"Sep 12, 1998",San Diego State,6,USC,35,1
+104,3,"Sep 12, 1998",Syracuse,38,Michigan,28,1
+105,3,"Sep 12, 1998",Louisiana Tech,7,Texas A&M,28,1
+106,3,"Sep 12, 1998",Texas Tech,30,North Texas,0,1
+107,3,"Sep 12, 1998",Tulane,31,SMU,21,1
+108,3,"Sep 12, 1998",Tulsa,35,Oklahoma State,20,0
+109,3,"Sep 12, 1998",UCLA,49,Texas,31,0
+110,3,"Sep 12, 1998",Utah,45,Louisville,22,0
+111,3,"Sep 12, 1998",Virginia,31,Maryland,19,0
+112,3,"Sep 12, 1998",Virginia Tech,37,Clemson,0,1
+113,3,"Sep 12, 1998",Washington State,33,Boise State,21,1
+114,3,"Sep 12, 1998",Wisconsin,45,Ohio,0,0
+115,3,"Sep 12, 1998",Montana State,9,Wyoming,17,1
+116,3,"Sep 12, 1998",Youngstown State,24,Kent State,10,1
+117,4,"Sep 17, 1998",Air Force,30,Colorado State,27,0
+118,4,"Sep 19, 1998",Tennessee Tech,6,UAB,38,1
+119,4,"Sep 19, 1998",Arizona,35,Iowa,11,0
+120,4,"Sep 19, 1998",Arizona State,34,North Texas,15,0
+121,4,"Sep 19, 1998",Arkansas,44,SMU,17,0
+122,4,"Sep 19, 1998",Arkansas State,28,Missouri State,24,0
+123,4,"Sep 19, 1998",Army,37,Cincinnati,20,0
+124,4,"Sep 19, 1998",Baylor,33,NC State,30,0
+125,4,"Sep 19, 1998",Boise State,42,Portland State,24,0
+126,4,"Sep 19, 1998",Temple,7,Boston College,31,1
+127,4,"Sep 19, 1998",California,13,Oklahoma,12,1
+128,4,"Sep 19, 1998",Utah State,6,Colorado,25,1
+129,4,"Sep 19, 1998",East Carolina,21,Ohio,14,1
+130,4,"Sep 19, 1998",Eastern Illinois,24,Northern Illinois,10,1
+131,4,"Sep 19, 1998",Florida State,62,Duke,13,0
+132,4,"Sep 19, 1998",Wyoming,9,Georgia,16,1
+133,4,"Sep 19, 1998",Iowa State,38,Ball State,0,0
+134,4,"Sep 19, 1998",Kansas,63,Illinois State,21,0
+135,4,"Sep 19, 1998",Texas,7,Kansas State,48,1
+136,4,"Sep 19, 1998",Kentucky,31,Indiana,27,0
+137,4,"Sep 19, 1998",LSU,31,Auburn,19,1
+138,4,"Sep 19, 1998",Louisiana Tech,77,Louisiana,14,0
+139,4,"Sep 19, 1998",Louisiana-Monroe,21,Stephen F. Austin,10,0
+140,4,"Sep 19, 1998",Illinois,9,Louisville,35,0
+141,4,"Sep 19, 1998",Marshall,24,South Carolina,21,1
+142,4,"Sep 19, 1998",Michigan,59,Eastern Michigan,20,0
+143,4,"Sep 19, 1998",Minnesota,41,Memphis,14,0
+144,4,"Sep 19, 1998",Vanderbilt,6,Ole Miss,30,0
+145,4,"Sep 19, 1998",Navy,38,Kent State,24,0
+146,4,"Sep 19, 1998",New Mexico State,28,New Mexico,27,0
+147,4,"Sep 19, 1998",Northwestern,23,Rice,14,1
+148,4,"Sep 19, 1998",Ohio State,35,Missouri,14,0
+149,4,"Sep 19, 1998",Oklahoma State,42,Mississippi State,23,0
+150,4,"Sep 19, 1998",Oregon,58,San Jose State,3,0
+151,4,"Sep 19, 1998",Penn State,20,Pitt,13,1
+152,4,"Sep 19, 1998",UCF,7,Purdue,35,1
+153,4,"Sep 19, 1998",USC,40,Oregon State,20,0
+154,4,"Sep 19, 1998",Stanford,37,North Carolina,34,0
+155,4,"Sep 19, 1998",Syracuse,70,Rutgers,14,0
+156,4,"Sep 19, 1998",Tennessee,20,Florida,17,0
+157,4,"Sep 19, 1998",Southern Miss,6,Texas A&M,24,0
+158,4,"Sep 19, 1998",Texas Tech,34,Fresno State,28,0
+159,4,"Sep 19, 1998",Western Michigan,7,Toledo,35,1
+160,4,"Sep 19, 1998",UCLA,42,Houston,24,1
+161,4,"Sep 19, 1998",Utah,30,Hawaii,21,0
+162,4,"Sep 19, 1998",Virginia,20,Clemson,18,0
+163,4,"Sep 19, 1998",Virginia Tech,27,Miami,20,1
+164,4,"Sep 19, 1998",Washington,20,BYU,10,0
+165,4,"Sep 19, 1998",Washington State,24,Idaho,16,0
+166,4,"Sep 19, 1998",West Virginia,42,Maryland,20,0
+167,4,"Sep 19, 1998",UNLV,7,Wisconsin,52,1
+168,5,"Sep 24, 1998",Arizona,35,San Diego State,16,1
+169,5,"Sep 26, 1998",Akron,52,Ball State,14,0
+170,5,"Sep 26, 1998",Oregon State,3,Arizona State,24,1
+171,5,"Sep 26, 1998",Alabama,6,Arkansas,42,1
+172,5,"Sep 26, 1998",Arkansas State,20,Hawaii,0,1
+173,5,"Sep 26, 1998",Boise State,31,Utah,28,1
+174,5,"Sep 26, 1998",Murray State,9,BYU,43,1
+175,5,"Sep 26, 1998",California,24,Washington State,14,0
+176,5,"Sep 26, 1998",UCF,38,Bowling Green,31,1
+177,5,"Sep 26, 1998",Kent State,7,Central Michigan,46,1
+178,5,"Sep 26, 1998",Colorado,18,Baylor,16,0
+179,5,"Sep 26, 1998",Colorado State,38,UNLV,16,0
+180,5,"Sep 26, 1998",Florida,51,Kentucky,35,0
+181,5,"Sep 26, 1998",Florida State,30,USC,10,0
+182,5,"Sep 26, 1998",Georgia Tech,43,North Carolina,21,1
+183,5,"Sep 26, 1998",Indiana,48,Cincinnati,14,1
+184,5,"Sep 26, 1998",Iowa,37,Illinois,14,1
+185,5,"Sep 26, 1998",Kansas,39,UAB,37,1
+186,5,"Sep 26, 1998",Louisiana-Monroe,7,Kansas State,62,1
+187,5,"Sep 26, 1998",LSU,53,Idaho,20,0
+188,5,"Sep 26, 1998",Louisville,52,Boston College,28,0
+189,5,"Sep 26, 1998",Marshall,26,Eastern Michigan,23,1
+190,5,"Sep 26, 1998",Maryland,30,Temple,20,0
+191,5,"Sep 26, 1998",Miami (OH),28,Toledo,14,0
+192,5,"Sep 26, 1998",Michigan,29,Michigan State,17,0
+193,5,"Sep 26, 1998",Ole Miss,48,SMU,41,1
+194,5,"Sep 26, 1998",Mississippi State,38,South Carolina,0,1
+195,5,"Sep 26, 1998",Washington,7,Nebraska,55,1
+196,5,"Sep 26, 1998",Nevada,27,Fresno State,24,1
+197,5,"Sep 26, 1998",New Mexico State,33,UTEP,24,0
+198,5,"Sep 26, 1998",Notre Dame,31,Purdue,30,0
+199,5,"Sep 26, 1998",Ohio,37,Western Michigan,35,1
+200,5,"Sep 26, 1998",Oregon,63,Stanford,28,0
+201,5,"Sep 26, 1998",Rutgers,27,Army,15,0
+202,5,"Sep 26, 1998",San Jose State,37,New Mexico,20,0
+203,5,"Sep 26, 1998",Southern Miss,55,Louisiana,0,0
+204,5,"Sep 26, 1998",Houston,7,Tennessee,42,1
+205,5,"Sep 26, 1998",Texas,59,Rice,21,0
+206,5,"Sep 26, 1998",North Texas,9,Texas A&M,28,1
+207,5,"Sep 26, 1998",TCU,35,Air Force,34,0
+208,5,"Sep 26, 1998",Texas Tech,31,Iowa State,24,1
+209,5,"Sep 26, 1998",Tulane,42,Navy,24,0
+210,5,"Sep 26, 1998",Utah State,47,Sam Houston,17,0
+211,5,"Sep 26, 1998",Virginia,24,Duke,0,1
+212,5,"Sep 26, 1998",Pitt,7,Virginia Tech,27,1
+213,5,"Sep 26, 1998",Wake Forest,29,Clemson,19,1
+214,5,"Sep 26, 1998",West Virginia,44,Tulsa,21,0
+215,5,"Sep 26, 1998",Northwestern,7,Wisconsin,38,1
+216,5,"Sep 26, 1998",Wyoming,31,Louisiana Tech,19,0
+217,6,"Oct 1, 1998",NC State,38,Syracuse,17,0
+218,6,"Oct 3, 1998",Air Force,56,New Mexico,14,0
+219,6,"Oct 3, 1998",UAB,24,Louisiana,13,0
+220,6,"Oct 3, 1998",Appalachian State,30,Wake Forest,27,1
+221,6,"Oct 3, 1998",Arizona,31,Washington,28,1
+222,6,"Oct 3, 1998",Arkansas,27,Kentucky,20,0
+223,6,"Oct 3, 1998",Arkansas State,34,New Mexico State,31,0
+224,6,"Oct 3, 1998",Ball State,18,Northern Illinois,13,0
+225,6,"Oct 3, 1998",Ohio,7,Bowling Green,35,1
+226,6,"Oct 3, 1998",UCF,31,Toledo,24,1
+227,6,"Oct 3, 1998",Colorado,27,Oklahoma,25,1
+228,6,"Oct 3, 1998",Colorado State,20,UTEP,17,1
+229,6,"Oct 3, 1998",East Carolina,30,Army,25,0
+230,6,"Oct 3, 1998",Eastern Michigan,26,Kent State,17,1
+231,6,"Oct 3, 1998",Florida,16,Alabama,10,1
+232,6,"Oct 3, 1998",Florida State,24,Maryland,10,1
+233,6,"Oct 3, 1998",Fresno State,31,BYU,21,0
+234,6,"Oct 3, 1998",Georgia,28,LSU,27,1
+235,6,"Oct 3, 1998",Georgia Tech,41,Duke,13,0
+236,6,"Oct 3, 1998",Houston,35,Memphis,14,0
+237,6,"Oct 3, 1998",Idaho,52,Idaho State,3,0
+238,6,"Oct 3, 1998",Illinois,13,Northwestern,10,1
+239,6,"Oct 3, 1998",Louisiana Tech,63,Boise State,28,0
+240,6,"Oct 3, 1998",Louisville,62,Cincinnati,19,0
+241,6,"Oct 3, 1998",Marshall,31,Miami (OH),17,0
+242,6,"Oct 3, 1998",Miami,53,Rutgers,17,1
+243,6,"Oct 3, 1998",Iowa,9,Michigan,12,0
+244,6,"Oct 3, 1998",Central Michigan,7,Michigan State,38,1
+245,6,"Oct 3, 1998",Ole Miss,30,South Carolina,28,0
+246,6,"Oct 3, 1998",Missouri,35,Northwestern State,14,0
+247,6,"Oct 3, 1998",Nebraska,24,Oklahoma State,17,0
+248,6,"Oct 3, 1998",Nevada,31,UNLV,20,1
+249,6,"Oct 3, 1998",North Carolina,21,Clemson,14,0
+250,6,"Oct 3, 1998",Notre Dame,35,Stanford,17,0
+251,6,"Oct 3, 1998",Penn State,9,Ohio State,28,1
+252,6,"Oct 3, 1998",Oregon State,20,Utah State,16,1
+253,6,"Oct 3, 1998",Pitt,35,Akron,0,0
+254,6,"Oct 3, 1998",Purdue,56,Minnesota,21,0
+255,6,"Oct 3, 1998",San Diego State,24,Tulsa,14,1
+256,6,"Oct 3, 1998",USC,35,Arizona State,24,0
+257,6,"Oct 3, 1998",SMU,28,Hawaii,0,1
+258,6,"Oct 3, 1998",Auburn,9,Tennessee,17,0
+259,6,"Oct 3, 1998",Texas,54,Iowa State,33,0
+260,6,"Oct 3, 1998",Texas A&M,24,Kansas,21,1
+261,6,"Oct 3, 1998",TCU,19,Vanderbilt,16,0
+262,6,"Oct 3, 1998",Texas Tech,31,Baylor,29,0
+263,6,"Oct 3, 1998",Southern Miss,7,Tulane,21,1
+264,6,"Oct 3, 1998",UCLA,49,Washington State,17,0
+265,6,"Oct 3, 1998",Virginia,52,San Jose State,14,0
+266,6,"Oct 3, 1998",West Virginia,45,Navy,24,1
+267,6,"Oct 3, 1998",Western Michigan,27,Louisiana-Monroe,14,0
+268,6,"Oct 3, 1998",William & Mary,45,Temple,38,1
+269,6,"Oct 3, 1998",Wisconsin,24,Indiana,20,1
+270,6,"Oct 3, 1998",Wyoming,27,Utah,24,0
+271,7,"Oct 8, 1998",Virginia Tech,17,Boston College,0,1
+272,7,"Oct 9, 1998",San Diego State,35,Hawaii,13,0
+273,7,"Oct 10, 1998",Navy,7,Air Force,49,1
+274,7,"Oct 10, 1998",Akron,45,Kent State,16,1
+275,7,"Oct 10, 1998",Alabama,20,Ole Miss,17,0
+276,7,"Oct 10, 1998",Memphis,9,Arkansas,23,0
+277,7,"Oct 10, 1998",Army,38,Houston,28,1
+278,7,"Oct 10, 1998",Baylor,31,Kansas,24,0
+279,7,"Oct 10, 1998",BYU,38,UNLV,14,0
+280,7,"Oct 10, 1998",California,32,USC,31,1
+281,7,"Oct 10, 1998",UCF,38,Northern Illinois,17,0
+282,7,"Oct 10, 1998",Central Michigan,36,Eastern Michigan,23,1
+283,7,"Oct 10, 1998",Clemson,23,Maryland,0,0
+284,7,"Oct 10, 1998",Tulsa,7,Colorado State,34,1
+285,7,"Oct 10, 1998",Duke,19,Wake Forest,16,1
+286,7,"Oct 10, 1998",UAB,7,East Carolina,26,1
+287,7,"Oct 10, 1998",Florida,22,LSU,10,0
+288,7,"Oct 10, 1998",Florida State,26,Miami,14,1
+289,7,"Oct 10, 1998",Georgia Tech,47,NC State,24,1
+290,7,"Oct 10, 1998",Idaho,52,Arkansas State,14,1
+291,7,"Oct 10, 1998",Iowa,26,Northwestern,24,0
+292,7,"Oct 10, 1998",Colorado,9,Kansas State,16,0
+293,7,"Oct 10, 1998",Kentucky,33,South Carolina,28,0
+294,7,"Oct 10, 1998",Louisiana Tech,44,Louisiana-Monroe,14,1
+295,7,"Oct 10, 1998",Marshall,30,Ohio,23,1
+296,7,"Oct 10, 1998",Miami (OH),24,Bowling Green,12,0
+297,7,"Oct 10, 1998",Michigan State,38,Indiana,31,0
+298,7,"Oct 10, 1998",Mississippi State,38,Auburn,21,0
+299,7,"Oct 10, 1998",Missouri,35,Iowa State,19,1
+300,7,"Oct 10, 1998",New Mexico State,48,Nevada,45,1
+301,7,"Oct 10, 1998",North Carolina,29,Pitt,10,0
+302,7,"Oct 10, 1998",North Texas,21,Boise State,13,1
+303,7,"Oct 10, 1998",Arizona State,9,Notre Dame,28,0
+304,7,"Oct 10, 1998",Ohio State,41,Illinois,0,1
+305,7,"Oct 10, 1998",Oregon,51,Washington State,29,1
+306,7,"Oct 10, 1998",Oregon State,30,Stanford,23,1
+307,7,"Oct 10, 1998",Penn State,27,Minnesota,17,1
+308,7,"Oct 10, 1998",San Jose State,20,Rice,17,0
+309,7,"Oct 10, 1998",Southern Miss,56,Louisville,21,0
+310,7,"Oct 10, 1998",Syracuse,63,Cincinnati,21,0
+311,7,"Oct 10, 1998",Georgia,3,Tennessee,22,0
+312,7,"Oct 10, 1998",Texas,34,Oklahoma,3,0
+313,7,"Oct 10, 1998",Texas A&M,28,Nebraska,21,0
+314,7,"Oct 10, 1998",TCU,21,Fresno State,10,0
+315,7,"Oct 10, 1998",Texas Tech,24,Oklahoma State,17,0
+316,7,"Oct 10, 1998",UTEP,22,New Mexico,19,1
+317,7,"Oct 10, 1998",Ball State,6,Toledo,27,1
+318,7,"Oct 10, 1998",UCLA,52,Arizona,28,1
+319,7,"Oct 10, 1998",Washington,53,Utah State,12,0
+320,7,"Oct 10, 1998",Temple,7,West Virginia,37,0
+321,7,"Oct 10, 1998",Western Michigan,27,Vanderbilt,24,1
+322,7,"Oct 10, 1998",Wisconsin,31,Purdue,24,0
+323,7,"Oct 10, 1998",SMU,7,Wyoming,12,1
+324,8,"Oct 17, 1998",Alabama,23,East Carolina,22,0
+325,8,"Oct 17, 1998",Oregon State,7,Arizona,28,0
+326,8,"Oct 17, 1998",Arkansas,41,South Carolina,28,1
+327,8,"Oct 17, 1998",Boise State,24,Weber State,13,0
+328,8,"Oct 17, 1998",Hawaii,9,BYU,31,0
+329,8,"Oct 17, 1998",Colorado,19,Texas Tech,17,0
+330,8,"Oct 17, 1998",Colorado State,47,New Mexico State,28,1
+331,8,"Oct 17, 1998",Auburn,3,Florida,24,1
+332,8,"Oct 17, 1998",Florida State,48,Clemson,0,0
+333,8,"Oct 17, 1998",Vanderbilt,6,Georgia,31,1
+334,8,"Oct 17, 1998",Georgia Tech,41,Virginia,38,0
+335,8,"Oct 17, 1998",Idaho,26,Utah State,14,1
+336,8,"Oct 17, 1998",Iowa,7,Indiana,14,1
+337,8,"Oct 17, 1998",Kansas State,52,Oklahoma State,20,0
+338,8,"Oct 17, 1998",Kentucky,39,LSU,36,1
+339,8,"Oct 17, 1998",Louisiana,21,Arkansas State,19,0
+340,8,"Oct 17, 1998",Louisiana Tech,54,UAB,23,0
+341,8,"Oct 17, 1998",Kent State,7,Marshall,42,1
+342,8,"Oct 17, 1998",Memphis,41,Cincinnati,23,0
+343,8,"Oct 17, 1998",Miami (OH),28,Ball State,17,1
+344,8,"Oct 17, 1998",Northwestern,6,Michigan,12,0
+345,8,"Oct 17, 1998",East Tennessee State,6,Mississippi State,53,1
+346,8,"Oct 17, 1998",Oklahoma,6,Missouri,20,1
+347,8,"Oct 17, 1998",Navy,42,Colgate,35,0
+348,8,"Oct 17, 1998",Nebraska,41,Kansas,0,0
+349,8,"Oct 17, 1998",NC State,27,Duke,24,0
+350,8,"Oct 17, 1998",North Texas,27,Nevada,21,0
+351,8,"Oct 17, 1998",Central Michigan,6,Northern Illinois,16,1
+352,8,"Oct 17, 1998",Ohio,28,Akron,14,0
+353,8,"Oct 17, 1998",Ohio State,45,Minnesota,15,0
+354,8,"Oct 17, 1998",Penn State,31,Purdue,13,0
+355,8,"Oct 17, 1998",Rice,14,Tulsa,10,0
+356,8,"Oct 17, 1998",Rutgers,25,Pitt,21,1
+357,8,"Oct 17, 1998",San Diego State,36,New Mexico,33,1
+358,8,"Oct 17, 1998",USC,42,Washington State,14,1
+359,8,"Oct 17, 1998",TCU,6,SMU,10,1
+360,8,"Oct 17, 1998",Southern Miss,37,Army,13,1
+361,8,"Oct 17, 1998",Syracuse,42,Boston College,25,1
+362,8,"Oct 17, 1998",Temple,28,Virginia Tech,24,1
+363,8,"Oct 17, 1998",Texas A&M,35,Baylor,14,1
+364,8,"Oct 17, 1998",UTEP,28,San Jose State,21,0
+365,8,"Oct 17, 1998",Toledo,24,Bowling Green,16,0
+366,8,"Oct 17, 1998",Tulane,28,Louisville,22,0
+367,8,"Oct 17, 1998",UCLA,41,Oregon,38,0
+368,8,"Oct 17, 1998",Utah,24,Fresno State,16,0
+369,8,"Oct 17, 1998",Wake Forest,20,Maryland,10,1
+370,8,"Oct 17, 1998",Washington,21,California,13,0
+371,8,"Oct 17, 1998",Western Michigan,45,Eastern Michigan,35,0
+372,8,"Oct 17, 1998",Wisconsin,37,Illinois,3,1
+373,8,"Oct 17, 1998",Wyoming,28,UNLV,25,1
+374,9,"Oct 22, 1998",Arizona State,44,Stanford,38,0
+375,9,"Oct 24, 1998",Air Force,42,Tulsa,21,1
+376,9,"Oct 24, 1998",Louisiana-Monroe,7,Arizona,45,1
+377,9,"Oct 24, 1998",Auburn,32,Louisiana Tech,17,0
+378,9,"Oct 24, 1998",Boise State,30,Utah State,16,0
+379,9,"Oct 24, 1998",Bowling Green,42,Kent State,21,0
+380,9,"Oct 24, 1998",BYU,46,San Jose State,43,0
+381,9,"Oct 24, 1998",UCF,42,Louisiana,10,1
+382,9,"Oct 24, 1998",Central Michigan,26,Western Michigan,24,0
+383,9,"Oct 24, 1998",Colorado State,42,TCU,21,0
+384,9,"Oct 24, 1998",Duke,28,Clemson,23,0
+385,9,"Oct 24, 1998",Georgia Tech,7,Florida State,34,0
+386,9,"Oct 24, 1998",UTEP,6,Fresno State,32,1
+387,9,"Oct 24, 1998",Georgia,28,Kentucky,26,1
+388,9,"Oct 24, 1998",North Texas,9,Houston,31,0
+389,9,"Oct 24, 1998",Kansas,33,Colorado,17,0
+390,9,"Oct 24, 1998",Iowa State,7,Kansas State,52,1
+391,9,"Oct 24, 1998",Mississippi State,6,LSU,41,1
+392,9,"Oct 24, 1998",Louisville,35,Memphis,32,0
+393,9,"Oct 24, 1998",Marshall,42,Ball State,10,0
+394,9,"Oct 24, 1998",Miami,34,West Virginia,31,1
+395,9,"Oct 24, 1998",Miami (OH),41,Cincinnati,0,1
+396,9,"Oct 24, 1998",Michigan,21,Indiana,10,0
+397,9,"Oct 24, 1998",Minnesota,19,Michigan State,18,0
+398,9,"Oct 24, 1998",Ole Miss,30,Arkansas State,17,0
+399,9,"Oct 24, 1998",Navy,32,Boston College,31,1
+400,9,"Oct 24, 1998",Nebraska,20,Missouri,13,0
+401,9,"Oct 24, 1998",Nevada,58,Idaho,23,1
+402,9,"Oct 24, 1998",New Mexico,30,Hawaii,20,1
+403,9,"Oct 24, 1998",North Carolina,38,Wake Forest,31,1
+404,9,"Oct 24, 1998",Northern Illinois,26,Eastern Michigan,14,1
+405,9,"Oct 24, 1998",Notre Dame,20,Army,17,0
+406,9,"Oct 24, 1998",Ohio State,36,Northwestern,10,1
+407,9,"Oct 24, 1998",Oklahoma State,41,Oklahoma,26,0
+408,9,"Oct 24, 1998",Oregon,17,USC,13,0
+409,9,"Oct 24, 1998",Illinois,9,Purdue,42,1
+410,9,"Oct 24, 1998",San Diego State,21,Utah,20,0
+411,9,"Oct 24, 1998",UNLV,7,SMU,10,1
+412,9,"Oct 24, 1998",East Carolina,7,Southern Miss,41,1
+413,9,"Oct 24, 1998",Tennessee,35,Alabama,18,0
+414,9,"Oct 24, 1998",Texas,30,Baylor,20,0
+415,9,"Oct 24, 1998",Texas A&M,17,Texas Tech,10,0
+416,9,"Oct 24, 1998",Toledo,24,Akron,17,1
+417,9,"Oct 24, 1998",Tulane,52,Rutgers,24,1
+418,9,"Oct 24, 1998",UCLA,28,California,16,1
+419,9,"Oct 24, 1998",Vanderbilt,17,South Carolina,14,0
+420,9,"Oct 24, 1998",Virginia,23,NC State,13,0
+421,9,"Oct 24, 1998",Virginia Tech,41,UAB,0,1
+422,9,"Oct 24, 1998",Washington,35,Oregon State,34,0
+423,9,"Oct 24, 1998",Wisconsin,31,Iowa,0,1
+424,9,"Oct 24, 1998",Wyoming,34,Rice,24,0
+425,10,"Oct 29, 1998",BYU,13,San Diego State,0,0
+426,10,"Oct 31, 1998",SMU,7,Air Force,31,1
+427,10,"Oct 31, 1998",Alabama,30,Southern Miss,20,0
+428,10,"Oct 31, 1998",Arizona,38,Oregon,3,0
+429,10,"Oct 31, 1998",Arizona State,38,Washington State,28,1
+430,10,"Oct 31, 1998",Arkansas,24,Auburn,21,1
+431,10,"Oct 31, 1998",Bowling Green,34,Marshall,13,0
+432,10,"Oct 31, 1998",California,20,Oregon State,19,1
+433,10,"Oct 31, 1998",UCF,44,Youngstown State,32,0
+434,10,"Oct 31, 1998",Central Michigan,28,Akron,27,0
+435,10,"Oct 31, 1998",Georgia,7,Florida,38,1
+436,10,"Oct 31, 1998",Florida State,39,North Carolina,13,0
+437,10,"Oct 31, 1998",Fresno State,28,New Mexico,20,1
+438,10,"Oct 31, 1998",Georgia Tech,31,Maryland,14,1
+439,10,"Oct 31, 1998",Houston,34,East Carolina,31,1
+440,10,"Oct 31, 1998",Idaho,41,North Texas,23,1
+441,10,"Oct 31, 1998",Kansas,6,Kansas State,54,0
+442,10,"Oct 31, 1998",Louisiana Tech,56,Nicholls State,28,0
+443,10,"Oct 31, 1998",Louisiana-Monroe,20,UAB,14,0
+444,10,"Oct 31, 1998",Louisville,63,Western Kentucky,34,0
+445,10,"Oct 31, 1998",Memphis,35,Arkansas State,19,0
+446,10,"Oct 31, 1998",Miami,35,Boston College,17,0
+447,10,"Oct 31, 1998",Miami (OH),35,Ohio,21,0
+448,10,"Oct 31, 1998",Michigan,15,Minnesota,10,1
+449,10,"Oct 31, 1998",Northwestern,5,Michigan State,29,1
+450,10,"Oct 31, 1998",Ole Miss,37,LSU,31,0
+451,10,"Oct 31, 1998",Missouri,28,Texas Tech,26,1
+452,10,"Oct 31, 1998",Nevada,52,Boise State,24,0
+453,10,"Oct 31, 1998",NC State,46,Clemson,39,1
+454,10,"Oct 31, 1998",Baylor,3,Notre Dame,27,1
+455,10,"Oct 31, 1998",Indiana,7,Ohio State,38,0
+456,10,"Oct 31, 1998",Oklahoma,17,Iowa State,14,0
+457,10,"Oct 31, 1998",Penn State,27,Illinois,0,0
+458,10,"Oct 31, 1998",Purdue,36,Iowa,14,0
+459,10,"Oct 31, 1998",Rice,35,Colorado State,23,0
+460,10,"Oct 31, 1998",Rutgers,21,Temple,10,0
+461,10,"Oct 31, 1998",USC,33,Washington,10,0
+462,10,"Oct 31, 1998",Syracuse,45,Pitt,28,0
+463,10,"Oct 31, 1998",Tennessee,49,South Carolina,14,1
+464,10,"Oct 31, 1998",Texas,20,Nebraska,16,1
+465,10,"Oct 31, 1998",Oklahoma State,6,Texas A&M,17,0
+466,10,"Oct 31, 1998",UTEP,30,Hawaii,13,0
+467,10,"Oct 31, 1998",Northern Illinois,3,Toledo,16,0
+468,10,"Oct 31, 1998",Tulane,72,Louisiana,20,0
+469,10,"Oct 31, 1998",Tulsa,20,UNLV,16,1
+470,10,"Oct 31, 1998",UCLA,28,Stanford,24,0
+471,10,"Oct 31, 1998",Utah,49,San Jose State,17,1
+472,10,"Oct 31, 1998",Utah State,29,New Mexico State,26,1
+473,10,"Oct 31, 1998",Vanderbilt,36,Duke,33,0
+474,10,"Oct 31, 1998",Virginia,38,Wake Forest,17,1
+475,10,"Oct 31, 1998",Virginia Tech,27,West Virginia,13,0
+476,10,"Oct 31, 1998",Western Michigan,48,Kent State,23,1
+477,10,"Oct 31, 1998",Wyoming,34,TCU,27,1
+478,11,"Nov 5, 1998",East Carolina,24,Cincinnati,21,1
+479,11,"Nov 7, 1998",Army,7,Air Force,35,0
+480,11,"Nov 7, 1998",Alabama,22,LSU,16,1
+481,11,"Nov 7, 1998",Washington State,7,Arizona,41,1
+482,11,"Nov 7, 1998",Arizona State,55,California,22,0
+483,11,"Nov 7, 1998",Arkansas,34,Ole Miss,0,0
+484,11,"Nov 7, 1998",UCF,6,Auburn,10,1
+485,11,"Nov 7, 1998",Boise State,55,New Mexico State,51,1
+486,11,"Nov 7, 1998",Bowling Green,58,Akron,21,0
+487,11,"Nov 7, 1998",BYU,46,New Mexico,21,0
+488,11,"Nov 7, 1998",Florida,45,Vanderbilt,13,1
+489,11,"Nov 7, 1998",Florida State,45,Virginia,14,0
+490,11,"Nov 7, 1998",Illinois,31,Indiana,16,0
+491,11,"Nov 7, 1998",Kansas,23,North Texas,14,0
+492,11,"Nov 7, 1998",Baylor,6,Kansas State,49,0
+493,11,"Nov 7, 1998",Kentucky,37,Mississippi State,35,0
+494,11,"Nov 7, 1998",Louisiana Tech,69,Arkansas State,21,1
+495,11,"Nov 7, 1998",Louisiana-Monroe,34,Louisiana,24,0
+496,11,"Nov 7, 1998",Marshall,28,Central Michigan,0,0
+497,11,"Nov 7, 1998",Miami (OH),41,Northern Illinois,10,1
+498,11,"Nov 7, 1998",Michigan,27,Penn State,0,0
+499,11,"Nov 7, 1998",Michigan State,28,Ohio State,24,1
+500,11,"Nov 7, 1998",Missouri,38,Colorado,14,0
+501,11,"Nov 7, 1998",Iowa State,7,Nebraska,42,0
+502,11,"Nov 7, 1998",Nevada,26,Utah State,21,1
+503,11,"Nov 7, 1998",North Carolina,24,Maryland,13,0
+504,11,"Nov 7, 1998",NC State,38,Wake Forest,27,0
+505,11,"Nov 7, 1998",Notre Dame,31,Boston College,26,1
+506,11,"Nov 7, 1998",Ohio,49,Eastern Michigan,21,0
+507,11,"Nov 7, 1998",Oregon,27,Washington,22,0
+508,11,"Nov 7, 1998",Purdue,56,Northwestern,21,1
+509,11,"Nov 7, 1998",Rice,14,TCU,12,1
+510,11,"Nov 7, 1998",Rutgers,36,Navy,33,1
+511,11,"Nov 7, 1998",San Diego State,10,Fresno State,0,0
+512,11,"Nov 7, 1998",San Jose State,45,Hawaii,17,1
+513,11,"Nov 7, 1998",Stanford,9,USC,34,0
+514,11,"Nov 7, 1998",SMU,33,Tulsa,3,0
+515,11,"Nov 7, 1998",Southern Miss,21,Houston,15,1
+516,11,"Nov 7, 1998",Temple,34,Pitt,33,1
+517,11,"Nov 7, 1998",Tennessee,37,UAB,13,0
+518,11,"Nov 7, 1998",Texas,37,Oklahoma State,34,0
+519,11,"Nov 7, 1998",Texas A&M,29,Oklahoma,0,0
+520,11,"Nov 7, 1998",Tulane,41,Memphis,31,1
+521,11,"Nov 7, 1998",UCLA,41,Oregon State,34,1
+522,11,"Nov 7, 1998",Utah,34,UTEP,27,0
+523,11,"Nov 7, 1998",West Virginia,35,Syracuse,28,0
+524,11,"Nov 7, 1998",Western Michigan,24,Ball State,23,1
+525,11,"Nov 7, 1998",Minnesota,7,Wisconsin,26,1
+526,11,"Nov 7, 1998",Wyoming,27,Colorado State,19,1
+527,12,"Nov 12, 1998",Georgia Tech,24,Clemson,21,1
+528,12,"Nov 14, 1998",Wyoming,3,Air Force,10,0
+529,12,"Nov 14, 1998",Akron,24,Eastern Michigan,21,0
+530,12,"Nov 14, 1998",UAB,26,Middle Tennessee,17,0
+531,12,"Nov 14, 1998",Arizona,27,California,23,1
+532,12,"Nov 14, 1998",Arkansas State,17,Louisiana-Monroe,13,0
+533,12,"Nov 14, 1998",Boston College,23,Pitt,15,1
+534,12,"Nov 14, 1998",BYU,31,UTEP,14,1
+535,12,"Nov 14, 1998",UCF,37,Ball State,14,0
+536,12,"Nov 14, 1998",Cincinnati,44,Houston,43,0
+537,12,"Nov 14, 1998",Iowa State,8,Colorado,37,1
+538,12,"Nov 14, 1998",Colorado State,32,SMU,10,1
+539,12,"Nov 14, 1998",Florida,33,South Carolina,14,0
+540,12,"Nov 14, 1998",Wake Forest,7,Florida State,24,0
+541,12,"Nov 14, 1998",Fresno State,51,Hawaii,12,0
+542,12,"Nov 14, 1998",Georgia,28,Auburn,17,1
+543,12,"Nov 14, 1998",Idaho,36,New Mexico State,32,0
+544,12,"Nov 14, 1998",Indiana,20,Minnesota,19,0
+545,12,"Nov 14, 1998",Kansas State,40,Nebraska,30,0
+546,12,"Nov 14, 1998",Kentucky,55,Vanderbilt,17,0
+547,12,"Nov 14, 1998",Louisville,63,East Carolina,45,1
+548,12,"Nov 14, 1998",Maryland,42,Duke,25,1
+549,12,"Nov 14, 1998",Temple,7,Miami,42,0
+550,12,"Nov 14, 1998",Miami (OH),56,Kent State,0,0
+551,12,"Nov 14, 1998",Michigan,27,Wisconsin,10,0
+552,12,"Nov 14, 1998",Mississippi State,26,Alabama,14,0
+553,12,"Nov 14, 1998",Nevada,63,Cal Poly,0,0
+554,12,"Nov 14, 1998",Notre Dame,30,Navy,0,1
+555,12,"Nov 14, 1998",Ohio,28,Northern Illinois,12,0
+556,12,"Nov 14, 1998",Ohio State,45,Iowa,14,1
+557,12,"Nov 14, 1998",Oklahoma,28,Baylor,16,1
+558,12,"Nov 14, 1998",Oklahoma State,44,Louisiana,20,0
+559,12,"Nov 14, 1998",Oregon,51,Arizona State,19,0
+560,12,"Nov 14, 1998",Penn State,41,Northwestern,10,0
+561,12,"Nov 14, 1998",Purdue,25,Michigan State,24,1
+562,12,"Nov 14, 1998",Rice,38,UNLV,16,0
+563,12,"Nov 14, 1998",San Jose State,6,San Diego State,34,0
+564,12,"Nov 14, 1998",Southern Miss,45,Memphis,3,0
+565,12,"Nov 14, 1998",Stanford,38,Washington State,28,0
+566,12,"Nov 14, 1998",Syracuse,28,Virginia Tech,26,0
+567,12,"Nov 14, 1998",Tennessee,28,Arkansas,24,0
+568,12,"Nov 14, 1998",Texas A&M,17,Missouri,14,0
+569,12,"Nov 14, 1998",Tulsa,7,TCU,17,0
+570,12,"Nov 14, 1998",Texas Tech,42,Texas,35,0
+571,12,"Nov 14, 1998",Toledo,17,Central Michigan,14,0
+572,12,"Nov 14, 1998",Tulane,49,Army,35,1
+573,12,"Nov 14, 1998",UCLA,36,Washington,24,1
+574,12,"Nov 14, 1998",New Mexico,7,Utah,41,0
+575,12,"Nov 14, 1998",Utah State,28,North Texas,27,0
+576,12,"Nov 14, 1998",Virginia,30,North Carolina,13,0
+577,12,"Nov 14, 1998",West Virginia,28,Rutgers,14,1
+578,12,"Nov 14, 1998",Western Michigan,56,Bowling Green,27,0
+579,13,"Nov 19, 1998",Miami,38,Pitt,10,0
+580,13,"Nov 21, 1998",Air Force,22,Rice,16,0
+581,13,"Nov 21, 1998",Alabama,31,Auburn,17,0
+582,13,"Nov 21, 1998",UAB,48,Tennessee-Martin,17,0
+583,13,"Nov 21, 1998",Bowling Green,34,Northern Illinois,23,1
+584,13,"Nov 21, 1998",BYU,26,Utah,24,1
+585,13,"Nov 21, 1998",New Mexico,6,UCF,38,1
+586,13,"Nov 21, 1998",Central Michigan,31,Ball State,21,0
+587,13,"Nov 21, 1998",Arkansas State,7,Cincinnati,51,0
+588,13,"Nov 21, 1998",Clemson,28,South Carolina,19,0
+589,13,"Nov 21, 1998",East Carolina,34,Memphis,31,1
+590,13,"Nov 21, 1998",Toledo,7,Eastern Michigan,10,1
+591,13,"Nov 21, 1998",Florida State,23,Florida,12,0
+592,13,"Nov 21, 1998",Fresno State,24,San Jose State,21,0
+593,13,"Nov 21, 1998",Georgia,24,Ole Miss,17,0
+594,13,"Nov 21, 1998",Georgia Tech,63,Wake Forest,35,0
+595,13,"Nov 21, 1998",Idaho,36,Boise State,35,1
+596,13,"Nov 21, 1998",Iowa State,23,Kansas,20,0
+597,13,"Nov 21, 1998",Kansas State,31,Missouri,25,1
+598,13,"Nov 21, 1998",Louisiana,38,Western Kentucky,24,0
+599,13,"Nov 21, 1998",Louisiana-Monroe,43,Portland State,27,0
+600,13,"Nov 21, 1998",Louisville,35,Army,23,0
+601,13,"Nov 21, 1998",Marshall,29,Wofford,27,0
+602,13,"Nov 21, 1998",Miami (OH),20,Akron,14,1
+603,13,"Nov 21, 1998",Illinois,9,Michigan State,41,1
+604,13,"Nov 21, 1998",Iowa,7,Minnesota,49,1
+605,13,"Nov 21, 1998",Mississippi State,22,Arkansas,21,0
+606,13,"Nov 21, 1998",Duke,6,North Carolina,28,0
+607,13,"Nov 21, 1998",NC State,35,Maryland,21,1
+608,13,"Nov 21, 1998",North Texas,19,New Mexico State,11,0
+609,13,"Nov 21, 1998",Northwestern,47,Hawaii,21,1
+610,13,"Nov 21, 1998",Notre Dame,39,LSU,36,0
+611,13,"Nov 21, 1998",Ohio,31,Kent State,21,1
+612,13,"Nov 21, 1998",Ohio State,31,Michigan,16,0
+613,13,"Nov 21, 1998",Oklahoma,20,Texas Tech,17,0
+614,13,"Nov 21, 1998",Oklahoma State,24,Baylor,10,0
+615,13,"Nov 21, 1998",Oregon State,44,Oregon,41,0
+616,13,"Nov 21, 1998",Indiana,7,Purdue,52,1
+617,13,"Nov 21, 1998",San Diego State,34,UTEP,29,0
+618,13,"Nov 21, 1998",SMU,24,Navy,11,1
+619,13,"Nov 21, 1998",Southern Miss,55,Nevada,28,1
+620,13,"Nov 21, 1998",California,3,Stanford,10,0
+621,13,"Nov 21, 1998",Temple,7,Syracuse,38,0
+622,13,"Nov 21, 1998",Tennessee,59,Kentucky,21,0
+623,13,"Nov 21, 1998",TCU,41,UNLV,18,1
+624,13,"Nov 21, 1998",Tulane,48,Houston,20,0
+625,13,"Nov 21, 1998",Tulsa,35,Wyoming,0,0
+626,13,"Nov 21, 1998",UCLA,34,USC,17,0
+627,13,"Nov 21, 1998",Rutgers,7,Virginia Tech,47,1
+628,13,"Nov 21, 1998",Washington State,9,Washington,16,0
+629,13,"Nov 21, 1998",West Virginia,35,Boston College,10,0
+630,13,"Nov 21, 1998",Penn State,3,Wisconsin,24,1
+631,14,"Nov 26, 1998",Ole Miss,6,Mississippi State,28,0
+632,14,"Nov 26, 1998",Tulane,63,Louisiana Tech,30,0
+633,14,"Nov 27, 1998",Arizona,50,Arizona State,42,0
+634,14,"Nov 27, 1998",Arkansas,41,LSU,14,0
+635,14,"Nov 27, 1998",Nebraska,16,Colorado,14,0
+636,14,"Nov 27, 1998",Texas,26,Texas A&M,24,0
+637,14,"Nov 27, 1998",West Virginia,52,Pitt,14,1
+638,14,"Nov 28, 1998",Georgia Tech,21,Georgia,19,1
+639,14,"Nov 28, 1998",Michigan,48,Hawaii,17,1
+640,14,"Nov 28, 1998",North Carolina,37,NC State,34,0
+641,14,"Nov 28, 1998",Penn State,51,Michigan State,28,0
+642,14,"Nov 28, 1998",USC,10,Notre Dame,0,0
+643,14,"Nov 28, 1998",Syracuse,66,Miami,13,0
+644,14,"Nov 28, 1998",Tennessee,41,Vanderbilt,0,1
+645,14,"Nov 28, 1998",Virginia,36,Virginia Tech,32,1
+646,15,"Dec 4, 1998",Marshall,23,Toledo,17,0
+647,15,"Dec 5, 1998",Air Force,20,BYU,13,0
+648,15,"Dec 5, 1998",Army,34,Navy,30,0
+649,15,"Dec 5, 1998",Miami,49,UCLA,45,0
+650,15,"Dec 5, 1998",Tennessee,24,Mississippi State,14,0
+651,15,"Dec 5, 1998",Texas A&M,36,Kansas State,33,0
+652,16,"Dec 19, 1998",North Carolina,20,San Diego State,13,0
+653,17,"Dec 23, 1998",Marshall,48,Louisville,29,0
+654,17,"Dec 25, 1998",Air Force,45,Washington,25,0
+655,17,"Dec 25, 1998",Colorado,51,Oregon,43,0
+656,17,"Dec 26, 1998",Missouri,34,West Virginia,31,0
+657,18,"Dec 29, 1998",Miami,46,NC State,23,0
+658,18,"Dec 29, 1998",Purdue,37,Kansas State,34,0
+659,18,"Dec 29, 1998",Alabama,7,Virginia Tech,38,1
+660,18,"Dec 30, 1998",Arizona,23,Nebraska,20,0
+661,18,"Dec 30, 1998",Idaho,42,Southern Miss,35,0
+662,18,"Dec 31, 1998",Georgia,35,Virginia,33,0
+663,18,"Dec 31, 1998",Ole Miss,35,Texas Tech,18,0
+664,18,"Dec 31, 1998",TCU,28,USC,19,0
+665,18,"Dec 31, 1998",Tulane,41,BYU,27,0
+666,18,"Jan 1, 1999",Georgia Tech,35,Notre Dame,28,0
+667,18,"Jan 1, 1999",Michigan,45,Arkansas,31,0
+668,18,"Jan 1, 1999",Ohio State,24,Texas A&M,14,0
+669,18,"Jan 1, 1999",Penn State,26,Kentucky,14,0
+670,18,"Jan 1, 1999",Texas,38,Mississippi State,11,0
+671,18,"Jan 1, 1999",Wisconsin,38,UCLA,31,1
+672,18,"Jan 2, 1999",Florida,31,Syracuse,10,0
+673,19,"Jan 4, 1999",Tennessee,23,Florida State,16,0

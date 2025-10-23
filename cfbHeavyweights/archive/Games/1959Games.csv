@@ -1,0 +1,597 @@
+0,1,"Sep 12, 1959",New Mexico State,35,Northern Arizona,0,0
+1,1,"Sep 12, 1959",North Dakota,27,Montana,19,1
+2,1,"Sep 13, 1959",St. Ambrose,7,Xavier,27,1
+3,2,"Sep 18, 1959",George Washington,6,Detroit Mercy,38,0
+4,2,"Sep 18, 1959",Florida,30,Tulane,0,1
+5,2,"Sep 18, 1959",UCLA,0,Purdue,0,0
+6,2,"Sep 18, 1959",San Jose State,14,Denver,13,1
+7,2,"Sep 19, 1959",Arizona State,43,West Texas State,22,0
+8,2,"Sep 19, 1959",Arkansas,28,Tulsa,0,0
+9,2,"Sep 19, 1959",BYU,18,Arizona,14,1
+10,2,"Sep 19, 1959",Washington State,6,California,20,0
+11,2,"Sep 19, 1959",Oklahoma State,9,Cincinnati,22,0
+12,2,"Sep 19, 1959",Citadel,48,Newberry,0,0
+13,2,"Sep 19, 1959",Clemson,20,North Carolina,18,1
+14,2,"Sep 19, 1959",Colorado State,9,Pacific,6,1
+15,2,"Sep 19, 1959",Catawba College,6,Davidson,42,1
+16,2,"Sep 19, 1959",Dayton,6,Richmond,3,0
+17,2,"Sep 19, 1959",Alabama,3,Georgia,17,1
+18,2,"Sep 19, 1959",Georgia Tech,14,Kentucky,12,1
+19,2,"Sep 19, 1959",Iowa State,41,Drake,0,1
+20,2,"Sep 19, 1959",Rice,3,LSU,26,1
+21,2,"Sep 19, 1959",West Virginia,7,Maryland,27,1
+22,2,"Sep 19, 1959",Ole Miss,16,Houston,0,1
+23,2,"Sep 19, 1959",Boston College,8,Navy,24,0
+24,2,"Sep 19, 1959",New Mexico State,29,New Mexico,12,1
+25,2,"Sep 19, 1959",NC State,15,Virginia Tech,13,0
+26,2,"Sep 19, 1959",North Texas,46,Hardin-Simmons,24,1
+27,2,"Sep 19, 1959",Oregon,28,Stanford,27,1
+28,2,"Sep 19, 1959",Missouri,8,Penn State,19,0
+29,2,"Sep 19, 1959",Pitt,21,Marquette,15,1
+30,2,"Sep 19, 1959",Presbyterian,24,Furman,23,1
+31,2,"Sep 19, 1959",Duke,7,South Carolina,12,1
+32,2,"Sep 19, 1959",Oregon State,6,USC,27,0
+33,2,"Sep 19, 1959",Texas,20,Nebraska,0,1
+34,2,"Sep 19, 1959",Kansas,7,TCU,14,1
+35,2,"Sep 19, 1959",Texas Tech,20,Texas A&M,14,0
+36,2,"Sep 19, 1959",University of Mexico,8,UTEP,43,1
+37,2,"Sep 19, 1959",Utah State,14,Idaho,0,0
+38,2,"Sep 19, 1959",Virginia Military Institute,46,Marshall,0,1
+39,2,"Sep 19, 1959",Wake Forest,22,Florida State,20,1
+40,2,"Sep 19, 1959",Washington,21,Colorado,12,1
+41,2,"Sep 19, 1959",Villanova,7,West Chester,13,0
+42,2,"Sep 19, 1959",Wichita State,19,Kansas State,0,1
+43,2,"Sep 19, 1959",William & Mary,37,Virginia,0,1
+44,2,"Sep 19, 1959",Wyoming,58,Montana,0,0
+45,2,"Sep 19, 1959",Xavier,28,Louisville,13,0
+46,3,"Sep 25, 1959",George Washington,18,Boston University,14,1
+47,3,"Sep 25, 1959",Iowa State,28,Denver,12,1
+48,3,"Sep 25, 1959",Tulane,7,Miami,26,1
+49,3,"Sep 25, 1959",USC,23,Pitt,0,0
+50,3,"Sep 26, 1959",Wyoming,7,Air Force,20,0
+51,3,"Sep 26, 1959",Alabama,3,Houston,0,1
+52,3,"Sep 26, 1959",Arizona,7,West Texas State,6,1
+53,3,"Sep 26, 1959",Arizona State,34,Utah State,12,0
+54,3,"Sep 26, 1959",Oklahoma State,7,Arkansas,13,1
+55,3,"Sep 26, 1959",Boston College,8,Army,44,1
+56,3,"Sep 26, 1959",Colorado,7,Baylor,15,0
+57,3,"Sep 26, 1959",Dayton,7,Cincinnati,21,1
+58,3,"Sep 26, 1959",Clemson,47,Virginia,0,1
+59,3,"Sep 26, 1959",New Mexico,9,Colorado State,14,1
+60,3,"Sep 26, 1959",Brown,6,Columbia,21,0
+61,3,"Sep 26, 1959",Cornell,20,Colgate,15,1
+62,3,"Sep 26, 1959",Detroit Mercy,14,Marquette,0,1
+63,3,"Sep 26, 1959",Florida,14,Mississippi State,13,0
+64,3,"Sep 26, 1959",Citadel,6,Florida State,47,1
+65,3,"Sep 26, 1959",Fresno State,27,BYU,16,0
+66,3,"Sep 26, 1959",Vanderbilt,6,Georgia,21,1
+67,3,"Sep 26, 1959",Georgia Tech,16,SMU,12,0
+68,3,"Sep 26, 1959",Harvard,36,Massachusetts,22,0
+69,3,"Sep 26, 1959",Dartmouth,8,Holy Cross,31,0
+70,3,"Sep 26, 1959",Indiana,20,Illinois,0,0
+71,3,"Sep 26, 1959",Iowa,42,California,12,1
+72,3,"Sep 26, 1959",Kansas State,28,South Dakota State,12,1
+73,3,"Sep 26, 1959",LSU,10,TCU,0,0
+74,3,"Sep 26, 1959",Ole Miss,16,Kentucky,0,1
+75,3,"Sep 26, 1959",Missouri,20,Michigan,15,1
+76,3,"Sep 26, 1959",Navy,29,William & Mary,2,0
+77,3,"Sep 26, 1959",Nebraska,32,Minnesota,12,1
+78,3,"Sep 26, 1959",UTEP,7,North Texas,31,0
+79,3,"Sep 26, 1959",Northwestern,45,Oklahoma,13,0
+80,3,"Sep 26, 1959",North Carolina,8,Notre Dame,28,1
+81,3,"Sep 26, 1959",Ohio State,14,Duke,13,0
+82,3,"Sep 26, 1959",Utah,6,Oregon,21,1
+83,3,"Sep 26, 1959",Penn State,21,Virginia Military Institute,0,0
+84,3,"Sep 26, 1959",Pennsylvania,26,Lafayette,0,0
+85,3,"Sep 26, 1959",Presbyterian,25,Davidson,21,1
+86,3,"Sep 26, 1959",Rutgers,8,Princeton,6,1
+87,3,"Sep 26, 1959",South Carolina,30,Furman,0,0
+88,3,"Sep 26, 1959",Syracuse,35,Kansas,21,0
+89,3,"Sep 26, 1959",Tennessee,3,Auburn,0,0
+90,3,"Sep 26, 1959",Texas,26,Maryland,0,0
+91,3,"Sep 26, 1959",Texas A&M,9,Michigan State,7,1
+92,3,"Sep 26, 1959",Texas Tech,15,Oregon State,14,0
+93,3,"Sep 26, 1959",Tulsa,28,New Mexico State,27,0
+94,3,"Sep 26, 1959",Wake Forest,27,Virginia Tech,18,0
+95,3,"Sep 26, 1959",Washington,23,Idaho,0,0
+96,3,"Sep 26, 1959",San Jose State,6,Washington State,30,0
+97,3,"Sep 26, 1959",Richmond,7,West Virginia,10,1
+98,3,"Sep 26, 1959",Wichita State,27,Hardin-Simmons,13,0
+99,3,"Sep 26, 1959",Wisconsin,16,Stanford,14,0
+100,3,"Sep 26, 1959",Yale,20,Connecticut,0,0
+101,3,"Sep 27, 1959",Xavier,48,Villanova,20,0
+102,4,"Oct 2, 1959",Furman,7,Chattanooga,20,1
+103,4,"Oct 2, 1959",Detroit Mercy,7,Kentucky,32,0
+104,4,"Oct 2, 1959",USC,17,Ohio State,0,0
+105,4,"Oct 2, 1959",George Washington,8,West Virginia,10,0
+106,4,"Oct 3, 1959",Trinity (Texas),6,Air Force,27,0
+107,4,"Oct 3, 1959",Vanderbilt,7,Alabama,7,0
+108,4,"Oct 3, 1959",Arizona,16,Idaho,14,0
+109,4,"Oct 3, 1959",Arizona State,31,Montana State,14,0
+110,4,"Oct 3, 1959",Arkansas,3,TCU,0,0
+111,4,"Oct 3, 1959",Auburn,35,Hardin-Simmons,12,0
+112,4,"Oct 3, 1959",Bowling Green,14,Dayton,0,0
+113,4,"Oct 3, 1959",Davidson,7,Citadel,13,1
+114,4,"Oct 3, 1959",Colorado State,15,Denver,0,0
+115,4,"Oct 3, 1959",Lehigh,6,Cornell,13,1
+116,4,"Oct 3, 1959",Rice,7,Duke,24,1
+117,4,"Oct 3, 1959",Florida,55,Virginia,10,0
+118,4,"Oct 3, 1959",Clemson,6,Georgia Tech,16,1
+119,4,"Oct 3, 1959",Bucknell,6,Harvard,20,1
+120,4,"Oct 3, 1959",Holy Cross,20,Villanova,0,0
+121,4,"Oct 3, 1959",Houston,13,Cincinnati,12,0
+122,4,"Oct 3, 1959",Illinois,20,Army,14,0
+123,4,"Oct 3, 1959",Boston University,7,Kansas,28,1
+124,4,"Oct 3, 1959",LSU,22,Baylor,0,0
+125,4,"Oct 3, 1959",Miami,7,Florida State,6,1
+126,4,"Oct 3, 1959",Xavier,7,Miami (OH),33,1
+127,4,"Oct 3, 1959",Michigan,8,Michigan State,34,0
+128,4,"Oct 3, 1959",Minnesota,24,Indiana,14,0
+129,4,"Oct 3, 1959",Ole Miss,43,Memphis,0,0
+130,4,"Oct 3, 1959",Missouri,14,Iowa State,0,1
+131,4,"Oct 3, 1959",Montana,12,BYU,0,1
+132,4,"Oct 3, 1959",Nebraska,7,Oregon State,6,0
+133,4,"Oct 3, 1959",UTEP,7,New Mexico,17,1
+134,4,"Oct 3, 1959",New Mexico State,43,McMurry,11,0
+135,4,"Oct 3, 1959",North Carolina,20,NC State,12,0
+136,4,"Oct 3, 1959",West Texas State,6,North Texas,28,1
+137,4,"Oct 3, 1959",Northwestern,14,Iowa,10,1
+138,4,"Oct 3, 1959",Oklahoma,42,Colorado,12,0
+139,4,"Oct 3, 1959",Oklahoma State,27,Kansas State,21,1
+140,4,"Oct 3, 1959",Washington State,6,Oregon,14,1
+141,4,"Oct 3, 1959",Penn State,58,Colgate,20,0
+142,4,"Oct 3, 1959",Pennsylvania,13,Dartmouth,0,0
+143,4,"Oct 3, 1959",Pitt,25,UCLA,21,0
+144,4,"Oct 3, 1959",Princeton,22,Columbia,0,1
+145,4,"Oct 3, 1959",Notre Dame,7,Purdue,28,1
+146,4,"Oct 3, 1959",Connecticut,8,Rutgers,20,1
+147,4,"Oct 3, 1959",San Jose State,44,Hawaii,14,0
+148,4,"Oct 3, 1959",South Carolina,30,Georgia,14,0
+149,4,"Oct 3, 1959",Navy,7,SMU,20,1
+150,4,"Oct 3, 1959",Pacific,6,Stanford,21,1
+151,4,"Oct 3, 1959",Syracuse,29,Maryland,0,0
+152,4,"Oct 3, 1959",Mississippi State,6,Tennessee,22,1
+153,4,"Oct 3, 1959",Texas,33,California,0,0
+154,4,"Oct 3, 1959",Texas A&M,7,Southern Miss,3,1
+155,4,"Oct 3, 1959",Texas Tech,8,Tulsa,7,0
+156,4,"Oct 3, 1959",Tulane,6,Wake Forest,0,0
+157,4,"Oct 3, 1959",Virginia Military Institute,14,Richmond,14,0
+158,4,"Oct 3, 1959",Virginia Tech,20,William & Mary,14,0
+159,4,"Oct 3, 1959",Utah,6,Washington,51,1
+160,4,"Oct 3, 1959",Marquette,6,Wisconsin,44,1
+161,4,"Oct 3, 1959",Wyoming,27,Utah State,2,0
+162,4,"Oct 3, 1959",Yale,17,Brown,0,0
+163,5,"Oct 9, 1959",Boston University,7,West Virginia,0,0
+164,5,"Oct 9, 1959",Wofford,8,Citadel,40,1
+165,5,"Oct 9, 1959",Oregon,35,San Jose State,12,1
+166,5,"Oct 9, 1959",SMU,23,Missouri,2,0
+167,5,"Oct 9, 1959",Tulane,25,Detroit Mercy,0,0
+168,5,"Oct 9, 1959",BYU,8,Utah,20,1
+169,5,"Oct 9, 1959",Wichita State,21,George Washington,0,1
+170,5,"Oct 10, 1959",Air Force,21,Idaho,0,0
+171,5,"Oct 10, 1959",Alabama,13,Chattanooga,0,0
+172,5,"Oct 10, 1959",Baylor,7,Arkansas,23,0
+173,5,"Oct 10, 1959",Auburn,33,Kentucky,0,0
+174,5,"Oct 10, 1959",Villanova,6,Boston College,39,1
+175,5,"Oct 10, 1959",Dartmouth,0,Brown,0,0
+176,5,"Oct 10, 1959",Clemson,23,NC State,0,0
+177,5,"Oct 10, 1959",Colorado,20,Kansas State,17,1
+178,5,"Oct 10, 1959",Cornell,20,Harvard,16,1
+179,5,"Oct 10, 1959",Denver,27,Montana,12,1
+180,5,"Oct 10, 1959",Rice,13,Florida,13,0
+181,5,"Oct 10, 1959",Florida State,7,Virginia Tech,6,1
+182,5,"Oct 10, 1959",Furman,8,William & Mary,7,1
+183,5,"Oct 10, 1959",Hardin-Simmons,6,Georgia,35,1
+184,5,"Oct 10, 1959",Tennessee,7,Georgia Tech,14,0
+185,5,"Oct 10, 1959",Holy Cross,8,Dayton,0,0
+186,5,"Oct 10, 1959",Illinois,9,Ohio State,0,1
+187,5,"Oct 10, 1959",Indiana,33,Marquette,13,0
+188,5,"Oct 10, 1959",Michigan State,8,Iowa,37,1
+189,5,"Oct 10, 1959",South Dakota,6,Iowa State,41,1
+190,5,"Oct 10, 1959",Nebraska,3,Kansas,10,0
+191,5,"Oct 10, 1959",Miami,3,LSU,27,1
+192,5,"Oct 10, 1959",Oregon State,7,Michigan,18,1
+193,5,"Oct 10, 1959",Ole Miss,33,Vanderbilt,0,1
+194,5,"Oct 10, 1959",Mississippi State,49,Arkansas State,14,0
+195,5,"Oct 10, 1959",Utah State,6,New Mexico,28,0
+196,5,"Oct 10, 1959",New Mexico State,20,Trinity (Texas),18,1
+197,5,"Oct 10, 1959",South Carolina,6,North Carolina,19,1
+198,5,"Oct 10, 1959",Cincinnati,6,North Texas,21,0
+199,5,"Oct 10, 1959",Northwestern,6,Minnesota,0,0
+200,5,"Oct 10, 1959",California,6,Notre Dame,28,0
+201,5,"Oct 10, 1959",Xavier,7,Ohio,25,1
+202,5,"Oct 10, 1959",Oklahoma State,26,Tulsa,0,0
+203,5,"Oct 10, 1959",Penn State,17,Army,11,1
+204,5,"Oct 10, 1959",Pennsylvania,18,Princeton,0,1
+205,5,"Oct 10, 1959",Pitt,12,Duke,0,0
+206,5,"Oct 10, 1959",Purdue,21,Wisconsin,0,0
+207,5,"Oct 10, 1959",Davidson,7,Richmond,21,1
+208,5,"Oct 10, 1959",Rutgers,15,Colgate,12,0
+209,5,"Oct 10, 1959",Navy,6,Syracuse,32,0
+210,5,"Oct 10, 1959",Texas,19,Oklahoma,12,0
+211,5,"Oct 10, 1959",Houston,6,Texas A&M,28,1
+212,5,"Oct 10, 1959",Texas Tech,8,TCU,14,0
+213,5,"Oct 10, 1959",UTEP,13,West Texas State,12,0
+214,5,"Oct 10, 1959",Virginia Military Institute,19,Virginia,12,0
+215,5,"Oct 10, 1959",Maryland,7,Wake Forest,10,0
+216,5,"Oct 10, 1959",Washington,10,Stanford,0,0
+217,5,"Oct 10, 1959",Washington State,20,Pacific,12,1
+218,5,"Oct 10, 1959",Wyoming,29,Colorado State,0,0
+219,5,"Oct 10, 1959",Yale,14,Columbia,0,0
+220,6,"Oct 16, 1959",Navy,8,Miami,23,1
+221,6,"Oct 16, 1959",Utah,26,Denver,12,1
+222,6,"Oct 17, 1959",Colorado State,9,Arizona State,24,0
+223,6,"Oct 17, 1959",Duke,6,Army,21,0
+224,6,"Oct 17, 1959",Auburn,7,Georgia Tech,6,1
+225,6,"Oct 17, 1959",Texas Tech,7,Baylor,14,1
+226,6,"Oct 17, 1959",Boston College,35,Dartmouth,12,0
+227,6,"Oct 17, 1959",Rutgers,8,Bucknell,15,1
+228,6,"Oct 17, 1959",Wichita State,28,Cincinnati,28,0
+229,6,"Oct 17, 1959",Citadel,8,Richmond,7,0
+230,6,"Oct 17, 1959",Detroit Mercy,38,Xavier,14,0
+231,6,"Oct 17, 1959",Furman,24,George Washington,0,0
+232,6,"Oct 17, 1959",Georgia,15,Mississippi State,0,0
+233,6,"Oct 17, 1959",Harvard,38,Columbia,22,0
+234,6,"Oct 17, 1959",Minnesota,6,Illinois,14,1
+235,6,"Oct 17, 1959",Nebraska,7,Indiana,23,0
+236,6,"Oct 17, 1959",Iowa State,27,Colorado,0,1
+237,6,"Oct 17, 1959",Kansas,33,Kansas State,14,0
+238,6,"Oct 17, 1959",LSU,9,Kentucky,0,1
+239,6,"Oct 17, 1959",Dayton,6,Louisville,32,1
+240,6,"Oct 17, 1959",North Carolina,7,Maryland,14,1
+241,6,"Oct 17, 1959",Florida State,6,Memphis,16,1
+242,6,"Oct 17, 1959",Villanova,6,Miami (OH),26,1
+243,6,"Oct 17, 1959",Michigan State,19,Notre Dame,0,0
+244,6,"Oct 17, 1959",Tulane,7,Ole Miss,53,1
+245,6,"Oct 17, 1959",Arizona,7,New Mexico,28,0
+246,6,"Oct 17, 1959",North Texas,43,Pensacola NAS,0,0
+247,6,"Oct 17, 1959",Michigan,7,Northwestern,20,0
+248,6,"Oct 17, 1959",Ohio State,15,Purdue,0,0
+249,6,"Oct 17, 1959",Oklahoma,23,Missouri,0,1
+250,6,"Oct 17, 1959",Oklahoma State,19,Houston,12,0
+251,6,"Oct 17, 1959",Air Force,3,Oregon,20,1
+252,6,"Oct 17, 1959",Oregon State,66,Idaho,18,0
+253,6,"Oct 17, 1959",Pacific,22,Marquette,13,0
+254,6,"Oct 17, 1959",Penn State,21,Boston University,12,0
+255,6,"Oct 17, 1959",Brown,9,Pennsylvania,36,1
+256,6,"Oct 17, 1959",Colgate,7,Princeton,42,1
+257,6,"Oct 17, 1959",San Jose State,40,Fresno State,14,1
+258,6,"Oct 17, 1959",USC,22,Washington,15,1
+259,6,"Oct 17, 1959",Rice,13,SMU,13,0
+260,6,"Oct 17, 1959",West Texas State,6,Southern Miss,37,0
+261,6,"Oct 17, 1959",Holy Cross,6,Syracuse,42,1
+262,6,"Oct 17, 1959",Alabama,7,Tennessee,7,0
+263,6,"Oct 17, 1959",Texas,13,Arkansas,12,1
+264,6,"Oct 17, 1959",Texas A&M,6,TCU,39,1
+265,6,"Oct 17, 1959",Trinity (Texas),21,UTEP,20,0
+266,6,"Oct 17, 1959",Hardin-Simmons,8,Tulsa,16,1
+267,6,"Oct 17, 1959",UCLA,19,California,12,0
+268,6,"Oct 17, 1959",Utah State,28,Montana,0,0
+269,6,"Oct 17, 1959",Florida,6,Vanderbilt,13,1
+270,6,"Oct 17, 1959",William & Mary,7,Virginia Military Institute,26,1
+271,6,"Oct 17, 1959",Virginia Tech,40,Virginia,14,0
+272,6,"Oct 17, 1959",Wake Forest,17,NC State,14,1
+273,6,"Oct 17, 1959",Washington State,36,Stanford,19,1
+274,6,"Oct 17, 1959",West Virginia,23,Pitt,15,0
+275,6,"Oct 17, 1959",Wisconsin,25,Iowa,16,0
+276,6,"Oct 17, 1959",BYU,6,Wyoming,21,1
+277,6,"Oct 17, 1959",Yale,23,Cornell,0,1
+278,7,"Oct 22, 1959",Clemson,27,South Carolina,0,1
+279,7,"Oct 23, 1959",UCLA,7,Air Force,20,0
+280,7,"Oct 23, 1959",Miami,6,Auburn,21,0
+281,7,"Oct 23, 1959",Boston University,8,Connecticut,7,0
+282,7,"Oct 24, 1959",Colorado State,6,Army,25,1
+283,7,"Oct 24, 1959",Baylor,13,Texas A&M,0,1
+284,7,"Oct 24, 1959",Brown,6,Rhode Island,0,0
+285,7,"Oct 24, 1959",Cincinnati,21,Pacific,14,0
+286,7,"Oct 24, 1959",Citadel,18,Furman,14,0
+287,7,"Oct 24, 1959",Colorado,18,Arizona,0,1
+288,7,"Oct 24, 1959",Dartmouth,9,Harvard,0,1
+289,7,"Oct 24, 1959",BYU,7,Denver,14,0
+290,7,"Oct 24, 1959",Duke,17,NC State,15,1
+291,7,"Oct 24, 1959",Richmond,6,Florida State,22,1
+292,7,"Oct 24, 1959",Kentucky,7,Georgia,14,0
+293,7,"Oct 24, 1959",Georgia Tech,21,Tulane,13,1
+294,7,"Oct 24, 1959",Hardin-Simmons,22,West Texas State,0,1
+295,7,"Oct 24, 1959",Holy Cross,34,Columbia,0,1
+296,7,"Oct 24, 1959",Iowa State,26,Kansas State,0,0
+297,7,"Oct 24, 1959",LSU,9,Florida,0,1
+298,7,"Oct 24, 1959",Minnesota,6,Michigan,14,0
+299,7,"Oct 24, 1959",Indiana,6,Michigan State,14,1
+300,7,"Oct 24, 1959",Ole Miss,28,Arkansas,0,0
+301,7,"Oct 24, 1959",Mississippi State,28,Memphis,23,0
+302,7,"Oct 24, 1959",Missouri,9,Nebraska,0,0
+303,7,"Oct 24, 1959",Pennsylvania,22,Navy,22,0
+304,7,"Oct 24, 1959",New Mexico,55,Montana,14,1
+305,7,"Oct 24, 1959",North Carolina,21,Wake Forest,19,1
+306,7,"Oct 24, 1959",North Texas,7,Houston,6,1
+307,7,"Oct 24, 1959",Northwestern,30,Notre Dame,24,1
+308,7,"Oct 24, 1959",Oklahoma,7,Kansas,6,0
+309,7,"Oct 24, 1959",Oklahoma State,34,Wichita State,14,0
+310,7,"Oct 24, 1959",Oregon State,24,California,20,1
+311,7,"Oct 24, 1959",Illinois,9,Penn State,20,1
+312,7,"Oct 24, 1959",Princeton,20,Cornell,0,0
+313,7,"Oct 24, 1959",Iowa,7,Purdue,14,1
+314,7,"Oct 24, 1959",Rutgers,23,Lehigh,0,0
+315,7,"Oct 24, 1959",San Jose State,24,Arizona State,15,0
+316,7,"Oct 24, 1959",USC,30,Stanford,28,0
+317,7,"Oct 24, 1959",SMU,21,Texas Tech,13,0
+318,7,"Oct 24, 1959",Syracuse,44,West Virginia,0,0
+319,7,"Oct 24, 1959",Tennessee,23,Chattanooga,0,0
+320,7,"Oct 24, 1959",Rice,6,Texas,28,1
+321,7,"Oct 24, 1959",Pitt,3,TCU,13,0
+322,7,"Oct 24, 1959",UTEP,20,New Mexico State,15,0
+323,7,"Oct 24, 1959",Detroit Mercy,6,Tulsa,21,1
+324,7,"Oct 24, 1959",Utah State,22,Montana State,13,0
+325,7,"Oct 24, 1959",Vanderbilt,33,Virginia,0,1
+326,7,"Oct 24, 1959",Davidson,7,Virginia Military Institute,34,1
+327,7,"Oct 24, 1959",Virginia Tech,24,Villanova,14,1
+328,7,"Oct 24, 1959",Washington,13,Oregon,12,1
+329,7,"Oct 24, 1959",Idaho,5,Washington State,27,1
+330,7,"Oct 24, 1959",George Washington,7,William & Mary,14,1
+331,7,"Oct 24, 1959",Ohio State,3,Wisconsin,12,1
+332,7,"Oct 24, 1959",Utah,7,Wyoming,21,0
+333,7,"Oct 24, 1959",Xavier,3,Dayton,0,1
+334,7,"Oct 24, 1959",Yale,21,Colgate,0,0
+335,7,"Oct 25, 1959",Boston College,16,Marquette,0,0
+336,8,"Oct 30, 1959",Detroit Mercy,9,Boston College,21,0
+337,8,"Oct 30, 1959",Miami,3,Kentucky,22,0
+338,8,"Oct 30, 1959",Pacific,6,Hawaii,0,1
+339,8,"Oct 30, 1959",Texas Tech,7,Tulane,17,1
+340,8,"Oct 30, 1959",George Washington,6,Virginia Military Institute,28,0
+341,8,"Oct 31, 1959",Army,13,Air Force,13,0
+342,8,"Oct 31, 1959",Alabama,10,Mississippi State,0,0
+343,8,"Oct 31, 1959",Arizona State,35,New Mexico State,31,0
+344,8,"Oct 31, 1959",Texas A&M,7,Arkansas,12,1
+345,8,"Oct 31, 1959",Auburn,6,Florida,0,0
+346,8,"Oct 31, 1959",Massachusetts,6,Boston University,20,0
+347,8,"Oct 31, 1959",BYU,18,Utah State,0,0
+348,8,"Oct 31, 1959",Cincinnati,28,Xavier,0,0
+349,8,"Oct 31, 1959",Citadel,38,William & Mary,13,1
+350,8,"Oct 31, 1959",Clemson,19,Rice,0,1
+351,8,"Oct 31, 1959",Colorado,21,Missouri,20,0
+352,8,"Oct 31, 1959",Colorado State,26,Montana,16,1
+353,8,"Oct 31, 1959",Columbia,7,Cornell,13,1
+354,8,"Oct 31, 1959",Yale,8,Dartmouth,12,0
+355,8,"Oct 31, 1959",Delaware,34,Rutgers,14,1
+356,8,"Oct 31, 1959",Georgia Tech,7,Duke,10,0
+357,8,"Oct 31, 1959",Georgia,42,Florida State,0,0
+358,8,"Oct 31, 1959",Hardin-Simmons,25,UTEP,14,0
+359,8,"Oct 31, 1959",Harvard,12,Pennsylvania,0,1
+360,8,"Oct 31, 1959",Holy Cross,14,Colgate,12,0
+361,8,"Oct 31, 1959",Houston,22,Tulsa,13,1
+362,8,"Oct 31, 1959",Iowa,53,Kansas State,0,0
+363,8,"Oct 31, 1959",Kansas,7,Iowa State,0,0
+364,8,"Oct 31, 1959",LSU,7,Ole Miss,3,0
+365,8,"Oct 31, 1959",Vanderbilt,6,Minnesota,20,1
+366,8,"Oct 31, 1959",Nebraska,25,Oklahoma,21,0
+367,8,"Oct 31, 1959",New Mexico,42,Denver,0,0
+368,8,"Oct 31, 1959",North Texas,12,Wichita State,0,0
+369,8,"Oct 31, 1959",Northwestern,30,Indiana,13,0
+370,8,"Oct 31, 1959",Notre Dame,25,Navy,22,0
+371,8,"Oct 31, 1959",Ohio State,30,Michigan State,24,0
+372,8,"Oct 31, 1959",Oklahoma State,18,Marquette,12,1
+373,8,"Oct 31, 1959",Idaho,7,Oregon,45,0
+374,8,"Oct 31, 1959",Penn State,28,West Virginia,10,1
+375,8,"Oct 31, 1959",Princeton,7,Brown,0,0
+376,8,"Oct 31, 1959",Illinois,7,Purdue,7,0
+377,8,"Oct 31, 1959",Maryland,6,South Carolina,22,1
+378,8,"Oct 31, 1959",California,7,USC,14,0
+379,8,"Oct 31, 1959",Stanford,54,San Jose State,38,0
+380,8,"Oct 31, 1959",Syracuse,35,Pitt,0,1
+381,8,"Oct 31, 1959",North Carolina,7,Tennessee,29,0
+382,8,"Oct 31, 1959",Texas,21,SMU,0,1
+383,8,"Oct 31, 1959",TCU,14,Baylor,0,1
+384,8,"Oct 31, 1959",Arizona,6,Utah,54,1
+385,8,"Oct 31, 1959",Villanova,22,Dayton,13,0
+386,8,"Oct 31, 1959",Virginia Tech,51,Richmond,29,0
+387,8,"Oct 31, 1959",Wake Forest,34,Virginia,12,0
+388,8,"Oct 31, 1959",UCLA,7,Washington,23,0
+389,8,"Oct 31, 1959",Washington State,14,Oregon State,0,1
+390,8,"Oct 31, 1959",West Texas State,34,Drake,21,0
+391,8,"Oct 31, 1959",Wisconsin,19,Michigan,10,1
+392,8,"Oct 31, 1959",Wofford,27,Davidson,20,1
+393,8,"Oct 31, 1959",Wyoming,26,NC State,0,1
+394,9,"Nov 6, 1959",North Carolina,7,Miami,14,1
+395,9,"Nov 7, 1959",Tulane,7,Alabama,19,1
+396,9,"Nov 7, 1959",Arizona,30,Texas Tech,26,0
+397,9,"Nov 7, 1959",UTEP,7,Arizona State,20,0
+398,9,"Nov 7, 1959",Arkansas,14,Rice,10,1
+399,9,"Nov 7, 1959",Army,14,Villanova,0,0
+400,9,"Nov 7, 1959",Auburn,31,Mississippi State,0,0
+401,9,"Nov 7, 1959",Citadel,8,Presbyterian,0,0
+402,9,"Nov 7, 1959",Clemson,6,Duke,0,0
+403,9,"Nov 7, 1959",Colgate,16,Bucknell,13,0
+404,9,"Nov 7, 1959",Colorado,27,Kansas,14,0
+405,9,"Nov 7, 1959",Utah State,7,Colorado State,10,1
+406,9,"Nov 7, 1959",Cornell,19,Brown,0,0
+407,9,"Nov 7, 1959",Dartmouth,22,Columbia,0,1
+408,9,"Nov 7, 1959",Detroit Mercy,33,Dayton,14,1
+409,9,"Nov 7, 1959",Georgia,21,Florida,10,0
+410,9,"Nov 7, 1959",Georgia Tech,14,Notre Dame,10,1
+411,9,"Nov 7, 1959",Hardin-Simmons,23,Trinity (Texas),15,0
+412,9,"Nov 7, 1959",Harvard,14,Princeton,0,0
+413,9,"Nov 7, 1959",Boston University,8,Holy Cross,17,1
+414,9,"Nov 7, 1959",Houston,28,Wichita State,13,1
+415,9,"Nov 7, 1959",Ohio State,0,Indiana,0,0
+416,9,"Nov 7, 1959",Iowa,33,Minnesota,0,0
+417,9,"Nov 7, 1959",Nebraska,6,Iowa State,18,1
+418,9,"Nov 7, 1959",Marquette,48,North Dakota State,0,0
+419,9,"Nov 7, 1959",Michigan,20,Illinois,15,1
+420,9,"Nov 7, 1959",Michigan State,15,Purdue,0,0
+421,9,"Nov 7, 1959",Ole Miss,58,Chattanooga,0,0
+422,9,"Nov 7, 1959",Missouri,13,Air Force,0,0
+423,9,"Nov 7, 1959",Montana,6,Montana State,40,1
+424,9,"Nov 7, 1959",Navy,22,Maryland,14,0
+425,9,"Nov 7, 1959",BYU,6,New Mexico,21,1
+426,9,"Nov 7, 1959",Louisville,7,North Texas,39,1
+427,9,"Nov 7, 1959",Oklahoma,36,Kansas State,0,1
+428,9,"Nov 7, 1959",Oklahoma State,20,Denver,12,0
+429,9,"Nov 7, 1959",Oregon,20,California,18,0
+430,9,"Nov 7, 1959",Pacific,18,Fresno State,13,0
+431,9,"Nov 7, 1959",Pennsylvania,28,Yale,12,0
+432,9,"Nov 7, 1959",Pitt,22,Boston College,14,1
+433,9,"Nov 7, 1959",Quantico Marines,23,Xavier,21,1
+434,9,"Nov 7, 1959",Richmond,26,George Washington,0,0
+435,9,"Nov 7, 1959",Rutgers,16,Lafayette,14,1
+436,9,"Nov 7, 1959",South Carolina,32,Virginia,20,1
+437,9,"Nov 7, 1959",USC,36,West Virginia,0,0
+438,9,"Nov 7, 1959",SMU,14,Texas A&M,11,1
+439,9,"Nov 7, 1959",Southern Miss,19,NC State,14,0
+440,9,"Nov 7, 1959",Syracuse,20,Penn State,18,1
+441,9,"Nov 7, 1959",Tennessee,14,LSU,13,0
+442,9,"Nov 7, 1959",Texas,13,Baylor,12,0
+443,9,"Nov 7, 1959",Cincinnati,7,Tulsa,14,1
+444,9,"Nov 7, 1959",UCLA,55,Stanford,13,1
+445,9,"Nov 7, 1959",Utah,47,Idaho,13,1
+446,9,"Nov 7, 1959",Kentucky,6,Vanderbilt,11,1
+447,9,"Nov 7, 1959",Virginia Military Institute,7,Lehigh,6,1
+448,9,"Nov 7, 1959",Virginia Tech,26,West Texas State,21,1
+449,9,"Nov 7, 1959",Oregon State,6,Washington,13,1
+450,9,"Nov 7, 1959",Davidson,7,William & Mary,25,0
+451,9,"Nov 7, 1959",Wisconsin,24,Northwestern,19,1
+452,9,"Nov 7, 1959",Wofford,6,Furman,3,0
+453,9,"Nov 7, 1959",San Jose State,7,Wyoming,28,0
+454,10,"Nov 13, 1959",South Carolina,6,Miami,26,1
+455,10,"Nov 13, 1959",UCLA,21,NC State,12,0
+456,10,"Nov 14, 1959",Abilene Christian,28,UTEP,22,1
+457,10,"Nov 14, 1959",Air Force,22,Arizona,15,0
+458,10,"Nov 14, 1959",Alabama,9,Georgia Tech,7,0
+459,10,"Nov 14, 1959",BYU,9,Arizona State,27,1
+460,10,"Nov 14, 1959",Arkansas,17,SMU,14,1
+461,10,"Nov 14, 1959",Boston College,7,Boston University,26,1
+462,10,"Nov 14, 1959",Harvard,6,Brown,16,1
+463,10,"Nov 14, 1959",Colorado State,21,Utah,17,1
+464,10,"Nov 14, 1959",Dartmouth,21,Cornell,12,0
+465,10,"Nov 14, 1959",Dayton,13,Miami (OH),0,0
+466,10,"Nov 14, 1959",Detroit Mercy,14,Western Michigan,0,1
+467,10,"Nov 14, 1959",Duke,27,Wake Forest,15,0
+468,10,"Nov 14, 1959",Georgia,14,Auburn,13,0
+469,10,"Nov 14, 1959",Illinois,9,Wisconsin,6,1
+470,10,"Nov 14, 1959",Michigan,7,Indiana,26,1
+471,10,"Nov 14, 1959",Ohio State,7,Iowa,16,0
+472,10,"Nov 14, 1959",Iowa State,55,San Jose State,0,0
+473,10,"Nov 14, 1959",Kansas,28,Oklahoma State,14,0
+474,10,"Nov 14, 1959",Kentucky,41,Xavier,0,0
+475,10,"Nov 14, 1959",Lehigh,14,Davidson,0,1
+476,10,"Nov 14, 1959",LSU,27,Mississippi State,0,0
+477,10,"Nov 14, 1959",Marquette,35,Cincinnati,34,1
+478,10,"Nov 14, 1959",Maryland,28,Clemson,25,1
+479,10,"Nov 14, 1959",Michigan State,15,Northwestern,10,0
+480,10,"Nov 14, 1959",Tennessee,7,Ole Miss,37,1
+481,10,"Nov 14, 1959",Missouri,26,Kansas State,0,0
+482,10,"Nov 14, 1959",George Washington,8,Navy,16,1
+483,10,"Nov 14, 1959",Nebraska,14,Colorado,12,0
+484,10,"Nov 14, 1959",New Mexico State,42,Hardin-Simmons,13,0
+485,10,"Nov 14, 1959",North Carolina,41,Virginia,0,0
+486,10,"Nov 14, 1959",Oklahoma,28,Army,20,0
+487,10,"Nov 14, 1959",Oregon,7,Washington State,6,1
+488,10,"Nov 14, 1959",Pacific,28,Idaho,13,0
+489,10,"Nov 14, 1959",Penn State,46,Holy Cross,0,0
+490,10,"Nov 14, 1959",Columbia,6,Pennsylvania,24,0
+491,10,"Nov 14, 1959",Pitt,28,Notre Dame,13,0
+492,10,"Nov 14, 1959",Purdue,29,Minnesota,23,0
+493,10,"Nov 14, 1959",Rice,7,Texas A&M,2,0
+494,10,"Nov 14, 1959",Richmond,48,Furman,14,0
+495,10,"Nov 14, 1959",Villanova,6,Rutgers,12,1
+496,10,"Nov 14, 1959",Baylor,8,USC,17,1
+497,10,"Nov 14, 1959",Stanford,39,Oregon State,22,1
+498,10,"Nov 14, 1959",Syracuse,71,Colgate,0,0
+499,10,"Nov 14, 1959",Texas,9,TCU,14,0
+500,10,"Nov 14, 1959",Texas Tech,27,Houston,0,0
+501,10,"Nov 14, 1959",West Texas State,8,Trinity (Texas),14,1
+502,10,"Nov 14, 1959",North Texas,6,Tulsa,17,1
+503,10,"Nov 14, 1959",Utah State,21,Denver,14,1
+504,10,"Nov 14, 1959",Tulane,6,Vanderbilt,6,0
+505,10,"Nov 14, 1959",Citadel,8,Virginia Military Institute,32,1
+506,10,"Nov 14, 1959",Virginia Tech,12,West Virginia,0,1
+507,10,"Nov 14, 1959",Washington,20,California,0,1
+508,10,"Nov 14, 1959",Drake,7,Wichita State,20,1
+509,10,"Nov 14, 1959",William & Mary,9,Florida State,0,1
+510,10,"Nov 14, 1959",Wyoming,25,New Mexico,20,1
+511,10,"Nov 14, 1959",Yale,38,Princeton,20,1
+512,11,"Nov 20, 1959",Davidson,7,Furman,35,1
+513,11,"Nov 20, 1959",Miami,18,Michigan State,13,0
+514,11,"Nov 20, 1959",San Jose State,7,Pacific,20,1
+515,11,"Nov 21, 1959",Memphis,7,Alabama,14,1
+516,11,"Nov 21, 1959",Arizona,14,UTEP,10,0
+517,11,"Nov 21, 1959",Hardin-Simmons,8,Arizona State,14,1
+518,11,"Nov 21, 1959",Texas Tech,8,Arkansas,27,1
+519,11,"Nov 21, 1959",Southern Miss,7,Auburn,28,1
+520,11,"Nov 21, 1959",BYU,14,Colorado State,13,0
+521,11,"Nov 21, 1959",California,20,Stanford,17,1
+522,11,"Nov 21, 1959",Citadel,20,West Virginia,14,1
+523,11,"Nov 21, 1959",Clemson,33,Wake Forest,31,0
+524,11,"Nov 21, 1959",Columbia,26,Rutgers,16,0
+525,11,"Nov 21, 1959",Princeton,7,Dartmouth,12,0
+526,11,"Nov 21, 1959",Dayton,18,Wichita State,13,0
+527,11,"Nov 21, 1959",Villanova,6,Detroit Mercy,40,1
+528,11,"Nov 21, 1959",Florida State,8,Florida,18,1
+529,11,"Nov 21, 1959",Yale,6,Harvard,35,0
+530,11,"Nov 21, 1959",Idaho,9,Montana,6,0
+531,11,"Nov 21, 1959",Illinois,28,Northwestern,0,0
+532,11,"Nov 21, 1959",Kansas State,29,Nebraska,14,0
+533,11,"Nov 21, 1959",Kentucky,20,Tennessee,0,0
+534,11,"Nov 21, 1959",Tulane,6,LSU,14,1
+535,11,"Nov 21, 1959",Marquette,30,Holy Cross,12,0
+536,11,"Nov 21, 1959",Maryland,55,Virginia,12,0
+537,11,"Nov 21, 1959",Michigan,23,Ohio State,14,0
+538,11,"Nov 21, 1959",Kansas,9,Missouri,13,0
+539,11,"Nov 21, 1959",New Mexico,28,Air Force,27,1
+540,11,"Nov 21, 1959",New Mexico State,35,West Texas State,13,0
+541,11,"Nov 21, 1959",North Texas,62,Drake,2,0
+542,11,"Nov 21, 1959",Notre Dame,20,Iowa,19,1
+543,11,"Nov 21, 1959",Oklahoma,35,Iowa State,12,0
+544,11,"Nov 21, 1959",Oregon,7,Oregon State,15,0
+545,11,"Nov 21, 1959",Penn State,7,Pitt,22,1
+546,11,"Nov 21, 1959",Indiana,7,Purdue,10,0
+547,11,"Nov 21, 1959",Richmond,20,William & Mary,12,0
+548,11,"Nov 21, 1959",NC State,7,South Carolina,12,1
+549,11,"Nov 21, 1959",SMU,30,Baylor,14,1
+550,11,"Nov 21, 1959",Syracuse,46,Boston University,0,1
+551,11,"Nov 21, 1959",Rice,6,TCU,35,1
+552,11,"Nov 21, 1959",USC,3,UCLA,10,0
+553,11,"Nov 21, 1959",Utah,35,Utah State,21,0
+554,11,"Nov 21, 1959",North Alabama,7,Vanderbilt,42,1
+555,11,"Nov 21, 1959",Washington,20,Washington State,0,0
+556,11,"Nov 21, 1959",Minnesota,7,Wisconsin,11,0
+557,11,"Nov 21, 1959",Wyoming,45,Denver,0,1
+558,12,"Nov 26, 1959",Miami (OH),7,Cincinnati,14,1
+559,12,"Nov 26, 1959",Colgate,33,Brown,14,1
+560,12,"Nov 26, 1959",North Carolina,50,Duke,0,1
+561,12,"Nov 26, 1959",Pennsylvania,28,Cornell,13,0
+562,12,"Nov 26, 1959",Texas,20,Texas A&M,17,1
+563,12,"Nov 26, 1959",Virginia Military Institute,37,Virginia Tech,12,0
+564,12,"Nov 26, 1959",Washington State,32,Houston,18,1
+565,12,"Nov 26, 1959",Wichita State,26,Tulsa,21,0
+566,12,"Nov 28, 1959",Alabama,10,Auburn,0,0
+567,12,"Nov 28, 1959",Arizona,9,Arizona State,15,1
+568,12,"Nov 28, 1959",Baylor,23,Rice,21,1
+569,12,"Nov 28, 1959",Clemson,56,Furman,3,1
+570,12,"Nov 28, 1959",Air Force,7,Colorado,15,1
+571,12,"Nov 28, 1959",Florida,23,Miami,14,0
+572,12,"Nov 28, 1959",Florida State,33,Tampa,0,1
+573,12,"Nov 28, 1959",Georgia,21,Georgia Tech,14,1
+574,12,"Nov 28, 1959",Ole Miss,42,Mississippi State,0,1
+575,12,"Nov 28, 1959",Navy,43,Army,12,0
+576,12,"Nov 28, 1959",New Mexico State,55,University of Mexico,0,1
+577,12,"Nov 28, 1959",USC,6,Notre Dame,16,1
+578,12,"Nov 28, 1959",Oklahoma State,7,Oklahoma,17,1
+579,12,"Nov 28, 1959",TCU,19,SMU,0,0
+580,12,"Nov 28, 1959",Utah,6,UCLA,21,1
+581,12,"Nov 28, 1959",Vanderbilt,14,Tennessee,0,1
+582,12,"Nov 28, 1959",Wake Forest,43,South Carolina,20,0
+583,12,"Nov 29, 1959",Boston College,14,Holy Cross,0,1
+584,13,"Dec 4, 1959",Hawaii,6,Arizona State,14,0
+585,13,"Dec 5, 1959",Maryland,33,NC State,28,0
+586,13,"Dec 5, 1959",UCLA,8,Syracuse,36,0
+587,14,"Dec 11, 1959",Hawaii,6,Utah State,48,0
+588,15,"Dec 19, 1959",TCU,7,Clemson,23,1
+589,15,"Dec 19, 1959",Penn State,7,Alabama,0,0
+590,16,"Dec 31, 1959",North Texas,8,New Mexico State,28,1
+591,16,"Jan 1, 1960",Georgia,14,Missouri,0,0
+592,16,"Jan 1, 1960",Middle Tennessee,21,Presbyterian,12,0
+593,16,"Jan 1, 1960",Ole Miss,21,LSU,0,0
+594,16,"Jan 1, 1960",Syracuse,23,Texas,14,0
+595,16,"Jan 1, 1960",Wisconsin,8,Washington,44,1
+596,16,"Jan 2, 1960",Georgia Tech,7,Arkansas,14,1
