@@ -5,47 +5,47 @@ NHL Standings - 3 Points
 Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Vegas                   7    4    1    2    0    10    16
-Vancouver               7    3    1    0    3    -1    11
-Anaheim                 6    2    1    1    2    -1     9
-Edmonton                7    2    1    1    3    -2     9
-SEATTLE                 7    1    2    2    2    -4     9
-Los Angeles             7    0    2    2    3    -6     6
+Anaheim                 7    3    1    1    2     1    12
+Edmonton                8    3    1    1    3    -1    12
+SEATTLE                 8    2    2    2    2    -1    12
+Vancouver               8    3    1    0    4    -2    11
+Los Angeles             8    0    3    2    3    -5     8
+San Jose                7    0    1    2    4   -12     4
 Calgary                 8    0    1    1    6   -16     3
-San Jose                6    0    0    2    4   -13     2
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Colorado                7    5    0    2    0    10    17
-Winnipeg                6    5    0    0    1    10    15
-Utah                    7    3    2    0    2     5    13
-St. Louis               6    3    0    1    2    -4    10
-Chicago                 7    2    1    2    2     4    10
+Colorado                8    5    0    3    0     9    18
+Utah                    8    4    2    0    2     8    16
+Winnipeg                7    5    0    0    2     7    15
+Chicago                 8    3    1    2    2     5    13
+Nashville               8    3    0    2    3    -6    11
+St. Louis               7    3    0    1    3    -7    10
+Dallas                  7    2    1    1    3    -4     9
 Minnesota               8    2    1    1    4    -6     9
-Dallas                  6    2    1    0    3    -3     8
-Nashville               7    2    0    2    3    -7     8
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 New Jersey              7    6    0    0    1    10    18
-Pittsburgh              7    5    0    0    2     7    15
+Pittsburgh              8    6    0    0    2     9    18
+Carolina                7    3    3    0    1    10    15
 Washington              7    4    1    0    2     8    14
-Carolina                6    3    2    0    1     9    13
-NY Rangers              8    3    0    1    4     1    10
+NY Islanders            7    4    0    0    3     3    12
+NY Rangers              9    3    0    2    4     0    11
 Columbus                6    3    0    0    3     3     9
-NY Islanders            6    3    0    0    3    -2     9
-Philadelphia            6    2    1    1    2     2     9
+Philadelphia            7    2    1    1    3     1     9
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Montreal                8    3    3    0    2     6    15
-Detroit                 7    4    1    0    2     4    14
-Florida                 8    4    0    0    4    -4    12
+Montreal                9    3    3    0    3     5    15
+Detroit                 8    4    1    0    3    -1    14
+Florida                 9    4    0    0    5    -6    12
 Buffalo                 7    3    0    0    4    -1     9
 Toronto                 7    2    1    1    3    -1     9
-Boston                  8    2    1    0    5    -2     8
-Ottawa                  7    1    1    1    4   -11     6
-Tampa Bay               6    1    0    2    3    -5     5
+Ottawa                  8    2    1    1    4   -10     9
+Boston                  9    2    1    0    6    -4     8
+Tampa Bay               7    1    0    2    4    -6     5
 
