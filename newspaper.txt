@@ -22,7 +22,7 @@ Wednesday, October 22
   Portland             3–1   Real Salt Lake
   Chicago              3–1   Orlando City
 Friday, October 24
-  Inter Miami          vs    Nashville
+  Inter Miami          3–1   Nashville
 Sunday, October 26
   Vancouver            vs    Dallas
   Philadelphia         vs    Chicago
@@ -30,6 +30,8 @@ Sunday, October 26
 Monday, October 27
   Cincinnati           vs    Columbus
   Minnesota            vs    Seattle
+Tuesday, October 28
+  Charlotte            vs    New York City
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -39,12 +41,12 @@ GAIS               27  13   9   5  41  27  14  48                   Stuttgart   
 Malmö              27  12   9   6  42  28  14  45                   Dortmund            7   4   2   1  13   6   7  14  11.7   7.5
 AIK Stockholm      27  12   8   7  35  29   6  44                   Leverkusen          7   4   2   1  16  11   5  14  13.4   8.0
 Göteborg           27  14   2  11  36  33   3  44                   Köln                7   3   2   2  12  10   2  11   9.6  11.2
-Djurgården         27  11   9   7  43  29  14  42                   Eint Frankfurt      7   3   1   3  19  18   1  10  10.9  10.1
-Elfsborg           27  12   4  11  45  41   4  40                   Hoffenheim          7   3   1   3  12  12   0  10  11.3  11.1
-Häcken             27   9   6  12  39  46  -7  33                   Union Berlin        7   3   1   3  11  14  -3  10   9.1  13.4
-Halmstad           27   9   4  14  22  47 -25  31                   Freiburg            7   2   3   2  11  11   0   9  10.3   8.8
-Brommapojkarna     27   9   3  15  39  42  -3  30                   Hamburger SV        7   2   2   3   7  10  -3   8   7.9  11.1
-Sirius             27   8   6  13  44  49  -5  30                   Werder Bremen       7   2   2   3  11  16  -5   8  10.1  16.0
+Djurgården         27  11   9   7  43  29  14  42                   Werder Bremen       8   3   2   3  12  16  -4  11  11.1  16.6
+Elfsborg           27  12   4  11  45  41   4  40                   Eint Frankfurt      7   3   1   3  19  18   1  10  10.9  10.1
+Häcken             27   9   6  12  39  46  -7  33                   Hoffenheim          7   3   1   3  12  12   0  10  11.3  11.1
+Halmstad           27   9   4  14  22  47 -25  31                   Union Berlin        8   3   1   4  11  15  -4  10   9.7  14.4
+Brommapojkarna     27   9   3  15  39  42  -3  30                   Freiburg            7   2   3   2  11  11   0   9  10.3   8.8
+Sirius             27   8   6  13  44  49  -5  30                   Hamburger SV        7   2   2   3   7  10  -3   8   7.9  11.1
 Norrköping         27   8   5  14  38  51 -13  29                   Augsburg            7   2   1   4  12  14  -2   7   7.4  14.0
 Öster              27   6   7  14  26  42 -16  25                   St. Pauli           7   2   1   4   8  12  -4   7   7.9   9.9
 Degerfors          27   6   5  16  27  49 -22  23                   Wolfsburg           7   1   2   4   8  13  -5   5   9.9  11.3
@@ -55,7 +57,7 @@ Värnamo            27   3   7  17  33  55 -22  16                   Mainz 05   
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
 Saturday, October 25                                                Friday, October 24
-  Djurgården           vs    Värnamo                                  Werder Bremen        vs    Union Berlin
+  Djurgården           vs    Värnamo                                  Werder Bremen        1–0   Union Berlin
   Öster                vs    Degerfors                              Saturday, October 25
 Sunday, October 26                                                    Hamburger SV         vs    Wolfsburg
   Sirius               vs    Elfsborg                                 Gladbach             vs    Bayern Munich
@@ -79,21 +81,21 @@ Sunderland          8   4   2   2   9   6   3  14   7.4   9.5       Monaco      
 Crystal Palace      8   3   4   1  12   8   4  13  17.1  10.8       Toulouse            8   4   1   3  15  12   3  13  12.8   9.6
 Manchester Utd      8   4   1   3  11  12  -1  13  14.9  12.5       Rennes              8   2   5   1  11  12  -1  11  10.7  13.8
 Brighton            8   3   3   2  12  11   1  12  12.1  10.5       Nice                8   3   2   3  12  14  -2  11  10.1  15.4
-Aston Villa         8   3   3   2   8   8   0  12   6.3  10.6       Paris FC            8   3   1   4  13  15  -2  10  11.6  12.9
+Aston Villa         8   3   3   2   8   8   0  12   6.3  10.6       Paris FC            9   3   1   5  14  17  -3  10  12.8  13.7
 Everton             8   3   2   3   9   9   0  11  10.8  11.9       Brest               8   2   3   3  14  14   0   9  13.1  12.4
+Leeds United        9   3   2   4   9  14  -5  11  11.5   9.0       Nantes              9   2   3   4   7  10  -3   9   6.8  14.2
 Brentford           8   3   1   4  11  12  -1  10  10.7  10.0       Lorient             8   2   2   4  12  19  -7   8  10.5  12.9
 Newcastle Utd       8   2   3   3   7   7   0   9   9.8   5.7       Auxerre             8   2   1   5   7  12  -5   7   9.0  11.4
-Fulham              8   2   2   4   8  12  -4   8   7.7  10.7       Nantes              8   1   3   4   5   9  -4   6   5.9  13.0
-Leeds United        8   2   2   4   7  13  -6   8  10.0   8.3       Le Havre            8   1   3   4  10  16  -6   6  10.2  11.6
+Fulham              8   2   2   4   8  12  -4   8   7.7  10.7       Le Havre            8   1   3   4  10  16  -6   6  10.2  11.6
 Burnley             8   2   1   5   9  15  -6   7   5.4  15.8       Angers              8   1   3   4   4  12  -8   6   8.4  15.7
 Nott'ham Forest     8   1   2   5   5  15 -10   5   8.7  14.1       Metz                8   0   2   6   5  20 -15   2   7.2  18.0
-West Ham            8   1   1   6   6  18 -12   4   6.9  13.3       
+West Ham            9   1   1   7   7  20 -13   4   7.6  14.8       
 Wolves              8   0   2   6   5  16 -11   2   6.9  10.0       
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
 Friday, October 24                                                  Friday, October 24
-  Leeds United         vs    West Ham                                 Paris FC             vs    Nantes
+  Leeds United         2–1   West Ham                                 Paris FC             1–2   Nantes
 Saturday, October 25                                                Saturday, October 25
   Newcastle Utd        vs    Fulham                                   Brest                vs    Paris S-G
   Chelsea              vs    Sunderland                               Monaco               vs    Toulouse
@@ -108,7 +110,7 @@ Sunday, October 26                                                    Lille     
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
-Milan               7   5   1   1  11   4   7  16  10.5   5.7       
+Milan               8   5   2   1  13   6   7  17  12.0   7.2       
 Inter               7   5   0   2  18   8  10  15  13.1   5.7       
 Napoli              7   5   0   2  12   7   5  15  12.4   8.2       
 Roma                7   5   0   2   7   3   4  15   8.2   5.8       
@@ -124,15 +126,15 @@ Cagliari            7   2   2   3   6   8  -2   8   6.4  11.9
 Torino              7   2   2   3   6  13  -7   8   8.5  10.7       
 Parma               7   1   3   3   3   7  -4   6   5.9   7.7       
 Lecce               7   1   3   3   5  10  -5   6   5.1   9.0       
+Pisa                8   0   4   4   5  12  -7   4   6.9  12.2       
 Hellas Verona       7   0   4   3   2   9  -7   4   8.0   8.7       
 Fiorentina          7   0   3   4   5  10  -5   3   7.7  10.2       
 Genoa               7   0   3   4   3   9  -6   3   7.9   7.2       
-Pisa                7   0   3   4   3  10  -7   3   5.4  10.6       
 
 Serie A Fixtures
 ----------------
 Friday, October 24
-  Milan                vs    Pisa
+  Milan                2–2   Pisa
 Saturday, October 25
   Udinese              vs    Lecce
   Parma                vs    Como
@@ -144,6 +146,9 @@ Sunday, October 26
   Hellas Verona        vs    Cagliari
   Fiorentina           vs    Bologna
   Lazio                vs    Juventus
+Tuesday, October 28
+  Lecce                vs    Napoli
+  Atalanta             vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -186,16 +191,6 @@ nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0
 
 Champions League Fixtures
 -------------------------
-Tuesday, October 21
-  Barcelonaes          6–1   grOlympiacos
-  Newcastle Utdeng     3–0   ptBenfica
-  Arsenaleng           4–0   esAtlético Madrid
-  Leverkusende         2–7   frParis S-G
-  PSV Eindhovennl      6–2   itNapoli
-  Villarreales         0–2   engManchester City
-  Union SGbe           0–4   itInter
-  FC Copenhagendk      2–4   deDortmund
-  Qaırat Almatykz      0–0   cyPafos FC
 Wednesday, October 22
   Athletic Clubes      3–1   azQarabağ
   Galatasaraytr        3–1   noBodø/Glimt
@@ -207,4 +202,4 @@ Wednesday, October 22
   Monacofr             0–0   engTottenham
   Eint Frankfurtde     1–5   engLiverpool
 
-Standings from FBRef.com 10.24.25
+Standings from FBRef.com 10.25.25
