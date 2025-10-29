@@ -4,48 +4,48 @@ NHL Standings - 3 Points
 --------------------------------------------------------------------------------
 Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Vegas                   9    4    1    3    1     6    17
-SEATTLE                 9    3    2    2    2     0    15
-Vancouver              10    3    2    0    5    -2    13
-Edmonton               10    3    1    2    4    -3    13
-Anaheim                 8    3    1    1    3     0    12
-Los Angeles            10    1    3    3    3    -4    12
-San Jose                9    0    2    2    5   -13     6
-Calgary                10    1    1    1    7   -14     6
+Vegas                  10    5    1    3    1     9    20
+SEATTLE                10    3    2    3    2    -1    16
+Edmonton               11    4    1    2    4     0    16
+Los Angeles            11    2    3    3    3    -3    15
+Anaheim                 9    3    2    1    3     1    14
+Vancouver              11    3    2    0    6    -4    13
+San Jose               10    0    2    2    6   -14     6
+Calgary                11    1    1    1    8   -15     6
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Utah                   10    6    2    0    2    13    22
-Colorado               10    5    0    4    1     7    19
-Winnipeg                9    6    0    0    3     8    18
-Dallas                  9    4    1    1    3    -2    15
-Chicago                 9    3    1    2    3     3    13
-Nashville              10    3    1    2    4    -6    13
-St. Louis               9    3    0    1    5   -12    10
-Minnesota              10    2    1    2    5   -11    10
+Utah                   11    6    2    0    3    10    22
+Colorado               11    6    0    4    1    11    22
+Winnipeg               10    6    1    0    3     9    20
+Dallas                 10    5    1    1    3    -1    18
+Chicago                10    4    1    2    3     7    16
+Nashville              11    3    1    2    5    -9    13
+Minnesota              11    2    1    3    5   -12    11
+St. Louis              10    3    0    1    6   -15    10
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-New Jersey              9    7    1    0    1    13    23
-Pittsburgh             10    7    0    1    2    11    22
-Washington              9    5    1    0    3     6    17
-Carolina                8    3    3    0    2     9    15
-NY Islanders            8    4    0    1    3     2    13
-Columbus                8    3    1    0    4     0    11
-Philadelphia            8    2    2    1    3     2    11
-NY Rangers             10    3    0    2    5    -4    11
+New Jersey             10    7    1    0    2     9    23
+Pittsburgh             11    7    0    2    2    10    23
+Washington             10    5    1    0    4     5    17
+Carolina                9    3    3    0    3     6    15
+NY Rangers             11    4    0    2    5    -2    14
+NY Islanders            9    4    0    1    4    -1    13
+Columbus                9    3    2    0    4     1    13
+Philadelphia            9    2    3    1    3     3    13
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Montreal               10    4    3    0    3     6    18
-Detroit                 9    5    1    0    3     1    17
-Florida                10    5    0    0    5    -3    15
-Ottawa                 10    4    1    1    4     1    15
-Buffalo                 9    4    0    1    4     0    13
-Toronto                 9    2    2    1    4    -2    11
-Boston                 11    3    1    0    7    -8    11
-Tampa Bay               9    2    1    2    4    -4    10
+Detroit                10    6    1    0    3     4    20
+Montreal               11    4    4    0    3     7    20
+Florida                11    5    0    1    5    -4    16
+Ottawa                 11    4    1    1    5    -3    15
+Buffalo                10    4    0    2    4    -1    14
+Toronto                10    3    2    1    4    -1    14
+Boston                 12    4    1    0    7    -5    14
+Tampa Bay              10    3    1    2    4    -1    13
 
