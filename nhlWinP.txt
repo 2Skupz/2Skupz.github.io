@@ -32,8 +32,8 @@ New Jersey             10    8    2     .800    --
 Carolina                9    6    3     .667   1.5
 Pittsburgh             11    7    4     .636   1.5
 Washington             10    6    4     .600   2.0
+Columbus               10    6    4     .600   2.0
 Philadelphia            9    5    4     .556   2.5
-Columbus                9    5    4     .556   2.5
 NY Islanders            9    4    5     .444   3.5
 NY Rangers             11    4    7     .364   4.5
 
@@ -42,8 +42,8 @@ Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Montreal               11    8    3     .727    --
 Detroit                10    7    3     .700   0.5
-Toronto                10    5    5     .500   2.5
 Ottawa                 11    5    6     .455   3.0
+Toronto                11    5    6     .455   3.0
 Florida                11    5    6     .455   3.0
 Boston                 12    5    7     .417   3.5
 Buffalo                10    4    6     .400   3.5

@@ -19,23 +19,22 @@ Sporting KC        34   7   7  20  28 -24
 
 MLS Fixtures
 ------------
-Sunday, October 26
-  Vancouver W'caps     3–0   Dallas
-  Philadelphia         (4)2–2(2) Chicago Fire
-  San Diego            2–1   Portland
 Monday, October 27
   Cincinnati           1–0   Columbus
   Minnesota            (3)0–0(2) Seattle Sounders
 Tuesday, October 28
   Charlotte            0–1   New York City
 Wednesday, October 29
-  LAFC                 vs    Austin
+  LAFC                 2–1   Austin
 Saturday, November 01
   New York City        vs    Charlotte
   Chicago Fire         vs    Philadelphia
   Nashville            vs    Inter Miami
   Portland             vs    San Diego
   Dallas               vs    Vancouver W'caps
+Sunday, November 02
+  Columbus             vs    Cincinnati
+  Austin               vs    LAFC
 
 
 MLS East
@@ -59,23 +58,22 @@ D.C. United        34   5  11  18  26 -36
 
 MLS Fixtures
 ------------
-Sunday, October 26
-  Vancouver W'caps     3–0   Dallas
-  Philadelphia         (4)2–2(2) Chicago Fire
-  San Diego            2–1   Portland
 Monday, October 27
   Cincinnati           1–0   Columbus
   Minnesota            (3)0–0(2) Seattle Sounders
 Tuesday, October 28
   Charlotte            0–1   New York City
 Wednesday, October 29
-  LAFC                 vs    Austin
+  LAFC                 2–1   Austin
 Saturday, November 01
   New York City        vs    Charlotte
   Chicago Fire         vs    Philadelphia
   Nashville            vs    Inter Miami
   Portland             vs    San Diego
   Dallas               vs    Vancouver W'caps
+Sunday, November 02
+  Columbus             vs    Cincinnati
+  Austin               vs    LAFC
 
 
 Allsvenskan
@@ -100,17 +98,17 @@ Värnamo            28   3   7  18  16 -26
 
 Allsvenskan Fixtures
 --------------------
-Sunday, October 26
-  Sirius               4–0   Elfsborg
-  Mjällby              2–1   Norrköping
-  AIK Stockholm        2–2   Häcken
-  Halmstad             0–3   Göteborg
 Monday, October 27
   Brommapojkarna       0–2   GAIS
   Malmö                1–3   Hammarby
 Saturday, November 01
   Häcken               vs    Malmö
   Norrköping           vs    Sirius
+Sunday, November 02
+  Halmstad             vs    Brommapojkarna
+  Elfsborg             vs    AIK Stockholm
+  Djurgården           vs    Göteborg
+  GAIS                 vs    Öster
 
 
 Bundesliga
@@ -137,9 +135,6 @@ Gladbach            8   0   3   5   3 -12
 
 Bundesliga Fixtures
 -------------------
-Sunday, October 26
-  Leverkusen           2–0   Freiburg
-  Stuttgart            2–1   Mainz 05
 Friday, October 31
   Augsburg             vs    Dortmund
 Saturday, November 01
@@ -149,6 +144,9 @@ Saturday, November 01
   Heidenheim           vs    Eint Frankfurt
   St. Pauli            vs    Gladbach
   Bayern Munich        vs    Leverkusen
+Sunday, November 02
+  Köln                 vs    Hamburger SV
+  Wolfsburg            vs    Hoffenheim
 
 
 Premier League
@@ -177,12 +175,6 @@ Wolves              9   0   2   7   2 -12
 
 Premier League Fixtures
 -----------------------
-Sunday, October 26
-  Arsenal              1–0   Crystal Palace
-  Aston Villa          1–0   Manchester City
-  Wolves               2–3   Burnley
-  Bournemouth          2–0   Nott'ham Forest
-  Everton              0–3   Tottenham
 Saturday, November 01
   Crystal Palace       vs    Brentford
   Nott'ham Forest      vs    Manchester Utd
@@ -191,96 +183,94 @@ Saturday, November 01
   Brighton             vs    Leeds United
   Tottenham            vs    Chelsea
   Liverpool            vs    Aston Villa
+Sunday, November 02
+  West Ham             vs    Newcastle Utd
+  Manchester City      vs    Bournemouth
 
 
 Ligue 1
 -------
 Squad              MP   W   D   L  Pt  GD
-Paris S-G           9   6   2   1  20  11
-Lens                9   6   1   2  19   6
-Marseille           9   6   0   3  18  13
-Lyon                9   6   0   3  18   4
-Lille               9   5   2   2  17  11
-Monaco              9   5   2   2  17   5
-Strasbourg          9   5   1   3  16   6
-Nice                9   4   2   3  14  -1
-Toulouse            9   4   1   4  13   2
-Rennes              9   2   5   2  11  -2
-Paris FC            9   3   1   5  10  -3
-Brest               9   2   3   4   9  -3
-Nantes              9   2   3   4   9  -3
-Le Havre            9   2   3   4   9  -5
-Angers              9   2   3   4   9  -6
-Lorient             9   2   2   5   8  -9
-Auxerre             9   2   1   6   7  -6
-Metz                9   0   2   7   2 -20
+Paris S-G          10   6   3   1  21  11
+Monaco             10   6   2   2  20   7
+Marseille          10   6   1   3  19  13
+Strasbourg         10   6   1   3  19   9
+Lyon               10   6   1   3  19   4
+Lens               10   6   1   3  19   4
+Lille              10   5   2   3  17   9
+Nice               10   5   2   3  17   1
+Toulouse           10   4   2   4  14   2
+Rennes             10   2   6   2  12  -2
+Le Havre           10   3   3   4  12  -4
+Paris FC           10   3   2   5  11  -3
+Angers             10   2   4   4  10  -6
+Brest              10   2   3   5   9  -4
+Nantes             10   2   3   5   9  -5
+Lorient            10   2   3   5   9  -9
+Auxerre            10   2   1   7   7  -9
+Metz               10   1   2   7   5 -18
 
 Ligue 1 Fixtures
 ----------------
-Sunday, October 26
-  Lille                6–1   Metz
-  Auxerre              0–1   Le Havre
-  Angers               2–0   Lorient
-  Rennes               1–2   Nice
-  Lyon                 2–1   Strasbourg
 Wednesday, October 29
-  Metz                 vs    Lens
-  Lorient              vs    Paris S-G
-  Le Havre             vs    Brest
-  Nice                 vs    Lille
-  Strasbourg           vs    Auxerre
-  Marseille            vs    Angers
-  Nantes               vs    Monaco
-  Paris FC             vs    Lyon
-  Toulouse             vs    Rennes
+  Metz                 2–0   Lens
+  Lorient              1–1   Paris S-G
+  Le Havre             1–0   Brest
+  Nice                 2–0   Lille
+  Strasbourg           3–0   Auxerre
+  Marseille            2–2   Angers
+  Nantes               3–5   Monaco
+  Paris FC             3–3   Lyon
+  Toulouse             2–2   Rennes
 Saturday, November 01
   Paris S-G            vs    Nice
   Monaco               vs    Paris FC
   Auxerre              vs    Marseille
+Sunday, November 02
+  Rennes               vs    Strasbourg
+  Lille                vs    Angers
+  Nantes               vs    Metz
+  Lens                 vs    Lorient
+  Toulouse             vs    Le Havre
+  Brest                vs    Lyon
 
 
 Serie A
 -------
 Squad              MP   W   D   L  Pt  GD
 Napoli              9   7   0   2  21   8
+Roma                9   7   0   2  21   6
+Inter               9   6   0   3  18  11
 Milan               9   5   3   1  18   7
-Roma                8   6   0   2  18   5
-Inter               8   5   0   3  15   8
-Bologna             8   4   2   2  14   6
+Como                9   4   4   1  16   6
+Bologna             9   4   3   2  15   6
+Juventus            9   4   3   2  15   3
+Cremonese           9   3   5   1  14   1
 Atalanta            9   2   7   0  13   6
-Como                8   3   4   1  13   4
-Juventus            8   3   3   2  12   1
-Udinese             8   3   3   2  12  -2
+Udinese             9   3   3   3  12  -4
+Torino              9   3   3   3  12  -6
 Lazio               8   3   2   3  11   4
-Cremonese           8   2   5   1  11  -1
-Torino              8   3   2   3  11  -6
 Sassuolo            8   3   1   4  10  -1
 Cagliari            8   2   3   3   9  -2
-Parma               8   1   4   3   7  -4
+Parma               9   1   4   4   7  -5
 Lecce               9   1   3   5   6  -7
-Hellas Verona       8   0   5   3   5  -7
-Fiorentina          8   0   4   4   4  -5
+Hellas Verona       9   0   5   4   5  -9
 Pisa                8   0   4   4   4  -7
-Genoa               8   0   3   5   3  -7
+Fiorentina          9   0   4   5   4  -8
+Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, October 26
-  Torino               2–1   Genoa
-  Sassuolo             0–1   Roma
-  Hellas Verona        2–2   Cagliari
-  Fiorentina           2–2   Bologna
-  Lazio                1–0   Juventus
 Tuesday, October 28
   Lecce                0–1   Napoli
   Atalanta             1–1   Milan
 Wednesday, October 29
-  Como                 vs    Hellas Verona
-  Juventus             vs    Udinese
-  Roma                 vs    Parma
-  Genoa                vs    Cremonese
-  Inter                vs    Fiorentina
-  Bologna              vs    Torino
+  Como                 3–1   Hellas Verona
+  Juventus             3–1   Udinese
+  Roma                 2–1   Parma
+  Genoa                0–2   Cremonese
+  Inter                3–0   Fiorentina
+  Bologna              0–0   Torino
 Thursday, October 30
   Cagliari             vs    Sassuolo
   Pisa                 vs    Lazio
@@ -288,6 +278,12 @@ Saturday, November 01
   Udinese              vs    Atalanta
   Napoli               vs    Como
   Cremonese            vs    Juventus
+Sunday, November 02
+  Hellas Verona        vs    Inter
+  Torino               vs    Pisa
+  Fiorentina           vs    Lecce
+  Parma                vs    Bologna
+  Milan                vs    Roma
 
 
 Champions League
@@ -331,4 +327,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 10.29.25
+Standings from FBRef.com 10.30.25
