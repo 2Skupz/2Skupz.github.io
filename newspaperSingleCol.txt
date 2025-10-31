@@ -19,9 +19,6 @@ Sporting KC        34   7   7  20  28 -24
 
 MLS Fixtures
 ------------
-Monday, October 27
-  Cincinnati           1–0   Columbus
-  Minnesota            (3)0–0(2) Seattle Sounders
 Tuesday, October 28
   Charlotte            0–1   New York City
 Wednesday, October 29
@@ -35,6 +32,8 @@ Saturday, November 01
 Sunday, November 02
   Columbus             vs    Cincinnati
   Austin               vs    LAFC
+Monday, November 03
+  Seattle Sounders     vs    Minnesota
 
 
 MLS East
@@ -58,9 +57,6 @@ D.C. United        34   5  11  18  26 -36
 
 MLS Fixtures
 ------------
-Monday, October 27
-  Cincinnati           1–0   Columbus
-  Minnesota            (3)0–0(2) Seattle Sounders
 Tuesday, October 28
   Charlotte            0–1   New York City
 Wednesday, October 29
@@ -74,6 +70,8 @@ Saturday, November 01
 Sunday, November 02
   Columbus             vs    Cincinnati
   Austin               vs    LAFC
+Monday, November 03
+  Seattle Sounders     vs    Minnesota
 
 
 Allsvenskan
@@ -98,9 +96,6 @@ Värnamo            28   3   7  18  16 -26
 
 Allsvenskan Fixtures
 --------------------
-Monday, October 27
-  Brommapojkarna       0–2   GAIS
-  Malmö                1–3   Hammarby
 Saturday, November 01
   Häcken               vs    Malmö
   Norrköping           vs    Sirius
@@ -109,6 +104,9 @@ Sunday, November 02
   Elfsborg             vs    AIK Stockholm
   Djurgården           vs    Göteborg
   GAIS                 vs    Öster
+Monday, November 03
+  Degerfors            vs    Hammarby
+  Värnamo              vs    Mjällby
 
 
 Bundesliga
@@ -186,6 +184,8 @@ Saturday, November 01
 Sunday, November 02
   West Ham             vs    Newcastle Utd
   Manchester City      vs    Bournemouth
+Monday, November 03
+  Sunderland           vs    Everton
 
 
 Ligue 1
@@ -247,15 +247,15 @@ Bologna             9   4   3   2  15   6
 Juventus            9   4   3   2  15   3
 Cremonese           9   3   5   1  14   1
 Atalanta            9   2   7   0  13   6
+Sassuolo            9   4   1   4  13   0
+Lazio               9   3   3   3  12   4
 Udinese             9   3   3   3  12  -4
 Torino              9   3   3   3  12  -6
-Lazio               8   3   2   3  11   4
-Sassuolo            8   3   1   4  10  -1
-Cagliari            8   2   3   3   9  -2
+Cagliari            9   2   3   4   9  -3
 Parma               9   1   4   4   7  -5
 Lecce               9   1   3   5   6  -7
+Pisa                9   0   5   4   5  -7
 Hellas Verona       9   0   5   4   5  -9
-Pisa                8   0   4   4   4  -7
 Fiorentina          9   0   4   5   4  -8
 Genoa               9   0   3   6   3  -9
 
@@ -272,8 +272,8 @@ Wednesday, October 29
   Inter                3–0   Fiorentina
   Bologna              0–0   Torino
 Thursday, October 30
-  Cagliari             vs    Sassuolo
-  Pisa                 vs    Lazio
+  Cagliari             1–2   Sassuolo
+  Pisa                 0–0   Lazio
 Saturday, November 01
   Udinese              vs    Atalanta
   Napoli               vs    Como
@@ -284,6 +284,9 @@ Sunday, November 02
   Fiorentina           vs    Lecce
   Parma                vs    Bologna
   Milan                vs    Roma
+Monday, November 03
+  Sassuolo             vs    Genoa
+  Lazio                vs    Cagliari
 
 
 Champions League
@@ -327,4 +330,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 10.30.25
+Standings from FBRef.com 10.31.25

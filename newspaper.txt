@@ -18,9 +18,6 @@ Sporting KC        34   7   7  20  46  70 -24  28  42.1  70.6       DC United   
 
 MLS Fixtures
 ------------
-Monday, October 27
-  Cincinnati           1–0   Columbus
-  Minnesota            (3)0–0(2) Seattle
 Tuesday, October 28
   Charlotte            0–1   New York City
 Wednesday, October 29
@@ -34,6 +31,8 @@ Saturday, November 01
 Sunday, November 02
   Columbus             vs    Cincinnati
   Austin               vs    LAFC
+Monday, November 03
+  Seattle              vs    Minnesota
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -58,17 +57,17 @@ Värnamo            28   3   7  18  35  61 -26  16                   Mainz 05   
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Monday, October 27                                                  Friday, October 31
-  Brommapojkarna       0–2   GAIS                                     Augsburg             vs    Dortmund
-  Malmö                1–3   Hammarby                               Saturday, November 01
-Saturday, November 01                                                 Union Berlin         vs    Freiburg
-  Häcken               vs    Malmö                                    Mainz 05             vs    Werder Bremen
-  Norrköping           vs    Sirius                                   RB Leipzig           vs    Stuttgart
-Sunday, November 02                                                   Heidenheim           vs    Eint Frankfurt
-  Halmstad             vs    Brommapojkarna                           St. Pauli            vs    Gladbach
-  Elfsborg             vs    AIK Stockholm                            Bayern Munich        vs    Leverkusen
-  Djurgården           vs    Göteborg                               Sunday, November 02
-  GAIS                 vs    Öster                                    Köln                 vs    Hamburger SV
+Saturday, November 01                                               Friday, October 31
+  Häcken               vs    Malmö                                    Augsburg             vs    Dortmund
+  Norrköping           vs    Sirius                                 Saturday, November 01
+Sunday, November 02                                                   Union Berlin         vs    Freiburg
+  Halmstad             vs    Brommapojkarna                           Mainz 05             vs    Werder Bremen
+  Elfsborg             vs    AIK Stockholm                            RB Leipzig           vs    Stuttgart
+  Djurgården           vs    Göteborg                                 Heidenheim           vs    Eint Frankfurt
+  GAIS                 vs    Öster                                    St. Pauli            vs    Gladbach
+Monday, November 03                                                   Bayern Munich        vs    Leverkusen
+  Degerfors            vs    Hammarby                               Sunday, November 02
+  Värnamo              vs    Mjällby                                  Köln                 vs    Hamburger SV
                                                                       Wolfsburg            vs    Hoffenheim
 
 Premier League                                                      Ligue 1
@@ -107,8 +106,8 @@ Saturday, November 01                                               Wednesday, O
 Sunday, November 02                                                   Paris FC             3–3   Lyon
   West Ham             vs    Newcastle Utd                            Toulouse             2–2   Rennes
   Manchester City      vs    Bournemouth                            Saturday, November 01
-                                                                      Paris S-G            vs    Nice
-                                                                      Monaco               vs    Paris FC
+Monday, November 03                                                   Paris S-G            vs    Nice
+  Sunderland           vs    Everton                                  Monaco               vs    Paris FC
                                                                       Auxerre              vs    Marseille
                                                                     Sunday, November 02
                                                                       Rennes               vs    Strasbourg
@@ -129,15 +128,15 @@ Bologna             9   4   3   2  13   7   6  15  10.8   9.9
 Juventus            9   4   3   2  12   9   3  15  12.4   8.8       
 Cremonese           9   3   5   1  11  10   1  14   7.7  13.4       
 Atalanta            9   2   7   0  13   7   6  13  13.1   7.5       
+Sassuolo            9   4   1   4  10  10   0  13   8.7  11.9       
+Lazio               9   3   3   3  11   7   4  12  10.1  12.3       
 Udinese             9   3   3   3  11  15  -4  12   9.6  11.0       
 Torino              9   3   3   3   8  14  -6  12  10.3  13.1       
-Lazio               8   3   2   3  11   7   4  11   9.6  11.4       
-Sassuolo            8   3   1   4   8   9  -1  10   8.2  11.2       
-Cagliari            8   2   3   3   8  10  -2   9   6.8  13.8       
+Cagliari            9   2   3   4   9  12  -3   9   7.6  14.4       
 Parma               9   1   4   4   4   9  -5   7   7.6   9.2       
 Lecce               9   1   3   5   7  14  -7   6   6.6  10.9       
+Pisa                9   0   5   4   5  12  -7   5   7.8  12.6       
 Hellas Verona       9   0   5   4   5  14  -9   5  11.5  10.6       
-Pisa                8   0   4   4   5  12  -7   4   6.9  12.2       
 Fiorentina          9   0   4   5   7  15  -8   4  11.8  13.8       
 Genoa               9   0   3   6   4  13  -9   3  11.3   9.8       
 
@@ -154,8 +153,8 @@ Wednesday, October 29
   Inter                3–0   Fiorentina
   Bologna              0–0   Torino
 Thursday, October 30
-  Cagliari             vs    Sassuolo
-  Pisa                 vs    Lazio
+  Cagliari             1–2   Sassuolo
+  Pisa                 0–0   Lazio
 Saturday, November 01
   Udinese              vs    Atalanta
   Napoli               vs    Como
@@ -166,6 +165,9 @@ Sunday, November 02
   Fiorentina           vs    Lecce
   Parma                vs    Bologna
   Milan                vs    Roma
+Monday, November 03
+  Sassuolo             vs    Genoa
+  Lazio                vs    Cagliari
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -207,4 +209,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 10.30.25
+Standings from FBRef.com 10.31.25
