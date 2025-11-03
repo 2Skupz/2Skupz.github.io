@@ -24,12 +24,12 @@ Saturday, November 01
   Chicago Fire         0–3   Philadelphia
   Nashville            2–1   Inter Miami
   Portland             (3)2–2(2) San Diego
-  Dallas               (2)1–1(4) Vancouver W'caps
+  Dallas               (2)1–1(4) Vancouver
 Sunday, November 02
-  Columbus             vs    Cincinnati
-  Austin               vs    LAFC
+  Columbus             4–0   Cincinnati
+  Austin               1–4   LA FC
 Monday, November 03
-  Seattle Sounders     vs    Minnesota
+  Seattle Sounders     vs    Minnesota United
 
 
 MLS East
@@ -58,12 +58,12 @@ Saturday, November 01
   Chicago Fire         0–3   Philadelphia
   Nashville            2–1   Inter Miami
   Portland             (3)2–2(2) San Diego
-  Dallas               (2)1–1(4) Vancouver W'caps
+  Dallas               (2)1–1(4) Vancouver
 Sunday, November 02
-  Columbus             vs    Cincinnati
-  Austin               vs    LAFC
+  Columbus             4–0   Cincinnati
+  Austin               1–4   LA FC
 Monday, November 03
-  Seattle Sounders     vs    Minnesota
+  Seattle Sounders     vs    Minnesota United
 
 
 Allsvenskan
@@ -71,19 +71,19 @@ Allsvenskan
 Squad              MP   W   D   L  Pt  GD
 Mjällby            28  21   6   1  69  33
 Hammarby           28  18   4   6  58  28
-GAIS               28  14   9   5  51  16
-Göteborg           28  15   2  11  47   6
+GAIS               29  14  10   5  52  16
+AIK Stockholm      29  13   9   7  48   9
+Göteborg           29  15   3  11  48   6
+Djurgården         29  12  10   7  46  18
 Malmö              29  12  10   7  46  12
-Djurgården         28  12   9   7  45  18
-AIK Stockholm      28  12   9   7  45   6
-Elfsborg           28  12   4  12  40   0
+Elfsborg           29  12   4  13  40  -3
 Sirius             29  10   6  13  36   0
 Häcken             29   9   8  12  35  -7
-Halmstad           28   9   4  15  31 -28
-Brommapojkarna     28   9   3  16  30  -5
+Halmstad           29   9   5  15  32 -28
+Brommapojkarna     29   9   4  16  31  -5
 Norrköping         29   8   5  16  29 -15
+Öster              29   6   8  15  26 -17
 Degerfors          28   7   5  16  26 -21
-Öster              28   6   7  15  25 -17
 Värnamo            28   3   7  18  16 -26
 
 Allsvenskan Fixtures
@@ -92,10 +92,10 @@ Saturday, November 01
   Häcken               1–1   Malmö
   Norrköping           1–2   Sirius
 Sunday, November 02
-  Halmstad             vs    Brommapojkarna
-  Elfsborg             vs    AIK Stockholm
-  Djurgården           vs    Göteborg
-  GAIS                 vs    Öster
+  Halmstad             0–0   Brommapojkarna
+  Elfsborg             0–3   AIK Stockholm
+  Djurgården           0–0   Göteborg
+  GAIS                 1–1   Öster
 Monday, November 03
   Degerfors            vs    Hammarby
   Värnamo              vs    Mjällby
@@ -109,14 +109,14 @@ RB Leipzig          9   7   1   1  22   9
 Dortmund            9   6   2   1  20   9
 Stuttgart           9   6   0   3  18   4
 Leverkusen          9   5   2   2  17   4
+Hoffenheim          9   5   1   3  16   3
+Köln                9   4   2   3  14   4
 Eint Frankfurt      9   4   2   3  14   3
-Hoffenheim          8   4   1   3  13   2
 Werder Bremen       9   3   3   3  12  -4
-Köln                8   3   2   3  11   1
 Union Berlin        9   3   2   4  11  -4
 Freiburg            9   2   4   3  10  -2
-Wolfsburg           8   2   2   4   8  -4
-Hamburger SV        8   2   2   4   8  -4
+Wolfsburg           9   2   2   5   8  -5
+Hamburger SV        9   2   2   5   8  -7
 Augsburg            9   2   1   6   7  -9
 St. Pauli           9   2   1   6   7 -10
 Gladbach            9   1   3   5   6  -8
@@ -135,32 +135,32 @@ Saturday, November 01
   St. Pauli            0–4   Gladbach
   Bayern Munich        3–0   Leverkusen
 Sunday, November 02
-  Köln                 vs    Hamburger SV
-  Wolfsburg            vs    Hoffenheim
+  Köln                 4–1   Hamburger SV
+  Wolfsburg            2–3   Hoffenheim
 
 
 Premier League
 --------------
 Squad              MP   W   D   L  Pt  GD
 Arsenal            10   8   1   1  25  15
-Bournemouth         9   5   3   1  18   5
+Manchester City    10   6   1   3  19  12
 Liverpool          10   6   0   4  18   4
+Bournemouth        10   5   3   2  18   3
 Tottenham          10   5   2   3  17   9
 Chelsea            10   5   2   3  17   7
 Sunderland          9   5   2   2  17   4
 Manchester Utd     10   5   2   3  17   1
-Manchester City     9   5   1   3  16  10
 Crystal Palace     10   4   4   2  16   5
 Brighton           10   4   3   3  15   2
 Aston Villa        10   4   3   3  15  -1
 Brentford          10   4   1   5  13  -2
-Newcastle Utd       9   3   3   3  12   1
+Newcastle Utd      10   3   3   4  12  -1
 Fulham             10   3   2   5  11  -2
 Everton             9   3   2   4  11  -3
 Leeds United       10   3   2   5  11  -8
 Burnley            10   3   1   6  10  -7
+West Ham           10   2   1   7   7 -11
 Nott'ham Forest    10   1   3   6   6 -12
-West Ham            9   1   1   7   4 -13
 Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
@@ -174,8 +174,8 @@ Saturday, November 01
   Tottenham            0–1   Chelsea
   Liverpool            2–0   Aston Villa
 Sunday, November 02
-  West Ham             vs    Newcastle Utd
-  Manchester City      vs    Bournemouth
+  West Ham             3–1   Newcastle Utd
+  Manchester City      3–1   Bournemouth
 Monday, November 03
   Sunderland           vs    Everton
 
@@ -185,22 +185,22 @@ Ligue 1
 Squad              MP   W   D   L  Pt  GD
 Paris S-G          11   7   3   1  24  12
 Marseille          11   7   1   3  22  14
+Lens               11   7   1   3  22   7
+Lille              11   6   2   3  20  10
 Monaco             11   6   2   3  20   6
-Strasbourg         10   6   1   3  19   9
-Lyon               10   6   1   3  19   4
-Lens               10   6   1   3  19   4
-Lille              10   5   2   3  17   9
+Lyon               11   6   2   3  20   4
+Strasbourg         11   6   1   4  19   6
 Nice               11   5   2   4  17   0
-Toulouse           10   4   2   4  14   2
+Toulouse           11   4   3   4  15   2
+Rennes             11   3   6   2  15   1
 Paris FC           11   4   2   5  14  -2
-Rennes             10   2   6   2  12  -2
-Le Havre           10   3   3   4  12  -4
-Angers             10   2   4   4  10  -6
-Brest              10   2   3   5   9  -4
-Nantes             10   2   3   5   9  -5
-Lorient            10   2   3   5   9  -9
+Le Havre           11   3   4   4  13  -4
+Brest              11   2   4   5  10  -4
+Angers             11   2   4   5  10  -7
+Nantes             11   2   3   6   9  -7
+Lorient            11   2   3   6   9 -12
+Metz               11   2   2   7   8 -16
 Auxerre            11   2   1   8   7 -10
-Metz               10   1   2   7   5 -18
 
 Ligue 1 Fixtures
 ----------------
@@ -209,53 +209,50 @@ Saturday, November 01
   Monaco               0–1   Paris FC
   Auxerre              0–1   Marseille
 Sunday, November 02
-  Rennes               vs    Strasbourg
-  Lille                vs    Angers
-  Nantes               vs    Metz
-  Lens                 vs    Lorient
-  Toulouse             vs    Le Havre
-  Brest                vs    Lyon
+  Rennes               4–1   Strasbourg
+  Lille                1–0   Angers
+  Nantes               0–2   Metz
+  Lens                 3–0   Lorient
+  Toulouse             0–0   Le Havre
+  Brest                0–0   Lyon
 
 
 Serie A
 -------
 Squad              MP   W   D   L  Pt  GD
 Napoli             10   7   1   2  22   8
-Roma                9   7   0   2  21   6
-Inter               9   6   0   3  18  11
-Milan               9   5   3   1  18   7
+Inter              10   7   0   3  21  12
+Milan              10   6   3   1  21   8
+Roma               10   7   0   3  21   5
+Bologna            10   5   3   2  18   8
 Juventus           10   5   3   2  18   4
 Como               10   4   5   1  17   6
-Bologna             9   4   3   2  15   6
 Udinese            10   4   3   3  15  -3
 Cremonese          10   3   5   2  14   0
 Atalanta           10   2   7   1  13   5
 Sassuolo            9   4   1   4  13   0
+Torino             10   3   4   3  13  -6
 Lazio               9   3   3   3  12   4
-Torino              9   3   3   3  12  -6
 Cagliari            9   2   3   4   9  -3
-Parma               9   1   4   4   7  -5
-Lecce               9   1   3   5   6  -7
-Pisa                9   0   5   4   5  -7
-Hellas Verona       9   0   5   4   5  -9
-Fiorentina          9   0   4   5   4  -8
+Lecce              10   2   3   5   9  -6
+Parma              10   1   4   5   7  -7
+Pisa               10   0   6   4   6  -7
+Hellas Verona      10   0   5   5   5 -10
+Fiorentina         10   0   4   6   4  -9
 Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Thursday, October 30
-  Cagliari             1–2   Sassuolo
-  Pisa                 0–0   Lazio
 Saturday, November 01
   Udinese              1–0   Atalanta
   Napoli               0–0   Como
   Cremonese            1–2   Juventus
 Sunday, November 02
-  Hellas Verona        vs    Inter
-  Torino               vs    Pisa
-  Fiorentina           vs    Lecce
-  Parma                vs    Bologna
-  Milan                vs    Roma
+  Hellas Verona        1–2   Inter
+  Torino               2–2   Pisa
+  Fiorentina           0–1   Lecce
+  Parma                1–3   Bologna
+  Milan                1–0   Roma
 Monday, November 03
   Sassuolo             vs    Genoa
   Lazio                vs    Cagliari
@@ -325,4 +322,4 @@ Wednesday, November 05
   Qarabağaz            vs    engChelsea
 
 
-Standings from FBRef.com 11.02.25
+Standings from FBRef.com 11.03.25
