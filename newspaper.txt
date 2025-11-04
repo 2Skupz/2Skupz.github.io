@@ -29,6 +29,9 @@ Sunday, November 02
   Austin               1–4   LA FC
 Monday, November 03
   Seattle              vs    Minnesota
+Friday, November 07
+  Charlotte            vs    New York City
+  Vancouver            vs    Dallas
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -53,18 +56,18 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Saturday, November 01                                               Friday, October 31
-  Häcken               1–1   Malmö                                    Augsburg             0–1   Dortmund
-  Norrköping           1–2   Sirius                                 Saturday, November 01
-Sunday, November 02                                                   Union Berlin         0–0   Freiburg
-  Halmstad             0–0   Brommapojkarna                           Mainz 05             1–1   Werder Bremen
-  Elfsborg             0–3   AIK Stockholm                            RB Leipzig           3–1   Stuttgart
-  Djurgården           0–0   Göteborg                                 Heidenheim           1–1   Eint Frankfurt
-  GAIS                 1–1   Öster                                    St. Pauli            0–4   Gladbach
-Monday, November 03                                                   Bayern Munich        3–0   Leverkusen
-  Degerfors            vs    Hammarby                               Sunday, November 02
-  Värnamo              vs    Mjällby                                  Köln                 4–1   Hamburger SV
-                                                                      Wolfsburg            2–3   Hoffenheim
+Saturday, November 01                                               Saturday, November 01
+  Häcken               1–1   Malmö                                    Union Berlin         0–0   Freiburg
+  Norrköping           1–2   Sirius                                   Mainz 05             1–1   Werder Bremen
+Sunday, November 02                                                   RB Leipzig           3–1   Stuttgart
+  Halmstad             0–0   Brommapojkarna                           Heidenheim           1–1   Eint Frankfurt
+  Elfsborg             0–3   AIK Stockholm                            St. Pauli            0–4   Gladbach
+  Djurgården           0–0   Göteborg                                 Bayern Munich        3–0   Leverkusen
+  GAIS                 1–1   Öster                                  Sunday, November 02
+Monday, November 03                                                   Köln                 4–1   Hamburger SV
+  Degerfors            vs    Hammarby                                 Wolfsburg            2–3   Hoffenheim
+  Värnamo              vs    Mjällby                                Friday, November 07
+                                                                      Werder Bremen        vs    Wolfsburg
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -102,8 +105,8 @@ Saturday, November 01                                               Saturday, No
 Sunday, November 02                                                   Lens                 3–0   Lorient
   West Ham             3–1   Newcastle Utd                            Toulouse             0–0   Le Havre
   Manchester City      3–1   Bournemouth                              Brest                0–0   Lyon
-Monday, November 03                                                 
-  Sunderland           vs    Everton                                
+Monday, November 03                                                 Friday, November 07
+  Sunderland           vs    Everton                                  Paris FC             vs    Rennes
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -143,6 +146,8 @@ Sunday, November 02
 Monday, November 03
   Sassuolo             vs    Genoa
   Lazio                vs    Cagliari
+Friday, November 07
+  Pisa                 vs    Cremonese
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -206,4 +211,4 @@ Wednesday, November 05
   Ajaxnl               vs    trGalatasaray
   Qarabağaz            vs    engChelsea
 
-Standings from FBRef.com 11.03.25
+Standings from FBRef.com 11.04.25
