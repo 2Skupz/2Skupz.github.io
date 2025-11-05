@@ -18,12 +18,6 @@ Sporting KC        34   7   7  20  46  70 -24  28  42.1  70.6       DC United   
 
 MLS Fixtures
 ------------
-Saturday, November 01
-  New York City        (6)0–0(7) Charlotte
-  Chicago              0–3   Philadelphia
-  Nashville            2–1   Inter Miami
-  Portland             (3)2–2(2) San Diego
-  Dallas               (2)1–1(4) Vancouver
 Sunday, November 02
   Columbus             4–0   Cincinnati
   Austin               1–4   LA FC
@@ -32,6 +26,10 @@ Monday, November 03
 Friday, November 07
   Charlotte            vs    New York City
   Vancouver            vs    Dallas
+Saturday, November 08
+  Inter Miami          vs    Nashville
+  Minnesota            vs    Seattle
+  Cincinnati           vs    Columbus
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -56,18 +54,17 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Saturday, November 01                                               Saturday, November 01
-  Häcken               1–1   Malmö                                    Union Berlin         0–0   Freiburg
-  Norrköping           1–2   Sirius                                   Mainz 05             1–1   Werder Bremen
-Sunday, November 02                                                   RB Leipzig           3–1   Stuttgart
-  Halmstad             0–0   Brommapojkarna                           Heidenheim           1–1   Eint Frankfurt
-  Elfsborg             0–3   AIK Stockholm                            St. Pauli            0–4   Gladbach
-  Djurgården           0–0   Göteborg                                 Bayern Munich        3–0   Leverkusen
-  GAIS                 1–1   Öster                                  Sunday, November 02
-Monday, November 03                                                   Köln                 4–1   Hamburger SV
-  Degerfors            vs    Hammarby                                 Wolfsburg            2–3   Hoffenheim
-  Värnamo              vs    Mjällby                                Friday, November 07
-                                                                      Werder Bremen        vs    Wolfsburg
+Sunday, November 02                                                 Sunday, November 02
+  Halmstad             0–0   Brommapojkarna                           Köln                 4–1   Hamburger SV
+  Elfsborg             0–3   AIK Stockholm                            Wolfsburg            2–3   Hoffenheim
+  Djurgården           0–0   Göteborg                               Friday, November 07
+  GAIS                 1–1   Öster                                    Werder Bremen        vs    Wolfsburg
+Monday, November 03                                                 Saturday, November 08
+  Degerfors            vs    Hammarby                                 Union Berlin         vs    Bayern Munich
+  Värnamo              vs    Mjällby                                  Leverkusen           vs    Heidenheim
+                                                                      Hamburger SV         vs    Dortmund
+                                                                      Hoffenheim           vs    RB Leipzig
+                                                                      Gladbach             vs    Köln
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -94,19 +91,19 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, November 01                                               Saturday, November 01
-  Crystal Palace       2–0   Brentford                                Paris S-G            1–0   Nice
-  Nott'ham Forest      2–2   Manchester Utd                           Monaco               0–1   Paris FC
-  Fulham               3–0   Wolves                                   Auxerre              0–1   Marseille
-  Burnley              0–2   Arsenal                                Sunday, November 02
-  Brighton             3–0   Leeds United                             Rennes               4–1   Strasbourg
-  Tottenham            0–1   Chelsea                                  Lille                1–0   Angers
-  Liverpool            2–0   Aston Villa                              Nantes               0–2   Metz
-Sunday, November 02                                                   Lens                 3–0   Lorient
-  West Ham             3–1   Newcastle Utd                            Toulouse             0–0   Le Havre
-  Manchester City      3–1   Bournemouth                              Brest                0–0   Lyon
-Monday, November 03                                                 Friday, November 07
-  Sunderland           vs    Everton                                  Paris FC             vs    Rennes
+Sunday, November 02                                                 Sunday, November 02
+  West Ham             3–1   Newcastle Utd                            Rennes               4–1   Strasbourg
+  Manchester City      3–1   Bournemouth                              Lille                1–0   Angers
+Monday, November 03                                                   Nantes               0–2   Metz
+  Sunderland           vs    Everton                                  Lens                 3–0   Lorient
+Saturday, November 08                                                 Toulouse             0–0   Le Havre
+  Tottenham            vs    Manchester Utd                           Brest                0–0   Lyon
+  West Ham             vs    Burnley                                Friday, November 07
+  Everton              vs    Fulham                                   Paris FC             vs    Rennes
+  Sunderland           vs    Arsenal                                Saturday, November 08
+  Chelsea              vs    Wolves                                   Marseille            vs    Brest
+                                                                      Le Havre             vs    Nantes
+                                                                      Monaco               vs    Lens
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -133,10 +130,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Saturday, November 01
-  Udinese              1–0   Atalanta
-  Napoli               0–0   Como
-  Cremonese            1–2   Juventus
 Sunday, November 02
   Hellas Verona        1–2   Inter
   Torino               2–2   Pisa
@@ -148,6 +141,11 @@ Monday, November 03
   Lazio                vs    Cagliari
 Friday, November 07
   Pisa                 vs    Cremonese
+Saturday, November 08
+  Lecce                vs    Hellas Verona
+  Como                 vs    Cagliari
+  Juventus             vs    Torino
+  Parma                vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -211,4 +209,4 @@ Wednesday, November 05
   Ajaxnl               vs    trGalatasaray
   Qarabağaz            vs    engChelsea
 
-Standings from FBRef.com 11.04.25
+Standings from FBRef.com 11.05.25

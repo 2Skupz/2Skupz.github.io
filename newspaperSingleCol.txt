@@ -19,12 +19,6 @@ Sporting KC        34   7   7  20  28 -24
 
 MLS Fixtures
 ------------
-Saturday, November 01
-  New York City        (6)0–0(7) Charlotte
-  Chicago Fire         0–3   Philadelphia
-  Nashville            2–1   Inter Miami
-  Portland             (3)2–2(2) San Diego
-  Dallas               (2)1–1(4) Vancouver
 Sunday, November 02
   Columbus             4–0   Cincinnati
   Austin               1–4   LA FC
@@ -33,6 +27,10 @@ Monday, November 03
 Friday, November 07
   Charlotte            vs    New York City
   Vancouver            vs    Dallas
+Saturday, November 08
+  Inter Miami          vs    Nashville
+  Minnesota United     vs    Seattle Sounders
+  Cincinnati           vs    Columbus
 
 
 MLS East
@@ -56,12 +54,6 @@ D.C. United        34   5  11  18  26 -36
 
 MLS Fixtures
 ------------
-Saturday, November 01
-  New York City        (6)0–0(7) Charlotte
-  Chicago Fire         0–3   Philadelphia
-  Nashville            2–1   Inter Miami
-  Portland             (3)2–2(2) San Diego
-  Dallas               (2)1–1(4) Vancouver
 Sunday, November 02
   Columbus             4–0   Cincinnati
   Austin               1–4   LA FC
@@ -70,6 +62,10 @@ Monday, November 03
 Friday, November 07
   Charlotte            vs    New York City
   Vancouver            vs    Dallas
+Saturday, November 08
+  Inter Miami          vs    Nashville
+  Minnesota United     vs    Seattle Sounders
+  Cincinnati           vs    Columbus
 
 
 Allsvenskan
@@ -94,9 +90,6 @@ Värnamo            28   3   7  18  16 -26
 
 Allsvenskan Fixtures
 --------------------
-Saturday, November 01
-  Häcken               1–1   Malmö
-  Norrköping           1–2   Sirius
 Sunday, November 02
   Halmstad             0–0   Brommapojkarna
   Elfsborg             0–3   AIK Stockholm
@@ -131,18 +124,17 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, November 01
-  Union Berlin         0–0   Freiburg
-  Mainz 05             1–1   Werder Bremen
-  RB Leipzig           3–1   Stuttgart
-  Heidenheim           1–1   Eint Frankfurt
-  St. Pauli            0–4   Gladbach
-  Bayern Munich        3–0   Leverkusen
 Sunday, November 02
   Köln                 4–1   Hamburger SV
   Wolfsburg            2–3   Hoffenheim
 Friday, November 07
   Werder Bremen        vs    Wolfsburg
+Saturday, November 08
+  Union Berlin         vs    Bayern Munich
+  Leverkusen           vs    Heidenheim
+  Hamburger SV         vs    Dortmund
+  Hoffenheim           vs    RB Leipzig
+  Gladbach             vs    Köln
 
 
 Premier League
@@ -171,19 +163,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, November 01
-  Crystal Palace       2–0   Brentford
-  Nott'ham Forest      2–2   Manchester Utd
-  Fulham               3–0   Wolves
-  Burnley              0–2   Arsenal
-  Brighton             3–0   Leeds United
-  Tottenham            0–1   Chelsea
-  Liverpool            2–0   Aston Villa
 Sunday, November 02
   West Ham             3–1   Newcastle Utd
   Manchester City      3–1   Bournemouth
 Monday, November 03
   Sunderland           vs    Everton
+Saturday, November 08
+  Tottenham            vs    Manchester Utd
+  West Ham             vs    Burnley
+  Everton              vs    Fulham
+  Sunderland           vs    Arsenal
+  Chelsea              vs    Wolves
 
 
 Ligue 1
@@ -210,10 +200,6 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Saturday, November 01
-  Paris S-G            1–0   Nice
-  Monaco               0–1   Paris FC
-  Auxerre              0–1   Marseille
 Sunday, November 02
   Rennes               4–1   Strasbourg
   Lille                1–0   Angers
@@ -223,6 +209,10 @@ Sunday, November 02
   Brest                0–0   Lyon
 Friday, November 07
   Paris FC             vs    Rennes
+Saturday, November 08
+  Marseille            vs    Brest
+  Le Havre             vs    Nantes
+  Monaco               vs    Lens
 
 
 Serie A
@@ -251,10 +241,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Saturday, November 01
-  Udinese              1–0   Atalanta
-  Napoli               0–0   Como
-  Cremonese            1–2   Juventus
 Sunday, November 02
   Hellas Verona        1–2   Inter
   Torino               2–2   Pisa
@@ -266,6 +252,11 @@ Monday, November 03
   Lazio                vs    Cagliari
 Friday, November 07
   Pisa                 vs    Cremonese
+Saturday, November 08
+  Lecce                vs    Hellas Verona
+  Como                 vs    Cagliari
+  Juventus             vs    Torino
+  Parma                vs    Milan
 
 
 Champions League
@@ -332,4 +323,4 @@ Wednesday, November 05
   Qarabağaz            vs    engChelsea
 
 
-Standings from FBRef.com 11.04.25
+Standings from FBRef.com 11.05.25
