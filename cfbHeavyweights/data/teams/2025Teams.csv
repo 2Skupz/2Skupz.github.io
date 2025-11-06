@@ -1,5 +1,5 @@
-0,Georgia Tech,ACC
-1,Virginia,ACC
+0,Virginia,ACC
+1,Georgia Tech,ACC
 2,Pitt,ACC
 3,Louisville,ACC
 4,SMU,ACC
@@ -7,26 +7,26 @@
 6,Miami,ACC
 7,Wake Forest,ACC
 8,California,ACC
-9,Virginia Tech,ACC
-10,Clemson,ACC
-11,Stanford,ACC
-12,NC State,ACC
-13,Syracuse,ACC
+9,NC State,ACC
+10,Virginia Tech,ACC
+11,Clemson,ACC
+12,Stanford,ACC
+13,North Carolina,ACC
 14,Florida State,ACC
-15,North Carolina,ACC
+15,Syracuse,ACC
 16,Boston College,ACC
 17,Navy,American
-18,Tulane,American
-19,Memphis,American
-20,North Texas,American
-21,South Florida,American
-22,Temple,American
-23,East Carolina,American
-24,Army,American
-25,Florida Atlantic,American
-26,UTSA,American
-27,Rice,American
-28,UAB,American
+18,Memphis,American
+19,North Texas,American
+20,South Florida,American
+21,Tulane,American
+22,East Carolina,American
+23,Temple,American
+24,UTSA,American
+25,Army,American
+26,Florida Atlantic,American
+27,UAB,American
+28,Rice,American
 29,Tulsa,American
 30,Charlotte,American
 31,Cincinnati,Big 12
@@ -39,37 +39,37 @@
 38,BYU,Big 12
 39,Texas Tech,Big 12
 40,TCU,Big 12
-41,Kansas State,Big 12
-42,Iowa State,Big 12
-43,Baylor,Big 12
-44,Kansas,Big 12
+41,Baylor,Big 12
+42,Kansas,Big 12
+43,Kansas State,Big 12
+44,Iowa State,Big 12
 45,West Virginia,Big 12
 46,Oklahoma State,Big 12
 47,Indiana,Big Ten
 48,Ohio State,Big Ten
-49,Oregon,Big Ten
-50,Iowa,Big Ten
-51,Michigan,Big Ten
+49,Michigan,Big Ten
+50,Oregon,Big Ten
+51,Iowa,Big Ten
 52,USC,Big Ten
-53,Nebraska,Big Ten
+53,Minnesota,Big Ten
 54,Washington,Big Ten
-55,Minnesota,Big Ten
-56,Northwestern,Big Ten
-57,UCLA,Big Ten
-58,Illinois,Big Ten
+55,Northwestern,Big Ten
+56,UCLA,Big Ten
+57,Illinois,Big Ten
+58,Nebraska,Big Ten
 59,Maryland,Big Ten
 60,Rutgers,Big Ten
 61,Penn State,Big Ten
 62,Michigan State,Big Ten
-63,Purdue,Big Ten
-64,Wisconsin,Big Ten
+63,Wisconsin,Big Ten
+64,Purdue,Big Ten
 65,Kennesaw State,CUSA
 66,Jacksonville State,CUSA
 67,Western Kentucky,CUSA
 68,Missouri State,CUSA
 69,Liberty,CUSA
-70,Delaware,CUSA
-71,Louisiana Tech,CUSA
+70,Louisiana Tech,CUSA
+71,Delaware,CUSA
 72,Florida Int'l,CUSA
 73,UTEP,CUSA
 74,New Mexico State,CUSA
@@ -79,28 +79,28 @@
 78,Connecticut,Ind
 79,Washington State,Ind
 80,Oregon State,Ind
-81,Miami (OH),MAC
-82,Central Michigan,MAC
-83,Ohio,MAC
-84,Buffalo,MAC
-85,Western Michigan,MAC
+81,Ohio,MAC
+82,Buffalo,MAC
+83,Miami (OH),MAC
+84,Western Michigan,MAC
+85,Central Michigan,MAC
 86,Toledo,MAC
-87,Ball State,MAC
-88,Kent State,MAC
-89,Akron,MAC
-90,Bowling Green,MAC
-91,Northern Illinois,MAC
+87,Akron,MAC
+88,Ball State,MAC
+89,Kent State,MAC
+90,Northern Illinois,MAC
+91,Bowling Green,MAC
 92,Eastern Michigan,MAC
 93,Massachusetts,MAC
 94,San Diego State,MWC
 95,Boise State,MWC
-96,Hawaii,MWC
-97,UNLV,MWC
-98,Fresno State,MWC
-99,New Mexico,MWC
+96,Fresno State,MWC
+97,Hawaii,MWC
+98,New Mexico,MWC
+99,UNLV,MWC
 100,Utah State,MWC
-101,Wyoming,MWC
-102,San Jose State,MWC
+101,San Jose State,MWC
+102,Wyoming,MWC
 103,Colorado State,MWC
 104,Air Force,MWC
 105,Nevada,MWC
@@ -108,29 +108,29 @@
 107,Alabama,SEC
 108,Ole Miss,SEC
 109,Georgia,SEC
-110,Vanderbilt,SEC
-111,Texas,SEC
-112,Tennessee,SEC
+110,Texas,SEC
+111,Oklahoma,SEC
+112,Vanderbilt,SEC
 113,Missouri,SEC
-114,Oklahoma,SEC
-115,Florida,SEC
-116,LSU,SEC
-117,Auburn,SEC
-118,South Carolina,SEC
-119,Mississippi State,SEC
-120,Kentucky,SEC
+114,Tennessee,SEC
+115,LSU,SEC
+116,Florida,SEC
+117,Mississippi State,SEC
+118,Auburn,SEC
+119,Kentucky,SEC
+120,South Carolina,SEC
 121,Arkansas,SEC
 122,James Madison,Sun Belt (East)
 123,Coastal Carolina,Sun Belt (East)
-124,Marshall,Sun Belt (East)
-125,Old Dominion,Sun Belt (East)
+124,Old Dominion,Sun Belt (East)
+125,Marshall,Sun Belt (East)
 126,Appalachian State,Sun Belt (East)
 127,Georgia Southern,Sun Belt (East)
 128,Georgia State,Sun Belt (East)
 129,Southern Miss,Sun Belt (West)
 130,Troy,Sun Belt (West)
 131,Arkansas State,Sun Belt (West)
-132,Louisiana-Monroe,Sun Belt (West)
-133,Louisiana,Sun Belt (West)
+132,Louisiana,Sun Belt (West)
+133,Louisiana-Monroe,Sun Belt (West)
 134,South Alabama,Sun Belt (West)
 135,Texas State,Sun Belt (West)
