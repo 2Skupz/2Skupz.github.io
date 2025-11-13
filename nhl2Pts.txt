@@ -8,8 +8,8 @@ Anaheim                16    8    4    4    14    20
 Vegas                  15    6    4    5     3    17
 Los Angeles            17    5    5    7    -2    17
 SEATTLE                16    4    4    8    -6    16
+Edmonton               18    4    6    8    -8    16
 San Jose               17    4    6    7    -2    15
-Edmonton               17    4    6    7    -9    15
 Vancouver              18    4    9    5   -10    13
 Calgary                18    3   12    3   -20     9
 
@@ -19,9 +19,9 @@ Central                GP    W    L    T    GD   Pts
 Colorado               17   10    1    6    25    26
 Dallas                 17    7    4    6    -1    20
 Winnipeg               16    9    6    1    10    19
-Chicago                16    7    5    4    12    18
+Chicago                17    7    5    5    11    19
+Utah                   17    7    7    3     4    17
 Minnesota              18    5    7    6    -8    16
-Utah                   16    6    7    3     1    15
 St. Louis              17    6    8    3   -18    15
 Nashville              18    4    9    5   -18    13
 
@@ -29,12 +29,12 @@ Nashville              18    4    9    5   -18    13
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Pittsburgh             17    9    5    3     9    21
-New Jersey             16    8    4    4     7    20
+New Jersey             17    8    4    5     8    21
 Carolina               16    8    5    3    14    19
+NY Rangers             18    7    7    4     2    18
 NY Islanders           16    7    6    3     0    17
 Washington             16    7    7    2     7    16
-NY Rangers             17    6    7    4    -2    16
-Philadelphia           15    4    5    6     4    14
+Philadelphia           16    4    5    7     3    15
 Columbus               16    5    7    4    -1    14
 
 --------------------------------------------------------------------------------
@@ -43,9 +43,9 @@ Atlantic               GP    W    L    T    GD   Pts
 Boston                 18    7    7    4     3    18
 Montreal               16    5    4    7     6    17
 Ottawa                 17    5    5    7    -2    17
-Tampa Bay              15    6    5    4     5    16
 Florida                16    7    7    2    -5    16
+Tampa Bay              16    6    6    4     1    16
 Detroit                16    6    7    3    -5    15
 Toronto                17    6    8    3    -3    15
-Buffalo                15    4    6    5    -8    13
+Buffalo                16    4    7    5   -11    13
 
