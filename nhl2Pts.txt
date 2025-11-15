@@ -10,7 +10,7 @@ SEATTLE                17    5    4    8    -4    18
 Los Angeles            18    5    5    8    -1    18
 Edmonton               19    4    7    8    -9    16
 San Jose               18    4    7    7    -4    15
-Vancouver              18    4    9    5   -10    13
+Vancouver              19    4    9    6   -11    14
 Calgary                19    4   12    3   -18    11
 
 --------------------------------------------------------------------------------
@@ -20,22 +20,22 @@ Colorado               18   11    1    6    28    28
 Dallas                 18    8    4    6     6    22
 Winnipeg               17    9    7    1     8    19
 Chicago                17    7    5    5    11    19
-Utah                   17    7    7    3     4    17
+Utah                   18    7    7    4     3    18
+St. Louis              18    6    8    4   -19    16
 Minnesota              18    5    7    6    -8    16
-St. Louis              17    6    8    3   -18    15
-Nashville              18    4    9    5   -18    13
+Nashville              19    4    9    6   -17    14
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Pittsburgh             17    9    5    3     9    21
+Pittsburgh             18    9    5    4     8    22
 New Jersey             17    8    4    5     8    21
-Carolina               16    8    5    3    14    19
-NY Islanders           17    7    6    4     1    18
+Carolina               17    8    5    4    15    20
+NY Islanders           18    7    6    5     2    19
 NY Rangers             18    7    7    4     2    18
 Washington             17    7    8    2     4    16
 Columbus               17    6    7    4     0    16
-Philadelphia           16    4    5    7     3    15
+Philadelphia           17    4    5    8     4    16
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L    T    GD   Pts
