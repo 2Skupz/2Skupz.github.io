@@ -18,18 +18,6 @@ Sporting KC        34   7   7  20  46  70 -24  28  42.1  70.6       DC United   
 
 MLS Fixtures
 ------------
-Sunday, November 02
-  Columbus             4–0   Cincinnati
-  Austin               1–4   LA FC
-Monday, November 03
-  Seattle              vs    Minnesota
-Friday, November 07
-  Charlotte            vs    New York City
-  Vancouver            vs    Dallas
-Saturday, November 08
-  Inter Miami          vs    Nashville
-  Minnesota            vs    Seattle
-  Cincinnati           vs    Columbus
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -52,19 +40,6 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
                                                                     Mainz 05            9   1   2   6  10  17  -7   5  12.4  14.5
                                                                     Heidenheim          9   1   2   6   8  17  -9   5  11.8  15.9
 
-Allsvenskan Fixtures                                                Bundesliga Fixtures
---------------------                                                -------------------
-Sunday, November 02                                                 Sunday, November 02
-  Halmstad             0–0   Brommapojkarna                           Köln                 4–1   Hamburger SV
-  Elfsborg             0–3   AIK Stockholm                            Wolfsburg            2–3   Hoffenheim
-  Djurgården           0–0   Göteborg                               Friday, November 07
-  GAIS                 1–1   Öster                                    Werder Bremen        vs    Wolfsburg
-Monday, November 03                                                 Saturday, November 08
-  Degerfors            vs    Hammarby                                 Union Berlin         vs    Bayern Munich
-  Värnamo              vs    Mjällby                                  Leverkusen           vs    Heidenheim
-                                                                      Hamburger SV         vs    Dortmund
-                                                                      Hoffenheim           vs    RB Leipzig
-                                                                      Gladbach             vs    Köln
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -89,21 +64,6 @@ West Ham           10   2   1   7  10  21 -11   7   9.3  15.3       Auxerre     
 Nott'ham Forest    10   1   3   6   7  19 -12   6  11.0  15.9       
 Wolves             10   0   2   8   7  22 -15   2   9.4  12.7       
 
-Premier League Fixtures                                             Ligue 1 Fixtures
------------------------                                             ----------------
-Sunday, November 02                                                 Sunday, November 02
-  West Ham             3–1   Newcastle Utd                            Rennes               4–1   Strasbourg
-  Manchester City      3–1   Bournemouth                              Lille                1–0   Angers
-Monday, November 03                                                   Nantes               0–2   Metz
-  Sunderland           vs    Everton                                  Lens                 3–0   Lorient
-Saturday, November 08                                                 Toulouse             0–0   Le Havre
-  Tottenham            vs    Manchester Utd                           Brest                0–0   Lyon
-  West Ham             vs    Burnley                                Friday, November 07
-  Everton              vs    Fulham                                   Paris FC             vs    Rennes
-  Sunderland           vs    Arsenal                                Saturday, November 08
-  Chelsea              vs    Wolves                                   Marseille            vs    Brest
-                                                                      Le Havre             vs    Nantes
-                                                                      Monaco               vs    Lens
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -128,24 +88,6 @@ Hellas Verona      10   0   5   5   6  16 -10   5  11.9  11.7
 Fiorentina         10   0   4   6   7  16  -9   4  13.2  15.0       
 Genoa               9   0   3   6   4  13  -9   3  11.3   9.8       
 
-Serie A Fixtures
-----------------
-Sunday, November 02
-  Hellas Verona        1–2   Inter
-  Torino               2–2   Pisa
-  Fiorentina           0–1   Lecce
-  Parma                1–3   Bologna
-  Milan                1–0   Roma
-Monday, November 03
-  Sassuolo             vs    Genoa
-  Lazio                vs    Cagliari
-Friday, November 07
-  Pisa                 vs    Cremonese
-Saturday, November 08
-  Lecce                vs    Hellas Verona
-  Como                 vs    Cagliari
-  Juventus             vs    Torino
-  Parma                vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -186,27 +128,5 @@ kz  Qaırat Almaty    3   0   1   2   1   9  -8   1   2.3   8.9
 pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8      
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
-Champions League Fixtures
--------------------------
-Tuesday, November 04
-  Slavia Praguecz      vs    engArsenal
-  Napoliit             vs    deEint Frankfurt
-  Tottenhameng         vs    dkFC Copenhagen
-  Liverpooleng         vs    esReal Madrid
-  Juventusit           vs    ptSporting CP
-  Atlético Madrides    vs    beUnion SG
-  Bodø/Glimtno         vs    frMonaco
-  Paris S-Gfr          vs    deBayern Munich
-  Olympiacosgr         vs    nlPSV Eindhoven
-Wednesday, November 05
-  Pafos FCcy           vs    esVillarreal
-  Manchester Cityeng   vs    deDortmund
-  Benficapt            vs    deLeverkusen
-  Newcastle Utdeng     vs    esAthletic Club
-  Marseillefr          vs    itAtalanta
-  Interit              vs    kzQaırat Almaty
-  Club Bruggebe        vs    esBarcelona
-  Ajaxnl               vs    trGalatasaray
-  Qarabağaz            vs    engChelsea
 
-Standings from FBRef.com 11.05.25
+Standings from FBRef.com 11.17.25
