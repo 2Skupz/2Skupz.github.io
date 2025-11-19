@@ -85,6 +85,13 @@ Bundesliga Fixtures
 -------------------
 Friday, November 21
   Mainz 05             vs    Hoffenheim
+Saturday, November 22
+  Bayern Munich        vs    Freiburg
+  Dortmund             vs    Stuttgart
+  Augsburg             vs    Hamburger SV
+  Heidenheim           vs    Gladbach
+  Wolfsburg            vs    Leverkusen
+  Köln                 vs    Eint Frankfurt
 
 
 Premier League
@@ -110,6 +117,17 @@ Burnley            10   3   1   6  10  -7
 West Ham           10   2   1   7   7 -11
 Nott'ham Forest    10   1   3   6   6 -12
 Wolves             10   0   2   8   2 -15
+
+Premier League Fixtures
+-----------------------
+Saturday, November 22
+  Burnley              vs    Chelsea
+  Bournemouth          vs    West Ham
+  Fulham               vs    Sunderland
+  Wolves               vs    Crystal Palace
+  Liverpool            vs    Nott'ham Forest
+  Brighton             vs    Brentford
+  Newcastle Utd        vs    Manchester City
 
 
 Ligue 1
@@ -138,6 +156,10 @@ Ligue 1 Fixtures
 ----------------
 Friday, November 21
   Nice                 vs    Marseille
+Saturday, November 22
+  Lens                 vs    Strasbourg
+  Rennes               vs    Monaco
+  Paris S-G            vs    Le Havre
 
 
 Serie A
@@ -163,6 +185,14 @@ Pisa               10   0   6   4   6  -7
 Hellas Verona      10   0   5   5   5 -10
 Fiorentina         10   0   4   6   4  -9
 Genoa               9   0   3   6   3  -9
+
+Serie A Fixtures
+----------------
+Saturday, November 22
+  Cagliari             vs    Genoa
+  Udinese              vs    Bologna
+  Fiorentina           vs    Juventus
+  Napoli               vs    Atalanta
 
 
 Champions League
@@ -206,4 +236,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 11.18.25
+Standings from FBRef.com 11.19.25
