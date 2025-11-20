@@ -51,6 +51,9 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
                                                                       Heidenheim           vs    Gladbach
                                                                       Wolfsburg            vs    Leverkusen
                                                                       Köln                 vs    Eint Frankfurt
+                                                                    Sunday, November 23
+                                                                      RB Leipzig           vs    Werder Bremen
+                                                                      St. Pauli            vs    Union Berlin
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -83,8 +86,12 @@ Saturday, November 22                                               Friday, Nove
   Fulham               vs    Sunderland                               Lens                 vs    Strasbourg
   Wolves               vs    Crystal Palace                           Rennes               vs    Monaco
   Liverpool            vs    Nott'ham Forest                          Paris S-G            vs    Le Havre
-  Brighton             vs    Brentford                              
-  Newcastle Utd        vs    Manchester City                        
+  Brighton             vs    Brentford                              Sunday, November 23
+  Newcastle Utd        vs    Manchester City                          Auxerre              vs    Lyon
+Sunday, November 23                                                   Toulouse             vs    Angers
+  Leeds United         vs    Aston Villa                              Brest                vs    Metz
+  Arsenal              vs    Tottenham                                Nantes               vs    Lorient
+                                                                      Lille                vs    Paris FC
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -116,6 +123,11 @@ Saturday, November 22
   Udinese              vs    Bologna
   Fiorentina           vs    Juventus
   Napoli               vs    Atalanta
+Sunday, November 23
+  Hellas Verona        vs    Parma
+  Cremonese            vs    Roma
+  Lazio                vs    Lecce
+  Inter                vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -157,4 +169,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 11.19.25
+Standings from FBRef.com 11.20.25
