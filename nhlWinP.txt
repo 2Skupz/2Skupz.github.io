@@ -7,8 +7,8 @@ Pacific                GP    W    L     WinP    GB
 Anaheim                21   13    8     .619    --
 Vegas                  20   10   10     .500   2.5
 SEATTLE                20   10   10     .500   2.5
-Los Angeles            21   10   11     .476   3.0
 San Jose               21   10   11     .476   3.0
+Los Angeles            22   10   12     .455   3.5
 Vancouver              22    9   13     .409   4.5
 Edmonton               23    9   14     .391   5.0
 Calgary                22    6   16     .273   7.5
@@ -17,35 +17,35 @@ Calgary                22    6   16     .273   7.5
 Central                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Colorado               20   14    6     .700    --
-Winnipeg               19   12    7     .632   1.5
 Dallas                 21   13    8     .619   1.5
-Chicago                20   10   10     .500   4.0
+Winnipeg               20   12    8     .600   2.0
+Minnesota              22   11   11     .500   4.0
+Chicago                21   10   11     .476   4.5
 Utah                   21   10   11     .476   4.5
-Minnesota              21   10   11     .476   4.5
 Nashville              20    6   14     .300   8.0
 St. Louis              21    6   15     .286   8.5
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Carolina               20   13    7     .650    --
-New Jersey             20   13    7     .650    --
-NY Islanders           21   12    9     .571   1.5
-Pittsburgh             19   10    9     .526   2.5
-Philadelphia           19   10    9     .526   2.5
-Washington             21   11   10     .524   2.5
-Columbus               21   11   10     .524   2.5
-NY Rangers             22   10   12     .455   4.0
+Carolina               21   14    7     .667    --
+New Jersey             20   13    7     .650   0.5
+NY Islanders           21   12    9     .571   2.0
+Philadelphia           19   10    9     .526   3.0
+Washington             21   11   10     .524   3.0
+Columbus               21   11   10     .524   3.0
+Pittsburgh             20   10   10     .500   3.5
+NY Rangers             22   10   12     .455   4.5
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Detroit                21   12    9     .571    --
+Boston                 23   13   10     .565    --
 Tampa Bay              20   11    9     .550   0.5
 Florida                20   11    9     .550   0.5
-Boston                 22   12   10     .545   0.5
 Ottawa                 20   10   10     .500   1.5
 Montreal               20   10   10     .500   1.5
 Toronto                21    9   12     .429   3.0
-Buffalo                20    7   13     .350   4.5
+Buffalo                21    8   13     .381   4.0
 
