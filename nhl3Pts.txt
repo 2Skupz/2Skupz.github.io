@@ -6,32 +6,32 @@ Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Anaheim                22    9    5    1    7    11    38
 Vegas                  21    9    1    7    4     7    36
-SEATTLE                21    7    4    5    5    -1    34
+SEATTLE                22    7    4    6    5    -2    35
 Los Angeles            22    6    4    6    6    -3    32
+San Jose               23    5    6    3    9    -4    30
 Edmonton               24    5    5    5    9   -13    30
-San Jose               22    4    6    3    9    -6    27
-Vancouver              22    5    4    2   11   -12    25
-Calgary                23    5    2    3   13   -17    22
+Vancouver              23    5    4    2   12   -15    25
+Calgary                24    6    2    3   13   -14    25
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Colorado               21   14    1    5    1    37    49
+Colorado               22   15    1    5    1    38    52
 Dallas                 22   10    3    4    5    10    40
-Winnipeg               20   10    2    0    8    11    34
-Chicago                21    9    1    4    7     8    33
+Minnesota              23    8    4    4    7     4    36
+Winnipeg               21   10    2    0    9     8    34
+Chicago                22    9    1    4    8     7    33
 Utah                   22    8    3    3    8    -1    33
-Minnesota              22    7    4    4    7     1    33
 St. Louis              22    7    0    6    9   -23    27
 Nashville              21    4    2    4   11   -24    20
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Carolina               21   10    4    2    5    16    40
+Carolina               22   10    4    2    6    13    40
+NY Islanders           23    9    4    2    8     5    37
 Pittsburgh             21   10    0    5    6     6    35
 New Jersey             21    8    5    1    7     1    35
-NY Islanders           22    9    3    2    8     4    35
 Washington             22   10    1    2    9     9    34
 Columbus               22    6    5    3    8    -3    31
 Philadelphia           20    5    6    3    6     4    30
@@ -43,9 +43,9 @@ Atlantic               GP    W   OW   OL    L    GD   Pts
 Detroit                22    9    4    1    8    -4    36
 Tampa Bay              21    9    3    2    7     6    35
 Ottawa                 21    8    3    4    6     1    34
-Boston                 23    8    5    0   10     0    34
+Boston                 24    8    5    0   11    -2    34
 Florida                21   10    1    1    9    -3    33
 Montreal               21    6    5    3    7    -4    31
+Buffalo                22    7    2    4    9    -4    29
 Toronto                22    6    3    3   10    -8    27
-Buffalo                21    6    2    4    9    -7    26
 
