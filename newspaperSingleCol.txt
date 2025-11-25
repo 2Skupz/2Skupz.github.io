@@ -83,8 +83,6 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Friday, November 21
-  Mainz 05             vs    Hoffenheim
 Saturday, November 22
   Bayern Munich        vs    Freiburg
   Dortmund             vs    Stuttgart
@@ -95,6 +93,8 @@ Saturday, November 22
 Sunday, November 23
   RB Leipzig           vs    Werder Bremen
   St. Pauli            vs    Union Berlin
+Friday, November 28
+  Gladbach             vs    RB Leipzig
 
 
 Premier League
@@ -162,8 +162,6 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Friday, November 21
-  Nice                 vs    Marseille
 Saturday, November 22
   Lens                 vs    Strasbourg
   Rennes               vs    Monaco
@@ -174,6 +172,8 @@ Sunday, November 23
   Brest                vs    Metz
   Nantes               vs    Lorient
   Lille                vs    Paris FC
+Friday, November 28
+  Metz                 vs    Rennes
 
 
 Serie A
@@ -215,6 +215,8 @@ Sunday, November 23
 Monday, November 24
   Torino               vs    Como
   Sassuolo             vs    Pisa
+Friday, November 28
+  Como                 vs    Sassuolo
 
 
 Champions League
@@ -281,4 +283,4 @@ Wednesday, November 26
   Olympiacosgr         vs    esReal Madrid
 
 
-Standings from FBRef.com 11.24.25
+Standings from FBRef.com 11.25.25

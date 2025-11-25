@@ -42,8 +42,6 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Friday, November 21
-                                                                      Mainz 05             vs    Hoffenheim
                                                                     Saturday, November 22
                                                                       Bayern Munich        vs    Freiburg
                                                                       Dortmund             vs    Stuttgart
@@ -54,6 +52,8 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
                                                                     Sunday, November 23
                                                                       RB Leipzig           vs    Werder Bremen
                                                                       St. Pauli            vs    Union Berlin
+                                                                    Friday, November 28
+                                                                      Gladbach             vs    RB Leipzig
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -80,18 +80,18 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, November 22                                               Friday, November 21
-  Burnley              vs    Chelsea                                  Nice                 vs    Marseille
-  Bournemouth          vs    West Ham                               Saturday, November 22
-  Fulham               vs    Sunderland                               Lens                 vs    Strasbourg
-  Wolves               vs    Crystal Palace                           Rennes               vs    Monaco
-  Liverpool            vs    Nott'ham Forest                          Paris S-G            vs    Le Havre
-  Brighton             vs    Brentford                              Sunday, November 23
-  Newcastle Utd        vs    Manchester City                          Auxerre              vs    Lyon
-Sunday, November 23                                                   Toulouse             vs    Angers
-  Leeds United         vs    Aston Villa                              Brest                vs    Metz
-  Arsenal              vs    Tottenham                                Nantes               vs    Lorient
-Monday, November 24                                                   Lille                vs    Paris FC
+Saturday, November 22                                               Saturday, November 22
+  Burnley              vs    Chelsea                                  Lens                 vs    Strasbourg
+  Bournemouth          vs    West Ham                                 Rennes               vs    Monaco
+  Fulham               vs    Sunderland                               Paris S-G            vs    Le Havre
+  Wolves               vs    Crystal Palace                         Sunday, November 23
+  Liverpool            vs    Nott'ham Forest                          Auxerre              vs    Lyon
+  Brighton             vs    Brentford                                Toulouse             vs    Angers
+  Newcastle Utd        vs    Manchester City                          Brest                vs    Metz
+Sunday, November 23                                                   Nantes               vs    Lorient
+  Leeds United         vs    Aston Villa                              Lille                vs    Paris FC
+  Arsenal              vs    Tottenham                              Friday, November 28
+Monday, November 24                                                   Metz                 vs    Rennes
   Manchester Utd       vs    Everton                                
 
 Serie A                                                             
@@ -132,6 +132,8 @@ Sunday, November 23
 Monday, November 24
   Torino               vs    Como
   Sassuolo             vs    Pisa
+Friday, November 28
+  Como                 vs    Sassuolo
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -195,4 +197,4 @@ Wednesday, November 26
   Atlético Madrides    vs    itInter
   Olympiacosgr         vs    esReal Madrid
 
-Standings from FBRef.com 11.24.25
+Standings from FBRef.com 11.25.25
