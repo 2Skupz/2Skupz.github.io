@@ -42,18 +42,17 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Saturday, November 22
-                                                                      Bayern Munich        vs    Freiburg
-                                                                      Dortmund             vs    Stuttgart
-                                                                      Augsburg             vs    Hamburger SV
-                                                                      Heidenheim           vs    Gladbach
-                                                                      Wolfsburg            vs    Leverkusen
-                                                                      Köln                 vs    Eint Frankfurt
                                                                     Sunday, November 23
                                                                       RB Leipzig           vs    Werder Bremen
                                                                       St. Pauli            vs    Union Berlin
                                                                     Friday, November 28
                                                                       Gladbach             vs    RB Leipzig
+                                                                    Saturday, November 29
+                                                                      Union Berlin         vs    Heidenheim
+                                                                      Hoffenheim           vs    Augsburg
+                                                                      Bayern Munich        vs    St. Pauli
+                                                                      Werder Bremen        vs    Köln
+                                                                      Leverkusen           vs    Dortmund
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -80,19 +79,18 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, November 22                                               Saturday, November 22
-  Burnley              vs    Chelsea                                  Lens                 vs    Strasbourg
-  Bournemouth          vs    West Ham                                 Rennes               vs    Monaco
-  Fulham               vs    Sunderland                               Paris S-G            vs    Le Havre
-  Wolves               vs    Crystal Palace                         Sunday, November 23
-  Liverpool            vs    Nott'ham Forest                          Auxerre              vs    Lyon
-  Brighton             vs    Brentford                                Toulouse             vs    Angers
-  Newcastle Utd        vs    Manchester City                          Brest                vs    Metz
-Sunday, November 23                                                   Nantes               vs    Lorient
-  Leeds United         vs    Aston Villa                              Lille                vs    Paris FC
-  Arsenal              vs    Tottenham                              Friday, November 28
-Monday, November 24                                                   Metz                 vs    Rennes
-  Manchester Utd       vs    Everton                                
+Sunday, November 23                                                 Sunday, November 23
+  Leeds United         vs    Aston Villa                              Auxerre              vs    Lyon
+  Arsenal              vs    Tottenham                                Toulouse             vs    Angers
+Monday, November 24                                                   Brest                vs    Metz
+  Manchester Utd       vs    Everton                                  Nantes               vs    Lorient
+Saturday, November 29                                                 Lille                vs    Paris FC
+  Sunderland           vs    Bournemouth                            Friday, November 28
+  Brentford            vs    Burnley                                  Metz                 vs    Rennes
+  Manchester City      vs    Leeds United                           Saturday, November 29
+  Everton              vs    Newcastle Utd                            Monaco               vs    Paris S-G
+  Tottenham            vs    Fulham                                   Paris FC             vs    Auxerre
+                                                                      Marseille            vs    Toulouse
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -119,11 +117,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Saturday, November 22
-  Cagliari             vs    Genoa
-  Udinese              vs    Bologna
-  Fiorentina           vs    Juventus
-  Napoli               vs    Atalanta
 Sunday, November 23
   Hellas Verona        vs    Parma
   Cremonese            vs    Roma
@@ -134,6 +127,11 @@ Monday, November 24
   Sassuolo             vs    Pisa
 Friday, November 28
   Como                 vs    Sassuolo
+Saturday, November 29
+  Parma                vs    Udinese
+  Genoa                vs    Hellas Verona
+  Juventus             vs    Cagliari
+  Milan                vs    Lazio
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -197,4 +195,4 @@ Wednesday, November 26
   Atlético Madrides    vs    itInter
   Olympiacosgr         vs    esReal Madrid
 
-Standings from FBRef.com 11.25.25
+Standings from FBRef.com 11.26.25

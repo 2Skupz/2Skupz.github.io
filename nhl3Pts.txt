@@ -9,7 +9,7 @@ Vegas                  22    9    1    7    5     3    36
 SEATTLE                22    7    4    6    5    -2    35
 Los Angeles            23    7    4    6    6    -2    35
 San Jose               23    5    6    3    9    -4    30
-Edmonton               24    5    5    5    9   -13    30
+Edmonton               25    5    5    5   10   -18    30
 Vancouver              23    5    4    2   12   -15    25
 Calgary                24    6    2    3   13   -14    25
 
@@ -17,7 +17,7 @@ Calgary                24    6    2    3   13   -14    25
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Colorado               22   15    1    5    1    38    52
-Dallas                 22   10    3    4    5    10    40
+Dallas                 23   11    3    4    5    15    43
 Utah                   23    9    3    3    8     3    36
 Minnesota              23    8    4    4    7     4    36
 Winnipeg               21   10    2    0    9     8    34
