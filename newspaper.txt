@@ -42,9 +42,6 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Sunday, November 23
-                                                                      RB Leipzig           vs    Werder Bremen
-                                                                      St. Pauli            vs    Union Berlin
                                                                     Friday, November 28
                                                                       Gladbach             vs    RB Leipzig
                                                                     Saturday, November 29
@@ -53,6 +50,10 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
                                                                       Bayern Munich        vs    St. Pauli
                                                                       Werder Bremen        vs    Köln
                                                                       Leverkusen           vs    Dortmund
+                                                                    Sunday, November 30
+                                                                      Hamburger SV         vs    Stuttgart
+                                                                      Eint Frankfurt       vs    Wolfsburg
+                                                                      Freiburg             vs    Mainz 05
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -79,18 +80,20 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Sunday, November 23                                                 Sunday, November 23
-  Leeds United         vs    Aston Villa                              Auxerre              vs    Lyon
-  Arsenal              vs    Tottenham                                Toulouse             vs    Angers
-Monday, November 24                                                   Brest                vs    Metz
-  Manchester Utd       vs    Everton                                  Nantes               vs    Lorient
-Saturday, November 29                                                 Lille                vs    Paris FC
-  Sunderland           vs    Bournemouth                            Friday, November 28
-  Brentford            vs    Burnley                                  Metz                 vs    Rennes
-  Manchester City      vs    Leeds United                           Saturday, November 29
-  Everton              vs    Newcastle Utd                            Monaco               vs    Paris S-G
-  Tottenham            vs    Fulham                                   Paris FC             vs    Auxerre
-                                                                      Marseille            vs    Toulouse
+Monday, November 24                                                 Friday, November 28
+  Manchester Utd       vs    Everton                                  Metz                 vs    Rennes
+Saturday, November 29                                               Saturday, November 29
+  Sunderland           vs    Bournemouth                              Monaco               vs    Paris S-G
+  Brentford            vs    Burnley                                  Paris FC             vs    Auxerre
+  Manchester City      vs    Leeds United                             Marseille            vs    Toulouse
+  Everton              vs    Newcastle Utd                          Sunday, November 30
+  Tottenham            vs    Fulham                                   Strasbourg           vs    Brest
+Sunday, November 30                                                   Lorient              vs    Nice
+  Crystal Palace       vs    Manchester Utd                           Le Havre             vs    Lille
+  Nott'ham Forest      vs    Brighton                                 Angers               vs    Lens
+  Aston Villa          vs    Wolves                                   Lyon                 vs    Nantes
+  West Ham             vs    Liverpool                              
+  Chelsea              vs    Arsenal                                
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -117,11 +120,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Sunday, November 23
-  Hellas Verona        vs    Parma
-  Cremonese            vs    Roma
-  Lazio                vs    Lecce
-  Inter                vs    Milan
 Monday, November 24
   Torino               vs    Como
   Sassuolo             vs    Pisa
@@ -132,6 +130,11 @@ Saturday, November 29
   Genoa                vs    Hellas Verona
   Juventus             vs    Cagliari
   Milan                vs    Lazio
+Sunday, November 30
+  Lecce                vs    Torino
+  Pisa                 vs    Inter
+  Atalanta             vs    Fiorentina
+  Roma                 vs    Napoli
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -195,4 +198,4 @@ Wednesday, November 26
   Atlético Madrides    vs    itInter
   Olympiacosgr         vs    esReal Madrid
 
-Standings from FBRef.com 11.26.25
+Standings from FBRef.com 11.27.25

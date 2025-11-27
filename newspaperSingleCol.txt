@@ -83,9 +83,6 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Sunday, November 23
-  RB Leipzig           vs    Werder Bremen
-  St. Pauli            vs    Union Berlin
 Friday, November 28
   Gladbach             vs    RB Leipzig
 Saturday, November 29
@@ -94,6 +91,10 @@ Saturday, November 29
   Bayern Munich        vs    St. Pauli
   Werder Bremen        vs    Köln
   Leverkusen           vs    Dortmund
+Sunday, November 30
+  Hamburger SV         vs    Stuttgart
+  Eint Frankfurt       vs    Wolfsburg
+  Freiburg             vs    Mainz 05
 
 
 Premier League
@@ -122,9 +123,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Sunday, November 23
-  Leeds United         vs    Aston Villa
-  Arsenal              vs    Tottenham
 Monday, November 24
   Manchester Utd       vs    Everton
 Saturday, November 29
@@ -133,6 +131,12 @@ Saturday, November 29
   Manchester City      vs    Leeds United
   Everton              vs    Newcastle Utd
   Tottenham            vs    Fulham
+Sunday, November 30
+  Crystal Palace       vs    Manchester Utd
+  Nott'ham Forest      vs    Brighton
+  Aston Villa          vs    Wolves
+  West Ham             vs    Liverpool
+  Chelsea              vs    Arsenal
 
 
 Ligue 1
@@ -159,18 +163,18 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Sunday, November 23
-  Auxerre              vs    Lyon
-  Toulouse             vs    Angers
-  Brest                vs    Metz
-  Nantes               vs    Lorient
-  Lille                vs    Paris FC
 Friday, November 28
   Metz                 vs    Rennes
 Saturday, November 29
   Monaco               vs    Paris S-G
   Paris FC             vs    Auxerre
   Marseille            vs    Toulouse
+Sunday, November 30
+  Strasbourg           vs    Brest
+  Lorient              vs    Nice
+  Le Havre             vs    Lille
+  Angers               vs    Lens
+  Lyon                 vs    Nantes
 
 
 Serie A
@@ -199,11 +203,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, November 23
-  Hellas Verona        vs    Parma
-  Cremonese            vs    Roma
-  Lazio                vs    Lecce
-  Inter                vs    Milan
 Monday, November 24
   Torino               vs    Como
   Sassuolo             vs    Pisa
@@ -214,6 +213,11 @@ Saturday, November 29
   Genoa                vs    Hellas Verona
   Juventus             vs    Cagliari
   Milan                vs    Lazio
+Sunday, November 30
+  Lecce                vs    Torino
+  Pisa                 vs    Inter
+  Atalanta             vs    Fiorentina
+  Roma                 vs    Napoli
 
 
 Champions League
@@ -280,4 +284,4 @@ Wednesday, November 26
   Olympiacosgr         vs    esReal Madrid
 
 
-Standings from FBRef.com 11.26.25
+Standings from FBRef.com 11.27.25
