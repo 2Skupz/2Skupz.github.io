@@ -123,8 +123,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Monday, November 24
-  Manchester Utd       vs    Everton
 Saturday, November 29
   Sunderland           vs    Bournemouth
   Brentford            vs    Burnley
@@ -203,9 +201,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Monday, November 24
-  Torino               vs    Como
-  Sassuolo             vs    Pisa
 Friday, November 28
   Como                 vs    Sassuolo
 Saturday, November 29
@@ -218,6 +213,8 @@ Sunday, November 30
   Pisa                 vs    Inter
   Atalanta             vs    Fiorentina
   Roma                 vs    Napoli
+Monday, December 01
+  Bologna              vs    Cremonese
 
 
 Champions League
@@ -284,4 +281,4 @@ Wednesday, November 26
   Olympiacosgr         vs    esReal Madrid
 
 
-Standings from FBRef.com 11.27.25
+Standings from FBRef.com 11.28.25

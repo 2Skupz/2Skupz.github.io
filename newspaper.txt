@@ -80,20 +80,18 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Monday, November 24                                                 Friday, November 28
-  Manchester Utd       vs    Everton                                  Metz                 vs    Rennes
-Saturday, November 29                                               Saturday, November 29
-  Sunderland           vs    Bournemouth                              Monaco               vs    Paris S-G
-  Brentford            vs    Burnley                                  Paris FC             vs    Auxerre
-  Manchester City      vs    Leeds United                             Marseille            vs    Toulouse
-  Everton              vs    Newcastle Utd                          Sunday, November 30
-  Tottenham            vs    Fulham                                   Strasbourg           vs    Brest
-Sunday, November 30                                                   Lorient              vs    Nice
-  Crystal Palace       vs    Manchester Utd                           Le Havre             vs    Lille
-  Nott'ham Forest      vs    Brighton                                 Angers               vs    Lens
-  Aston Villa          vs    Wolves                                   Lyon                 vs    Nantes
-  West Ham             vs    Liverpool                              
-  Chelsea              vs    Arsenal                                
+Saturday, November 29                                               Friday, November 28
+  Sunderland           vs    Bournemouth                              Metz                 vs    Rennes
+  Brentford            vs    Burnley                                Saturday, November 29
+  Manchester City      vs    Leeds United                             Monaco               vs    Paris S-G
+  Everton              vs    Newcastle Utd                            Paris FC             vs    Auxerre
+  Tottenham            vs    Fulham                                   Marseille            vs    Toulouse
+Sunday, November 30                                                 Sunday, November 30
+  Crystal Palace       vs    Manchester Utd                           Strasbourg           vs    Brest
+  Nott'ham Forest      vs    Brighton                                 Lorient              vs    Nice
+  Aston Villa          vs    Wolves                                   Le Havre             vs    Lille
+  West Ham             vs    Liverpool                                Angers               vs    Lens
+  Chelsea              vs    Arsenal                                  Lyon                 vs    Nantes
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -120,9 +118,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Monday, November 24
-  Torino               vs    Como
-  Sassuolo             vs    Pisa
 Friday, November 28
   Como                 vs    Sassuolo
 Saturday, November 29
@@ -135,6 +130,8 @@ Sunday, November 30
   Pisa                 vs    Inter
   Atalanta             vs    Fiorentina
   Roma                 vs    Napoli
+Monday, December 01
+  Bologna              vs    Cremonese
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -198,4 +195,4 @@ Wednesday, November 26
   Atlético Madrides    vs    itInter
   Olympiacosgr         vs    esReal Madrid
 
-Standings from FBRef.com 11.27.25
+Standings from FBRef.com 11.28.25
