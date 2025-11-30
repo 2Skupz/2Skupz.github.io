@@ -1,0 +1,1 @@
+"""HTML page generators for statistics reports."""
