@@ -42,8 +42,6 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Friday, November 28
-                                                                      Gladbach             vs    RB Leipzig
                                                                     Saturday, November 29
                                                                       Union Berlin         vs    Heidenheim
                                                                       Hoffenheim           vs    Augsburg
@@ -80,19 +78,19 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, November 29                                               Friday, November 28
-  Sunderland           vs    Bournemouth                              Metz                 vs    Rennes
-  Brentford            vs    Burnley                                Saturday, November 29
-  Manchester City      vs    Leeds United                             Monaco               vs    Paris S-G
-  Everton              vs    Newcastle Utd                            Paris FC             vs    Auxerre
-  Tottenham            vs    Fulham                                   Marseille            vs    Toulouse
-Sunday, November 30                                                 Sunday, November 30
-  Crystal Palace       vs    Manchester Utd                           Strasbourg           vs    Brest
-  Nott'ham Forest      vs    Brighton                                 Lorient              vs    Nice
-  Aston Villa          vs    Wolves                                   Le Havre             vs    Lille
-  West Ham             vs    Liverpool                                Angers               vs    Lens
-  Chelsea              vs    Arsenal                                  Lyon                 vs    Nantes
-Tuesday, December 02                                                
+Saturday, November 29                                               Saturday, November 29
+  Sunderland           vs    Bournemouth                              Monaco               vs    Paris S-G
+  Brentford            vs    Burnley                                  Paris FC             vs    Auxerre
+  Manchester City      vs    Leeds United                             Marseille            vs    Toulouse
+  Everton              vs    Newcastle Utd                          Sunday, November 30
+  Tottenham            vs    Fulham                                   Strasbourg           vs    Brest
+Sunday, November 30                                                   Lorient              vs    Nice
+  Crystal Palace       vs    Manchester Utd                           Le Havre             vs    Lille
+  Nott'ham Forest      vs    Brighton                                 Angers               vs    Lens
+  Aston Villa          vs    Wolves                                   Lyon                 vs    Nantes
+  West Ham             vs    Liverpool                              Friday, December 05
+  Chelsea              vs    Arsenal                                  Brest                vs    Monaco
+Tuesday, December 02                                                  Lille                vs    Marseille
   Bournemouth          vs    Everton                                
   Fulham               vs    Manchester City                        
   Newcastle Utd        vs    Tottenham                              
@@ -131,8 +129,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Friday, November 28
-  Como                 vs    Sassuolo
 Saturday, November 29
   Parma                vs    Udinese
   Genoa                vs    Hellas Verona
@@ -186,4 +182,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 12.01.25
+Standings from FBRef.com 12.02.25
