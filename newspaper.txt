@@ -42,16 +42,20 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Saturday, November 29
-                                                                      Union Berlin         vs    Heidenheim
-                                                                      Hoffenheim           vs    Augsburg
-                                                                      Bayern Munich        vs    St. Pauli
-                                                                      Werder Bremen        vs    Köln
-                                                                      Leverkusen           vs    Dortmund
                                                                     Sunday, November 30
                                                                       Hamburger SV         vs    Stuttgart
                                                                       Eint Frankfurt       vs    Wolfsburg
                                                                       Freiburg             vs    Mainz 05
+                                                                    Saturday, December 06
+                                                                      Wolfsburg            vs    Union Berlin
+                                                                      Köln                 vs    St. Pauli
+                                                                      Hamburger SV         vs    Werder Bremen
+                                                                      Augsburg             vs    Leverkusen
+                                                                      Mainz 05             vs    Gladbach
+                                                                      Heidenheim           vs    Freiburg
+                                                                      RB Leipzig           vs    Eint Frankfurt
+                                                                      Stuttgart            vs    Bayern Munich
+                                                                      Dortmund             vs    Hoffenheim
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -78,31 +82,33 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, November 29                                               Saturday, November 29
-  Sunderland           vs    Bournemouth                              Monaco               vs    Paris S-G
-  Brentford            vs    Burnley                                  Paris FC             vs    Auxerre
-  Manchester City      vs    Leeds United                             Marseille            vs    Toulouse
-  Everton              vs    Newcastle Utd                          Sunday, November 30
-  Tottenham            vs    Fulham                                   Strasbourg           vs    Brest
-Sunday, November 30                                                   Lorient              vs    Nice
-  Crystal Palace       vs    Manchester Utd                           Le Havre             vs    Lille
-  Nott'ham Forest      vs    Brighton                                 Angers               vs    Lens
-  Aston Villa          vs    Wolves                                   Lyon                 vs    Nantes
-  West Ham             vs    Liverpool                              Friday, December 05
-  Chelsea              vs    Arsenal                                  Brest                vs    Monaco
-Tuesday, December 02                                                  Lille                vs    Marseille
-  Bournemouth          vs    Everton                                
-  Fulham               vs    Manchester City                        
-  Newcastle Utd        vs    Tottenham                              
-Wednesday, December 03                                              
-  Burnley              vs    Crystal Palace                         
-  Arsenal              vs    Brentford                              
+Sunday, November 30                                                 Sunday, November 30
+  Crystal Palace       vs    Manchester Utd                           Strasbourg           vs    Brest
+  Nott'ham Forest      vs    Brighton                                 Lorient              vs    Nice
+  Aston Villa          vs    Wolves                                   Le Havre             vs    Lille
+  West Ham             vs    Liverpool                                Angers               vs    Lens
+  Chelsea              vs    Arsenal                                  Lyon                 vs    Nantes
+Tuesday, December 02                                                Friday, December 05
+  Bournemouth          vs    Everton                                  Brest                vs    Monaco
+  Fulham               vs    Manchester City                          Lille                vs    Marseille
+  Newcastle Utd        vs    Tottenham                              Saturday, December 06
+Wednesday, December 03                                                Nantes               vs    Lens
+  Burnley              vs    Crystal Palace                           Toulouse             vs    Strasbourg
+  Arsenal              vs    Brentford                                Paris S-G            vs    Rennes
   Wolves               vs    Nott'ham Forest                        
   Brighton             vs    Aston Villa                            
   Liverpool            vs    Sunderland                             
   Leeds United         vs    Chelsea                                
 Thursday, December 04                                               
   Manchester Utd       vs    West Ham                               
+Saturday, December 06                                               
+  Aston Villa          vs    Arsenal                                
+  Newcastle Utd        vs    Burnley                                
+  Manchester City      vs    Sunderland                             
+  Tottenham            vs    Brentford                              
+  Everton              vs    Nott'ham Forest                        
+  Bournemouth          vs    Chelsea                                
+  Leeds United         vs    Liverpool                              
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -129,11 +135,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Saturday, November 29
-  Parma                vs    Udinese
-  Genoa                vs    Hellas Verona
-  Juventus             vs    Cagliari
-  Milan                vs    Lazio
 Sunday, November 30
   Lecce                vs    Torino
   Pisa                 vs    Inter
@@ -141,6 +142,10 @@ Sunday, November 30
   Roma                 vs    Napoli
 Monday, December 01
   Bologna              vs    Cremonese
+Saturday, December 06
+  Sassuolo             vs    Fiorentina
+  Inter                vs    Como
+  Hellas Verona        vs    Atalanta
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -182,4 +187,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 12.02.25
+Standings from FBRef.com 12.03.25

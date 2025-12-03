@@ -83,16 +83,20 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, November 29
-  Union Berlin         vs    Heidenheim
-  Hoffenheim           vs    Augsburg
-  Bayern Munich        vs    St. Pauli
-  Werder Bremen        vs    Köln
-  Leverkusen           vs    Dortmund
 Sunday, November 30
   Hamburger SV         vs    Stuttgart
   Eint Frankfurt       vs    Wolfsburg
   Freiburg             vs    Mainz 05
+Saturday, December 06
+  Wolfsburg            vs    Union Berlin
+  Köln                 vs    St. Pauli
+  Hamburger SV         vs    Werder Bremen
+  Augsburg             vs    Leverkusen
+  Mainz 05             vs    Gladbach
+  Heidenheim           vs    Freiburg
+  RB Leipzig           vs    Eint Frankfurt
+  Stuttgart            vs    Bayern Munich
+  Dortmund             vs    Hoffenheim
 
 
 Premier League
@@ -121,12 +125,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, November 29
-  Sunderland           vs    Bournemouth
-  Brentford            vs    Burnley
-  Manchester City      vs    Leeds United
-  Everton              vs    Newcastle Utd
-  Tottenham            vs    Fulham
 Sunday, November 30
   Crystal Palace       vs    Manchester Utd
   Nott'ham Forest      vs    Brighton
@@ -146,6 +144,14 @@ Wednesday, December 03
   Leeds United         vs    Chelsea
 Thursday, December 04
   Manchester Utd       vs    West Ham
+Saturday, December 06
+  Aston Villa          vs    Arsenal
+  Newcastle Utd        vs    Burnley
+  Manchester City      vs    Sunderland
+  Tottenham            vs    Brentford
+  Everton              vs    Nott'ham Forest
+  Bournemouth          vs    Chelsea
+  Leeds United         vs    Liverpool
 
 
 Ligue 1
@@ -172,10 +178,6 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Saturday, November 29
-  Monaco               vs    Paris S-G
-  Paris FC             vs    Auxerre
-  Marseille            vs    Toulouse
 Sunday, November 30
   Strasbourg           vs    Brest
   Lorient              vs    Nice
@@ -185,6 +187,10 @@ Sunday, November 30
 Friday, December 05
   Brest                vs    Monaco
   Lille                vs    Marseille
+Saturday, December 06
+  Nantes               vs    Lens
+  Toulouse             vs    Strasbourg
+  Paris S-G            vs    Rennes
 
 
 Serie A
@@ -213,11 +219,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Saturday, November 29
-  Parma                vs    Udinese
-  Genoa                vs    Hellas Verona
-  Juventus             vs    Cagliari
-  Milan                vs    Lazio
 Sunday, November 30
   Lecce                vs    Torino
   Pisa                 vs    Inter
@@ -225,6 +226,10 @@ Sunday, November 30
   Roma                 vs    Napoli
 Monday, December 01
   Bologna              vs    Cremonese
+Saturday, December 06
+  Sassuolo             vs    Fiorentina
+  Inter                vs    Como
+  Hellas Verona        vs    Atalanta
 
 
 Champions League
@@ -268,4 +273,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.02.25
+Standings from FBRef.com 12.03.25
