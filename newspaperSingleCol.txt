@@ -83,10 +83,6 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Sunday, November 30
-  Hamburger SV         vs    Stuttgart
-  Eint Frankfurt       vs    Wolfsburg
-  Freiburg             vs    Mainz 05
 Saturday, December 06
   Wolfsburg            vs    Union Berlin
   Köln                 vs    St. Pauli
@@ -125,12 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Sunday, November 30
-  Crystal Palace       vs    Manchester Utd
-  Nott'ham Forest      vs    Brighton
-  Aston Villa          vs    Wolves
-  West Ham             vs    Liverpool
-  Chelsea              vs    Arsenal
 Tuesday, December 02
   Bournemouth          vs    Everton
   Fulham               vs    Manchester City
@@ -152,6 +142,9 @@ Saturday, December 06
   Everton              vs    Nott'ham Forest
   Bournemouth          vs    Chelsea
   Leeds United         vs    Liverpool
+Sunday, December 07
+  Brighton             vs    West Ham
+  Fulham               vs    Crystal Palace
 
 
 Ligue 1
@@ -178,12 +171,6 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Sunday, November 30
-  Strasbourg           vs    Brest
-  Lorient              vs    Nice
-  Le Havre             vs    Lille
-  Angers               vs    Lens
-  Lyon                 vs    Nantes
 Friday, December 05
   Brest                vs    Monaco
   Lille                vs    Marseille
@@ -191,6 +178,11 @@ Saturday, December 06
   Nantes               vs    Lens
   Toulouse             vs    Strasbourg
   Paris S-G            vs    Rennes
+Sunday, December 07
+  Nice                 vs    Angers
+  Le Havre             vs    Paris FC
+  Auxerre              vs    Metz
+  Lorient              vs    Lyon
 
 
 Serie A
@@ -219,17 +211,17 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, November 30
-  Lecce                vs    Torino
-  Pisa                 vs    Inter
-  Atalanta             vs    Fiorentina
-  Roma                 vs    Napoli
 Monday, December 01
   Bologna              vs    Cremonese
 Saturday, December 06
   Sassuolo             vs    Fiorentina
   Inter                vs    Como
   Hellas Verona        vs    Atalanta
+Sunday, December 07
+  Cremonese            vs    Lecce
+  Cagliari             vs    Roma
+  Lazio                vs    Bologna
+  Napoli               vs    Juventus
 
 
 Champions League
@@ -273,4 +265,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.03.25
+Standings from FBRef.com 12.04.25
