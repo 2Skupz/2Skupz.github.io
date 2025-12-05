@@ -102,6 +102,8 @@ Saturday, December 06
 Sunday, December 07                                                 
   Brighton             vs    West Ham                               
   Fulham               vs    Crystal Palace                         
+Monday, December 08                                                 
+  Wolves               vs    Manchester Utd                         
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -128,8 +130,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Monday, December 01
-  Bologna              vs    Cremonese
 Saturday, December 06
   Sassuolo             vs    Fiorentina
   Inter                vs    Como
@@ -139,6 +139,10 @@ Sunday, December 07
   Cagliari             vs    Roma
   Lazio                vs    Bologna
   Napoli               vs    Juventus
+Monday, December 08
+  Pisa                 vs    Parma
+  Udinese              vs    Genoa
+  Torino               vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -180,4 +184,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 12.04.25
+Standings from FBRef.com 12.05.25
