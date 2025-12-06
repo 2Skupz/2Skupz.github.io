@@ -121,10 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Tuesday, December 02
-  Bournemouth          vs    Everton
-  Fulham               vs    Manchester City
-  Newcastle Utd        vs    Tottenham
 Wednesday, December 03
   Burnley              vs    Crystal Palace
   Arsenal              vs    Brentford
@@ -268,5 +264,18 @@ kz  Qaırat Almaty    3   0   1   2   1  -8
 pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
+Champions League Fixtures
+-------------------------
+Tuesday, December 09
+  Bayern Munichde      vs    ptSporting CP
+  Tottenhameng         vs    czSlavia Prague
+  Qaırat Almatykz      vs    grOlympiacos
+  Interit              vs    engLiverpool
+  Atalantait           vs    engChelsea
+  Barcelonaes          vs    deEint Frankfurt
+  PSV Eindhovennl      vs    esAtlético Madrid
+  Monacofr             vs    trGalatasaray
+  Union SGbe           vs    frMarseille
 
-Standings from FBRef.com 12.05.25
+
+Standings from FBRef.com 12.06.25

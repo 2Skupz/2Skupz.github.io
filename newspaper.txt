@@ -78,22 +78,18 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Tuesday, December 02                                                Friday, December 05
-  Bournemouth          vs    Everton                                  Brest                vs    Monaco
-  Fulham               vs    Manchester City                          Lille                vs    Marseille
-  Newcastle Utd        vs    Tottenham                              Saturday, December 06
-Wednesday, December 03                                                Nantes               vs    Lens
-  Burnley              vs    Crystal Palace                           Toulouse             vs    Strasbourg
-  Arsenal              vs    Brentford                                Paris S-G            vs    Rennes
-  Wolves               vs    Nott'ham Forest                        Sunday, December 07
-  Brighton             vs    Aston Villa                              Nice                 vs    Angers
-  Liverpool            vs    Sunderland                               Le Havre             vs    Paris FC
-  Leeds United         vs    Chelsea                                  Auxerre              vs    Metz
-Thursday, December 04                                                 Lorient              vs    Lyon
-  Manchester Utd       vs    West Ham                               
-Saturday, December 06                                               
-  Aston Villa          vs    Arsenal                                
-  Newcastle Utd        vs    Burnley                                
+Wednesday, December 03                                              Friday, December 05
+  Burnley              vs    Crystal Palace                           Brest                vs    Monaco
+  Arsenal              vs    Brentford                                Lille                vs    Marseille
+  Wolves               vs    Nott'ham Forest                        Saturday, December 06
+  Brighton             vs    Aston Villa                              Nantes               vs    Lens
+  Liverpool            vs    Sunderland                               Toulouse             vs    Strasbourg
+  Leeds United         vs    Chelsea                                  Paris S-G            vs    Rennes
+Thursday, December 04                                               Sunday, December 07
+  Manchester Utd       vs    West Ham                                 Nice                 vs    Angers
+Saturday, December 06                                                 Le Havre             vs    Paris FC
+  Aston Villa          vs    Arsenal                                  Auxerre              vs    Metz
+  Newcastle Utd        vs    Burnley                                  Lorient              vs    Lyon
   Manchester City      vs    Sunderland                             
   Tottenham            vs    Brentford                              
   Everton              vs    Nott'ham Forest                        
@@ -183,5 +179,17 @@ kz  Qaırat Almaty    3   0   1   2   1   9  -8   1   2.3   8.9
 pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8      
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
+Champions League Fixtures
+-------------------------
+Tuesday, December 09
+  Bayern Munichde      vs    ptSporting CP
+  Tottenhameng         vs    czSlavia Prague
+  Qaırat Almatykz      vs    grOlympiacos
+  Interit              vs    engLiverpool
+  Atalantait           vs    engChelsea
+  Barcelonaes          vs    deEint Frankfurt
+  PSV Eindhovennl      vs    esAtlético Madrid
+  Monacofr             vs    trGalatasaray
+  Union SGbe           vs    frMarseille
 
-Standings from FBRef.com 12.05.25
+Standings from FBRef.com 12.06.25
