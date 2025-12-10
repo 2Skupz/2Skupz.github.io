@@ -42,16 +42,16 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Saturday, December 06
-                                                                      Wolfsburg            vs    Union Berlin
-                                                                      Köln                 vs    St. Pauli
-                                                                      Hamburger SV         vs    Werder Bremen
-                                                                      Augsburg             vs    Leverkusen
-                                                                      Mainz 05             vs    Gladbach
-                                                                      Heidenheim           vs    Freiburg
-                                                                      RB Leipzig           vs    Eint Frankfurt
-                                                                      Stuttgart            vs    Bayern Munich
-                                                                      Dortmund             vs    Hoffenheim
+                                                                    Saturday, December 13
+                                                                      Bayern Munich        vs    Mainz 05
+                                                                      Union Berlin         vs    RB Leipzig
+                                                                      Hoffenheim           vs    Hamburger SV
+                                                                      Freiburg             vs    Dortmund
+                                                                      Gladbach             vs    Wolfsburg
+                                                                      Leverkusen           vs    Köln
+                                                                      St. Pauli            vs    Heidenheim
+                                                                      Werder Bremen        vs    Stuttgart
+                                                                      Eint Frankfurt       vs    Augsburg
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -78,19 +78,17 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, December 06                                               Saturday, December 06
-  Aston Villa          vs    Arsenal                                  Nantes               vs    Lens
-  Newcastle Utd        vs    Burnley                                  Toulouse             vs    Strasbourg
-  Manchester City      vs    Sunderland                               Paris S-G            vs    Rennes
-  Tottenham            vs    Brentford                              Sunday, December 07
-  Everton              vs    Nott'ham Forest                          Nice                 vs    Angers
-  Bournemouth          vs    Chelsea                                  Le Havre             vs    Paris FC
-  Leeds United         vs    Liverpool                                Auxerre              vs    Metz
-Sunday, December 07                                                   Lorient              vs    Lyon
-  Brighton             vs    West Ham                               Friday, December 12
-  Fulham               vs    Crystal Palace                           Angers               vs    Nantes
-Monday, December 08                                                 
-  Wolves               vs    Manchester Utd                         
+Sunday, December 07                                                 Sunday, December 07
+  Brighton             vs    West Ham                                 Nice                 vs    Angers
+  Fulham               vs    Crystal Palace                           Le Havre             vs    Paris FC
+Monday, December 08                                                   Auxerre              vs    Metz
+  Wolves               vs    Manchester Utd                           Lorient              vs    Lyon
+Saturday, December 13                                               Friday, December 12
+  Chelsea              vs    Everton                                  Angers               vs    Nantes
+  Liverpool            vs    Brighton                               Saturday, December 13
+  Burnley              vs    Fulham                                   Rennes               vs    Brest
+  Arsenal              vs    Wolves                                   Metz                 vs    Paris S-G
+                                                                      Paris FC             vs    Toulouse
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -117,10 +115,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Saturday, December 06
-  Sassuolo             vs    Fiorentina
-  Inter                vs    Como
-  Hellas Verona        vs    Atalanta
 Sunday, December 07
   Cremonese            vs    Lecce
   Cagliari             vs    Roma
@@ -132,6 +126,10 @@ Monday, December 08
   Torino               vs    Milan
 Friday, December 12
   Lecce                vs    Pisa
+Saturday, December 13
+  Torino               vs    Cremonese
+  Parma                vs    Lazio
+  Atalanta             vs    Cagliari
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -195,4 +193,4 @@ Wednesday, December 10
   Club Bruggebe        vs    engArsenal
   Qarabağaz            vs    nlAjax
 
-Standings from FBRef.com 12.09.25
+Standings from FBRef.com 12.10.25

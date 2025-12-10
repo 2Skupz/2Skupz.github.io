@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, December 06
-  Wolfsburg            vs    Union Berlin
-  Köln                 vs    St. Pauli
-  Hamburger SV         vs    Werder Bremen
-  Augsburg             vs    Leverkusen
-  Mainz 05             vs    Gladbach
-  Heidenheim           vs    Freiburg
-  RB Leipzig           vs    Eint Frankfurt
-  Stuttgart            vs    Bayern Munich
-  Dortmund             vs    Hoffenheim
+Saturday, December 13
+  Bayern Munich        vs    Mainz 05
+  Union Berlin         vs    RB Leipzig
+  Hoffenheim           vs    Hamburger SV
+  Freiburg             vs    Dortmund
+  Gladbach             vs    Wolfsburg
+  Leverkusen           vs    Köln
+  St. Pauli            vs    Heidenheim
+  Werder Bremen        vs    Stuttgart
+  Eint Frankfurt       vs    Augsburg
 
 
 Premier League
@@ -121,19 +121,16 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, December 06
-  Aston Villa          vs    Arsenal
-  Newcastle Utd        vs    Burnley
-  Manchester City      vs    Sunderland
-  Tottenham            vs    Brentford
-  Everton              vs    Nott'ham Forest
-  Bournemouth          vs    Chelsea
-  Leeds United         vs    Liverpool
 Sunday, December 07
   Brighton             vs    West Ham
   Fulham               vs    Crystal Palace
 Monday, December 08
   Wolves               vs    Manchester Utd
+Saturday, December 13
+  Chelsea              vs    Everton
+  Liverpool            vs    Brighton
+  Burnley              vs    Fulham
+  Arsenal              vs    Wolves
 
 
 Ligue 1
@@ -160,10 +157,6 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Saturday, December 06
-  Nantes               vs    Lens
-  Toulouse             vs    Strasbourg
-  Paris S-G            vs    Rennes
 Sunday, December 07
   Nice                 vs    Angers
   Le Havre             vs    Paris FC
@@ -171,6 +164,10 @@ Sunday, December 07
   Lorient              vs    Lyon
 Friday, December 12
   Angers               vs    Nantes
+Saturday, December 13
+  Rennes               vs    Brest
+  Metz                 vs    Paris S-G
+  Paris FC             vs    Toulouse
 
 
 Serie A
@@ -199,10 +196,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Saturday, December 06
-  Sassuolo             vs    Fiorentina
-  Inter                vs    Como
-  Hellas Verona        vs    Atalanta
 Sunday, December 07
   Cremonese            vs    Lecce
   Cagliari             vs    Roma
@@ -214,6 +207,10 @@ Monday, December 08
   Torino               vs    Milan
 Friday, December 12
   Lecce                vs    Pisa
+Saturday, December 13
+  Torino               vs    Cremonese
+  Parma                vs    Lazio
+  Atalanta             vs    Cagliari
 
 
 Champions League
@@ -280,4 +277,4 @@ Wednesday, December 10
   Qarabağaz            vs    nlAjax
 
 
-Standings from FBRef.com 12.09.25
+Standings from FBRef.com 12.10.25
