@@ -121,9 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Sunday, December 07
-  Brighton             vs    West Ham
-  Fulham               vs    Crystal Palace
 Monday, December 08
   Wolves               vs    Manchester Utd
 Saturday, December 13
@@ -131,6 +128,12 @@ Saturday, December 13
   Liverpool            vs    Brighton
   Burnley              vs    Fulham
   Arsenal              vs    Wolves
+Sunday, December 14
+  Nott'ham Forest      vs    Tottenham
+  West Ham             vs    Aston Villa
+  Crystal Palace       vs    Manchester City
+  Sunderland           vs    Newcastle Utd
+  Brentford            vs    Leeds United
 
 
 Ligue 1
@@ -157,17 +160,18 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Sunday, December 07
-  Nice                 vs    Angers
-  Le Havre             vs    Paris FC
-  Auxerre              vs    Metz
-  Lorient              vs    Lyon
 Friday, December 12
   Angers               vs    Nantes
 Saturday, December 13
   Rennes               vs    Brest
   Metz                 vs    Paris S-G
   Paris FC             vs    Toulouse
+Sunday, December 14
+  Lyon                 vs    Le Havre
+  Strasbourg           vs    Lorient
+  Lens                 vs    Nice
+  Auxerre              vs    Lille
+  Marseille            vs    Monaco
 
 
 Serie A
@@ -196,11 +200,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, December 07
-  Cremonese            vs    Lecce
-  Cagliari             vs    Roma
-  Lazio                vs    Bologna
-  Napoli               vs    Juventus
 Monday, December 08
   Pisa                 vs    Parma
   Udinese              vs    Genoa
@@ -211,6 +210,12 @@ Saturday, December 13
   Torino               vs    Cremonese
   Parma                vs    Lazio
   Atalanta             vs    Cagliari
+Sunday, December 14
+  Milan                vs    Sassuolo
+  Udinese              vs    Napoli
+  Fiorentina           vs    Hellas Verona
+  Genoa                vs    Inter
+  Bologna              vs    Juventus
 
 
 Champions League
@@ -277,4 +282,4 @@ Wednesday, December 10
   Qarabağaz            vs    nlAjax
 
 
-Standings from FBRef.com 12.10.25
+Standings from FBRef.com 12.11.25
