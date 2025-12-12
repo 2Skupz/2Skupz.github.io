@@ -78,19 +78,19 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Monday, December 08                                                 Friday, December 12
-  Wolves               vs    Manchester Utd                           Angers               vs    Nantes
-Saturday, December 13                                               Saturday, December 13
-  Chelsea              vs    Everton                                  Rennes               vs    Brest
-  Liverpool            vs    Brighton                                 Metz                 vs    Paris S-G
-  Burnley              vs    Fulham                                   Paris FC             vs    Toulouse
-  Arsenal              vs    Wolves                                 Sunday, December 14
-Sunday, December 14                                                   Lyon                 vs    Le Havre
-  Nott'ham Forest      vs    Tottenham                                Strasbourg           vs    Lorient
-  West Ham             vs    Aston Villa                              Lens                 vs    Nice
-  Crystal Palace       vs    Manchester City                          Auxerre              vs    Lille
-  Sunderland           vs    Newcastle Utd                            Marseille            vs    Monaco
-  Brentford            vs    Leeds United                           
+Saturday, December 13                                               Friday, December 12
+  Chelsea              vs    Everton                                  Angers               vs    Nantes
+  Liverpool            vs    Brighton                               Saturday, December 13
+  Burnley              vs    Fulham                                   Rennes               vs    Brest
+  Arsenal              vs    Wolves                                   Metz                 vs    Paris S-G
+Sunday, December 14                                                   Paris FC             vs    Toulouse
+  Nott'ham Forest      vs    Tottenham                              Sunday, December 14
+  West Ham             vs    Aston Villa                              Lyon                 vs    Le Havre
+  Crystal Palace       vs    Manchester City                          Strasbourg           vs    Lorient
+  Sunderland           vs    Newcastle Utd                            Lens                 vs    Nice
+  Brentford            vs    Leeds United                             Auxerre              vs    Lille
+Monday, December 15                                                   Marseille            vs    Monaco
+  Manchester Utd       vs    Bournemouth                            
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -117,10 +117,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Monday, December 08
-  Pisa                 vs    Parma
-  Udinese              vs    Genoa
-  Torino               vs    Milan
 Friday, December 12
   Lecce                vs    Pisa
 Saturday, December 13
@@ -133,6 +129,8 @@ Sunday, December 14
   Fiorentina           vs    Hellas Verona
   Genoa                vs    Inter
   Bologna              vs    Juventus
+Monday, December 15
+  Roma                 vs    Como
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -196,4 +194,4 @@ Wednesday, December 10
   Club Bruggebe        vs    engArsenal
   Qarabağaz            vs    nlAjax
 
-Standings from FBRef.com 12.11.25
+Standings from FBRef.com 12.12.25

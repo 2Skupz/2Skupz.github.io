@@ -121,8 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Monday, December 08
-  Wolves               vs    Manchester Utd
 Saturday, December 13
   Chelsea              vs    Everton
   Liverpool            vs    Brighton
@@ -134,6 +132,8 @@ Sunday, December 14
   Crystal Palace       vs    Manchester City
   Sunderland           vs    Newcastle Utd
   Brentford            vs    Leeds United
+Monday, December 15
+  Manchester Utd       vs    Bournemouth
 
 
 Ligue 1
@@ -200,10 +200,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Monday, December 08
-  Pisa                 vs    Parma
-  Udinese              vs    Genoa
-  Torino               vs    Milan
 Friday, December 12
   Lecce                vs    Pisa
 Saturday, December 13
@@ -216,6 +212,8 @@ Sunday, December 14
   Fiorentina           vs    Hellas Verona
   Genoa                vs    Inter
   Bologna              vs    Juventus
+Monday, December 15
+  Roma                 vs    Como
 
 
 Champions League
@@ -282,4 +280,4 @@ Wednesday, December 10
   Qarabağaz            vs    nlAjax
 
 
-Standings from FBRef.com 12.11.25
+Standings from FBRef.com 12.12.25
