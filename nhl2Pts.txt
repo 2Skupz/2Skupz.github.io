@@ -10,7 +10,7 @@ Anaheim                31   11   11    9    10    31
 Edmonton               31    9   11   11    -4    29
 Calgary                32   10   16    6   -14    26
 San Jose               32    8   14   10   -15    26
-SEATTLE                28    7   10   11   -15    25
+SEATTLE                29    7   11   11   -17    25
 Vancouver              31    7   17    7   -24    21
 
 --------------------------------------------------------------------------------
@@ -19,9 +19,9 @@ Central                GP    W    L    T    GD   Pts
 Colorado               31   20    2    9    52    49
 Dallas                 32   17    6    9    26    43
 Minnesota              31   11    9   11     7    33
-Chicago                30   12   11    7    -2    31
-St. Louis              32   11   14    7   -35    29
-Utah                   32   11   15    6     2    28
+Chicago                31   12   12    7    -3    31
+St. Louis              33   12   14    7   -34    31
+Utah                   33   12   15    6     4    30
 Winnipeg               30   12   15    3    -4    27
 Nashville              30    8   14    8   -20    24
 

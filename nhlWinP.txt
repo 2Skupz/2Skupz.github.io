@@ -9,7 +9,7 @@ Vegas                  30   15   15     .500   3.5
 San Jose               32   15   17     .469   4.5
 Los Angeles            30   14   16     .467   4.5
 Edmonton               31   14   17     .452   5.0
-SEATTLE                28   12   16     .429   5.5
+SEATTLE                29   12   17     .414   6.0
 Calgary                32   12   20     .375   7.5
 Vancouver              31   11   20     .355   8.0
 
@@ -20,10 +20,10 @@ Colorado               31   22    9     .710    --
 Dallas                 32   21   11     .656   1.5
 Minnesota              31   17   14     .548   5.0
 Winnipeg               30   14   16     .467   7.5
-Utah                   32   14   18     .438   8.5
-Chicago                30   13   17     .433   8.5
+Utah                   33   15   18     .455   8.0
+Chicago                31   13   18     .419   9.0
 Nashville              30   12   18     .400   9.5
-St. Louis              32   11   21     .344  11.5
+St. Louis              33   12   21     .364  11.0
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
