@@ -5,8 +5,8 @@ NHL Standings - 3 Points
 Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Vegas                  31   12    4    9    6     6    53
-Anaheim                32   11    8    1   12     7    50
-Los Angeles            31    9    5    9    8     1    46
+Anaheim                33   12    8    1   12    10    53
+Los Angeles            32    9    5    9    9    -2    46
 Edmonton               33   10    5    6   12    -4    46
 San Jose               33    8    8    3   14   -14    43
 Calgary                33   10    3    4   16   -13    40
@@ -17,13 +17,13 @@ Vancouver              32    8    4    3   17   -23    35
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Colorado               32   21    2    7    2    54    74
-Dallas                 33   17    4    5    7    22    64
+Dallas                 34   18    4    5    7    25    67
 Minnesota              33   13    6    5    9    12    56
 Utah                   34   12    4    3   15     5    47
-Winnipeg               31   13    2    1   15     0    44
+Winnipeg               32   13    2    2   15    -1    45
 Chicago                32   12    1    6   13    -7    44
-St. Louis              33   12    0    7   14   -34    43
-Nashville              31    8    4    4   15   -22    36
+St. Louis              34   12    0    7   15   -37    43
+Nashville              32    9    4    4   15   -19    39
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
@@ -34,18 +34,18 @@ NY Islanders           33   13    6    3   11     7    54
 Pittsburgh             31   13    1    9    8     3    50
 New Jersey             33   12    6    1   14    -6    49
 Philadelphia           31    9    7    6    9     4    47
-NY Rangers             33   11    5    4   13     0    47
+NY Rangers             34   11    5    4   14    -3    47
 Columbus               32    7    6    6   13   -16    39
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Tampa Bay              32   15    3    3   11    21    54
+Tampa Bay              33   15    3    3   12    18    54
 Detroit                33   14    4    3   12    -5    53
+Florida                32   15    2    2   13     2    51
 Boston                 33   13    6    0   14     4    51
-Florida                31   14    2    2   13    -1    48
 Montreal               32   10    7    4   11    -8    48
+Ottawa                 32   10    5    4   13    -3    44
 Toronto                31   10    4    5   12     0    43
-Ottawa                 31   10    4    4   13    -4    42
 Buffalo                32   10    4    4   14   -11    42
 
