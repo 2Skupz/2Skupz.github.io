@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, December 13
-  Bayern Munich        vs    Mainz 05
-  Union Berlin         vs    RB Leipzig
-  Hoffenheim           vs    Hamburger SV
-  Freiburg             vs    Dortmund
-  Gladbach             vs    Wolfsburg
-  Leverkusen           vs    Köln
-  St. Pauli            vs    Heidenheim
-  Werder Bremen        vs    Stuttgart
-  Eint Frankfurt       vs    Augsburg
+Saturday, December 20
+  Heidenheim           vs    Bayern Munich
+  Hamburger SV         vs    Eint Frankfurt
+  Augsburg             vs    Werder Bremen
+  Mainz 05             vs    St. Pauli
+  RB Leipzig           vs    Leverkusen
+  Stuttgart            vs    Hoffenheim
+  Wolfsburg            vs    Freiburg
+  Dortmund             vs    Gladbach
+  Köln                 vs    Union Berlin
 
 
 Premier League
@@ -121,11 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, December 13
-  Chelsea              vs    Everton
-  Liverpool            vs    Brighton
-  Burnley              vs    Fulham
-  Arsenal              vs    Wolves
 Sunday, December 14
   Nott'ham Forest      vs    Tottenham
   West Ham             vs    Aston Villa
@@ -134,6 +129,13 @@ Sunday, December 14
   Brentford            vs    Leeds United
 Monday, December 15
   Manchester Utd       vs    Bournemouth
+Saturday, December 20
+  Newcastle Utd        vs    Chelsea
+  Bournemouth          vs    Burnley
+  Brighton             vs    Sunderland
+  Manchester City      vs    West Ham
+  Wolves               vs    Brentford
+  Tottenham            vs    Liverpool
 
 
 Ligue 1
@@ -160,10 +162,6 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Saturday, December 13
-  Rennes               vs    Brest
-  Metz                 vs    Paris S-G
-  Paris FC             vs    Toulouse
 Sunday, December 14
   Lyon                 vs    Le Havre
   Strasbourg           vs    Lorient
@@ -198,10 +196,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Saturday, December 13
-  Torino               vs    Cremonese
-  Parma                vs    Lazio
-  Atalanta             vs    Cagliari
 Sunday, December 14
   Milan                vs    Sassuolo
   Udinese              vs    Napoli
@@ -210,6 +204,9 @@ Sunday, December 14
   Bologna              vs    Juventus
 Monday, December 15
   Roma                 vs    Como
+Saturday, December 20
+  Lazio                vs    Cremonese
+  Juventus             vs    Roma
 
 
 Champions League
@@ -253,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.16.25
+Standings from FBRef.com 12.17.25

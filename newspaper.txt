@@ -42,16 +42,16 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Saturday, December 13
-                                                                      Bayern Munich        vs    Mainz 05
-                                                                      Union Berlin         vs    RB Leipzig
-                                                                      Hoffenheim           vs    Hamburger SV
-                                                                      Freiburg             vs    Dortmund
-                                                                      Gladbach             vs    Wolfsburg
-                                                                      Leverkusen           vs    Köln
-                                                                      St. Pauli            vs    Heidenheim
-                                                                      Werder Bremen        vs    Stuttgart
-                                                                      Eint Frankfurt       vs    Augsburg
+                                                                    Saturday, December 20
+                                                                      Heidenheim           vs    Bayern Munich
+                                                                      Hamburger SV         vs    Eint Frankfurt
+                                                                      Augsburg             vs    Werder Bremen
+                                                                      Mainz 05             vs    St. Pauli
+                                                                      RB Leipzig           vs    Leverkusen
+                                                                      Stuttgart            vs    Hoffenheim
+                                                                      Wolfsburg            vs    Freiburg
+                                                                      Dortmund             vs    Gladbach
+                                                                      Köln                 vs    Union Berlin
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -78,19 +78,21 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, December 13                                               Saturday, December 13
-  Chelsea              vs    Everton                                  Rennes               vs    Brest
-  Liverpool            vs    Brighton                                 Metz                 vs    Paris S-G
-  Burnley              vs    Fulham                                   Paris FC             vs    Toulouse
-  Arsenal              vs    Wolves                                 Sunday, December 14
-Sunday, December 14                                                   Lyon                 vs    Le Havre
-  Nott'ham Forest      vs    Tottenham                                Strasbourg           vs    Lorient
-  West Ham             vs    Aston Villa                              Lens                 vs    Nice
-  Crystal Palace       vs    Manchester City                          Auxerre              vs    Lille
-  Sunderland           vs    Newcastle Utd                            Marseille            vs    Monaco
-  Brentford            vs    Leeds United                           
+Sunday, December 14                                                 Sunday, December 14
+  Nott'ham Forest      vs    Tottenham                                Lyon                 vs    Le Havre
+  West Ham             vs    Aston Villa                              Strasbourg           vs    Lorient
+  Crystal Palace       vs    Manchester City                          Lens                 vs    Nice
+  Sunderland           vs    Newcastle Utd                            Auxerre              vs    Lille
+  Brentford            vs    Leeds United                             Marseille            vs    Monaco
 Monday, December 15                                                 
   Manchester Utd       vs    Bournemouth                            
+Saturday, December 20                                               
+  Newcastle Utd        vs    Chelsea                                
+  Bournemouth          vs    Burnley                                
+  Brighton             vs    Sunderland                             
+  Manchester City      vs    West Ham                               
+  Wolves               vs    Brentford                              
+  Tottenham            vs    Liverpool                              
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -117,10 +119,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Saturday, December 13
-  Torino               vs    Cremonese
-  Parma                vs    Lazio
-  Atalanta             vs    Cagliari
 Sunday, December 14
   Milan                vs    Sassuolo
   Udinese              vs    Napoli
@@ -129,6 +127,9 @@ Sunday, December 14
   Bologna              vs    Juventus
 Monday, December 15
   Roma                 vs    Como
+Saturday, December 20
+  Lazio                vs    Cremonese
+  Juventus             vs    Roma
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -170,4 +171,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 12.16.25
+Standings from FBRef.com 12.17.25
