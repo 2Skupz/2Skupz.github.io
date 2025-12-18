@@ -121,12 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Sunday, December 14
-  Nott'ham Forest      vs    Tottenham
-  West Ham             vs    Aston Villa
-  Crystal Palace       vs    Manchester City
-  Sunderland           vs    Newcastle Utd
-  Brentford            vs    Leeds United
 Monday, December 15
   Manchester Utd       vs    Bournemouth
 Saturday, December 20
@@ -136,6 +130,10 @@ Saturday, December 20
   Manchester City      vs    West Ham
   Wolves               vs    Brentford
   Tottenham            vs    Liverpool
+Sunday, December 21
+  Leeds United         vs    Crystal Palace
+  Everton              vs    Arsenal
+  Aston Villa          vs    Manchester Utd
 
 
 Ligue 1
@@ -159,15 +157,6 @@ Nantes             11   2   3   6   9  -7
 Lorient            11   2   3   6   9 -12
 Metz               11   2   2   7   8 -16
 Auxerre            11   2   1   8   7 -10
-
-Ligue 1 Fixtures
-----------------
-Sunday, December 14
-  Lyon                 vs    Le Havre
-  Strasbourg           vs    Lorient
-  Lens                 vs    Nice
-  Auxerre              vs    Lille
-  Marseille            vs    Monaco
 
 
 Serie A
@@ -196,17 +185,16 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, December 14
-  Milan                vs    Sassuolo
-  Udinese              vs    Napoli
-  Fiorentina           vs    Hellas Verona
-  Genoa                vs    Inter
-  Bologna              vs    Juventus
 Monday, December 15
   Roma                 vs    Como
 Saturday, December 20
   Lazio                vs    Cremonese
   Juventus             vs    Roma
+Sunday, December 21
+  Cagliari             vs    Pisa
+  Sassuolo             vs    Torino
+  Fiorentina           vs    Udinese
+  Genoa                vs    Atalanta
 
 
 Champions League
@@ -250,4 +238,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.17.25
+Standings from FBRef.com 12.18.25
