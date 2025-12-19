@@ -121,8 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Monday, December 15
-  Manchester Utd       vs    Bournemouth
 Saturday, December 20
   Newcastle Utd        vs    Chelsea
   Bournemouth          vs    Burnley
@@ -134,6 +132,8 @@ Sunday, December 21
   Leeds United         vs    Crystal Palace
   Everton              vs    Arsenal
   Aston Villa          vs    Manchester Utd
+Monday, December 22
+  Fulham               vs    Nott'ham Forest
 
 
 Ligue 1
@@ -185,8 +185,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Monday, December 15
-  Roma                 vs    Como
 Saturday, December 20
   Lazio                vs    Cremonese
   Juventus             vs    Roma
@@ -238,4 +236,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.18.25
+Standings from FBRef.com 12.19.25
