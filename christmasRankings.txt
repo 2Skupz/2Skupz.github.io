@@ -1,82 +1,88 @@
-2025 Christmas Movies
 ==================================================================================
 
 Player                                  W-D-L       Win %     WRS       Elo       
 ----------------------------------------------------------------------------------
-Merry Christmas Ted Cooper              52-3-4      0.907     0.941     1984      
-Tis the Season to Be Merry              78-7-13     0.832     0.880     1940      
-Unexpected Christmas                    22-1-2      0.900     0.878     1797      
-A Dickens of a Holiday                  28-4-10     0.714     0.771     1755      
-Single on the 25th                      49-3-16     0.743     0.760     1698      
-Champagne Problems                      25-3-9      0.716     0.749     1689      
-The Christmas Contract                  55-7-23     0.688     0.723     1689      
-Christmas Inheritance                   15-3-6      0.688     0.683     1610      
-Trivia at St Nicks                      16-3-9      0.625     0.636     1601      
-Snowed Inn Christmas                    39-3-31     0.555     0.553     1540      
-Hitched for the Holidays                13-1-14     0.482     0.495     1479      
-A Newport Christmas                     22-4-28     0.444     0.460     1453      
-Coupled for Christmas                   30-7-36     0.459     0.426     1418      
-Christmas Quest                         6-2-17      0.280     0.314     1363      
-Jingle Bell Heist                       5-4-16      0.280     0.308     1369      
-Naughty or Nice                         12-4-33     0.286     0.301     1359      
-Meet Me Under the Mistletoe             14-2-40     0.268     0.275     1227      
-Christmas Island                        8-6-28      0.262     0.272     1282      
-A Very Merry Bridesmaid                 14-2-48     0.234     0.239     1235      
-Same Time Next Christmas                8-6-41      0.200     0.198     1318      
-Christmas in Pine Valley                7-1-49      0.132     0.111     1143      
-Hot Cocoa Holiday                       0-0-45      0.000     0.024     1051      
+Merry Christmas Ted Cooper              57-4-5      0.894     0.949     1955      
+Unexpected Christmas                    30-1-2      0.924     0.934     1899      
+Tis the Season to Be Merry              83-7-14     0.832     0.888     1922      
+A Dickens of a Holiday                  32-4-11     0.723     0.781     1754      
+Single on the 25th                      52-5-17     0.736     0.767     1696      
+Champagne Problems                      29-3-10     0.726     0.762     1720      
+The Christmas Contract                  62-7-24     0.704     0.752     1761      
+Christmas Inheritance                   19-4-6      0.724     0.728     1673      
+Trivia at St Nicks                      18-4-10     0.625     0.650     1614      
+Knight Before Christmas                 16-2-9      0.630     0.615     1566      
+Snowed Inn Christmas                    43-3-33     0.563     0.569     1558      
+Hitched for the Holidays                17-1-15     0.530     0.536     1530      
+A Newport Christmas                     23-5-30     0.440     0.466     1456      
+Coupled for Christmas                   32-7-38     0.461     0.442     1436      
+Holiday in Handcuffs                    10-3-14     0.426     0.426     1409      
+Christmas Quest                         8-2-20      0.300     0.330     1364      
+Naughty or Nice                         13-5-35     0.292     0.319     1376      
+Jingle Bell Heist                       7-4-19      0.300     0.317     1368      
+Meet Me Under the Mistletoe             14-3-43     0.258     0.274     1210      
+Christmas Island                        9-6-31      0.261     0.273     1277      
+A Very Merry Bridesmaid                 15-2-51     0.235     0.254     1255      
+Same Time Next Christmas                9-6-44      0.203     0.213     1317      
+Christmas in Pine Valley                7-2-52      0.131     0.125     1141      
+Christmas on the Alpaca Farm            0-2-25      0.037     0.086     1172      
+Hot Cocoa Holiday                       1-0-48      0.020     0.045     1071      
 
-2025 Christmas Babes
 ==================================================================================
 
 Player                                  W-D-L       Win %     WRS       Elo       
 ----------------------------------------------------------------------------------
-Jolie - Christmas Contract              99-4-5      0.935     0.978     1979      
-Emily - Unexpected Christmas            22-3-0      0.940     0.923     1838      
-Cassie - Dickens Holiday                43-1-7      0.853     0.915     1876      
-Nell - Single on the 25th               44-5-19     0.684     0.752     1700      
-Sydney - Champagne Problems             21-2-9      0.688     0.740     1665      
-Tiffany - Coupled for Christmas         64-4-30     0.673     0.720     1729      
-Krissy - Naughty or Nice                30-5-19     0.602     0.638     1615      
-Merry - Tis the Season to Be Merry      39-5-36     0.519     0.576     1630      
-Julie - Hitched for the Holidays        15-4-12     0.548     0.551     1524      
-Ellie - Christmas Inheritance           14-1-12     0.537     0.548     1559      
-Olivia - Same Time Next Christmas       32-7-35     0.480     0.531     1584      
-Jenna - Snowed Inn Christmas            21-4-30     0.418     0.429     1428      
-Stefanie - Christmas Quest              9-1-14      0.396     0.413     1452      
-Kate - Christmas Island                 15-5-26     0.380     0.391     1368      
-Hope - Ted Cooper                       10-2-22     0.324     0.353     1371      
-Ella - Newport Christmas                15-5-33     0.330     0.330     1317      
-Colette - Hot Cocoa Holiday             15-2-38     0.291     0.306     1322      
-Leah - Very Merry Bridesmaid            13-5-43     0.254     0.295     1268      
-Celeste - Trivia at St Nicks            4-1-21      0.173     0.213     1289      
-Natalie - Pine Valley                   5-1-51      0.096     0.188     1213      
-Sophia - Jingle Bell Heist              2-1-21      0.104     0.136     1239      
-Eva - Meet Me Under the Mistletoe       2-0-51      0.038     0.076     1034      
+Emily - Unexpected Christmas            30-3-0      0.955     0.974     1927      
+Jolie - Christmas Contract              104-4-7     0.922     0.972     1920      
+Cassie - Dickens Holiday                47-2-8      0.842     0.915     1862      
+Brooke - Knight Before Christmas        22-3-2      0.870     0.823     1733      
+Nell - Single on the 25th               47-6-20     0.685     0.757     1691      
+Tiffany - Coupled for Christmas         70-4-32     0.679     0.730     1728      
+Sydney - Champagne Problems             23-2-11     0.667     0.729     1642      
+Krissy - Naughty or Nice                33-6-20     0.610     0.647     1609      
+Merry - Tis the Season to Be Merry      41-5-38     0.518     0.584     1605      
+Ellie - Christmas Inheritance           18-1-14     0.561     0.584     1594      
+Julie - Hitched for the Holidays        17-4-14     0.543     0.562     1533      
+Olivia - Same Time Next Christmas       36-7-37     0.494     0.550     1590      
+Stefanie - Christmas Quest              13-1-16     0.450     0.449     1487      
+Jenna - Snowed Inn Christmas            23-4-32     0.424     0.446     1459      
+Kate - Christmas Island                 17-5-28     0.390     0.412     1399      
+Hope - Ted Cooper                       12-2-24     0.342     0.376     1392      
+Ella - Newport Christmas                19-5-35     0.364     0.364     1378      
+Colette - Hot Cocoa Holiday             17-2-40     0.305     0.328     1356      
+Leah - Very Merry Bridesmaid            15-5-45     0.269     0.321     1320      
+Celeste - Trivia at St Nicks            6-1-23      0.217     0.263     1322      
+Natalie - Pine Valley                   6-2-53      0.115     0.204     1235      
+Trudy - Holiday in Handcuffs            3-1-23      0.130     0.172     1261      
+Sophia - Jingle Bell Heist              3-2-23      0.143     0.167     1259      
+Jess - Alpaca Christmas                 1-1-25      0.056     0.095     1183      
+Eva - Meet Me Under the Mistletoe       2-0-55      0.035     0.076     1015      
 
-2025 Christmas Hunks
 ==================================================================================
 
 Player                                  W-D-L       Win %     WRS       Elo       
 ----------------------------------------------------------------------------------
-Ted - Ted Cooper                        56-1-3      0.942     0.957     1963      
-Jake - Dickens Holiday                  38-0-6      0.864     0.936     1853      
-Max - Trivia at St Nicks                27-0-5      0.844     0.845     1802      
-Kevin - Snowed Inn Christmas            58-2-14     0.797     0.805     1769      
-Jack - Christmas Contract               54-4-23     0.691     0.698     1656      
-Jake - Christmas Inheritance            17-0-8      0.680     0.666     1628      
-Henri - Champagne Problems              19-0-12     0.613     0.638     1584      
-Jamie - Unexpected Christmas            14-1-9      0.604     0.594     1566      
-Cooper - Single on the 25th             28-4-22     0.556     0.592     1586      
-Rob - Hitched for the Holidays          12-2-12     0.500     0.551     1505      
-Jeff - Same Time Next Christmas         35-7-32     0.520     0.541     1632      
-Peter - Coupled for Christmas           31-3-36     0.464     0.461     1388      
-Oliver - Christmas Island               17-4-22     0.442     0.452     1427      
-Nick - Newport Christmas                18-3-31     0.375     0.412     1426      
-Chase - Christmas Quest                 7-1-15      0.326     0.361     1377      
-Jeff - Meet Me Under the Mistletoe      15-2-39     0.286     0.295     1331      
-Drew - Very Merry Bridesmaid            11-3-45     0.212     0.222     1230      
-Marco - Naughty or Nice                 4-1-35      0.113     0.148     1193      
-Nick - Jingle Bell Hesit                2-2-20      0.125     0.146     1252      
-Marcus - Hot Cocoa Holiday              6-3-36      0.167     0.137     1218      
-Josh - Pine Valley                      2-1-46      0.051     0.043     1114      
+Ted - Ted Cooper                        63-2-3      0.941     0.967     1992      
+Jake - Dickens Holiday                  44-0-7      0.863     0.936     1872      
+Max - Trivia at St Nicks                32-1-5      0.855     0.852     1839      
+Kevin - Snowed Inn Christmas            62-3-15     0.794     0.798     1750      
+Sir Cole - Knight Before Christmas      19-2-6      0.741     0.728     1647      
+Jack - Christmas Contract               56-5-25     0.680     0.689     1618      
+Jake - Christmas Inheritance            21-1-10     0.672     0.686     1678      
+Jamie - Unexpected Christmas            17-1-10     0.625     0.628     1614      
+Henri - Champagne Problems              21-0-14     0.600     0.624     1573      
+David - Holiday in Handcuffs            15-1-10     0.596     0.597     1567      
+Cooper - Single on the 25th             33-4-24     0.574     0.596     1601      
+Rob - Hitched for the Holidays          14-2-14     0.500     0.553     1515      
+Jeff - Same Time Next Christmas         37-7-35     0.513     0.536     1584      
+Peter - Coupled for Christmas           34-3-39     0.467     0.463     1420      
+Oliver - Christmas Island               18-4-25     0.426     0.437     1393      
+Nick - Newport Christmas                19-3-34     0.366     0.405     1405      
+Chase - Christmas Quest                 8-1-18      0.315     0.347     1355      
+Jeff - Meet Me Under the Mistletoe      16-2-42     0.283     0.299     1337      
+Drew - Very Merry Bridesmaid            12-3-48     0.214     0.231     1251      
+Marco - Naughty or Nice                 5-1-38      0.125     0.164     1210      
+Nick - Jingle Bell Hesit                2-3-23      0.125     0.154     1250      
+Marcus - Hot Cocoa Holiday              6-4-39      0.163     0.139     1213      
+Andrew - Alpaca Christmas               0-3-23      0.058     0.118     1198      
+Josh - Pine Valley                      2-2-49      0.057     0.055     1118      
