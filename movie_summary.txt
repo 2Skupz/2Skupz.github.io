@@ -3,28 +3,30 @@ Movie Summary - Combined Rankings
 
 Movie                                        Movie_WRS Babe      Hunk      Total     
 -------------------------------------------------------------------------------------
-A Dickens of a Holiday                       0.777     0.913     0.917     0.869     
-Unexpected Christmas                         0.936     0.991     0.629     0.852     
-The Christmas Contract                       0.760     0.963     0.676     0.800     
-Merry Christmas Ted Cooper                   0.970     0.355     0.977     0.767     
-Knight Before Christmas                      0.618     0.875     0.782     0.758     
-Tis the Season to Be Merry                   0.890     0.586     N/A       0.738     
-Single on the 25th                           0.761     0.736     0.610     0.702     
-Champagne Problems                           0.753     0.732     0.566     0.684     
-Christmas Inheritance                        0.727     0.559     0.655     0.647     
-Snowed Inn Christmas                         0.574     0.453     0.787     0.605     
-Trivia at St Nicks                           0.641     0.216     0.883     0.580     
-Hitched for the Holidays                     0.535     0.572     0.548     0.552     
-Coupled for Christmas                        0.437     0.727     0.459     0.541     
-Same Time Next Christmas                     0.220     0.558     0.542     0.440     
-A Newport Christmas                          0.469     0.389     0.409     0.422     
-Holiday in Handcuffs                         0.432     0.205     0.617     0.418     
-Naughty or Nice                              0.339     0.635     0.184     0.386     
-Christmas Island                             0.266     0.409     0.443     0.373     
-Christmas Quest                              0.328     0.434     0.339     0.367     
-A Very Merry Bridesmaid                      0.253     0.341     0.230     0.275     
-Meet Me Under the Mistletoe                  0.269     0.084     0.299     0.217     
-Jingle Bell Heist                            0.291     0.129     0.133     0.184     
-Hot Cocoa Holiday                            0.059     0.323     0.128     0.170     
-Christmas in Pine Valley                     0.118     0.192     0.049     0.120     
-Christmas on the Alpaca Farm                 0.078     0.124     0.138     0.113     
+A Dickens of a Holiday                       0.799     0.929     0.910     0.879     
+Unexpected Christmas                         0.933     0.983     0.661     0.859     
+The Christmas Contract                       0.777     0.987     0.678     0.814     
+Knight Before Christmas                      0.660     0.909     0.806     0.792     
+Merry Christmas Ted Cooper                   0.994     0.364     0.993     0.784     
+Tis the Season to Be Merry                   0.907     0.619     N/A       0.763     
+Single on the 25th                           0.778     0.758     0.621     0.719     
+Champagne Problems                           0.759     0.748     0.564     0.690     
+Christmas Inheritance                        0.738     0.584     0.675     0.666     
+Snowed Inn Christmas                         0.595     0.478     0.789     0.621     
+Trivia at St Nicks                           0.656     0.255     0.893     0.601     
+Coupled for Christmas                        0.463     0.748     0.466     0.559     
+Hitched for the Holidays                     0.557     0.583     0.536     0.559     
+Same Time Next Christmas                     0.254     0.585     0.539     0.459     
+A Newport Christmas                          0.501     0.425     0.412     0.446     
+Holiday in Handcuffs                         0.437     0.224     0.611     0.424     
+Naughty or Nice                              0.364     0.659     0.178     0.400     
+Shes Making a List                           0.410     0.188     0.594     0.397     
+Christmas Island                             0.288     0.448     0.445     0.394     
+Christmas Quest                              0.352     0.462     0.343     0.386     
+A Very Merry Bridesmaid                      0.267     0.378     0.230     0.292     
+Rocky Mountain Christmas                     0.139     0.207     0.341     0.229     
+Meet Me Under the Mistletoe                  0.278     0.104     0.293     0.225     
+Hot Cocoa Holiday                            0.068     0.369     0.117     0.185     
+Jingle Bell Heist                            0.301     0.119     0.118     0.179     
+Christmas on the Alpaca Farm                 0.088     0.172     0.139     0.133     
+Christmas in Pine Valley                     0.135     0.214     0.049     0.133     
