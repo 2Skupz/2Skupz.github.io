@@ -7,8 +7,8 @@
 6,Louisville,ACC
 7,Wake Forest,ACC
 8,NC State,ACC
-9,California,ACC
-10,Clemson,ACC
+9,Clemson,ACC
+10,California,ACC
 11,Stanford,ACC
 12,Florida State,ACC
 13,North Carolina,ACC
@@ -21,8 +21,8 @@
 20,South Florida,American
 21,East Carolina,American
 22,Memphis,American
-23,Army,American
-24,UTSA,American
+23,UTSA,American
+24,Army,American
 25,Temple,American
 26,Florida Atlantic,American
 27,Rice,American
@@ -66,8 +66,8 @@
 65,Kennesaw State,CUSA
 66,Jacksonville State,CUSA
 67,Western Kentucky,CUSA
-68,Florida Int'l,CUSA
-69,Louisiana Tech,CUSA
+68,Louisiana Tech,CUSA
+69,Florida Int'l,CUSA
 70,Missouri State,CUSA
 71,Delaware,CUSA
 72,Liberty,CUSA
@@ -93,11 +93,11 @@
 92,Northern Illinois,MAC
 93,Massachusetts,MAC
 94,Boise State,MWC
-95,UNLV,MWC
-96,New Mexico,MWC
-97,San Diego State,MWC
-98,Fresno State,MWC
-99,Hawaii,MWC
+95,San Diego State,MWC
+96,UNLV,MWC
+97,New Mexico,MWC
+98,Hawaii,MWC
+99,Fresno State,MWC
 100,Utah State,MWC
 101,Air Force,MWC
 102,Wyoming,MWC
@@ -128,8 +128,8 @@
 127,Appalachian State,Sun Belt (East)
 128,Georgia State,Sun Belt (East)
 129,Troy,Sun Belt (West)
-130,Southern Miss,Sun Belt (West)
-131,Arkansas State,Sun Belt (West)
+130,Arkansas State,Sun Belt (West)
+131,Southern Miss,Sun Belt (West)
 132,Louisiana,Sun Belt (West)
 133,Texas State,Sun Belt (West)
 134,South Alabama,Sun Belt (West)

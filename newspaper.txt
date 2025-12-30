@@ -66,8 +66,6 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             
 -----------------------                                             
-Friday, December 26                                                 
-  Manchester Utd       vs    Newcastle Utd                          
 Saturday, December 27                                               
   Nott'ham Forest      vs    Manchester City                        
   Liverpool            vs    Wolves                                 
@@ -130,6 +128,8 @@ Sunday, December 28
   Atalanta             vs    Inter
 Monday, December 29
   Roma                 vs    Genoa
+Friday, January 02
+  Cagliari             vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -171,4 +171,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 12.29.25
+Standings from FBRef.com 12.30.25
