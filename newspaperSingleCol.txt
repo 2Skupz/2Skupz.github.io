@@ -108,14 +108,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, December 27
-  Nott'ham Forest      vs    Manchester City
-  Liverpool            vs    Wolves
-  Burnley              vs    Everton
-  Arsenal              vs    Brighton
-  Brentford            vs    Bournemouth
-  West Ham             vs    Fulham
-  Chelsea              vs    Aston Villa
 Sunday, December 28
   Sunderland           vs    Leeds United
   Crystal Palace       vs    Tottenham
@@ -131,6 +123,11 @@ Thursday, January 01
   Crystal Palace       vs    Fulham
   Sunderland           vs    Manchester City
   Brentford            vs    Tottenham
+Saturday, January 03
+  Aston Villa          vs    Nott'ham Forest
+  Wolves               vs    West Ham
+  Brighton             vs    Burnley
+  Bournemouth          vs    Arsenal
 
 
 Ligue 1
@@ -182,12 +179,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Saturday, December 27
-  Parma                vs    Fiorentina
-  Lecce                vs    Como
-  Torino               vs    Cagliari
-  Udinese              vs    Lazio
-  Pisa                 vs    Juventus
 Sunday, December 28
   Milan                vs    Hellas Verona
   Cremonese            vs    Napoli
@@ -197,6 +188,12 @@ Monday, December 29
   Roma                 vs    Genoa
 Friday, January 02
   Cagliari             vs    Milan
+Saturday, January 03
+  Como                 vs    Udinese
+  Genoa                vs    Pisa
+  Sassuolo             vs    Parma
+  Juventus             vs    Lecce
+  Atalanta             vs    Roma
 
 
 Champions League
@@ -240,4 +237,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.30.25
+Standings from FBRef.com 12.31.25

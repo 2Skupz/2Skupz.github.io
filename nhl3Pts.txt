@@ -11,7 +11,7 @@ Los Angeles            38   11    5    9   13    -3    52
 San Jose               39   11    8    3   17   -16    52
 Calgary                39   13    4    4   18   -13    51
 SEATTLE                37   11    5    7   14   -16    50
-Vancouver              38   10    6    3   19   -21    45
+Vancouver              39   10    6    3   20   -24    45
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
@@ -23,17 +23,17 @@ St. Louis              40   15    0    8   17   -37    53
 Utah                   40   13    5    3   19     3    52
 Nashville              38   12    5    4   17   -18    50
 Winnipeg               37   13    2    4   18    -7    47
-Chicago                38   12    2    6   18   -18    46
+Chicago                39   12    2    7   18   -19    47
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Carolina               38   15    9    3   11    19    66
+Carolina               39   15    9    3   12    15    66
 Washington             39   18    2    5   14    13    63
-NY Islanders           39   15    6    4   14     3    61
-Philadelphia           37   12    7    7   11     6    57
-Pittsburgh             37   14    2    9   12    -5    55
-New Jersey             38   13    7    2   16    -8    55
+NY Islanders           40   15    7    4   14     4    63
+Philadelphia           38   13    7    7   11     9    60
+Pittsburgh             38   15    2    9   12    -1    58
+New Jersey             39   13    7    2   17   -12    55
 NY Rangers             41   12    7    5   17    -4    55
 Columbus               38   10    7    6   15   -12    50
 
@@ -42,10 +42,10 @@ Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Tampa Bay              38   18    4    3   13    25    65
 Detroit                40   16    7    3   14    -4    65
-Florida                38   18    3    2   15     3    62
-Montreal               38   13    7    6   12    -2    59
+Florida                39   18    3    3   15     2    63
+Montreal               39   13    8    6   12    -1    61
 Buffalo                38   14    6    4   14     0    58
+Toronto                39   14    4    6   15    -1    56
 Boston                 40   14    6    2   18    -8    56
 Ottawa                 38   13    5    5   15     1    54
-Toronto                38   13    4    6   15    -5    53
 
