@@ -108,9 +108,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Sunday, December 28
-  Sunderland           vs    Leeds United
-  Crystal Palace       vs    Tottenham
 Tuesday, December 30
   Nott'ham Forest      vs    Everton
   West Ham             vs    Brighton
@@ -128,6 +125,13 @@ Saturday, January 03
   Wolves               vs    West Ham
   Brighton             vs    Burnley
   Bournemouth          vs    Arsenal
+Sunday, January 04
+  Leeds United         vs    Manchester Utd
+  Newcastle Utd        vs    Crystal Palace
+  Tottenham            vs    Sunderland
+  Fulham               vs    Liverpool
+  Everton              vs    Brentford
+  Manchester City      vs    Chelsea
 
 
 Ligue 1
@@ -151,6 +155,19 @@ Nantes             11   2   3   6   9  -7
 Lorient            11   2   3   6   9 -12
 Metz               11   2   2   7   8 -16
 Auxerre            11   2   1   8   7 -10
+
+Ligue 1 Fixtures
+----------------
+Sunday, January 04
+  Lille                vs    Rennes
+  Brest                vs    Auxerre
+  Toulouse             vs    Lens
+  Nice                 vs    Strasbourg
+  Le Havre             vs    Angers
+  Paris S-G            vs    Paris FC
+  Monaco               vs    Lyon
+  Marseille            vs    Nantes
+  Lorient              vs    Metz
 
 
 Serie A
@@ -179,11 +196,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, December 28
-  Milan                vs    Hellas Verona
-  Cremonese            vs    Napoli
-  Bologna              vs    Sassuolo
-  Atalanta             vs    Inter
 Monday, December 29
   Roma                 vs    Genoa
 Friday, January 02
@@ -194,6 +206,11 @@ Saturday, January 03
   Sassuolo             vs    Parma
   Juventus             vs    Lecce
   Atalanta             vs    Roma
+Sunday, January 04
+  Lazio                vs    Napoli
+  Fiorentina           vs    Cremonese
+  Hellas Verona        vs    Torino
+  Inter                vs    Bologna
 
 
 Champions League
@@ -237,4 +254,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 12.31.25
+Standings from FBRef.com 01.01.26

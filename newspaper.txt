@@ -64,21 +64,18 @@ West Ham           10   2   1   7  10  21 -11   7   9.3  15.3       Auxerre     
 Nott'ham Forest    10   1   3   6   7  19 -12   6  11.0  15.9       
 Wolves             10   0   2   8   7  22 -15   2   9.4  12.7       
 
-Premier League Fixtures                                             
------------------------                                             
-Sunday, December 28                                                 
-  Sunderland           vs    Leeds United                           
-  Crystal Palace       vs    Tottenham                              
-Tuesday, December 30                                                
-  Nott'ham Forest      vs    Everton                                
-  West Ham             vs    Brighton                               
-  Burnley              vs    Newcastle Utd                          
-  Chelsea              vs    Bournemouth                            
-  Manchester Utd       vs    Wolves                                 
-  Arsenal              vs    Aston Villa                            
-Thursday, January 01                                                
-  Liverpool            vs    Leeds United                           
-  Crystal Palace       vs    Fulham                                 
+Premier League Fixtures                                             Ligue 1 Fixtures
+-----------------------                                             ----------------
+Tuesday, December 30                                                Sunday, January 04
+  Nott'ham Forest      vs    Everton                                  Lille                vs    Rennes
+  West Ham             vs    Brighton                                 Brest                vs    Auxerre
+  Burnley              vs    Newcastle Utd                            Toulouse             vs    Lens
+  Chelsea              vs    Bournemouth                              Nice                 vs    Strasbourg
+  Manchester Utd       vs    Wolves                                   Le Havre             vs    Angers
+  Arsenal              vs    Aston Villa                              Paris S-G            vs    Paris FC
+Thursday, January 01                                                  Monaco               vs    Lyon
+  Liverpool            vs    Leeds United                             Marseille            vs    Nantes
+  Crystal Palace       vs    Fulham                                   Lorient              vs    Metz
   Sunderland           vs    Manchester City                        
   Brentford            vs    Tottenham                              
 Saturday, January 03                                                
@@ -86,6 +83,13 @@ Saturday, January 03
   Wolves               vs    West Ham                               
   Brighton             vs    Burnley                                
   Bournemouth          vs    Arsenal                                
+Sunday, January 04                                                  
+  Leeds United         vs    Manchester Utd                         
+  Newcastle Utd        vs    Crystal Palace                         
+  Tottenham            vs    Sunderland                             
+  Fulham               vs    Liverpool                              
+  Everton              vs    Brentford                              
+  Manchester City      vs    Chelsea                                
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -112,11 +116,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Sunday, December 28
-  Milan                vs    Hellas Verona
-  Cremonese            vs    Napoli
-  Bologna              vs    Sassuolo
-  Atalanta             vs    Inter
 Monday, December 29
   Roma                 vs    Genoa
 Friday, January 02
@@ -127,6 +126,11 @@ Saturday, January 03
   Sassuolo             vs    Parma
   Juventus             vs    Lecce
   Atalanta             vs    Roma
+Sunday, January 04
+  Lazio                vs    Napoli
+  Fiorentina           vs    Cremonese
+  Hellas Verona        vs    Torino
+  Inter                vs    Bologna
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -168,4 +172,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 12.31.25
+Standings from FBRef.com 01.01.26
