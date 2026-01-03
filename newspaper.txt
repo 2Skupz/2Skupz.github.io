@@ -66,23 +66,16 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Tuesday, December 30                                                Sunday, January 04
-  Nott'ham Forest      vs    Everton                                  Lille                vs    Rennes
-  West Ham             vs    Brighton                                 Brest                vs    Auxerre
-  Burnley              vs    Newcastle Utd                            Toulouse             vs    Lens
-  Chelsea              vs    Bournemouth                              Nice                 vs    Strasbourg
-  Manchester Utd       vs    Wolves                                   Le Havre             vs    Angers
-  Arsenal              vs    Aston Villa                              Paris S-G            vs    Paris FC
-Thursday, January 01                                                  Monaco               vs    Lyon
-  Liverpool            vs    Leeds United                             Marseille            vs    Nantes
-  Crystal Palace       vs    Fulham                                   Lorient              vs    Metz
-  Sunderland           vs    Manchester City                        
-  Brentford            vs    Tottenham                              
-Saturday, January 03                                                
-  Aston Villa          vs    Nott'ham Forest                        
-  Wolves               vs    West Ham                               
-  Brighton             vs    Burnley                                
-  Bournemouth          vs    Arsenal                                
+Thursday, January 01                                                Sunday, January 04
+  Liverpool            vs    Leeds United                             Lille                vs    Rennes
+  Crystal Palace       vs    Fulham                                   Brest                vs    Auxerre
+  Sunderland           vs    Manchester City                          Toulouse             vs    Lens
+  Brentford            vs    Tottenham                                Nice                 vs    Strasbourg
+Saturday, January 03                                                  Le Havre             vs    Angers
+  Aston Villa          vs    Nott'ham Forest                          Paris S-G            vs    Paris FC
+  Wolves               vs    West Ham                                 Monaco               vs    Lyon
+  Brighton             vs    Burnley                                  Marseille            vs    Nantes
+  Bournemouth          vs    Arsenal                                  Lorient              vs    Metz
 Sunday, January 04                                                  
   Leeds United         vs    Manchester Utd                         
   Newcastle Utd        vs    Crystal Palace                         
@@ -90,6 +83,8 @@ Sunday, January 04
   Fulham               vs    Liverpool                              
   Everton              vs    Brentford                              
   Manchester City      vs    Chelsea                                
+Tuesday, January 06                                                 
+  West Ham             vs    Nott'ham Forest                        
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -129,6 +124,10 @@ Sunday, January 04
   Fiorentina           vs    Cremonese
   Hellas Verona        vs    Torino
   Inter                vs    Bologna
+Tuesday, January 06
+  Pisa                 vs    Como
+  Lecce                vs    Roma
+  Sassuolo             vs    Juventus
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -170,4 +169,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 01.02.26
+Standings from FBRef.com 01.03.26

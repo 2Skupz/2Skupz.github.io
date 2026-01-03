@@ -108,13 +108,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Tuesday, December 30
-  Nott'ham Forest      vs    Everton
-  West Ham             vs    Brighton
-  Burnley              vs    Newcastle Utd
-  Chelsea              vs    Bournemouth
-  Manchester Utd       vs    Wolves
-  Arsenal              vs    Aston Villa
 Thursday, January 01
   Liverpool            vs    Leeds United
   Crystal Palace       vs    Fulham
@@ -132,6 +125,8 @@ Sunday, January 04
   Fulham               vs    Liverpool
   Everton              vs    Brentford
   Manchester City      vs    Chelsea
+Tuesday, January 06
+  West Ham             vs    Nott'ham Forest
 
 
 Ligue 1
@@ -209,6 +204,10 @@ Sunday, January 04
   Fiorentina           vs    Cremonese
   Hellas Verona        vs    Torino
   Inter                vs    Bologna
+Tuesday, January 06
+  Pisa                 vs    Como
+  Lecce                vs    Roma
+  Sassuolo             vs    Juventus
 
 
 Champions League
@@ -252,4 +251,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 01.02.26
+Standings from FBRef.com 01.03.26
