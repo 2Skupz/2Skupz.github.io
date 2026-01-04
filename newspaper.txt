@@ -85,6 +85,15 @@ Sunday, January 04
   Manchester City      vs    Chelsea                                
 Tuesday, January 06                                                 
   West Ham             vs    Nott'ham Forest                        
+Wednesday, January 07                                               
+  Brentford            vs    Sunderland                             
+  Bournemouth          vs    Tottenham                              
+  Everton              vs    Wolves                                 
+  Crystal Palace       vs    Aston Villa                            
+  Manchester City      vs    Brighton                               
+  Fulham               vs    Chelsea                                
+  Burnley              vs    Manchester Utd                         
+  Newcastle Utd        vs    Leeds United                           
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -128,6 +137,12 @@ Tuesday, January 06
   Pisa                 vs    Como
   Lecce                vs    Roma
   Sassuolo             vs    Juventus
+Wednesday, January 07
+  Napoli               vs    Hellas Verona
+  Bologna              vs    Atalanta
+  Torino               vs    Udinese
+  Parma                vs    Inter
+  Lazio                vs    Fiorentina
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -169,4 +184,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 01.03.26
+Standings from FBRef.com 01.04.26
