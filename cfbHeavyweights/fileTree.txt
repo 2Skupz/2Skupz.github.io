@@ -1,0 +1,716 @@
+Project structure for: /Users/kensmacmini/Dropbox/Python/cfbHeavyweights
+
+├── .DS_Store
+├── README.md
+├── archive
+│   ├── .DS_Store
+│   ├── Game.py
+│   ├── Games
+│   │   ├── 1869Games.csv
+│   │   ├── 1870Games.csv
+│   │   ├── 1872Games.csv
+│   │   ├── 1873Games.csv
+│   │   ├── 1874Games.csv
+│   │   ├── 1875Games.csv
+│   │   ├── 1876Games.csv
+│   │   ├── 1877Games.csv
+│   │   ├── 1878Games.csv
+│   │   ├── 1879Games.csv
+│   │   ├── 1880Games.csv
+│   │   ├── 1881Games.csv
+│   │   ├── 1882Games.csv
+│   │   ├── 1883Games.csv
+│   │   ├── 1884Games.csv
+│   │   ├── 1885Games.csv
+│   │   ├── 1886Games.csv
+│   │   ├── 1887Games.csv
+│   │   ├── 1888Games.csv
+│   │   ├── 1889Games.csv
+│   │   ├── 1890Games.csv
+│   │   ├── 1891Games.csv
+│   │   ├── 1892Games.csv
+│   │   ├── 1893Games.csv
+│   │   ├── 1894Games.csv
+│   │   ├── 1895Games.csv
+│   │   ├── 1896Games.csv
+│   │   ├── 1897Games.csv
+│   │   ├── 1898Games.csv
+│   │   ├── 1899Games.csv
+│   │   ├── 1900Games.csv
+│   │   ├── 1901Games.csv
+│   │   ├── 1902Games.csv
+│   │   ├── 1903Games.csv
+│   │   ├── 1904Games.csv
+│   │   ├── 1905Games.csv
+│   │   ├── 1906Games.csv
+│   │   ├── 1907Games.csv
+│   │   ├── 1908Games.csv
+│   │   ├── 1909Games.csv
+│   │   ├── 1910Games.csv
+│   │   ├── 1911Games.csv
+│   │   ├── 1912Games.csv
+│   │   ├── 1913Games.csv
+│   │   ├── 1914Games.csv
+│   │   ├── 1915Games.csv
+│   │   ├── 1916Games.csv
+│   │   ├── 1917Games.csv
+│   │   ├── 1918Games.csv
+│   │   ├── 1919Games.csv
+│   │   ├── 1920Games.csv
+│   │   ├── 1921Games.csv
+│   │   ├── 1922Games.csv
+│   │   ├── 1923Games.csv
+│   │   ├── 1924Games.csv
+│   │   ├── 1925Games.csv
+│   │   ├── 1926Games.csv
+│   │   ├── 1927Games.csv
+│   │   ├── 1928Games.csv
+│   │   ├── 1929Games.csv
+│   │   ├── 1930Games.csv
+│   │   ├── 1931Games.csv
+│   │   ├── 1932Games.csv
+│   │   ├── 1933Games.csv
+│   │   ├── 1934Games.csv
+│   │   ├── 1935Games.csv
+│   │   ├── 1936Games.csv
+│   │   ├── 1937Games.csv
+│   │   ├── 1938Games.csv
+│   │   ├── 1939Games.csv
+│   │   ├── 1940Games.csv
+│   │   ├── 1941Games.csv
+│   │   ├── 1942Games.csv
+│   │   ├── 1943Games.csv
+│   │   ├── 1944Games.csv
+│   │   ├── 1945Games.csv
+│   │   ├── 1946Games.csv
+│   │   ├── 1947Games.csv
+│   │   ├── 1948Games.csv
+│   │   ├── 1949Games.csv
+│   │   ├── 1950Games.csv
+│   │   ├── 1951Games.csv
+│   │   ├── 1952Games.csv
+│   │   ├── 1953Games.csv
+│   │   ├── 1954Games.csv
+│   │   ├── 1955Games.csv
+│   │   ├── 1956Games.csv
+│   │   ├── 1957Games.csv
+│   │   ├── 1958Games.csv
+│   │   ├── 1959Games.csv
+│   │   ├── 1960Games.csv
+│   │   ├── 1961Games.csv
+│   │   ├── 1962Games.csv
+│   │   ├── 1963Games.csv
+│   │   ├── 1964Games.csv
+│   │   ├── 1965Games.csv
+│   │   ├── 1966Games.csv
+│   │   ├── 1967Games.csv
+│   │   ├── 1968Games.csv
+│   │   ├── 1969Games.csv
+│   │   ├── 1970Games.csv
+│   │   ├── 1971Games.csv
+│   │   ├── 1972Games.csv
+│   │   ├── 1973Games.csv
+│   │   ├── 1974Games.csv
+│   │   ├── 1975Games.csv
+│   │   ├── 1976Games.csv
+│   │   ├── 1977Games.csv
+│   │   ├── 1978Games.csv
+│   │   ├── 1979Games.csv
+│   │   ├── 1980Games.csv
+│   │   ├── 1981Games.csv
+│   │   ├── 1982Games.csv
+│   │   ├── 1983Games.csv
+│   │   ├── 1984Games.csv
+│   │   ├── 1985Games.csv
+│   │   ├── 1986Games.csv
+│   │   ├── 1987Games.csv
+│   │   ├── 1988Games.csv
+│   │   ├── 1989Games.csv
+│   │   ├── 1990Games.csv
+│   │   ├── 1991Games.csv
+│   │   ├── 1992Games.csv
+│   │   ├── 1993Games.csv
+│   │   ├── 1994Games.csv
+│   │   ├── 1995Games.csv
+│   │   ├── 1996Games.csv
+│   │   ├── 1997Games.csv
+│   │   ├── 1998Games.csv
+│   │   ├── 1999Games.csv
+│   │   ├── 2000Games.csv
+│   │   ├── 2001Games.csv
+│   │   ├── 2002Games.csv
+│   │   ├── 2003Games.csv
+│   │   ├── 2004Games.csv
+│   │   ├── 2005Games.csv
+│   │   ├── 2006Games.csv
+│   │   ├── 2007Games.csv
+│   │   ├── 2008Games.csv
+│   │   ├── 2009Games.csv
+│   │   ├── 2010Games.csv
+│   │   ├── 2011Games.csv
+│   │   ├── 2012Games.csv
+│   │   ├── 2013Games.csv
+│   │   ├── 2014Games.csv
+│   │   ├── 2015Games.csv
+│   │   ├── 2016Games.csv
+│   │   ├── 2017Games.csv
+│   │   ├── 2018Games.csv
+│   │   ├── 2019Games.csv
+│   │   ├── 2020Games.csv
+│   │   ├── 2021Games.csv
+│   │   ├── 2022Games.csv
+│   │   ├── 2023Games.csv
+│   │   ├── 2024Games.csv
+│   │   └── 2025Games.csv
+│   ├── Team.py
+│   ├── Teams
+│   │   ├── 1869Teams.csv
+│   │   ├── 1870Teams.csv
+│   │   ├── 1872Teams.csv
+│   │   ├── 1873Teams.csv
+│   │   ├── 1874Teams.csv
+│   │   ├── 1875Teams.csv
+│   │   ├── 1876Teams.csv
+│   │   ├── 1877Teams.csv
+│   │   ├── 1878Teams.csv
+│   │   ├── 1879Teams.csv
+│   │   ├── 1880Teams.csv
+│   │   ├── 1881Teams.csv
+│   │   ├── 1882Teams.csv
+│   │   ├── 1883Teams.csv
+│   │   ├── 1884Teams.csv
+│   │   ├── 1885Teams.csv
+│   │   ├── 1886Teams.csv
+│   │   ├── 1887Teams.csv
+│   │   ├── 1888Teams.csv
+│   │   ├── 1889Teams.csv
+│   │   ├── 1890Teams.csv
+│   │   ├── 1891Teams.csv
+│   │   ├── 1892Teams.csv
+│   │   ├── 1893Teams.csv
+│   │   ├── 1894Teams.csv
+│   │   ├── 1895Teams.csv
+│   │   ├── 1896Teams.csv
+│   │   ├── 1897Teams.csv
+│   │   ├── 1898Teams.csv
+│   │   ├── 1899Teams.csv
+│   │   ├── 1900Teams.csv
+│   │   ├── 1901Teams.csv
+│   │   ├── 1902Teams.csv
+│   │   ├── 1903Teams.csv
+│   │   ├── 1904Teams.csv
+│   │   ├── 1905Teams.csv
+│   │   ├── 1906Teams.csv
+│   │   ├── 1907Teams.csv
+│   │   ├── 1908Teams.csv
+│   │   ├── 1909Teams.csv
+│   │   ├── 1910Teams.csv
+│   │   ├── 1911Teams.csv
+│   │   ├── 1912Teams.csv
+│   │   ├── 1913Teams.csv
+│   │   ├── 1914Teams.csv
+│   │   ├── 1915Teams.csv
+│   │   ├── 1916Teams.csv
+│   │   ├── 1917Teams.csv
+│   │   ├── 1918Teams.csv
+│   │   ├── 1919Teams.csv
+│   │   ├── 1920Teams.csv
+│   │   ├── 1921Teams.csv
+│   │   ├── 1922Teams.csv
+│   │   ├── 1923Teams.csv
+│   │   ├── 1924Teams.csv
+│   │   ├── 1925Teams.csv
+│   │   ├── 1926Teams.csv
+│   │   ├── 1927Teams.csv
+│   │   ├── 1928Teams.csv
+│   │   ├── 1929Teams.csv
+│   │   ├── 1930Teams.csv
+│   │   ├── 1931Teams.csv
+│   │   ├── 1932Teams.csv
+│   │   ├── 1933Teams.csv
+│   │   ├── 1934Teams.csv
+│   │   ├── 1935Teams.csv
+│   │   ├── 1936Teams.csv
+│   │   ├── 1937Teams.csv
+│   │   ├── 1938Teams.csv
+│   │   ├── 1939Teams.csv
+│   │   ├── 1940Teams.csv
+│   │   ├── 1941Teams.csv
+│   │   ├── 1942Teams.csv
+│   │   ├── 1943Teams.csv
+│   │   ├── 1944Teams.csv
+│   │   ├── 1945Teams.csv
+│   │   ├── 1946Teams.csv
+│   │   ├── 1947Teams.csv
+│   │   ├── 1948Teams.csv
+│   │   ├── 1949Teams.csv
+│   │   ├── 1950Teams.csv
+│   │   ├── 1951Teams.csv
+│   │   ├── 1952Teams.csv
+│   │   ├── 1953Teams.csv
+│   │   ├── 1954Teams.csv
+│   │   ├── 1955Teams.csv
+│   │   ├── 1956Teams.csv
+│   │   ├── 1957Teams.csv
+│   │   ├── 1958Teams.csv
+│   │   ├── 1959Teams.csv
+│   │   ├── 1960Teams.csv
+│   │   ├── 1961Teams.csv
+│   │   ├── 1962Teams.csv
+│   │   ├── 1963Teams.csv
+│   │   ├── 1964Teams.csv
+│   │   ├── 1965Teams.csv
+│   │   ├── 1966Teams.csv
+│   │   ├── 1967Teams.csv
+│   │   ├── 1968Teams.csv
+│   │   ├── 1969Teams.csv
+│   │   ├── 1970Teams.csv
+│   │   ├── 1971Teams.csv
+│   │   ├── 1972Teams.csv
+│   │   ├── 1973Teams.csv
+│   │   ├── 1974Teams.csv
+│   │   ├── 1975Teams.csv
+│   │   ├── 1976Teams.csv
+│   │   ├── 1977Teams.csv
+│   │   ├── 1978Teams.csv
+│   │   ├── 1979Teams.csv
+│   │   ├── 1980Teams.csv
+│   │   ├── 1981Teams.csv
+│   │   ├── 1982Teams.csv
+│   │   ├── 1983Teams.csv
+│   │   ├── 1984Teams.csv
+│   │   ├── 1985Teams.csv
+│   │   ├── 1986Teams.csv
+│   │   ├── 1987Teams.csv
+│   │   ├── 1988Teams.csv
+│   │   ├── 1989Teams.csv
+│   │   ├── 1990Teams.csv
+│   │   ├── 1991Teams.csv
+│   │   ├── 1992Teams.csv
+│   │   ├── 1993Teams.csv
+│   │   ├── 1994Teams.csv
+│   │   ├── 1995Teams.csv
+│   │   ├── 1996Teams.csv
+│   │   ├── 1997Teams.csv
+│   │   ├── 1998Teams.csv
+│   │   ├── 1999Teams.csv
+│   │   ├── 2000Teams.csv
+│   │   ├── 2001Teams.csv
+│   │   ├── 2002Teams.csv
+│   │   ├── 2003Teams.csv
+│   │   ├── 2004Teams.csv
+│   │   ├── 2005Teams.csv
+│   │   ├── 2006Teams.csv
+│   │   ├── 2007Teams.csv
+│   │   ├── 2008Teams.csv
+│   │   ├── 2009Teams.csv
+│   │   ├── 2010Teams.csv
+│   │   ├── 2011Teams.csv
+│   │   ├── 2012Teams.csv
+│   │   ├── 2013Teams.csv
+│   │   ├── 2014Teams.csv
+│   │   ├── 2015Teams.csv
+│   │   ├── 2016Teams.csv
+│   │   ├── 2017Teams.csv
+│   │   ├── 2018Teams.csv
+│   │   ├── 2019Teams.csv
+│   │   ├── 2020Teams.csv
+│   │   ├── 2021Teams.csv
+│   │   ├── 2022Teams.csv
+│   │   ├── 2023Teams.csv
+│   │   ├── 2024Teams.csv
+│   │   └── 2025Teams.csv
+│   ├── Webpage
+│   │   ├── .DS_Store
+│   │   ├── allBouts.txt
+│   │   ├── allTimeRankings.txt
+│   │   ├── cfbHeavyweights.html
+│   │   ├── longestReigns.txt
+│   │   ├── preamble.txt
+│   │   ├── schoolBySchool.txt
+│   │   ├── theChamp.jpeg
+│   │   ├── top25Active.txt
+│   │   └── yearlyBeltWinners.txt
+│   ├── __pycache__
+│   │   ├── Game.cpython-36.pyc
+│   │   └── Team.cpython-36.pyc
+│   ├── allGames.csv
+│   ├── getGames.py
+│   ├── heavyweightClasses.py
+│   ├── main.py
+│   ├── readme.txt
+│   └── reports
+│       ├── allBouts.txt
+│       ├── mostReigns.txt
+│       ├── mostWins.txt
+│       ├── top25Active.txt
+│       ├── top25Alltime.txt
+│       ├── yearlyBeltWinners.txt
+│       ├── yearlyTitlesSummary.txt
+│       └── yearlyTitlesSummaryActiveSchools.txt
+├── data
+│   ├── .DS_Store
+│   ├── games
+│   │   ├── 1869Games.csv
+│   │   ├── 1870Games.csv
+│   │   ├── 1872Games.csv
+│   │   ├── 1873Games.csv
+│   │   ├── 1874Games.csv
+│   │   ├── 1875Games.csv
+│   │   ├── 1876Games.csv
+│   │   ├── 1877Games.csv
+│   │   ├── 1878Games.csv
+│   │   ├── 1879Games.csv
+│   │   ├── 1880Games.csv
+│   │   ├── 1881Games.csv
+│   │   ├── 1882Games.csv
+│   │   ├── 1883Games.csv
+│   │   ├── 1884Games.csv
+│   │   ├── 1885Games.csv
+│   │   ├── 1886Games.csv
+│   │   ├── 1887Games.csv
+│   │   ├── 1888Games.csv
+│   │   ├── 1889Games.csv
+│   │   ├── 1890Games.csv
+│   │   ├── 1891Games.csv
+│   │   ├── 1892Games.csv
+│   │   ├── 1893Games.csv
+│   │   ├── 1894Games.csv
+│   │   ├── 1895Games.csv
+│   │   ├── 1896Games.csv
+│   │   ├── 1897Games.csv
+│   │   ├── 1898Games.csv
+│   │   ├── 1899Games.csv
+│   │   ├── 1900Games.csv
+│   │   ├── 1901Games.csv
+│   │   ├── 1902Games.csv
+│   │   ├── 1903Games.csv
+│   │   ├── 1904Games.csv
+│   │   ├── 1905Games.csv
+│   │   ├── 1906Games.csv
+│   │   ├── 1907Games.csv
+│   │   ├── 1908Games.csv
+│   │   ├── 1909Games.csv
+│   │   ├── 1910Games.csv
+│   │   ├── 1911Games.csv
+│   │   ├── 1912Games.csv
+│   │   ├── 1913Games.csv
+│   │   ├── 1914Games.csv
+│   │   ├── 1915Games.csv
+│   │   ├── 1916Games.csv
+│   │   ├── 1917Games.csv
+│   │   ├── 1918Games.csv
+│   │   ├── 1919Games.csv
+│   │   ├── 1920Games.csv
+│   │   ├── 1921Games.csv
+│   │   ├── 1922Games.csv
+│   │   ├── 1923Games.csv
+│   │   ├── 1924Games.csv
+│   │   ├── 1925Games.csv
+│   │   ├── 1926Games.csv
+│   │   ├── 1927Games.csv
+│   │   ├── 1928Games.csv
+│   │   ├── 1929Games.csv
+│   │   ├── 1930Games.csv
+│   │   ├── 1931Games.csv
+│   │   ├── 1932Games.csv
+│   │   ├── 1933Games.csv
+│   │   ├── 1934Games.csv
+│   │   ├── 1935Games.csv
+│   │   ├── 1936Games.csv
+│   │   ├── 1937Games.csv
+│   │   ├── 1938Games.csv
+│   │   ├── 1939Games.csv
+│   │   ├── 1940Games.csv
+│   │   ├── 1941Games.csv
+│   │   ├── 1942Games.csv
+│   │   ├── 1943Games.csv
+│   │   ├── 1944Games.csv
+│   │   ├── 1945Games.csv
+│   │   ├── 1946Games.csv
+│   │   ├── 1947Games.csv
+│   │   ├── 1948Games.csv
+│   │   ├── 1949Games.csv
+│   │   ├── 1950Games.csv
+│   │   ├── 1951Games.csv
+│   │   ├── 1952Games.csv
+│   │   ├── 1953Games.csv
+│   │   ├── 1954Games.csv
+│   │   ├── 1955Games.csv
+│   │   ├── 1956Games.csv
+│   │   ├── 1957Games.csv
+│   │   ├── 1958Games.csv
+│   │   ├── 1959Games.csv
+│   │   ├── 1960Games.csv
+│   │   ├── 1961Games.csv
+│   │   ├── 1962Games.csv
+│   │   ├── 1963Games.csv
+│   │   ├── 1964Games.csv
+│   │   ├── 1965Games.csv
+│   │   ├── 1966Games.csv
+│   │   ├── 1967Games.csv
+│   │   ├── 1968Games.csv
+│   │   ├── 1969Games.csv
+│   │   ├── 1970Games.csv
+│   │   ├── 1971Games.csv
+│   │   ├── 1972Games.csv
+│   │   ├── 1973Games.csv
+│   │   ├── 1974Games.csv
+│   │   ├── 1975Games.csv
+│   │   ├── 1976Games.csv
+│   │   ├── 1977Games.csv
+│   │   ├── 1978Games.csv
+│   │   ├── 1979Games.csv
+│   │   ├── 1980Games.csv
+│   │   ├── 1981Games.csv
+│   │   ├── 1982Games.csv
+│   │   ├── 1983Games.csv
+│   │   ├── 1984Games.csv
+│   │   ├── 1985Games.csv
+│   │   ├── 1986Games.csv
+│   │   ├── 1987Games.csv
+│   │   ├── 1988Games.csv
+│   │   ├── 1989Games.csv
+│   │   ├── 1990Games.csv
+│   │   ├── 1991Games.csv
+│   │   ├── 1992Games.csv
+│   │   ├── 1993Games.csv
+│   │   ├── 1994Games.csv
+│   │   ├── 1995Games.csv
+│   │   ├── 1996Games.csv
+│   │   ├── 1997Games.csv
+│   │   ├── 1998Games.csv
+│   │   ├── 1999Games.csv
+│   │   ├── 2000Games.csv
+│   │   ├── 2001Games.csv
+│   │   ├── 2002Games.csv
+│   │   ├── 2003Games.csv
+│   │   ├── 2004Games.csv
+│   │   ├── 2005Games.csv
+│   │   ├── 2006Games.csv
+│   │   ├── 2007Games.csv
+│   │   ├── 2008Games.csv
+│   │   ├── 2009Games.csv
+│   │   ├── 2010Games.csv
+│   │   ├── 2011Games.csv
+│   │   ├── 2012Games.csv
+│   │   ├── 2013Games.csv
+│   │   ├── 2014Games.csv
+│   │   ├── 2015Games.csv
+│   │   ├── 2016Games.csv
+│   │   ├── 2017Games.csv
+│   │   ├── 2018Games.csv
+│   │   ├── 2019Games.csv
+│   │   ├── 2020Games.csv
+│   │   ├── 2021Games.csv
+│   │   ├── 2022Games.csv
+│   │   ├── 2023Games.csv
+│   │   ├── 2024Games.csv
+│   │   └── 2025Games.csv
+│   ├── reports
+│   │   ├── allBouts.txt
+│   │   ├── allTimeRankings.txt
+│   │   ├── longestReigns.txt
+│   │   ├── preamble.txt
+│   │   ├── schoolBySchool.txt
+│   │   ├── top25Active.txt
+│   │   └── yearlyBeltWinners.txt
+│   └── teams
+│       ├── 1869Teams.csv
+│       ├── 1870Teams.csv
+│       ├── 1872Teams.csv
+│       ├── 1873Teams.csv
+│       ├── 1874Teams.csv
+│       ├── 1875Teams.csv
+│       ├── 1876Teams.csv
+│       ├── 1877Teams.csv
+│       ├── 1878Teams.csv
+│       ├── 1879Teams.csv
+│       ├── 1880Teams.csv
+│       ├── 1881Teams.csv
+│       ├── 1882Teams.csv
+│       ├── 1883Teams.csv
+│       ├── 1884Teams.csv
+│       ├── 1885Teams.csv
+│       ├── 1886Teams.csv
+│       ├── 1887Teams.csv
+│       ├── 1888Teams.csv
+│       ├── 1889Teams.csv
+│       ├── 1890Teams.csv
+│       ├── 1891Teams.csv
+│       ├── 1892Teams.csv
+│       ├── 1893Teams.csv
+│       ├── 1894Teams.csv
+│       ├── 1895Teams.csv
+│       ├── 1896Teams.csv
+│       ├── 1897Teams.csv
+│       ├── 1898Teams.csv
+│       ├── 1899Teams.csv
+│       ├── 1900Teams.csv
+│       ├── 1901Teams.csv
+│       ├── 1902Teams.csv
+│       ├── 1903Teams.csv
+│       ├── 1904Teams.csv
+│       ├── 1905Teams.csv
+│       ├── 1906Teams.csv
+│       ├── 1907Teams.csv
+│       ├── 1908Teams.csv
+│       ├── 1909Teams.csv
+│       ├── 1910Teams.csv
+│       ├── 1911Teams.csv
+│       ├── 1912Teams.csv
+│       ├── 1913Teams.csv
+│       ├── 1914Teams.csv
+│       ├── 1915Teams.csv
+│       ├── 1916Teams.csv
+│       ├── 1917Teams.csv
+│       ├── 1918Teams.csv
+│       ├── 1919Teams.csv
+│       ├── 1920Teams.csv
+│       ├── 1921Teams.csv
+│       ├── 1922Teams.csv
+│       ├── 1923Teams.csv
+│       ├── 1924Teams.csv
+│       ├── 1925Teams.csv
+│       ├── 1926Teams.csv
+│       ├── 1927Teams.csv
+│       ├── 1928Teams.csv
+│       ├── 1929Teams.csv
+│       ├── 1930Teams.csv
+│       ├── 1931Teams.csv
+│       ├── 1932Teams.csv
+│       ├── 1933Teams.csv
+│       ├── 1934Teams.csv
+│       ├── 1935Teams.csv
+│       ├── 1936Teams.csv
+│       ├── 1937Teams.csv
+│       ├── 1938Teams.csv
+│       ├── 1939Teams.csv
+│       ├── 1940Teams.csv
+│       ├── 1941Teams.csv
+│       ├── 1942Teams.csv
+│       ├── 1943Teams.csv
+│       ├── 1944Teams.csv
+│       ├── 1945Teams.csv
+│       ├── 1946Teams.csv
+│       ├── 1947Teams.csv
+│       ├── 1948Teams.csv
+│       ├── 1949Teams.csv
+│       ├── 1950Teams.csv
+│       ├── 1951Teams.csv
+│       ├── 1952Teams.csv
+│       ├── 1953Teams.csv
+│       ├── 1954Teams.csv
+│       ├── 1955Teams.csv
+│       ├── 1956Teams.csv
+│       ├── 1957Teams.csv
+│       ├── 1958Teams.csv
+│       ├── 1959Teams.csv
+│       ├── 1960Teams.csv
+│       ├── 1961Teams.csv
+│       ├── 1962Teams.csv
+│       ├── 1963Teams.csv
+│       ├── 1964Teams.csv
+│       ├── 1965Teams.csv
+│       ├── 1966Teams.csv
+│       ├── 1967Teams.csv
+│       ├── 1968Teams.csv
+│       ├── 1969Teams.csv
+│       ├── 1970Teams.csv
+│       ├── 1971Teams.csv
+│       ├── 1972Teams.csv
+│       ├── 1973Teams.csv
+│       ├── 1974Teams.csv
+│       ├── 1975Teams.csv
+│       ├── 1976Teams.csv
+│       ├── 1977Teams.csv
+│       ├── 1978Teams.csv
+│       ├── 1979Teams.csv
+│       ├── 1980Teams.csv
+│       ├── 1981Teams.csv
+│       ├── 1982Teams.csv
+│       ├── 1983Teams.csv
+│       ├── 1984Teams.csv
+│       ├── 1985Teams.csv
+│       ├── 1986Teams.csv
+│       ├── 1987Teams.csv
+│       ├── 1988Teams.csv
+│       ├── 1989Teams.csv
+│       ├── 1990Teams.csv
+│       ├── 1991Teams.csv
+│       ├── 1992Teams.csv
+│       ├── 1993Teams.csv
+│       ├── 1994Teams.csv
+│       ├── 1995Teams.csv
+│       ├── 1996Teams.csv
+│       ├── 1997Teams.csv
+│       ├── 1998Teams.csv
+│       ├── 1999Teams.csv
+│       ├── 2000Teams.csv
+│       ├── 2001Teams.csv
+│       ├── 2002Teams.csv
+│       ├── 2003Teams.csv
+│       ├── 2004Teams.csv
+│       ├── 2005Teams.csv
+│       ├── 2006Teams.csv
+│       ├── 2007Teams.csv
+│       ├── 2008Teams.csv
+│       ├── 2009Teams.csv
+│       ├── 2010Teams.csv
+│       ├── 2011Teams.csv
+│       ├── 2012Teams.csv
+│       ├── 2013Teams.csv
+│       ├── 2014Teams.csv
+│       ├── 2015Teams.csv
+│       ├── 2016Teams.csv
+│       ├── 2017Teams.csv
+│       ├── 2018Teams.csv
+│       ├── 2019Teams.csv
+│       ├── 2020Teams.csv
+│       ├── 2021Teams.csv
+│       ├── 2022Teams.csv
+│       ├── 2023Teams.csv
+│       ├── 2024Teams.csv
+│       └── 2025Teams.csv
+├── fileTree.txt
+├── requirements.txt
+├── src
+│   ├── .DS_Store
+│   ├── __init__.py
+│   ├── analysis
+│   │   ├── __init__.py
+│   │   └── heavyweightTracker.py
+│   ├── config
+│   │   ├── __init__.py
+│   │   ├── config.py
+│   │   ├── data
+│   │   │   ├── games
+│   │   │   ├── reports
+│   │   │   └── teams
+│   │   ├── paths.py
+│   │   └── web
+│   │       └── assets
+│   ├── data
+│   │   ├── games
+│   │   ├── reports
+│   │   └── teams
+│   ├── data_loaders
+│   │   ├── .DS_Store
+│   │   ├── __init__.py
+│   │   └── getGames.py
+│   ├── main.py
+│   ├── models
+│   │   ├── __init__.py
+│   │   └── heavyweightClasses.py
+│   ├── utils
+│   │   ├── __init__.py
+│   │   └── helpers.py
+│   └── web
+│       └── assets
+├── tests
+│   ├── test_getGames.py
+│   └── test_heavyweight.py
+└── web
+    ├── assets
+    │   └── cfbHeavyweights.css
+    └── cfbHeavyweights.html

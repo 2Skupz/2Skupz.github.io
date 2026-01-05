@@ -3,9 +3,7 @@ College Football Heavyweight Championship Tracker
 Main module for generating championship webpage and reports.
 """
 
-import os
 from datetime import datetime
-from pathlib import Path
 
 from .data_loaders.getGames import readGamesFromWeb, writePlayedGamesFile, readTeamsFromWeb, writeTeamFile
 from .models.heavyweightClasses import Team, Game, Reign
@@ -15,18 +13,18 @@ from .analysis.heavyweightTracker import (
     dropInactiveTeamsWithNoHistory, createOtherLinks,
     getBeltTeam
 )
-
-# Configuration constants
-WEB_DIR = Path('web')
-HTML_FILE = WEB_DIR / 'cfbHeavyweights.html'
-ASSETS_DIR = WEB_DIR / 'assets'
-CSS_FILE = 'cfbHeavyweights.css'
-LOGO_FILE = 'theChamp.jpeg'
+from .config import (
+    HTML_FILE, ASSETS_DIR, CSS_FILE, LOGO_FILE, REPORTS_DIR,
+    ensure_directories
+)
 
 
 def main():
     """Main entry point for the College Football Heavyweight Championship tracker."""
     print("Starting College Football Heavyweight Championship Tracker...")
+    
+    # Ensure all directories exist
+    ensure_directories()
     
     # Load and process data
     print("Loading game and team data...")
@@ -50,7 +48,7 @@ def main():
     
     print(f"\n✓ Complete! Current champion: {beltTeam.getName()}")
     print(f"✓ Webpage created at: {HTML_FILE}")
-    print(f"✓ Reports created in: data/reports/")
+    print(f"✓ Reports created in: {REPORTS_DIR}/")
 
 
 def createWebpage(webpage, boutList, activeTeamList, historyTeamList, champList):
@@ -101,7 +99,7 @@ def writeHTMLHeader(page, historyTeamList, beltTeam):
             Heavyweight Champion of College Football is {beltTeam.getName()}.
         </div>
 """
-    os.makedirs(os.path.dirname(page), exist_ok=True)
+    page.parent.mkdir(parents=True, exist_ok=True)
     with open(page, 'w') as file:
         file.write(html_content)
 

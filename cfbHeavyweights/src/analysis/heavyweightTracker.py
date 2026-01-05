@@ -1,10 +1,17 @@
 import csv
 import os
 from datetime import datetime
+from collections import Counter
 
 from ..models.heavyweightClasses import Team, Game
 from ..utils.helpers import findTeam, getCurrentSeason
 from ..data_loaders import getGames
+from ..config import (
+    START_YEAR, SKIPPED_YEARS, TOP_N_ACTIVE,
+    get_games_file, get_teams_file,
+    ALL_TIME_RANKINGS_FILE, TOP_25_ACTIVE_FILE, ALL_BOUTS_FILE,
+    LONGEST_REIGNS_FILE, SCHOOL_BY_SCHOOL_FILE, YEARLY_BELT_WINNERS_FILE
+)
 
 def createMasterFile():
     """Create lists of bouts, historical teams, and active teams."""
@@ -18,11 +25,11 @@ def createMasterFile():
         getGamesAndTeams(lastYear)
     
     # Create master files
-    for season in range(1869, lastYear + 1):
-        if season == 1871:
+    for season in range(START_YEAR, lastYear + 1):
+        if season in SKIPPED_YEARS:
             continue
-        gameFile = "data/games/%sGames.csv" % season
-        teamFile = "data/teams/%sTeams.csv" % season
+        gameFile = get_games_file(season)
+        teamFile = get_teams_file(season)
         seasonTeamList = findSeasonTeams(teamFile)
         for team in seasonTeamList:
             checkHistoryList(historyTeamList, season, team)
@@ -41,7 +48,7 @@ def updateTeams(boutList, historyTeamList, champList):
 def yearlyNationalChamps(boutList):
     """Determine the national champion for each year."""
     champList = []
-    currYear = 1869
+    currYear = START_YEAR
     currChamp = None
     for bout in boutList:
         season = getSeason(bout)
@@ -50,14 +57,6 @@ def yearlyNationalChamps(boutList):
             champList.append((currYear, currChamp))
             currYear = season
         currChamp = winner
-    
-    # Manual addition for 2024
-    title2024 = (2024, 'Florida')
-    if title2024 not in champList:
-        import inspect
-        currLine = inspect.currentframe().f_lineno
-        print(f"Manually adding Florida's 2024 title at line {currLine}")
-        champList.append(title2024)
     
     return champList
 
@@ -95,10 +94,10 @@ def updateMostRecentGames(year):
 def getGamesAndTeams(year):
     """Fetch games and teams from the web."""
     gameList = getGames.readGamesFromWeb(year)
-    getGames.writePlayedGamesFile(f"data/games/{year}Games.csv", gameList)
-    if not os.path.exists(f"data/teams/{year}Teams.csv"):
+    getGames.writePlayedGamesFile(get_games_file(year), gameList)
+    if not os.path.exists(get_teams_file(year)):
         teamList = getGames.readTeamsFromWeb(year)
-        getGames.writeTeamFile(f"data/teams/{year}Teams.csv", teamList)
+        getGames.writeTeamFile(get_teams_file(year), teamList)
 
 def dropInactiveTeamsWithNoHistory(active, historical):
     """Remove inactive teams that never participated in a bout."""
@@ -109,11 +108,12 @@ def dropInactiveTeamsWithNoHistory(active, historical):
 
 def createOtherLinks(boutList, activeTeamList, historyTeamList, champList):
     """Create various report files."""
-    topN(historyTeamList, len(historyTeamList), "data/reports/allTimeRankings.txt")
-    topN(activeTeamList, 25, "data/reports/top25Active.txt")
-    printAllBouts(boutList, "data/reports/allBouts.txt")
-    longestReigns(historyTeamList, "data/reports/longestReigns.txt")
-    writeSchoolBySchool("data/reports/schoolBySchool.txt", historyTeamList)
+    topN(historyTeamList, len(historyTeamList), ALL_TIME_RANKINGS_FILE)
+    topN(activeTeamList, TOP_N_ACTIVE, TOP_25_ACTIVE_FILE)
+    printAllBouts(boutList, ALL_BOUTS_FILE)
+    longestReigns(historyTeamList, LONGEST_REIGNS_FILE)
+    writeSchoolBySchool(SCHOOL_BY_SCHOOL_FILE, historyTeamList)
+    writeYearlyBeltWinners(champList, YEARLY_BELT_WINNERS_FILE)
 
 def writeSchoolBySchool(page, teamList):
     """Write school-by-school belt history."""
@@ -133,6 +133,38 @@ def writeSchoolBySchool(page, teamList):
         data += f"\t\tAs Challenger : {cW}-{cL}-{cT}\n"
         data += "\n\n"
     printFile(data, page)
+
+def writeYearlyBeltWinners(champList, outputFile):
+    """Write yearly belt winners to file with summary and year-by-year listing."""
+    # Count titles per team
+    title_counts = Counter(champ for year, champ in champList)
+    
+    # Sort by titles (descending), then alphabetically
+    sorted_teams = sorted(title_counts.items(), key=lambda x: (-x[1], x[0]))
+    
+    # Build the output
+    data = "The team that ends the season with the belt becomes the National Champion. "
+    data += "Sometimes, like Michigan in 2023, the belt winner wins the real National Championship. "
+    data += "Sometimes, like in 1994 when 6-6 Wyoming won the championship, the winning team doesn't even play in a Bowl Game. "
+    data += "Below is the all time list of Champions. First by most titles, then the year-by-year titles.\n\n"
+    
+    # Header for team summary
+    data += f"{'Team':<25}{'Titles':<10}Years\n"
+    
+    # Write each team's summary
+    for team, count in sorted_teams:
+        # Get all years for this team
+        years = [str(year) for year, champ in champList if champ == team]
+        years_str = ", ".join(years)
+        data += f"{team:<25}{count:<10}{years_str}\n"
+    
+    data += "\n"
+    
+    # Write year-by-year listing
+    for year, champ in champList:
+        data += f"{year} {champ}\n"
+    
+    printFile(data, outputFile)
 
 def longestReigns(teamList, outputFile=None):
     """Generate report of longest reigns."""

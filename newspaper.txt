@@ -66,21 +66,16 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Thursday, January 01                                                Sunday, January 04
-  Liverpool            vs    Leeds United                             Lille                vs    Rennes
-  Crystal Palace       vs    Fulham                                   Brest                vs    Auxerre
-  Sunderland           vs    Manchester City                          Toulouse             vs    Lens
-  Brentford            vs    Tottenham                                Nice                 vs    Strasbourg
-Saturday, January 03                                                  Le Havre             vs    Angers
-  Aston Villa          vs    Nott'ham Forest                          Paris S-G            vs    Paris FC
-  Wolves               vs    West Ham                                 Monaco               vs    Lyon
-  Brighton             vs    Burnley                                  Marseille            vs    Nantes
-  Bournemouth          vs    Arsenal                                  Lorient              vs    Metz
-Sunday, January 04                                                  
-  Leeds United         vs    Manchester Utd                         
-  Newcastle Utd        vs    Crystal Palace                         
-  Tottenham            vs    Sunderland                             
-  Fulham               vs    Liverpool                              
+Saturday, January 03                                                Sunday, January 04
+  Aston Villa          vs    Nott'ham Forest                          Lille                vs    Rennes
+  Wolves               vs    West Ham                                 Brest                vs    Auxerre
+  Brighton             vs    Burnley                                  Toulouse             vs    Lens
+  Bournemouth          vs    Arsenal                                  Nice                 vs    Strasbourg
+Sunday, January 04                                                    Le Havre             vs    Angers
+  Leeds United         vs    Manchester Utd                           Paris S-G            vs    Paris FC
+  Newcastle Utd        vs    Crystal Palace                           Monaco               vs    Lyon
+  Tottenham            vs    Sunderland                               Marseille            vs    Nantes
+  Fulham               vs    Liverpool                                Lorient              vs    Metz
   Everton              vs    Brentford                              
   Manchester City      vs    Chelsea                                
 Tuesday, January 06                                                 
@@ -94,6 +89,8 @@ Wednesday, January 07
   Fulham               vs    Chelsea                                
   Burnley              vs    Manchester Utd                         
   Newcastle Utd        vs    Leeds United                           
+Thursday, January 08                                                
+  Arsenal              vs    Liverpool                              
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -143,6 +140,9 @@ Wednesday, January 07
   Torino               vs    Udinese
   Parma                vs    Inter
   Lazio                vs    Fiorentina
+Thursday, January 08
+  Cremonese            vs    Cagliari
+  Milan                vs    Genoa
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -184,4 +184,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 01.04.26
+Standings from FBRef.com 01.05.26

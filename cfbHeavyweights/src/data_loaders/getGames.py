@@ -4,7 +4,15 @@ from datetime import datetime
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-from src.models.heavyweightClasses import Game
+from ..models.heavyweightClasses import Game
+from ..config import (
+    SKIPPED_YEARS,
+    get_games_file,
+    get_teams_file,
+    ensure_directories
+)
+from ..utils.helpers import getCurrentSeason
+
 
 class Team:
     """Simple Team class for data loading."""
@@ -15,23 +23,19 @@ class Team:
         self.wins = wins
         self.losses = losses
 
+
 def main():
     """Main function for updating game data."""
-    year = getCurrentSeason(datetime.now())
+    ensure_directories()
+    year = getCurrentSeason()
     for season in range(year, year + 1):
-        if season == 1871:
+        if season in SKIPPED_YEARS:
             continue
         gameList = readGamesFromWeb(season)
-        writePlayedGamesFile("data/games/%sGames.csv" % season, gameList)
+        writePlayedGamesFile(get_games_file(season), gameList)
         teamList = readTeamsFromWeb(season)
-        writeTeamFile("data/teams/%sTeams.csv" % season, teamList)
+        writeTeamFile(get_teams_file(season), teamList)
 
-def getCurrentSeason(date):
-    """Get current college football season."""
-    if date.month < 9:
-        return date.year - 1
-    else:
-        return date.year
 
 def readTeamsFromWeb(year):
     """Pull teams from sports reference site."""
@@ -54,6 +58,7 @@ def readTeamsFromWeb(year):
             teamID += 1
     
     return teamList
+
 
 def readGamesFromWeb(year):
     """Read games from sports reference."""
@@ -117,6 +122,7 @@ def readGamesFromWeb(year):
                     gameID += 1
     return gameList
 
+
 def writePlayedGamesFile(fileName, gameList):
     """Write a file of all games played."""
     os.makedirs(os.path.dirname(fileName), exist_ok=True)
@@ -140,6 +146,7 @@ def writePlayedGamesFile(fileName, gameList):
     f.close()
     print("Game File Written: %s" % fileName)
 
+
 def writeTeamFile(fileName, teamList):
     """Write a file of all teams for a given year."""
     os.makedirs(os.path.dirname(fileName), exist_ok=True)
@@ -153,12 +160,14 @@ def writeTeamFile(fileName, teamList):
     f.close()
     print("Team File Written: %s" % fileName)
 
+
 def stripRank(teamName):
     """Strip ranking from team name."""
     if len(teamName) > 0 and teamName[0] == '(':
         return convertTeamName(teamName[teamName.find(')') + 2:])
     else:
         return convertTeamName(teamName)
+
 
 def convertTeamName(teamName):
     """Convert team names from sports reference to standard names."""
@@ -206,6 +215,7 @@ def convertTeamName(teamName):
         return "VMI"
     else:
         return teamName
+
 
 if __name__ == "__main__":
     main()

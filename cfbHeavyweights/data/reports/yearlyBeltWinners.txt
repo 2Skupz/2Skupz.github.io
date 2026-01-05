@@ -4,209 +4,208 @@ Team                     Titles    Years
 Princeton                18        1869, 1870, 1872, 1873, 1874, 1875, 1878, 1879, 1880, 1881, 1885, 1886, 1889, 1893, 1903, 1911, 1922, 1951
 Yale                     13        1876, 1877, 1882, 1883, 1884, 1887, 1888, 1890, 1891, 1892, 1900, 1902, 1909
 USC                      12        1924, 1931, 1932, 1939, 1962, 1969, 1972, 1976, 1978, 1979, 2003, 2004
-Harvard                  8         1898, 1899, 1901, 1908, 1910, 1912, 1913, 1914
 Alabama                  8         1925, 1926, 1941, 1952, 1977, 1985, 2009, 2020
+Harvard                  8         1898, 1899, 1901, 1908, 1910, 1912, 1913, 1914
 Oklahoma                 6         1953, 1954, 1955, 1956, 1967, 2013
 Army                     5         1927, 1945, 1946, 1948, 1949
 Ohio State               5         1958, 1968, 1981, 2002, 2018
-Pennsylvania             4         1894, 1895, 1897, 1905
 Auburn                   4         1937, 1942, 1983, 2010
-Syracuse                 3         1917, 1923, 1959
+Pennsylvania             4         1894, 1895, 1897, 1905
+Florida                  3         2006, 2008, 2024
 Michigan                 3         1918, 1980, 2023
 Notre Dame               3         1930, 1936, 1973
+Syracuse                 3         1917, 1923, 1959
 Texas                    3         1963, 1998, 2005
 UCLA                     3         1975, 1984, 1992
-Navy                     2         1906, 1950
-Illinois                 2         1919, 1989
-Stanford                 2         1929, 1940
-Columbia                 2         1933, 1947
-Pitt                     2         1934, 2017
-Tennessee                2         1938, 1974
-Iowa                     2         1957, 1961
-Penn State               2         1960, 1986
-LSU                      2         1965, 2019
-Nebraska                 2         1971, 1997
-Clemson                  2         1987, 2016
-Florida State            2         1988, 1999
 Arizona                  2         1993, 1995
-Miami                    2         2000, 2001
-Florida                  2         2006, 2008
 Baylor                   2         2012, 2021
+Clemson                  2         1987, 2016
+Columbia                 2         1933, 1947
+Florida State            2         1988, 1999
+Illinois                 2         1919, 1989
+Iowa                     2         1957, 1961
+LSU                      2         1965, 2019
+Miami                    2         2000, 2001
+Navy                     2         1906, 1950
+Nebraska                 2         1971, 1997
+Penn State               2         1960, 1986
+Pitt                     2         1934, 2017
+Stanford                 2         1929, 1940
 TCU                      2         2014, 2015
-Lafayette                1         1896
-Swarthmore               1         1904
-Carlisle                 1         1907
-Cornell                  1         1915
-Colgate                  1         1916
-Wisconsin                1         1920
-Chicago                  1         1921
-Oregon State             1         1928
-Northwestern             1         1935
-Duke                     1         1944
+Tennessee                2         1938, 1974
 Arkansas                 1         1964
-Georgia                  1         1966
-Tulane                   1         1970
-Washington State         1         1982
-Colorado                 1         1990
-Texas Tech               1         1991
-Wyoming                  1         1994
 BYU                      1         1996
+Carlisle                 1         1907
+Chicago                  1         1921
+Colgate                  1         1916
+Colorado                 1         1990
+Cornell                  1         1915
+Duke                     1         1944
+Georgia                  1         1966
+Lafayette                1         1896
 Missouri                 1         2007
-West Virginia            1         2011
+Northwestern             1         1935
+Oregon State             1         1928
+Swarthmore               1         1904
+Texas Tech               1         1991
+Tulane                   1         1970
 Washington               1         2022
+Washington State         1         1982
+West Virginia            1         2011
+Wisconsin                1         1920
+Wyoming                  1         1994
 
-1869 Princeton 
-1870 Princeton 
-1872 Princeton 
-1873 Princeton 
-1874 Princeton 
-1875 Princeton 
-1876 Yale 
-1877 Yale 
-1878 Princeton 
-1879 Princeton 
-1880 Princeton 
-1881 Princeton 
-1882 Yale 
-1883 Yale 
-1884 Yale 
-1885 Princeton 
-1886 Princeton 
-1887 Yale 
-1888 Yale 
-1889 Princeton 
-1890 Yale 
-1891 Yale 
-1892 Yale 
-1893 Princeton 
-1894 Pennsylvania 
-1895 Pennsylvania 
-1896 Lafayette 
-1897 Pennsylvania 
-1898 Harvard 
-1899 Harvard 
-1900 Yale 
-1901 Harvard 
-1902 Yale 
-1903 Princeton 
-1904 Swarthmore 
-1905 Pennsylvania 
-1906 Navy 
-1907 Carlisle 
-1908 Harvard 
-1909 Yale 
-1910 Harvard 
-1911 Princeton 
-1912 Harvard 
-1913 Harvard 
-1914 Harvard 
-1915 Cornell 
-1916 Colgate 
-1917 Syracuse 
-1918 Michigan 
-1919 Illinois 
-1920 Wisconsin 
-1921 Chicago 
-1922 Princeton 
-1923 Syracuse 
-1924 USC 
-1925 Alabama 
-1926 Alabama 
-1927 Army 
-1928 Oregon State 
-1929 Stanford 
-1930 Notre Dame 
-1931 USC 
-1932 USC 
-1933 Columbia 
-1934 Pitt 
-1935 Northwestern 
-1936 Notre Dame 
-1937 Auburn 
-1938 Tennessee 
-1939 USC 
-1940 Stanford 
-1941 Alabama 
-1942 Auburn 
-1944 Duke 
-1945 Army 
-1946 Army 
-1947 Columbia 
-1948 Army 
-1949 Army 
-1950 Navy 
-1951 Princeton 
-1952 Alabama 
-1953 Oklahoma 
-1954 Oklahoma 
-1955 Oklahoma 
-1956 Oklahoma 
-1957 Iowa 
-1958 Ohio State 
-1959 Syracuse 
-1960 Penn State 
-1961 Iowa 
-1962 USC 
-1963 Texas 
-1964 Arkansas 
-1965 LSU 
-1966 Georgia 
-1967 Oklahoma 
-1968 Ohio State 
-1969 USC 
-1970 Tulane 
-1971 Nebraska 
-1972 USC 
-1973 Notre Dame 
-1974 Tennessee 
-1975 UCLA 
-1976 USC 
-1977 Alabama 
-1978 USC 
-1979 USC 
-1980 Michigan 
-1981 Ohio State 
-1982 Washington State 
-1983 Auburn 
-1984 UCLA 
-1985 Alabama 
-1986 Penn State 
-1987 Clemson 
-1988 Florida State 
-1989 Illinois 
-1990 Colorado 
-1991 Texas Tech 
-1992 UCLA 
-1993 Arizona 
-1994 Wyoming 
-1995 Arizona 
-1996 BYU 
-1997 Nebraska 
-1998 Texas 
-1999 Florida State 
-2000 Miami 
-2001 Miami 
-2002 Ohio State 
-2003 USC 
-2004 USC 
-2005 Texas 
-2006 Florida 
-2007 Missouri 
-2008 Florida 
-2009 Alabama 
-2010 Auburn 
-2011 West Virginia 
-2012 Baylor 
-2013 Oklahoma 
-2014 TCU 
-2015 TCU 
-2016 Clemson 
-2017 Pitt 
-2018 Ohio State 
-2019 LSU 
-2020 Alabama 
-2021 Baylor 
-2022 Washington 
+1869 Princeton
+1870 Princeton
+1872 Princeton
+1873 Princeton
+1874 Princeton
+1875 Princeton
+1876 Yale
+1877 Yale
+1878 Princeton
+1879 Princeton
+1880 Princeton
+1881 Princeton
+1882 Yale
+1883 Yale
+1884 Yale
+1885 Princeton
+1886 Princeton
+1887 Yale
+1888 Yale
+1889 Princeton
+1890 Yale
+1891 Yale
+1892 Yale
+1893 Princeton
+1894 Pennsylvania
+1895 Pennsylvania
+1896 Lafayette
+1897 Pennsylvania
+1898 Harvard
+1899 Harvard
+1900 Yale
+1901 Harvard
+1902 Yale
+1903 Princeton
+1904 Swarthmore
+1905 Pennsylvania
+1906 Navy
+1907 Carlisle
+1908 Harvard
+1909 Yale
+1910 Harvard
+1911 Princeton
+1912 Harvard
+1913 Harvard
+1914 Harvard
+1915 Cornell
+1916 Colgate
+1917 Syracuse
+1918 Michigan
+1919 Illinois
+1920 Wisconsin
+1921 Chicago
+1922 Princeton
+1923 Syracuse
+1924 USC
+1925 Alabama
+1926 Alabama
+1927 Army
+1928 Oregon State
+1929 Stanford
+1930 Notre Dame
+1931 USC
+1932 USC
+1933 Columbia
+1934 Pitt
+1935 Northwestern
+1936 Notre Dame
+1937 Auburn
+1938 Tennessee
+1939 USC
+1940 Stanford
+1941 Alabama
+1942 Auburn
+1944 Duke
+1945 Army
+1946 Army
+1947 Columbia
+1948 Army
+1949 Army
+1950 Navy
+1951 Princeton
+1952 Alabama
+1953 Oklahoma
+1954 Oklahoma
+1955 Oklahoma
+1956 Oklahoma
+1957 Iowa
+1958 Ohio State
+1959 Syracuse
+1960 Penn State
+1961 Iowa
+1962 USC
+1963 Texas
+1964 Arkansas
+1965 LSU
+1966 Georgia
+1967 Oklahoma
+1968 Ohio State
+1969 USC
+1970 Tulane
+1971 Nebraska
+1972 USC
+1973 Notre Dame
+1974 Tennessee
+1975 UCLA
+1976 USC
+1977 Alabama
+1978 USC
+1979 USC
+1980 Michigan
+1981 Ohio State
+1982 Washington State
+1983 Auburn
+1984 UCLA
+1985 Alabama
+1986 Penn State
+1987 Clemson
+1988 Florida State
+1989 Illinois
+1990 Colorado
+1991 Texas Tech
+1992 UCLA
+1993 Arizona
+1994 Wyoming
+1995 Arizona
+1996 BYU
+1997 Nebraska
+1998 Texas
+1999 Florida State
+2000 Miami
+2001 Miami
+2002 Ohio State
+2003 USC
+2004 USC
+2005 Texas
+2006 Florida
+2007 Missouri
+2008 Florida
+2009 Alabama
+2010 Auburn
+2011 West Virginia
+2012 Baylor
+2013 Oklahoma
+2014 TCU
+2015 TCU
+2016 Clemson
+2017 Pitt
+2018 Ohio State
+2019 LSU
+2020 Alabama
+2021 Baylor
+2022 Washington
 2023 Michigan
 2024 Florida
-2025 Notre Dame
