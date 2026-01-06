@@ -2,13 +2,13 @@
 1,Virginia,ACC
 2,Miami,ACC
 3,Georgia Tech,ACC
-4,Pitt,ACC
-5,SMU,ACC
+4,SMU,ACC
+5,Pitt,ACC
 6,Louisville,ACC
 7,Wake Forest,ACC
 8,NC State,ACC
-9,Clemson,ACC
-10,California,ACC
+9,California,ACC
+10,Clemson,ACC
 11,Stanford,ACC
 12,Florida State,ACC
 13,North Carolina,ACC
@@ -18,11 +18,11 @@
 17,Tulane,American
 18,North Texas,American
 19,Navy,American
-20,South Florida,American
-21,East Carolina,American
+20,East Carolina,American
+21,South Florida,American
 22,Memphis,American
-23,UTSA,American
-24,Army,American
+23,Army,American
+24,UTSA,American
 25,Temple,American
 26,Florida Atlantic,American
 27,Rice,American
@@ -30,16 +30,16 @@
 29,Tulsa,American
 30,Charlotte,American
 31,Utah,Big 12
-32,Arizona,Big 12
-33,Houston,Big 12
+32,Houston,Big 12
+33,Arizona,Big 12
 34,Arizona State,Big 12
 35,Cincinnati,Big 12
 36,UCF,Big 12
 37,Colorado,Big 12
 38,Texas Tech,Big 12
 39,BYU,Big 12
-40,Iowa State,Big 12
-41,TCU,Big 12
+40,TCU,Big 12
+41,Iowa State,Big 12
 42,Kansas State,Big 12
 43,Baylor,Big 12
 44,Kansas,Big 12
@@ -51,8 +51,8 @@
 50,Michigan,Big Ten
 51,USC,Big Ten
 52,Iowa,Big Ten
-53,Washington,Big Ten
-54,Illinois,Big Ten
+53,Illinois,Big Ten
+54,Washington,Big Ten
 55,Minnesota,Big Ten
 56,Nebraska,Big Ten
 57,Northwestern,Big Ten
@@ -93,11 +93,11 @@
 92,Northern Illinois,MAC
 93,Massachusetts,MAC
 94,Boise State,MWC
-95,San Diego State,MWC
-96,UNLV,MWC
-97,New Mexico,MWC
-98,Hawaii,MWC
-99,Fresno State,MWC
+95,UNLV,MWC
+96,New Mexico,MWC
+97,San Diego State,MWC
+98,Fresno State,MWC
+99,Hawaii,MWC
 100,Utah State,MWC
 101,Air Force,MWC
 102,Wyoming,MWC
@@ -108,9 +108,9 @@
 107,Ole Miss,SEC
 108,Texas A&M,SEC
 109,Alabama,SEC
-110,Vanderbilt,SEC
-111,Oklahoma,SEC
-112,Texas,SEC
+110,Oklahoma,SEC
+111,Texas,SEC
+112,Vanderbilt,SEC
 113,Missouri,SEC
 114,Tennessee,SEC
 115,LSU,SEC

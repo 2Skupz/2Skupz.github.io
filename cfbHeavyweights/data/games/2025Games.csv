@@ -905,11 +905,27 @@
 904,19,"Dec 26, 2025",Minnesota,20,New Mexico,17,0
 905,19,"Dec 26, 2025",Northwestern,34,Central Michigan,7,0
 906,19,"Dec 26, 2025",UTSA,57,Florida Int'l,20,0
-907,19,"Dec 27, 2025",Connecticut,0,Army,0,0
-908,19,"Dec 27, 2025",Georgia Tech,0,BYU,0,0
-909,19,"Dec 27, 2025",LSU,0,Houston,0,0
-910,19,"Dec 27, 2025",Miami (OH),0,Fresno State,0,0
-911,19,"Dec 27, 2025",North Texas,0,San Diego State,0,0
-912,19,"Dec 27, 2025",Penn State,0,Clemson,0,0
-913,19,"Dec 27, 2025",Pitt,0,East Carolina,0,0
-914,19,"Dec 27, 2025",Virginia,0,Missouri,0,0
+907,19,"Dec 27, 2025",Army,41,Connecticut,16,0
+908,19,"Dec 27, 2025",BYU,25,Georgia Tech,21,0
+909,19,"Dec 27, 2025",East Carolina,23,Pitt,17,0
+910,19,"Dec 27, 2025",Fresno State,18,Miami (OH),3,0
+911,19,"Dec 27, 2025",Houston,38,LSU,35,0
+912,19,"Dec 27, 2025",North Texas,49,San Diego State,47,0
+913,19,"Dec 27, 2025",Penn State,22,Clemson,10,0
+914,19,"Dec 27, 2025",Virginia,13,Missouri,7,0
+915,20,"Dec 29, 2025",Georgia Southern,29,Appalachian State,10,0
+916,21,"Dec 30, 2025",Illinois,30,Tennessee,28,0
+917,21,"Dec 30, 2025",Louisiana Tech,23,Coastal Carolina,14,0
+918,21,"Dec 30, 2025",TCU,30,USC,27,0
+919,21,"Dec 31, 2025",Duke,42,Arizona State,39,0
+920,21,"Dec 31, 2025",Iowa,34,Vanderbilt,27,0
+921,21,"Dec 31, 2025",Miami,24,Ohio State,14,0
+922,21,"Dec 31, 2025",Texas,41,Michigan,27,0
+923,21,"Dec 31, 2025",Utah,44,Nebraska,22,0
+924,21,"Jan 1, 2026",Indiana,38,Alabama,3,0
+925,21,"Jan 1, 2026",Ole Miss,39,Georgia,34,0
+926,21,"Jan 1, 2026",Oregon,23,Texas Tech,0,0
+927,21,"Jan 2, 2026",Navy,35,Cincinnati,13,0
+928,21,"Jan 2, 2026",SMU,24,Arizona,19,0
+929,21,"Jan 2, 2026",Texas State,41,Rice,10,0
+930,21,"Jan 2, 2026",Wake Forest,43,Mississippi State,29,0
