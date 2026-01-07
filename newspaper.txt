@@ -40,6 +40,18 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
                                                                     Mainz 05            9   1   2   6  10  17  -7   5  12.4  14.5
                                                                     Heidenheim          9   1   2   6   8  17  -9   5  11.8  15.9
 
+                                                                    Bundesliga Fixtures
+                                                                    -------------------
+                                                                    Saturday, January 10
+                                                                      St. Pauli            vs    RB Leipzig
+                                                                      Eint Frankfurt       vs    Dortmund
+                                                                      Union Berlin         vs    Mainz 05
+                                                                      Freiburg             vs    Hamburger SV
+                                                                      Bayern Munich        vs    Wolfsburg
+                                                                      Werder Bremen        vs    Hoffenheim
+                                                                      Heidenheim           vs    Köln
+                                                                      Gladbach             vs    Augsburg
+                                                                      Leverkusen           vs    Stuttgart
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -66,21 +78,16 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, January 03                                                Sunday, January 04
-  Aston Villa          vs    Nott'ham Forest                          Lille                vs    Rennes
-  Wolves               vs    West Ham                                 Brest                vs    Auxerre
-  Brighton             vs    Burnley                                  Toulouse             vs    Lens
-  Bournemouth          vs    Arsenal                                  Nice                 vs    Strasbourg
-Sunday, January 04                                                    Le Havre             vs    Angers
-  Leeds United         vs    Manchester Utd                           Paris S-G            vs    Paris FC
-  Newcastle Utd        vs    Crystal Palace                           Monaco               vs    Lyon
-  Tottenham            vs    Sunderland                               Marseille            vs    Nantes
-  Fulham               vs    Liverpool                                Lorient              vs    Metz
-  Everton              vs    Brentford                              
-  Manchester City      vs    Chelsea                                
-Tuesday, January 06                                                 
-  West Ham             vs    Nott'ham Forest                        
-Wednesday, January 07                                               
+Sunday, January 04                                                  Sunday, January 04
+  Leeds United         vs    Manchester Utd                           Lille                vs    Rennes
+  Newcastle Utd        vs    Crystal Palace                           Brest                vs    Auxerre
+  Tottenham            vs    Sunderland                               Toulouse             vs    Lens
+  Fulham               vs    Liverpool                                Nice                 vs    Strasbourg
+  Everton              vs    Brentford                                Le Havre             vs    Angers
+  Manchester City      vs    Chelsea                                  Paris S-G            vs    Paris FC
+Tuesday, January 06                                                   Monaco               vs    Lyon
+  West Ham             vs    Nott'ham Forest                          Marseille            vs    Nantes
+Wednesday, January 07                                                 Lorient              vs    Metz
   Brentford            vs    Sunderland                             
   Bournemouth          vs    Tottenham                              
   Everton              vs    Wolves                                 
@@ -117,12 +124,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Saturday, January 03
-  Como                 vs    Udinese
-  Genoa                vs    Pisa
-  Sassuolo             vs    Parma
-  Juventus             vs    Lecce
-  Atalanta             vs    Roma
 Sunday, January 04
   Lazio                vs    Napoli
   Fiorentina           vs    Cremonese
@@ -141,6 +142,11 @@ Wednesday, January 07
 Thursday, January 08
   Cremonese            vs    Cagliari
   Milan                vs    Genoa
+Saturday, January 10
+  Udinese              vs    Pisa
+  Como                 vs    Bologna
+  Roma                 vs    Sassuolo
+  Atalanta             vs    Torino
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -182,4 +188,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 01.06.26
+Standings from FBRef.com 01.07.26
