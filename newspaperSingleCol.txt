@@ -121,13 +121,6 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Sunday, January 04
-  Leeds United         vs    Manchester Utd
-  Newcastle Utd        vs    Crystal Palace
-  Tottenham            vs    Sunderland
-  Fulham               vs    Liverpool
-  Everton              vs    Brentford
-  Manchester City      vs    Chelsea
 Tuesday, January 06
   West Ham             vs    Nott'ham Forest
 Wednesday, January 07
@@ -165,19 +158,6 @@ Lorient            11   2   3   6   9 -12
 Metz               11   2   2   7   8 -16
 Auxerre            11   2   1   8   7 -10
 
-Ligue 1 Fixtures
-----------------
-Sunday, January 04
-  Lille                vs    Rennes
-  Brest                vs    Auxerre
-  Toulouse             vs    Lens
-  Nice                 vs    Strasbourg
-  Le Havre             vs    Angers
-  Paris S-G            vs    Paris FC
-  Monaco               vs    Lyon
-  Marseille            vs    Nantes
-  Lorient              vs    Metz
-
 
 Serie A
 -------
@@ -205,11 +185,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, January 04
-  Lazio                vs    Napoli
-  Fiorentina           vs    Cremonese
-  Hellas Verona        vs    Torino
-  Inter                vs    Bologna
 Tuesday, January 06
   Pisa                 vs    Como
   Lecce                vs    Roma
@@ -228,6 +203,11 @@ Saturday, January 10
   Como                 vs    Bologna
   Roma                 vs    Sassuolo
   Atalanta             vs    Torino
+Sunday, January 11
+  Lecce                vs    Parma
+  Fiorentina           vs    Milan
+  Hellas Verona        vs    Lazio
+  Inter                vs    Napoli
 
 
 Champions League
@@ -271,4 +251,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 01.07.26
+Standings from FBRef.com 01.08.26
