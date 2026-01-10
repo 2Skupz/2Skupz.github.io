@@ -8,7 +8,7 @@ Edmonton               44   17    5    6   16     1    67
 Vegas                  42   14    5   12   11     1    64
 SEATTLE                42   14    6    8   14    -6    62
 San Jose               43   12   10    3   18   -15    59
-Los Angeles            42   12    6   10   14    -3    58
+Los Angeles            43   12    6   10   15    -7    58
 Anaheim                44   13    8    3   20   -16    58
 Calgary                44   14    4    4   22   -20    54
 Vancouver              43   10    6    5   22   -32    47
@@ -19,17 +19,17 @@ Central                GP    W   OW   OL    L    GD   Pts
 Colorado               43   29    3    7    4    76   100
 Dallas                 44   22    4    8   10    29    82
 Minnesota              45   18    8    8   11    22    78
-Utah                   44   15    6    3   20     8    60
-St. Louis              44   17    0    8   19   -43    59
+Utah                   45   16    6    3   20    10    63
+St. Louis              45   17    0    8   20   -45    59
 Nashville              43   14    6    4   19   -21    58
-Chicago                43   14    4    7   18   -12    57
-Winnipeg               42   13    2    5   22   -13    48
+Chicago                44   14    4    7   19   -16    57
+Winnipeg               43   14    2    5   22    -9    51
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               44   18    9    3   14    19    75
-Washington             44   20    2    6   16    14    70
+Washington             45   21    2    6   16    18    73
 NY Islanders           44   16    8    5   15     8    69
 Pittsburgh             42   17    4    9   12     7    68
 Philadelphia           42   15    7    8   12    10    67

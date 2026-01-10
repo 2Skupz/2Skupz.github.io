@@ -78,8 +78,6 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             
 -----------------------                                             
-Tuesday, January 06                                                 
-  West Ham             vs    Nott'ham Forest                        
 Wednesday, January 07                                               
   Brentford            vs    Sunderland                             
   Bournemouth          vs    Tottenham                              
@@ -117,10 +115,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Tuesday, January 06
-  Pisa                 vs    Como
-  Lecce                vs    Roma
-  Sassuolo             vs    Juventus
 Wednesday, January 07
   Napoli               vs    Hellas Verona
   Bologna              vs    Atalanta
@@ -184,4 +178,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 01.09.26
+Standings from FBRef.com 01.10.26
