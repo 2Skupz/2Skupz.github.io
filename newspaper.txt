@@ -86,10 +86,6 @@ West Ham           10   2   1   7  10  21 -11   7   9.3  15.3       Auxerre     
 Nott'ham Forest    10   1   3   6   7  19 -12   6  11.0  15.9       
 Wolves             10   0   2   8   7  22 -15   2   9.4  12.7       
 
-Premier League Fixtures                                             
------------------------                                             
-Thursday, January 08                                                
-  Arsenal              vs    Liverpool                              
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -116,9 +112,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Thursday, January 08
-  Cremonese            vs    Cagliari
-  Milan                vs    Genoa
 Saturday, January 10
   Udinese              vs    Pisa
   Como                 vs    Bologna
@@ -135,6 +128,9 @@ Monday, January 12
 Wednesday, January 14
   Napoli               vs    Parma
   Inter                vs    Lecce
+Thursday, January 15
+  Hellas Verona        vs    Bologna
+  Como                 vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -176,4 +172,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 01.11.26
+Standings from FBRef.com 01.12.26

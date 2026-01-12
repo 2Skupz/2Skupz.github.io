@@ -4,14 +4,14 @@ NHL Standings - Win Percentage
 --------------------------------------------------------------------------------
 Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-San Jose               44   23   21     .523    --
-Edmonton               45   22   23     .489   1.5
-Anaheim                45   21   24     .467   2.5
-Vegas                  43   20   23     .465   2.5
-SEATTLE                43   20   23     .465   2.5
-Los Angeles            44   19   25     .432   4.0
-Calgary                45   19   26     .422   4.5
-Vancouver              44   16   28     .364   7.0
+San Jose               45   23   22     .511    --
+Edmonton               45   22   23     .489   1.0
+Vegas                  44   21   23     .477   1.5
+Anaheim                45   21   24     .467   2.0
+SEATTLE                43   20   23     .465   2.0
+Los Angeles            44   19   25     .432   3.5
+Calgary                45   19   26     .422   4.0
+Vancouver              44   16   28     .364   6.5
 
 --------------------------------------------------------------------------------
 Central                GP    W    L     WinP    GB
@@ -19,10 +19,10 @@ Central                GP    W    L     WinP    GB
 Colorado               44   33   11     .750    --
 Dallas                 45   26   19     .578   7.5
 Minnesota              46   26   20     .565   8.0
-Utah                   45   22   23     .489  11.5
-Nashville              44   20   24     .455  13.0
+Utah                   46   22   24     .478  12.0
+Nashville              45   21   24     .467  12.5
 Chicago                45   19   26     .422  14.5
-Winnipeg               43   16   27     .372  16.5
+Winnipeg               44   17   27     .386  16.0
 St. Louis              46   17   29     .370  17.0
 
 --------------------------------------------------------------------------------
@@ -31,11 +31,11 @@ Metropolitan           GP    W    L     WinP    GB
 Carolina               45   28   17     .622    --
 NY Islanders           45   25   20     .556   3.0
 Philadelphia           43   22   21     .512   5.0
-Washington             45   23   22     .511   5.0
-New Jersey             44   22   22     .500   5.5
-Pittsburgh             43   21   22     .488   6.0
+Washington             46   23   23     .500   5.5
+New Jersey             45   22   23     .489   6.0
+Pittsburgh             44   21   23     .477   6.5
 NY Rangers             46   20   26     .435   8.5
-Columbus               44   18   26     .409   9.5
+Columbus               45   19   26     .422   9.0
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
@@ -44,7 +44,7 @@ Tampa Bay              43   27   16     .628    --
 Detroit                46   27   19     .587   1.5
 Buffalo                43   24   19     .558   3.0
 Montreal               45   25   20     .556   3.0
-Boston                 45   24   21     .533   4.0
+Boston                 46   25   21     .543   3.5
 Florida                44   23   21     .523   4.5
 Toronto                44   22   22     .500   5.5
 Ottawa                 44   20   24     .455   7.5
