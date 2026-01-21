@@ -1,0 +1,536 @@
+0,1,"Sep 20, 1919",Davidson,23,Guilford,0,1
+1,1,"Sep 20, 1919",Georgia Tech,48,Camp Logan,0,0
+2,1,"Sep 20, 1919",Kansas State,12,Emporia State,0,1
+3,2,"Sep 26, 1919",Camp Gordon,26,Oglethorpe,0,1
+4,2,"Sep 26, 1919",Davidson,21,Wake Forest,0,1
+5,2,"Sep 27, 1919",Army,14,Middlebury,0,0
+6,2,"Sep 27, 1919",Auburn,37,Marion,0,0
+7,2,"Sep 27, 1919",Boston College,22,USS Utah,0,0
+8,2,"Sep 27, 1919",Brown,27,Rhode Island,0,0
+9,2,"Sep 27, 1919",California,12,Olympic Club,0,0
+10,2,"Sep 27, 1919",Centre,95,Hanover,0,0
+11,2,"Sep 27, 1919",Clemson,53,Erskine,0,0
+12,2,"Sep 27, 1919",Colorado State,28,Wyoming,0,1
+13,2,"Sep 27, 1919",Dartmouth,40,Springfield,0,0
+14,2,"Sep 27, 1919",Norfolk Navy Yard,6,Georgetown,58,1
+15,2,"Sep 27, 1919",Georgia Tech,74,Furman,0,0
+16,2,"Sep 27, 1919",Harvard,53,Bates,0,0
+17,2,"Sep 27, 1919",Wabash,7,Indiana,20,1
+18,2,"Sep 27, 1919",Kansas State,16,Baker,0,0
+19,2,"Sep 27, 1919",Lehigh,47,Villanova,0,0
+20,2,"Sep 27, 1919",Mississippi College,57,Chamberlain Hunt,0,0
+21,2,"Sep 27, 1919",NC State,80,Guilford,0,0
+22,2,"Sep 27, 1919",Oklahoma,40,Central Oklahoma,0,1
+23,2,"Sep 27, 1919",Pennsylvania,16,Bucknell,0,0
+24,2,"Sep 27, 1919",Presbyterian,6,South Carolina,0,1
+25,2,"Sep 27, 1919",Rutgers,34,Ursinus,0,0
+26,2,"Sep 27, 1919",Samford,31,Morgan,0,1
+27,2,"Sep 27, 1919",Burleson,6,SMU,26,1
+28,2,"Sep 27, 1919",Syracuse,10,Syracuse Alumni,0,0
+29,2,"Sep 27, 1919",Tusculum,6,Tennessee,29,1
+30,2,"Sep 27, 1919",Texas,26,Howard Payne,0,0
+31,2,"Sep 27, 1919",Texas A&M,77,Sam Houston,0,0
+32,2,"Sep 27, 1919",Randolph-Macon,2,Virginia,12,1
+33,2,"Sep 27, 1919",Virginia Military Institute,3,Hampden-Sydney,0,0
+34,2,"Sep 27, 1919",West Virginia,61,Marietta,0,0
+35,3,"Oct 3, 1919",Clemson,7,Davidson,0,0
+36,3,"Oct 3, 1919",Tennessee,32,Maryville (TN),2,0
+37,3,"Oct 4, 1919",Alabama,27,Birmingham-Southern,0,0
+38,3,"Oct 4, 1919",Army,9,Holy Cross,0,0
+39,3,"Oct 4, 1919",Samford,6,Auburn,19,0
+40,3,"Oct 4, 1919",Baylor,61,Rusk,0,0
+41,3,"Oct 4, 1919",Brown,7,Bowdoin,0,0
+42,3,"Oct 4, 1919",Bucknell,45,Bloomsburg,0,0
+43,3,"Oct 4, 1919",Indiana,3,Centre,12,0
+44,3,"Oct 4, 1919",Susquehanna,7,Colgate,34,1
+45,3,"Oct 4, 1919",Colorado State,14,Wyoming,0,0
+46,3,"Oct 4, 1919",Cornell,9,Oberlin,0,0
+47,3,"Oct 4, 1919",Dartmouth,13,Norwich,0,0
+48,3,"Oct 4, 1919",Florida,33,North Georgia,2,0
+49,3,"Oct 4, 1919",Purdue,14,Franklin,14,0
+50,3,"Oct 4, 1919",Furman,13,Oglethorpe,0,0
+51,3,"Oct 4, 1919",Georgetown,34,Norfolk Navy Base,0,1
+52,3,"Oct 4, 1919",Georgia,28,Citadel,0,0
+53,3,"Oct 4, 1919",Georgia Tech,14,Wake Forest,0,0
+54,3,"Oct 4, 1919",Wofford,6,Guilford,6,0
+55,3,"Oct 4, 1919",Harvard,17,Boston College,0,0
+56,3,"Oct 4, 1919",Hendrix,15,Mississippi College,12,1
+57,3,"Oct 4, 1919",Iowa,18,Nebraska,0,0
+58,3,"Oct 4, 1919",Iowa State,3,Coe,0,0
+59,3,"Oct 4, 1919",Kansas,42,Pittsburg State,0,0
+60,3,"Oct 4, 1919",Camp Funston,6,Kansas State,20,1
+61,3,"Oct 4, 1919",Kentucky,12,Georgetown (Kentucky),0,0
+62,3,"Oct 4, 1919",Lafayette,13,Muhlenberg,0,0
+63,3,"Oct 4, 1919",Lehigh,13,Ursinus,0,0
+64,3,"Oct 4, 1919",LSU,39,Louisiana,0,0
+65,3,"Oct 4, 1919",Michigan,34,Case,0,0
+66,3,"Oct 4, 1919",Minnesota,39,North Dakota,0,0
+67,3,"Oct 4, 1919",Ole Miss,32,Arkansas State,0,0
+68,3,"Oct 4, 1919",Spring Hill,6,Mississippi State,12,1
+69,3,"Oct 4, 1919",Missouri,41,Drury,12,0
+70,3,"Oct 4, 1919",Navy,49,NC State,0,0
+71,3,"Oct 4, 1919",Fort Jackson,0,Newberry,0,0
+72,3,"Oct 4, 1919",Notre Dame,14,Kalamazoo,0,0
+73,3,"Oct 4, 1919",Ohio State,38,Ohio Wesleyan,0,0
+74,3,"Oct 4, 1919",Oklahoma,157,Kingfisher,0,0
+75,3,"Oct 4, 1919",Oklahoma State,37,Southwestern Oklahoma State,0,0
+76,3,"Oct 4, 1919",California,6,Olympic Club,6,0
+77,3,"Oct 4, 1919",Oregon State Alumni,0,Oregon State,0,0
+78,3,"Oct 4, 1919",Penn State,33,Gettysburg,0,0
+79,3,"Oct 4, 1919",Pennsylvania,54,Pennsylvania Military,0,0
+80,3,"Oct 4, 1919",Pitt,33,Geneva,2,1
+81,3,"Oct 4, 1919",Presbyterian,41,Bailey Military,0,0
+82,3,"Oct 4, 1919",Princeton,28,Trinity (CT),0,0
+83,3,"Oct 4, 1919",Rice,12,Trinity (Texas),0,0
+84,3,"Oct 4, 1919",Virginia,0,Richmond,0,0
+85,3,"Oct 4, 1919",Rutgers,19,North Carolina,0,0
+86,3,"Oct 4, 1919",Sewanee,7,Morgan,0,0
+87,3,"Oct 4, 1919",South Carolina,6,Erskine,0,0
+88,3,"Oct 4, 1919",SMU,7,Wesley,6,0
+89,3,"Oct 4, 1919",Maryland,6,Swarthmore,10,0
+90,3,"Oct 4, 1919",Syracuse,27,Vermont,0,0
+91,3,"Oct 4, 1919",Texas,39,Southwestern (TX),0,0
+92,3,"Oct 4, 1919",Texas A&M,28,Texas State,0,0
+93,3,"Oct 4, 1919",North Texas,6,TCU,14,1
+94,3,"Oct 4, 1919",Tulane,27,Jefferson (LA),0,0
+95,3,"Oct 4, 1919",Vanderbilt,41,Union (Tennessee),0,0
+96,3,"Oct 4, 1919",Virginia Tech,13,Hampden-Sydney,0,0
+97,3,"Oct 4, 1919",Washington & Jefferson,23,Kiski Preparatory,0,0
+98,3,"Oct 4, 1919",Washington & Lee,21,Randolph-Macon,0,0
+99,3,"Oct 4, 1919",West Virginia,55,Westminster (Pennsylvania),0,0
+100,3,"Oct 4, 1919",Wisconsin,37,Ripon,0,0
+101,3,"Oct 4, 1919",Yale,20,Springfield,0,0
+102,4,"Oct 7, 1919",Colorado College,80,Camp Logan,3,0
+103,4,"Oct 11, 1919",Alabama,49,Ole Miss,0,0
+104,4,"Oct 11, 1919",Arkansas,7,Hendrix,0,0
+105,4,"Oct 11, 1919",Boston College,25,Middlebury,0,0
+106,4,"Oct 11, 1919",California,19,Saint Mary's (CA),0,0
+107,4,"Oct 11, 1919",Chicago,123,Great Lakes Navy,0,0
+108,4,"Oct 11, 1919",Presbyterian,7,Citadel,12,1
+109,4,"Oct 11, 1919",Colgate,14,Brown,0,0
+110,4,"Oct 11, 1919",Colorado,7,Colorado State,49,1
+111,4,"Oct 11, 1919",Cornell,3,Williams,0,0
+112,4,"Oct 11, 1919",Massachusetts,7,Dartmouth,27,1
+113,4,"Oct 11, 1919",Decatur Baptist,20,TCU,0,0
+114,4,"Oct 11, 1919",Drake,33,William Penn,0,0
+115,4,"Oct 11, 1919",Erskine,6,Newberry,0,1
+116,4,"Oct 11, 1919",Furman,7,Wofford,6,0
+117,4,"Oct 11, 1919",Georgetown,17,West Virginia Wesleyan,0,1
+118,4,"Oct 11, 1919",Georgia,14,South Carolina,0,0
+119,4,"Oct 11, 1919",Georgia Tech,28,Clemson,0,0
+120,4,"Oct 11, 1919",Harvard,35,Colby,0,0
+121,4,"Oct 11, 1919",Oklahoma State,3,Haskell,12,1
+122,4,"Oct 11, 1919",Purdue,7,Illinois,14,0
+123,4,"Oct 11, 1919",Indiana,24,Kentucky,0,1
+124,4,"Oct 11, 1919",Iowa State,7,Grinnell,0,0
+125,4,"Oct 11, 1919",Kansas,14,Emporia State,0,0
+126,4,"Oct 11, 1919",Lehigh,19,Rutgers,0,0
+127,4,"Oct 11, 1919",LSU,38,Jefferson (LA),0,0
+128,4,"Oct 11, 1919",Maryland,13,Virginia,0,1
+129,4,"Oct 11, 1919",Mississippi College,7,Mississippi State,56,1
+130,4,"Oct 11, 1919",Kansas State,6,Missouri,6,0
+131,4,"Oct 11, 1919",Navy,66,Johns Hopkins,0,0
+132,4,"Oct 11, 1919",Minnesota,6,Nebraska,6,0
+133,4,"Oct 11, 1919",NC State,100,Hampton Road,0,0
+134,4,"Oct 11, 1919",Northwestern,20,DePauw,0,0
+135,4,"Oct 11, 1919",Mount Union,7,Notre Dame,60,1
+136,4,"Oct 11, 1919",Oglethorpe,19,Chattanooga,0,1
+137,4,"Oct 11, 1919",Ohio State,46,Cincinnati,0,0
+138,4,"Oct 11, 1919",Oregon,23,Multnomah A.C.,0,0
+139,4,"Oct 11, 1919",Oregon State,21,Rooks,0,0
+140,4,"Oct 11, 1919",Penn State,9,Bucknell,0,0
+141,4,"Oct 11, 1919",Pennsylvania,89,Delaware,0,0
+142,4,"Oct 11, 1919",Phillips,10,Texas,0,1
+143,4,"Oct 11, 1919",Pitt,26,West Virginia,0,0
+144,4,"Oct 11, 1919",Princeton,9,Lafayette,6,0
+145,4,"Oct 11, 1919",Rice,8,Baylor,0,1
+146,4,"Oct 11, 1919",Sewanee,18,Samford,0,0
+147,4,"Oct 11, 1919",Southwestern (TX),19,Texas State,0,0
+148,4,"Oct 11, 1919",Stanford,59,USS Boston,0,0
+149,4,"Oct 11, 1919",Syracuse,7,Army,3,1
+150,4,"Oct 11, 1919",Vanderbilt,3,Tennessee,3,0
+151,4,"Oct 11, 1919",Texas A&M,16,SMU,0,1
+152,4,"Oct 11, 1919",Tulane,73,Louisiana,0,0
+153,4,"Oct 11, 1919",Tulsa,27,Oklahoma,0,1
+154,4,"Oct 11, 1919",Utah,20,Colorado College,0,0
+155,4,"Oct 11, 1919",Utah State,136,Idaho State,0,0
+156,4,"Oct 11, 1919",William & Mary,3,Virginia Military Institute,21,1
+157,4,"Oct 11, 1919",Virginia Tech,21,Richmond,0,0
+158,4,"Oct 11, 1919",Washington & Jefferson,20,Carnegie Mellon,0,0
+159,4,"Oct 11, 1919",Washington & Lee,7,Davidson,0,0
+160,4,"Oct 11, 1919",Washington (MO),51,Drury,0,0
+161,4,"Oct 11, 1919",Wisconsin,13,Marquette,0,0
+162,4,"Oct 11, 1919",Wyoming,6,Montana State,0,0
+163,4,"Oct 11, 1919",North Carolina,7,Yale,34,1
+164,4,"Oct 12, 1919",Auburn,25,Camp Gordon,13,0
+165,5,"Oct 17, 1919",Auburn,7,Clemson,0,0
+166,5,"Oct 18, 1919",Alabama,48,Samford,0,0
+167,5,"Oct 18, 1919",Arkansas,20,Missouri-Rolla,0,0
+168,5,"Oct 18, 1919",Army,6,Maine,0,0
+169,5,"Oct 18, 1919",Baylor,17,Austin,12,0
+170,5,"Oct 18, 1919",Boston College,5,Yale,3,1
+171,5,"Oct 18, 1919",Bucknell,27,Muhlenberg,0,0
+172,5,"Oct 18, 1919",California,61,Occidental,0,0
+173,5,"Oct 18, 1919",Centre,57,Xavier,0,0
+174,5,"Oct 18, 1919",Chicago,16,Purdue,0,0
+175,5,"Oct 18, 1919",Colgate,21,Cornell,0,1
+176,5,"Oct 18, 1919",Denver,7,Colorado,26,0
+177,5,"Oct 18, 1919",Colorado State,34,Utah,21,0
+178,5,"Oct 18, 1919",Dartmouth,19,Penn State,13,0
+179,5,"Oct 18, 1919",Davidson,7,South Carolina,0,1
+180,5,"Oct 18, 1919",Drake,12,Simpson,10,0
+181,5,"Oct 18, 1919",Dubuque,31,Grinnell,14,0
+182,5,"Oct 18, 1919",Erskine,44,Newberry,0,0
+183,5,"Oct 18, 1919",Florida,48,Mercer,0,0
+184,5,"Oct 18, 1919",Furman,6,Presbyterian,0,0
+185,5,"Oct 18, 1919",Virginia Tech,7,Georgetown,33,1
+186,5,"Oct 18, 1919",Georgia,13,Sewanee,0,0
+187,5,"Oct 18, 1919",Georgia Tech,20,Vanderbilt,0,0
+188,5,"Oct 18, 1919",Harvard,7,Brown,0,0
+189,5,"Oct 18, 1919",Illinois,9,Iowa,7,0
+190,5,"Oct 18, 1919",Washburn,0,Kansas,0,0
+191,5,"Oct 18, 1919",Lafayette,41,Haverford,0,0
+192,5,"Oct 18, 1919",Lehigh,51,New York State,0,0
+193,5,"Oct 18, 1919",LSU,13,Ole Miss,0,0
+194,5,"Oct 18, 1919",Michigan,26,Michigan State,0,0
+195,5,"Oct 18, 1919",Indiana,6,Minnesota,20,0
+196,5,"Oct 18, 1919",Mississippi College,6,Jefferson (LA),0,0
+197,5,"Oct 18, 1919",Mississippi State,6,Tennessee,0,1
+198,5,"Oct 18, 1919",Missouri,10,Iowa State,0,0
+199,5,"Oct 18, 1919",North Carolina,6,Wake Forest,0,0
+200,5,"Oct 18, 1919",NC State,78,Roanoke,0,0
+201,5,"Oct 18, 1919",Nebraska,9,Notre Dame,14,0
+202,5,"Oct 18, 1919",Ohio State,49,Kentucky,0,0
+203,5,"Oct 18, 1919",Texas,7,Oklahoma,12,1
+204,5,"Oct 18, 1919",TCU,7,Oklahoma State,14,0
+205,5,"Oct 18, 1919",Olympic Club,13,Stanford,0,1
+206,5,"Oct 18, 1919",Idaho,6,Oregon,26,1
+207,5,"Oct 18, 1919",Pacific (Oregon),6,Oregon State,46,1
+208,5,"Oct 18, 1919",Swarthmore,7,Pennsylvania,55,1
+209,5,"Oct 18, 1919",Princeton,34,Rochester,0,0
+210,5,"Oct 18, 1919",Rice,22,Southwestern (TX),0,0
+211,5,"Oct 18, 1919",SMU,6,Daniel Baker,0,0
+212,5,"Oct 18, 1919",Pitt,3,Syracuse,24,1
+213,5,"Oct 18, 1919",Texas A&M,12,Howard Payne,0,0
+214,5,"Oct 18, 1919",Tulane,21,Spring Hill,0,1
+215,5,"Oct 18, 1919",Utah State,47,Montana,0,0
+216,5,"Oct 18, 1919",Virginia,7,Virginia Military Institute,0,0
+217,5,"Oct 18, 1919",Washington,35,USS New York,0,0
+218,5,"Oct 18, 1919",Washington & Jefferson,16,Westminster (Pennsylvania),0,1
+219,5,"Oct 18, 1919",Washington & Lee,78,Norfolk Navy Base,0,0
+220,5,"Oct 18, 1919",Kansas State,9,Washington (MO),14,0
+221,5,"Oct 18, 1919",Washington State,49,Multnomah A.C.,0,0
+222,5,"Oct 18, 1919",West Virginia,27,Maryland,0,1
+223,5,"Oct 18, 1919",Northwestern,6,Wisconsin,10,0
+224,5,"Oct 18, 1919",Wofford,12,Citadel,0,0
+225,5,"Oct 18, 1919",Colorado Mines,6,Wyoming,16,1
+226,6,"Oct 23, 1919",North Carolina,13,NC State,12,1
+227,6,"Oct 24, 1919",Alabama,61,Marion,0,0
+228,6,"Oct 24, 1919",Kansas State,12,Fort Hays State,0,0
+229,6,"Oct 24, 1919",Rice,54,Austin,0,0
+230,6,"Oct 25, 1919",Army,13,Boston College,0,0
+231,6,"Oct 25, 1919",Brown,20,Norwich,0,0
+232,6,"Oct 25, 1919",Centre,69,Transylvania,0,1
+233,6,"Oct 25, 1919",Chicago,41,Northwestern,0,0
+234,6,"Oct 25, 1919",Citadel,13,USS Mercy,12,0
+235,6,"Oct 25, 1919",Clemson,14,Tennessee,0,0
+236,6,"Oct 25, 1919",Colgate,7,Princeton,0,1
+237,6,"Oct 25, 1919",Colorado,14,Colorado College,14,0
+238,6,"Oct 25, 1919",New Mexico,0,Colorado Mines,0,0
+239,6,"Oct 25, 1919",Dartmouth,9,Cornell,0,0
+240,6,"Oct 25, 1919",Detroit Mercy,16,Georgetown,13,0
+241,6,"Oct 25, 1919",Wake Forest,7,Furman,39,1
+242,6,"Oct 25, 1919",Georgia,16,Florida,0,1
+243,6,"Oct 25, 1919",Harvard,47,Virginia,0,0
+244,6,"Oct 25, 1919",SMU,9,Howard Payne,14,0
+245,6,"Oct 25, 1919",Iowa,9,Minnesota,6,1
+246,6,"Oct 25, 1919",Iowa State,0,Kansas,0,0
+247,6,"Oct 25, 1919",Kentucky,6,Sewanee,0,1
+248,6,"Oct 25, 1919",Lehigh,16,Carnegie Mellon,0,0
+249,6,"Oct 25, 1919",LSU,20,Arkansas,0,0
+250,6,"Oct 25, 1919",Mississippi State,39,Samford,0,0
+251,6,"Oct 25, 1919",Missouri,3,Drake,0,0
+252,6,"Oct 25, 1919",Bucknell,6,Navy,21,1
+253,6,"Oct 25, 1919",Notre Dame,53,Western Michigan,0,0
+254,6,"Oct 25, 1919",Oglethorpe,75,Mercer,0,0
+255,6,"Oct 25, 1919",Michigan,3,Ohio State,13,0
+256,6,"Oct 25, 1919",Nebraska,7,Oklahoma,7,0
+257,6,"Oct 25, 1919",Mississippi College,0,Ouachita,0,0
+258,6,"Oct 25, 1919",Ursinus,7,Penn State,48,1
+259,6,"Oct 25, 1919",Pennsylvania,23,Lafayette,0,0
+260,6,"Oct 25, 1919",Georgia Tech,6,Pitt,16,1
+261,6,"Oct 25, 1919",Erskine,7,Presbyterian,33,1
+262,6,"Oct 25, 1919",Rutgers,14,New York State,0,0
+263,6,"Oct 25, 1919",Southwestern (TX),10,TCU,0,1
+264,6,"Oct 25, 1919",Spring Hill,13,Marion,0,0
+265,6,"Oct 25, 1919",Oregon State,6,Stanford,14,0
+266,6,"Oct 25, 1919",Texas,29,Baylor,13,1
+267,6,"Oct 25, 1919",Texas A&M,42,Trinity (Texas),0,0
+268,6,"Oct 25, 1919",Tulane,27,Ole Miss,12,0
+269,6,"Oct 25, 1919",Utah,20,Idaho,0,0
+270,6,"Oct 25, 1919",Utah State,19,Montana State,0,0
+271,6,"Oct 25, 1919",Vanderbilt,7,Auburn,6,0
+272,6,"Oct 25, 1919",Davidson,7,Virginia Military Institute,14,1
+273,6,"Oct 25, 1919",Virginia Tech,6,Maryland,0,1
+274,6,"Oct 25, 1919",Washington,120,Whitman,0,0
+275,6,"Oct 25, 1919",Washington & Jefferson,13,Syracuse,0,1
+276,6,"Oct 25, 1919",Washington & Lee,32,Roanoke,0,0
+277,6,"Oct 25, 1919",Washington (MO),13,Grinnell,0,1
+278,6,"Oct 25, 1919",Washington State,14,California,0,1
+279,6,"Oct 25, 1919",West Virginia,60,Bethany (West Virginia),0,0
+280,6,"Oct 25, 1919",Wisconsin,14,Illinois,10,1
+281,6,"Oct 25, 1919",Wofford,27,Newberry,0,1
+282,6,"Oct 25, 1919",Denver,6,Wyoming,36,0
+283,6,"Oct 25, 1919",Yale,37,Tufts,0,0
+284,7,"Oct 30, 1919",South Carolina,6,Clemson,19,0
+285,7,"Oct 30, 1919",Samford,7,Hamilton A.C.,7,0
+286,7,"Oct 31, 1919",Union (Tennessee),6,Ole Miss,25,1
+287,7,"Nov 1, 1919",Alabama,40,Sewanee,0,0
+288,7,"Nov 1, 1919",Army,24,Tufts,13,0
+289,7,"Nov 1, 1919",Auburn,7,Georgia,0,0
+290,7,"Nov 1, 1919",Baylor,20,Southwestern (TX),0,0
+291,7,"Nov 1, 1919",Bucknell,27,St. Bonaventure,0,0
+292,7,"Nov 1, 1919",California,21,Oregon State,14,0
+293,7,"Nov 1, 1919",Virginia,7,Centre,49,0
+294,7,"Nov 1, 1919",Dartmouth,7,Colgate,7,0
+295,7,"Nov 1, 1919",Colorado College,7,Colorado Mines,3,0
+296,7,"Nov 1, 1919",Colorado State,33,Denver,3,1
+297,7,"Nov 1, 1919",Drake,6,Grinnell,0,0
+298,7,"Nov 1, 1919",Florida Southern,7,Florida,0,0
+299,7,"Nov 1, 1919",Citadel,6,Furman,21,1
+300,7,"Nov 1, 1919",Delaware,7,Georgetown,47,1
+301,7,"Nov 1, 1919",Georgia Tech,33,Davidson,0,0
+302,7,"Nov 1, 1919",Harvard,20,Springfield,0,0
+303,7,"Nov 1, 1919",Illinois,10,Chicago,0,0
+304,7,"Nov 1, 1919",Iowa,26,South Dakota,13,0
+305,7,"Nov 1, 1919",Iowa State,3,Nebraska,0,1
+306,7,"Nov 1, 1919",Kansas State,3,Kansas,16,1
+307,7,"Nov 1, 1919",Lafayette,21,Cornell,2,1
+308,7,"Nov 1, 1919",Oglethorpe,7,Maryville (TN),14,1
+309,7,"Nov 1, 1919",Michigan,16,Northwestern,13,0
+310,7,"Nov 1, 1919",Wisconsin,7,Minnesota,19,0
+311,7,"Nov 1, 1919",Mississippi State,6,LSU,0,0
+312,7,"Nov 1, 1919",Oklahoma,6,Missouri,6,0
+313,7,"Nov 1, 1919",West Virginia Wesleyan,6,Navy,20,1
+314,7,"Nov 1, 1919",Tennessee,0,North Carolina,0,0
+315,7,"Nov 1, 1919",NC State,21,Virginia Military Institute,0,1
+316,7,"Nov 1, 1919",Indiana,3,Notre Dame,16,1
+317,7,"Nov 1, 1919",Oregon,24,Washington,13,1
+318,7,"Nov 1, 1919",Penn State,10,Pennsylvania,0,1
+319,7,"Nov 1, 1919",Pitt,14,Lehigh,0,1
+320,7,"Nov 1, 1919",Michigan State,7,Purdue,13,1
+321,7,"Nov 1, 1919",SMU,41,Austin,0,0
+322,7,"Nov 1, 1919",Alabama Medical,6,Spring Hill,12,1
+323,7,"Nov 1, 1919",Stanford,34,Saint Mary's (CA),0,0
+324,7,"Nov 1, 1919",Syracuse,13,Brown,0,1
+325,7,"Nov 1, 1919",Rice,7,Texas,32,1
+326,7,"Nov 1, 1919",Texas A&M,28,Oklahoma State,0,0
+327,7,"Nov 1, 1919",TCU,7,Trinity (Texas),0,1
+328,7,"Nov 1, 1919",Tulane,49,Mississippi College,0,0
+329,7,"Nov 1, 1919",Arkansas,7,Tulsa,63,0
+330,7,"Nov 1, 1919",Utah,66,Montana State,0,0
+331,7,"Nov 1, 1919",Kentucky,0,Vanderbilt,0,0
+332,7,"Nov 1, 1919",Wake Forest,39,Sewanee Club (Virginia),3,1
+333,7,"Nov 1, 1919",Washington & Lee,3,Virginia Tech,0,0
+334,7,"Nov 1, 1919",Washington (MO),29,Missouri-Rolla,0,1
+335,7,"Nov 1, 1919",Washington State,37,Idaho,0,0
+336,7,"Nov 1, 1919",West Virginia,25,Princeton,0,1
+337,7,"Nov 1, 1919",Wofford,19,Erskine,0,0
+338,7,"Nov 1, 1919",Yale,31,Maryland,0,0
+339,8,"Nov 4, 1919",Syracuse,14,Rutgers,0,0
+340,8,"Nov 7, 1919",Presbyterian,7,Clemson,19,1
+341,8,"Nov 7, 1919",Georgia,7,Virginia,7,0
+342,8,"Nov 8, 1919",Auburn,10,Spring Hill,0,1
+343,8,"Nov 8, 1919",California,14,USC,13,1
+344,8,"Nov 8, 1919",West Virginia,6,Centre,14,1
+345,8,"Nov 8, 1919",Chicago,13,Michigan,0,0
+346,8,"Nov 8, 1919",Cincinnati,7,Kentucky,0,0
+347,8,"Nov 8, 1919",Citadel,41,Newberry,0,1
+348,8,"Nov 8, 1919",Colgate,21,Rochester,0,0
+349,8,"Nov 8, 1919",Denver,0,Colorado Mines,0,0
+350,8,"Nov 8, 1919",Utah State,7,Colorado State,27,1
+351,8,"Nov 8, 1919",Cornell,20,Carnegie Mellon,0,0
+352,8,"Nov 8, 1919",Creighton,47,Colorado College,0,0
+353,8,"Nov 8, 1919",Dartmouth,20,Pennsylvania,19,0
+354,8,"Nov 8, 1919",Drake,14,Washington (MO),13,0
+355,8,"Nov 8, 1919",Georgetown,6,Navy,0,1
+356,8,"Nov 8, 1919",Grinnell,6,Coe,0,0
+357,8,"Nov 8, 1919",Princeton,10,Harvard,10,0
+358,8,"Nov 8, 1919",Haskell,7,Kansas State,3,1
+359,8,"Nov 8, 1919",Southwestern (TX),6,Howard Payne,13,0
+360,8,"Nov 8, 1919",Minnesota,6,Illinois,10,0
+361,8,"Nov 8, 1919",Northwestern,7,Iowa,14,0
+362,8,"Nov 8, 1919",Lafayette,48,Dickinson,0,0
+363,8,"Nov 8, 1919",LSU,24,Mississippi College,0,0
+364,8,"Nov 8, 1919",Maryland,27,St. John's (Maryland),0,1
+365,8,"Nov 8, 1919",Mississippi State,33,Ole Miss,0,0
+366,8,"Nov 8, 1919",Multnomah A.C.,14,Oregon State,0,1
+367,8,"Nov 8, 1919",Missouri,5,Nebraska,12,0
+368,8,"Nov 8, 1919",Nebraska Wesleyan,14,Wyoming,10,1
+369,8,"Nov 8, 1919",Davidson,6,NC State,36,1
+370,8,"Nov 8, 1919",Army,9,Notre Dame,12,0
+371,8,"Nov 8, 1919",Ohio State,20,Purdue,0,0
+372,8,"Nov 8, 1919",Kansas,0,Oklahoma,0,0
+373,8,"Nov 8, 1919",Oklahoma State,52,Central Oklahoma,0,0
+374,8,"Nov 8, 1919",Lehigh,7,Penn State,20,1
+375,8,"Nov 8, 1919",Pitt,7,Washington & Jefferson,6,0
+376,8,"Nov 8, 1919",Rice,21,SMU,14,0
+377,8,"Nov 8, 1919",Boston College,7,Rutgers,13,0
+378,8,"Nov 8, 1919",Samford,2,Birmingham-Southern,0,0
+379,8,"Nov 8, 1919",Sewanee,21,Oglethorpe,0,0
+380,8,"Nov 8, 1919",Stanford,13,Santa Clara,0,0
+381,8,"Nov 8, 1919",Syracuse,9,Bucknell,0,0
+382,8,"Nov 8, 1919",South Carolina,6,Tennessee,6,0
+383,8,"Nov 8, 1919",Arkansas,7,Texas,35,1
+384,8,"Nov 8, 1919",Texas A&M,48,TCU,0,0
+385,8,"Nov 8, 1919",Florida,2,Tulane,14,1
+386,8,"Nov 8, 1919",Utah,7,Colorado,0,0
+387,8,"Nov 8, 1919",Vanderbilt,16,Alabama,12,0
+388,8,"Nov 8, 1919",North Carolina,7,Virginia Military Institute,29,0
+389,8,"Nov 8, 1919",Virginia Tech,40,Wake Forest,0,0
+390,8,"Nov 8, 1919",Washington & Lee,3,Georgia Tech,0,1
+391,8,"Nov 8, 1919",Washington State,7,Oregon,0,1
+392,8,"Nov 8, 1919",Yale,14,Brown,0,0
+393,9,"Nov 13, 1919",Clemson,33,Citadel,0,0
+394,9,"Nov 13, 1919",Haskell,7,Texas,13,1
+395,9,"Nov 14, 1919",Marion,12,Samford,0,1
+396,9,"Nov 15, 1919",Alabama,23,LSU,0,1
+397,9,"Nov 15, 1919",Arkansas,7,Oklahoma,6,0
+398,9,"Nov 15, 1919",Army,62,Villanova,0,0
+399,9,"Nov 15, 1919",Auburn,7,Mississippi State,0,0
+400,9,"Nov 15, 1919",Austin,6,TCU,0,0
+401,9,"Nov 15, 1919",Boston College,9,Holy Cross,7,0
+402,9,"Nov 15, 1919",Brown,7,Dartmouth,6,0
+403,9,"Nov 15, 1919",Bucknell,17,Gettysburg,0,0
+404,9,"Nov 15, 1919",Centre,56,Kentucky,0,0
+405,9,"Nov 15, 1919",Chicago,9,Iowa,6,0
+406,9,"Nov 15, 1919",Colorado College,38,Denver,0,0
+407,9,"Nov 15, 1919",Colorado Mines,6,Colorado State,33,0
+408,9,"Nov 15, 1919",Grinnell,7,Cornell College,7,0
+409,9,"Nov 15, 1919",Cotton City A.C.,12,Oglethorpe,0,0
+410,9,"Nov 15, 1919",Creighton,41,Wyoming,0,0
+411,9,"Nov 15, 1919",Florida,64,Stetson,0,0
+412,9,"Nov 15, 1919",Furman,41,Erskine,0,0
+413,9,"Nov 15, 1919",Georgia Tech,27,Georgetown,0,0
+414,9,"Nov 15, 1919",Harvard,23,Tufts,0,0
+415,9,"Nov 15, 1919",Michigan,7,Illinois,29,1
+416,9,"Nov 15, 1919",Iowa State,46,Kansas State,0,0
+417,9,"Nov 15, 1919",Lafayette,35,Trinity (CT),0,0
+418,9,"Nov 15, 1919",Muhlenberg,7,Lehigh,33,1
+419,9,"Nov 15, 1919",Maryland,13,Catholic,0,0
+420,9,"Nov 15, 1919",Ole Miss,30,Rhodes,0,0
+421,9,"Nov 15, 1919",Missouri,7,Washington (MO),0,1
+422,9,"Nov 15, 1919",Navy,121,Colby,0,0
+423,9,"Nov 15, 1919",Kansas,7,Nebraska,19,1
+424,9,"Nov 15, 1919",Newberry,14,Bailey Military,0,0
+425,9,"Nov 15, 1919",North Carolina,10,Davidson,0,0
+426,9,"Nov 15, 1919",NC State,3,Virginia Tech,0,0
+427,9,"Nov 15, 1919",Northwestern,3,Indiana,2,0
+428,9,"Nov 15, 1919",Notre Dame,13,Michigan State,0,0
+429,9,"Nov 15, 1919",Ohio State,3,Wisconsin,0,1
+430,9,"Nov 15, 1919",Oregon,9,Oregon State,0,0
+431,9,"Nov 15, 1919",Penn State,20,Cornell,0,1
+432,9,"Nov 15, 1919",Oklahoma State,7,Phillips,7,0
+433,9,"Nov 15, 1919",Pennsylvania,3,Pitt,3,0
+434,9,"Nov 15, 1919",Wofford,6,Presbyterian,14,0
+435,9,"Nov 15, 1919",Yale,6,Princeton,13,0
+436,9,"Nov 15, 1919",Sewanee,7,Rice,19,1
+437,9,"Nov 15, 1919",South Dakota,6,Drake,3,0
+438,9,"Nov 15, 1919",Utah,7,USC,28,1
+439,9,"Nov 15, 1919",Trinity (Texas),6,SMU,46,1
+440,9,"Nov 15, 1919",Colgate,7,Syracuse,13,1
+441,9,"Nov 15, 1919",Tennessee,33,Cincinnati,12,0
+442,9,"Nov 15, 1919",Texas A&M,10,Baylor,0,1
+443,9,"Nov 15, 1919",Georgia,7,Tulane,7,0
+444,9,"Nov 15, 1919",Colorado,7,Utah State,19,0
+445,9,"Nov 15, 1919",Virginia,6,Vanderbilt,10,0
+446,9,"Nov 15, 1919",Wake Forest,65,Guilford,0,0
+447,9,"Nov 15, 1919",Washington State,7,Washington,13,0
+448,9,"Nov 15, 1919",Washington & Jefferson,14,Bethany (West Virginia),0,1
+449,9,"Nov 15, 1919",Washington & Lee,26,South Carolina,0,0
+450,9,"Nov 15, 1919",Rutgers,7,West Virginia,30,0
+451,9,"Nov 17, 1919",Southern Miss,7,Mississippi College,19,0
+452,9,"Nov 17, 1919",Purdue,24,DePauw,0,0
+453,10,"Nov 18, 1919",Sewanee,7,Baylor,21,1
+454,10,"Nov 18, 1919",Citadel,0,Oglethorpe,0,0
+455,10,"Nov 20, 1919",Utah State,6,Wyoming,0,1
+456,10,"Nov 21, 1919",Furman,7,Clemson,7,0
+457,10,"Nov 21, 1919",Rice,7,Howard Payne,0,0
+458,10,"Nov 21, 1919",Samford,82,Hamilton A.C.,0,0
+459,10,"Nov 21, 1919",Oklahoma State,7,Tulsa,7,0
+460,10,"Nov 22, 1919",Alabama,6,Georgia,0,1
+461,10,"Nov 22, 1919",Brown,6,New Hampshire,0,0
+462,10,"Nov 22, 1919",Susquehanna,7,Bucknell,20,1
+463,10,"Nov 22, 1919",California,14,Stanford,10,1
+464,10,"Nov 22, 1919",Centre,56,DePauw,0,0
+465,10,"Nov 22, 1919",Florida,13,South Carolina,0,1
+466,10,"Nov 22, 1919",Washington & Lee,6,Georgetown,27,1
+467,10,"Nov 22, 1919",Yale,3,Harvard,10,1
+468,10,"Nov 22, 1919",Illinois,9,Ohio State,7,1
+469,10,"Nov 22, 1919",Syracuse,6,Indiana,12,1
+470,10,"Nov 22, 1919",Iowa,10,Iowa State,0,0
+471,10,"Nov 22, 1919",Lehigh,6,Lafayette,10,0
+472,10,"Nov 22, 1919",Tulane,6,LSU,27,0
+473,10,"Nov 22, 1919",Maryland,20,Western Maryland,0,0
+474,10,"Nov 22, 1919",Michigan,7,Minnesota,34,0
+475,10,"Nov 22, 1919",Notre Dame,33,Purdue,13,1
+476,10,"Nov 22, 1919",Kansas State,3,Oklahoma,14,0
+477,10,"Nov 22, 1919",Oregon State,6,Washington State,0,0
+478,10,"Nov 22, 1919",Phillips,58,Denver,0,0
+479,10,"Nov 22, 1919",Carnegie Mellon,7,Pitt,17,1
+480,10,"Nov 22, 1919",Davidson,0,Presbyterian,0,0
+481,10,"Nov 22, 1919",Baylor,7,SMU,7,0
+482,10,"Nov 22, 1919",Spring Hill,3,Birmingham-Southern,0,1
+483,10,"Nov 22, 1919",Texas A&M,7,Southwestern (TX),0,0
+484,10,"Nov 22, 1919",Virginia Military Institute,41,Roanoke,0,0
+485,10,"Nov 22, 1919",Virginia Tech,99,Emory & Henry,0,0
+486,10,"Nov 22, 1919",Washington,14,Pacific Fleet,0,0
+487,10,"Nov 22, 1919",Washington & Jefferson,33,West Virginia Wesleyan,0,0
+488,10,"Nov 22, 1919",West Virginia,55,Ohio Wesleyan,0,0
+489,10,"Nov 22, 1919",Chicago,3,Wisconsin,10,0
+490,11,"Nov 25, 1919",West Virginia,7,Washington & Jefferson,0,0
+491,11,"Nov 26, 1919",Samford,6,Spring Hill,6,0
+492,11,"Nov 27, 1919",Mississippi State,6,Alabama,14,1
+493,11,"Nov 27, 1919",Georgia Tech,7,Auburn,14,0
+494,11,"Nov 27, 1919",Baylor,7,TCU,0,1
+495,11,"Nov 27, 1919",Columbia,7,Brown,7,0
+496,11,"Nov 27, 1919",Dickinson,0,Bucknell,0,0
+497,11,"Nov 27, 1919",Centre,77,Georgetown (Kentucky),7,1
+498,11,"Nov 27, 1919",South Carolina,7,Citadel,14,0
+499,11,"Nov 27, 1919",Georgia,0,Clemson,0,0
+500,11,"Nov 27, 1919",Colorado College,13,Colorado State,0,0
+501,11,"Nov 27, 1919",Davidson,41,Furman,14,0
+502,11,"Nov 27, 1919",Denver,7,US Recup. Company,0,0
+503,11,"Nov 27, 1919",Oglethorpe,7,Florida,14,1
+504,11,"Nov 27, 1919",Iowa State,14,Drake,0,1
+505,11,"Nov 27, 1919",Kentucky,13,Tennessee,0,0
+506,11,"Nov 27, 1919",Maryland,13,Johns Hopkins,0,1
+507,11,"Nov 27, 1919",Ole Miss,6,Mississippi College,0,0
+508,11,"Nov 27, 1919",Kansas,6,Missouri,13,0
+509,11,"Nov 27, 1919",Nebraska,3,Syracuse,0,0
+510,11,"Nov 27, 1919",Presbyterian,0,Newberry,0,0
+511,11,"Nov 27, 1919",North Carolina,6,Virginia,0,0
+512,11,"Nov 27, 1919",Wake Forest,7,NC State,21,1
+513,11,"Nov 27, 1919",Morningside,6,Notre Dame,14,0
+514,11,"Nov 27, 1919",Oklahoma State,6,Oklahoma,33,1
+515,11,"Nov 27, 1919",Multnomah A.C.,7,Oregon,15,0
+516,11,"Nov 27, 1919",Oregon State,50,Gonzaga,0,0
+517,11,"Nov 27, 1919",Penn State,20,Pitt,0,1
+518,11,"Nov 27, 1919",Pennsylvania,24,Cornell,0,0
+519,11,"Nov 27, 1919",Arkansas,7,Rice,40,1
+520,11,"Nov 27, 1919",Rutgers,28,Northwestern,0,0
+521,11,"Nov 27, 1919",USC,13,Stanford,0,0
+522,11,"Nov 27, 1919",SMU,6,Southwestern (TX),10,1
+523,11,"Nov 27, 1919",Texas A&M,7,Texas,0,0
+524,11,"Nov 27, 1919",Vanderbilt,33,Sewanee,21,0
+525,11,"Nov 27, 1919",Virginia Military Institute,13,Virginia Tech,0,0
+526,11,"Nov 27, 1919",Washington,7,California,0,0
+527,11,"Nov 27, 1919",Washington & Lee,7,Tulane,0,1
+528,11,"Nov 27, 1919",Washington (MO),7,Saint Louis,0,0
+529,11,"Nov 27, 1919",Washington State,42,Montana,14,1
+530,11,"Nov 29, 1919",Georgetown,9,Boston College,10,1
+531,11,"Nov 29, 1919",Colorado,33,Colorado Mines,0,0
+532,11,"Nov 29, 1919",Navy,6,Army,0,1
+533,11,"Nov 29, 1919",Utah,10,Utah State,0,0
+534,12,"Dec 5, 1919",Navy,15,USS Utah,0,0
+535,13,"Jan 1, 1920",Harvard,7,Oregon,6,0

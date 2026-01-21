@@ -1,0 +1,425 @@
+0,1,"Sep 21, 1912",Albright,7,Carlisle,50,1
+1,1,"Sep 21, 1912",Cornell,3,Washington & Jefferson,0,0
+2,1,"Sep 21, 1912",Dartmouth,26,Bates,0,0
+3,1,"Sep 21, 1912",Denver Alumni,0,Denver,0,0
+4,2,"Sep 25, 1912",Carlisle,45,Lebanon Valley,0,0
+5,2,"Sep 25, 1912",Lehigh,33,Albright,0,0
+6,2,"Sep 25, 1912",Wesleyan (CT),3,Yale,10,1
+7,2,"Sep 28, 1912",Georgia Tech,0,11th Cavalry,0,0
+8,2,"Sep 28, 1912",Alabama,52,Marion,0,0
+9,2,"Sep 28, 1912",Henderson State,6,Arkansas,39,1
+10,2,"Sep 28, 1912",Brown,3,Colby,0,0
+11,2,"Sep 28, 1912",Bucknell,41,Harry Hillman Academy,0,0
+12,2,"Sep 28, 1912",Carlisle,35,Dickinson,0,0
+13,2,"Sep 28, 1912",Cornell,7,Colgate,13,0
+14,2,"Sep 28, 1912",Colorado,20,Colorado Alumni,0,0
+15,2,"Sep 28, 1912",Colorado College Alumni,3,Colorado College,20,1
+16,2,"Sep 28, 1912",Colorado Mines,23,Colorado Springs High,0,0
+17,2,"Sep 28, 1912",Norwich,9,Dartmouth,41,1
+18,2,"Sep 28, 1912",Davidson,39,Westminster (Pennsylvania),0,0
+19,2,"Sep 28, 1912",Georgetown,39,Randolph-Macon,0,0
+20,2,"Sep 28, 1912",Harvard,7,Maine,0,0
+21,2,"Sep 28, 1912",Indiana,20,DePauw,0,0
+22,2,"Sep 28, 1912",Southwestern (Kansas),7,Kansas State,19,1
+23,2,"Sep 28, 1912",Muhlenberg,3,Lafayette,20,1
+24,2,"Sep 28, 1912",Lehigh,45,Delaware,0,0
+25,2,"Sep 28, 1912",Mercer,6,Stetson,0,1
+26,2,"Sep 28, 1912",Mississippi College,44,Vicksburg A.C.,0,0
+27,2,"Sep 28, 1912",Central Methodist,7,Missouri,55,1
+28,2,"Sep 28, 1912",Pennsylvania,25,Gettysburg,0,0
+29,2,"Sep 28, 1912",Pitt,22,Ohio Northern,0,0
+30,2,"Sep 28, 1912",Princeton,65,Stevens,0,0
+31,2,"Sep 28, 1912",Samford,8,Jacksonville State,0,0
+32,2,"Sep 28, 1912",South Dakota,10,Minnesota,0,1
+33,2,"Sep 28, 1912",Johns Hopkins,6,Swarthmore,40,0
+34,2,"Sep 28, 1912",Syracuse,12,Hobart,0,0
+35,2,"Sep 28, 1912",Vanderbilt,105,Bethel,0,0
+36,2,"Sep 28, 1912",Virginia,60,William & Mary,0,0
+37,2,"Sep 28, 1912",Wake Forest,33,North Carolina Medical,0,0
+38,2,"Sep 28, 1912",Washburn,12,Denver,0,0
+39,2,"Sep 28, 1912",Geneva,7,Washington & Jefferson,52,0
+40,2,"Sep 28, 1912",Washington & Lee,7,Virginia Medical,0,0
+41,2,"Sep 28, 1912",Yale,7,Holy Cross,0,0
+42,2,"Sep 30, 1912",Virginia Tech,40,Roanoke,0,0
+43,3,"Oct 2, 1912",Carlisle,65,Villanova,0,0
+44,3,"Oct 2, 1912",Pennsylvania,35,Franklin & Marshall,0,0
+45,3,"Oct 2, 1912",Rutgers,6,Princeton,41,1
+46,3,"Oct 4, 1912",Mississippi State,19,Mississippi College,0,0
+47,3,"Oct 5, 1912",Alabama,62,Birmingham,0,0
+48,3,"Oct 5, 1912",Amherst,13,Colgate,0,0
+49,3,"Oct 5, 1912",Arkansas,52,Hendrix,0,0
+50,3,"Oct 5, 1912",Army,27,Stevens,0,0
+51,3,"Oct 5, 1912",Auburn,56,Mercer,0,0
+52,3,"Oct 5, 1912",Austin,8,Baylor,6,1
+53,3,"Oct 5, 1912",Brown,14,Rhode Island,0,0
+54,3,"Oct 5, 1912",Bucknell,49,Wyoming Seminary,0,0
+55,3,"Oct 5, 1912",Washington & Jefferson,0,Carlisle,0,0
+56,3,"Oct 5, 1912",Chicago,13,Indiana,0,0
+57,3,"Oct 5, 1912",Clemson,59,Samford,0,1
+58,3,"Oct 5, 1912",Utah State,3,Colorado,16,1
+59,3,"Oct 5, 1912",Colorado Springs High,7,Colorado College,13,1
+60,3,"Oct 5, 1912",Colorado State,14,Denver,13,0
+61,3,"Oct 5, 1912",Dartmouth,47,Massachusetts,0,0
+62,3,"Oct 5, 1912",Drake,96,Parsons (Iowa),0,0
+63,3,"Oct 5, 1912",Georgetown,27,Mount St. Mary's,0,0
+64,3,"Oct 5, 1912",Georgia,33,Chattanooga,0,0
+65,3,"Oct 5, 1912",Georgia Tech,20,Citadel,16,1
+66,3,"Oct 5, 1912",Harvard,19,Holy Cross,0,0
+67,3,"Oct 5, 1912",Illinois,87,Illinois Wesleyan,3,0
+68,3,"Oct 5, 1912",Kansas,62,St. Mary's (Kansas),0,0
+69,3,"Oct 5, 1912",Kansas State,21,Haskell,14,0
+70,3,"Oct 5, 1912",Northwestern,0,Lake Forest,0,0
+71,3,"Oct 5, 1912",LSU,85,Louisiana,3,0
+72,3,"Oct 5, 1912",Michigan,34,Case,0,0
+73,3,"Oct 5, 1912",Minnesota,5,Iowa State,0,0
+74,3,"Oct 5, 1912",Ole Miss,34,Memphis High,0,0
+75,3,"Oct 5, 1912",Navy,7,Johns Hopkins,3,0
+76,3,"Oct 5, 1912",Nebraska,81,Bellevue,0,0
+77,3,"Oct 5, 1912",North Carolina,13,Davidson,0,0
+78,3,"Oct 5, 1912",NC State,21,USS Franklin,0,0
+79,3,"Oct 5, 1912",Oberlin,13,Cornell,0,1
+80,3,"Oct 5, 1912",Oklahoma,40,Kingfisher,0,1
+81,3,"Oct 5, 1912",Penn State,41,Carnegie Mellon,0,0
+82,3,"Oct 5, 1912",Pennsylvania,16,Dickinson,0,0
+83,3,"Oct 5, 1912",Westminster (Pennsylvania),3,Pitt,13,1
+84,3,"Oct 5, 1912",Princeton,35,Lehigh,0,0
+85,3,"Oct 5, 1912",Purdue,21,DePauw,0,0
+86,3,"Oct 5, 1912",Sewanee,34,Morgan,0,0
+87,3,"Oct 5, 1912",Wake Forest,3,South Carolina,10,1
+88,3,"Oct 5, 1912",Swarthmore,22,Lafayette,0,1
+89,3,"Oct 5, 1912",Tennessee,101,King,0,0
+90,3,"Oct 5, 1912",Texas,30,TCU,10,0
+91,3,"Oct 5, 1912",Texas A&M,50,Daniel Baker,0,0
+92,3,"Oct 5, 1912",Utah,9,Wyoming,0,0
+93,3,"Oct 5, 1912",Maryville (TN),3,Vanderbilt,100,1
+94,3,"Oct 5, 1912",Virginia,45,Randolph-Macon,0,0
+95,3,"Oct 5, 1912",Hampden-Sydney,7,Virginia Tech,42,1
+96,3,"Oct 5, 1912",Washington & Lee,30,Western Maryland,13,0
+97,3,"Oct 5, 1912",Shurtleff,7,Washington (MO),48,0
+98,3,"Oct 5, 1912",Wisconsin,13,Lawrence,0,0
+99,3,"Oct 5, 1912",Yale,21,Syracuse,0,0
+100,3,"Oct 7, 1912",Northern Iowa,7,Iowa,35,1
+101,4,"Oct 8, 1912",Tulane,37,Jefferson (LA),0,0
+102,4,"Oct 9, 1912",Pennsylvania,34,Ursinus,0,0
+103,4,"Oct 11, 1912",LSU,45,Mississippi College,0,0
+104,4,"Oct 11, 1912",Oklahoma,87,Central Oklahoma,0,0
+105,4,"Oct 12, 1912",Army,19,Rutgers,0,0
+106,4,"Oct 12, 1912",Auburn,27,Florida,13,0
+107,4,"Oct 12, 1912",Fort Worth,8,Baylor,12,1
+108,4,"Oct 12, 1912",Bucknell,6,Pitt,0,1
+109,4,"Oct 12, 1912",Carlisle,33,Syracuse,0,1
+110,4,"Oct 12, 1912",Clemson,26,Riverside,0,0
+111,4,"Oct 12, 1912",Hobart,2,Colgate,12,1
+112,4,"Oct 12, 1912",Colorado College,35,Wyoming,0,0
+113,4,"Oct 12, 1912",Colorado Mines,10,Utah State,0,0
+114,4,"Oct 12, 1912",Colorado State,21,Colorado,0,0
+115,4,"Oct 12, 1912",New York University,6,Cornell,14,1
+116,4,"Oct 12, 1912",Dartmouth,55,Vermont,0,0
+117,4,"Oct 12, 1912",Davidson,125,Mount Pleasant,0,0
+118,4,"Oct 12, 1912",Drake Alumni,7,Drake,21,1
+119,4,"Oct 12, 1912",Georgetown,20,Washington & Lee,0,0
+120,4,"Oct 12, 1912",Georgia,33,Citadel,0,0
+121,4,"Oct 12, 1912",Alabama,3,Georgia Tech,20,1
+122,4,"Oct 12, 1912",Williams,3,Harvard,26,1
+123,4,"Oct 12, 1912",Illinois,13,Washington (MO),0,0
+124,4,"Oct 12, 1912",Iowa,31,Cornell College,0,0
+125,4,"Oct 12, 1912",Simpson,7,Iowa State,24,1
+126,4,"Oct 12, 1912",Kansas,27,Central Missouri State,0,0
+127,4,"Oct 12, 1912",Lehigh,14,Navy,0,1
+128,4,"Oct 12, 1912",Mercer,36,Samford,0,0
+129,4,"Oct 12, 1912",Michigan State,7,Michigan,55,1
+130,4,"Oct 12, 1912",Mississippi State,32,Tennessee Medical College,0,0
+131,4,"Oct 12, 1912",Missouri,13,Missouri-Rolla,0,0
+132,4,"Oct 12, 1912",Kansas State,6,Nebraska,30,1
+133,4,"Oct 12, 1912",North Carolina,9,Wake Forest,2,0
+134,4,"Oct 12, 1912",NC State,7,Virginia Medical,0,0
+135,4,"Oct 12, 1912",Arkansas,7,Oklahoma State,13,0
+136,4,"Oct 12, 1912",Penn State,30,Washington & Jefferson,0,0
+137,4,"Oct 12, 1912",Princeton,31,Virginia Tech,0,0
+138,4,"Oct 12, 1912",Sewanee,101,North Alabama,0,0
+139,4,"Oct 12, 1912",Swarthmore,6,Pennsylvania,3,1
+140,4,"Oct 12, 1912",Tennessee,38,Maryville (TN),0,0
+141,4,"Oct 12, 1912",Texas,3,Austin,0,0
+142,4,"Oct 12, 1912",Texas A&M,59,Trinity (Texas),0,0
+143,4,"Oct 12, 1912",TCU,20,Southwestern (TX),0,1
+144,4,"Oct 12, 1912",Tulane,95,Louisiana,0,0
+145,4,"Oct 12, 1912",Vanderbilt,54,Rose-Hulman,0,0
+146,4,"Oct 12, 1912",Virginia,10,Hampden-Sydney,0,0
+147,4,"Oct 12, 1912",Wesleyan (CT),7,Brown,6,1
+148,4,"Oct 12, 1912",Wisconsin,56,Northwestern,0,0
+149,4,"Oct 12, 1912",Yale,16,Lafayette,0,0
+150,4,"Oct 14, 1912",Virginia,19,South Carolina,0,0
+151,5,"Oct 18, 1912",Marion,57,Samford,0,1
+152,5,"Oct 18, 1912",Mississippi State,7,Alabama,0,0
+153,5,"Oct 18, 1912",Texas A&M,27,Arkansas,0,0
+154,5,"Oct 19, 1912",Clemson,6,Auburn,27,1
+155,5,"Oct 19, 1912",Pennsylvania,7,Brown,30,1
+156,5,"Oct 19, 1912",St. Bonaventure,7,Bucknell,39,1
+157,5,"Oct 19, 1912",Pitt,8,Carlisle,45,0
+158,5,"Oct 19, 1912",Chicago,34,Iowa,14,0
+159,5,"Oct 19, 1912",Citadel,66,Porter Military,0,0
+160,5,"Oct 19, 1912",Trinity (CT),7,Colgate,24,0
+161,5,"Oct 19, 1912",Colorado College,13,Colorado State,0,0
+162,5,"Oct 19, 1912",Colorado Mines,42,Wyoming,0,0
+163,5,"Oct 19, 1912",Dartmouth,21,Williams,0,1
+164,5,"Oct 19, 1912",Drake,6,Kansas,0,0
+165,5,"Oct 19, 1912",South Carolina,6,Florida,10,1
+166,5,"Oct 19, 1912",Georgetown,48,NC State,0,1
+167,5,"Oct 19, 1912",Mercer,6,Georgia Tech,16,0
+168,5,"Oct 19, 1912",Harvard,46,Amherst,0,0
+169,5,"Oct 19, 1912",Indiana,7,Illinois,13,1
+170,5,"Oct 19, 1912",Iowa State,29,Missouri,0,1
+171,5,"Oct 19, 1912",Emporia State,7,Kansas State,22,1
+172,5,"Oct 19, 1912",Lafayette,11,Ursinus,0,0
+173,5,"Oct 19, 1912",Lehigh,55,Haverford,0,0
+174,5,"Oct 19, 1912",Michigan,14,Ohio State,0,1
+175,5,"Oct 19, 1912",Minnesota,13,Nebraska,0,0
+176,5,"Oct 19, 1912",LSU,7,Ole Miss,10,0
+177,5,"Oct 19, 1912",North Carolina,47,Bingham,0,0
+178,5,"Oct 19, 1912",Texas,6,Oklahoma,21,1
+179,5,"Oct 19, 1912",Cornell,6,Penn State,29,0
+180,5,"Oct 19, 1912",Princeton,62,Syracuse,0,0
+181,5,"Oct 19, 1912",Sewanee,27,Chattanooga,0,0
+182,5,"Oct 19, 1912",St. Mary's (Texas),7,Southwestern (TX),32,1
+183,5,"Oct 19, 1912",Navy,6,Swarthmore,21,0
+184,5,"Oct 19, 1912",Tennessee,62,Tennessee Medical College,0,1
+185,5,"Oct 19, 1912",TCU,22,Baylor,0,0
+186,5,"Oct 19, 1912",Mississippi College,6,Tulane,19,1
+187,5,"Oct 19, 1912",Utah,66,Denver,0,0
+188,5,"Oct 19, 1912",Vanderbilt,46,Georgia,0,1
+189,5,"Oct 19, 1912",Virginia Military Institute,19,Virginia,0,1
+190,5,"Oct 19, 1912",Virginia Tech,44,Western Maryland,0,0
+191,5,"Oct 19, 1912",Washington & Jefferson,52,Carnegie Mellon,0,0
+192,5,"Oct 19, 1912",Washington & Lee,24,St. John's (Maryland),14,0
+193,5,"Oct 19, 1912",Washington (MO),54,Westminster (Missouri),0,0
+194,5,"Oct 19, 1912",Wisconsin,41,Purdue,0,0
+195,5,"Oct 19, 1912",Yale,6,Army,0,1
+196,6,"Oct 25, 1912",Missouri,14,Oklahoma,0,1
+197,6,"Oct 26, 1912",Colgate,7,Army,18,1
+198,6,"Oct 26, 1912",Auburn,7,Mississippi State,0,0
+199,6,"Oct 26, 1912",Baylor,7,Arkansas,0,0
+200,6,"Oct 26, 1912",Carlisle,34,Georgetown,20,1
+201,6,"Oct 26, 1912",Chicago,7,Purdue,0,0
+202,6,"Oct 26, 1912",Clemson,52,Citadel,14,0
+203,6,"Oct 26, 1912",Colorado,75,Wyoming,0,0
+204,6,"Oct 26, 1912",Colorado College,24,Nebraska Wesleyan,13,0
+205,6,"Oct 26, 1912",Cornell,14,Bucknell,0,0
+206,6,"Oct 26, 1912",Drake,28,Simpson,0,0
+207,6,"Oct 26, 1912",Alabama,9,Georgia,13,1
+208,6,"Oct 26, 1912",Florida,7,Georgia Tech,14,1
+209,6,"Oct 26, 1912",Harvard,30,Brown,10,0
+210,6,"Oct 26, 1912",Grinnell,7,Iowa State,31,1
+211,6,"Oct 26, 1912",Kansas State,6,Kansas,19,1
+212,6,"Oct 26, 1912",Lafayette,7,Pennsylvania,3,1
+213,6,"Oct 26, 1912",Lehigh,12,Ursinus,0,1
+214,6,"Oct 26, 1912",Gordon,6,Mercer,29,0
+215,6,"Oct 26, 1912",Iowa,7,Minnesota,56,1
+216,6,"Oct 26, 1912",Pitt,6,Navy,13,1
+217,6,"Oct 26, 1912",Nebraska,41,Adrian,0,0
+218,6,"Oct 26, 1912",NC State,7,Davidson,0,1
+219,6,"Oct 26, 1912",Indiana,7,Northwestern,20,0
+220,6,"Oct 26, 1912",Occidental,13,Denver,0,0
+221,6,"Oct 26, 1912",Penn State,25,Gettysburg,0,0
+222,6,"Oct 26, 1912",Dartmouth,7,Princeton,22,1
+223,6,"Oct 26, 1912",Tennessee,6,Sewanee,33,1
+224,6,"Oct 26, 1912",South Carolina,68,Charleston,0,1
+225,6,"Oct 26, 1912",Swarthmore,27,Villanova,0,0
+226,6,"Oct 26, 1912",Michigan,7,Syracuse,18,1
+227,6,"Oct 26, 1912",Haskell,7,Texas,14,1
+228,6,"Oct 26, 1912",Texas A&M,57,Austin,0,0
+229,6,"Oct 26, 1912",Tulane,35,Samford,0,0
+230,6,"Oct 26, 1912",Colorado Mines,3,Utah,18,0
+231,6,"Oct 26, 1912",Utah State,17,Montana,0,0
+232,6,"Oct 26, 1912",Vanderbilt,24,Ole Miss,0,0
+233,6,"Oct 26, 1912",Virginia,7,Norfolk Blues,0,0
+234,6,"Oct 26, 1912",Virginia Tech,26,North Carolina,0,1
+235,6,"Oct 26, 1912",Washington & Lee,20,Wake Forest,0,0
+236,6,"Oct 26, 1912",Missouri-Rolla,6,Washington (MO),13,1
+237,6,"Oct 26, 1912",Washington & Jefferson,3,Yale,13,1
+238,6,"Oct 28, 1912",Toronto All-Stars,7,Carlisle,49,0
+239,7,"Oct 31, 1912",Clemson,7,South Carolina,22,1
+240,7,"Nov 1, 1912",Ole Miss,12,Mississippi College,0,0
+241,7,"Nov 1, 1912",Navy,7,Western Reserve,0,0
+242,7,"Nov 2, 1912",Alabama,7,Tulane,0,1
+243,7,"Nov 2, 1912",Arkansas,25,Southwestern (TX),0,0
+244,7,"Nov 2, 1912",Georgia Tech,7,Auburn,27,0
+245,7,"Nov 2, 1912",Vermont,7,Brown,12,1
+246,7,"Nov 2, 1912",Lafayette,0,Bucknell,0,0
+247,7,"Nov 2, 1912",Carlisle,34,Lehigh,14,1
+248,7,"Nov 2, 1912",Colorado College,7,Colorado,10,0
+249,7,"Nov 2, 1912",Colorado Mines,14,Colorado State,0,0
+250,7,"Nov 2, 1912",Dartmouth,60,Amherst,0,0
+251,7,"Nov 2, 1912",Drake,33,Washington (MO),13,1
+252,7,"Nov 2, 1912",Georgetown,37,North Carolina,10,0
+253,7,"Nov 2, 1912",Princeton,6,Harvard,16,1
+254,7,"Nov 2, 1912",Haskell,12,Denver,10,1
+255,7,"Nov 2, 1912",Earlham,7,Indiana,33,1
+256,7,"Nov 2, 1912",Morningside,3,Iowa State,16,1
+257,7,"Nov 2, 1912",Kansas State,54,Wichita State,0,1
+258,7,"Nov 2, 1912",Mercer,71,Columbia College,0,0
+259,7,"Nov 2, 1912",Michigan,7,South Dakota,6,0
+260,7,"Nov 2, 1912",Minnesota,13,Illinois,0,0
+261,7,"Nov 2, 1912",Mississippi State,7,LSU,0,1
+262,7,"Nov 2, 1912",Nebraska,7,Missouri,0,1
+263,7,"Nov 2, 1912",NC State,12,Wake Forest,0,1
+264,7,"Nov 2, 1912",Notre Dame,3,Pitt,0,1
+265,7,"Nov 2, 1912",Oklahoma,6,Kansas,5,1
+266,7,"Nov 2, 1912",Penn State,14,Pennsylvania,0,1
+267,7,"Nov 2, 1912",Northwestern,6,Purdue,21,0
+268,7,"Nov 2, 1912",Georgia,13,Sewanee,13,0
+269,7,"Nov 2, 1912",Swarthmore,22,Ursinus,0,0
+270,7,"Nov 2, 1912",Syracuse,28,Rochester,0,0
+271,7,"Nov 2, 1912",Tennessee,67,Centre,0,0
+272,7,"Nov 2, 1912",Montana,3,Utah,10,1
+273,7,"Nov 2, 1912",Utah State,53,Wyoming,0,0
+274,7,"Nov 2, 1912",Vanderbilt,13,Virginia,0,0
+275,7,"Nov 2, 1912",Catholic,7,Villanova,20,0
+276,7,"Nov 2, 1912",Virginia Medical,10,Virginia Tech,0,1
+277,7,"Nov 2, 1912",Washington & Jefferson,33,Marietta,0,0
+278,7,"Nov 2, 1912",Washington & Lee,54,Davidson,0,0
+279,7,"Nov 2, 1912",Williams,24,Cornell,10,1
+280,7,"Nov 2, 1912",Wisconsin,30,Chicago,12,0
+281,7,"Nov 4, 1912",Florida,78,Charleston,0,0
+282,7,"Nov 4, 1912",Baylor,7,Texas,19,0
+283,8,"Nov 8, 1912",Emporia College,7,Kansas State,28,1
+284,8,"Nov 9, 1912",Ole Miss,9,Alabama,10,1
+285,8,"Nov 9, 1912",Auburn,7,LSU,0,0
+286,8,"Nov 9, 1912",Navy,7,Bucknell,17,0
+287,8,"Nov 9, 1912",Army,6,Carlisle,27,0
+288,8,"Nov 9, 1912",Chicago,3,Northwestern,0,0
+289,8,"Nov 9, 1912",Citadel,40,Charleston,0,0
+290,8,"Nov 9, 1912",Colgate,27,Rochester,0,0
+291,8,"Nov 9, 1912",Colorado,3,Utah,0,0
+292,8,"Nov 9, 1912",Colorado College,7,Colorado Mines,17,0
+293,8,"Nov 9, 1912",Dartmouth,24,Cornell,0,1
+294,8,"Nov 9, 1912",Denver,44,Baker,0,0
+295,8,"Nov 9, 1912",Georgetown,84,Washington (Maryland),0,0
+296,8,"Nov 9, 1912",Clemson,6,Georgia,27,1
+297,8,"Nov 9, 1912",Harvard,9,Vanderbilt,3,0
+298,8,"Nov 9, 1912",Purdue,9,Illinois,9,0
+299,8,"Nov 9, 1912",Indiana,6,Iowa,13,0
+300,8,"Nov 9, 1912",Iowa State,21,Cornell College,0,1
+301,8,"Nov 9, 1912",Lehigh,3,Swarthmore,0,1
+302,8,"Nov 9, 1912",Mercer,27,Tennessee,14,0
+303,8,"Nov 9, 1912",Mississippi College,14,Louisiana Tech,13,0
+304,8,"Nov 9, 1912",Missouri,17,Drake,14,1
+305,8,"Nov 9, 1912",Doane,6,Nebraska,54,1
+306,8,"Nov 9, 1912",Penn State,71,Villanova,0,0
+307,8,"Nov 9, 1912",Pennsylvania,27,Michigan,21,0
+308,8,"Nov 9, 1912",Pitt,64,Maryland-Baltimore,0,0
+309,8,"Nov 9, 1912",Princeton,54,New York University,0,0
+310,8,"Nov 9, 1912",Sewanee,7,Georgia Tech,0,1
+311,8,"Nov 9, 1912",North Carolina,6,South Carolina,6,0
+312,8,"Nov 9, 1912",Baylor,6,Southwestern (TX),13,0
+313,8,"Nov 9, 1912",Lafayette,7,Syracuse,30,0
+314,8,"Nov 9, 1912",Oklahoma,6,Texas A&M,28,1
+315,8,"Nov 9, 1912",Tulane,27,Mississippi State,24,0
+316,8,"Nov 9, 1912",Utah State,30,Utah State Alumni,0,0
+317,8,"Nov 9, 1912",Virginia Medical,23,Wake Forest,14,1
+318,8,"Nov 9, 1912",Washburn,10,Kansas,0,0
+319,8,"Nov 9, 1912",Washington & Jefferson,17,Western Reserve,0,1
+320,8,"Nov 9, 1912",Virginia Tech,6,Washington & Lee,20,1
+321,8,"Nov 9, 1912",Washington (MO),27,Drury,12,0
+322,8,"Nov 9, 1912",Arkansas,7,Wisconsin,64,1
+323,8,"Nov 9, 1912",South Dakota Mines,3,Wyoming,14,1
+324,8,"Nov 9, 1912",Yale,10,Brown,0,0
+325,9,"Nov 13, 1912",Texas,53,Ole Miss,14,0
+326,9,"Nov 15, 1912",Stetson,7,Florida,23,1
+327,9,"Nov 15, 1912",Southwestern (TX),32,Rice,0,0
+328,9,"Nov 16, 1912",Tufts,6,Army,15,1
+329,9,"Nov 16, 1912",Baylor,41,Trinity (Texas),0,0
+330,9,"Nov 16, 1912",Lafayette,7,Brown,21,1
+331,9,"Nov 16, 1912",Chicago,10,Illinois,0,1
+332,9,"Nov 16, 1912",Clemson,22,Mercer,13,1
+333,9,"Nov 16, 1912",Colgate,7,Syracuse,0,1
+334,9,"Nov 16, 1912",Colorado Mines,10,Denver,0,1
+335,9,"Nov 16, 1912",Georgetown,16,Virginia,13,0
+336,9,"Nov 16, 1912",Georgia,20,Georgia Tech,0,1
+337,9,"Nov 16, 1912",Grinnell,13,Drake,0,1
+338,9,"Nov 16, 1912",Harvard,3,Dartmouth,0,0
+339,9,"Nov 16, 1912",Iowa State,7,Iowa,20,0
+340,9,"Nov 16, 1912",Colorado,6,Kansas State,14,1
+341,9,"Nov 16, 1912",Tennessee,6,Kentucky,13,0
+342,9,"Nov 16, 1912",Lehigh,7,Muhlenberg,3,1
+343,9,"Nov 16, 1912",LSU,7,Arkansas,6,1
+344,9,"Nov 16, 1912",Cornell,7,Michigan,20,1
+345,9,"Nov 16, 1912",Tennessee Medical College,6,Ole Miss,47,0
+346,9,"Nov 16, 1912",Missouri,33,Washington (MO),0,0
+347,9,"Nov 16, 1912",Navy,41,NC State,0,0
+348,9,"Nov 16, 1912",Kansas,3,Nebraska,14,1
+349,9,"Nov 16, 1912",Oklahoma,16,Oklahoma State,0,0
+350,9,"Nov 16, 1912",Penn State,37,Ohio State,0,1
+351,9,"Nov 16, 1912",Pennsylvania,34,Carlisle,26,0
+352,9,"Nov 16, 1912",Alabama,6,Sewanee,6,0
+353,9,"Nov 16, 1912",South Carolina,66,Porter Military,0,0
+354,9,"Nov 16, 1912",Davidson,6,Stetson,21,0
+355,9,"Nov 16, 1912",Swarthmore,14,Bucknell,13,0
+356,9,"Nov 16, 1912",Mississippi State,7,Texas A&M,41,1
+357,9,"Nov 16, 1912",Utah,43,Colorado College,0,0
+358,9,"Nov 16, 1912",Logan All-Stars,7,Utah State,44,1
+359,9,"Nov 16, 1912",Vanderbilt,23,Centre,0,0
+360,9,"Nov 16, 1912",Villanova,23,Mount St. Mary's,0,1
+361,9,"Nov 16, 1912",Virginia Tech,41,West Virginia,0,0
+362,9,"Nov 16, 1912",Wake Forest,49,Horner,0,0
+363,9,"Nov 16, 1912",Washington & Jefferson,13,Pitt,0,1
+364,9,"Nov 16, 1912",Washington & Lee,31,North Carolina,0,1
+365,9,"Nov 16, 1912",Wisconsin,14,Minnesota,0,1
+366,9,"Nov 16, 1912",Wyoming,25,Chadron State,0,0
+367,9,"Nov 16, 1912",Princeton,6,Yale,6,0
+368,9,"Nov 17, 1912",Purdue,91,Rose-Hulman,0,0
+369,10,"Nov 19, 1912",Texas A&M,41,Tulane,0,0
+370,10,"Nov 20, 1912",Kansas State,13,Texas A&M,10,1
+371,10,"Nov 22, 1912",Samford,6,Birmingham,13,0
+372,10,"Nov 23, 1912",Washington (MO),7,Arkansas,13,0
+373,10,"Nov 23, 1912",Syracuse,7,Army,23,1
+374,10,"Nov 23, 1912",Norwich,7,Brown,21,1
+375,10,"Nov 23, 1912",Bucknell,35,Gettysburg,0,1
+376,10,"Nov 23, 1912",Carlisle,30,Springfield,24,1
+377,10,"Nov 23, 1912",Chicago,7,Minnesota,0,0
+378,10,"Nov 23, 1912",Colorado,3,Colorado Mines,24,0
+379,10,"Nov 23, 1912",Harvard,20,Yale,0,1
+380,10,"Nov 23, 1912",Drake,3,Iowa State,23,0
+381,10,"Nov 23, 1912",Missouri,3,Kansas,12,1
+382,10,"Nov 23, 1912",Kearney,41,Wyoming,25,1
+383,10,"Nov 23, 1912",Lehigh,10,Lafayette,0,1
+384,10,"Nov 23, 1912",Navy,39,New York University,0,0
+385,10,"Nov 23, 1912",Oklahoma,9,Nebraska,13,1
+386,10,"Nov 23, 1912",Northwestern,6,Illinois,0,0
+387,10,"Nov 23, 1912",Dickinson,0,Swarthmore,0,0
+388,10,"Nov 23, 1912",Southwestern (TX),3,Texas,28,1
+389,10,"Nov 23, 1912",Auburn,7,Vanderbilt,7,0
+390,10,"Nov 23, 1912",Washington & Jefferson,67,Bethany (West Virginia),0,0
+391,10,"Nov 23, 1912",Wisconsin,28,Iowa,10,1
+392,10,"Nov 24, 1912",Indiana,7,Purdue,34,1
+393,11,"Nov 28, 1912",Alabama,7,Tennessee,0,0
+394,11,"Nov 28, 1912",Carlisle,32,Brown,0,1
+395,11,"Nov 28, 1912",Colorado,14,Oklahoma,12,0
+396,11,"Nov 28, 1912",Colorado State,33,Wyoming,0,1
+397,11,"Nov 28, 1912",Wake Forest,7,Davidson,13,1
+398,11,"Nov 28, 1912",Colorado College,3,Denver,20,0
+399,11,"Nov 28, 1912",Virginia Tech,3,Georgetown,24,1
+400,11,"Nov 28, 1912",Auburn,6,Georgia,12,1
+401,11,"Nov 28, 1912",Georgia Tech,23,Clemson,0,0
+402,11,"Nov 28, 1912",Washburn,3,Kansas State,21,1
+403,11,"Nov 28, 1912",Lafayette,19,Dickinson,13,0
+404,11,"Nov 28, 1912",Lehigh,29,Franklin & Marshall,0,1
+405,11,"Nov 28, 1912",Tulane,3,LSU,21,0
+406,11,"Nov 28, 1912",Mercer,0,Florida,0,0
+407,11,"Nov 28, 1912",Penn State,38,Pitt,0,1
+408,11,"Nov 28, 1912",Pennsylvania,7,Cornell,2,0
+409,11,"Nov 28, 1912",South Carolina,26,Citadel,2,0
+410,11,"Nov 28, 1912",Texas,48,Arkansas,0,0
+411,11,"Nov 28, 1912",Texas A&M,53,Baylor,0,0
+412,11,"Nov 28, 1912",Utah,7,Utah State,7,0
+413,11,"Nov 28, 1912",Vanderbilt,16,Sewanee,0,0
+414,11,"Nov 28, 1912",Villanova,19,Fordham,0,1
+415,11,"Nov 28, 1912",Virginia,6,North Carolina,0,0
+416,11,"Nov 28, 1912",Bucknell,7,Washington & Jefferson,22,1
+417,11,"Nov 28, 1912",NC State,6,Washington & Lee,16,1
+418,11,"Nov 29, 1912",Mississippi College,20,Samford,0,0
+419,11,"Nov 30, 1912",Navy,6,Army,0,0
+420,12,"Dec 7, 1912",Colorado Mines,13,Pomona-Pitzer,0,1
+421,12,"Dec 7, 1912",Washington & Jefferson,35,Staats A.C.,0,0
+422,13,"Dec 14, 1912",Whittier,7,Colorado Mines,33,0
+423,14,"Dec 21, 1912",Florida,44,Tampa A.C.,0,1
+424,15,"Dec 25, 1912",Florida,27,Vedado A.C.,0,1

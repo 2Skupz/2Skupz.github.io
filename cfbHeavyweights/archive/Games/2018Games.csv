@@ -1,0 +1,884 @@
+0,1,"Aug 25, 2018",Hawaii,43,Colorado State,34,1
+1,1,"Aug 25, 2018",Massachusetts,63,Duquesne,15,0
+2,1,"Aug 25, 2018",Rice,31,Prairie View A&M,28,0
+3,1,"Aug 25, 2018",New Mexico State,7,Wyoming,29,0
+4,2,"Aug 30, 2018",UAB,52,Savannah State,0,0
+5,2,"Aug 30, 2018",Central Connecticut State,6,Ball State,42,1
+6,2,"Aug 30, 2018",California-Davis,44,San Jose State,38,1
+7,2,"Aug 30, 2018",UCF,56,Connecticut,17,1
+8,2,"Aug 30, 2018",Georgia State,24,Kennesaw State,20,0
+9,2,"Aug 30, 2018",Louisiana-Monroe,34,Southeastern Louisiana,31,0
+10,2,"Aug 30, 2018",Minnesota,48,New Mexico State,10,0
+11,2,"Aug 30, 2018",Northwestern,31,Purdue,27,1
+12,2,"Aug 30, 2018",Oklahoma State,58,Missouri State,17,0
+13,2,"Aug 30, 2018",Northwestern State,7,Texas A&M,59,1
+14,2,"Aug 30, 2018",Utah,41,Weber State,10,0
+15,2,"Aug 30, 2018",Wake Forest,23,Tulane,17,1
+16,2,"Aug 31, 2018",Colorado,45,Colorado State,13,0
+17,2,"Aug 31, 2018",Duke,34,Army,14,0
+18,2,"Aug 31, 2018",Eastern Michigan,51,Monmouth,17,0
+19,2,"Aug 31, 2018",Michigan State,38,Utah State,31,0
+20,2,"Aug 31, 2018",Nevada,72,Portland State,19,0
+21,2,"Aug 31, 2018",Stanford,31,San Diego State,10,0
+22,2,"Aug 31, 2018",Syracuse,55,Western Michigan,42,1
+23,2,"Aug 31, 2018",Wisconsin,34,Western Kentucky,3,0
+24,2,"Sep 1, 2018",Air Force,38,Stony Brook,0,0
+25,2,"Sep 1, 2018",Alabama,51,Louisville,14,0
+26,2,"Sep 1, 2018",UTSA,7,Arizona State,49,1
+27,2,"Sep 1, 2018",Arkansas,55,Eastern Illinois,20,0
+28,2,"Sep 1, 2018",Arkansas State,48,Southeast Missouri State,21,0
+29,2,"Sep 1, 2018",Auburn,21,Washington,16,0
+30,2,"Sep 1, 2018",Baylor,55,Abilene Christian,27,0
+31,2,"Sep 1, 2018",Boise State,56,Troy,20,1
+32,2,"Sep 1, 2018",Boston College,55,Massachusetts,21,0
+33,2,"Sep 1, 2018",BYU,28,Arizona,23,1
+34,2,"Sep 1, 2018",Buffalo,48,Delaware State,10,0
+35,2,"Sep 1, 2018",California,24,North Carolina,17,0
+36,2,"Sep 1, 2018",Charlotte,34,Fordham,10,0
+37,2,"Sep 1, 2018",Cincinnati,26,UCLA,17,1
+38,2,"Sep 1, 2018",Furman,7,Clemson,48,1
+39,2,"Sep 1, 2018",Charleston Southern,6,Florida,53,1
+40,2,"Sep 1, 2018",Fresno State,79,Idaho,13,0
+41,2,"Sep 1, 2018",Georgia,45,Austin Peay,0,0
+42,2,"Sep 1, 2018",South Carolina State,6,Georgia Southern,37,1
+43,2,"Sep 1, 2018",Georgia Tech,41,Alcorn State,0,0
+44,2,"Sep 1, 2018",Hawaii,59,Navy,41,0
+45,2,"Sep 1, 2018",Houston,45,Rice,27,1
+46,2,"Sep 1, 2018",Illinois,31,Kent State,24,0
+47,2,"Sep 1, 2018",Indiana,38,Florida Int'l,28,1
+48,2,"Sep 1, 2018",Northern Illinois,7,Iowa,33,1
+49,2,"Sep 1, 2018",Kansas State,27,South Dakota,24,0
+50,2,"Sep 1, 2018",Kentucky,35,Central Michigan,20,0
+51,2,"Sep 1, 2018",Liberty,52,Old Dominion,10,0
+52,2,"Sep 1, 2018",Louisiana,49,Grambling State,17,0
+53,2,"Sep 1, 2018",Louisiana Tech,30,South Alabama,26,1
+54,2,"Sep 1, 2018",Marshall,35,Miami (OH),28,1
+55,2,"Sep 1, 2018",Maryland,34,Texas,29,0
+56,2,"Sep 1, 2018",Memphis,66,Mercer,14,0
+57,2,"Sep 1, 2018",Ole Miss,47,Texas Tech,27,0
+58,2,"Sep 1, 2018",Mississippi State,63,Stephen F. Austin,6,0
+59,2,"Sep 1, 2018",Missouri,51,Tennessee-Martin,14,0
+60,2,"Sep 1, 2018",New Mexico,62,Incarnate Word,30,0
+61,2,"Sep 1, 2018",Nicholls State,26,Kansas,23,1
+62,2,"Sep 1, 2018",NC State,24,James Madison,13,0
+63,2,"Sep 1, 2018",North Texas,46,SMU,23,0
+64,2,"Sep 1, 2018",Northern Arizona,30,UTEP,10,1
+65,2,"Sep 1, 2018",Notre Dame,24,Michigan,17,0
+66,2,"Sep 1, 2018",Ohio,38,Howard,32,0
+67,2,"Sep 1, 2018",Ohio State,77,Oregon State,31,0
+68,2,"Sep 1, 2018",Oklahoma,63,Florida Atlantic,14,0
+69,2,"Sep 1, 2018",Oregon,58,Bowling Green,24,0
+70,2,"Sep 1, 2018",Penn State,45,Appalachian State,38,0
+71,2,"Sep 1, 2018",Albany,7,Pitt,33,1
+72,2,"Sep 1, 2018",Texas State,7,Rutgers,35,1
+73,2,"Sep 1, 2018",South Carolina,49,Coastal Carolina,15,0
+74,2,"Sep 1, 2018",South Florida,34,Elon,14,0
+75,2,"Sep 1, 2018",USC,43,UNLV,21,0
+76,2,"Sep 1, 2018",Jackson State,7,Southern Miss,55,1
+77,2,"Sep 1, 2018",Southern,7,TCU,55,1
+78,2,"Sep 1, 2018",Toledo,66,Virginia Military Institute,3,0
+79,2,"Sep 1, 2018",Tulsa,38,Central Arkansas,27,0
+80,2,"Sep 1, 2018",Middle Tennessee,7,Vanderbilt,35,1
+81,2,"Sep 1, 2018",Villanova,19,Temple,17,1
+82,2,"Sep 1, 2018",Virginia,42,Richmond,13,0
+83,2,"Sep 1, 2018",Washington State,41,Wyoming,19,1
+84,2,"Sep 1, 2018",West Virginia,40,Tennessee,14,0
+85,2,"Sep 2, 2018",LSU,33,Miami,17,0
+86,2,"Sep 2, 2018",North Carolina A&T,28,East Carolina,23,1
+87,2,"Sep 3, 2018",Florida State,3,Virginia Tech,24,0
+88,3,"Sep 7, 2018",TCU,42,SMU,12,1
+89,3,"Sep 8, 2018",Morgan State,7,Akron,41,1
+90,3,"Sep 8, 2018",Arkansas State,7,Alabama,57,1
+91,3,"Sep 8, 2018",Charlotte,9,Appalachian State,45,0
+92,3,"Sep 8, 2018",Arizona State,16,Michigan State,13,0
+93,3,"Sep 8, 2018",Army,38,Liberty,14,0
+94,3,"Sep 8, 2018",Alabama State,9,Auburn,63,1
+95,3,"Sep 8, 2018",Baylor,37,UTSA,20,1
+96,3,"Sep 8, 2018",Connecticut,7,Boise State,62,1
+97,3,"Sep 8, 2018",Boston College,62,Holy Cross,14,0
+98,3,"Sep 8, 2018",Buffalo,36,Temple,29,1
+99,3,"Sep 8, 2018",California,21,BYU,18,1
+100,3,"Sep 8, 2018",UCF,38,South Carolina State,0,0
+101,3,"Sep 8, 2018",Cincinnati,21,Miami (OH),0,1
+102,3,"Sep 8, 2018",Clemson,28,Texas A&M,26,1
+103,3,"Sep 8, 2018",Coastal Carolina,47,UAB,24,0
+104,3,"Sep 8, 2018",Colorado,33,Nebraska,28,1
+105,3,"Sep 8, 2018",Colorado State,34,Arkansas,27,0
+106,3,"Sep 8, 2018",Northwestern,7,Duke,21,0
+107,3,"Sep 8, 2018",East Carolina,41,North Carolina,19,0
+108,3,"Sep 8, 2018",Eastern Michigan,20,Purdue,19,1
+109,3,"Sep 8, 2018",Florida Atlantic,33,Air Force,27,0
+110,3,"Sep 8, 2018",Florida Int'l,28,Old Dominion,20,1
+111,3,"Sep 8, 2018",Florida State,36,Samford,26,0
+112,3,"Sep 8, 2018",Georgia,41,South Carolina,17,1
+113,3,"Sep 8, 2018",Georgia Southern,34,Massachusetts,13,0
+114,3,"Sep 8, 2018",Hawaii,43,Rice,29,0
+115,3,"Sep 8, 2018",Houston,45,Arizona,18,0
+116,3,"Sep 8, 2018",Illinois,34,Western Illinois,14,0
+117,3,"Sep 8, 2018",Indiana,20,Virginia,16,0
+118,3,"Sep 8, 2018",Iowa State,3,Iowa,13,1
+119,3,"Sep 8, 2018",Central Michigan,7,Kansas,31,0
+120,3,"Sep 8, 2018",Kent State,54,Howard,14,0
+121,3,"Sep 8, 2018",Kentucky,27,Florida,16,1
+122,3,"Sep 8, 2018",LSU,31,Southeastern Louisiana,0,0
+123,3,"Sep 8, 2018",Louisiana Tech,54,Southern,17,0
+124,3,"Sep 8, 2018",Louisiana-Monroe,21,Southern Miss,20,1
+125,3,"Sep 8, 2018",Indiana State,7,Louisville,31,1
+126,3,"Sep 8, 2018",Maine,31,Western Kentucky,28,1
+127,3,"Sep 8, 2018",Marshall,32,Eastern Kentucky,16,0
+128,3,"Sep 8, 2018",Maryland,45,Bowling Green,14,1
+129,3,"Sep 8, 2018",Miami,77,Savannah State,0,0
+130,3,"Sep 8, 2018",Michigan,49,Western Michigan,3,0
+131,3,"Sep 8, 2018",Middle Tennessee,61,Tennessee-Martin,37,0
+132,3,"Sep 8, 2018",Minnesota,21,Fresno State,14,0
+133,3,"Sep 8, 2018",Ole Miss,76,Southern Illinois,41,0
+134,3,"Sep 8, 2018",Mississippi State,31,Kansas State,10,1
+135,3,"Sep 8, 2018",Missouri,40,Wyoming,13,0
+136,3,"Sep 8, 2018",Navy,22,Memphis,21,0
+137,3,"Sep 8, 2018",UNLV,52,UTEP,24,0
+138,3,"Sep 8, 2018",Georgia State,7,NC State,41,1
+139,3,"Sep 8, 2018",North Texas,58,Incarnate Word,16,0
+140,3,"Sep 8, 2018",Notre Dame,24,Ball State,16,0
+141,3,"Sep 8, 2018",Ohio State,52,Rutgers,3,0
+142,3,"Sep 8, 2018",Oklahoma,49,UCLA,21,0
+143,3,"Sep 8, 2018",Oklahoma State,55,South Alabama,13,0
+144,3,"Sep 8, 2018",Oregon,62,Portland State,14,0
+145,3,"Sep 8, 2018",Oregon State,48,Southern Utah,25,0
+146,3,"Sep 8, 2018",Pitt,6,Penn State,51,0
+147,3,"Sep 8, 2018",San Diego State,28,Sacramento State,14,0
+148,3,"Sep 8, 2018",South Florida,49,Georgia Tech,38,0
+149,3,"Sep 8, 2018",USC,3,Stanford,17,1
+150,3,"Sep 8, 2018",Syracuse,62,Wagner,10,0
+151,3,"Sep 8, 2018",Tennessee,59,East Tennessee State,3,0
+152,3,"Sep 8, 2018",Texas,28,Tulsa,21,0
+153,3,"Sep 8, 2018",Texas State,36,Texas Southern,20,0
+154,3,"Sep 8, 2018",Texas Tech,77,Lamar,0,0
+155,3,"Sep 8, 2018",Florida A&M,7,Troy,59,1
+156,3,"Sep 8, 2018",Tulane,42,Nicholls State,17,0
+157,3,"Sep 8, 2018",Northern Illinois,6,Utah,17,0
+158,3,"Sep 8, 2018",Utah State,60,New Mexico State,13,0
+159,3,"Sep 8, 2018",Vanderbilt,41,Nevada,10,0
+160,3,"Sep 8, 2018",Virginia Tech,62,William & Mary,17,0
+161,3,"Sep 8, 2018",Wake Forest,51,Towson,20,0
+162,3,"Sep 8, 2018",Washington,45,North Dakota,3,0
+163,3,"Sep 8, 2018",Washington State,31,San Jose State,0,0
+164,3,"Sep 8, 2018",West Virginia,52,Youngstown State,17,0
+165,3,"Sep 8, 2018",Wisconsin,45,New Mexico,14,0
+166,4,"Sep 12, 2018",Coastal Carolina,58,Campbell,21,1
+167,4,"Sep 13, 2018",Boston College,41,Wake Forest,34,1
+168,4,"Sep 13, 2018",Charlotte,28,Old Dominion,25,0
+169,4,"Sep 13, 2018",Utah State,73,Tennessee Tech,12,0
+170,4,"Sep 14, 2018",Memphis,59,Georgia State,22,0
+171,4,"Sep 15, 2018",Akron,39,Northwestern,34,1
+172,4,"Sep 15, 2018",Ole Miss,7,Alabama,62,0
+173,4,"Sep 15, 2018",UAB,31,Tulane,24,0
+174,4,"Sep 15, 2018",Arizona,62,Southern Utah,31,0
+175,4,"Sep 15, 2018",Arkansas State,29,Tulsa,20,1
+176,4,"Sep 15, 2018",Army,28,Hawaii,21,0
+177,4,"Sep 15, 2018",Bowling Green,42,Eastern Kentucky,35,0
+178,4,"Sep 15, 2018",BYU,24,Wisconsin,21,1
+179,4,"Sep 15, 2018",Buffalo,35,Eastern Michigan,28,0
+180,4,"Sep 15, 2018",California,45,Idaho State,23,0
+181,4,"Sep 15, 2018",Alabama A&M,7,Cincinnati,63,1
+182,4,"Sep 15, 2018",Georgia Southern,7,Clemson,38,1
+183,4,"Sep 15, 2018",Colorado,45,New Hampshire,14,0
+184,4,"Sep 15, 2018",Connecticut,56,Rhode Island,49,0
+185,4,"Sep 15, 2018",Duke,40,Baylor,27,1
+186,4,"Sep 15, 2018",Florida,48,Colorado State,10,0
+187,4,"Sep 15, 2018",Florida Atlantic,49,Bethune-Cookman,28,0
+188,4,"Sep 15, 2018",Florida Int'l,63,Massachusetts,24,0
+189,4,"Sep 15, 2018",Fresno State,38,UCLA,14,1
+190,4,"Sep 15, 2018",Middle Tennessee,7,Georgia,49,1
+191,4,"Sep 15, 2018",Indiana,38,Ball State,10,0
+192,4,"Sep 15, 2018",Iowa,38,Northern Iowa,14,0
+193,4,"Sep 15, 2018",Kansas,55,Rutgers,14,0
+194,4,"Sep 15, 2018",Kansas State,41,UTSA,17,0
+195,4,"Sep 15, 2018",Kentucky,48,Murray State,10,0
+196,4,"Sep 15, 2018",LSU,22,Auburn,21,1
+197,4,"Sep 15, 2018",Louisville,20,Western Kentucky,17,0
+198,4,"Sep 15, 2018",Miami,49,Toledo,24,1
+199,4,"Sep 15, 2018",Michigan,45,SMU,20,0
+200,4,"Sep 15, 2018",Miami (OH),3,Minnesota,26,1
+201,4,"Sep 15, 2018",Mississippi State,56,Louisiana,10,0
+202,4,"Sep 15, 2018",Missouri,40,Purdue,37,1
+203,4,"Sep 15, 2018",Navy,51,Lehigh,21,0
+204,4,"Sep 15, 2018",Nevada,37,Oregon State,35,0
+205,4,"Sep 15, 2018",UNLV,46,Prairie View A&M,17,0
+206,4,"Sep 15, 2018",New Mexico,42,New Mexico State,25,1
+207,4,"Sep 15, 2018",North Texas,44,Arkansas,17,1
+208,4,"Sep 15, 2018",Northern Illinois,24,Central Michigan,16,0
+209,4,"Sep 15, 2018",Notre Dame,22,Vanderbilt,17,0
+210,4,"Sep 15, 2018",Ohio State,40,TCU,28,0
+211,4,"Sep 15, 2018",Oklahoma,37,Iowa State,27,1
+212,4,"Sep 15, 2018",Oklahoma State,44,Boise State,21,0
+213,4,"Sep 15, 2018",Oregon,35,San Jose State,22,0
+214,4,"Sep 15, 2018",Penn State,63,Kent State,10,0
+215,4,"Sep 15, 2018",Pitt,24,Georgia Tech,19,0
+216,4,"Sep 15, 2018",San Diego State,28,Arizona State,21,0
+217,4,"Sep 15, 2018",South Alabama,41,Texas State,31,0
+218,4,"Sep 15, 2018",South Florida,25,Illinois,19,0
+219,4,"Sep 15, 2018",Stanford,30,California-Davis,10,0
+220,4,"Sep 15, 2018",Florida State,7,Syracuse,30,1
+221,4,"Sep 15, 2018",Temple,35,Maryland,14,1
+222,4,"Sep 15, 2018",Tennessee,24,UTEP,0,0
+223,4,"Sep 15, 2018",Texas,37,USC,14,0
+224,4,"Sep 15, 2018",Texas A&M,48,Louisiana-Monroe,10,0
+225,4,"Sep 15, 2018",Texas Tech,63,Houston,49,0
+226,4,"Sep 15, 2018",Troy,24,Nebraska,19,1
+227,4,"Sep 15, 2018",Virginia,45,Ohio,31,0
+228,4,"Sep 15, 2018",Utah,7,Washington,21,0
+229,4,"Sep 15, 2018",Washington State,59,Eastern Washington,24,0
+230,4,"Sep 15, 2018",Western Michigan,68,Delaware State,0,0
+231,4,"Sep 15, 2018",Wyoming,17,Wofford,14,0
+232,5,"Sep 20, 2018",Temple,31,Tulsa,17,0
+233,5,"Sep 21, 2018",UCF,56,Florida Atlantic,36,0
+234,5,"Sep 21, 2018",Penn State,63,Illinois,24,1
+235,5,"Sep 21, 2018",USC,39,Washington State,36,0
+236,5,"Sep 22, 2018",Alabama,45,Texas A&M,23,0
+237,5,"Sep 22, 2018",Appalachian State,72,Gardner-Webb,7,0
+238,5,"Sep 22, 2018",Arizona,35,Oregon State,14,1
+239,5,"Sep 22, 2018",Arkansas State,27,UNLV,20,0
+240,5,"Sep 22, 2018",Auburn,34,Arkansas,3,0
+241,5,"Sep 22, 2018",Kansas,7,Baylor,26,1
+242,5,"Sep 22, 2018",BYU,30,McNeese State,3,0
+243,5,"Sep 22, 2018",Buffalo,42,Rutgers,13,1
+244,5,"Sep 22, 2018",Maine,5,Central Michigan,17,1
+245,5,"Sep 22, 2018",Cincinnati,34,Ohio,30,0
+246,5,"Sep 22, 2018",Clemson,49,Georgia Tech,21,1
+247,5,"Sep 22, 2018",Coastal Carolina,30,Louisiana,28,1
+248,5,"Sep 22, 2018",Duke,55,North Carolina Central,13,0
+249,5,"Sep 22, 2018",Florida,47,Tennessee,21,1
+250,5,"Sep 22, 2018",Florida State,37,Northern Illinois,19,0
+251,5,"Sep 22, 2018",Georgia,43,Missouri,29,1
+252,5,"Sep 22, 2018",Hawaii,42,Duquesne,21,0
+253,5,"Sep 22, 2018",Houston,70,Texas Southern,14,0
+254,5,"Sep 22, 2018",Illinois State,35,Colorado State,19,1
+255,5,"Sep 22, 2018",Iowa State,26,Akron,13,0
+256,5,"Sep 22, 2018",Mississippi State,7,Kentucky,28,1
+257,5,"Sep 22, 2018",LSU,38,Louisiana Tech,21,0
+258,5,"Sep 22, 2018",Maryland,42,Minnesota,13,0
+259,5,"Sep 22, 2018",Massachusetts,49,Charlotte,31,0
+260,5,"Sep 22, 2018",Memphis,52,South Alabama,35,0
+261,5,"Sep 22, 2018",Miami,31,Florida Int'l,17,0
+262,5,"Sep 22, 2018",Miami (OH),38,Bowling Green,23,1
+263,5,"Sep 22, 2018",Michigan,56,Nebraska,10,0
+264,5,"Sep 22, 2018",Michigan State,35,Indiana,21,1
+265,5,"Sep 22, 2018",Ole Miss,38,Kent State,17,0
+266,5,"Sep 22, 2018",New Mexico State,27,UTEP,20,1
+267,5,"Sep 22, 2018",North Carolina,38,Pitt,35,0
+268,5,"Sep 22, 2018",NC State,37,Marshall,20,1
+269,5,"Sep 22, 2018",Liberty,7,North Texas,47,0
+270,5,"Sep 22, 2018",Notre Dame,56,Wake Forest,27,1
+271,5,"Sep 22, 2018",Tulane,6,Ohio State,49,1
+272,5,"Sep 22, 2018",Oklahoma,28,Army,21,0
+273,5,"Sep 22, 2018",Old Dominion,49,Virginia Tech,35,0
+274,5,"Sep 22, 2018",Purdue,30,Boston College,13,0
+275,5,"Sep 22, 2018",San Diego State,23,Eastern Michigan,20,0
+276,5,"Sep 22, 2018",South Carolina,37,Vanderbilt,14,1
+277,5,"Sep 22, 2018",South Florida,20,East Carolina,13,0
+278,5,"Sep 22, 2018",SMU,31,Navy,30,0
+279,5,"Sep 22, 2018",Southern Miss,40,Rice,22,0
+280,5,"Sep 22, 2018",Stanford,38,Oregon,31,1
+281,5,"Sep 22, 2018",Syracuse,51,Connecticut,21,0
+282,5,"Sep 22, 2018",Texas,31,TCU,16,0
+283,5,"Sep 22, 2018",Texas Tech,41,Oklahoma State,17,1
+284,5,"Sep 22, 2018",UTSA,25,Texas State,21,0
+285,5,"Sep 22, 2018",Toledo,63,Nevada,44,0
+286,5,"Sep 22, 2018",Troy,35,Louisiana-Monroe,27,1
+287,5,"Sep 22, 2018",Utah State,42,Air Force,32,0
+288,5,"Sep 22, 2018",Louisville,3,Virginia,27,1
+289,5,"Sep 22, 2018",Washington,27,Arizona State,20,0
+290,5,"Sep 22, 2018",Kansas State,6,West Virginia,35,1
+291,5,"Sep 22, 2018",Western Kentucky,28,Ball State,20,1
+292,5,"Sep 22, 2018",Western Michigan,34,Georgia State,15,1
+293,5,"Sep 22, 2018",Wisconsin,28,Iowa,17,1
+294,6,"Sep 27, 2018",Miami,47,North Carolina,10,0
+295,6,"Sep 28, 2018",Colorado,38,UCLA,16,0
+296,6,"Sep 28, 2018",Tulane,40,Memphis,24,0
+297,6,"Sep 29, 2018",Alabama,56,Louisiana,14,0
+298,6,"Sep 29, 2018",Charlotte,7,UAB,28,1
+299,6,"Sep 29, 2018",South Alabama,7,Appalachian State,52,1
+300,6,"Sep 29, 2018",Arizona State,52,Oregon State,24,0
+301,6,"Sep 29, 2018",Army,42,Buffalo,13,1
+302,6,"Sep 29, 2018",Auburn,24,Southern Miss,13,0
+303,6,"Sep 29, 2018",Ball State,52,Kent State,24,0
+304,6,"Sep 29, 2018",Boise State,34,Wyoming,14,1
+305,6,"Sep 29, 2018",Boston College,45,Temple,35,0
+306,6,"Sep 29, 2018",UCF,45,Pitt,14,0
+307,6,"Sep 29, 2018",Connecticut,7,Cincinnati,49,0
+308,6,"Sep 29, 2018",Clemson,27,Syracuse,23,0
+309,6,"Sep 29, 2018",East Carolina,37,Old Dominion,35,0
+310,6,"Sep 29, 2018",Mississippi State,6,Florida,13,0
+311,6,"Sep 29, 2018",Arkansas-Pine Bluff,9,Florida Int'l,55,1
+312,6,"Sep 29, 2018",Florida State,28,Louisville,24,1
+313,6,"Sep 29, 2018",Fresno State,49,Toledo,27,0
+314,6,"Sep 29, 2018",Georgia,38,Tennessee,12,0
+315,6,"Sep 29, 2018",Georgia Southern,28,Arkansas State,21,0
+316,6,"Sep 29, 2018",Georgia State,46,Louisiana-Monroe,14,0
+317,6,"Sep 29, 2018",Georgia Tech,63,Bowling Green,17,0
+318,6,"Sep 29, 2018",Hawaii,44,San Jose State,41,1
+319,6,"Sep 29, 2018",Indiana,24,Rutgers,17,1
+320,6,"Sep 29, 2018",Kentucky,24,South Carolina,10,0
+321,6,"Sep 29, 2018",Liberty,52,New Mexico,43,1
+322,6,"Sep 29, 2018",LSU,45,Ole Miss,16,0
+323,6,"Sep 29, 2018",Louisiana Tech,29,North Texas,27,1
+324,6,"Sep 29, 2018",Marshall,20,Western Kentucky,17,1
+325,6,"Sep 29, 2018",Michigan,20,Northwestern,17,1
+326,6,"Sep 29, 2018",Michigan State,31,Central Michigan,20,0
+327,6,"Sep 29, 2018",Middle Tennessee,25,Florida Atlantic,24,0
+328,6,"Sep 29, 2018",Nevada,28,Air Force,25,1
+329,6,"Sep 29, 2018",NC State,35,Virginia,21,0
+330,6,"Sep 29, 2018",Northern Illinois,26,Eastern Michigan,23,1
+331,6,"Sep 29, 2018",Notre Dame,38,Stanford,17,0
+332,6,"Sep 29, 2018",Ohio,58,Massachusetts,42,0
+333,6,"Sep 29, 2018",Ohio State,27,Penn State,26,1
+334,6,"Sep 29, 2018",Oklahoma,66,Baylor,33,0
+335,6,"Sep 29, 2018",Oklahoma State,48,Kansas,28,1
+336,6,"Sep 29, 2018",Oregon,42,California,24,1
+337,6,"Sep 29, 2018",Purdue,42,Nebraska,28,1
+338,6,"Sep 29, 2018",USC,24,Arizona,20,1
+339,6,"Sep 29, 2018",SMU,63,Houston Baptist,27,0
+340,6,"Sep 29, 2018",Texas,19,Kansas State,14,1
+341,6,"Sep 29, 2018",Texas A&M,24,Arkansas,17,0
+342,6,"Sep 29, 2018",TCU,17,Iowa State,14,0
+343,6,"Sep 29, 2018",UTSA,30,UTEP,21,0
+344,6,"Sep 29, 2018",Troy,45,Coastal Carolina,21,0
+345,6,"Sep 29, 2018",Vanderbilt,31,Tennessee State,27,0
+346,6,"Sep 29, 2018",Virginia Tech,31,Duke,14,1
+347,6,"Sep 29, 2018",Wake Forest,56,Rice,24,0
+348,6,"Sep 29, 2018",BYU,7,Washington,35,1
+349,6,"Sep 29, 2018",Washington State,28,Utah,24,0
+350,6,"Sep 29, 2018",West Virginia,42,Texas Tech,34,1
+351,6,"Sep 29, 2018",Western Michigan,40,Miami (OH),39,1
+352,7,"Oct 4, 2018",Houston,41,Tulsa,26,0
+353,7,"Oct 4, 2018",Troy,37,Georgia State,20,0
+354,7,"Oct 5, 2018",Georgia Tech,66,Louisville,31,1
+355,7,"Oct 5, 2018",Middle Tennessee,34,Marshall,24,1
+356,7,"Oct 5, 2018",Utah State,45,BYU,20,1
+357,7,"Oct 6, 2018",Navy,7,Air Force,35,1
+358,7,"Oct 6, 2018",Alabama,65,Arkansas,31,1
+359,7,"Oct 6, 2018",Louisiana Tech,7,UAB,28,0
+360,7,"Oct 6, 2018",Arizona,24,California,17,0
+361,7,"Oct 6, 2018",Baylor,37,Kansas State,34,0
+362,7,"Oct 6, 2018",Buffalo,34,Central Michigan,24,1
+363,7,"Oct 6, 2018",UCF,48,SMU,20,0
+364,7,"Oct 6, 2018",Cincinnati,37,Tulane,21,0
+365,7,"Oct 6, 2018",Clemson,63,Wake Forest,3,1
+366,7,"Oct 6, 2018",Colorado,28,Arizona State,21,0
+367,7,"Oct 6, 2018",Colorado State,42,San Jose State,30,1
+368,7,"Oct 6, 2018",Florida,27,LSU,19,0
+369,7,"Oct 6, 2018",Florida Atlantic,52,Old Dominion,33,0
+370,7,"Oct 6, 2018",Nevada,3,Fresno State,21,0
+371,7,"Oct 6, 2018",Georgia,41,Vanderbilt,13,0
+372,7,"Oct 6, 2018",Georgia Southern,48,South Alabama,13,0
+373,7,"Oct 6, 2018",Hawaii,17,Wyoming,13,0
+374,7,"Oct 6, 2018",Illinois,38,Rutgers,17,1
+375,7,"Oct 6, 2018",Iowa,48,Minnesota,31,1
+376,7,"Oct 6, 2018",Iowa State,48,Oklahoma State,42,1
+377,7,"Oct 6, 2018",Louisiana,42,Texas State,27,1
+378,7,"Oct 6, 2018",Memphis,55,Connecticut,14,0
+379,7,"Oct 6, 2018",Miami,28,Florida State,27,0
+380,7,"Oct 6, 2018",Miami (OH),41,Akron,17,1
+381,7,"Oct 6, 2018",Michigan,42,Maryland,21,0
+382,7,"Oct 6, 2018",Ole Miss,70,Louisiana-Monroe,21,0
+383,7,"Oct 6, 2018",Auburn,9,Mississippi State,23,1
+384,7,"Oct 6, 2018",New Mexico,50,UNLV,14,1
+385,7,"Oct 6, 2018",New Mexico State,49,Liberty,41,0
+386,7,"Oct 6, 2018",NC State,28,Boston College,23,0
+387,7,"Oct 6, 2018",North Texas,27,UTEP,24,1
+388,7,"Oct 6, 2018",Northern Illinois,24,Ball State,16,1
+389,7,"Oct 6, 2018",Northwestern,29,Michigan State,19,1
+390,7,"Oct 6, 2018",Notre Dame,45,Virginia Tech,23,1
+391,7,"Oct 6, 2018",Ohio,27,Kent State,26,1
+392,7,"Oct 6, 2018",Ohio State,49,Indiana,26,0
+393,7,"Oct 6, 2018",Pitt,44,Syracuse,37,0
+394,7,"Oct 6, 2018",San Diego State,19,Boise State,13,1
+395,7,"Oct 6, 2018",South Carolina,37,Missouri,35,0
+396,7,"Oct 6, 2018",South Florida,58,Massachusetts,42,1
+397,7,"Oct 6, 2018",East Carolina,6,Temple,49,1
+398,7,"Oct 6, 2018",Texas,48,Oklahoma,45,0
+399,7,"Oct 6, 2018",Texas A&M,20,Kentucky,14,0
+400,7,"Oct 6, 2018",Rice,3,UTSA,20,0
+401,7,"Oct 6, 2018",Toledo,52,Bowling Green,36,0
+402,7,"Oct 6, 2018",Utah,40,Stanford,21,1
+403,7,"Oct 6, 2018",Washington,31,UCLA,24,1
+404,7,"Oct 6, 2018",Washington State,56,Oregon State,37,1
+405,7,"Oct 6, 2018",West Virginia,38,Kansas,22,0
+406,7,"Oct 6, 2018",Western Michigan,27,Eastern Michigan,24,0
+407,7,"Oct 6, 2018",Wisconsin,41,Nebraska,24,0
+408,8,"Oct 9, 2018",Arkansas State,9,Appalachian State,35,0
+409,8,"Oct 11, 2018",Georgia Southern,15,Texas State,13,1
+410,8,"Oct 11, 2018",Texas Tech,17,TCU,14,1
+411,8,"Oct 12, 2018",San Diego State,21,Air Force,17,0
+412,8,"Oct 12, 2018",South Florida,25,Tulsa,24,1
+413,8,"Oct 12, 2018",Utah,42,Arizona,10,0
+414,8,"Oct 13, 2018",Alabama,39,Missouri,10,0
+415,8,"Oct 13, 2018",UAB,42,Rice,0,1
+416,8,"Oct 13, 2018",Army,52,San Jose State,3,0
+417,8,"Oct 13, 2018",Ball State,24,Central Michigan,23,1
+418,8,"Oct 13, 2018",Boise State,31,Nevada,27,1
+419,8,"Oct 13, 2018",Boston College,38,Louisville,20,0
+420,8,"Oct 13, 2018",BYU,49,Hawaii,23,0
+421,8,"Oct 13, 2018",Akron,6,Buffalo,24,1
+422,8,"Oct 13, 2018",UCF,31,Memphis,30,1
+423,8,"Oct 13, 2018",Charlotte,40,Western Kentucky,14,0
+424,8,"Oct 13, 2018",Colorado State,20,New Mexico,18,0
+425,8,"Oct 13, 2018",Duke,28,Georgia Tech,14,1
+426,8,"Oct 13, 2018",Eastern Michigan,28,Toledo,26,0
+427,8,"Oct 13, 2018",Florida,37,Vanderbilt,27,1
+428,8,"Oct 13, 2018",Florida Int'l,24,Middle Tennessee,21,0
+429,8,"Oct 13, 2018",Wyoming,3,Fresno State,27,1
+430,8,"Oct 13, 2018",Houston,42,East Carolina,20,1
+431,8,"Oct 13, 2018",Iowa,42,Indiana,16,1
+432,8,"Oct 13, 2018",Iowa State,30,West Virginia,14,0
+433,8,"Oct 13, 2018",Kansas State,31,Oklahoma State,12,0
+434,8,"Oct 13, 2018",Liberty,22,Troy,16,0
+435,8,"Oct 13, 2018",Louisiana,66,New Mexico State,38,0
+436,8,"Oct 13, 2018",LSU,36,Georgia,16,0
+437,8,"Oct 13, 2018",Louisiana Tech,31,UTSA,3,1
+438,8,"Oct 13, 2018",Louisiana-Monroe,45,Coastal Carolina,20,1
+439,8,"Oct 13, 2018",Marshall,42,Old Dominion,20,1
+440,8,"Oct 13, 2018",Rutgers,7,Maryland,34,1
+441,8,"Oct 13, 2018",Kent State,6,Miami (OH),31,1
+442,8,"Oct 13, 2018",Michigan,38,Wisconsin,13,0
+443,8,"Oct 13, 2018",Michigan State,21,Penn State,17,1
+444,8,"Oct 13, 2018",Ole Miss,37,Arkansas,33,1
+445,8,"Oct 13, 2018",Southern Miss,7,North Texas,30,1
+446,8,"Oct 13, 2018",Northern Illinois,24,Ohio,21,0
+447,8,"Oct 13, 2018",Northwestern,34,Nebraska,31,0
+448,8,"Oct 13, 2018",Notre Dame,19,Pitt,14,0
+449,8,"Oct 13, 2018",Ohio State,30,Minnesota,14,0
+450,8,"Oct 13, 2018",Oregon,30,Washington,27,0
+451,8,"Oct 13, 2018",Illinois,7,Purdue,46,0
+452,8,"Oct 13, 2018",Alabama State,7,South Alabama,45,1
+453,8,"Oct 13, 2018",USC,31,Colorado,20,0
+454,8,"Oct 13, 2018",Temple,24,Navy,17,1
+455,8,"Oct 13, 2018",Tennessee,30,Auburn,24,1
+456,8,"Oct 13, 2018",Texas,23,Baylor,17,0
+457,8,"Oct 13, 2018",Texas A&M,26,South Carolina,23,1
+458,8,"Oct 13, 2018",California,7,UCLA,37,0
+459,8,"Oct 13, 2018",Utah State,59,UNLV,28,0
+460,8,"Oct 13, 2018",Virginia,16,Miami,13,0
+461,8,"Oct 13, 2018",Virginia Tech,22,North Carolina,19,1
+462,8,"Oct 13, 2018",Western Michigan,42,Bowling Green,35,1
+463,9,"Oct 18, 2018",Arkansas State,51,Georgia State,35,0
+464,9,"Oct 18, 2018",Stanford,20,Arizona State,13,1
+465,9,"Oct 19, 2018",Air Force,41,UNLV,35,1
+466,9,"Oct 19, 2018",Boise State,56,Colorado State,28,0
+467,9,"Oct 20, 2018",Akron,24,Kent State,23,1
+468,9,"Oct 20, 2018",Alabama,58,Tennessee,21,1
+469,9,"Oct 20, 2018",UAB,29,North Texas,21,0
+470,9,"Oct 20, 2018",Appalachian State,27,Louisiana,17,0
+471,9,"Oct 20, 2018",Arkansas,23,Tulsa,0,0
+472,9,"Oct 20, 2018",Army,31,Miami (OH),30,0
+473,9,"Oct 20, 2018",Auburn,31,Ole Miss,16,1
+474,9,"Oct 20, 2018",Buffalo,31,Toledo,17,1
+475,9,"Oct 20, 2018",Oregon State,7,California,49,0
+476,9,"Oct 20, 2018",UCF,37,East Carolina,10,1
+477,9,"Oct 20, 2018",NC State,7,Clemson,41,1
+478,9,"Oct 20, 2018",Coastal Carolina,24,Massachusetts,13,1
+479,9,"Oct 20, 2018",Eastern Michigan,42,Ball State,20,1
+480,9,"Oct 20, 2018",Florida Int'l,36,Rice,17,0
+481,9,"Oct 20, 2018",Florida State,38,Wake Forest,17,0
+482,9,"Oct 20, 2018",New Mexico,7,Fresno State,38,0
+483,9,"Oct 20, 2018",Georgia Southern,48,New Mexico State,31,1
+484,9,"Oct 20, 2018",Houston,49,Navy,36,1
+485,9,"Oct 20, 2018",Iowa,23,Maryland,0,0
+486,9,"Oct 20, 2018",Vanderbilt,7,Kentucky,14,1
+487,9,"Oct 20, 2018",Liberty,48,Idaho State,41,0
+488,9,"Oct 20, 2018",Mississippi State,3,LSU,19,1
+489,9,"Oct 20, 2018",Louisiana Tech,31,UTEP,24,0
+490,9,"Oct 20, 2018",Louisiana-Monroe,20,Texas State,14,0
+491,9,"Oct 20, 2018",Florida Atlantic,7,Marshall,31,1
+492,9,"Oct 20, 2018",Michigan State,7,Michigan,21,0
+493,9,"Oct 20, 2018",Middle Tennessee,21,Charlotte,13,0
+494,9,"Oct 20, 2018",Missouri,65,Memphis,33,0
+495,9,"Oct 20, 2018",Nebraska,53,Minnesota,28,0
+496,9,"Oct 20, 2018",Nevada,40,Hawaii,22,1
+497,9,"Oct 20, 2018",Northwestern,18,Rutgers,15,1
+498,9,"Oct 20, 2018",Ohio,49,Bowling Green,14,0
+499,9,"Oct 20, 2018",Oklahoma,52,TCU,27,1
+500,9,"Oct 20, 2018",Old Dominion,37,Western Kentucky,34,1
+501,9,"Oct 20, 2018",Penn State,33,Indiana,28,1
+502,9,"Oct 20, 2018",Purdue,49,Ohio State,20,0
+503,9,"Oct 20, 2018",San Diego State,16,San Jose State,13,0
+504,9,"Oct 20, 2018",South Florida,38,Connecticut,30,0
+505,9,"Oct 20, 2018",SMU,27,Tulane,23,1
+506,9,"Oct 20, 2018",Southern Miss,27,UTSA,17,0
+507,9,"Oct 20, 2018",Syracuse,40,North Carolina,37,0
+508,9,"Oct 20, 2018",Temple,24,Cincinnati,17,0
+509,9,"Oct 20, 2018",Texas Tech,48,Kansas,16,0
+510,9,"Oct 20, 2018",UCLA,31,Arizona,30,0
+511,9,"Oct 20, 2018",Utah,41,USC,28,0
+512,9,"Oct 20, 2018",Utah State,24,Wyoming,16,1
+513,9,"Oct 20, 2018",Virginia,28,Duke,14,1
+514,9,"Oct 20, 2018",Washington,27,Colorado,13,0
+515,9,"Oct 20, 2018",Washington State,34,Oregon,20,0
+516,9,"Oct 20, 2018",Western Michigan,35,Central Michigan,10,1
+517,9,"Oct 20, 2018",Wisconsin,49,Illinois,20,0
+518,10,"Oct 23, 2018",Troy,38,South Alabama,17,1
+519,10,"Oct 25, 2018",Georgia Southern,34,Appalachian State,14,0
+520,10,"Oct 25, 2018",Georgia Tech,49,Virginia Tech,28,1
+521,10,"Oct 25, 2018",Ohio,52,Ball State,14,0
+522,10,"Oct 25, 2018",Toledo,51,Western Michigan,24,1
+523,10,"Oct 25, 2018",West Virginia,58,Baylor,14,0
+524,10,"Oct 26, 2018",Boston College,27,Miami,14,0
+525,10,"Oct 26, 2018",Louisiana Tech,21,Florida Atlantic,13,1
+526,10,"Oct 26, 2018",Minnesota,38,Indiana,31,0
+527,10,"Oct 26, 2018",Utah,41,UCLA,10,1
+528,10,"Oct 26, 2018",Wyoming,34,Colorado State,21,1
+529,10,"Oct 27, 2018",Akron,17,Central Michigan,10,0
+530,10,"Oct 27, 2018",UAB,19,UTEP,0,1
+531,10,"Oct 27, 2018",Arizona,44,Oregon,15,0
+532,10,"Oct 27, 2018",Arizona State,38,USC,35,1
+533,10,"Oct 27, 2018",Army,37,Eastern Michigan,22,1
+534,10,"Oct 27, 2018",Boise State,48,Air Force,38,1
+535,10,"Oct 27, 2018",California,12,Washington,10,0
+536,10,"Oct 27, 2018",Charlotte,20,Southern Miss,17,0
+537,10,"Oct 27, 2018",Cincinnati,26,SMU,20,1
+538,10,"Oct 27, 2018",Clemson,59,Florida State,10,1
+539,10,"Oct 27, 2018",Coastal Carolina,37,Georgia State,34,1
+540,10,"Oct 27, 2018",Florida Int'l,38,Western Kentucky,17,1
+541,10,"Oct 27, 2018",Fresno State,50,Hawaii,20,0
+542,10,"Oct 27, 2018",Georgia,36,Florida,17,0
+543,10,"Oct 27, 2018",Houston,57,South Florida,36,0
+544,10,"Oct 27, 2018",Iowa State,40,Texas Tech,31,0
+545,10,"Oct 27, 2018",Kansas,27,TCU,26,0
+546,10,"Oct 27, 2018",Kentucky,15,Missouri,14,1
+547,10,"Oct 27, 2018",Louisiana,47,Arkansas State,43,0
+548,10,"Oct 27, 2018",Maryland,63,Illinois,33,0
+549,10,"Oct 27, 2018",Massachusetts,22,Connecticut,17,1
+550,10,"Oct 27, 2018",Michigan State,23,Purdue,13,0
+551,10,"Oct 27, 2018",Middle Tennessee,51,Old Dominion,17,1
+552,10,"Oct 27, 2018",Mississippi State,28,Texas A&M,13,0
+553,10,"Oct 27, 2018",Bethune-Cookman,9,Nebraska,45,1
+554,10,"Oct 27, 2018",Nevada,28,San Diego State,24,0
+555,10,"Oct 27, 2018",North Texas,41,Rice,17,0
+556,10,"Oct 27, 2018",Northern Illinois,7,BYU,6,1
+557,10,"Oct 27, 2018",Northwestern,31,Wisconsin,17,0
+558,10,"Oct 27, 2018",Notre Dame,44,Navy,22,0
+559,10,"Oct 27, 2018",Oklahoma,51,Kansas State,14,0
+560,10,"Oct 27, 2018",Oklahoma State,38,Texas,35,0
+561,10,"Oct 27, 2018",Oregon State,41,Colorado,34,1
+562,10,"Oct 27, 2018",Penn State,30,Iowa,24,0
+563,10,"Oct 27, 2018",Pitt,54,Duke,45,0
+564,10,"Oct 27, 2018",San Jose State,50,UNLV,37,0
+565,10,"Oct 27, 2018",South Carolina,27,Tennessee,24,0
+566,10,"Oct 27, 2018",Syracuse,51,NC State,41,0
+567,10,"Oct 27, 2018",Texas State,27,New Mexico State,20,0
+568,10,"Oct 27, 2018",Tulane,24,Tulsa,17,1
+569,10,"Oct 27, 2018",Utah State,61,New Mexico,19,0
+570,10,"Oct 27, 2018",Vanderbilt,45,Arkansas,31,1
+571,10,"Oct 27, 2018",Virginia,31,North Carolina,21,0
+572,10,"Oct 27, 2018",Wake Forest,56,Louisville,35,1
+573,10,"Oct 27, 2018",Washington State,41,Stanford,38,1
+574,11,"Oct 30, 2018",Buffalo,51,Miami (OH),42,0
+575,11,"Oct 30, 2018",Kent State,35,Bowling Green,28,1
+576,11,"Oct 31, 2018",Toledo,45,Ball State,13,0
+577,11,"Nov 1, 2018",UCF,52,Temple,40,0
+578,11,"Nov 1, 2018",Northern Illinois,36,Akron,26,1
+579,11,"Nov 1, 2018",Ohio,59,Western Michigan,14,1
+580,11,"Nov 2, 2018",Arizona,42,Colorado,34,0
+581,11,"Nov 2, 2018",Middle Tennessee,29,Western Kentucky,10,0
+582,11,"Nov 2, 2018",Pitt,23,Virginia,13,1
+583,11,"Nov 3, 2018",Alabama,29,LSU,0,1
+584,11,"Nov 3, 2018",UAB,52,UTSA,3,0
+585,11,"Nov 3, 2018",Coastal Carolina,7,Appalachian State,23,0
+586,11,"Nov 3, 2018",Arizona State,38,Utah,20,0
+587,11,"Nov 3, 2018",Arkansas State,38,South Alabama,14,0
+588,11,"Nov 3, 2018",Army,17,Air Force,14,0
+589,11,"Nov 3, 2018",Auburn,28,Texas A&M,24,0
+590,11,"Nov 3, 2018",Baylor,35,Oklahoma State,31,0
+591,11,"Nov 3, 2018",Boise State,21,BYU,16,0
+592,11,"Nov 3, 2018",Boston College,31,Virginia Tech,21,1
+593,11,"Nov 3, 2018",Cincinnati,42,Navy,0,0
+594,11,"Nov 3, 2018",Clemson,77,Louisville,16,0
+595,11,"Nov 3, 2018",Duke,20,Miami,12,1
+596,11,"Nov 3, 2018",Central Michigan,7,Eastern Michigan,17,1
+597,11,"Nov 3, 2018",Florida Atlantic,49,Florida Int'l,14,1
+598,11,"Nov 3, 2018",Fresno State,48,UNLV,3,1
+599,11,"Nov 3, 2018",Georgia,34,Kentucky,17,1
+600,11,"Nov 3, 2018",Georgia Tech,38,North Carolina,28,1
+601,11,"Nov 3, 2018",Illinois,55,Minnesota,31,0
+602,11,"Nov 3, 2018",Kansas,3,Iowa State,27,0
+603,11,"Nov 3, 2018",Louisiana-Monroe,44,Georgia Southern,25,0
+604,11,"Nov 3, 2018",Massachusetts,62,Liberty,59,0
+605,11,"Nov 3, 2018",Memphis,59,East Carolina,41,1
+606,11,"Nov 3, 2018",Penn State,7,Michigan,42,1
+607,11,"Nov 3, 2018",Maryland,3,Michigan State,24,0
+608,11,"Nov 3, 2018",Mississippi State,45,Louisiana Tech,3,0
+609,11,"Nov 3, 2018",Missouri,38,Florida,17,1
+610,11,"Nov 3, 2018",New Mexico State,52,Alcorn State,42,0
+611,11,"Nov 3, 2018",NC State,47,Florida State,28,0
+612,11,"Nov 3, 2018",Notre Dame,31,Northwestern,21,1
+613,11,"Nov 3, 2018",Ohio State,36,Nebraska,31,0
+614,11,"Nov 3, 2018",Oklahoma,51,Texas Tech,46,1
+615,11,"Nov 3, 2018",Oregon,42,UCLA,21,0
+616,11,"Nov 3, 2018",Purdue,38,Iowa,36,0
+617,11,"Nov 3, 2018",San Diego State,31,New Mexico,23,1
+618,11,"Nov 3, 2018",South Carolina,48,Ole Miss,44,1
+619,11,"Nov 3, 2018",USC,38,Oregon State,21,1
+620,11,"Nov 3, 2018",SMU,45,Houston,31,0
+621,11,"Nov 3, 2018",Southern Miss,26,Marshall,24,0
+622,11,"Nov 3, 2018",Syracuse,41,Wake Forest,24,1
+623,11,"Nov 3, 2018",Charlotte,3,Tennessee,14,1
+624,11,"Nov 3, 2018",TCU,14,Kansas State,13,0
+625,11,"Nov 3, 2018",Texas State,40,Georgia State,31,1
+626,11,"Nov 3, 2018",UTEP,34,Rice,26,1
+627,11,"Nov 3, 2018",Troy,26,Louisiana,16,0
+628,11,"Nov 3, 2018",Tulane,41,South Florida,15,1
+629,11,"Nov 3, 2018",Tulsa,49,Connecticut,19,0
+630,11,"Nov 3, 2018",Utah State,56,Hawaii,17,1
+631,11,"Nov 3, 2018",Washington,27,Stanford,23,0
+632,11,"Nov 3, 2018",Washington State,19,California,13,0
+633,11,"Nov 3, 2018",West Virginia,42,Texas,41,1
+634,11,"Nov 3, 2018",Wisconsin,31,Rutgers,17,0
+635,11,"Nov 3, 2018",San Jose State,9,Wyoming,24,1
+636,12,"Nov 6, 2018",Buffalo,48,Kent State,14,0
+637,12,"Nov 7, 2018",Miami (OH),30,Ohio,28,0
+638,12,"Nov 7, 2018",Northern Illinois,38,Toledo,15,0
+639,12,"Nov 8, 2018",Wake Forest,27,NC State,23,1
+640,12,"Nov 9, 2018",Boise State,24,Fresno State,17,0
+641,12,"Nov 9, 2018",Syracuse,54,Louisville,23,0
+642,12,"Nov 10, 2018",Air Force,42,New Mexico,24,0
+643,12,"Nov 10, 2018",Alabama,24,Mississippi State,0,0
+644,12,"Nov 10, 2018",UAB,26,Southern Miss,23,0
+645,12,"Nov 10, 2018",Texas State,7,Appalachian State,38,0
+646,12,"Nov 10, 2018",Arizona State,31,UCLA,28,0
+647,12,"Nov 10, 2018",Arkansas State,44,Coastal Carolina,16,1
+648,12,"Nov 10, 2018",Army,31,Lafayette,13,0
+649,12,"Nov 10, 2018",Bowling Green,24,Central Michigan,13,1
+650,12,"Nov 10, 2018",BYU,35,Massachusetts,16,1
+651,12,"Nov 10, 2018",California,15,USC,14,1
+652,12,"Nov 10, 2018",UCF,35,Navy,24,0
+653,12,"Nov 10, 2018",Cincinnati,35,South Florida,23,0
+654,12,"Nov 10, 2018",Boston College,7,Clemson,27,0
+655,12,"Nov 10, 2018",Duke,42,North Carolina,35,0
+656,12,"Nov 10, 2018",Akron,7,Eastern Michigan,27,1
+657,12,"Nov 10, 2018",Florida,35,South Carolina,31,0
+658,12,"Nov 10, 2018",Florida Atlantic,34,Western Kentucky,15,0
+659,12,"Nov 10, 2018",UTSA,7,Florida Int'l,45,0
+660,12,"Nov 10, 2018",Georgia,27,Auburn,10,0
+661,12,"Nov 10, 2018",Georgia Tech,27,Miami,21,0
+662,12,"Nov 10, 2018",Indiana,34,Maryland,32,0
+663,12,"Nov 10, 2018",Iowa State,28,Baylor,14,0
+664,12,"Nov 10, 2018",Kansas State,21,Kansas,17,0
+665,12,"Nov 10, 2018",Louisiana,36,Georgia State,22,0
+666,12,"Nov 10, 2018",LSU,24,Arkansas,17,1
+667,12,"Nov 10, 2018",Louisiana Tech,28,Rice,13,0
+668,12,"Nov 10, 2018",Louisiana-Monroe,38,South Alabama,10,1
+669,12,"Nov 10, 2018",Marshall,30,Charlotte,13,0
+670,12,"Nov 10, 2018",Memphis,47,Tulsa,21,0
+671,12,"Nov 10, 2018",Rutgers,7,Michigan,42,0
+672,12,"Nov 10, 2018",Middle Tennessee,48,UTEP,32,1
+673,12,"Nov 10, 2018",Minnesota,41,Purdue,10,0
+674,12,"Nov 10, 2018",Missouri,33,Vanderbilt,28,0
+675,12,"Nov 10, 2018",Nebraska,54,Illinois,35,0
+676,12,"Nov 10, 2018",Nevada,49,Colorado State,10,0
+677,12,"Nov 10, 2018",UNLV,27,San Diego State,24,1
+678,12,"Nov 10, 2018",Northwestern,14,Iowa,10,1
+679,12,"Nov 10, 2018",Notre Dame,42,Florida State,13,0
+680,12,"Nov 10, 2018",Michigan State,6,Ohio State,26,0
+681,12,"Nov 10, 2018",Oklahoma,48,Oklahoma State,47,0
+682,12,"Nov 10, 2018",Old Dominion,34,North Texas,31,0
+683,12,"Nov 10, 2018",Penn State,22,Wisconsin,10,0
+684,12,"Nov 10, 2018",Pitt,52,Virginia Tech,22,0
+685,12,"Nov 10, 2018",SMU,62,Connecticut,50,1
+686,12,"Nov 10, 2018",Stanford,48,Oregon State,17,0
+687,12,"Nov 10, 2018",Temple,59,Houston,49,1
+688,12,"Nov 10, 2018",Kentucky,7,Tennessee,24,1
+689,12,"Nov 10, 2018",Texas,41,Texas Tech,34,1
+690,12,"Nov 10, 2018",Texas A&M,38,Ole Miss,24,0
+691,12,"Nov 10, 2018",Troy,35,Georgia Southern,21,1
+692,12,"Nov 10, 2018",Tulane,24,East Carolina,18,0
+693,12,"Nov 10, 2018",Utah,32,Oregon,25,0
+694,12,"Nov 10, 2018",Utah State,62,San Jose State,24,0
+695,12,"Nov 10, 2018",Virginia,45,Liberty,24,0
+696,12,"Nov 10, 2018",Colorado,7,Washington State,31,0
+697,12,"Nov 10, 2018",West Virginia,47,TCU,10,0
+698,13,"Nov 13, 2018",Ball State,42,Western Michigan,41,0
+699,13,"Nov 14, 2018",Northern Illinois,7,Miami (OH),13,0
+700,13,"Nov 14, 2018",Ohio,52,Buffalo,17,0
+701,13,"Nov 15, 2018",Houston,48,Tulane,17,0
+702,13,"Nov 15, 2018",North Texas,41,Florida Atlantic,38,0
+703,13,"Nov 15, 2018",Toledo,56,Kent State,34,1
+704,13,"Nov 16, 2018",Boise State,45,New Mexico,14,1
+705,13,"Nov 16, 2018",Memphis,28,SMU,18,1
+706,13,"Nov 17, 2018",Alabama,50,Citadel,17,0
+707,13,"Nov 17, 2018",Appalachian State,45,Georgia State,17,0
+708,13,"Nov 17, 2018",Arkansas State,31,Louisiana-Monroe,17,0
+709,13,"Nov 17, 2018",Army,28,Colgate,14,0
+710,13,"Nov 17, 2018",Auburn,53,Liberty,0,0
+711,13,"Nov 17, 2018",Akron,6,Bowling Green,21,0
+712,13,"Nov 17, 2018",BYU,45,New Mexico State,10,0
+713,13,"Nov 17, 2018",UCF,38,Cincinnati,13,0
+714,13,"Nov 17, 2018",Duke,6,Clemson,35,1
+715,13,"Nov 17, 2018",East Carolina,55,Connecticut,21,0
+716,13,"Nov 17, 2018",Florida,63,Idaho,10,0
+717,13,"Nov 17, 2018",Florida Int'l,42,Charlotte,35,1
+718,13,"Nov 17, 2018",Florida State,22,Boston College,21,0
+719,13,"Nov 17, 2018",Fresno State,23,San Diego State,14,0
+720,13,"Nov 17, 2018",Georgia,66,Massachusetts,27,0
+721,13,"Nov 17, 2018",Georgia Southern,41,Coastal Carolina,17,1
+722,13,"Nov 17, 2018",Georgia Tech,30,Virginia,27,0
+723,13,"Nov 17, 2018",Hawaii,35,UNLV,28,0
+724,13,"Nov 17, 2018",Iowa,63,Illinois,0,1
+725,13,"Nov 17, 2018",Texas Tech,6,Kansas State,21,1
+726,13,"Nov 17, 2018",Kentucky,34,Middle Tennessee,23,0
+727,13,"Nov 17, 2018",Louisiana,48,South Alabama,38,0
+728,13,"Nov 17, 2018",LSU,42,Rice,10,0
+729,13,"Nov 17, 2018",Marshall,23,UTSA,0,0
+730,13,"Nov 17, 2018",Miami,38,Virginia Tech,14,1
+731,13,"Nov 17, 2018",Michigan,31,Indiana,20,0
+732,13,"Nov 17, 2018",Arkansas,6,Mississippi State,52,1
+733,13,"Nov 17, 2018",Missouri,50,Tennessee,17,1
+734,13,"Nov 17, 2018",Navy,37,Tulsa,29,0
+735,13,"Nov 17, 2018",Nebraska,9,Michigan State,6,0
+736,13,"Nov 17, 2018",Nevada,21,San Jose State,12,1
+737,13,"Nov 17, 2018",North Carolina,49,Western Carolina,26,0
+738,13,"Nov 17, 2018",NC State,52,Louisville,10,1
+739,13,"Nov 17, 2018",Northwestern,24,Minnesota,14,1
+740,13,"Nov 17, 2018",Notre Dame,36,Syracuse,3,0
+741,13,"Nov 17, 2018",Ohio State,52,Maryland,51,1
+742,13,"Nov 17, 2018",Oklahoma,55,Kansas,40,0
+743,13,"Nov 17, 2018",Oklahoma State,45,West Virginia,41,0
+744,13,"Nov 17, 2018",Old Dominion,77,Virginia Military Institute,14,0
+745,13,"Nov 17, 2018",Oregon,31,Arizona State,29,0
+746,13,"Nov 17, 2018",Rutgers,7,Penn State,20,0
+747,13,"Nov 17, 2018",Pitt,34,Wake Forest,13,1
+748,13,"Nov 17, 2018",Chattanooga,9,South Carolina,49,1
+749,13,"Nov 17, 2018",Southern Miss,21,Louisiana Tech,20,0
+750,13,"Nov 17, 2018",Temple,27,South Florida,17,0
+751,13,"Nov 17, 2018",Texas,24,Iowa State,10,0
+752,13,"Nov 17, 2018",Texas A&M,41,UAB,20,0
+753,13,"Nov 17, 2018",Baylor,9,TCU,16,0
+754,13,"Nov 17, 2018",Texas State,7,Troy,12,1
+755,13,"Nov 17, 2018",UCLA,34,USC,27,0
+756,13,"Nov 17, 2018",Colorado,7,Utah,30,0
+757,13,"Nov 17, 2018",Utah State,29,Colorado State,24,1
+758,13,"Nov 17, 2018",Vanderbilt,36,Ole Miss,29,0
+759,13,"Nov 17, 2018",Washington,42,Oregon State,23,0
+760,13,"Nov 17, 2018",Washington State,69,Arizona,28,0
+761,13,"Nov 17, 2018",Western Kentucky,40,UTEP,16,0
+762,13,"Nov 17, 2018",Wisconsin,47,Purdue,44,1
+763,13,"Nov 17, 2018",Wyoming,35,Air Force,27,0
+764,14,"Nov 20, 2018",Miami (OH),42,Ball State,21,0
+765,14,"Nov 20, 2018",Western Michigan,28,Northern Illinois,21,0
+766,14,"Nov 22, 2018",Air Force,27,Colorado State,19,0
+767,14,"Nov 22, 2018",Mississippi State,35,Ole Miss,3,1
+768,14,"Nov 23, 2018",Buffalo,44,Bowling Green,14,1
+769,14,"Nov 23, 2018",UCF,38,South Florida,10,1
+770,14,"Nov 23, 2018",East Carolina,6,Cincinnati,56,1
+771,14,"Nov 23, 2018",Eastern Michigan,28,Kent State,20,1
+772,14,"Nov 23, 2018",Iowa,31,Nebraska,28,0
+773,14,"Nov 23, 2018",Memphis,52,Houston,31,0
+774,14,"Nov 23, 2018",Missouri,38,Arkansas,0,0
+775,14,"Nov 23, 2018",Ohio,49,Akron,28,0
+776,14,"Nov 23, 2018",Oklahoma,59,West Virginia,56,1
+777,14,"Nov 23, 2018",Oregon,55,Oregon State,15,1
+778,14,"Nov 23, 2018",South Alabama,31,Coastal Carolina,28,0
+779,14,"Nov 23, 2018",Texas,24,Kansas,17,1
+780,14,"Nov 23, 2018",Toledo,51,Central Michigan,13,0
+781,14,"Nov 23, 2018",Virginia Tech,34,Virginia,31,0
+782,14,"Nov 23, 2018",Washington,28,Washington State,15,1
+783,14,"Nov 24, 2018",Alabama,52,Auburn,21,0
+784,14,"Nov 24, 2018",Appalachian State,21,Troy,10,0
+785,14,"Nov 24, 2018",Arizona State,41,Arizona,40,1
+786,14,"Nov 24, 2018",Texas State,7,Arkansas State,33,0
+787,14,"Nov 24, 2018",Baylor,35,Texas Tech,24,0
+788,14,"Nov 24, 2018",Boise State,33,Utah State,24,0
+789,14,"Nov 24, 2018",California,33,Colorado,21,0
+790,14,"Nov 24, 2018",Charlotte,27,Florida Atlantic,24,1
+791,14,"Nov 24, 2018",Clemson,56,South Carolina,35,0
+792,14,"Nov 24, 2018",Florida,41,Florida State,14,1
+793,14,"Nov 24, 2018",Fresno State,31,San Jose State,13,0
+794,14,"Nov 24, 2018",Georgia,45,Georgia Tech,21,0
+795,14,"Nov 24, 2018",Georgia Southern,35,Georgia State,14,1
+796,14,"Nov 24, 2018",Hawaii,31,San Diego State,30,1
+797,14,"Nov 24, 2018",Iowa State,42,Kansas State,38,0
+798,14,"Nov 24, 2018",Kentucky,56,Louisville,10,1
+799,14,"Nov 24, 2018",Liberty,28,New Mexico State,21,0
+800,14,"Nov 24, 2018",Louisiana,31,Louisiana-Monroe,28,1
+801,14,"Nov 24, 2018",Marshall,28,Florida Int'l,25,1
+802,14,"Nov 24, 2018",Pitt,3,Miami,24,1
+803,14,"Nov 24, 2018",Michigan State,14,Rutgers,10,0
+804,14,"Nov 24, 2018",UAB,3,Middle Tennessee,27,1
+805,14,"Nov 24, 2018",Minnesota,37,Wisconsin,15,1
+806,14,"Nov 24, 2018",UNLV,34,Nevada,29,0
+807,14,"Nov 24, 2018",NC State,34,North Carolina,28,1
+808,14,"Nov 24, 2018",North Texas,24,UTSA,21,1
+809,14,"Nov 24, 2018",Northwestern,24,Illinois,16,0
+810,14,"Nov 24, 2018",Notre Dame,24,USC,17,1
+811,14,"Nov 24, 2018",Ohio State,62,Michigan,39,0
+812,14,"Nov 24, 2018",Penn State,38,Maryland,3,0
+813,14,"Nov 24, 2018",Purdue,28,Indiana,21,1
+814,14,"Nov 24, 2018",Rice,27,Old Dominion,13,0
+815,14,"Nov 24, 2018",UTEP,7,Southern Miss,39,0
+816,14,"Nov 24, 2018",Stanford,49,UCLA,42,1
+817,14,"Nov 24, 2018",Syracuse,42,Boston College,21,1
+818,14,"Nov 24, 2018",Connecticut,7,Temple,57,0
+819,14,"Nov 24, 2018",Texas A&M,74,LSU,72,0
+820,14,"Nov 24, 2018",TCU,31,Oklahoma State,24,0
+821,14,"Nov 24, 2018",Tulane,29,Navy,28,0
+822,14,"Nov 24, 2018",Tulsa,27,SMU,24,0
+823,14,"Nov 24, 2018",Utah,35,BYU,27,0
+824,14,"Nov 24, 2018",Vanderbilt,38,Tennessee,13,0
+825,14,"Nov 24, 2018",Duke,7,Wake Forest,59,0
+826,14,"Nov 24, 2018",Western Kentucky,30,Louisiana Tech,15,1
+827,14,"Nov 24, 2018",Wyoming,31,New Mexico,3,1
+828,15,"Nov 30, 2018",Northern Illinois,30,Buffalo,29,0
+829,15,"Nov 30, 2018",Utah,3,Washington,10,1
+830,15,"Dec 1, 2018",Alabama,35,Georgia,28,0
+831,15,"Dec 1, 2018",UAB,27,Middle Tennessee,25,1
+832,15,"Dec 1, 2018",Appalachian State,30,Louisiana,19,0
+833,15,"Dec 1, 2018",UCF,56,Memphis,41,0
+834,15,"Dec 1, 2018",Clemson,42,Pitt,10,0
+835,15,"Dec 1, 2018",Fresno State,19,Boise State,16,1
+836,15,"Dec 1, 2018",Iowa State,27,Drake,24,0
+837,15,"Dec 1, 2018",Liberty,52,Norfolk State,17,0
+838,15,"Dec 1, 2018",NC State,58,East Carolina,3,0
+839,15,"Dec 1, 2018",Ohio State,45,Northwestern,24,0
+840,15,"Dec 1, 2018",Oklahoma,39,Texas,27,0
+841,15,"Dec 1, 2018",Akron,3,South Carolina,28,1
+842,15,"Dec 1, 2018",Stanford,23,California,13,1
+843,15,"Dec 1, 2018",Virginia Tech,41,Marshall,20,0
+844,16,"Dec 8, 2018",Army,17,Navy,10,0
+845,17,"Dec 15, 2018",Appalachian State,45,Middle Tennessee,13,0
+846,17,"Dec 15, 2018",Fresno State,31,Arizona State,20,0
+847,17,"Dec 15, 2018",Georgia Southern,23,Eastern Michigan,21,0
+848,17,"Dec 15, 2018",Tulane,41,Louisiana,24,0
+849,17,"Dec 15, 2018",Utah State,52,North Texas,13,0
+850,18,"Dec 18, 2018",UAB,37,Northern Illinois,13,0
+851,18,"Dec 19, 2018",Ohio,27,San Diego State,0,0
+852,18,"Dec 20, 2018",Marshall,38,South Florida,20,1
+853,18,"Dec 21, 2018",BYU,49,Western Michigan,18,0
+854,18,"Dec 21, 2018",Florida Int'l,35,Toledo,32,0
+855,18,"Dec 22, 2018",Army,70,Houston,14,0
+856,18,"Dec 22, 2018",Louisiana Tech,31,Hawaii,14,0
+857,18,"Dec 22, 2018",Troy,42,Buffalo,32,0
+858,18,"Dec 22, 2018",Wake Forest,37,Memphis,34,0
+859,19,"Dec 26, 2018",Minnesota,34,Georgia Tech,10,0
+860,19,"Dec 26, 2018",California,7,TCU,10,1
+861,19,"Dec 27, 2018",Baylor,45,Vanderbilt,38,0
+862,19,"Dec 27, 2018",Duke,56,Temple,27,0
+863,19,"Dec 27, 2018",Wisconsin,35,Miami,3,0
+864,19,"Dec 28, 2018",Auburn,63,Purdue,14,0
+865,19,"Dec 28, 2018",Syracuse,34,West Virginia,18,0
+866,19,"Dec 28, 2018",Washington State,28,Iowa State,26,0
+867,19,"Dec 29, 2018",Alabama,45,Oklahoma,34,0
+868,19,"Dec 29, 2018",Clemson,30,Notre Dame,3,0
+869,19,"Dec 29, 2018",Florida,41,Michigan,15,0
+870,19,"Dec 29, 2018",Nevada,16,Arkansas State,13,0
+871,19,"Dec 29, 2018",Virginia,28,South Carolina,0,0
+872,20,"Dec 31, 2018",Cincinnati,35,Virginia Tech,31,0
+873,20,"Dec 31, 2018",Northwestern,31,Utah,20,0
+874,20,"Dec 31, 2018",Oklahoma State,38,Missouri,33,0
+875,20,"Dec 31, 2018",Oregon,7,Michigan State,6,0
+876,20,"Dec 31, 2018",Stanford,14,Pitt,13,0
+877,20,"Dec 31, 2018",Texas A&M,52,NC State,13,0
+878,21,"Jan 1, 2019",Iowa,27,Mississippi State,22,0
+879,21,"Jan 1, 2019",Kentucky,27,Penn State,24,0
+880,21,"Jan 1, 2019",LSU,40,UCF,32,0
+881,21,"Jan 1, 2019",Ohio State,28,Washington,23,0
+882,21,"Jan 1, 2019",Texas,28,Georgia,21,0
+883,21,"Jan 7, 2019",Clemson,44,Alabama,16,0

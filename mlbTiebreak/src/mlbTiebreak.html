@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLB Tiebreaker Scenarios</title>
+    <link rel="stylesheet" href="mlbTiebreak.css">
+</head>
+<body>
+    <div class="container">
+        <h1>MLB Tiebreaker Scenarios</h1>
+        <p class="subtitle">2025 Season</p>
+        <p class="subtitle"><a href="../data/tiebreaker_grids.txt" target="_blank">Grid View</a></p>
+
+        <!-- League Selector -->
+        <div class="league-selector">
+            <button id="leagueAL" class="league-btn active" onclick="switchLeague('AL')">
+                American League
+            </button>
+            <button id="leagueNL" class="league-btn" onclick="switchLeague('NL')">
+                National League
+            </button>
+        </div>
+
+        <!-- Team Selectors -->
+        <div class="selectors">
+            <div class="selector-group">
+                <label for="team1">Team 1</label>
+                <select id="team1"></select>
+            </div>
+            <div class="selector-group">
+                <label for="team2">Team 2</label>
+                <select id="team2"></select>
+            </div>
+        </div>
+
+        <!-- Compare Button -->
+        <button id="compareBtn" class="compare-btn" onclick="showMatchup()">
+            Compare Tiebreakers
+        </button>
+
+        <!-- Results -->
+        <div id="results" class="results hidden">
+            <!-- Team Headers -->
+            <div class="team-headers">
+                <div class="team-header">
+                    <div class="logo-placeholder">Logo</div>
+                    <h2 id="team1Name"></h2>
+                    <p id="team1Abbr"></p>
+                </div>
+                <div></div>
+                <div class="team-header">
+                    <div class="logo-placeholder">Logo</div>
+                    <h2 id="team2Name"></h2>
+                    <p id="team2Abbr"></p>
+                </div>
+            </div>
+
+            <!-- Tiebreaker Rows -->
+            <div class="tiebreaker-row">
+                <div class="record" id="h2h1"></div>
+                <div class="label">H2H</div>
+                <div class="record" id="h2h2"></div>
+            </div>
+
+            <div class="tiebreaker-row">
+                <div class="record" id="div1"></div>
+                <div class="label">DIV</div>
+                <div class="record" id="div2"></div>
+            </div>
+
+            <div class="tiebreaker-row">
+                <div class="record" id="league1"></div>
+                <div class="label">LEAGUE</div>
+                <div class="record" id="league2"></div>
+            </div>
+
+            <!-- Winner -->
+            <div class="winner-box">
+                <p class="winner-label">Tiebreaker Winner</p>
+                <p id="winnerName" class="winner-name"></p>
+                <p id="winnerMethod" class="winner-method"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="mlbTiebreak.js"></script>
+</body>
+</html>

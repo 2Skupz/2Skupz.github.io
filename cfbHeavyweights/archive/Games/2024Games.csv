@@ -1,0 +1,919 @@
+0,1,"Aug 24, 2024",Georgia Tech,24,Florida State,21,0
+1,1,"Aug 24, 2024",Montana State,35,New Mexico,31,1
+2,1,"Aug 24, 2024",SMU,29,Nevada,24,1
+3,1,"Aug 25, 2024",Hawaii,35,Delaware State,14,0
+4,2,"Aug 29, 2024",UAB,41,Alcorn State,3,0
+5,2,"Aug 29, 2024",Arkansas,70,Arkansas-Pine Bluff,0,0
+6,2,"Aug 29, 2024",Bowling Green,41,Fordham,17,0
+7,2,"Aug 29, 2024",Buffalo,30,Lafayette,13,0
+8,2,"Aug 29, 2024",UCF,57,New Hampshire,3,0
+9,2,"Aug 29, 2024",Central Michigan,66,Central Connecticut State,10,0
+10,2,"Aug 29, 2024",Coastal Carolina,55,Jacksonville State,27,1
+11,2,"Aug 29, 2024",Colorado,31,North Dakota State,26,0
+12,2,"Aug 29, 2024",Illinois,45,Eastern Illinois,0,0
+13,2,"Aug 29, 2024",Kansas,48,Lindenwood,3,0
+14,2,"Aug 29, 2024",Louisiana-Monroe,30,Jackson State,14,0
+15,2,"Aug 29, 2024",Missouri,51,Murray State,0,0
+16,2,"Aug 29, 2024",North Carolina,19,Minnesota,17,1
+17,2,"Aug 29, 2024",NC State,38,Western Carolina,21,0
+18,2,"Aug 29, 2024",Howard,7,Rutgers,44,1
+19,2,"Aug 29, 2024",San Jose State,42,Sacramento State,24,0
+20,2,"Aug 29, 2024",Toledo,49,Duquesne,10,0
+21,2,"Aug 29, 2024",Tulane,52,Southeastern Louisiana,0,0
+22,2,"Aug 29, 2024",Tulsa,62,Northwestern State,28,0
+23,2,"Aug 29, 2024",Utah,49,Southern Utah,0,0
+24,2,"Aug 29, 2024",Wake Forest,45,North Carolina A&T,13,0
+25,2,"Aug 30, 2024",Lehigh,7,Army,42,1
+26,2,"Aug 30, 2024",Elon,3,Duke,26,1
+27,2,"Aug 30, 2024",Michigan State,16,Florida Atlantic,10,0
+28,2,"Aug 30, 2024",Oklahoma,51,Temple,3,0
+29,2,"Aug 30, 2024",TCU,34,Stanford,27,1
+30,2,"Aug 30, 2024",Wisconsin,28,Western Michigan,14,0
+31,2,"Aug 31, 2024",Merrimack,6,Air Force,21,1
+32,2,"Aug 31, 2024",Alabama,63,Western Kentucky,0,0
+33,2,"Aug 31, 2024",Appalachian State,38,East Tennessee State,10,0
+34,2,"Aug 31, 2024",Arizona,61,New Mexico,39,0
+35,2,"Aug 31, 2024",Wyoming,7,Arizona State,48,1
+36,2,"Aug 31, 2024",Arkansas State,34,Central Arkansas,31,0
+37,2,"Aug 31, 2024",Auburn,73,Alabama A&M,3,0
+38,2,"Aug 31, 2024",Baylor,45,Tarleton State,3,0
+39,2,"Aug 31, 2024",Boise State,56,Georgia Southern,45,1
+40,2,"Aug 31, 2024",BYU,41,Southern Illinois,13,0
+41,2,"Aug 31, 2024",California,31,California-Davis,13,0
+42,2,"Aug 31, 2024",Cincinnati,38,Towson,20,0
+43,2,"Aug 31, 2024",East Carolina,42,Norfolk State,3,0
+44,2,"Aug 31, 2024",Eastern Michigan,28,Massachusetts,14,1
+45,2,"Aug 31, 2024",Georgia,34,Clemson,3,0
+46,2,"Aug 31, 2024",Georgia Tech,35,Georgia State,12,0
+47,2,"Aug 31, 2024",Florida Int'l,7,Indiana,31,1
+48,2,"Aug 31, 2024",Iowa,40,Illinois State,0,0
+49,2,"Aug 31, 2024",North Dakota,3,Iowa State,21,1
+50,2,"Aug 31, 2024",Charlotte,7,James Madison,30,0
+51,2,"Aug 31, 2024",Tennessee-Martin,6,Kansas State,41,1
+52,2,"Aug 31, 2024",Kentucky,31,Southern Miss,0,0
+53,2,"Aug 31, 2024",Liberty,41,Campbell,24,0
+54,2,"Aug 31, 2024",Louisiana,40,Grambling State,10,0
+55,2,"Aug 31, 2024",Louisiana Tech,25,Nicholls State,17,0
+56,2,"Aug 31, 2024",Louisville,62,Austin Peay,0,0
+57,2,"Aug 31, 2024",Marshall,45,Stony Brook,3,0
+58,2,"Aug 31, 2024",Connecticut,7,Maryland,50,1
+59,2,"Aug 31, 2024",Memphis,40,North Alabama,0,0
+60,2,"Aug 31, 2024",Miami,41,Florida,17,1
+61,2,"Aug 31, 2024",Michigan,30,Fresno State,10,0
+62,2,"Aug 31, 2024",Middle Tennessee,32,Tennessee Tech,25,0
+63,2,"Aug 31, 2024",Ole Miss,76,Furman,0,0
+64,2,"Aug 31, 2024",Eastern Kentucky,7,Mississippi State,56,1
+65,2,"Aug 31, 2024",Navy,49,Bucknell,21,0
+66,2,"Aug 31, 2024",UTEP,7,Nebraska,40,1
+67,2,"Aug 31, 2024",Nevada,28,Troy,26,1
+68,2,"Aug 31, 2024",Houston,7,UNLV,27,0
+69,2,"Aug 31, 2024",New Mexico State,23,Southeast Missouri State,16,0
+70,2,"Aug 31, 2024",North Texas,52,South Alabama,38,1
+71,2,"Aug 31, 2024",Northern Illinois,54,Western Illinois,15,0
+72,2,"Aug 31, 2024",Miami (OH),6,Northwestern,13,1
+73,2,"Aug 31, 2024",Notre Dame,23,Texas A&M,13,1
+74,2,"Aug 31, 2024",Akron,6,Ohio State,52,1
+75,2,"Aug 31, 2024",Oklahoma State,44,South Dakota State,20,0
+76,2,"Aug 31, 2024",Oregon,24,Idaho,14,0
+77,2,"Aug 31, 2024",Oregon State,38,Idaho State,15,0
+78,2,"Aug 31, 2024",Penn State,34,West Virginia,12,1
+79,2,"Aug 31, 2024",Pitt,55,Kent State,24,0
+80,2,"Aug 31, 2024",Purdue,49,Indiana State,0,0
+81,2,"Aug 31, 2024",Sam Houston,34,Rice,14,1
+82,2,"Aug 31, 2024",San Diego State,45,Texas A&M-Commerce,14,0
+83,2,"Aug 31, 2024",South Carolina,23,Old Dominion,19,0
+84,2,"Aug 31, 2024",South Florida,48,Bethune-Cookman,3,0
+85,2,"Aug 31, 2024",Houston Baptist,7,SMU,59,1
+86,2,"Aug 31, 2024",Syracuse,38,Ohio,22,0
+87,2,"Aug 31, 2024",Tennessee,69,Chattanooga,3,0
+88,2,"Aug 31, 2024",Texas,52,Colorado State,0,0
+89,2,"Aug 31, 2024",Texas State,34,Lamar,27,0
+90,2,"Aug 31, 2024",Texas Tech,52,Abilene Christian,51,0
+91,2,"Aug 31, 2024",UTSA,28,Kennesaw State,16,0
+92,2,"Aug 31, 2024",UCLA,16,Hawaii,13,1
+93,2,"Aug 31, 2024",Utah State,36,Robert Morris,14,0
+94,2,"Aug 31, 2024",Vanderbilt,34,Virginia Tech,27,0
+95,2,"Aug 31, 2024",Virginia,34,Richmond,13,0
+96,2,"Aug 31, 2024",Washington,35,Weber State,3,0
+97,2,"Aug 31, 2024",Washington State,70,Portland State,30,0
+98,2,"Sep 1, 2024",USC,27,LSU,20,0
+99,2,"Sep 2, 2024",Boston College,28,Florida State,13,1
+100,3,"Sep 6, 2024",BYU,18,SMU,15,1
+101,3,"Sep 6, 2024",Duke,26,Northwestern,20,1
+102,3,"Sep 6, 2024",Indiana,77,Western Illinois,3,0
+103,3,"Sep 7, 2024",Alabama,42,South Florida,16,0
+104,3,"Sep 7, 2024",Arizona,22,Northern Arizona,10,0
+105,3,"Sep 7, 2024",Arizona State,30,Mississippi State,23,0
+106,3,"Sep 7, 2024",Arkansas State,28,Tulsa,24,0
+107,3,"Sep 7, 2024",Florida Atlantic,7,Army,24,0
+108,3,"Sep 7, 2024",Ball State,42,Missouri State,34,0
+109,3,"Sep 7, 2024",Boston College,56,Duquesne,0,0
+110,3,"Sep 7, 2024",California,21,Auburn,14,1
+111,3,"Sep 7, 2024",UCF,45,Sam Houston,14,0
+112,3,"Sep 7, 2024",Clemson,66,Appalachian State,20,0
+113,3,"Sep 7, 2024",Coastal Carolina,40,William & Mary,21,0
+114,3,"Sep 7, 2024",Colorado State,38,Northern Colorado,17,0
+115,3,"Sep 7, 2024",Connecticut,63,Merrimack,17,0
+116,3,"Sep 7, 2024",East Carolina,20,Old Dominion,14,1
+117,3,"Sep 7, 2024",Samford,7,Florida,45,1
+118,3,"Sep 7, 2024",Florida Int'l,52,Central Michigan,16,0
+119,3,"Sep 7, 2024",Fresno State,46,Sacramento State,30,0
+120,3,"Sep 7, 2024",Georgia,48,Tennessee Tech,3,0
+121,3,"Sep 7, 2024",Georgia Southern,20,Nevada,17,1
+122,3,"Sep 7, 2024",Georgia State,24,Chattanooga,21,0
+123,3,"Sep 7, 2024",Idaho,17,Wyoming,13,1
+124,3,"Sep 7, 2024",Illinois,23,Kansas,17,0
+125,3,"Sep 7, 2024",Iowa State,20,Iowa,19,1
+126,3,"Sep 7, 2024",Gardner-Webb,6,James Madison,13,1
+127,3,"Sep 7, 2024",Kansas State,34,Tulane,27,1
+128,3,"Sep 7, 2024",Liberty,30,New Mexico State,24,1
+129,3,"Sep 7, 2024",Louisiana,34,Kennesaw State,10,1
+130,3,"Sep 7, 2024",LSU,44,Nicholls State,21,0
+131,3,"Sep 7, 2024",UAB,6,Louisiana-Monroe,32,1
+132,3,"Sep 7, 2024",Louisville,49,Jacksonville State,14,0
+133,3,"Sep 7, 2024",Memphis,38,Troy,17,0
+134,3,"Sep 7, 2024",Florida A&M,9,Miami,56,1
+135,3,"Sep 7, 2024",Michigan State,27,Maryland,24,1
+136,3,"Sep 7, 2024",Minnesota,48,Rhode Island,0,0
+137,3,"Sep 7, 2024",Ole Miss,52,Middle Tennessee,3,0
+138,3,"Sep 7, 2024",Missouri,38,Buffalo,0,0
+139,3,"Sep 7, 2024",Navy,38,Temple,11,0
+140,3,"Sep 7, 2024",Nebraska,28,Colorado,10,0
+141,3,"Sep 7, 2024",UNLV,72,Utah Tech,14,0
+142,3,"Sep 7, 2024",North Carolina,38,Charlotte,20,0
+143,3,"Sep 7, 2024",North Texas,35,Stephen F. Austin,20,0
+144,3,"Sep 7, 2024",Northern Illinois,16,Notre Dame,14,1
+145,3,"Sep 7, 2024",Ohio,27,South Alabama,20,0
+146,3,"Sep 7, 2024",Ohio State,56,Western Michigan,0,0
+147,3,"Sep 7, 2024",Oklahoma,16,Houston,12,0
+148,3,"Sep 7, 2024",Oklahoma State,39,Arkansas,31,0
+149,3,"Sep 7, 2024",Oregon,37,Boise State,34,0
+150,3,"Sep 7, 2024",Oregon State,21,San Diego State,0,1
+151,3,"Sep 7, 2024",Penn State,34,Bowling Green,27,0
+152,3,"Sep 7, 2024",Pitt,28,Cincinnati,27,1
+153,3,"Sep 7, 2024",Texas Southern,7,Rice,69,1
+154,3,"Sep 7, 2024",Rutgers,49,Akron,17,0
+155,3,"Sep 7, 2024",Air Force,7,San Jose State,17,0
+156,3,"Sep 7, 2024",Kentucky,6,South Carolina,31,0
+157,3,"Sep 7, 2024",USC,48,Utah State,0,0
+158,3,"Sep 7, 2024",Southern Miss,35,Southeastern Louisiana,10,0
+159,3,"Sep 7, 2024",Southern Utah,27,UTEP,24,1
+160,3,"Sep 7, 2024",St. Francis (PA),23,Kent State,17,1
+161,3,"Sep 7, 2024",Cal Poly,7,Stanford,41,1
+162,3,"Sep 7, 2024",Syracuse,31,Georgia Tech,28,0
+163,3,"Sep 7, 2024",Tennessee,51,NC State,10,0
+164,3,"Sep 7, 2024",Texas,31,Michigan,12,1
+165,3,"Sep 7, 2024",Texas A&M,52,McNeese State,10,0
+166,3,"Sep 7, 2024",TCU,45,Long Island,0,0
+167,3,"Sep 7, 2024",Texas State,49,UTSA,10,0
+168,3,"Sep 7, 2024",Toledo,38,Massachusetts,23,0
+169,3,"Sep 7, 2024",Utah,23,Baylor,12,0
+170,3,"Sep 7, 2024",Vanderbilt,55,Alcorn State,0,0
+171,3,"Sep 7, 2024",Virginia,31,Wake Forest,30,1
+172,3,"Sep 7, 2024",Virginia Tech,31,Marshall,14,0
+173,3,"Sep 7, 2024",Eastern Michigan,9,Washington,30,1
+174,3,"Sep 7, 2024",Washington State,37,Texas Tech,16,0
+175,3,"Sep 7, 2024",West Virginia,49,Albany,14,0
+176,3,"Sep 7, 2024",Western Kentucky,31,Eastern Kentucky,0,0
+177,3,"Sep 7, 2024",Wisconsin,27,South Dakota,13,0
+178,4,"Sep 12, 2024",Arizona State,31,Texas State,28,1
+179,4,"Sep 12, 2024",South Alabama,87,Northwestern State,10,0
+180,4,"Sep 13, 2024",Arizona,7,Kansas State,31,1
+181,4,"Sep 13, 2024",UNLV,23,Kansas,20,1
+182,4,"Sep 14, 2024",Akron,31,Colgate,20,0
+183,4,"Sep 14, 2024",Alabama,42,Wisconsin,10,1
+184,4,"Sep 14, 2024",Appalachian State,21,East Carolina,19,1
+185,4,"Sep 14, 2024",Arkansas,37,UAB,27,0
+186,4,"Sep 14, 2024",Auburn,45,New Mexico,19,0
+187,4,"Sep 14, 2024",Baylor,31,Air Force,3,0
+188,4,"Sep 14, 2024",BYU,34,Wyoming,14,1
+189,4,"Sep 14, 2024",Buffalo,34,Massachusetts,3,0
+190,4,"Sep 14, 2024",California,31,San Diego State,10,0
+191,4,"Sep 14, 2024",UCF,35,TCU,34,1
+192,4,"Sep 14, 2024",Charlotte,27,Gardner-Webb,26,0
+193,4,"Sep 14, 2024",Cincinnati,27,Miami (OH),16,1
+194,4,"Sep 14, 2024",Coastal Carolina,28,Temple,20,1
+195,4,"Sep 14, 2024",Colorado State,9,Colorado,28,0
+196,4,"Sep 14, 2024",Duke,26,Connecticut,21,0
+197,4,"Sep 14, 2024",Eastern Michigan,37,Jacksonville State,34,0
+198,4,"Sep 14, 2024",Florida Atlantic,38,Florida Int'l,20,0
+199,4,"Sep 14, 2024",Fresno State,48,New Mexico State,0,0
+200,4,"Sep 14, 2024",Georgia,13,Kentucky,12,1
+201,4,"Sep 14, 2024",Georgia Southern,42,South Carolina State,14,0
+202,4,"Sep 14, 2024",Georgia State,36,Vanderbilt,32,0
+203,4,"Sep 14, 2024",Virginia Military Institute,7,Georgia Tech,59,1
+204,4,"Sep 14, 2024",Rice,7,Houston,33,1
+205,4,"Sep 14, 2024",Central Michigan,9,Illinois,30,1
+206,4,"Sep 14, 2024",Indiana,42,UCLA,13,1
+207,4,"Sep 14, 2024",Iowa,38,Troy,21,0
+208,4,"Sep 14, 2024",Liberty,28,UTEP,10,0
+209,4,"Sep 14, 2024",LSU,36,South Carolina,33,1
+210,4,"Sep 14, 2024",Maryland,27,Virginia,13,1
+211,4,"Sep 14, 2024",Memphis,20,Florida State,12,1
+212,4,"Sep 14, 2024",Miami,62,Ball State,0,0
+213,4,"Sep 14, 2024",Michigan,28,Arkansas State,18,0
+214,4,"Sep 14, 2024",Michigan State,40,Prairie View A&M,0,0
+215,4,"Sep 14, 2024",Minnesota,27,Nevada,0,0
+216,4,"Sep 14, 2024",Wake Forest,6,Ole Miss,40,0
+217,4,"Sep 14, 2024",Missouri,27,Boston College,21,0
+218,4,"Sep 14, 2024",Nebraska,34,Northern Iowa,3,0
+219,4,"Sep 14, 2024",North Carolina,45,North Carolina Central,10,0
+220,4,"Sep 14, 2024",NC State,30,Louisiana Tech,20,0
+221,4,"Sep 14, 2024",Eastern Illinois,7,Northwestern,31,1
+222,4,"Sep 14, 2024",Purdue,7,Notre Dame,66,0
+223,4,"Sep 14, 2024",Morgan State,6,Ohio,21,1
+224,4,"Sep 14, 2024",Oklahoma,34,Tulane,19,0
+225,4,"Sep 14, 2024",Oklahoma State,45,Tulsa,10,1
+226,4,"Sep 14, 2024",Oregon,49,Oregon State,14,1
+227,4,"Sep 14, 2024",Pitt,38,West Virginia,34,0
+228,4,"Sep 14, 2024",Sam Houston,31,Hawaii,13,0
+229,4,"Sep 14, 2024",San Jose State,31,Kennesaw State,10,0
+230,4,"Sep 14, 2024",South Florida,49,Southern Miss,24,1
+231,4,"Sep 14, 2024",Tennessee,71,Kent State,0,0
+232,4,"Sep 14, 2024",UTSA,7,Texas,56,1
+233,4,"Sep 14, 2024",Texas A&M,33,Florida,20,1
+234,4,"Sep 14, 2024",Texas Tech,66,North Texas,21,0
+235,4,"Sep 14, 2024",Toledo,41,Mississippi State,17,1
+236,4,"Sep 14, 2024",Utah,38,Utah State,21,1
+237,4,"Sep 14, 2024",Virginia Tech,37,Old Dominion,17,1
+238,4,"Sep 14, 2024",Washington State,24,Washington,19,0
+239,4,"Sep 14, 2024",Western Kentucky,49,Middle Tennessee,21,1
+240,4,"Sep 14, 2024",Western Michigan,59,Bethune-Cookman,31,0
+241,5,"Sep 19, 2024",South Alabama,48,Appalachian State,14,1
+242,5,"Sep 20, 2024",Illinois,31,Nebraska,24,1
+243,5,"Sep 20, 2024",Stanford,26,Syracuse,24,1
+244,5,"Sep 20, 2024",Washington State,54,San Jose State,52,0
+245,5,"Sep 21, 2024",Arkansas,24,Auburn,14,1
+246,5,"Sep 21, 2024",Army,37,Rice,14,0
+247,5,"Sep 21, 2024",Boise State,56,Portland State,14,0
+248,5,"Sep 21, 2024",Boston College,23,Michigan State,19,0
+249,5,"Sep 21, 2024",Kansas State,9,BYU,38,1
+250,5,"Sep 21, 2024",Buffalo,23,Northern Illinois,20,1
+251,5,"Sep 21, 2024",Central Michigan,37,Ball State,34,0
+252,5,"Sep 21, 2024",Cincinnati,34,Houston,0,0
+253,5,"Sep 21, 2024",Clemson,59,NC State,35,0
+254,5,"Sep 21, 2024",Colorado,38,Baylor,31,0
+255,5,"Sep 21, 2024",Colorado State,27,UTEP,17,0
+256,5,"Sep 21, 2024",Connecticut,48,Florida Atlantic,14,0
+257,5,"Sep 21, 2024",Duke,45,Middle Tennessee,17,1
+258,5,"Sep 21, 2024",Eastern Michigan,36,St. Francis (PA),0,0
+259,5,"Sep 21, 2024",Florida,45,Mississippi State,28,1
+260,5,"Sep 21, 2024",California,9,Florida State,14,1
+261,5,"Sep 21, 2024",Fresno State,38,New Mexico,21,1
+262,5,"Sep 21, 2024",Indiana,52,Charlotte,14,0
+263,5,"Sep 21, 2024",Iowa,31,Minnesota,14,1
+264,5,"Sep 21, 2024",Arkansas State,7,Iowa State,52,1
+265,5,"Sep 21, 2024",Southern Miss,7,Jacksonville State,44,1
+266,5,"Sep 21, 2024",James Madison,70,North Carolina,50,1
+267,5,"Sep 21, 2024",Ohio,6,Kentucky,41,1
+268,5,"Sep 21, 2024",Liberty,35,East Carolina,24,0
+269,5,"Sep 21, 2024",LSU,34,UCLA,17,0
+270,5,"Sep 21, 2024",Louisville,31,Georgia Tech,19,0
+271,5,"Sep 21, 2024",Maryland,38,Villanova,20,0
+272,5,"Sep 21, 2024",Massachusetts,35,Central Connecticut State,31,0
+273,5,"Sep 21, 2024",Miami,50,South Florida,15,1
+274,5,"Sep 21, 2024",Michigan,27,USC,24,0
+275,5,"Sep 21, 2024",Ole Miss,52,Georgia Southern,13,0
+276,5,"Sep 21, 2024",Missouri,30,Vanderbilt,27,0
+277,5,"Sep 21, 2024",Monmouth,45,Florida Int'l,42,1
+278,5,"Sep 21, 2024",Navy,56,Memphis,44,0
+279,5,"Sep 21, 2024",Nevada,49,Eastern Washington,16,0
+280,5,"Sep 21, 2024",North Texas,44,Wyoming,17,0
+281,5,"Sep 21, 2024",Miami (OH),3,Notre Dame,28,1
+282,5,"Sep 21, 2024",Ohio State,49,Marshall,14,0
+283,5,"Sep 21, 2024",Oregon State,38,Purdue,21,0
+284,5,"Sep 21, 2024",Penn State,56,Kent State,0,0
+285,5,"Sep 21, 2024",Pitt,73,Youngstown State,17,0
+286,5,"Sep 21, 2024",Rutgers,26,Virginia Tech,23,1
+287,5,"Sep 21, 2024",Sam Houston,31,New Mexico State,11,0
+288,5,"Sep 21, 2024",Akron,7,South Carolina,50,1
+289,5,"Sep 21, 2024",SMU,66,TCU,42,0
+290,5,"Sep 21, 2024",Temple,45,Utah State,29,0
+291,5,"Sep 21, 2024",Tennessee,25,Oklahoma,15,1
+292,5,"Sep 21, 2024",Texas,51,Louisiana-Monroe,3,0
+293,5,"Sep 21, 2024",Texas A&M,26,Bowling Green,20,0
+294,5,"Sep 21, 2024",Texas Tech,30,Arizona State,22,0
+295,5,"Sep 21, 2024",Houston Baptist,7,UTSA,45,1
+296,5,"Sep 21, 2024",Troy,34,Florida A&M,12,0
+297,5,"Sep 21, 2024",Tulane,41,Louisiana,33,1
+298,5,"Sep 21, 2024",Tulsa,23,Louisiana Tech,20,1
+299,5,"Sep 21, 2024",Utah,22,Oklahoma State,19,1
+300,5,"Sep 21, 2024",Virginia,43,Coastal Carolina,24,1
+301,5,"Sep 21, 2024",Northwestern,5,Washington,24,1
+302,5,"Sep 21, 2024",West Virginia,32,Kansas,28,0
+303,5,"Sep 21, 2024",Western Kentucky,26,Toledo,21,0
+304,5,"Sep 22, 2024",Northern Iowa,7,Hawaii,36,1
+305,6,"Sep 26, 2024",Army,42,Temple,14,1
+306,6,"Sep 27, 2024",Miami,38,Virginia Tech,34,0
+307,6,"Sep 27, 2024",Rutgers,21,Washington,18,0
+308,6,"Sep 28, 2024",Alabama,41,Georgia,34,0
+309,6,"Sep 28, 2024",Arizona,23,Utah,10,1
+310,6,"Sep 28, 2024",Boise State,45,Washington State,24,0
+311,6,"Sep 28, 2024",Boston College,21,Western Kentucky,20,0
+312,6,"Sep 28, 2024",BYU,34,Baylor,28,1
+313,6,"Sep 28, 2024",Central Michigan,22,San Diego State,21,0
+314,6,"Sep 28, 2024",Charlotte,21,Rice,20,1
+315,6,"Sep 28, 2024",Clemson,40,Stanford,14,0
+316,6,"Sep 28, 2024",Colorado,48,UCF,21,1
+317,6,"Sep 28, 2024",Connecticut,47,Buffalo,3,0
+318,6,"Sep 28, 2024",Duke,21,North Carolina,20,0
+319,6,"Sep 28, 2024",East Carolina,30,UTSA,20,0
+320,6,"Sep 28, 2024",Eastern Michigan,52,Kent State,33,1
+321,6,"Sep 28, 2024",Florida Atlantic,41,Wagner,10,0
+322,6,"Sep 28, 2024",Florida Int'l,17,Louisiana Tech,10,0
+323,6,"Sep 28, 2024",Georgia Southern,38,Georgia State,21,1
+324,6,"Sep 28, 2024",Indiana,42,Maryland,28,0
+325,6,"Sep 28, 2024",Iowa State,20,Houston,0,1
+326,6,"Sep 28, 2024",Ball State,7,James Madison,63,1
+327,6,"Sep 28, 2024",Kansas State,42,Oklahoma State,20,0
+328,6,"Sep 28, 2024",Kentucky,20,Ole Miss,17,1
+329,6,"Sep 28, 2024",Louisiana,41,Wake Forest,38,1
+330,6,"Sep 28, 2024",LSU,42,South Alabama,10,0
+331,6,"Sep 28, 2024",Troy,9,Louisiana-Monroe,13,0
+332,6,"Sep 28, 2024",Marshall,27,Western Michigan,20,0
+333,6,"Sep 28, 2024",Middle Tennessee,7,Memphis,24,1
+334,6,"Sep 28, 2024",Miami (OH),23,Massachusetts,20,0
+335,6,"Sep 28, 2024",Michigan,27,Minnesota,24,0
+336,6,"Sep 28, 2024",Navy,41,UAB,18,1
+337,6,"Sep 28, 2024",Nebraska,28,Purdue,10,1
+338,6,"Sep 28, 2024",UNLV,59,Fresno State,14,0
+339,6,"Sep 28, 2024",New Mexico,50,New Mexico State,40,1
+340,6,"Sep 28, 2024",NC State,24,Northern Illinois,17,0
+341,6,"Sep 28, 2024",North Texas,52,Tulsa,20,0
+342,6,"Sep 28, 2024",Notre Dame,31,Louisville,24,0
+343,6,"Sep 28, 2024",Ohio,30,Akron,10,0
+344,6,"Sep 28, 2024",Michigan State,7,Ohio State,38,0
+345,6,"Sep 28, 2024",Oklahoma,27,Auburn,21,1
+346,6,"Sep 28, 2024",Old Dominion,30,Bowling Green,27,1
+347,6,"Sep 28, 2024",Oregon,34,UCLA,13,1
+348,6,"Sep 28, 2024",Illinois,7,Penn State,21,1
+349,6,"Sep 28, 2024",Sam Houston,40,Texas State,39,0
+350,6,"Sep 28, 2024",USC,38,Wisconsin,21,0
+351,6,"Sep 28, 2024",SMU,42,Florida State,16,0
+352,6,"Sep 28, 2024",Syracuse,42,Holy Cross,14,0
+353,6,"Sep 28, 2024",Tennessee-Martin,24,Kennesaw State,13,1
+354,6,"Sep 28, 2024",Texas,35,Mississippi State,13,0
+355,6,"Sep 28, 2024",Texas A&M,21,Arkansas,17,0
+356,6,"Sep 28, 2024",TCU,38,Kansas,27,1
+357,6,"Sep 28, 2024",Texas Tech,44,Cincinnati,41,0
+358,6,"Sep 28, 2024",Tulane,45,South Florida,10,0
+359,6,"Sep 28, 2024",Wyoming,31,Air Force,19,0
+360,7,"Oct 3, 2024",Sam Houston,41,UTEP,21,1
+361,7,"Oct 3, 2024",Texas State,38,Troy,17,1
+362,7,"Oct 4, 2024",Houston,30,TCU,19,1
+363,7,"Oct 4, 2024",Jacksonville State,63,Kennesaw State,24,1
+364,7,"Oct 4, 2024",Oregon,31,Michigan State,10,0
+365,7,"Oct 4, 2024",Syracuse,44,UNLV,41,1
+366,7,"Oct 5, 2024",Arizona State,35,Kansas,31,0
+367,7,"Oct 5, 2024",Arkansas,19,Tennessee,14,0
+368,7,"Oct 5, 2024",Arkansas State,18,South Alabama,16,0
+369,7,"Oct 5, 2024",Tulsa,7,Army,49,0
+370,7,"Oct 5, 2024",Boise State,62,Utah State,30,0
+371,7,"Oct 5, 2024",Bowling Green,27,Akron,20,1
+372,7,"Oct 5, 2024",Charlotte,55,East Carolina,24,0
+373,7,"Oct 5, 2024",Clemson,29,Florida State,13,1
+374,7,"Oct 5, 2024",Coastal Carolina,45,Old Dominion,37,0
+375,7,"Oct 5, 2024",Connecticut,29,Temple,20,0
+376,7,"Oct 5, 2024",Florida,24,UCF,13,0
+377,7,"Oct 5, 2024",Georgia,31,Auburn,13,0
+378,7,"Oct 5, 2024",Georgia Tech,24,Duke,14,0
+379,7,"Oct 5, 2024",Indiana,41,Northwestern,24,1
+380,7,"Oct 5, 2024",Iowa State,43,Baylor,21,0
+381,7,"Oct 5, 2024",Louisiana,23,Southern Miss,13,1
+382,7,"Oct 5, 2024",Louisiana-Monroe,21,James Madison,19,0
+383,7,"Oct 5, 2024",Marshall,52,Appalachian State,37,0
+384,7,"Oct 5, 2024",Miami,39,California,38,1
+385,7,"Oct 5, 2024",Minnesota,24,USC,17,0
+386,7,"Oct 5, 2024",South Carolina,3,Ole Miss,27,0
+387,7,"Oct 5, 2024",Air Force,7,Navy,34,0
+388,7,"Oct 5, 2024",Rutgers,7,Nebraska,14,1
+389,7,"Oct 5, 2024",Northern Illinois,34,Massachusetts,20,0
+390,7,"Oct 5, 2024",Iowa,7,Ohio State,35,1
+391,7,"Oct 5, 2024",Oregon State,39,Colorado State,31,0
+392,7,"Oct 5, 2024",Penn State,27,UCLA,11,0
+393,7,"Oct 5, 2024",Pitt,34,North Carolina,24,1
+394,7,"Oct 5, 2024",San Diego State,27,Hawaii,24,0
+395,7,"Oct 5, 2024",San Jose State,35,Nevada,31,0
+396,7,"Oct 5, 2024",SMU,34,Louisville,27,1
+397,7,"Oct 5, 2024",Texas A&M,41,Missouri,10,0
+398,7,"Oct 5, 2024",Texas Tech,28,Arizona,22,1
+399,7,"Oct 5, 2024",Toledo,30,Miami (OH),20,0
+400,7,"Oct 5, 2024",Tulane,71,UAB,20,1
+401,7,"Oct 5, 2024",Vanderbilt,40,Alabama,35,0
+402,7,"Oct 5, 2024",Virginia,24,Boston College,14,0
+403,7,"Oct 5, 2024",Stanford,7,Virginia Tech,31,0
+404,7,"Oct 5, 2024",Wake Forest,34,NC State,30,1
+405,7,"Oct 5, 2024",Washington,27,Michigan,17,0
+406,7,"Oct 5, 2024",West Virginia,38,Oklahoma State,14,1
+407,7,"Oct 5, 2024",Western Michigan,45,Ball State,42,1
+408,7,"Oct 5, 2024",Purdue,6,Wisconsin,52,1
+409,8,"Oct 8, 2024",Liberty,31,Florida Int'l,24,0
+410,8,"Oct 9, 2024",Jacksonville State,54,New Mexico State,13,0
+411,8,"Oct 10, 2024",Coastal Carolina,7,James Madison,39,1
+412,8,"Oct 10, 2024",Louisiana Tech,48,Middle Tennessee,21,0
+413,8,"Oct 10, 2024",Western Kentucky,44,UTEP,17,0
+414,8,"Oct 11, 2024",Arizona State,27,Utah,19,0
+415,8,"Oct 11, 2024",UNLV,50,Utah State,34,1
+416,8,"Oct 11, 2024",Northwestern,37,Maryland,10,1
+417,8,"Oct 12, 2024",Alabama,27,South Carolina,25,0
+418,8,"Oct 12, 2024",Army,44,UAB,10,0
+419,8,"Oct 12, 2024",Ball State,37,Kent State,35,1
+420,8,"Oct 12, 2024",Hawaii,7,Boise State,28,0
+421,8,"Oct 12, 2024",BYU,41,Arizona,19,0
+422,8,"Oct 12, 2024",Buffalo,30,Toledo,15,0
+423,8,"Oct 12, 2024",Cincinnati,19,UCF,13,1
+424,8,"Oct 12, 2024",Clemson,49,Wake Forest,14,1
+425,8,"Oct 12, 2024",Colorado State,31,San Jose State,24,0
+426,8,"Oct 12, 2024",Georgia,41,Mississippi State,31,0
+427,8,"Oct 12, 2024",Georgia Southern,24,Marshall,23,0
+428,8,"Oct 12, 2024",Georgia Tech,41,North Carolina,34,1
+429,8,"Oct 12, 2024",Illinois,50,Purdue,49,0
+430,8,"Oct 12, 2024",Iowa,40,Washington,16,0
+431,8,"Oct 12, 2024",Iowa State,28,West Virginia,16,1
+432,8,"Oct 12, 2024",Kansas State,31,Colorado,28,1
+433,8,"Oct 12, 2024",Louisiana,34,Appalachian State,24,0
+434,8,"Oct 12, 2024",LSU,29,Ole Miss,26,0
+435,8,"Oct 12, 2024",Louisiana-Monroe,38,Southern Miss,21,0
+436,8,"Oct 12, 2024",Louisville,24,Virginia,20,1
+437,8,"Oct 12, 2024",South Florida,3,Memphis,21,1
+438,8,"Oct 12, 2024",Miami (OH),38,Eastern Michigan,14,1
+439,8,"Oct 12, 2024",Minnesota,21,UCLA,17,1
+440,8,"Oct 12, 2024",Missouri,45,Massachusetts,3,1
+441,8,"Oct 12, 2024",Nevada,42,Oregon State,37,0
+442,8,"Oct 12, 2024",New Mexico,52,Air Force,37,0
+443,8,"Oct 12, 2024",North Texas,41,Florida Atlantic,37,1
+444,8,"Oct 12, 2024",Bowling Green,7,Northern Illinois,17,0
+445,8,"Oct 12, 2024",Stanford,7,Notre Dame,49,1
+446,8,"Oct 12, 2024",Ohio,27,Central Michigan,25,1
+447,8,"Oct 12, 2024",Old Dominion,21,Georgia State,14,1
+448,8,"Oct 12, 2024",Oregon,32,Ohio State,31,0
+449,8,"Oct 12, 2024",Penn State,33,USC,30,1
+450,8,"Oct 12, 2024",Pitt,17,California,15,0
+451,8,"Oct 12, 2024",Rice,29,UTSA,27,0
+452,8,"Oct 12, 2024",San Diego State,27,Wyoming,24,1
+453,8,"Oct 12, 2024",Syracuse,24,NC State,17,1
+454,8,"Oct 12, 2024",Tennessee,23,Florida,17,0
+455,8,"Oct 12, 2024",Texas,34,Oklahoma,3,0
+456,8,"Oct 12, 2024",Arkansas State,9,Texas State,41,1
+457,8,"Oct 12, 2024",Vanderbilt,20,Kentucky,13,1
+458,8,"Oct 12, 2024",Washington State,25,Fresno State,17,1
+459,8,"Oct 12, 2024",Western Michigan,34,Akron,24,0
+460,8,"Oct 12, 2024",Rutgers,7,Wisconsin,42,0
+461,9,"Oct 15, 2024",Kennesaw State,5,Middle Tennessee,14,1
+462,9,"Oct 15, 2024",New Mexico State,33,Louisiana Tech,30,0
+463,9,"Oct 15, 2024",Troy,9,South Alabama,25,1
+464,9,"Oct 16, 2024",UTEP,30,Florida Int'l,21,0
+465,9,"Oct 16, 2024",Western Kentucky,31,Sam Houston,14,1
+466,9,"Oct 17, 2024",Marshall,35,Georgia State,20,0
+467,9,"Oct 17, 2024",Virginia Tech,42,Boston College,21,0
+468,9,"Oct 18, 2024",BYU,38,Oklahoma State,35,0
+469,9,"Oct 18, 2024",Duke,23,Florida State,16,0
+470,9,"Oct 18, 2024",Fresno State,24,Nevada,21,1
+471,9,"Oct 18, 2024",Oregon,35,Purdue,0,1
+472,9,"Oct 19, 2024",Arkansas State,44,Southern Miss,28,1
+473,9,"Oct 19, 2024",Army,45,East Carolina,28,0
+474,9,"Oct 19, 2024",Baylor,59,Texas Tech,35,1
+475,9,"Oct 19, 2024",Kent State,6,Bowling Green,27,1
+476,9,"Oct 19, 2024",Cincinnati,24,Arizona State,14,0
+477,9,"Oct 19, 2024",Clemson,48,Virginia,31,0
+478,9,"Oct 19, 2024",Arizona,7,Colorado,34,0
+479,9,"Oct 19, 2024",Colorado State,21,Air Force,13,1
+480,9,"Oct 19, 2024",Eastern Michigan,38,Central Michigan,34,0
+481,9,"Oct 19, 2024",Florida,48,Kentucky,20,0
+482,9,"Oct 19, 2024",Georgia,30,Texas,15,1
+483,9,"Oct 19, 2024",Georgia Southern,28,James Madison,14,0
+484,9,"Oct 19, 2024",Michigan,7,Illinois,21,1
+485,9,"Oct 19, 2024",Nebraska,7,Indiana,56,1
+486,9,"Oct 19, 2024",Iowa State,38,UCF,35,0
+487,9,"Oct 19, 2024",Kansas,42,Houston,14,0
+488,9,"Oct 19, 2024",Kansas State,45,West Virginia,18,1
+489,9,"Oct 19, 2024",Louisiana,34,Coastal Carolina,24,1
+490,9,"Oct 19, 2024",LSU,34,Arkansas,10,1
+491,9,"Oct 19, 2024",Maryland,29,USC,28,0
+492,9,"Oct 19, 2024",Memphis,52,North Texas,44,0
+493,9,"Oct 19, 2024",Miami,52,Louisville,45,1
+494,9,"Oct 19, 2024",Miami (OH),30,Ohio,20,0
+495,9,"Oct 19, 2024",Michigan State,32,Iowa,20,0
+496,9,"Oct 19, 2024",Missouri,21,Auburn,17,0
+497,9,"Oct 19, 2024",Navy,51,Charlotte,17,0
+498,9,"Oct 19, 2024",UNLV,33,Oregon State,25,1
+499,9,"Oct 19, 2024",New Mexico,50,Utah State,45,1
+500,9,"Oct 19, 2024",NC State,24,California,23,1
+501,9,"Oct 19, 2024",Notre Dame,31,Georgia Tech,13,0
+502,9,"Oct 19, 2024",Old Dominion,24,Texas State,14,0
+503,9,"Oct 19, 2024",San Jose State,24,Wyoming,14,0
+504,9,"Oct 19, 2024",Oklahoma,9,South Carolina,35,0
+505,9,"Oct 19, 2024",South Florida,35,UAB,25,0
+506,9,"Oct 19, 2024",SMU,40,Stanford,10,1
+507,9,"Oct 19, 2024",Temple,20,Tulsa,10,0
+508,9,"Oct 19, 2024",Tennessee,24,Alabama,17,0
+509,9,"Oct 19, 2024",Texas A&M,34,Mississippi State,24,1
+510,9,"Oct 19, 2024",Utah,7,TCU,13,0
+511,9,"Oct 19, 2024",UTSA,38,Florida Atlantic,24,0
+512,9,"Oct 19, 2024",Northern Illinois,6,Toledo,13,0
+513,9,"Oct 19, 2024",Tulane,24,Rice,10,0
+514,9,"Oct 19, 2024",UCLA,35,Rutgers,32,1
+515,9,"Oct 19, 2024",Vanderbilt,24,Ball State,14,0
+516,9,"Oct 19, 2024",Wake Forest,23,Connecticut,20,1
+517,9,"Oct 19, 2024",Washington State,42,Hawaii,10,0
+518,9,"Oct 19, 2024",Western Michigan,48,Buffalo,41,1
+519,9,"Oct 19, 2024",Northwestern,3,Wisconsin,23,0
+520,10,"Oct 22, 2024",Louisiana Tech,14,UTEP,10,0
+521,10,"Oct 22, 2024",Florida Int'l,7,Sam Houston,10,0
+522,10,"Oct 23, 2024",Jacksonville State,42,Middle Tennessee,20,0
+523,10,"Oct 23, 2024",Kennesaw State,27,Liberty,24,0
+524,10,"Oct 24, 2024",Old Dominion,47,Georgia Southern,19,0
+525,10,"Oct 24, 2024",Pitt,41,Syracuse,13,0
+526,10,"Oct 25, 2024",Boise State,29,UNLV,24,1
+527,10,"Oct 25, 2024",Louisville,31,Boston College,27,1
+528,10,"Oct 25, 2024",USC,42,Rutgers,20,0
+529,10,"Oct 26, 2024",Akron,25,Eastern Michigan,21,0
+530,10,"Oct 26, 2024",Alabama,34,Missouri,0,0
+531,10,"Oct 26, 2024",Appalachian State,33,Georgia State,26,0
+532,10,"Oct 26, 2024",Arkansas,58,Mississippi State,25,1
+533,10,"Oct 26, 2024",Arkansas State,34,Troy,31,0
+534,10,"Oct 26, 2024",Auburn,24,Kentucky,10,1
+535,10,"Oct 26, 2024",Ball State,25,Northern Illinois,23,0
+536,10,"Oct 26, 2024",Baylor,38,Oklahoma State,28,0
+537,10,"Oct 26, 2024",Bowling Green,41,Toledo,26,1
+538,10,"Oct 26, 2024",BYU,37,UCF,24,1
+539,10,"Oct 26, 2024",Oregon State,7,California,44,1
+540,10,"Oct 26, 2024",Colorado,34,Cincinnati,23,0
+541,10,"Oct 26, 2024",New Mexico,6,Colorado State,17,1
+542,10,"Oct 26, 2024",Connecticut,17,Rice,10,0
+543,10,"Oct 26, 2024",East Carolina,56,Temple,34,0
+544,10,"Oct 26, 2024",Fresno State,33,San Jose State,10,0
+545,10,"Oct 26, 2024",Houston,17,Utah,14,0
+546,10,"Oct 26, 2024",Indiana,31,Washington,17,0
+547,10,"Oct 26, 2024",Iowa,40,Northwestern,14,0
+548,10,"Oct 26, 2024",James Madison,32,Southern Miss,15,0
+549,10,"Oct 26, 2024",Kansas State,29,Kansas,27,0
+550,10,"Oct 26, 2024",Wagner,7,Massachusetts,35,1
+551,10,"Oct 26, 2024",Memphis,33,Charlotte,28,0
+552,10,"Oct 26, 2024",Miami,36,Florida State,14,0
+553,10,"Oct 26, 2024",Central Michigan,7,Miami (OH),46,1
+554,10,"Oct 26, 2024",Michigan,24,Michigan State,17,0
+555,10,"Oct 26, 2024",Minnesota,48,Maryland,23,0
+556,10,"Oct 26, 2024",Ole Miss,26,Oklahoma,14,0
+557,10,"Oct 26, 2024",North Carolina,41,Virginia,14,1
+558,10,"Oct 26, 2024",Notre Dame,51,Navy,14,0
+559,10,"Oct 26, 2024",Ohio,47,Buffalo,16,0
+560,10,"Oct 26, 2024",Ohio State,21,Nebraska,17,0
+561,10,"Oct 26, 2024",Illinois,9,Oregon,38,1
+562,10,"Oct 26, 2024",Penn State,28,Wisconsin,13,1
+563,10,"Oct 26, 2024",South Alabama,46,Louisiana-Monroe,17,0
+564,10,"Oct 26, 2024",SMU,28,Duke,27,1
+565,10,"Oct 26, 2024",Texas,27,Vanderbilt,24,1
+566,10,"Oct 26, 2024",Texas A&M,38,LSU,23,0
+567,10,"Oct 26, 2024",TCU,35,Texas Tech,34,0
+568,10,"Oct 26, 2024",Tulane,45,North Texas,37,1
+569,10,"Oct 26, 2024",Tulsa,46,UTSA,45,0
+570,10,"Oct 26, 2024",Utah State,27,Wyoming,25,1
+571,10,"Oct 26, 2024",Georgia Tech,6,Virginia Tech,21,1
+572,10,"Oct 26, 2024",Wake Forest,27,Stanford,24,1
+573,10,"Oct 26, 2024",Washington State,29,San Diego State,26,1
+574,10,"Oct 26, 2024",West Virginia,31,Arizona,26,1
+575,10,"Oct 26, 2024",Western Michigan,52,Kent State,21,0
+576,10,"Oct 27, 2024",Hawaii,34,Nevada,13,0
+577,11,"Oct 29, 2024",Florida Int'l,34,New Mexico State,13,0
+578,11,"Oct 29, 2024",Louisiana,23,Texas State,17,1
+579,11,"Oct 29, 2024",Sam Houston,9,Louisiana Tech,3,0
+580,11,"Oct 30, 2024",Jacksonville State,31,Liberty,21,1
+581,11,"Oct 30, 2024",Western Kentucky,31,Kennesaw State,14,0
+582,11,"Oct 31, 2024",Tulane,34,Charlotte,3,1
+583,11,"Nov 1, 2024",Boise State,56,San Diego State,24,0
+584,11,"Nov 1, 2024",Connecticut,34,Georgia State,27,0
+585,11,"Nov 1, 2024",South Florida,44,Florida Atlantic,21,1
+586,11,"Nov 2, 2024",UAB,59,Tulsa,21,0
+587,11,"Nov 2, 2024",Appalachian State,28,Old Dominion,20,0
+588,11,"Nov 2, 2024",Arizona State,42,Oklahoma State,21,1
+589,11,"Nov 2, 2024",Air Force,3,Army,20,1
+590,11,"Nov 2, 2024",Baylor,37,TCU,34,0
+591,11,"Nov 2, 2024",Buffalo,41,Akron,30,1
+592,11,"Nov 2, 2024",UCF,56,Arizona,12,0
+593,11,"Nov 2, 2024",Colorado State,38,Nevada,21,1
+594,11,"Nov 2, 2024",Georgia,34,Florida,20,0
+595,11,"Nov 2, 2024",Georgia Southern,34,South Alabama,30,1
+596,11,"Nov 2, 2024",Hawaii,21,Fresno State,20,1
+597,11,"Nov 2, 2024",Houston,24,Kansas State,19,0
+598,11,"Nov 2, 2024",Indiana,47,Michigan State,10,1
+599,11,"Nov 2, 2024",Iowa,42,Wisconsin,10,0
+600,11,"Nov 2, 2024",Louisville,33,Clemson,21,1
+601,11,"Nov 2, 2024",Marshall,28,Louisiana-Monroe,23,0
+602,11,"Nov 2, 2024",Miami,53,Duke,31,0
+603,11,"Nov 2, 2024",Middle Tennessee,20,UTEP,13,1
+604,11,"Nov 2, 2024",Minnesota,25,Illinois,17,1
+605,11,"Nov 2, 2024",Ole Miss,63,Arkansas,31,1
+606,11,"Nov 2, 2024",Mississippi State,45,Massachusetts,20,0
+607,11,"Nov 2, 2024",North Carolina,35,Florida State,11,1
+608,11,"Nov 2, 2024",NC State,59,Stanford,28,0
+609,11,"Nov 2, 2024",Northwestern,26,Purdue,20,1
+610,11,"Nov 2, 2024",Ohio State,20,Penn State,13,1
+611,11,"Nov 2, 2024",Oklahoma,59,Maine,14,0
+612,11,"Nov 2, 2024",Oregon,38,Michigan,17,1
+613,11,"Nov 2, 2024",Rice,24,Navy,10,0
+614,11,"Nov 2, 2024",South Carolina,44,Texas A&M,20,0
+615,11,"Nov 2, 2024",SMU,48,Pitt,25,0
+616,11,"Nov 2, 2024",Syracuse,38,Virginia Tech,31,0
+617,11,"Nov 2, 2024",Tennessee,28,Kentucky,18,0
+618,11,"Nov 2, 2024",Texas Tech,23,Iowa State,22,1
+619,11,"Nov 2, 2024",UTSA,44,Memphis,36,0
+620,11,"Nov 2, 2024",Toledo,29,Eastern Michigan,28,1
+621,11,"Nov 2, 2024",Troy,38,Coastal Carolina,24,0
+622,11,"Nov 2, 2024",UCLA,27,Nebraska,20,1
+623,11,"Nov 2, 2024",Auburn,7,Vanderbilt,17,0
+624,11,"Nov 2, 2024",Washington,26,USC,21,0
+625,11,"Nov 2, 2024",Wyoming,49,New Mexico,45,1
+626,12,"Nov 5, 2024",Bowling Green,23,Central Michigan,13,1
+627,12,"Nov 5, 2024",Miami (OH),27,Ball State,21,1
+628,12,"Nov 6, 2024",Northern Illinois,42,Western Michigan,28,1
+629,12,"Nov 6, 2024",Ohio,41,Kent State,0,1
+630,12,"Nov 7, 2024",Coastal Carolina,38,Appalachian State,24,0
+631,12,"Nov 7, 2024",East Carolina,49,Florida Atlantic,14,0
+632,12,"Nov 8, 2024",California,46,Wake Forest,36,1
+633,12,"Nov 8, 2024",Memphis,27,Rice,20,0
+634,12,"Nov 8, 2024",New Mexico,21,San Diego State,16,1
+635,12,"Nov 8, 2024",UCLA,20,Iowa,17,0
+636,12,"Nov 9, 2024",Air Force,36,Fresno State,28,0
+637,12,"Nov 9, 2024",Alabama,42,LSU,13,1
+638,12,"Nov 9, 2024",Arizona State,35,UCF,31,0
+639,12,"Nov 9, 2024",North Texas,3,Army,14,0
+640,12,"Nov 9, 2024",Boise State,28,Nevada,21,0
+641,12,"Nov 9, 2024",Boston College,37,Syracuse,31,0
+642,12,"Nov 9, 2024",BYU,22,Utah,21,1
+643,12,"Nov 9, 2024",Clemson,24,Virginia Tech,14,1
+644,12,"Nov 9, 2024",Colorado,41,Texas Tech,27,1
+645,12,"Nov 9, 2024",Connecticut,31,UAB,23,1
+646,12,"Nov 9, 2024",Duke,29,NC State,19,1
+647,12,"Nov 9, 2024",Georgia Tech,28,Miami,23,0
+648,12,"Nov 9, 2024",Indiana,20,Michigan,15,0
+649,12,"Nov 9, 2024",Jacksonville State,44,Louisiana Tech,37,1
+650,12,"Nov 9, 2024",Georgia State,7,James Madison,38,1
+651,12,"Nov 9, 2024",Kansas,45,Iowa State,36,0
+652,12,"Nov 9, 2024",Liberty,37,Middle Tennessee,17,1
+653,12,"Nov 9, 2024",Louisiana,55,Arkansas State,19,0
+654,12,"Nov 9, 2024",Marshall,37,Southern Miss,3,1
+655,12,"Nov 9, 2024",Ole Miss,28,Georgia,10,0
+656,12,"Nov 9, 2024",Missouri,30,Oklahoma,23,0
+657,12,"Nov 9, 2024",South Florida,7,Navy,28,0
+658,12,"Nov 9, 2024",UNLV,29,Hawaii,27,1
+659,12,"Nov 9, 2024",Notre Dame,52,Florida State,3,0
+660,12,"Nov 9, 2024",Ohio State,45,Purdue,0,0
+661,12,"Nov 9, 2024",Oregon,39,Maryland,18,0
+662,12,"Nov 9, 2024",Washington,6,Penn State,35,1
+663,12,"Nov 9, 2024",Rutgers,26,Minnesota,19,0
+664,12,"Nov 9, 2024",San Jose State,24,Oregon State,13,1
+665,12,"Nov 9, 2024",Vanderbilt,7,South Carolina,28,0
+666,12,"Nov 9, 2024",Tennessee,33,Mississippi State,14,0
+667,12,"Nov 9, 2024",Texas,49,Florida,17,0
+668,12,"Nov 9, 2024",TCU,38,Oklahoma State,13,0
+669,12,"Nov 9, 2024",Texas State,38,Louisiana-Monroe,17,1
+670,12,"Nov 9, 2024",UTEP,43,Kennesaw State,35,0
+671,12,"Nov 9, 2024",Temple,6,Tulane,52,1
+672,12,"Nov 9, 2024",Virginia,24,Pitt,19,1
+673,12,"Nov 9, 2024",Washington State,49,Utah State,28,0
+674,12,"Nov 9, 2024",West Virginia,31,Cincinnati,24,1
+675,12,"Nov 9, 2024",Western Kentucky,41,New Mexico State,28,1
+676,13,"Nov 12, 2024",Bowling Green,31,Western Michigan,13,0
+677,13,"Nov 12, 2024",Buffalo,51,Ball State,48,0
+678,13,"Nov 12, 2024",Toledo,37,Central Michigan,10,0
+679,13,"Nov 13, 2024",Kent State,7,Miami (OH),34,1
+680,13,"Nov 13, 2024",Northern Illinois,29,Akron,16,0
+681,13,"Nov 13, 2024",Ohio,35,Eastern Michigan,10,0
+682,13,"Nov 14, 2024",East Carolina,38,Tulsa,31,1
+683,13,"Nov 15, 2024",Houston,3,Arizona,27,1
+684,13,"Nov 15, 2024",Colorado State,24,Wyoming,10,0
+685,13,"Nov 15, 2024",UTSA,48,North Texas,27,0
+686,13,"Nov 15, 2024",Washington,31,UCLA,19,0
+687,13,"Nov 16, 2024",Air Force,28,Oregon State,0,0
+688,13,"Nov 16, 2024",Mercer,7,Alabama,52,1
+689,13,"Nov 16, 2024",Arizona State,24,Kansas State,14,1
+690,13,"Nov 16, 2024",Arkansas State,27,Georgia State,20,1
+691,13,"Nov 16, 2024",Auburn,48,Louisiana-Monroe,14,0
+692,13,"Nov 16, 2024",Baylor,49,West Virginia,35,1
+693,13,"Nov 16, 2024",Boise State,42,San Jose State,21,1
+694,13,"Nov 16, 2024",Clemson,24,Pitt,20,1
+695,13,"Nov 16, 2024",Colorado,49,Utah,24,0
+696,13,"Nov 16, 2024",Florida,27,LSU,16,0
+697,13,"Nov 16, 2024",Georgia,31,Tennessee,17,0
+698,13,"Nov 16, 2024",Illinois,38,Michigan State,16,0
+699,13,"Nov 16, 2024",Iowa State,34,Cincinnati,17,0
+700,13,"Nov 16, 2024",Jacksonville State,34,Florida Int'l,31,0
+701,13,"Nov 16, 2024",James Madison,35,Old Dominion,32,1
+702,13,"Nov 16, 2024",Kansas,17,BYU,13,1
+703,13,"Nov 16, 2024",Murray State,6,Kentucky,48,1
+704,13,"Nov 16, 2024",Liberty,35,Massachusetts,34,1
+705,13,"Nov 16, 2024",Western Kentucky,7,Louisiana Tech,12,0
+706,13,"Nov 16, 2024",Marshall,31,Coastal Carolina,19,0
+707,13,"Nov 16, 2024",Memphis,53,UAB,18,0
+708,13,"Nov 16, 2024",UNLV,41,San Diego State,20,0
+709,13,"Nov 16, 2024",New Mexico,38,Washington State,35,0
+710,13,"Nov 16, 2024",North Carolina,31,Wake Forest,24,0
+711,13,"Nov 16, 2024",Notre Dame,35,Virginia,14,0
+712,13,"Nov 16, 2024",Northwestern,7,Ohio State,31,0
+713,13,"Nov 16, 2024",Oregon,16,Wisconsin,13,1
+714,13,"Nov 16, 2024",Penn State,49,Purdue,10,1
+715,13,"Nov 16, 2024",Rutgers,31,Maryland,17,1
+716,13,"Nov 16, 2024",Sam Houston,23,Kennesaw State,17,1
+717,13,"Nov 16, 2024",South Alabama,24,Louisiana,22,1
+718,13,"Nov 16, 2024",South Carolina,34,Missouri,30,0
+719,13,"Nov 16, 2024",South Florida,59,Charlotte,24,1
+720,13,"Nov 16, 2024",USC,28,Nebraska,20,0
+721,13,"Nov 16, 2024",SMU,38,Boston College,28,0
+722,13,"Nov 16, 2024",Stanford,38,Louisville,35,0
+723,13,"Nov 16, 2024",Syracuse,33,California,25,1
+724,13,"Nov 16, 2024",Temple,18,Florida Atlantic,15,0
+725,13,"Nov 16, 2024",Texas,20,Arkansas,10,1
+726,13,"Nov 16, 2024",Texas A&M,38,New Mexico State,3,0
+727,13,"Nov 16, 2024",Texas State,58,Southern Miss,3,0
+728,13,"Nov 16, 2024",Troy,28,Georgia Southern,20,1
+729,13,"Nov 16, 2024",Tulane,35,Navy,0,1
+730,13,"Nov 16, 2024",Utah State,55,Hawaii,10,0
+731,14,"Nov 19, 2024",Akron,38,Kent State,17,1
+732,14,"Nov 19, 2024",Central Michigan,16,Western Michigan,14,0
+733,14,"Nov 19, 2024",Northern Illinois,9,Miami (OH),20,1
+734,14,"Nov 20, 2024",Buffalo,37,Eastern Michigan,20,1
+735,14,"Nov 20, 2024",Toledo,7,Ohio,24,0
+736,14,"Nov 21, 2024",Georgia Tech,30,NC State,29,0
+737,14,"Nov 22, 2024",Michigan State,24,Purdue,17,0
+738,14,"Nov 22, 2024",UNLV,27,San Jose State,16,1
+739,14,"Nov 22, 2024",UTSA,51,Temple,27,0
+740,14,"Nov 23, 2024",Air Force,22,Nevada,19,1
+741,14,"Nov 23, 2024",UAB,40,Rice,14,0
+742,14,"Nov 23, 2024",Appalachian State,34,James Madison,20,0
+743,14,"Nov 23, 2024",Arizona State,28,BYU,23,0
+744,14,"Nov 23, 2024",Arkansas,35,Louisiana Tech,14,0
+745,14,"Nov 23, 2024",Arkansas State,28,Louisiana-Monroe,21,0
+746,14,"Nov 23, 2024",Auburn,43,Texas A&M,41,0
+747,14,"Nov 23, 2024",Baylor,20,Houston,10,1
+748,14,"Nov 23, 2024",Boise State,17,Wyoming,13,1
+749,14,"Nov 23, 2024",Boston College,41,North Carolina,21,0
+750,14,"Nov 23, 2024",Bowling Green,38,Ball State,13,1
+751,14,"Nov 23, 2024",California,24,Stanford,21,0
+752,14,"Nov 23, 2024",Charlotte,39,Florida Atlantic,27,1
+753,14,"Nov 23, 2024",Clemson,51,Citadel,14,0
+754,14,"Nov 23, 2024",Duke,31,Virginia Tech,28,0
+755,14,"Nov 23, 2024",East Carolina,40,North Texas,28,1
+756,14,"Nov 23, 2024",Florida,24,Ole Miss,17,0
+757,14,"Nov 23, 2024",Charleston Southern,7,Florida State,41,1
+758,14,"Nov 23, 2024",Fresno State,28,Colorado State,22,0
+759,14,"Nov 23, 2024",Georgia,59,Massachusetts,21,0
+760,14,"Nov 23, 2024",Coastal Carolina,6,Georgia Southern,26,0
+761,14,"Nov 23, 2024",Georgia State,52,Texas State,44,1
+762,14,"Nov 23, 2024",Illinois,38,Rutgers,31,1
+763,14,"Nov 23, 2024",Iowa,29,Maryland,13,1
+764,14,"Nov 23, 2024",Iowa State,31,Utah,28,1
+765,14,"Nov 23, 2024",Jacksonville State,21,Sam Houston,11,0
+766,14,"Nov 23, 2024",Kansas,37,Colorado,21,0
+767,14,"Nov 23, 2024",Kansas State,41,Cincinnati,15,0
+768,14,"Nov 23, 2024",Kennesaw State,27,Florida Int'l,26,0
+769,14,"Nov 23, 2024",Liberty,38,Western Kentucky,21,0
+770,14,"Nov 23, 2024",Louisiana,51,Troy,30,0
+771,14,"Nov 23, 2024",LSU,24,Vanderbilt,17,0
+772,14,"Nov 23, 2024",Pitt,9,Louisville,37,1
+773,14,"Nov 23, 2024",Marshall,42,Old Dominion,35,1
+774,14,"Nov 23, 2024",Miami,42,Wake Forest,14,0
+775,14,"Nov 23, 2024",Northwestern,6,Michigan,50,1
+776,14,"Nov 23, 2024",Missouri,39,Mississippi State,20,1
+777,14,"Nov 23, 2024",Nebraska,44,Wisconsin,25,0
+778,14,"Nov 23, 2024",New Mexico State,36,Middle Tennessee,21,1
+779,14,"Nov 23, 2024",Notre Dame,49,Army,14,0
+780,14,"Nov 23, 2024",Ohio State,38,Indiana,15,0
+781,14,"Nov 23, 2024",Alabama,3,Oklahoma,24,1
+782,14,"Nov 23, 2024",Oregon State,41,Washington State,38,0
+783,14,"Nov 23, 2024",Penn State,26,Minnesota,25,1
+784,14,"Nov 23, 2024",South Alabama,35,Southern Miss,14,1
+785,14,"Nov 23, 2024",South Carolina,56,Wofford,12,0
+786,14,"Nov 23, 2024",South Florida,63,Tulsa,30,0
+787,14,"Nov 23, 2024",USC,19,UCLA,13,1
+788,14,"Nov 23, 2024",Virginia,7,SMU,33,0
+789,14,"Nov 23, 2024",Syracuse,31,Connecticut,24,0
+790,14,"Nov 23, 2024",Tennessee,56,UTEP,0,0
+791,14,"Nov 23, 2024",Texas,31,Kentucky,14,0
+792,14,"Nov 23, 2024",TCU,49,Arizona,28,0
+793,14,"Nov 23, 2024",Texas Tech,56,Oklahoma State,48,1
+794,14,"Nov 23, 2024",Utah State,41,San Diego State,20,0
+795,14,"Nov 23, 2024",West Virginia,31,UCF,21,0
+796,15,"Nov 26, 2024",Akron,21,Toledo,14,0
+797,15,"Nov 26, 2024",Kent State,7,Buffalo,43,1
+798,15,"Nov 28, 2024",Memphis,34,Tulane,24,1
+799,15,"Nov 29, 2024",Boise State,34,Oregon State,18,0
+800,15,"Nov 29, 2024",Colorado,52,Oklahoma State,0,0
+801,15,"Nov 29, 2024",Colorado State,42,Utah State,37,0
+802,15,"Nov 29, 2024",Georgia,44,Georgia Tech,42,0
+803,15,"Nov 29, 2024",Iowa,13,Nebraska,10,0
+804,15,"Nov 29, 2024",Miami (OH),28,Bowling Green,12,1
+805,15,"Nov 29, 2024",Wisconsin,7,Minnesota,24,0
+806,15,"Nov 29, 2024",Ole Miss,26,Mississippi State,14,0
+807,15,"Nov 29, 2024",Navy,34,East Carolina,20,1
+808,15,"Nov 29, 2024",Ohio,42,Ball State,21,0
+809,15,"Nov 29, 2024",Sam Houston,20,Liberty,18,0
+810,15,"Nov 29, 2024",San Jose State,34,Stanford,31,0
+811,15,"Nov 29, 2024",Texas State,45,South Alabama,38,1
+812,15,"Nov 29, 2024",Utah,28,UCF,14,1
+813,15,"Nov 30, 2024",Air Force,31,San Diego State,20,1
+814,15,"Nov 30, 2024",Alabama,28,Auburn,14,0
+815,15,"Nov 30, 2024",Arizona,7,Arizona State,49,0
+816,15,"Nov 30, 2024",Army,29,UTSA,24,0
+817,15,"Nov 30, 2024",Baylor,45,Kansas,17,0
+818,15,"Nov 30, 2024",Boston College,34,Pitt,23,0
+819,15,"Nov 30, 2024",BYU,30,Houston,18,0
+820,15,"Nov 30, 2024",Charlotte,29,UAB,27,0
+821,15,"Nov 30, 2024",Coastal Carolina,48,Georgia State,27,1
+822,15,"Nov 30, 2024",Connecticut,47,Massachusetts,42,1
+823,15,"Nov 30, 2024",Duke,23,Wake Forest,17,1
+824,15,"Nov 30, 2024",Florida,31,Florida State,11,1
+825,15,"Nov 30, 2024",Florida Atlantic,63,Tulsa,16,1
+826,15,"Nov 30, 2024",Florida Int'l,35,Middle Tennessee,24,0
+827,15,"Nov 30, 2024",Georgia Southern,29,Appalachian State,20,0
+828,15,"Nov 30, 2024",Hawaii,38,New Mexico,30,0
+829,15,"Nov 30, 2024",Illinois,38,Northwestern,28,1
+830,15,"Nov 30, 2024",Indiana,66,Purdue,0,0
+831,15,"Nov 30, 2024",Iowa State,29,Kansas State,21,0
+832,15,"Nov 30, 2024",Louisiana,37,Louisiana-Monroe,23,1
+833,15,"Nov 30, 2024",LSU,37,Oklahoma,17,0
+834,15,"Nov 30, 2024",Louisiana Tech,33,Kennesaw State,0,0
+835,15,"Nov 30, 2024",Louisville,41,Kentucky,14,1
+836,15,"Nov 30, 2024",Marshall,35,James Madison,33,1
+837,15,"Nov 30, 2024",Michigan,13,Ohio State,10,1
+838,15,"Nov 30, 2024",Missouri,28,Arkansas,21,0
+839,15,"Nov 30, 2024",UNLV,38,Nevada,14,0
+840,15,"Nov 30, 2024",NC State,35,North Carolina,30,1
+841,15,"Nov 30, 2024",North Texas,24,Temple,17,1
+842,15,"Nov 30, 2024",Northern Illinois,24,Central Michigan,16,0
+843,15,"Nov 30, 2024",Notre Dame,49,USC,35,1
+844,15,"Nov 30, 2024",Old Dominion,40,Arkansas State,32,1
+845,15,"Nov 30, 2024",Oregon,49,Washington,21,0
+846,15,"Nov 30, 2024",Maryland,7,Penn State,44,1
+847,15,"Nov 30, 2024",Rice,35,South Florida,28,0
+848,15,"Nov 30, 2024",Rutgers,41,Michigan State,14,1
+849,15,"Nov 30, 2024",South Carolina,17,Clemson,14,1
+850,15,"Nov 30, 2024",California,6,SMU,38,1
+851,15,"Nov 30, 2024",Syracuse,42,Miami,38,0
+852,15,"Nov 30, 2024",Tennessee,36,Vanderbilt,23,1
+853,15,"Nov 30, 2024",Texas A&M,7,Texas,17,0
+854,15,"Nov 30, 2024",TCU,20,Cincinnati,13,1
+855,15,"Nov 30, 2024",Texas Tech,52,West Virginia,15,0
+856,15,"Nov 30, 2024",UTEP,42,New Mexico State,35,1
+857,15,"Nov 30, 2024",Troy,52,Southern Miss,20,0
+858,15,"Nov 30, 2024",UCLA,20,Fresno State,13,0
+859,15,"Nov 30, 2024",Virginia Tech,37,Virginia,17,0
+860,15,"Nov 30, 2024",Western Kentucky,19,Jacksonville State,17,0
+861,15,"Nov 30, 2024",Western Michigan,26,Eastern Michigan,18,0
+862,15,"Nov 30, 2024",Wyoming,15,Washington State,14,1
+863,16,"Dec 6, 2024",Army,35,Tulane,14,0
+864,16,"Dec 6, 2024",UNLV,7,Boise State,21,1
+865,16,"Dec 6, 2024",Jacksonville State,52,Western Kentucky,12,0
+866,16,"Dec 7, 2024",Arizona State,45,Iowa State,19,0
+867,16,"Dec 7, 2024",Clemson,34,SMU,31,0
+868,16,"Dec 7, 2024",Georgia,22,Texas,19,0
+869,16,"Dec 7, 2024",Marshall,31,Louisiana,3,1
+870,16,"Dec 7, 2024",Ohio,38,Miami (OH),3,0
+871,16,"Dec 7, 2024",Oregon,45,Penn State,37,0
+872,17,"Dec 14, 2024",Navy,31,Army,13,0
+873,17,"Dec 14, 2024",South Alabama,30,Western Michigan,23,0
+874,18,"Dec 17, 2024",Memphis,42,West Virginia,37,0
+875,18,"Dec 18, 2024",James Madison,27,Western Kentucky,17,0
+876,18,"Dec 18, 2024",UNLV,24,California,13,0
+877,18,"Dec 19, 2024",Sam Houston,31,Georgia Southern,26,0
+878,18,"Dec 20, 2024",Tulane,8,Florida,33,1
+879,18,"Dec 20, 2024",Notre Dame,27,Indiana,17,0
+880,18,"Dec 20, 2024",Ohio,30,Jacksonville State,27,0
+881,18,"Dec 21, 2024",Ohio State,42,Tennessee,17,0
+882,18,"Dec 21, 2024",Penn State,38,SMU,10,0
+883,18,"Dec 21, 2024",Texas,38,Clemson,24,0
+884,18,"Dec 23, 2024",Northern Illinois,28,Fresno State,20,0
+885,18,"Dec 23, 2024",UTSA,44,Coastal Carolina,15,1
+886,19,"Dec 24, 2024",South Florida,41,San Jose State,39,0
+887,19,"Dec 26, 2024",Arkansas State,38,Bowling Green,31,0
+888,19,"Dec 26, 2024",Kansas State,44,Rutgers,41,0
+889,19,"Dec 26, 2024",Toledo,48,Pitt,46,0
+890,19,"Dec 27, 2024",Arkansas,39,Texas Tech,26,0
+891,19,"Dec 27, 2024",Navy,21,Oklahoma,20,0
+892,19,"Dec 27, 2024",USC,35,Texas A&M,31,0
+893,19,"Dec 27, 2024",Syracuse,52,Washington State,35,0
+894,19,"Dec 27, 2024",Vanderbilt,35,Georgia Tech,27,0
+895,19,"Dec 28, 2024",Louisiana Tech,6,Army,27,1
+896,19,"Dec 28, 2024",BYU,36,Colorado,14,0
+897,19,"Dec 28, 2024",Connecticut,27,North Carolina,14,0
+898,19,"Dec 28, 2024",East Carolina,26,NC State,21,0
+899,19,"Dec 28, 2024",Iowa State,42,Miami,41,0
+900,19,"Dec 28, 2024",Miami (OH),43,Colorado State,17,0
+901,19,"Dec 28, 2024",Nebraska,20,Boston College,15,0
+902,19,"Dec 28, 2024",TCU,34,Louisiana,3,0
+903,20,"Dec 30, 2024",Missouri,27,Iowa,24,0
+904,21,"Dec 31, 2024",Illinois,21,South Carolina,17,0
+905,21,"Dec 31, 2024",LSU,44,Baylor,31,0
+906,21,"Dec 31, 2024",Louisville,35,Washington,34,0
+907,21,"Dec 31, 2024",Michigan,19,Alabama,13,0
+908,21,"Dec 31, 2024",Penn State,31,Boise State,14,0
+909,21,"Jan 1, 2025",Ohio State,41,Oregon,21,0
+910,21,"Jan 1, 2025",Texas,39,Arizona State,31,0
+911,21,"Jan 2, 2025",Ole Miss,52,Duke,20,0
+912,21,"Jan 2, 2025",Notre Dame,23,Georgia,10,0
+913,21,"Jan 3, 2025",Minnesota,24,Virginia Tech,10,0
+914,21,"Jan 3, 2025",Texas State,30,North Texas,28,0
+915,21,"Jan 4, 2025",Liberty,7,Buffalo,26,1
+916,22,"Jan 9, 2025",Notre Dame,27,Penn State,24,0
+917,22,"Jan 10, 2025",Ohio State,28,Texas,14,0
+918,23,"Jan 20, 2025",Ohio State,34,Notre Dame,23,0

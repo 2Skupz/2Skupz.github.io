@@ -1,0 +1,521 @@
+0,1,"Sep 23, 1920",Auburn,27,Marion,0,0
+1,1,"Sep 24, 1920",Clemson,26,Erskine,0,0
+2,1,"Sep 24, 1920",Samford,0,Morgan,0,0
+3,1,"Sep 25, 1920",Alabama,59,Southern Military Academy,0,0
+4,1,"Sep 25, 1920",Baylor,9,Austin,0,0
+5,1,"Sep 25, 1920",Birmingham-Southern,47,Hamilton A.C.,0,0
+6,1,"Sep 25, 1920",Brown,25,Rhode Island,0,0
+7,1,"Sep 25, 1920",California,21,Olympic Club,0,0
+8,1,"Sep 25, 1920",Drake,54,William Penn,0,1
+9,1,"Sep 25, 1920",Furman,33,Elon,0,0
+10,1,"Sep 25, 1920",Georgia Tech,44,Wake Forest,0,0
+11,1,"Sep 25, 1920",Harvard,3,Holy Cross,0,0
+12,1,"Sep 25, 1920",Indiana,47,Franklin,0,0
+13,1,"Sep 25, 1920",Lehigh,28,Lebanon Valley,0,1
+14,1,"Sep 25, 1920",Maryland,54,Randolph-Macon,0,0
+15,1,"Sep 25, 1920",NC State,23,Davidson,0,0
+16,1,"Sep 25, 1920",Oglethorpe,66,North Georgia,0,0
+17,1,"Sep 25, 1920",Muhlenberg,7,Penn State,27,1
+18,1,"Sep 25, 1920",Pennsylvania,35,Delaware,0,0
+19,1,"Sep 25, 1920",Phillips,35,Southwestern Oklahoma State,0,0
+20,1,"Sep 25, 1920",SMU,70,Daniel Baker,0,0
+21,1,"Sep 25, 1920",Hobart,7,Syracuse,55,1
+22,1,"Sep 25, 1920",Tennessee,45,Emory & Henry,0,0
+23,1,"Sep 25, 1920",Texas,63,Hardin-Simmons,0,0
+24,1,"Sep 25, 1920",Rutgers,7,Ursinus,14,0
+25,1,"Sep 25, 1920",Virginia,27,William & Mary,0,0
+26,1,"Sep 25, 1920",Virginia Military Institute,54,Roanoke,0,0
+27,1,"Sep 25, 1920",Virginia Tech,35,Hampden-Sydney,0,0
+28,1,"Sep 25, 1920",Washington & Jefferson,28,Bethany (West Virginia),0,0
+29,1,"Sep 25, 1920",West Virginia,14,West Virginia Wesleyan,0,0
+30,2,"Oct 1, 1920",Kansas State,14,Fort Hays State,0,0
+31,2,"Oct 1, 1920",Clemson,7,Presbyterian,7,0
+32,2,"Oct 2, 1920",Alabama,49,Marion,0,0
+33,2,"Oct 2, 1920",Auburn,88,Samford,0,0
+34,2,"Oct 2, 1920",Baylor,7,Oklahoma State,0,0
+35,2,"Oct 2, 1920",Brown,13,Amherst,0,0
+36,2,"Oct 2, 1920",California,88,Mare Island Marines,0,0
+37,2,"Oct 2, 1920",Centre,66,Morris Harvey,0,0
+38,2,"Oct 2, 1920",Chattanooga,21,Tusculum,0,0
+39,2,"Oct 2, 1920",Newberry,6,Clemson,26,1
+40,2,"Oct 2, 1920",Coe,6,Iowa State,0,1
+41,2,"Oct 2, 1920",Colorado State,13,Wyoming,0,1
+42,2,"Oct 2, 1920",Rochester,6,Cornell,13,1
+43,2,"Oct 2, 1920",Dartmouth,31,Norwich,0,0
+44,2,"Oct 2, 1920",Denver,20,Northern Colorado,0,0
+45,2,"Oct 2, 1920",Drake,66,Simpson,0,0
+46,2,"Oct 2, 1920",Furman,41,Erskine,0,0
+47,2,"Oct 2, 1920",Georgia,40,Citadel,0,0
+48,2,"Oct 2, 1920",Georgia Tech,55,Oglethorpe,0,0
+49,2,"Oct 2, 1920",Grinnell,42,William Penn,0,0
+50,2,"Oct 2, 1920",SMU,0,Hardin-Simmons,0,0
+51,2,"Oct 2, 1920",Harvard,41,Maine,0,0
+52,2,"Oct 2, 1920",Indiana,7,Iowa,14,0
+53,2,"Oct 2, 1920",Kansas,47,Emporia State,0,0
+54,2,"Oct 2, 1920",Kentucky,62,Rhodes,0,0
+55,2,"Oct 2, 1920",Lafayette,20,Muhlenberg,0,0
+56,2,"Oct 2, 1920",West Virginia,7,Lehigh,7,0
+57,2,"Oct 2, 1920",LSU,81,Jefferson (LA),0,0
+58,2,"Oct 2, 1920",LSU,34,Northwestern State,0,0
+59,2,"Oct 2, 1920",Mercer,59,Lanier,0,0
+60,2,"Oct 2, 1920",Minnesota,41,North Dakota,3,0
+61,2,"Oct 2, 1920",Mississippi State,27,Mississippi College,0,0
+62,2,"Oct 2, 1920",Missouri,41,Missouri Wesleyan,0,0
+63,2,"Oct 2, 1920",Nebraska,14,Washburn,0,0
+64,2,"Oct 2, 1920",North Carolina,6,Wake Forest,0,0
+65,2,"Oct 2, 1920",Navy,7,NC State,14,0
+66,2,"Oct 2, 1920",Northwestern,14,Knox,0,0
+67,2,"Oct 2, 1920",Notre Dame,39,Kalamazoo,0,0
+68,2,"Oct 2, 1920",Ohio State,55,Ohio Wesleyan,0,0
+69,2,"Oct 2, 1920",Penn State,13,Gettysburg,0,0
+70,2,"Oct 2, 1920",Pennsylvania,7,Bucknell,0,0
+71,2,"Oct 2, 1920",Southwestern Oklahoma State,7,Phillips,27,0
+72,2,"Oct 2, 1920",Pitt,47,Geneva,0,1
+73,2,"Oct 2, 1920",Swarthmore,6,Princeton,17,1
+74,2,"Oct 2, 1920",Purdue,10,DePauw,0,0
+75,2,"Oct 2, 1920",Rutgers,6,Maryland,0,0
+76,2,"Oct 2, 1920",Sewanee,7,Bryson,0,0
+77,2,"Oct 2, 1920",South Carolina,10,Wofford,0,0
+78,2,"Oct 2, 1920",Stanford,41,Saint Mary's (CA),0,0
+79,2,"Oct 2, 1920",Colgate,0,Susquehanna,0,0
+80,2,"Oct 2, 1920",Syracuse,49,Vermont,0,0
+81,2,"Oct 2, 1920",Tennessee,47,Maryville (TN),0,0
+82,2,"Oct 2, 1920",Texas,27,Southwestern (TX),0,0
+83,2,"Oct 2, 1920",Texas A&M,110,Daniel Baker,0,0
+84,2,"Oct 2, 1920",TCU,20,Southeastern Oklahoma State,0,0
+85,2,"Oct 2, 1920",Tulane,79,Louisiana,0,0
+86,2,"Oct 2, 1920",Vanderbilt,54,Birmingham-Southern,0,0
+87,2,"Oct 2, 1920",Virginia,65,Randolph-Macon,0,0
+88,2,"Oct 2, 1920",Virginia Military Institute,136,Hampden-Sydney,0,0
+89,2,"Oct 2, 1920",Virginia Tech,21,William & Mary,0,0
+90,2,"Oct 2, 1920",West Virginia Wesleyan,7,Washington & Jefferson,7,0
+91,2,"Oct 2, 1920",Washington & Lee,6,Davidson,0,0
+92,2,"Oct 2, 1920",Washington (MO),21,Missouri-Rolla,0,0
+93,2,"Oct 2, 1920",Wisconsin,60,Lawrence,0,0
+94,2,"Oct 2, 1920",Yale,44,Carnegie Mellon,0,0
+95,2,"Oct 4, 1920",Colorado College,41,New Mexico,3,0
+96,3,"Oct 8, 1920",Kansas State,55,Camp Funston,0,0
+97,3,"Oct 8, 1920",Phillips,7,Haskell,6,0
+98,3,"Oct 9, 1920",Alabama,45,Birmingham-Southern,0,0
+99,3,"Oct 9, 1920",Colgate,7,Allegheny,7,0
+100,3,"Oct 9, 1920",Fort Benning,2,Auburn,14,1
+101,3,"Oct 9, 1920",Maine,6,Brown,32,1
+102,3,"Oct 9, 1920",California,127,Saint Mary's (CA),0,0
+103,3,"Oct 9, 1920",Centre,120,Samford,0,0
+104,3,"Oct 9, 1920",Chicago,20,Purdue,0,0
+105,3,"Oct 9, 1920",Wofford,7,Clemson,13,1
+106,3,"Oct 9, 1920",St. Bonaventure,7,Cornell,55,1
+107,3,"Oct 9, 1920",Florida,21,Newberry,0,0
+108,3,"Oct 9, 1920",Citadel,6,Furman,21,0
+109,3,"Oct 9, 1920",Georgetown,27,NC State,0,0
+110,3,"Oct 9, 1920",Georgia,37,South Carolina,0,1
+111,3,"Oct 9, 1920",Georgia Tech,66,Davidson,0,0
+112,3,"Oct 9, 1920",Harvard,21,Valparaiso,0,0
+113,3,"Oct 9, 1920",Arkansas,0,Hendrix,0,0
+114,3,"Oct 9, 1920",Illinois,41,Drake,0,0
+115,3,"Oct 9, 1920",Indiana,24,Mississippi State,0,0
+116,3,"Oct 9, 1920",Iowa,63,Cornell College,0,0
+117,3,"Oct 9, 1920",Iowa State,28,Grinnell,0,1
+118,3,"Oct 9, 1920",Kansas,6,Washburn,0,0
+119,3,"Oct 9, 1920",Kentucky,31,Maryville (TN),0,0
+120,3,"Oct 9, 1920",Lehigh,9,Rutgers,0,0
+121,3,"Oct 9, 1920",LSU,40,Spring Hill,0,0
+122,3,"Oct 9, 1920",Stetson,6,Mercer,19,0
+123,3,"Oct 9, 1920",Michigan,35,Case,0,0
+124,3,"Oct 9, 1920",Missouri,44,Saint Louis,0,1
+125,3,"Oct 9, 1920",Lafayette,7,Navy,12,1
+126,3,"Oct 9, 1920",Nebraska,7,Colorado State,0,0
+127,3,"Oct 9, 1920",Northwestern,17,Minnesota,0,0
+128,3,"Oct 9, 1920",Notre Dame,42,Western Michigan,0,0
+129,3,"Oct 9, 1920",Chattanooga,14,Oglethorpe,14,0
+130,3,"Oct 9, 1920",Ohio State,37,Oberlin,0,0
+131,3,"Oct 9, 1920",Central Oklahoma,7,Oklahoma,16,1
+132,3,"Oct 9, 1920",Stanford,7,Olympic Club,10,0
+133,3,"Oct 9, 1920",Oregon,7,Multnomah A.C.,0,0
+134,3,"Oct 9, 1920",Dartmouth,7,Penn State,14,1
+135,3,"Oct 9, 1920",Pennsylvania,21,Swarthmore,0,0
+136,3,"Oct 9, 1920",Pitt,34,West Virginia,13,0
+137,3,"Oct 9, 1920",Princeton,35,Maryland,0,0
+138,3,"Oct 9, 1920",Rice,28,Baylor,0,0
+139,3,"Oct 9, 1920",Sewanee,54,Georgetown (Kentucky),0,0
+140,3,"Oct 9, 1920",Syracuse,45,Johns Hopkins,0,0
+141,3,"Oct 9, 1920",Howard Payne,7,Texas,41,1
+142,3,"Oct 9, 1920",Texas A&M,3,SMU,0,1
+143,3,"Oct 9, 1920",TCU,9,Austin,7,0
+144,3,"Oct 9, 1920",Southwestern (TX),3,Texas State,3,0
+145,3,"Oct 9, 1920",Tulane,29,Mississippi College,0,0
+146,3,"Oct 9, 1920",Tulsa,21,Oklahoma State,14,0
+147,3,"Oct 9, 1920",Utah State,21,Ogden A.C.,0,1
+148,3,"Oct 9, 1920",Vanderbilt,20,Tennessee,0,1
+149,3,"Oct 9, 1920",Virginia,6,Virginia Military Institute,22,0
+150,3,"Oct 9, 1920",Virginia Tech,75,Emory & Henry,6,0
+151,3,"Oct 9, 1920",Washington,33,Whitman,14,0
+152,3,"Oct 9, 1920",Washington & Jefferson,67,Kalamazoo,0,0
+153,3,"Oct 9, 1920",Washington & Lee,27,Wake Forest,0,0
+154,3,"Oct 9, 1920",Washington (MO),36,Drury,0,1
+155,3,"Oct 9, 1920",Washington State,35,Gonzaga,0,1
+156,3,"Oct 9, 1920",Wisconsin,27,Michigan State,0,0
+157,3,"Oct 9, 1920",Denver,7,Wyoming,10,0
+158,3,"Oct 9, 1920",Yale,21,North Carolina,0,0
+159,4,"Oct 13, 1920",Georgia,7,Furman,0,1
+160,4,"Oct 15, 1920",Auburn,21,Clemson,0,1
+161,4,"Oct 15, 1920",Kansas State,7,Emporia State,7,0
+162,4,"Oct 15, 1920",Newberry,9,Wofford,7,0
+163,4,"Oct 15, 1920",SMU,14,Howard Payne,0,0
+164,4,"Oct 15, 1920",Idaho,7,Washington State,14,0
+165,4,"Oct 16, 1920",Alabama,57,Mississippi College,0,0
+166,4,"Oct 16, 1920",Austin,28,Southwestern (TX),0,0
+167,4,"Oct 16, 1920",Trinity (Texas),6,Baylor,20,1
+168,4,"Oct 16, 1920",Ole Miss,6,Birmingham-Southern,27,1
+169,4,"Oct 16, 1920",Boston College,21,Yale,13,1
+170,4,"Oct 16, 1920",Brown,14,Colgate,0,0
+171,4,"Oct 16, 1920",California,79,Nevada,7,0
+172,4,"Oct 16, 1920",Centre,55,Transylvania,0,0
+173,4,"Oct 16, 1920",Chicago,41,Wabash,0,0
+174,4,"Oct 16, 1920",Colorado,31,Denver,0,1
+175,4,"Oct 16, 1920",Colorado College,20,Utah,2,0
+176,4,"Oct 16, 1920",Colorado State,42,Wyoming,0,0
+177,4,"Oct 16, 1920",Cornell,60,Union (NY),0,0
+178,4,"Oct 16, 1920",Dartmouth,27,Holy Cross,14,0
+179,4,"Oct 16, 1920",Wake Forest,7,Davidson,27,1
+180,4,"Oct 16, 1920",Georgia Tech,44,Vanderbilt,0,1
+181,4,"Oct 16, 1920",Harvard,38,Williams,0,0
+182,4,"Oct 16, 1920",Iowa,3,Illinois,20,1
+183,4,"Oct 16, 1920",Kansas,7,Drake,3,0
+184,4,"Oct 16, 1920",Lehigh,41,Rochester,0,0
+185,4,"Oct 16, 1920",Texas A&M,0,LSU,0,0
+186,4,"Oct 16, 1920",Maryland,27,Washington (Maryland),0,0
+187,4,"Oct 16, 1920",Miami (OH),14,Kentucky,0,0
+188,4,"Oct 16, 1920",Michigan,35,Michigan State,0,0
+189,4,"Oct 16, 1920",Mississippi State,33,Southern Military Academy,0,0
+190,4,"Oct 16, 1920",Iowa State,2,Missouri,14,0
+191,4,"Oct 16, 1920",Montana,18,Washington,14,1
+192,4,"Oct 16, 1920",Oregon State,0,Multnomah A.C.,0,0
+193,4,"Oct 16, 1920",Navy,7,Bucknell,2,0
+194,4,"Oct 16, 1920",North Carolina,7,South Carolina,0,0
+195,4,"Oct 16, 1920",Nebraska,7,Notre Dame,16,0
+196,4,"Oct 16, 1920",Ohio State,17,Purdue,0,0
+197,4,"Oct 16, 1920",Penn State,41,NC State,0,0
+198,4,"Oct 16, 1920",Pennsylvania,7,Lafayette,0,0
+199,4,"Oct 16, 1920",Hardin-Simmons,7,Phillips,13,0
+200,4,"Oct 16, 1920",Syracuse,7,Pitt,7,0
+201,4,"Oct 16, 1920",North Georgia,7,Presbyterian,34,0
+202,4,"Oct 16, 1920",Princeton,34,Washington & Lee,0,0
+203,4,"Oct 16, 1920",Tulane,0,Rice,0,0
+204,4,"Oct 16, 1920",Virginia Tech,6,Rutgers,19,1
+205,4,"Oct 16, 1920",Samford,33,Mercer,13,0
+206,4,"Oct 16, 1920",Sewanee,21,Oglethorpe,13,1
+207,4,"Oct 16, 1920",USC,10,Stanford,0,0
+208,4,"Oct 16, 1920",Tennessee,35,Chattanooga,0,1
+209,4,"Oct 16, 1920",Texas,21,Oklahoma State,0,0
+210,4,"Oct 16, 1920",Arkansas,2,TCU,19,0
+211,4,"Oct 16, 1920",Colorado Mines,3,Utah State,27,1
+212,4,"Oct 16, 1920",Virginia,14,Johns Hopkins,0,1
+213,4,"Oct 16, 1920",Virginia Military Institute,35,Citadel,0,0
+214,4,"Oct 16, 1920",Washington & Jefferson,14,Geneva,0,1
+215,4,"Oct 16, 1920",Washington (MO),23,Grinnell,14,0
+216,4,"Oct 16, 1920",West Virginia,81,George Washington,0,0
+217,4,"Oct 16, 1920",Northwestern,7,Wisconsin,27,1
+218,5,"Oct 21, 1920",North Carolina,3,NC State,13,1
+219,5,"Oct 21, 1920",South Carolina,14,Presbyterian,0,0
+220,5,"Oct 22, 1920",Arkansas,6,SMU,0,1
+221,5,"Oct 22, 1920",Marion,6,Birmingham-Southern,17,1
+222,5,"Oct 22, 1920",Kansas State,3,Creighton,0,1
+223,5,"Oct 22, 1920",Texas,54,Austin,0,0
+224,5,"Oct 23, 1920",Alabama,33,Samford,0,0
+225,5,"Oct 23, 1920",Vanderbilt,6,Auburn,56,1
+226,5,"Oct 23, 1920",Brown,14,Springfield,0,0
+227,5,"Oct 23, 1920",California,63,Utah,0,0
+228,5,"Oct 23, 1920",Chattanooga,20,Mercer,0,0
+229,5,"Oct 23, 1920",Chicago,10,Iowa,0,0
+230,5,"Oct 23, 1920",Citadel,19,Wofford,0,0
+231,5,"Oct 23, 1920",Colorado,7,Wyoming,0,1
+232,5,"Oct 23, 1920",Colorado College,21,Denver,0,1
+233,5,"Oct 23, 1920",Colorado State,27,Colorado Mines,0,0
+234,5,"Oct 23, 1920",Colgate,6,Cornell,42,1
+235,5,"Oct 23, 1920",Davidson,7,Richmond,0,1
+236,5,"Oct 23, 1920",Erskine,24,Newberry,0,1
+237,5,"Oct 23, 1920",Florida,13,Florida Southern,0,0
+238,5,"Oct 23, 1920",Furman,17,Wake Forest,0,0
+239,5,"Oct 23, 1920",Oglethorpe,3,Georgia,27,0
+240,5,"Oct 23, 1920",Harvard,31,Centre,14,0
+241,5,"Oct 23, 1920",Illinois,7,Michigan,6,1
+242,5,"Oct 23, 1920",Minnesota,7,Indiana,21,0
+243,5,"Oct 23, 1920",Kansas,7,Iowa State,0,0
+244,5,"Oct 23, 1920",Lafayette,84,Catholic,0,0
+245,5,"Oct 23, 1920",Maryland,7,Virginia Tech,0,1
+246,5,"Oct 23, 1920",Mississippi College,6,Ouachita,0,0
+247,5,"Oct 23, 1920",LSU,7,Mississippi State,12,0
+248,5,"Oct 23, 1920",Drake,7,Missouri,10,0
+249,5,"Oct 23, 1920",Nebraska,20,South Dakota,0,0
+250,5,"Oct 23, 1920",Valparaiso,3,Notre Dame,28,1
+251,5,"Oct 23, 1920",Wisconsin,7,Ohio State,13,1
+252,5,"Oct 23, 1920",Oklahoma,24,Washington (MO),14,0
+253,5,"Oct 23, 1920",Idaho,7,Oregon,13,1
+254,5,"Oct 23, 1920",Oregon State,3,Washington,0,1
+255,5,"Oct 23, 1920",Lebanon Valley,7,Penn State,109,1
+256,5,"Oct 23, 1920",Georgia Tech,3,Pitt,10,1
+257,5,"Oct 23, 1920",Princeton,14,Navy,0,0
+258,5,"Oct 23, 1920",Rice,19,Southwestern (TX),0,0
+259,5,"Oct 23, 1920",Kentucky,6,Sewanee,6,0
+260,5,"Oct 23, 1920",Oklahoma State,7,Southwestern (Kansas),7,0
+261,5,"Oct 23, 1920",Santa Clara,7,Stanford,21,0
+262,5,"Oct 23, 1920",Syracuse,10,Dartmouth,0,1
+263,5,"Oct 23, 1920",Tennessee,26,Clemson,0,0
+264,5,"Oct 23, 1920",Texas A&M,47,Phillips,0,0
+265,5,"Oct 23, 1920",Trinity (Texas),7,TCU,20,0
+266,5,"Oct 23, 1920",Tulane,32,Ole Miss,0,1
+267,5,"Oct 23, 1920",Montana State,0,Utah State,0,0
+268,5,"Oct 23, 1920",Virginia,7,Rutgers,0,1
+269,5,"Oct 23, 1920",Pennsylvania,7,Virginia Military Institute,27,0
+270,5,"Oct 23, 1920",Washington & Jefferson,7,Lehigh,0,0
+271,5,"Oct 23, 1920",Roanoke,7,Washington & Lee,49,1
+272,5,"Oct 23, 1920",Yale,24,West Virginia,0,0
+273,6,"Oct 28, 1920",South Carolina,3,Clemson,0,0
+274,6,"Oct 29, 1920",Birmingham-Southern,20,Spring Hill,13,1
+275,6,"Oct 29, 1920",Florida,30,Mercer,0,0
+276,6,"Oct 29, 1920",Furman,42,Newberry,0,1
+277,6,"Oct 29, 1920",Oglethorpe,14,Wofford,0,0
+278,6,"Oct 29, 1920",Marion,6,Samford,21,1
+279,6,"Oct 30, 1920",Alabama,21,Sewanee,0,0
+280,6,"Oct 30, 1920",Arkansas,14,Missouri-Rolla,0,0
+281,6,"Oct 30, 1920",Brown,35,Vermont,0,0
+282,6,"Oct 30, 1920",Oregon State,7,California,17,0
+283,6,"Oct 30, 1920",Chattanooga,83,Carson-Newman,0,0
+284,6,"Oct 30, 1920",Colorado State,21,Utah State,0,1
+285,6,"Oct 30, 1920",Cornell,24,Rutgers,0,0
+286,6,"Oct 30, 1920",Tufts,7,Dartmouth,34,1
+287,6,"Oct 30, 1920",Davidson,27,Citadel,13,0
+288,6,"Oct 30, 1920",Grinnell,6,Drake,6,0
+289,6,"Oct 30, 1920",Georgia,7,Auburn,0,0
+290,6,"Oct 30, 1920",Georgia Tech,24,Centre,0,0
+291,6,"Oct 30, 1920",Harvard,24,Virginia,0,0
+292,6,"Oct 30, 1920",Holy Cross,3,Syracuse,0,0
+293,6,"Oct 30, 1920",Minnesota,7,Illinois,17,1
+294,6,"Oct 30, 1920",Northwestern,7,Indiana,10,1
+295,6,"Oct 30, 1920",Washington (MO),7,Iowa State,24,1
+296,6,"Oct 30, 1920",Kansas,14,Kansas State,0,1
+297,6,"Oct 30, 1920",Carnegie Mellon,6,Lehigh,17,0
+298,6,"Oct 30, 1920",Mississippi College,9,LSU,41,1
+299,6,"Oct 30, 1920",Maryland,13,North Carolina,0,1
+300,6,"Oct 30, 1920",Michigan,21,Tulane,0,0
+301,6,"Oct 30, 1920",Tennessee,7,Mississippi State,13,1
+302,6,"Oct 30, 1920",Navy,47,Western Reserve,0,0
+303,6,"Oct 30, 1920",Utah,7,Nevada,14,0
+304,6,"Oct 30, 1920",Notre Dame,27,Army,17,1
+305,6,"Oct 30, 1920",Ohio State,7,Chicago,6,1
+306,6,"Oct 30, 1920",Missouri,7,Oklahoma,28,0
+307,6,"Oct 30, 1920",Pennsylvania,7,Penn State,28,0
+308,6,"Oct 30, 1920",Pitt,14,Lafayette,0,0
+309,6,"Oct 30, 1920",Presbyterian,14,Erskine,0,1
+310,6,"Oct 30, 1920",West Virginia,3,Princeton,10,1
+311,6,"Oct 30, 1920",Purdue,19,Wabash,14,0
+312,6,"Oct 30, 1920",Trinity (Texas),7,SMU,38,1
+313,6,"Oct 30, 1920",Southwestern (TX),7,Baylor,0,1
+314,6,"Oct 30, 1920",Stanford,10,Oregon,0,0
+315,6,"Oct 30, 1920",Texas,21,Rice,0,1
+316,6,"Oct 30, 1920",Texas A&M,35,Oklahoma State,0,1
+317,6,"Oct 30, 1920",TCU,3,Phillips,0,0
+318,6,"Oct 30, 1920",Vanderbilt,20,Kentucky,0,0
+319,6,"Oct 30, 1920",Virginia Military Institute,14,NC State,0,0
+320,6,"Oct 30, 1920",Guilford,6,Wake Forest,48,1
+321,6,"Oct 30, 1920",Washington & Jefferson,49,Westminster (Pennsylvania),0,0
+322,6,"Oct 30, 1920",Washington & Lee,13,Virginia Tech,0,0
+323,6,"Oct 30, 1920",Washington State,31,Montana,0,0
+324,6,"Oct 30, 1920",Colorado Mines,7,Wyoming,14,0
+325,6,"Oct 30, 1920",Colgate,7,Yale,21,1
+326,6,"Oct 31, 1920",Colorado,7,Colorado College,7,0
+327,7,"Nov 2, 1920",Nebraska,28,Rutgers,0,1
+328,7,"Nov 2, 1920",Nebraska Wesleyan,7,Wyoming,14,0
+329,7,"Nov 5, 1920",Texas,27,Phillips,0,0
+330,7,"Nov 6, 1920",Vanderbilt,7,Alabama,14,1
+331,7,"Nov 6, 1920",Auburn,49,Birmingham-Southern,0,0
+332,7,"Nov 6, 1920",California,49,Washington State,0,0
+333,7,"Nov 6, 1920",Centre,34,DePauw,0,1
+334,7,"Nov 6, 1920",Citadel,35,Newberry,10,0
+335,7,"Nov 6, 1920",Coe,14,Grinnell,0,0
+336,7,"Nov 6, 1920",Cornell,3,Dartmouth,14,1
+337,7,"Nov 6, 1920",Davidson,27,South Carolina,0,0
+338,7,"Nov 6, 1920",Colorado Mines,6,Denver,16,0
+339,7,"Nov 6, 1920",Washington (MO),6,Drake,14,0
+340,7,"Nov 6, 1920",Furman,42,Oglethorpe,3,0
+341,7,"Nov 6, 1920",Virginia,0,Georgia,0,0
+342,7,"Nov 6, 1920",Georgia Tech,7,Clemson,0,0
+343,7,"Nov 6, 1920",Gordon,14,Mercer,0,1
+344,7,"Nov 6, 1920",Howard Payne,21,Southwestern (TX),0,1
+345,7,"Nov 6, 1920",Illinois,3,Chicago,0,1
+346,7,"Nov 6, 1920",Iowa,20,Northwestern,0,0
+347,7,"Nov 6, 1920",Iowa State,17,Creighton,0,1
+348,7,"Nov 6, 1920",Kentucky,7,Cincinnati,6,0
+349,7,"Nov 6, 1920",Bucknell,7,Lafayette,10,1
+350,7,"Nov 6, 1920",Lehigh,56,Muhlenberg,0,0
+351,7,"Nov 6, 1920",LSU,3,Arkansas,0,0
+352,7,"Nov 6, 1920",Maryland,14,Catholic,0,1
+353,7,"Nov 6, 1920",Samford,7,Mississippi College,21,1
+354,7,"Nov 6, 1920",Mississippi State,20,Ole Miss,0,0
+355,7,"Nov 6, 1920",Kansas State,7,Missouri,10,1
+356,7,"Nov 6, 1920",Georgetown,6,Navy,21,1
+357,7,"Nov 6, 1920",Nevada,21,Utah State,0,0
+358,7,"Nov 6, 1920",NC State,81,William & Mary,0,0
+359,7,"Nov 6, 1920",Notre Dame,28,Purdue,0,0
+360,7,"Nov 6, 1920",Michigan,7,Ohio State,14,1
+361,7,"Nov 6, 1920",Kansas,9,Oklahoma,21,1
+362,7,"Nov 6, 1920",Penn State,20,Nebraska,0,0
+363,7,"Nov 6, 1920",Pitt,27,Pennsylvania,21,1
+364,7,"Nov 6, 1920",Presbyterian,13,Wofford,0,0
+365,7,"Nov 6, 1920",Harvard,14,Princeton,14,0
+366,7,"Nov 6, 1920",Rice,10,SMU,0,1
+367,7,"Nov 6, 1920",Rochester,21,Colgate,14,1
+368,7,"Nov 6, 1920",Sewanee,33,Chattanooga,0,0
+369,7,"Nov 6, 1920",Stanford,3,Washington,0,1
+370,7,"Nov 6, 1920",Syracuse,14,Washington & Jefferson,0,0
+371,7,"Nov 6, 1920",Tennessee,49,Transylvania,0,0
+372,7,"Nov 6, 1920",Texas A&M,24,Baylor,0,1
+373,7,"Nov 6, 1920",American Osteopath,3,TCU,19,1
+374,7,"Nov 6, 1920",Tulane,14,Florida,0,1
+375,7,"Nov 6, 1920",Utah,7,Colorado,0,1
+376,7,"Nov 6, 1920",Virginia Military Institute,23,North Carolina,0,1
+377,7,"Nov 6, 1920",Virginia Tech,21,Richmond,0,1
+378,7,"Nov 6, 1920",Wake Forest,29,Elon,0,0
+379,7,"Nov 6, 1920",West Virginia,14,Washington & Lee,10,0
+380,7,"Nov 6, 1920",Wisconsin,3,Minnesota,0,1
+381,7,"Nov 6, 1920",Yale,14,Brown,10,0
+382,7,"Nov 7, 1920",Colorado College,20,Wyoming,17,0
+383,8,"Nov 11, 1920",Clemson,26,Citadel,0,0
+384,8,"Nov 11, 1920",Colorado State,28,Colorado College,0,0
+385,8,"Nov 11, 1920",Florida,26,Stetson,0,0
+386,8,"Nov 11, 1920",Idaho,10,Utah,0,0
+387,8,"Nov 11, 1920",Virginia Tech,6,NC State,14,1
+388,8,"Nov 12, 1920",Birmingham-Southern,27,Chattanooga,0,0
+389,8,"Nov 13, 1920",Alabama,21,LSU,0,0
+390,8,"Nov 13, 1920",Arkansas,20,Phillips,0,1
+391,8,"Nov 13, 1920",Auburn,77,Washington & Lee,0,0
+392,8,"Nov 13, 1920",Centre,49,Kentucky,0,1
+393,8,"Nov 13, 1920",Colgate,80,St. Bonaventure,0,0
+394,8,"Nov 13, 1920",Colorado,7,Colorado Mines,0,1
+395,8,"Nov 13, 1920",Columbia,7,Cornell,34,1
+396,8,"Nov 13, 1920",Pennsylvania,7,Dartmouth,44,0
+397,8,"Nov 13, 1920",Davidson,7,North Carolina,0,0
+398,8,"Nov 13, 1920",Denver,3,Wyoming,0,1
+399,8,"Nov 13, 1920",Drake,7,Creighton,0,1
+400,8,"Nov 13, 1920",Furman,69,Wofford,0,1
+401,8,"Nov 13, 1920",Georgia,56,Florida,0,0
+402,8,"Nov 13, 1920",Georgetown,6,Georgia Tech,35,1
+403,8,"Nov 13, 1920",Grinnell,81,Simpson,0,0
+404,8,"Nov 13, 1920",Harvard,27,Brown,0,0
+405,8,"Nov 13, 1920",Minnesota,7,Iowa,28,1
+406,8,"Nov 13, 1920",Iowa State,17,Kansas State,0,1
+407,8,"Nov 13, 1920",Lafayette,34,Villanova,0,0
+408,8,"Nov 13, 1920",Syracuse,7,Maryland,10,0
+409,8,"Nov 13, 1920",Michigan,14,Chicago,0,0
+410,8,"Nov 13, 1920",Mississippi College,60,Millsaps,0,0
+411,8,"Nov 13, 1920",Missouri,14,Washington (MO),10,0
+412,8,"Nov 13, 1920",Navy,63,South Carolina,0,0
+413,8,"Nov 13, 1920",Kansas,20,Nebraska,20,0
+414,8,"Nov 13, 1920",Northwestern,14,Purdue,0,0
+415,8,"Nov 13, 1920",Notre Dame,13,Indiana,10,0
+416,8,"Nov 13, 1920",Oglethorpe,42,Mercer,0,1
+417,8,"Nov 13, 1920",Oklahoma,36,Oklahoma State,0,1
+418,8,"Nov 13, 1920",Oregon,17,Washington,0,0
+419,8,"Nov 13, 1920",Lehigh,7,Penn State,7,0
+420,8,"Nov 13, 1920",Pitt,7,Washington & Jefferson,0,0
+421,8,"Nov 13, 1920",Presbyterian,28,Newberry,0,0
+422,8,"Nov 13, 1920",Princeton,20,Yale,0,0
+423,8,"Nov 13, 1920",Wake Forest,7,Richmond,20,1
+424,8,"Nov 13, 1920",Tennessee,20,Sewanee,0,1
+425,8,"Nov 13, 1920",SMU,3,Texas,21,0
+426,8,"Nov 13, 1920",Baylor,9,TCU,21,0
+427,8,"Nov 13, 1920",Trinity (Texas),7,Southwestern (TX),0,1
+428,8,"Nov 13, 1920",Tulane,6,Mississippi State,0,0
+429,8,"Nov 13, 1920",Utah State,27,Montana Tech,0,0
+430,8,"Nov 13, 1920",Vanderbilt,34,Middle Tennessee,0,1
+431,8,"Nov 13, 1920",Virginia Military Institute,96,Catholic,0,0
+432,8,"Nov 13, 1920",Washington State,28,Oregon State,0,0
+433,8,"Nov 13, 1920",West Virginia,17,Rutgers,0,0
+434,8,"Nov 13, 1920",Illinois,9,Wisconsin,14,1
+435,8,"Nov 15, 1920",Texas A&M,7,Rice,0,0
+436,9,"Nov 19, 1920",Kansas State,7,Oklahoma,7,0
+437,9,"Nov 19, 1920",Rice,48,Texas State,0,0
+438,9,"Nov 19, 1920",Phillips,0,Tulsa,0,0
+439,9,"Nov 20, 1920",Austin,43,SMU,0,1
+440,9,"Nov 20, 1920",Howard Payne,3,Baylor,20,1
+441,9,"Nov 20, 1920",Samford,7,Birmingham-Southern,14,0
+442,9,"Nov 20, 1920",California,38,Stanford,0,0
+443,9,"Nov 20, 1920",Carnegie Mellon,6,Washington & Jefferson,0,0
+444,9,"Nov 20, 1920",Centre,28,Virginia Tech,0,0
+445,9,"Nov 20, 1920",Colorado,7,Colorado State,7,0
+446,9,"Nov 20, 1920",Brown,6,Dartmouth,14,1
+447,9,"Nov 20, 1920",Florida,21,Stetson,0,0
+448,9,"Nov 20, 1920",Furman,14,Clemson,0,0
+449,9,"Nov 20, 1920",Georgia,21,Alabama,14,0
+450,9,"Nov 20, 1920",Cornell College,6,Grinnell,17,0
+451,9,"Nov 20, 1920",Harvard,9,Yale,0,1
+452,9,"Nov 20, 1920",Oklahoma State,7,Haskell,33,0
+453,9,"Nov 20, 1920",Purdue,7,Indiana,10,0
+454,9,"Nov 20, 1920",Iowa,14,Iowa State,10,1
+455,9,"Nov 20, 1920",Lehigh,7,Lafayette,27,1
+456,9,"Nov 20, 1920",Michigan,3,Minnesota,0,1
+457,9,"Nov 20, 1920",Drake,6,Morningside,14,1
+458,9,"Nov 20, 1920",Michigan State,7,Nebraska,35,1
+459,9,"Nov 20, 1920",NC State,90,Wofford,7,0
+460,9,"Nov 20, 1920",Northwestern,7,Notre Dame,33,0
+461,9,"Nov 20, 1920",Ohio State,7,Illinois,0,1
+462,9,"Nov 20, 1920",Oregon State,0,Oregon,0,0
+463,9,"Nov 20, 1920",Columbia,7,Pennsylvania,27,0
+464,9,"Nov 20, 1920",Central Oklahoma,7,Phillips,7,0
+465,9,"Nov 20, 1920",Presbyterian,7,Davidson,0,0
+466,9,"Nov 20, 1920",South Carolina,48,Newberry,0,0
+467,9,"Nov 20, 1920",Spring Hill,21,Mississippi College,20,1
+468,9,"Nov 20, 1920",Syracuse,14,Colgate,0,0
+469,9,"Nov 20, 1920",TCU,21,Southwestern (TX),16,0
+470,9,"Nov 20, 1920",Vanderbilt,7,Virginia,7,0
+471,9,"Nov 20, 1920",Wake Forest Freshmen,14,Mercer,0,1
+472,9,"Nov 20, 1920",Georgetown,7,Washington & Lee,16,0
+473,9,"Nov 20, 1920",Washington (MO),17,Saint Louis,0,0
+474,9,"Nov 20, 1920",West Virginia,20,Bethany (West Virginia),0,0
+475,9,"Nov 20, 1920",Wisconsin,3,Chicago,0,1
+476,9,"Nov 20, 1920",Utah,0,Wyoming,0,0
+477,10,"Nov 25, 1920",Mississippi State,7,Alabama,24,1
+478,10,"Nov 25, 1920",Rice,0,Arkansas,0,0
+479,10,"Nov 25, 1920",Centre,103,Georgetown (Kentucky),0,0
+480,10,"Nov 25, 1920",Oklahoma State,7,Colorado,40,0
+481,10,"Nov 25, 1920",Colorado Mines,7,Colorado College,13,1
+482,10,"Nov 25, 1920",Detroit Mercy,27,Rutgers,0,0
+483,10,"Nov 25, 1920",Wofford,0,Duke,0,0
+484,10,"Nov 25, 1920",Furman,7,Davidson,0,0
+485,10,"Nov 25, 1920",Georgia,55,Clemson,0,0
+486,10,"Nov 25, 1920",Georgia Tech,34,Auburn,0,0
+487,10,"Nov 25, 1920",Johns Hopkins,7,Maryland,24,1
+488,10,"Nov 25, 1920",Kansas,7,Missouri,16,1
+489,10,"Nov 25, 1920",Wake Forest,7,NC State,49,0
+490,10,"Nov 25, 1920",Notre Dame,25,Michigan State,0,1
+491,10,"Nov 25, 1920",Oglethorpe,21,Florida,0,0
+492,10,"Nov 25, 1920",Drake,7,Oklahoma,44,1
+493,10,"Nov 25, 1920",Pitt,0,Penn State,0,0
+494,10,"Nov 25, 1920",Pennsylvania,28,Cornell,0,0
+495,10,"Nov 25, 1920",South Carolina,7,Citadel,6,1
+496,10,"Nov 25, 1920",USC,21,Oregon,0,0
+497,10,"Nov 25, 1920",Kentucky,7,Tennessee,14,1
+498,10,"Nov 25, 1920",Texas,7,Texas A&M,3,0
+499,10,"Nov 25, 1920",Chattanooga,7,Transylvania,33,1
+500,10,"Nov 25, 1920",Tulane,21,LSU,0,1
+501,10,"Nov 25, 1920",Utah State,9,Utah,3,1
+502,10,"Nov 25, 1920",Virginia,14,North Carolina,0,0
+503,10,"Nov 25, 1920",Virginia Tech,7,Virginia Military Institute,24,1
+504,10,"Nov 25, 1920",Washington & Jefferson,28,West Virginia,0,0
+505,10,"Nov 25, 1920",Washington State,21,Nebraska,20,1
+506,10,"Nov 25, 1920",Wyoming,3,Ogden A.C.,0,1
+507,10,"Nov 26, 1920",Kansas State,0,Washburn,0,0
+508,10,"Nov 27, 1920",Alabama,40,Case,0,1
+509,10,"Nov 27, 1920",SMU,0,Baylor,0,0
+510,10,"Nov 27, 1920",Colorado State,14,Denver,0,1
+511,10,"Nov 27, 1920",Washington,7,Dartmouth,28,0
+512,10,"Nov 27, 1920",Mercer,6,Erskine,20,1
+513,10,"Nov 27, 1920",Navy,7,Army,0,1
+514,10,"Nov 27, 1920",Multnomah A.C.,7,Oregon State,10,0
+515,10,"Nov 27, 1920",TCU,31,Hardin-Simmons,2,0
+516,10,"Nov 27, 1920",Sewanee,3,Vanderbilt,21,1
+517,10,"Nov 28, 1920",Samford,42,Millsaps,0,0
+518,11,"Dec 4, 1920",Detroit Mercy,7,Tulane,0,1
+519,12,"Jan 1, 1921",California,28,Ohio State,0,0
+520,12,"Jan 1, 1921",TCU,7,Centre,63,0

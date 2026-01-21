@@ -1,0 +1,590 @@
+0,1,"Sep 13, 1958",Tennessee Tech,7,Florida State,22,1
+1,1,"Sep 13, 1958",Kentucky,51,Hawaii,0,0
+2,1,"Sep 13, 1958",Drake,6,South Dakota State,12,1
+3,1,"Sep 13, 1958",Trinity (Texas),20,New Mexico State,0,1
+4,2,"Sep 19, 1958",Catawba College,22,Davidson,17,0
+5,2,"Sep 19, 1958",George Washington,6,Detroit Mercy,21,1
+6,2,"Sep 19, 1958",Oklahoma State,31,Denver,14,1
+7,2,"Sep 19, 1958",USC,21,Oregon State,0,0
+8,2,"Sep 20, 1958",Arizona,7,Utah State,6,0
+9,2,"Sep 20, 1958",Hawaii,6,Arizona State,47,1
+10,2,"Sep 20, 1958",Baylor,12,Arkansas,0,1
+11,2,"Sep 20, 1958",Boston College,48,Scranton,0,0
+12,2,"Sep 20, 1958",Bowling Green,20,Wichita State,14,1
+13,2,"Sep 20, 1958",Fresno State,7,BYU,29,1
+14,2,"Sep 20, 1958",Cincinnati,14,Dayton,0,0
+15,2,"Sep 20, 1958",Clemson,20,Virginia,15,0
+16,2,"Sep 20, 1958",Florida,34,Tulane,14,0
+17,2,"Sep 20, 1958",Furman,6,Florida State,42,1
+18,2,"Sep 20, 1958",Hardin-Simmons,14,Tulsa,0,1
+19,2,"Sep 20, 1958",Iowa State,33,Drake,0,0
+20,2,"Sep 20, 1958",Kansas State,17,Wyoming,14,0
+21,2,"Sep 20, 1958",Kentucky,13,Georgia Tech,0,0
+22,2,"Sep 20, 1958",Rice,6,LSU,26,0
+23,2,"Sep 20, 1958",South Dakota State,7,Marquette,18,1
+24,2,"Sep 20, 1958",Ole Miss,17,Memphis,0,1
+25,2,"Sep 20, 1958",Penn State,7,Nebraska,14,1
+26,2,"Sep 20, 1958",New Mexico State,7,New Mexico,16,0
+27,2,"Sep 20, 1958",Newberry,16,Citadel,0,1
+28,2,"Sep 20, 1958",NC State,21,North Carolina,14,1
+29,2,"Sep 20, 1958",UTEP,8,North Texas,26,1
+30,2,"Sep 20, 1958",Oregon,27,Idaho,0,0
+31,2,"Sep 20, 1958",Pacific,24,California,20,1
+32,2,"Sep 20, 1958",UCLA,6,Pitt,27,0
+33,2,"Sep 20, 1958",South Carolina,8,Duke,0,0
+34,2,"Sep 20, 1958",Georgia,8,Texas,13,1
+35,2,"Sep 20, 1958",TCU,42,Kansas,0,1
+36,2,"Sep 20, 1958",Texas Tech,15,Texas A&M,14,0
+37,2,"Sep 20, 1958",Montana,6,Utah,20,1
+38,2,"Sep 20, 1958",Missouri,8,Vanderbilt,12,0
+39,2,"Sep 20, 1958",Villanova,28,West Chester,14,0
+40,2,"Sep 20, 1958",Virginia Military Institute,46,Morehead State,20,0
+41,2,"Sep 20, 1958",Virginia Tech,28,West Texas State,12,0
+42,2,"Sep 20, 1958",Wake Forest,34,Maryland,0,0
+43,2,"Sep 20, 1958",San Jose State,6,Washington,14,1
+44,2,"Sep 20, 1958",Stanford,6,Washington State,40,1
+45,2,"Sep 20, 1958",West Virginia,66,Richmond,22,0
+46,3,"Sep 26, 1958",Detroit Mercy,6,Air Force,37,0
+47,3,"Sep 26, 1958",Utah State,8,Denver,20,0
+48,3,"Sep 26, 1958",Florida State,3,Georgia Tech,17,1
+49,3,"Sep 26, 1958",New Mexico State,28,University of Mexico,14,0
+50,3,"Sep 26, 1958",Texas,21,Tulane,20,1
+51,3,"Sep 26, 1958",Wisconsin,20,Miami,0,1
+52,3,"Sep 27, 1958",South Carolina,8,Army,45,1
+53,3,"Sep 27, 1958",Auburn,13,Tennessee,0,0
+54,3,"Sep 27, 1958",Hardin-Simmons,7,Baylor,14,1
+55,3,"Sep 27, 1958",Boston University,28,Massachusetts,14,1
+56,3,"Sep 27, 1958",Utah,7,BYU,14,0
+57,3,"Sep 27, 1958",Brown,22,Columbia,0,1
+58,3,"Sep 27, 1958",Buffalo,6,Harvard,3,1
+59,3,"Sep 27, 1958",Clemson,26,North Carolina,21,0
+60,3,"Sep 27, 1958",Kansas State,3,Colorado,13,1
+61,3,"Sep 27, 1958",Colorado State,21,Drake,0,1
+62,3,"Sep 27, 1958",Cornell,13,Colgate,0,0
+63,3,"Sep 27, 1958",Dartmouth,20,Lafayette,0,0
+64,3,"Sep 27, 1958",Dayton,13,Richmond,12,0
+65,3,"Sep 27, 1958",Hawaii,8,San Jose State,6,1
+66,3,"Sep 27, 1958",Texas A&M,7,Houston,39,1
+67,3,"Sep 27, 1958",Iowa,17,TCU,0,0
+68,3,"Sep 27, 1958",Iowa State,14,Arizona,0,1
+69,3,"Sep 27, 1958",Alabama,3,LSU,13,0
+70,3,"Sep 27, 1958",NC State,6,Maryland,21,0
+71,3,"Sep 27, 1958",Michigan,20,USC,19,0
+72,3,"Sep 27, 1958",Michigan State,32,California,12,0
+73,3,"Sep 27, 1958",Kentucky,6,Ole Miss,27,1
+74,3,"Sep 27, 1958",Florida,7,Mississippi State,14,0
+75,3,"Sep 27, 1958",Missouri,14,Idaho,10,0
+76,3,"Sep 27, 1958",Navy,14,William & Mary,0,0
+77,3,"Sep 27, 1958",Northwestern,29,Washington State,28,0
+78,3,"Sep 27, 1958",Notre Dame,18,Indiana,0,0
+79,3,"Sep 27, 1958",Ohio State,23,SMU,20,0
+80,3,"Sep 27, 1958",Oklahoma,47,West Virginia,14,0
+81,3,"Sep 27, 1958",Oklahoma State,21,North Texas,14,0
+82,3,"Sep 27, 1958",Oregon State,12,Kansas,0,0
+83,3,"Sep 27, 1958",Pacific,34,Arizona State,16,0
+84,3,"Sep 27, 1958",Penn State,43,Pennsylvania,0,1
+85,3,"Sep 27, 1958",Pitt,17,Holy Cross,0,0
+86,3,"Sep 27, 1958",Purdue,28,Nebraska,0,0
+87,3,"Sep 27, 1958",Stanford,7,Rice,30,0
+88,3,"Sep 27, 1958",Rutgers,28,Princeton,0,1
+89,3,"Sep 27, 1958",Syracuse,24,Boston College,14,0
+90,3,"Sep 27, 1958",West Texas State,7,Texas Tech,32,1
+91,3,"Sep 27, 1958",New Mexico,6,UTEP,15,1
+92,3,"Sep 27, 1958",Tulsa,27,Arkansas,14,1
+93,3,"Sep 27, 1958",UCLA,18,Illinois,14,1
+94,3,"Sep 27, 1958",Vanderbilt,21,Georgia,14,0
+95,3,"Sep 27, 1958",Virginia,15,Duke,12,0
+96,3,"Sep 27, 1958",Villanova,6,Virginia Military Institute,33,0
+97,3,"Sep 27, 1958",Virginia Tech,6,Wake Forest,13,1
+98,3,"Sep 27, 1958",Washington,24,Minnesota,21,0
+99,3,"Sep 27, 1958",Cincinnati,16,Wichita State,16,0
+100,3,"Sep 27, 1958",Wyoming,21,Montana,14,0
+101,3,"Sep 27, 1958",Yale,8,Connecticut,6,0
+102,4,"Oct 3, 1958",Detroit Mercy,26,Quantico Marines,13,0
+103,4,"Oct 3, 1958",Furman,8,George Washington,11,1
+104,4,"Oct 3, 1958",North Carolina,8,USC,7,1
+105,4,"Oct 4, 1958",UTEP,6,Abilene Christian,14,0
+106,4,"Oct 4, 1958",Iowa,13,Air Force,13,0
+107,4,"Oct 4, 1958",Arizona State,16,West Texas State,13,0
+108,4,"Oct 4, 1958",Army,26,Penn State,0,0
+109,4,"Oct 4, 1958",Chattanooga,8,Auburn,30,1
+110,4,"Oct 4, 1958",Bowling Green,25,Dayton,0,1
+111,4,"Oct 4, 1958",Brown,35,Yale,29,0
+112,4,"Oct 4, 1958",California,34,Washington State,14,0
+113,4,"Oct 4, 1958",Clemson,8,Maryland,0,1
+114,4,"Oct 4, 1958",Colorado,31,Kansas,0,1
+115,4,"Oct 4, 1958",BYU,6,Colorado State,32,1
+116,4,"Oct 4, 1958",Cornell,21,Harvard,14,0
+117,4,"Oct 4, 1958",Dartmouth,13,Pennsylvania,12,0
+118,4,"Oct 4, 1958",Davidson,8,Citadel,6,1
+119,4,"Oct 4, 1958",Duke,15,Illinois,13,0
+120,4,"Oct 4, 1958",Florida State,27,Wake Forest,24,0
+121,4,"Oct 4, 1958",Georgia Tech,14,Tulane,0,0
+122,4,"Oct 4, 1958",Holy Cross,14,Syracuse,13,0
+123,4,"Oct 4, 1958",Houston,34,Cincinnati,13,1
+124,4,"Oct 4, 1958",Idaho,20,Utah,0,1
+125,4,"Oct 4, 1958",Indiana,13,West Virginia,12,0
+126,4,"Oct 4, 1958",Hardin-Simmons,6,LSU,20,1
+127,4,"Oct 4, 1958",Baylor,8,Miami,14,0
+128,4,"Oct 4, 1958",Michigan State,12,Michigan,12,0
+129,4,"Oct 4, 1958",Ole Miss,21,Trinity (Texas),0,1
+130,4,"Oct 4, 1958",Navy,28,Boston University,14,1
+131,4,"Oct 4, 1958",Nebraska,7,Iowa State,6,0
+132,4,"Oct 4, 1958",New Mexico,44,Montana,16,0
+133,4,"Oct 4, 1958",NC State,26,Virginia,14,1
+134,4,"Oct 4, 1958",North Texas,43,New Mexico State,12,0
+135,4,"Oct 4, 1958",Northern Iowa,20,Drake,16,0
+136,4,"Oct 4, 1958",Northwestern,28,Stanford,0,0
+137,4,"Oct 4, 1958",SMU,6,Notre Dame,14,0
+138,4,"Oct 4, 1958",Washington,7,Ohio State,12,1
+139,4,"Oct 4, 1958",Oklahoma,6,Oregon,0,0
+140,4,"Oct 4, 1958",Oklahoma State,43,Wichita State,12,1
+141,4,"Oct 4, 1958",Oregon State,14,UCLA,0,0
+142,4,"Oct 4, 1958",Minnesota,7,Pitt,13,0
+143,4,"Oct 4, 1958",Columbia,8,Princeton,43,1
+144,4,"Oct 4, 1958",Purdue,24,Rice,0,1
+145,4,"Oct 4, 1958",Colgate,7,Rutgers,21,0
+146,4,"Oct 4, 1958",South Carolina,24,Georgia,14,1
+147,4,"Oct 4, 1958",Mississippi State,8,Tennessee,13,1
+148,4,"Oct 4, 1958",Texas Tech,7,Texas,12,1
+149,4,"Oct 4, 1958",Texas A&M,12,Missouri,0,0
+150,4,"Oct 4, 1958",Arkansas,7,TCU,12,1
+151,4,"Oct 4, 1958",Tulsa,34,Arizona,0,0
+152,4,"Oct 4, 1958",Utah State,20,Kansas State,13,1
+153,4,"Oct 4, 1958",Alabama,0,Vanderbilt,0,0
+154,4,"Oct 4, 1958",Villanova,21,Boston College,19,1
+155,4,"Oct 4, 1958",Richmond,6,Virginia Military Institute,12,1
+156,4,"Oct 4, 1958",Virginia Tech,27,William & Mary,15,0
+157,4,"Oct 4, 1958",Wisconsin,50,Marquette,0,0
+158,4,"Oct 4, 1958",Wyoming,15,Denver,12,0
+159,5,"Oct 10, 1958",Denver,29,Montana,0,0
+160,5,"Oct 10, 1958",Florida,21,UCLA,14,1
+161,5,"Oct 10, 1958",LSU,41,Miami,0,1
+162,5,"Oct 10, 1958",Citadel,6,Wofford,18,1
+163,5,"Oct 11, 1958",Colorado State,6,Air Force,36,1
+164,5,"Oct 11, 1958",Furman,6,Alabama,29,1
+165,5,"Oct 11, 1958",Notre Dame,2,Army,14,0
+166,5,"Oct 11, 1958",Auburn,8,Kentucky,0,1
+167,5,"Oct 11, 1958",Boston University,36,West Virginia,30,1
+168,5,"Oct 11, 1958",San Jose State,6,Cal Poly,10,0
+169,5,"Oct 11, 1958",California,36,Utah,21,0
+170,5,"Oct 11, 1958",Xavier,8,Cincinnati,14,1
+171,5,"Oct 11, 1958",Vanderbilt,7,Clemson,12,0
+172,5,"Oct 11, 1958",Colgate,7,Bucknell,0,1
+173,5,"Oct 11, 1958",Colorado,65,Arizona,12,1
+174,5,"Oct 11, 1958",Columbia,13,Yale,0,0
+175,5,"Oct 11, 1958",Dartmouth,20,Brown,0,1
+176,5,"Oct 11, 1958",Davidson,7,Presbyterian,6,1
+177,5,"Oct 11, 1958",Baylor,7,Duke,12,1
+178,5,"Oct 11, 1958",Georgia,28,Florida State,13,1
+179,5,"Oct 11, 1958",Tennessee,7,Georgia Tech,21,1
+180,5,"Oct 11, 1958",Arizona State,6,Hardin-Simmons,14,0
+181,5,"Oct 11, 1958",Harvard,20,Lehigh,0,0
+182,5,"Oct 11, 1958",Houston,44,Wichita State,0,0
+183,5,"Oct 11, 1958",Iowa,34,Indiana,13,0
+184,5,"Oct 11, 1958",Kansas,7,Iowa State,0,1
+185,5,"Oct 11, 1958",Nebraska,6,Kansas State,23,0
+186,5,"Oct 11, 1958",Pitt,8,Michigan State,22,1
+187,5,"Oct 11, 1958",Tulane,8,Ole Miss,19,0
+188,5,"Oct 11, 1958",Memphis,6,Mississippi State,28,1
+189,5,"Oct 11, 1958",Navy,20,Michigan,14,1
+190,5,"Oct 11, 1958",New Mexico,34,Utah State,14,0
+191,5,"Oct 11, 1958",New Mexico State,27,Western State,24,1
+192,5,"Oct 11, 1958",North Carolina,6,South Carolina,0,0
+193,5,"Oct 11, 1958",North Texas,42,Drake,0,1
+194,5,"Oct 11, 1958",Northwestern,7,Minnesota,3,1
+195,5,"Oct 11, 1958",Dayton,8,Ohio,27,0
+196,5,"Oct 11, 1958",Ohio State,19,Illinois,13,1
+197,5,"Oct 11, 1958",Oregon,25,USC,0,0
+198,5,"Oct 11, 1958",BYU,8,Pacific,26,1
+199,5,"Oct 11, 1958",Marquette,8,Penn State,40,1
+200,5,"Oct 11, 1958",Princeton,20,Pennsylvania,14,1
+201,5,"Oct 11, 1958",Rice,24,Arkansas,0,1
+202,5,"Oct 11, 1958",Rutgers,23,Richmond,12,0
+203,5,"Oct 11, 1958",SMU,32,Missouri,19,1
+204,5,"Oct 11, 1958",Stanford,22,Washington,12,0
+205,5,"Oct 11, 1958",Syracuse,55,Cornell,0,0
+206,5,"Oct 11, 1958",Texas,15,Oklahoma,14,0
+207,5,"Oct 11, 1958",Texas A&M,14,Maryland,10,1
+208,5,"Oct 11, 1958",TCU,26,Texas Tech,0,0
+209,5,"Oct 11, 1958",UTEP,29,West Texas State,12,1
+210,5,"Oct 11, 1958",Tulsa,24,Oklahoma State,16,0
+211,5,"Oct 11, 1958",Villanova,7,Detroit Mercy,0,0
+212,5,"Oct 11, 1958",Virginia Tech,22,Virginia,13,0
+213,5,"Oct 11, 1958",NC State,7,Wake Forest,13,1
+214,5,"Oct 11, 1958",Washington State,8,Idaho,0,1
+215,5,"Oct 11, 1958",Virginia Military Institute,6,William & Mary,6,0
+216,5,"Oct 11, 1958",Purdue,6,Wisconsin,31,1
+217,5,"Oct 11, 1958",Wyoming,28,Oregon State,0,0
+218,6,"Oct 17, 1958",George Washington,6,Richmond,26,0
+219,6,"Oct 18, 1958",Air Force,16,Stanford,0,1
+220,6,"Oct 18, 1958",Virginia,6,Army,35,1
+221,6,"Oct 18, 1958",Georgia Tech,7,Auburn,7,0
+222,6,"Oct 18, 1958",Texas Tech,7,Baylor,26,0
+223,6,"Oct 18, 1958",Boston College,21,Marquette,13,1
+224,6,"Oct 18, 1958",California,14,USC,12,1
+225,6,"Oct 18, 1958",Pacific,6,Cincinnati,12,0
+226,6,"Oct 18, 1958",Citadel,28,Memphis,26,1
+227,6,"Oct 18, 1958",Colorado,20,Iowa State,0,1
+228,6,"Oct 18, 1958",Yale,7,Cornell,12,0
+229,6,"Oct 18, 1958",Davidson,41,Carson-Newman,12,0
+230,6,"Oct 18, 1958",Dayton,26,Louisville,13,0
+231,6,"Oct 18, 1958",Xavier,6,Detroit Mercy,31,0
+232,6,"Oct 18, 1958",Florida State,28,Virginia Tech,0,0
+233,6,"Oct 18, 1958",Furman,40,Wofford,39,0
+234,6,"Oct 18, 1958",Harvard,26,Columbia,0,1
+235,6,"Oct 18, 1958",Dartmouth,8,Holy Cross,14,0
+236,6,"Oct 18, 1958",Minnesota,8,Illinois,20,0
+237,6,"Oct 18, 1958",Wisconsin,9,Iowa,20,0
+238,6,"Oct 18, 1958",Kentucky,7,LSU,32,1
+239,6,"Oct 18, 1958",Ole Miss,24,Hardin-Simmons,0,0
+240,6,"Oct 18, 1958",Mississippi State,38,Arkansas State,0,0
+241,6,"Oct 18, 1958",Kansas State,8,Missouri,32,0
+242,6,"Oct 18, 1958",New Mexico,33,Arizona,13,0
+243,6,"Oct 18, 1958",North Carolina,27,Maryland,0,0
+244,6,"Oct 18, 1958",BYU,6,North Texas,12,0
+245,6,"Oct 18, 1958",Northwestern,55,Michigan,24,0
+246,6,"Oct 18, 1958",Notre Dame,9,Duke,7,0
+247,6,"Oct 18, 1958",Indiana,8,Ohio State,49,1
+248,6,"Oct 18, 1958",Oklahoma,43,Kansas,0,1
+249,6,"Oct 18, 1958",Oklahoma State,7,Houston,0,1
+250,6,"Oct 18, 1958",Idaho,6,Oregon State,20,0
+251,6,"Oct 18, 1958",Penn State,34,Boston University,0,1
+252,6,"Oct 18, 1958",Pennsylvania,21,Brown,20,0
+253,6,"Oct 18, 1958",West Virginia,8,Pitt,15,1
+254,6,"Oct 18, 1958",Princeton,40,Colgate,13,0
+255,6,"Oct 18, 1958",Michigan State,6,Purdue,14,1
+256,6,"Oct 18, 1958",SMU,7,Rice,13,0
+257,6,"Oct 18, 1958",Rutgers,57,Bucknell,12,0
+258,6,"Oct 18, 1958",San Jose State,21,Arizona State,20,1
+259,6,"Oct 18, 1958",Syracuse,38,Nebraska,0,0
+260,6,"Oct 18, 1958",Alabama,7,Tennessee,14,1
+261,6,"Oct 18, 1958",Arkansas,6,Texas,24,1
+262,6,"Oct 18, 1958",Texas A&M,8,TCU,24,0
+263,6,"Oct 18, 1958",West Texas State,7,Trinity (Texas),35,0
+264,6,"Oct 18, 1958",Navy,6,Tulane,14,0
+265,6,"Oct 18, 1958",Tulsa,59,Drake,0,0
+266,6,"Oct 18, 1958",UCLA,20,Washington,0,1
+267,6,"Oct 18, 1958",Utah,20,Denver,16,0
+268,6,"Oct 18, 1958",Utah State,27,Montana,14,1
+269,6,"Oct 18, 1958",Florida,6,Vanderbilt,6,0
+270,6,"Oct 18, 1958",Villanova,9,Wake Forest,7,0
+271,6,"Oct 18, 1958",Virginia Military Institute,13,Tampa,12,1
+272,6,"Oct 18, 1958",Washington State,6,Oregon,0,1
+273,6,"Oct 18, 1958",NC State,6,William & Mary,13,1
+274,6,"Oct 18, 1958",Wyoming,7,Colorado State,6,1
+275,7,"Oct 23, 1958",Clemson,6,South Carolina,26,1
+276,7,"Oct 24, 1958",George Washington,7,William & Mary,0,0
+277,7,"Oct 25, 1958",Air Force,16,Utah,14,0
+278,7,"Oct 25, 1958",Alabama,9,Mississippi State,7,1
+279,7,"Oct 25, 1958",Detroit Mercy,6,Arizona State,27,0
+280,7,"Oct 25, 1958",Pitt,14,Army,14,0
+281,7,"Oct 25, 1958",Maryland,7,Auburn,20,1
+282,7,"Oct 25, 1958",Boston College,6,Miami,2,0
+283,7,"Oct 25, 1958",BYU,41,Montana,12,1
+284,7,"Oct 25, 1958",Rhode Island,6,Brown,47,1
+285,7,"Oct 25, 1958",Buffalo,34,Columbia,14,0
+286,7,"Oct 25, 1958",Oregon,6,California,23,1
+287,7,"Oct 25, 1958",Furman,6,Citadel,24,0
+288,7,"Oct 25, 1958",Colorado,27,Nebraska,16,0
+289,7,"Oct 25, 1958",Princeton,8,Cornell,34,1
+290,7,"Oct 25, 1958",Drake,14,Bradley,12,0
+291,7,"Oct 25, 1958",Duke,20,NC State,13,0
+292,7,"Oct 25, 1958",Florida State,10,Tennessee,0,1
+293,7,"Oct 25, 1958",Georgia,28,Kentucky,0,0
+294,7,"Oct 25, 1958",Wichita State,6,Hardin-Simmons,13,1
+295,7,"Oct 25, 1958",Dartmouth,8,Harvard,16,1
+296,7,"Oct 25, 1958",Boston University,8,Holy Cross,16,1
+297,7,"Oct 25, 1958",Idaho,24,Arizona,16,1
+298,7,"Oct 25, 1958",Illinois,16,Michigan State,0,0
+299,7,"Oct 25, 1958",Miami (OH),7,Indiana,12,1
+300,7,"Oct 25, 1958",Iowa,26,Northwestern,20,0
+301,7,"Oct 25, 1958",Tulane,9,Kansas,14,1
+302,7,"Oct 25, 1958",Florida,7,LSU,10,1
+303,7,"Oct 25, 1958",Marquette,28,Pacific,18,0
+304,7,"Oct 25, 1958",Michigan,20,Minnesota,19,0
+305,7,"Oct 25, 1958",Ole Miss,14,Arkansas,12,1
+306,7,"Oct 25, 1958",Iowa State,6,Missouri,14,1
+307,7,"Oct 25, 1958",Pennsylvania,8,Navy,50,0
+308,7,"Oct 25, 1958",New Mexico,13,Wyoming,12,1
+309,7,"Oct 25, 1958",New Mexico State,17,UTEP,16,0
+310,7,"Oct 25, 1958",Wake Forest,7,North Carolina,26,1
+311,7,"Oct 25, 1958",North Texas,8,Tulsa,7,0
+312,7,"Oct 25, 1958",Kansas State,6,Oklahoma,40,1
+313,7,"Oct 25, 1958",Oklahoma State,19,Cincinnati,14,1
+314,7,"Oct 25, 1958",Oregon State,14,Washington,12,0
+315,7,"Oct 25, 1958",Purdue,29,Notre Dame,22,1
+316,7,"Oct 25, 1958",Texas,7,Rice,34,1
+317,7,"Oct 25, 1958",Rutgers,44,Lehigh,13,1
+318,7,"Oct 25, 1958",Denver,7,San Jose State,27,1
+319,7,"Oct 25, 1958",Washington State,6,USC,14,0
+320,7,"Oct 25, 1958",SMU,20,Georgia Tech,0,0
+321,7,"Oct 25, 1958",Southern Miss,15,West Texas State,0,0
+322,7,"Oct 25, 1958",Stanford,21,UCLA,19,1
+323,7,"Oct 25, 1958",Penn State,6,Syracuse,14,0
+324,7,"Oct 25, 1958",Texas A&M,33,Baylor,27,1
+325,7,"Oct 25, 1958",Utah State,15,Colorado State,0,0
+326,7,"Oct 25, 1958",Virginia,6,Vanderbilt,39,1
+327,7,"Oct 25, 1958",Richmond,6,Villanova,13,1
+328,7,"Oct 25, 1958",Davidson,7,Virginia Military Institute,42,0
+329,7,"Oct 25, 1958",West Virginia,21,Virginia Tech,20,1
+330,7,"Oct 25, 1958",Ohio State,7,Wisconsin,7,0
+331,7,"Oct 25, 1958",Xavier,16,Dayton,0,0
+332,7,"Oct 25, 1958",Colgate,7,Yale,14,1
+333,8,"Oct 31, 1958",New Mexico,21,Denver,15,1
+334,8,"Oct 31, 1958",Tulane,27,Texas Tech,0,0
+335,8,"Oct 31, 1958",Vanderbilt,28,Miami,15,1
+336,8,"Nov 1, 1958",Air Force,33,Oklahoma State,29,1
+337,8,"Nov 1, 1958",Alabama,12,Georgia,0,0
+338,8,"Nov 1, 1958",West Texas State,8,Arizona,15,1
+339,8,"Nov 1, 1958",Arizona State,23,New Mexico State,19,0
+340,8,"Nov 1, 1958",Texas A&M,8,Arkansas,21,0
+341,8,"Nov 1, 1958",Army,68,Colgate,6,0
+342,8,"Nov 1, 1958",Auburn,6,Florida,5,1
+343,8,"Nov 1, 1958",Boston College,25,Pacific,12,0
+344,8,"Nov 1, 1958",William & Mary,7,Boston University,33,1
+345,8,"Nov 1, 1958",Utah State,6,BYU,13,0
+346,8,"Nov 1, 1958",North Texas,8,Cincinnati,8,0
+347,8,"Nov 1, 1958",Clemson,14,Wake Forest,12,0
+348,8,"Nov 1, 1958",Montana,7,Colorado State,57,1
+349,8,"Nov 1, 1958",Cornell,25,Columbia,0,1
+350,8,"Nov 1, 1958",Dartmouth,22,Yale,14,1
+351,8,"Nov 1, 1958",Davidson,21,Wofford,20,1
+352,8,"Nov 1, 1958",Florida State,43,Tampa,0,0
+353,8,"Nov 1, 1958",Duke,8,Georgia Tech,10,0
+354,8,"Nov 1, 1958",UTEP,6,Hardin-Simmons,14,0
+355,8,"Nov 1, 1958",Holy Cross,26,Dayton,0,0
+356,8,"Nov 1, 1958",Indiana,6,Minnesota,0,0
+357,8,"Nov 1, 1958",Iowa,37,Michigan,14,1
+358,8,"Nov 1, 1958",Iowa State,53,South Dakota,0,0
+359,8,"Nov 1, 1958",Kansas,21,Kansas State,12,1
+360,8,"Nov 1, 1958",Kentucky,33,Mississippi State,12,0
+361,8,"Nov 1, 1958",LSU,14,Ole Miss,0,0
+362,8,"Nov 1, 1958",Detroit Mercy,14,Marquette,14,0
+363,8,"Nov 1, 1958",South Carolina,6,Maryland,10,1
+364,8,"Nov 1, 1958",Missouri,31,Nebraska,0,1
+365,8,"Nov 1, 1958",Tennessee,7,North Carolina,21,0
+366,8,"Nov 1, 1958",Northwestern,21,Ohio State,0,0
+367,8,"Nov 1, 1958",Notre Dame,40,Navy,20,1
+368,8,"Nov 1, 1958",Colorado,7,Oklahoma,23,0
+369,8,"Nov 1, 1958",California,8,Oregon State,14,1
+370,8,"Nov 1, 1958",Penn State,36,Furman,0,0
+371,8,"Nov 1, 1958",Harvard,6,Pennsylvania,19,0
+372,8,"Nov 1, 1958",Princeton,28,Brown,18,0
+373,8,"Nov 1, 1958",Illinois,8,Purdue,31,1
+374,8,"Nov 1, 1958",Richmond,20,Citadel,0,0
+375,8,"Nov 1, 1958",Rutgers,37,Delaware,20,1
+376,8,"Nov 1, 1958",Idaho,6,San Jose State,41,0
+377,8,"Nov 1, 1958",Stanford,6,USC,29,0
+378,8,"Nov 1, 1958",SMU,26,Texas,10,1
+379,8,"Nov 1, 1958",Syracuse,16,Pitt,13,0
+380,8,"Nov 1, 1958",TCU,22,Baylor,0,0
+381,8,"Nov 1, 1958",Tulsa,25,Houston,20,1
+382,8,"Nov 1, 1958",Virginia Military Institute,33,Virginia,0,0
+383,8,"Nov 1, 1958",NC State,14,Virginia Tech,14,0
+384,8,"Nov 1, 1958",Washington,6,Oregon,0,0
+385,8,"Nov 1, 1958",Washington State,38,UCLA,20,1
+386,8,"Nov 1, 1958",West Virginia,35,George Washington,12,0
+387,8,"Nov 1, 1958",Villanova,6,Wichita State,21,1
+388,8,"Nov 1, 1958",Wisconsin,9,Michigan State,7,1
+389,8,"Nov 1, 1958",Wyoming,25,Utah,20,0
+390,9,"Nov 7, 1958",Miami,6,Florida State,17,0
+391,9,"Nov 7, 1958",Syracuse,42,Boston University,0,1
+392,9,"Nov 7, 1958",Alabama,7,Tulane,13,1
+393,9,"Nov 8, 1958",Abilene Christian,28,West Texas State,21,1
+394,9,"Nov 8, 1958",Denver,7,Air Force,10,0
+395,9,"Nov 8, 1958",Arizona State,27,UTEP,0,0
+396,9,"Nov 8, 1958",Arkansas,60,Hardin-Simmons,15,0
+397,9,"Nov 8, 1958",Rice,7,Army,14,0
+398,9,"Nov 8, 1958",Auburn,33,Mississippi State,14,0
+399,9,"Nov 8, 1958",Boston College,40,Detroit Mercy,0,0
+400,9,"Nov 8, 1958",BYU,36,New Mexico,19,0
+401,9,"Nov 8, 1958",Cornell,8,Brown,12,1
+402,9,"Nov 8, 1958",California,20,UCLA,17,0
+403,9,"Nov 8, 1958",Tennessee,6,Chattanooga,14,0
+404,9,"Nov 8, 1958",Tulsa,6,Cincinnati,15,1
+405,9,"Nov 8, 1958",Citadel,38,Presbyterian,0,0
+406,9,"Nov 8, 1958",Colorado State,20,Utah,0,0
+407,9,"Nov 8, 1958",Dartmouth,38,Columbia,0,0
+408,9,"Nov 8, 1958",William & Mary,7,Davidson,16,0
+409,9,"Nov 8, 1958",Drake,28,Washington (MO),21,1
+410,9,"Nov 8, 1958",Florida,7,Georgia,6,0
+411,9,"Nov 8, 1958",Georgia Tech,13,Clemson,0,0
+412,9,"Nov 8, 1958",Holy Cross,20,Colgate,0,1
+413,9,"Nov 8, 1958",Montana,6,Idaho,14,0
+414,9,"Nov 8, 1958",Michigan,8,Illinois,21,0
+415,9,"Nov 8, 1958",Indiana,6,Michigan State,0,0
+416,9,"Nov 8, 1958",Minnesota,6,Iowa,28,0
+417,9,"Nov 8, 1958",Nebraska,7,Kansas,29,1
+418,9,"Nov 8, 1958",Virginia Military Institute,7,Lehigh,7,0
+419,9,"Nov 8, 1958",LSU,50,Duke,18,0
+420,9,"Nov 8, 1958",Houston,7,Ole Miss,56,1
+421,9,"Nov 8, 1958",Colorado,9,Missouri,33,1
+422,9,"Nov 8, 1958",Navy,40,Maryland,14,0
+423,9,"Nov 8, 1958",McMurry,7,New Mexico State,10,1
+424,9,"Nov 8, 1958",North Carolina,42,Virginia,0,1
+425,9,"Nov 8, 1958",Oklahoma,20,Iowa State,0,1
+426,9,"Nov 8, 1958",Kansas State,7,Oklahoma State,14,1
+427,9,"Nov 8, 1958",Oregon,12,Stanford,0,0
+428,9,"Nov 8, 1958",Pacific,26,San Jose State,13,0
+429,9,"Nov 8, 1958",West Virginia,14,Penn State,14,0
+430,9,"Nov 8, 1958",Yale,6,Pennsylvania,30,0
+431,9,"Nov 8, 1958",Pitt,29,Notre Dame,26,0
+432,9,"Nov 8, 1958",Princeton,16,Harvard,14,0
+433,9,"Nov 8, 1958",Ohio State,14,Purdue,14,0
+434,9,"Nov 8, 1958",Rutgers,18,Lafayette,0,0
+435,9,"Nov 8, 1958",Furman,7,South Carolina,32,0
+436,9,"Nov 8, 1958",Washington,6,USC,21,1
+437,9,"Nov 8, 1958",SMU,33,Texas A&M,0,0
+438,9,"Nov 8, 1958",Southern Miss,26,NC State,14,0
+439,9,"Nov 8, 1958",Texas,20,Baylor,15,1
+440,9,"Nov 8, 1958",Marquette,8,TCU,36,1
+441,9,"Nov 8, 1958",Arizona,6,Texas Tech,33,1
+442,9,"Nov 8, 1958",Kentucky,0,Vanderbilt,0,0
+443,9,"Nov 8, 1958",Villanova,9,Dayton,6,1
+444,9,"Nov 8, 1958",Virginia Tech,27,Richmond,23,0
+445,9,"Nov 8, 1958",Washington State,7,Oregon State,0,0
+446,9,"Nov 8, 1958",Wichita State,15,North Texas,13,0
+447,9,"Nov 8, 1958",Wisconsin,17,Northwestern,13,0
+448,9,"Nov 8, 1958",Wyoming,41,Utah State,13,1
+449,10,"Nov 14, 1958",Maryland,26,Miami,14,1
+450,10,"Nov 15, 1958",Wyoming,6,Air Force,21,1
+451,10,"Nov 15, 1958",Georgia Tech,8,Alabama,17,0
+452,10,"Nov 15, 1958",Arizona,14,UTEP,12,1
+453,10,"Nov 15, 1958",SMU,6,Arkansas,13,1
+454,10,"Nov 15, 1958",Army,26,Villanova,0,0
+455,10,"Nov 15, 1958",Georgia,6,Auburn,21,1
+456,10,"Nov 15, 1958",Boston College,18,Boston University,13,0
+457,10,"Nov 15, 1958",Denver,7,BYU,22,0
+458,10,"Nov 15, 1958",Brown,29,Harvard,22,1
+459,10,"Nov 15, 1958",Washington,7,California,12,0
+460,10,"Nov 15, 1958",Cincinnati,15,Marquette,0,1
+461,10,"Nov 15, 1958",Virginia Military Institute,6,Citadel,14,1
+462,10,"Nov 15, 1958",NC State,6,Clemson,13,0
+463,10,"Nov 15, 1958",Colorado,7,Utah,0,1
+464,10,"Nov 15, 1958",Dartmouth,32,Cornell,15,1
+465,10,"Nov 15, 1958",Duke,29,Wake Forest,0,1
+466,10,"Nov 15, 1958",Arkansas State,7,Florida,51,1
+467,10,"Nov 15, 1958",West Texas State,6,Hardin-Simmons,26,1
+468,10,"Nov 15, 1958",Utah State,7,Idaho,34,1
+469,10,"Nov 15, 1958",Indiana,8,Michigan,6,1
+470,10,"Nov 15, 1958",Iowa State,6,Kansas State,14,1
+471,10,"Nov 15, 1958",Xavier,6,Kentucky,20,1
+472,10,"Nov 15, 1958",LSU,7,Mississippi State,6,1
+473,10,"Nov 15, 1958",Miami (OH),34,Dayton,0,0
+474,10,"Nov 15, 1958",Minnesota,39,Michigan State,12,0
+475,10,"Nov 15, 1958",Montana,6,Montana State,20,0
+476,10,"Nov 15, 1958",George Washington,8,Navy,28,0
+477,10,"Nov 15, 1958",Pitt,6,Nebraska,14,1
+478,10,"Nov 15, 1958",New Mexico,17,Colorado State,12,0
+479,10,"Nov 15, 1958",Houston,6,North Texas,10,1
+480,10,"Nov 15, 1958",Notre Dame,34,North Carolina,24,0
+481,10,"Nov 15, 1958",Ohio State,38,Iowa,28,1
+482,10,"Nov 15, 1958",Oklahoma,39,Missouri,0,0
+483,10,"Nov 15, 1958",Oklahoma State,6,Kansas,3,0
+484,10,"Nov 15, 1958",Oregon State,24,Stanford,16,1
+485,10,"Nov 15, 1958",Penn State,32,Holy Cross,0,0
+486,10,"Nov 15, 1958",Pennsylvania,42,Columbia,0,0
+487,10,"Nov 15, 1958",Princeton,50,Yale,14,1
+488,10,"Nov 15, 1958",Northwestern,6,Purdue,23,0
+489,10,"Nov 15, 1958",Quantico Marines,13,Rutgers,12,1
+490,10,"Nov 15, 1958",Richmond,27,Davidson,22,1
+491,10,"Nov 15, 1958",Fresno State,6,San Jose State,48,1
+492,10,"Nov 15, 1958",South Carolina,28,Virginia,14,0
+493,10,"Nov 15, 1958",Southern Miss,41,Virginia Tech,0,0
+494,10,"Nov 15, 1958",Syracuse,47,Colgate,0,0
+495,10,"Nov 15, 1958",Tennessee,18,Ole Miss,16,0
+496,10,"Nov 15, 1958",Texas A&M,28,Rice,21,1
+497,10,"Nov 15, 1958",Texas,8,TCU,22,1
+498,10,"Nov 15, 1958",Tulsa,9,Texas Tech,7,0
+499,10,"Nov 15, 1958",UCLA,7,Oregon,3,0
+500,10,"Nov 15, 1958",Vanderbilt,12,Tulane,0,0
+501,10,"Nov 15, 1958",Washington State,34,Pacific,0,1
+502,10,"Nov 15, 1958",William & Mary,6,West Virginia,56,0
+503,10,"Nov 15, 1958",Drake,8,Wichita State,32,0
+504,10,"Nov 15, 1958",Wisconsin,31,Illinois,12,1
+505,11,"Nov 21, 1958",Houston,37,Miami,26,1
+506,11,"Nov 21, 1958",Iowa State,9,San Jose State,6,1
+507,11,"Nov 22, 1958",New Mexico,7,Air Force,45,0
+508,11,"Nov 22, 1958",Alabama,14,Memphis,0,0
+509,11,"Nov 22, 1958",Arizona State,47,Arizona,0,1
+510,11,"Nov 22, 1958",Texas Tech,8,Arkansas,14,0
+511,11,"Nov 22, 1958",Wake Forest,7,Auburn,21,1
+512,11,"Nov 22, 1958",Boston University,36,Connecticut,22,1
+513,11,"Nov 22, 1958",California,16,Stanford,15,0
+514,11,"Nov 22, 1958",Clemson,34,Boston College,12,0
+515,11,"Nov 22, 1958",Colorado State,15,Colorado,14,1
+516,11,"Nov 22, 1958",Dartmouth,21,Princeton,12,1
+517,11,"Nov 22, 1958",Dayton,7,Detroit Mercy,27,1
+518,11,"Nov 22, 1958",Duke,7,North Carolina,6,1
+519,11,"Nov 22, 1958",Florida State,7,Florida,21,1
+520,11,"Nov 22, 1958",Furman,22,Davidson,20,0
+521,11,"Nov 22, 1958",Georgia,76,Citadel,0,0
+522,11,"Nov 22, 1958",Harvard,28,Yale,0,0
+523,11,"Nov 22, 1958",Holy Cross,14,Marquette,0,0
+524,11,"Nov 22, 1958",Illinois,27,Northwestern,20,0
+525,11,"Nov 22, 1958",Purdue,15,Indiana,15,0
+526,11,"Nov 22, 1958",Iowa,31,Notre Dame,21,0
+527,11,"Nov 22, 1958",Missouri,13,Kansas,13,0
+528,11,"Nov 22, 1958",Kentucky,6,Tennessee,2,1
+529,11,"Nov 22, 1958",LSU,62,Tulane,0,1
+530,11,"Nov 22, 1958",Virginia,6,Maryland,44,0
+531,11,"Nov 22, 1958",Kansas State,7,Michigan State,26,1
+532,11,"Nov 22, 1958",North Texas,21,Louisville,10,1
+533,11,"Nov 22, 1958",Ohio State,20,Michigan,14,0
+534,11,"Nov 22, 1958",Nebraska,7,Oklahoma,40,1
+535,11,"Nov 22, 1958",Oregon,20,Oregon State,0,1
+536,11,"Nov 22, 1958",Pacific,68,San Diego State,17,1
+537,11,"Nov 22, 1958",Quantico Marines,19,Villanova,13,1
+538,11,"Nov 22, 1958",Rutgers,61,Columbia,0,0
+539,11,"Nov 22, 1958",San Diego,24,Montana,13,0
+540,11,"Nov 22, 1958",NC State,7,South Carolina,12,1
+541,11,"Nov 22, 1958",UCLA,15,USC,15,0
+542,11,"Nov 22, 1958",SMU,33,Baylor,29,0
+543,11,"Nov 22, 1958",Syracuse,15,West Virginia,12,1
+544,11,"Nov 22, 1958",TCU,21,Rice,10,1
+545,11,"Nov 22, 1958",Trinity (Texas),49,UTEP,0,1
+546,11,"Nov 22, 1958",Washington State,18,Washington,14,0
+547,11,"Nov 22, 1958",West Texas State,39,New Mexico State,32,0
+548,11,"Nov 22, 1958",Wichita State,26,George Washington,12,0
+549,11,"Nov 22, 1958",Wisconsin,27,Minnesota,12,0
+550,11,"Nov 22, 1958",Wyoming,22,BYU,14,1
+551,12,"Nov 27, 1958",Colgate,6,Brown,28,1
+552,12,"Nov 27, 1958",Miami (OH),7,Cincinnati,18,1
+553,12,"Nov 27, 1958",Colorado State,9,Denver,8,1
+554,12,"Nov 27, 1958",Pennsylvania,7,Cornell,19,0
+555,12,"Nov 27, 1958",Fresno State,6,Pacific,52,0
+556,12,"Nov 27, 1958",Penn State,25,Pitt,21,1
+557,12,"Nov 27, 1958",Wake Forest,7,South Carolina,24,1
+558,12,"Nov 27, 1958",Texas,27,Texas A&M,0,0
+559,12,"Nov 27, 1958",Wichita State,6,Tulsa,25,1
+560,12,"Nov 27, 1958",Utah State,7,Utah,12,1
+561,12,"Nov 27, 1958",Virginia Tech,21,Virginia Military Institute,16,0
+562,12,"Nov 27, 1958",William & Mary,18,Richmond,15,1
+563,12,"Nov 28, 1958",Hardin-Simmons,26,New Mexico State,20,0
+564,12,"Nov 29, 1958",Air Force,20,Colorado,14,1
+565,12,"Nov 29, 1958",Arizona State,42,Marquette,18,0
+566,12,"Nov 29, 1958",Navy,6,Army,22,1
+567,12,"Nov 29, 1958",Alabama,8,Auburn,14,1
+568,12,"Nov 29, 1958",Clemson,36,Furman,19,0
+569,12,"Nov 29, 1958",Miami,9,Florida,12,1
+570,12,"Nov 29, 1958",George Washington,20,Citadel,14,1
+571,12,"Nov 29, 1958",Georgia Tech,3,Georgia,16,1
+572,12,"Nov 29, 1958",Houston,22,Texas Tech,17,0
+573,12,"Nov 29, 1958",Ole Miss,21,Mississippi State,0,0
+574,12,"Nov 29, 1958",Notre Dame,20,USC,13,1
+575,12,"Nov 29, 1958",Oklahoma,7,Oklahoma State,0,1
+576,12,"Nov 29, 1958",Rice,33,Baylor,21,1
+577,12,"Nov 29, 1958",SMU,20,TCU,13,0
+578,12,"Nov 29, 1958",Vanderbilt,6,Tennessee,10,0
+579,13,"Dec 6, 1958",Holy Cross,8,Boston College,26,1
+580,13,"Dec 6, 1958",Miami,2,Oregon,0,0
+581,13,"Dec 6, 1958",Utah,47,Hawaii,20,1
+582,14,"Dec 13, 1958",Florida State,6,Oklahoma State,15,1
+583,15,"Dec 27, 1958",Ole Miss,7,Florida,3,0
+584,15,"Dec 27, 1958",Missouri Valley,7,Texas A&M-Commerce,26,1
+585,16,"Dec 31, 1958",Hardin-Simmons,6,Wyoming,14,1
+586,16,"Jan 1, 1959",TCU,0,Air Force,0,0
+587,16,"Jan 1, 1959",Iowa,38,California,12,0
+588,16,"Jan 1, 1959",LSU,7,Clemson,0,0
+589,16,"Jan 1, 1959",Syracuse,6,Oklahoma,21,1

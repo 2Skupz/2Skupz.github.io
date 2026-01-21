@@ -1,0 +1,570 @@
+0,1,"Sep 3, 2020",UAB,45,Central Arkansas,35,0
+1,1,"Sep 3, 2020",South Alabama,32,Southern Miss,21,1
+2,1,"Sep 5, 2020",Army,42,Middle Tennessee,0,0
+3,1,"Sep 5, 2020",Marshall,59,Eastern Kentucky,0,0
+4,1,"Sep 5, 2020",Memphis,37,Arkansas State,24,0
+5,1,"Sep 5, 2020",North Texas,57,Houston Baptist,31,0
+6,1,"Sep 5, 2020",SMU,31,Texas State,24,1
+7,1,"Sep 5, 2020",UTEP,24,Stephen F. Austin,14,0
+8,1,"Sep 7, 2020",BYU,55,Navy,3,1
+9,2,"Sep 10, 2020",Miami,31,UAB,14,0
+10,2,"Sep 12, 2020",Appalachian State,35,Charlotte,20,0
+11,2,"Sep 12, 2020",Arkansas State,35,Kansas State,31,1
+12,2,"Sep 12, 2020",Louisiana-Monroe,7,Army,37,1
+13,2,"Sep 12, 2020",Clemson,37,Wake Forest,13,1
+14,2,"Sep 12, 2020",Coastal Carolina,38,Kansas,23,1
+15,2,"Sep 12, 2020",Georgia Southern,27,Campbell,26,0
+16,2,"Sep 12, 2020",Georgia Tech,16,Florida State,13,1
+17,2,"Sep 12, 2020",Louisiana,31,Iowa State,14,1
+18,2,"Sep 12, 2020",Louisville,35,Western Kentucky,21,0
+19,2,"Sep 12, 2020",Syracuse,6,North Carolina,31,1
+20,2,"Sep 12, 2020",Notre Dame,27,Duke,13,0
+21,2,"Sep 12, 2020",Oklahoma,48,Missouri State,0,0
+22,2,"Sep 12, 2020",Pitt,55,Austin Peay,0,0
+23,2,"Sep 12, 2020",Citadel,6,South Florida,27,1
+24,2,"Sep 12, 2020",Texas,59,UTEP,3,0
+25,2,"Sep 12, 2020",Texas Tech,35,Houston Baptist,33,0
+26,2,"Sep 12, 2020",UTSA,51,Texas State,48,1
+27,2,"Sep 12, 2020",Tulane,27,South Alabama,24,1
+28,2,"Sep 12, 2020",West Virginia,56,Eastern Kentucky,10,0
+29,3,"Sep 18, 2020",Coastal Carolina,43,Campbell,21,0
+30,3,"Sep 19, 2020",Duke,6,Boston College,26,0
+31,3,"Sep 19, 2020",UCF,49,Georgia Tech,21,1
+32,3,"Sep 19, 2020",Cincinnati,55,Austin Peay,20,0
+33,3,"Sep 19, 2020",Clemson,49,Citadel,0,0
+34,3,"Sep 19, 2020",Liberty,30,Western Kentucky,24,1
+35,3,"Sep 19, 2020",Louisiana,34,Georgia State,31,1
+36,3,"Sep 19, 2020",Louisiana Tech,31,Southern Miss,30,1
+37,3,"Sep 19, 2020",Appalachian State,7,Marshall,17,1
+38,3,"Sep 19, 2020",Miami,47,Louisville,34,1
+39,3,"Sep 19, 2020",Navy,27,Tulane,24,1
+40,3,"Sep 19, 2020",NC State,45,Wake Forest,42,0
+41,3,"Sep 19, 2020",Notre Dame,52,South Florida,0,0
+42,3,"Sep 19, 2020",Tulsa,7,Oklahoma State,16,1
+43,3,"Sep 19, 2020",Pitt,21,Syracuse,10,0
+44,3,"Sep 19, 2020",SMU,65,North Texas,35,1
+45,3,"Sep 19, 2020",Texas State,38,Louisiana-Monroe,17,1
+46,3,"Sep 19, 2020",UTEP,17,Abilene Christian,13,0
+47,3,"Sep 19, 2020",UTSA,24,Stephen F. Austin,10,0
+48,3,"Sep 19, 2020",Troy,47,Middle Tennessee,14,1
+49,4,"Sep 24, 2020",UAB,42,South Alabama,10,1
+50,4,"Sep 25, 2020",UTSA,37,Middle Tennessee,35,0
+51,4,"Sep 26, 2020",Alabama,38,Missouri,19,1
+52,4,"Sep 26, 2020",Appalachian State,52,Campbell,21,0
+53,4,"Sep 26, 2020",Auburn,29,Kentucky,13,0
+54,4,"Sep 26, 2020",Baylor,47,Kansas,14,0
+55,4,"Sep 26, 2020",Boston College,24,Texas State,21,0
+56,4,"Sep 26, 2020",Troy,7,BYU,48,1
+57,4,"Sep 26, 2020",UCF,51,East Carolina,28,1
+58,4,"Sep 26, 2020",Cincinnati,24,Army,10,0
+59,4,"Sep 26, 2020",Florida,51,Ole Miss,35,1
+60,4,"Sep 26, 2020",Georgia,37,Arkansas,10,1
+61,4,"Sep 26, 2020",Iowa State,37,TCU,34,1
+62,4,"Sep 26, 2020",Kansas State,38,Oklahoma,35,1
+63,4,"Sep 26, 2020",Liberty,36,Florida Int'l,34,0
+64,4,"Sep 26, 2020",Louisiana,20,Georgia Southern,18,0
+65,4,"Sep 26, 2020",Louisiana Tech,66,Houston Baptist,38,0
+66,4,"Sep 26, 2020",Miami,52,Florida State,10,0
+67,4,"Sep 26, 2020",Mississippi State,44,LSU,34,1
+68,4,"Sep 26, 2020",Oklahoma State,27,West Virginia,13,0
+69,4,"Sep 26, 2020",Pitt,23,Louisville,20,0
+70,4,"Sep 26, 2020",Stephen F. Austin,7,SMU,50,1
+71,4,"Sep 26, 2020",Syracuse,37,Georgia Tech,20,0
+72,4,"Sep 26, 2020",Tennessee,31,South Carolina,27,1
+73,4,"Sep 26, 2020",Texas,63,Texas Tech,56,1
+74,4,"Sep 26, 2020",Texas A&M,17,Vanderbilt,12,0
+75,4,"Sep 26, 2020",Louisiana-Monroe,6,UTEP,31,0
+76,4,"Sep 26, 2020",Tulane,66,Southern Miss,24,1
+77,4,"Sep 26, 2020",Virginia,38,Duke,20,0
+78,4,"Sep 26, 2020",Virginia Tech,45,NC State,24,0
+79,5,"Oct 2, 2020",BYU,45,Louisiana Tech,14,0
+80,5,"Oct 2, 2020",Wake Forest,66,Campbell,14,0
+81,5,"Oct 3, 2020",Navy,7,Air Force,40,1
+82,5,"Oct 3, 2020",Alabama,52,Texas A&M,24,0
+83,5,"Oct 3, 2020",UAB,21,UTSA,13,0
+84,5,"Oct 3, 2020",Arkansas,21,Mississippi State,14,1
+85,5,"Oct 3, 2020",Army,55,Abilene Christian,23,0
+86,5,"Oct 3, 2020",South Florida,7,Cincinnati,28,1
+87,5,"Oct 3, 2020",Clemson,41,Virginia,23,0
+88,5,"Oct 3, 2020",Coastal Carolina,52,Arkansas State,23,0
+89,5,"Oct 3, 2020",Florida,38,South Carolina,24,0
+90,5,"Oct 3, 2020",Florida Atlantic,21,Charlotte,17,0
+91,5,"Oct 3, 2020",Florida State,41,Jacksonville State,24,0
+92,5,"Oct 3, 2020",Auburn,6,Georgia,27,1
+93,5,"Oct 3, 2020",Georgia Southern,35,Louisiana-Monroe,30,1
+94,5,"Oct 3, 2020",Georgia State,49,East Carolina,29,0
+95,5,"Oct 3, 2020",Iowa State,37,Oklahoma,30,0
+96,5,"Oct 3, 2020",Kansas State,31,Texas Tech,21,0
+97,5,"Oct 3, 2020",North Alabama,7,Liberty,28,1
+98,5,"Oct 3, 2020",Vanderbilt,7,LSU,41,0
+99,5,"Oct 3, 2020",Ole Miss,42,Kentucky,41,1
+100,5,"Oct 3, 2020",North Carolina,26,Boston College,22,1
+101,5,"Oct 3, 2020",NC State,30,Pitt,29,1
+102,5,"Oct 3, 2020",Kansas,7,Oklahoma State,47,0
+103,5,"Oct 3, 2020",SMU,30,Memphis,27,0
+104,5,"Oct 3, 2020",Southern Miss,41,North Texas,31,1
+105,5,"Oct 3, 2020",Tennessee,35,Missouri,12,0
+106,5,"Oct 3, 2020",TCU,33,Texas,31,1
+107,5,"Oct 3, 2020",Tulsa,34,UCF,26,1
+108,5,"Oct 3, 2020",Virginia Tech,38,Duke,31,1
+109,5,"Oct 3, 2020",West Virginia,27,Baylor,21,0
+110,5,"Oct 3, 2020",Western Kentucky,20,Middle Tennessee,17,1
+111,6,"Oct 8, 2020",Houston,49,Tulane,31,0
+112,6,"Oct 9, 2020",Georgia Tech,46,Louisville,27,0
+113,6,"Oct 10, 2020",Alabama,63,Ole Miss,48,1
+114,6,"Oct 10, 2020",Arkansas State,50,Central Arkansas,27,0
+115,6,"Oct 10, 2020",Citadel,9,Army,14,1
+116,6,"Oct 10, 2020",Auburn,30,Arkansas,28,0
+117,6,"Oct 10, 2020",Boston College,31,Pitt,30,0
+118,6,"Oct 10, 2020",BYU,27,UTSA,20,0
+119,6,"Oct 10, 2020",Charlotte,49,North Texas,21,1
+120,6,"Oct 10, 2020",Clemson,42,Miami,17,0
+121,6,"Oct 10, 2020",Duke,38,Syracuse,24,1
+122,6,"Oct 10, 2020",East Carolina,44,South Florida,24,1
+123,6,"Oct 10, 2020",Georgia,44,Tennessee,21,0
+124,6,"Oct 10, 2020",Iowa State,31,Texas Tech,15,0
+125,6,"Oct 10, 2020",Kansas State,21,TCU,14,1
+126,6,"Oct 10, 2020",Kentucky,24,Mississippi State,2,0
+127,6,"Oct 10, 2020",Louisiana-Monroe,7,Liberty,40,1
+128,6,"Oct 10, 2020",Louisiana Tech,21,UTEP,17,0
+129,6,"Oct 10, 2020",Marshall,38,Western Kentucky,14,1
+130,6,"Oct 10, 2020",Middle Tennessee,31,Florida Int'l,28,1
+131,6,"Oct 10, 2020",Missouri,45,LSU,41,0
+132,6,"Oct 10, 2020",Navy,31,Temple,29,0
+133,6,"Oct 10, 2020",North Carolina,56,Virginia Tech,45,0
+134,6,"Oct 10, 2020",NC State,38,Virginia,21,1
+135,6,"Oct 10, 2020",Notre Dame,42,Florida State,26,0
+136,6,"Oct 10, 2020",Oklahoma,53,Texas,45,0
+137,6,"Oct 10, 2020",Vanderbilt,7,South Carolina,41,0
+138,6,"Oct 10, 2020",Texas A&M,41,Florida,38,0
+139,6,"Oct 10, 2020",Troy,37,Texas State,17,0
+140,7,"Oct 14, 2020",Coastal Carolina,30,Louisiana,27,1
+141,7,"Oct 15, 2020",Arkansas State,59,Georgia State,52,0
+142,7,"Oct 16, 2020",BYU,43,Houston,26,1
+143,7,"Oct 16, 2020",SMU,37,Tulane,34,1
+144,7,"Oct 17, 2020",Alabama,41,Georgia,24,0
+145,7,"Oct 17, 2020",UAB,37,Western Kentucky,14,0
+146,7,"Oct 17, 2020",Arkansas,33,Ole Miss,21,0
+147,7,"Oct 17, 2020",Army,28,UTSA,16,1
+148,7,"Oct 17, 2020",Clemson,73,Georgia Tech,7,1
+149,7,"Oct 17, 2020",Florida State,31,North Carolina,28,0
+150,7,"Oct 17, 2020",Georgia Southern,41,Massachusetts,0,0
+151,7,"Oct 17, 2020",Tennessee,7,Kentucky,34,0
+152,7,"Oct 17, 2020",Liberty,38,Syracuse,21,1
+153,7,"Oct 17, 2020",Marshall,35,Louisiana Tech,17,1
+154,7,"Oct 17, 2020",Memphis,50,UCF,49,0
+155,7,"Oct 17, 2020",Miami,31,Pitt,19,0
+156,7,"Oct 17, 2020",Navy,27,East Carolina,23,1
+157,7,"Oct 17, 2020",NC State,31,Duke,20,0
+158,7,"Oct 17, 2020",North Texas,52,Middle Tennessee,35,1
+159,7,"Oct 17, 2020",Louisville,7,Notre Dame,12,1
+160,7,"Oct 17, 2020",South Alabama,30,Texas State,20,0
+161,7,"Oct 17, 2020",South Carolina,30,Auburn,22,0
+162,7,"Oct 17, 2020",Temple,39,South Florida,37,0
+163,7,"Oct 17, 2020",Texas A&M,28,Mississippi State,14,1
+164,7,"Oct 17, 2020",Troy,31,Eastern Kentucky,29,0
+165,7,"Oct 17, 2020",Virginia Tech,40,Boston College,14,0
+166,7,"Oct 17, 2020",Wake Forest,40,Virginia,23,0
+167,7,"Oct 17, 2020",West Virginia,38,Kansas,17,0
+168,8,"Oct 22, 2020",Appalachian State,45,Arkansas State,17,0
+169,8,"Oct 23, 2020",Jacksonville State,19,Florida Int'l,10,1
+170,8,"Oct 23, 2020",Louisiana,24,UAB,20,1
+171,8,"Oct 23, 2020",Tulsa,42,South Florida,13,1
+172,8,"Oct 23, 2020",Illinois,7,Wisconsin,45,1
+173,8,"Oct 24, 2020",Alabama,48,Tennessee,17,1
+174,8,"Oct 24, 2020",Army,49,Mercer,3,0
+175,8,"Oct 24, 2020",Auburn,35,Ole Miss,28,1
+176,8,"Oct 24, 2020",Boise State,42,Utah State,13,0
+177,8,"Oct 24, 2020",Boston College,48,Georgia Tech,27,0
+178,8,"Oct 24, 2020",BYU,52,Texas State,14,0
+179,8,"Oct 24, 2020",UCF,51,Tulane,34,0
+180,8,"Oct 24, 2020",Charlotte,38,UTEP,28,0
+181,8,"Oct 24, 2020",Cincinnati,42,SMU,13,1
+182,8,"Oct 24, 2020",Clemson,47,Syracuse,21,0
+183,8,"Oct 24, 2020",Coastal Carolina,28,Georgia Southern,14,0
+184,8,"Oct 24, 2020",Georgia State,36,Troy,34,1
+185,8,"Oct 24, 2020",Hawaii,34,Fresno State,19,1
+186,8,"Oct 24, 2020",Houston,37,Navy,21,1
+187,8,"Oct 24, 2020",Indiana,36,Penn State,35,0
+188,8,"Oct 24, 2020",Kansas State,55,Kansas,14,0
+189,8,"Oct 24, 2020",Liberty,56,Southern Miss,35,0
+190,8,"Oct 24, 2020",LSU,52,South Carolina,24,0
+191,8,"Oct 24, 2020",Louisville,48,Florida State,16,0
+192,8,"Oct 24, 2020",Florida Atlantic,9,Marshall,20,1
+193,8,"Oct 24, 2020",Memphis,41,Temple,29,0
+194,8,"Oct 24, 2020",Miami,19,Virginia,14,0
+195,8,"Oct 24, 2020",Michigan,49,Minnesota,24,1
+196,8,"Oct 24, 2020",Middle Tennessee,40,Rice,34,1
+197,8,"Oct 24, 2020",Missouri,20,Kentucky,10,0
+198,8,"Oct 24, 2020",Nevada,37,Wyoming,34,0
+199,8,"Oct 24, 2020",North Carolina,48,NC State,21,0
+200,8,"Oct 24, 2020",Northwestern,43,Maryland,3,0
+201,8,"Oct 24, 2020",Notre Dame,45,Pitt,3,1
+202,8,"Oct 24, 2020",Ohio State,52,Nebraska,17,0
+203,8,"Oct 24, 2020",Oklahoma,33,TCU,14,1
+204,8,"Oct 24, 2020",Oklahoma State,24,Iowa State,21,0
+205,8,"Oct 24, 2020",Purdue,24,Iowa,20,0
+206,8,"Oct 24, 2020",Rutgers,38,Michigan State,27,1
+207,8,"Oct 24, 2020",UNLV,6,San Diego State,34,1
+208,8,"Oct 24, 2020",Air Force,6,San Jose State,17,1
+209,8,"Oct 24, 2020",South Alabama,38,Louisiana-Monroe,14,0
+210,8,"Oct 24, 2020",Texas,27,Baylor,16,0
+211,8,"Oct 24, 2020",Texas Tech,34,West Virginia,27,0
+212,8,"Oct 24, 2020",UTSA,27,Louisiana Tech,26,0
+213,8,"Oct 24, 2020",Wake Forest,23,Virginia Tech,16,0
+214,8,"Oct 24, 2020",Western Kentucky,13,Chattanooga,10,0
+215,9,"Oct 29, 2020",Fresno State,38,Colorado State,17,0
+216,9,"Oct 29, 2020",Georgia Southern,24,South Alabama,17,0
+217,9,"Oct 30, 2020",Maryland,45,Minnesota,44,0
+218,9,"Oct 30, 2020",Tulsa,34,East Carolina,30,0
+219,9,"Oct 30, 2020",Hawaii,7,Wyoming,31,1
+220,9,"Oct 31, 2020",Alabama,41,Mississippi State,0,0
+221,9,"Oct 31, 2020",Appalachian State,31,Louisiana-Monroe,13,1
+222,9,"Oct 31, 2020",Auburn,48,LSU,11,0
+223,9,"Oct 31, 2020",Boise State,49,Air Force,30,1
+224,9,"Oct 31, 2020",BYU,41,Western Kentucky,10,0
+225,9,"Oct 31, 2020",UCF,44,Houston,21,1
+226,9,"Oct 31, 2020",Cincinnati,49,Memphis,10,0
+227,9,"Oct 31, 2020",Clemson,34,Boston College,28,0
+228,9,"Oct 31, 2020",Coastal Carolina,51,Georgia State,0,1
+229,9,"Oct 31, 2020",Duke,53,Charlotte,19,0
+230,9,"Oct 31, 2020",Florida,41,Missouri,17,0
+231,9,"Oct 31, 2020",UTSA,3,Florida Atlantic,24,1
+232,9,"Oct 31, 2020",Kentucky,3,Georgia,14,0
+233,9,"Oct 31, 2020",Indiana,37,Rutgers,21,1
+234,9,"Oct 31, 2020",Iowa State,52,Kansas,22,1
+235,9,"Oct 31, 2020",Louisiana,44,Texas State,34,1
+236,9,"Oct 31, 2020",Louisiana Tech,37,UAB,34,0
+237,9,"Oct 31, 2020",Michigan State,27,Michigan,24,1
+238,9,"Oct 31, 2020",Ole Miss,54,Vanderbilt,21,1
+239,9,"Oct 31, 2020",Nevada,37,UNLV,19,1
+240,9,"Oct 31, 2020",Northwestern,21,Iowa,20,1
+241,9,"Oct 31, 2020",Notre Dame,31,Georgia Tech,13,1
+242,9,"Oct 31, 2020",Ohio State,38,Penn State,25,1
+243,9,"Oct 31, 2020",Oklahoma,62,Texas Tech,28,1
+244,9,"Oct 31, 2020",Purdue,31,Illinois,24,1
+245,9,"Oct 31, 2020",Southern Miss,6,Rice,30,0
+246,9,"Oct 31, 2020",Utah State,7,San Diego State,38,0
+247,9,"Oct 31, 2020",San Jose State,38,New Mexico,21,0
+248,9,"Oct 31, 2020",SMU,51,Navy,37,0
+249,9,"Oct 31, 2020",Texas,41,Oklahoma State,34,1
+250,9,"Oct 31, 2020",Texas A&M,42,Arkansas,31,0
+251,9,"Oct 31, 2020",TCU,33,Baylor,23,1
+252,9,"Oct 31, 2020",Troy,38,Arkansas State,10,1
+253,9,"Oct 31, 2020",Tulane,38,Temple,3,0
+254,9,"Oct 31, 2020",Virginia,44,North Carolina,41,0
+255,9,"Oct 31, 2020",Virginia Tech,42,Louisville,35,1
+256,9,"Oct 31, 2020",Wake Forest,38,Syracuse,14,1
+257,9,"Oct 31, 2020",West Virginia,37,Kansas State,10,0
+258,10,"Nov 4, 2020",Buffalo,49,Northern Illinois,30,1
+259,10,"Nov 4, 2020",Central Michigan,30,Ohio,27,0
+260,10,"Nov 4, 2020",Kent State,27,Eastern Michigan,23,0
+261,10,"Nov 4, 2020",Miami (OH),38,Ball State,31,0
+262,10,"Nov 4, 2020",Toledo,38,Bowling Green,3,0
+263,10,"Nov 4, 2020",Western Michigan,58,Akron,13,1
+264,10,"Nov 5, 2020",Colorado State,34,Wyoming,24,0
+265,10,"Nov 5, 2020",Utah State,9,Nevada,34,1
+266,10,"Nov 6, 2020",BYU,51,Boise State,17,1
+267,10,"Nov 6, 2020",Miami,44,NC State,41,1
+268,10,"Nov 6, 2020",San Jose State,28,San Diego State,17,1
+269,10,"Nov 7, 2020",Appalachian State,38,Texas State,17,1
+270,10,"Nov 7, 2020",Arkansas,24,Tennessee,13,0
+271,10,"Nov 7, 2020",Boston College,16,Syracuse,13,1
+272,10,"Nov 7, 2020",Cincinnati,38,Houston,10,0
+273,10,"Nov 7, 2020",South Alabama,6,Coastal Carolina,23,1
+274,10,"Nov 7, 2020",Colorado,48,UCLA,42,0
+275,10,"Nov 7, 2020",Florida,44,Georgia,28,0
+276,10,"Nov 7, 2020",Western Kentucky,6,Florida Atlantic,10,1
+277,10,"Nov 7, 2020",Fresno State,40,UNLV,27,1
+278,10,"Nov 7, 2020",Georgia Southern,20,Troy,13,0
+279,10,"Nov 7, 2020",Georgia State,52,Louisiana-Monroe,34,0
+280,10,"Nov 7, 2020",Hawaii,39,New Mexico,33,0
+281,10,"Nov 7, 2020",Indiana,38,Michigan,21,0
+282,10,"Nov 7, 2020",Michigan State,7,Iowa,49,1
+283,10,"Nov 7, 2020",Iowa State,38,Baylor,31,0
+284,10,"Nov 7, 2020",Liberty,38,Virginia Tech,35,1
+285,10,"Nov 7, 2020",Louisiana,27,Arkansas State,20,0
+286,10,"Nov 7, 2020",Marshall,51,Massachusetts,10,0
+287,10,"Nov 7, 2020",Maryland,35,Penn State,19,1
+288,10,"Nov 7, 2020",Memphis,34,South Florida,33,0
+289,10,"Nov 7, 2020",Minnesota,41,Illinois,14,1
+290,10,"Nov 7, 2020",Mississippi State,24,Vanderbilt,17,0
+291,10,"Nov 7, 2020",North Carolina,56,Duke,24,1
+292,10,"Nov 7, 2020",Northwestern,21,Nebraska,13,0
+293,10,"Nov 7, 2020",Notre Dame,47,Clemson,40,0
+294,10,"Nov 7, 2020",Ohio State,49,Rutgers,27,0
+295,10,"Nov 7, 2020",Kansas,9,Oklahoma,62,1
+296,10,"Nov 7, 2020",Oklahoma State,20,Kansas State,18,1
+297,10,"Nov 7, 2020",Oregon,35,Stanford,14,0
+298,10,"Nov 7, 2020",Pitt,41,Florida State,17,1
+299,10,"Nov 7, 2020",USC,28,Arizona State,27,0
+300,10,"Nov 7, 2020",SMU,47,Temple,23,1
+301,10,"Nov 7, 2020",Southern Miss,24,North Alabama,13,0
+302,10,"Nov 7, 2020",Texas,17,West Virginia,13,0
+303,10,"Nov 7, 2020",Texas A&M,48,South Carolina,3,1
+304,10,"Nov 7, 2020",TCU,34,Texas Tech,18,0
+305,10,"Nov 7, 2020",Tulane,38,East Carolina,21,1
+306,10,"Nov 7, 2020",Washington State,38,Oregon State,28,1
+307,11,"Nov 10, 2020",Buffalo,42,Miami (OH),10,0
+308,11,"Nov 10, 2020",Kent State,62,Bowling Green,24,1
+309,11,"Nov 10, 2020",Ohio,24,Akron,10,0
+310,11,"Nov 11, 2020",Ball State,38,Eastern Michigan,31,0
+311,11,"Nov 11, 2020",Central Michigan,40,Northern Illinois,10,1
+312,11,"Nov 11, 2020",Western Michigan,41,Toledo,38,0
+313,11,"Nov 12, 2020",Boise State,52,Colorado State,21,0
+314,11,"Nov 13, 2020",Cincinnati,55,East Carolina,17,0
+315,11,"Nov 13, 2020",Florida Atlantic,38,Florida Int'l,19,1
+316,11,"Nov 13, 2020",Minnesota,7,Iowa,35,0
+317,11,"Nov 14, 2020",Appalachian State,17,Georgia State,13,0
+318,11,"Nov 14, 2020",UCF,38,Temple,13,0
+319,11,"Nov 14, 2020",Colorado,35,Stanford,32,1
+320,11,"Nov 14, 2020",Florida,63,Arkansas,35,0
+321,11,"Nov 14, 2020",Fresno State,35,Utah State,16,1
+322,11,"Nov 14, 2020",Georgia Southern,40,Texas State,38,0
+323,11,"Nov 14, 2020",Houston,56,South Florida,21,0
+324,11,"Nov 14, 2020",Illinois,23,Rutgers,20,1
+325,11,"Nov 14, 2020",Indiana,24,Michigan State,0,1
+326,11,"Nov 14, 2020",Kentucky,38,Vanderbilt,35,0
+327,11,"Nov 14, 2020",Liberty,58,Western Carolina,14,0
+328,11,"Nov 14, 2020",Louisiana,38,South Alabama,10,0
+329,11,"Nov 14, 2020",Marshall,42,Middle Tennessee,14,0
+330,11,"Nov 14, 2020",Miami,25,Virginia Tech,24,1
+331,11,"Nov 14, 2020",Ole Miss,59,South Carolina,42,0
+332,11,"Nov 14, 2020",Nebraska,30,Penn State,23,0
+333,11,"Nov 14, 2020",Nevada,27,New Mexico,20,0
+334,11,"Nov 14, 2020",North Carolina,59,Wake Forest,53,0
+335,11,"Nov 14, 2020",NC State,38,Florida State,22,0
+336,11,"Nov 14, 2020",Northwestern,27,Purdue,20,1
+337,11,"Nov 14, 2020",Notre Dame,45,Boston College,31,1
+338,11,"Nov 14, 2020",Oregon,43,Washington State,29,1
+339,11,"Nov 14, 2020",San Diego State,34,Hawaii,10,0
+340,11,"Nov 14, 2020",San Jose State,34,UNLV,17,0
+341,11,"Nov 14, 2020",USC,34,Arizona,30,1
+342,11,"Nov 14, 2020",Texas Tech,24,Baylor,23,0
+343,11,"Nov 14, 2020",UTSA,52,UTEP,21,0
+344,11,"Nov 14, 2020",Tulane,38,Army,12,0
+345,11,"Nov 14, 2020",Tulsa,28,SMU,24,0
+346,11,"Nov 14, 2020",Virginia,31,Louisville,17,0
+347,11,"Nov 14, 2020",Washington,27,Oregon State,21,0
+348,11,"Nov 14, 2020",TCU,6,West Virginia,24,1
+349,11,"Nov 14, 2020",Southern Miss,7,Western Kentucky,10,1
+350,11,"Nov 14, 2020",Wisconsin,49,Michigan,11,1
+351,11,"Nov 15, 2020",UCLA,34,California,10,0
+352,12,"Nov 17, 2020",Buffalo,42,Bowling Green,17,1
+353,12,"Nov 17, 2020",Kent State,69,Akron,35,0
+354,12,"Nov 18, 2020",Ball State,31,Northern Illinois,25,0
+355,12,"Nov 18, 2020",Toledo,45,Eastern Michigan,28,1
+356,12,"Nov 18, 2020",Western Michigan,52,Central Michigan,44,1
+357,12,"Nov 19, 2020",Tulsa,30,Tulane,24,0
+358,12,"Nov 20, 2020",Air Force,28,New Mexico,0,0
+359,12,"Nov 20, 2020",Florida Atlantic,24,Massachusetts,2,0
+360,12,"Nov 20, 2020",Louisville,30,Syracuse,0,0
+361,12,"Nov 20, 2020",Minnesota,34,Purdue,31,0
+362,12,"Nov 21, 2020",Alabama,63,Kentucky,3,0
+363,12,"Nov 21, 2020",Army,28,Georgia Southern,27,0
+364,12,"Nov 21, 2020",Auburn,30,Tennessee,17,0
+365,12,"Nov 21, 2020",Boise State,40,Hawaii,32,1
+366,12,"Nov 21, 2020",BYU,66,North Alabama,14,0
+367,12,"Nov 21, 2020",Cincinnati,36,UCF,33,1
+368,12,"Nov 21, 2020",Coastal Carolina,34,Appalachian State,23,0
+369,12,"Nov 21, 2020",Temple,3,East Carolina,28,0
+370,12,"Nov 21, 2020",Florida,38,Vanderbilt,17,1
+371,12,"Nov 21, 2020",Georgia,31,Mississippi State,24,0
+372,12,"Nov 21, 2020",Georgia State,31,South Alabama,14,1
+373,12,"Nov 21, 2020",Illinois,41,Nebraska,23,1
+374,12,"Nov 21, 2020",Iowa,41,Penn State,21,1
+375,12,"Nov 21, 2020",Iowa State,45,Kansas State,0,0
+376,12,"Nov 21, 2020",LSU,27,Arkansas,24,1
+377,12,"Nov 21, 2020",Memphis,56,Stephen F. Austin,14,0
+378,12,"Nov 21, 2020",Michigan,48,Rutgers,42,1
+379,12,"Nov 21, 2020",Middle Tennessee,20,Troy,17,1
+380,12,"Nov 21, 2020",Missouri,17,South Carolina,10,1
+381,12,"Nov 21, 2020",Nevada,26,San Diego State,21,0
+382,12,"Nov 21, 2020",NC State,15,Liberty,14,0
+383,12,"Nov 21, 2020",North Texas,27,Rice,17,0
+384,12,"Nov 21, 2020",Wisconsin,7,Northwestern,17,1
+385,12,"Nov 21, 2020",Ohio State,42,Indiana,35,0
+386,12,"Nov 21, 2020",Oklahoma,41,Oklahoma State,13,0
+387,12,"Nov 21, 2020",Oregon,38,UCLA,35,0
+388,12,"Nov 21, 2020",Oregon State,31,California,27,0
+389,12,"Nov 21, 2020",Pitt,47,Virginia Tech,14,0
+390,12,"Nov 21, 2020",USC,33,Utah,17,1
+391,12,"Nov 21, 2020",Texas State,47,Arkansas State,45,0
+392,12,"Nov 21, 2020",UTSA,23,Southern Miss,20,1
+393,12,"Nov 21, 2020",Virginia,55,Abilene Christian,15,0
+394,12,"Nov 21, 2020",Washington,44,Arizona,27,0
+395,12,"Nov 21, 2020",Western Kentucky,38,Florida Int'l,21,0
+396,13,"Nov 26, 2020",Utah State,41,New Mexico,27,0
+397,13,"Nov 27, 2020",UCF,58,South Florida,46,1
+398,13,"Nov 27, 2020",Central Michigan,31,Eastern Michigan,23,1
+399,13,"Nov 27, 2020",Iowa,26,Nebraska,20,0
+400,13,"Nov 27, 2020",Iowa State,23,Texas,20,1
+401,13,"Nov 27, 2020",Liberty,45,Massachusetts,0,0
+402,13,"Nov 27, 2020",Notre Dame,31,North Carolina,17,1
+403,13,"Nov 27, 2020",Oregon State,41,Oregon,38,0
+404,13,"Nov 27, 2020",Stanford,24,California,23,1
+405,13,"Nov 27, 2020",Wyoming,45,UNLV,14,1
+406,13,"Nov 28, 2020",Alabama,42,Auburn,13,0
+407,13,"Nov 28, 2020",Appalachian State,47,Troy,10,0
+408,13,"Nov 28, 2020",Ball State,27,Toledo,24,1
+409,13,"Nov 28, 2020",Baylor,32,Kansas State,31,0
+410,13,"Nov 28, 2020",Boston College,34,Louisville,27,0
+411,13,"Nov 28, 2020",Buffalo,70,Kent State,41,0
+412,13,"Nov 28, 2020",Clemson,52,Pitt,17,0
+413,13,"Nov 28, 2020",Coastal Carolina,49,Texas State,14,1
+414,13,"Nov 28, 2020",Colorado,20,San Diego State,10,0
+415,13,"Nov 28, 2020",East Carolina,52,SMU,38,0
+416,13,"Nov 28, 2020",Florida,34,Kentucky,10,0
+417,13,"Nov 28, 2020",Georgia,45,South Carolina,16,1
+418,13,"Nov 28, 2020",Georgia State,30,Georgia Southern,24,0
+419,13,"Nov 28, 2020",Georgia Tech,56,Duke,33,0
+420,13,"Nov 28, 2020",Hawaii,24,Nevada,21,0
+421,13,"Nov 28, 2020",Indiana,27,Maryland,11,0
+422,13,"Nov 28, 2020",Louisiana,70,Louisiana-Monroe,20,1
+423,13,"Nov 28, 2020",Navy,7,Memphis,10,0
+424,13,"Nov 28, 2020",Akron,7,Miami (OH),38,0
+425,13,"Nov 28, 2020",Michigan State,29,Northwestern,20,0
+426,13,"Nov 28, 2020",Ole Miss,31,Mississippi State,24,0
+427,13,"Nov 28, 2020",Missouri,41,Vanderbilt,0,0
+428,13,"Nov 28, 2020",NC State,36,Syracuse,29,1
+429,13,"Nov 28, 2020",Ohio,52,Bowling Green,10,0
+430,13,"Nov 28, 2020",Oklahoma State,50,Texas Tech,44,0
+431,13,"Nov 28, 2020",Penn State,27,Michigan,17,1
+432,13,"Nov 28, 2020",Rutgers,37,Purdue,30,1
+433,13,"Nov 28, 2020",South Alabama,38,Arkansas State,31,1
+434,13,"Nov 28, 2020",LSU,7,Texas A&M,20,1
+435,13,"Nov 28, 2020",TCU,59,Kansas,23,1
+436,13,"Nov 28, 2020",UTSA,49,North Texas,17,0
+437,13,"Nov 28, 2020",UCLA,27,Arizona,10,0
+438,13,"Nov 28, 2020",Washington,24,Utah,21,0
+439,13,"Nov 28, 2020",Western Michigan,30,Northern Illinois,27,0
+440,14,"Dec 3, 2020",Utah State,7,Air Force,35,0
+441,14,"Dec 3, 2020",Louisiana Tech,42,North Texas,31,1
+442,14,"Dec 4, 2020",Louisiana,24,Appalachian State,21,1
+443,14,"Dec 5, 2020",Akron,31,Bowling Green,3,0
+444,14,"Dec 5, 2020",Alabama,55,LSU,17,1
+445,14,"Dec 5, 2020",Arkansas State,48,Louisiana-Monroe,15,0
+446,14,"Dec 5, 2020",Ball State,45,Central Michigan,20,1
+447,14,"Dec 5, 2020",California,21,Oregon,17,0
+448,14,"Dec 5, 2020",Clemson,45,Virginia Tech,10,1
+449,14,"Dec 5, 2020",Coastal Carolina,22,BYU,17,0
+450,14,"Dec 5, 2020",Colorado,24,Arizona,13,1
+451,14,"Dec 5, 2020",Eastern Michigan,53,Western Michigan,42,1
+452,14,"Dec 5, 2020",Florida,31,Tennessee,19,1
+453,14,"Dec 5, 2020",Florida Atlantic,3,Georgia Southern,20,1
+454,14,"Dec 5, 2020",Wisconsin,6,Indiana,14,0
+455,14,"Dec 5, 2020",Iowa,35,Illinois,21,1
+456,14,"Dec 5, 2020",West Virginia,6,Iowa State,42,1
+457,14,"Dec 5, 2020",Kentucky,41,South Carolina,18,0
+458,14,"Dec 5, 2020",Miami,48,Duke,0,1
+459,14,"Dec 5, 2020",Missouri,50,Arkansas,48,0
+460,14,"Dec 5, 2020",Nebraska,37,Purdue,27,1
+461,14,"Dec 5, 2020",Nevada,37,Fresno State,26,0
+462,14,"Dec 5, 2020",New Mexico,17,Wyoming,16,0
+463,14,"Dec 5, 2020",Western Carolina,9,North Carolina,49,1
+464,14,"Dec 5, 2020",NC State,23,Georgia Tech,13,0
+465,14,"Dec 5, 2020",Notre Dame,45,Syracuse,21,0
+466,14,"Dec 5, 2020",Ohio State,52,Michigan State,12,1
+467,14,"Dec 5, 2020",Oklahoma,27,Baylor,14,0
+468,14,"Dec 5, 2020",Rutgers,7,Penn State,23,0
+469,14,"Dec 5, 2020",Rice,20,Marshall,0,1
+470,14,"Dec 5, 2020",San Diego State,29,Colorado State,17,0
+471,14,"Dec 5, 2020",San Jose State,35,Hawaii,24,1
+472,14,"Dec 5, 2020",Stanford,31,Washington,26,1
+473,14,"Dec 5, 2020",Texas,69,Kansas State,31,1
+474,14,"Dec 5, 2020",Texas A&M,31,Auburn,20,1
+475,14,"Dec 5, 2020",TCU,29,Oklahoma State,22,0
+476,14,"Dec 5, 2020",Texas Tech,16,Kansas,13,0
+477,14,"Dec 5, 2020",Toledo,41,Northern Illinois,24,1
+478,14,"Dec 5, 2020",Troy,29,South Alabama,0,1
+479,14,"Dec 5, 2020",Tulane,35,Memphis,21,0
+480,14,"Dec 5, 2020",Navy,6,Tulsa,19,0
+481,14,"Dec 5, 2020",UCLA,25,Arizona State,18,1
+482,14,"Dec 5, 2020",Utah,30,Oregon State,24,0
+483,14,"Dec 5, 2020",Virginia,43,Boston College,32,0
+484,14,"Dec 6, 2020",USC,38,Washington State,13,0
+485,14,"Dec 6, 2020",Western Kentucky,37,Charlotte,19,1
+486,15,"Dec 10, 2020",Pitt,34,Georgia Tech,20,1
+487,15,"Dec 10, 2020",Southern Miss,45,Florida Atlantic,31,0
+488,15,"Dec 11, 2020",Arizona State,70,Arizona,7,1
+489,15,"Dec 11, 2020",North Texas,45,UTEP,43,1
+490,15,"Dec 11, 2020",San Jose State,30,Nevada,20,0
+491,15,"Dec 12, 2020",Alabama,52,Arkansas,3,1
+492,15,"Dec 12, 2020",UAB,21,Rice,16,1
+493,15,"Dec 12, 2020",Appalachian State,34,Georgia Southern,26,1
+494,15,"Dec 12, 2020",Army,15,Navy,0,0
+495,15,"Dec 12, 2020",Auburn,24,Mississippi State,10,1
+496,15,"Dec 12, 2020",Ball State,30,Western Michigan,27,0
+497,15,"Dec 12, 2020",Wyoming,9,Boise State,17,0
+498,15,"Dec 12, 2020",BYU,28,San Diego State,14,0
+499,15,"Dec 12, 2020",Akron,7,Buffalo,56,1
+500,15,"Dec 12, 2020",Coastal Carolina,42,Troy,38,1
+501,15,"Dec 12, 2020",Eastern Michigan,41,Northern Illinois,33,0
+502,15,"Dec 12, 2020",Florida State,56,Duke,35,0
+503,15,"Dec 12, 2020",Georgia,49,Missouri,14,1
+504,15,"Dec 12, 2020",Hawaii,38,UNLV,21,0
+505,15,"Dec 12, 2020",Wisconsin,7,Iowa,28,1
+506,15,"Dec 12, 2020",LSU,37,Florida,34,1
+507,15,"Dec 12, 2020",Louisville,45,Wake Forest,21,0
+508,15,"Dec 12, 2020",Memphis,30,Houston,27,0
+509,15,"Dec 12, 2020",Minnesota,24,Nebraska,17,1
+510,15,"Dec 12, 2020",New Mexico,49,Fresno State,39,0
+511,15,"Dec 12, 2020",North Carolina,62,Miami,26,1
+512,15,"Dec 12, 2020",Northwestern,28,Illinois,10,0
+513,15,"Dec 12, 2020",Oklahoma State,42,Baylor,3,1
+514,15,"Dec 12, 2020",Penn State,39,Michigan State,24,0
+515,15,"Dec 12, 2020",Rutgers,27,Maryland,24,1
+516,15,"Dec 12, 2020",USC,43,UCLA,38,1
+517,15,"Dec 12, 2020",Stanford,27,Oregon State,24,1
+518,15,"Dec 12, 2020",Tennessee,42,Vanderbilt,17,1
+519,15,"Dec 12, 2020",TCU,52,Louisiana Tech,10,0
+520,15,"Dec 12, 2020",Toledo,24,Central Michigan,23,0
+521,15,"Dec 12, 2020",Utah,38,Colorado,21,1
+522,15,"Dec 12, 2020",Virginia Tech,33,Virginia,15,0
+523,16,"Dec 18, 2020",UAB,22,Marshall,13,1
+524,16,"Dec 18, 2020",Ball State,38,Buffalo,28,0
+525,16,"Dec 18, 2020",Nebraska,28,Rutgers,21,1
+526,16,"Dec 18, 2020",Oregon,31,USC,24,1
+527,16,"Dec 19, 2020",Alabama,52,Florida,46,0
+528,16,"Dec 19, 2020",Arizona State,46,Oregon State,33,1
+529,16,"Dec 19, 2020",Air Force,7,Army,10,1
+530,16,"Dec 19, 2020",Cincinnati,27,Tulsa,24,0
+531,16,"Dec 19, 2020",Clemson,34,Notre Dame,10,0
+532,16,"Dec 19, 2020",LSU,53,Ole Miss,48,0
+533,16,"Dec 19, 2020",Mississippi State,51,Missouri,32,0
+534,16,"Dec 19, 2020",Ohio State,22,Northwestern,10,0
+535,16,"Dec 19, 2020",Oklahoma,27,Iowa State,21,0
+536,16,"Dec 19, 2020",Penn State,56,Illinois,21,0
+537,16,"Dec 19, 2020",San Jose State,34,Boise State,20,0
+538,16,"Dec 19, 2020",Stanford,48,UCLA,47,1
+539,16,"Dec 19, 2020",Texas A&M,34,Tennessee,13,1
+540,16,"Dec 19, 2020",Utah,45,Washington State,28,0
+541,16,"Dec 19, 2020",Wisconsin,20,Minnesota,17,0
+542,16,"Dec 21, 2020",Appalachian State,56,North Texas,28,0
+543,17,"Dec 22, 2020",BYU,49,UCF,23,0
+544,17,"Dec 22, 2020",Nevada,38,Tulane,27,0
+545,17,"Dec 23, 2020",Georgia Southern,38,Louisiana Tech,3,0
+546,17,"Dec 23, 2020",Memphis,25,Florida Atlantic,10,0
+547,17,"Dec 24, 2020",Hawaii,28,Houston,14,0
+548,17,"Dec 25, 2020",Buffalo,17,Marshall,10,0
+549,17,"Dec 26, 2020",Georgia State,39,Western Kentucky,21,0
+550,17,"Dec 26, 2020",Liberty,37,Coastal Carolina,34,0
+551,17,"Dec 26, 2020",Louisiana,31,UTSA,24,0
+552,18,"Dec 29, 2020",Oklahoma State,37,Miami,34,0
+553,18,"Dec 29, 2020",Texas,55,Colorado,23,0
+554,18,"Dec 30, 2020",Oklahoma,55,Florida,20,0
+555,18,"Dec 30, 2020",Wisconsin,42,Wake Forest,28,0
+556,18,"Dec 31, 2020",Ball State,34,San Jose State,13,0
+557,18,"Dec 31, 2020",Mississippi State,28,Tulsa,26,0
+558,18,"Dec 31, 2020",West Virginia,24,Army,21,0
+559,18,"Jan 1, 2021",Alabama,31,Notre Dame,14,0
+560,18,"Jan 1, 2021",Georgia,24,Cincinnati,21,0
+561,18,"Jan 1, 2021",Northwestern,35,Auburn,19,0
+562,18,"Jan 1, 2021",Ohio State,49,Clemson,28,0
+563,18,"Jan 2, 2021",Iowa State,34,Oregon,17,0
+564,18,"Jan 2, 2021",Kentucky,23,NC State,21,0
+565,18,"Jan 2, 2021",Ole Miss,26,Indiana,20,0
+566,18,"Jan 2, 2021",Texas A&M,41,North Carolina,27,0
+567,19,"Jan 11, 2021",Alabama,52,Ohio State,24,0
+568,20,"Feb 21, 2021",Tarleton State,43,New Mexico State,17,1
+569,21,"Mar 7, 2021",New Mexico State,36,Dixie State,29,0

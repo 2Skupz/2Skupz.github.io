@@ -1,0 +1,562 @@
+0,1,"Sep 17, 1921",Harvard,10,Boston University,0,0
+1,2,"Sep 23, 1921",Chattanooga,20,Athens,0,1
+2,2,"Sep 23, 1921",Grand Island,7,Colorado College,27,1
+3,2,"Sep 24, 1921",Alabama,34,Samford,14,0
+4,2,"Sep 24, 1921",Baylor,35,Tarleton State,0,0
+5,2,"Sep 24, 1921",Beloit,7,Northwestern,0,1
+6,2,"Sep 24, 1921",Rhodes,6,Birmingham-Southern,38,1
+7,2,"Sep 24, 1921",Brown,6,Rhode Island,0,0
+8,2,"Sep 24, 1921",California,21,Saint Mary's (CA),0,0
+9,2,"Sep 24, 1921",Dartmouth,34,Norwich,3,0
+10,2,"Sep 24, 1921",Erskine,7,Furman,42,1
+11,2,"Sep 24, 1921",Georgia Tech,42,Wake Forest,0,0
+12,2,"Sep 24, 1921",Harvard,16,Middlebury,0,0
+13,2,"Sep 24, 1921",Southwestern (TX),7,Howard Payne,35,0
+14,2,"Sep 24, 1921",Indiana,47,Franklin,0,0
+15,2,"Sep 24, 1921",Lafayette,48,Muhlenberg,0,0
+16,2,"Sep 24, 1921",NC State,21,Randolph-Macon,0,0
+17,2,"Sep 24, 1921",Notre Dame,56,Kalamazoo,0,0
+18,2,"Sep 24, 1921",Oglethorpe,29,North Georgia,0,0
+19,2,"Sep 24, 1921",Oklahoma State,53,Southwestern Oklahoma State,0,0
+20,2,"Sep 24, 1921",Rooks,7,Oregon State,68,1
+21,2,"Sep 24, 1921",Penn State,53,Lebanon Valley,0,0
+22,2,"Sep 24, 1921",Pennsylvania,89,Delaware,0,0
+23,2,"Sep 24, 1921",Pitt,28,Geneva,0,1
+24,2,"Sep 24, 1921",Rutgers,33,Ursinus,0,1
+25,2,"Sep 24, 1921",Colgate,7,St. Bonaventure,7,0
+26,2,"Sep 24, 1921",Syracuse,35,Hobart,0,0
+27,2,"Sep 24, 1921",Tennessee,27,Emory & Henry,0,0
+28,2,"Sep 24, 1921",TCU,30,West Texas A&M,0,1
+29,2,"Sep 24, 1921",Virginia,28,Davidson,0,0
+30,2,"Sep 24, 1921",Virginia Military Institute,13,Roanoke,0,0
+31,2,"Sep 24, 1921",Hampden-Sydney,6,Virginia Tech,14,1
+32,2,"Sep 24, 1921",Washington & Jefferson,14,Bethany (West Virginia),0,1
+33,2,"Sep 24, 1921",West Virginia,35,West Virginia Wesleyan,3,0
+34,2,"Sep 24, 1921",Yale,28,Bates,0,0
+35,3,"Sep 30, 1921",Chattanooga,53,Bryson,0,0
+36,3,"Oct 1, 1921",Spring Hill,7,Alabama,27,1
+37,3,"Oct 1, 1921",Amherst,9,Columbia,7,1
+38,3,"Oct 1, 1921",Arkansas,28,Hendrix,0,0
+39,3,"Oct 1, 1921",Auburn,35,Samford,3,1
+40,3,"Oct 1, 1921",Baylor,17,Austin,13,1
+41,3,"Oct 1, 1921",Colby,7,Brown,12,1
+42,3,"Oct 1, 1921",California,14,Olympic Club,0,0
+43,3,"Oct 1, 1921",Centre,14,Clemson,0,0
+44,3,"Oct 1, 1921",Chicago,41,Northwestern,0,0
+45,3,"Oct 1, 1921",Citadel,37,Parris Island Marines,0,0
+46,3,"Oct 1, 1921",Colgate,14,Allegheny,0,0
+47,3,"Oct 1, 1921",Cornell,41,St. Bonaventure,0,0
+48,3,"Oct 1, 1921",Middlebury,3,Dartmouth,28,1
+49,3,"Oct 1, 1921",Davidson,7,Presbyterian,0,0
+50,3,"Oct 1, 1921",Fort Hays State,7,Denver,41,1
+51,3,"Oct 1, 1921",Florida,6,Fort Benning,0,1
+52,3,"Oct 1, 1921",Furman,63,Newberry,0,0
+53,3,"Oct 1, 1921",Georgia,28,Mercer,0,0
+54,3,"Oct 1, 1921",Georgia Tech,41,Oglethorpe,0,0
+55,3,"Oct 1, 1921",Grinnell,35,Simpson,0,1
+56,3,"Oct 1, 1921",TCU,7,Hardin-Simmons,10,1
+57,3,"Oct 1, 1921",Harvard,3,Holy Cross,0,0
+58,3,"Oct 1, 1921",Indiana,29,Kalamazoo,0,0
+59,3,"Oct 1, 1921",Iowa,52,Knox,14,0
+60,3,"Oct 1, 1921",Coe,3,Iowa State,28,1
+61,3,"Oct 1, 1921",Washburn,7,Kansas,28,0
+62,3,"Oct 1, 1921",Kansas State,7,Emporia College,3,0
+63,3,"Oct 1, 1921",Kentucky,68,Kentucky Wesleyan,0,0
+64,3,"Oct 1, 1921",Lafayette,6,Pitt,0,0
+65,3,"Oct 1, 1921",Lehigh,22,Susquehanna,0,0
+66,3,"Oct 1, 1921",Maryland,3,Rutgers,0,1
+67,3,"Oct 1, 1921",Michigan,44,Mount Union,0,0
+68,3,"Oct 1, 1921",Minnesota,19,North Dakota,0,0
+69,3,"Oct 1, 1921",Ole Miss,82,Memphis,0,0
+70,3,"Oct 1, 1921",Mississippi College,14,Tulane,0,1
+71,3,"Oct 1, 1921",Birmingham-Southern,7,Mississippi State,20,1
+72,3,"Oct 1, 1921",Missouri,36,Oklahoma State,0,0
+73,3,"Oct 1, 1921",Navy,40,NC State,0,0
+74,3,"Oct 1, 1921",Nebraska,55,Nebraska Wesleyan,0,0
+75,3,"Oct 1, 1921",North Carolina,21,Wake Forest,0,0
+76,3,"Oct 1, 1921",Notre Dame,57,DePauw,10,0
+77,3,"Oct 1, 1921",Ohio State,28,Ohio Wesleyan,0,0
+78,3,"Oct 1, 1921",Oregon,7,Willamette,3,0
+79,3,"Oct 1, 1921",Oregon State,68,Chemawa,0,0
+80,3,"Oct 1, 1921",Penn State,24,Gettysburg,0,0
+81,3,"Oct 1, 1921",Pennsylvania,20,Franklin & Marshall,0,0
+82,3,"Oct 1, 1921",Kingfisher,7,Phillips,42,1
+83,3,"Oct 1, 1921",Swarthmore,7,Princeton,21,1
+84,3,"Oct 1, 1921",Rice,54,Louisiana,0,0
+85,3,"Oct 1, 1921",Richmond,14,Catholic,0,0
+86,3,"Oct 1, 1921",Sewanee,26,Cumberland,0,0
+87,3,"Oct 1, 1921",Erskine,7,South Carolina,13,1
+88,3,"Oct 1, 1921",SMU,3,Howard Payne,0,0
+89,3,"Oct 1, 1921",Stanford,41,U.S. Marines,0,0
+90,3,"Oct 1, 1921",Syracuse,38,Ohio,0,0
+91,3,"Oct 1, 1921",Tennessee,7,Maryville (TN),0,1
+92,3,"Oct 1, 1921",Texas,33,St. Edward's,0,0
+93,3,"Oct 1, 1921",Texas State,10,Southwestern (TX),0,1
+94,3,"Oct 1, 1921",Vanderbilt,34,Middle Tennessee,0,0
+95,3,"Oct 1, 1921",Virginia,28,George Washington,0,0
+96,3,"Oct 1, 1921",Virginia Military Institute,32,Hampden-Sydney,0,0
+97,3,"Oct 1, 1921",Virginia Tech,14,William & Mary,0,0
+98,3,"Oct 1, 1921",Wabash,9,Purdue,0,1
+99,3,"Oct 1, 1921",9th Amry Corps,7,Washington,24,1
+100,3,"Oct 1, 1921",Washington & Jefferson,26,Bucknell,0,0
+101,3,"Oct 1, 1921",Washington & Lee,41,Randolph-Macon,0,0
+102,3,"Oct 1, 1921",Washington (MO),10,Missouri-Rolla,0,0
+103,3,"Oct 1, 1921",West Virginia,50,Cincinnati,0,0
+104,3,"Oct 1, 1921",Wisconsin,28,Lawrence,0,0
+105,3,"Oct 1, 1921",Wofford,22,North Georgia,0,0
+106,3,"Oct 1, 1921",Colorado State,7,Wyoming,7,0
+107,3,"Oct 1, 1921",Yale,14,Vermont,0,0
+108,4,"Oct 7, 1921",Clemson,34,Presbyterian,0,0
+109,4,"Oct 8, 1921",Alabama,55,Marion,0,0
+110,4,"Oct 8, 1921",Arkansas,40,Drury,0,0
+111,4,"Oct 8, 1921",Auburn,44,Spring Hill,0,0
+112,4,"Oct 8, 1921",Baylor,17,Rice,14,0
+113,4,"Oct 8, 1921",Brown,13,New York University,0,0
+114,4,"Oct 8, 1921",Nevada,6,California,51,1
+115,4,"Oct 8, 1921",Centre,14,Virginia Tech,0,0
+116,4,"Oct 8, 1921",Chicago,9,Purdue,0,0
+117,4,"Oct 8, 1921",Citadel,28,Wofford,0,0
+118,4,"Oct 8, 1921",Colorado College,10,Wyoming,0,1
+119,4,"Oct 8, 1921",Wesleyan (CT),3,Columbia,14,1
+120,4,"Oct 8, 1921",Cornell,55,Rochester,0,0
+121,4,"Oct 8, 1921",Dartmouth,24,New Hampshire,0,0
+122,4,"Oct 8, 1921",Drake,42,William Penn,0,1
+123,4,"Oct 8, 1921",Florida,33,Rollins,0,0
+124,4,"Oct 8, 1921",Furman,7,Georgia,27,1
+125,4,"Oct 8, 1921",Georgia Tech,70,Davidson,0,0
+126,4,"Oct 8, 1921",Harvard,19,Indiana,0,0
+127,4,"Oct 8, 1921",Illinois,52,South Dakota,0,0
+128,4,"Oct 8, 1921",Notre Dame,7,Iowa,10,1
+129,4,"Oct 8, 1921",Grinnell,3,Iowa State,21,1
+130,4,"Oct 8, 1921",Kansas State,21,Washington (MO),0,0
+131,4,"Oct 8, 1921",Kentucky,28,Marshall,0,0
+132,4,"Oct 8, 1921",Lafayette,27,Dickinson,0,0
+133,4,"Oct 8, 1921",Lehigh,7,Rutgers,0,1
+134,4,"Oct 8, 1921",LSU,78,Northwestern State,0,0
+135,4,"Oct 8, 1921",Michigan,65,Case,0,0
+136,4,"Oct 8, 1921",Birmingham-Southern,7,Millsaps,7,0
+137,4,"Oct 8, 1921",Minnesota,28,Northwestern,0,0
+138,4,"Oct 8, 1921",Mississippi College,68,Louisiana College,0,0
+139,4,"Oct 8, 1921",Ouachita,6,Mississippi State,21,1
+140,4,"Oct 8, 1921",Missouri,32,Saint Louis,0,1
+141,4,"Oct 8, 1921",Oregon State,7,Multnomah A.C.,7,0
+142,4,"Oct 8, 1921",Navy,53,Western Reserve,0,0
+143,4,"Oct 8, 1921",Oberlin,7,Ohio State,6,1
+144,4,"Oct 8, 1921",Oglethorpe,20,Fort Benning,12,1
+145,4,"Oct 8, 1921",Oklahoma,21,Central Oklahoma,0,1
+146,4,"Oct 8, 1921",Oklahoma State,28,TCU,21,0
+147,4,"Oct 8, 1921",Pacific (Oregon),7,Oregon,21,0
+148,4,"Oct 8, 1921",Penn State,35,NC State,0,0
+149,4,"Oct 8, 1921",Pennsylvania,7,Gettysburg,0,0
+150,4,"Oct 8, 1921",Phillips,14,Southwestern Oklahoma State,0,0
+151,4,"Oct 8, 1921",Pitt,21,West Virginia,13,0
+152,4,"Oct 8, 1921",Princeton,19,Colgate,0,0
+153,4,"Oct 8, 1921",Jacksonville State,7,Samford,39,1
+154,4,"Oct 8, 1921",Sewanee,102,Bryson,0,0
+155,4,"Oct 8, 1921",South Carolina,7,Newberry,0,0
+156,4,"Oct 8, 1921",Saint Mary's (CA),7,Stanford,10,1
+157,4,"Oct 8, 1921",Syracuse,42,Maryland,0,0
+158,4,"Oct 8, 1921",Tennessee,21,Chattanooga,0,0
+159,4,"Oct 8, 1921",Texas,60,Austin,0,0
+160,4,"Oct 8, 1921",Howard Payne,7,Texas A&M,14,1
+161,4,"Oct 8, 1921",Tulane,26,Ole Miss,0,0
+162,4,"Oct 8, 1921",Utah State,47,Ogden A.C.,21,0
+163,4,"Oct 8, 1921",Vanderbilt,42,Mercer,0,0
+164,4,"Oct 8, 1921",Virginia,14,Richmond,0,0
+165,4,"Oct 8, 1921",Virginia Military Institute,20,Wake Forest,0,0
+166,4,"Oct 8, 1921",Washington,7,Whitman,0,0
+167,4,"Oct 8, 1921",Washington & Jefferson,54,West Virginia Wesleyan,0,0
+168,4,"Oct 8, 1921",Washington & Lee,27,Emory & Henry,0,0
+169,4,"Oct 8, 1921",South Dakota State,3,Wisconsin,24,1
+170,4,"Oct 8, 1921",Yale,34,North Carolina,0,0
+171,4,"Oct 10, 1921",Carlstrom Field,19,Florida,0,1
+172,5,"Oct 11, 1921",Wyoming,3,Utah State,14,1
+173,5,"Oct 12, 1921",Texas A&M,13,SMU,0,1
+174,5,"Oct 14, 1921",Auburn,56,Clemson,0,0
+175,5,"Oct 14, 1921",Erskine,74,Charleston,0,0
+176,5,"Oct 15, 1921",Alabama,95,Bryson,0,0
+177,5,"Oct 15, 1921",Arkansas,28,Ouachita,0,0
+178,5,"Oct 15, 1921",Birmingham-Southern,19,Marion,0,1
+179,5,"Oct 15, 1921",Baylor,7,Boston College,23,0
+180,5,"Oct 15, 1921",California,21,Pacific Fleet,10,0
+181,5,"Oct 15, 1921",Xavier,6,Centre,28,0
+182,5,"Oct 15, 1921",Chattanooga,31,Georgetown (Kentucky),0,0
+183,5,"Oct 15, 1921",Citadel,20,Presbyterian,0,1
+184,5,"Oct 15, 1921",Susquehanna,6,Colgate,21,1
+185,5,"Oct 15, 1921",Colorado College,7,New Mexico,0,0
+186,5,"Oct 15, 1921",Colorado State,14,Colorado Mines,0,0
+187,5,"Oct 15, 1921",Columbia,19,New York University,0,0
+188,5,"Oct 15, 1921",Cornell,110,Western Reserve,0,0
+189,5,"Oct 15, 1921",Kansas State,7,Creighton,14,1
+190,5,"Oct 15, 1921",Tennessee,3,Dartmouth,14,1
+191,5,"Oct 15, 1921",Nebraska Wesleyan,3,Denver,21,1
+192,5,"Oct 15, 1921",Kansas,7,Drake,15,0
+193,5,"Oct 15, 1921",Florida,7,Mercer,0,0
+194,5,"Oct 15, 1921",Georgia Tech,69,Furman,0,0
+195,5,"Oct 15, 1921",Georgia,7,Harvard,10,1
+196,5,"Oct 15, 1921",Illinois,2,Iowa,14,1
+197,5,"Oct 15, 1921",Bucknell,7,Lafayette,20,0
+198,5,"Oct 15, 1921",LSU,6,Texas A&M,0,0
+199,5,"Oct 15, 1921",Michigan,30,Michigan State,0,0
+200,5,"Oct 15, 1921",Ole Miss,49,Millsaps,0,0
+201,5,"Oct 15, 1921",Mississippi State,14,Mississippi College,13,0
+202,5,"Oct 15, 1921",Missouri,17,Iowa State,14,0
+203,5,"Oct 15, 1921",Navy,13,Princeton,0,0
+204,5,"Oct 15, 1921",Nebraska,41,Haskell,0,0
+205,5,"Oct 15, 1921",Newberry,41,Charleston,0,0
+206,5,"Oct 15, 1921",South Carolina,7,North Carolina,7,0
+207,5,"Oct 15, 1921",Notre Dame,33,Purdue,0,1
+208,5,"Oct 15, 1921",Ohio State,27,Minnesota,0,0
+209,5,"Oct 15, 1921",Oklahoma,6,Oklahoma State,0,0
+210,5,"Oct 15, 1921",Idaho,7,Oregon,7,0
+211,5,"Oct 15, 1921",Oregon State,54,Willamette,0,1
+212,5,"Oct 15, 1921",Lehigh,7,Penn State,28,1
+213,5,"Oct 15, 1921",Phillips,9,Hardin-Simmons,0,0
+214,5,"Oct 15, 1921",Pitt,21,Cincinnati,14,0
+215,5,"Oct 15, 1921",Rutgers,14,Washington & Lee,13,0
+216,5,"Oct 15, 1921",Sewanee,21,Oglethorpe,0,0
+217,5,"Oct 15, 1921",Loyola (LA),7,Spring Hill,28,0
+218,5,"Oct 15, 1921",St. John's (Maryland),7,Maryland,3,1
+219,5,"Oct 15, 1921",Stanford,7,Olympic Club,0,0
+220,5,"Oct 15, 1921",Pennsylvania,7,Swarthmore,7,0
+221,5,"Oct 15, 1921",Syracuse,28,Brown,0,0
+222,5,"Oct 15, 1921",Texas,21,Howard Payne,0,0
+223,5,"Oct 15, 1921",Trinity (Texas),3,TCU,19,1
+224,5,"Oct 15, 1921",Tulane,7,Rice,6,1
+225,5,"Oct 15, 1921",Wyoming,3,Utah,14,1
+226,5,"Oct 15, 1921",Montana State,7,Utah State,30,1
+227,5,"Oct 15, 1921",Vanderbilt,21,Kentucky,14,1
+228,5,"Oct 15, 1921",Virginia Military Institute,7,Virginia,14,0
+229,5,"Oct 15, 1921",Virginia Tech,34,Richmond,0,1
+230,5,"Oct 15, 1921",Davidson,7,Wake Forest,10,1
+231,5,"Oct 15, 1921",Montana,7,Washington,28,1
+232,5,"Oct 15, 1921",Washington & Jefferson,14,Carnegie Mellon,0,0
+233,5,"Oct 15, 1921",Washington (MO),14,Grinnell,13,1
+234,5,"Oct 15, 1921",Gonzaga,7,Washington State,54,0
+235,5,"Oct 15, 1921",West Virginia,7,Ohio,0,0
+236,5,"Oct 15, 1921",Wisconsin,27,Northwestern,0,1
+237,5,"Oct 15, 1921",Elon,7,Wofford,20,1
+238,5,"Oct 15, 1921",Yale,23,Williams,0,0
+239,6,"Oct 20, 1921",NC State,7,North Carolina,0,0
+240,6,"Oct 21, 1921",SMU,6,Austin,17,0
+241,6,"Oct 21, 1921",Furman,0,Clemson,0,0
+242,6,"Oct 21, 1921",TCU,16,Tulsa,0,0
+243,6,"Oct 21, 1921",Vanderbilt,20,Texas,0,1
+244,6,"Oct 21, 1921",Idaho,3,Washington State,20,1
+245,6,"Oct 22, 1921",Fort Benning,7,Auburn,14,1
+246,6,"Oct 22, 1921",Phillips,6,Baylor,34,1
+247,6,"Oct 22, 1921",West Virginia,0,Bucknell,0,0
+248,6,"Oct 22, 1921",California,39,Oregon,0,0
+249,6,"Oct 22, 1921",Centre,98,Transylvania,0,1
+250,6,"Oct 22, 1921",Samford,3,Chattanooga,26,1
+251,6,"Oct 22, 1921",Chicago,9,Princeton,0,1
+252,6,"Oct 22, 1921",Coe,10,Grinnell,0,1
+253,6,"Oct 22, 1921",Denver,7,Colorado,10,1
+254,6,"Oct 22, 1921",Colgate,7,Cornell,31,1
+255,6,"Oct 22, 1921",Columbia,7,Dartmouth,31,1
+256,6,"Oct 22, 1921",Davidson,87,Wofford,0,0
+257,6,"Oct 22, 1921",Drake,41,Cornell College,0,0
+258,6,"Oct 22, 1921",Citadel,6,Erskine,13,1
+259,6,"Oct 22, 1921",Georgia,14,Oglethorpe,0,0
+260,6,"Oct 22, 1921",Georgia Tech,48,Rutgers,14,0
+261,6,"Oct 22, 1921",Hampden-Sydney,7,Richmond,5,1
+262,6,"Oct 22, 1921",Iowa State,7,Kansas,14,0
+263,6,"Oct 22, 1921",Kansas State,7,Missouri,5,0
+264,6,"Oct 22, 1921",Kentucky,33,Georgetown (Kentucky),0,0
+265,6,"Oct 22, 1921",Fordham,7,Lafayette,28,0
+266,6,"Oct 22, 1921",Spring Hill,7,LSU,41,1
+267,6,"Oct 22, 1921",Virginia Tech,7,Maryland,10,1
+268,6,"Oct 22, 1921",Mercer,20,Birmingham-Southern,0,0
+269,6,"Oct 22, 1921",Minnesota,6,Indiana,0,0
+270,6,"Oct 22, 1921",Ole Miss,35,Rhodes,0,0
+271,6,"Oct 22, 1921",Mississippi College,35,Union (Tennessee),0,0
+272,6,"Oct 22, 1921",Nevada,41,Utah State,0,1
+273,6,"Oct 22, 1921",Notre Dame,7,Nebraska,0,0
+274,6,"Oct 22, 1921",Ohio State,14,Michigan,0,1
+275,6,"Oct 22, 1921",Oklahoma,28,Washington (MO),13,0
+276,6,"Oct 22, 1921",Oklahoma State,7,Arkansas,0,0
+277,6,"Oct 22, 1921",Oregon State,24,Washington,0,0
+278,6,"Oct 22, 1921",Stanford,7,Pacific Fleet,27,0
+279,6,"Oct 22, 1921",Harvard,21,Penn State,21,0
+280,6,"Oct 22, 1921",Virginia Military Institute,7,Pennsylvania,21,1
+281,6,"Oct 22, 1921",Pitt,35,Syracuse,0,0
+282,6,"Oct 22, 1921",Rice,28,Southwestern (TX),0,0
+283,6,"Oct 22, 1921",Sewanee,17,Alabama,0,1
+284,6,"Oct 22, 1921",South Carolina,48,Presbyterian,0,0
+285,6,"Oct 22, 1921",Brown,0,Springfield,0,0
+286,6,"Oct 22, 1921",Tennessee,9,Florida,0,0
+287,6,"Oct 22, 1921",Texas A&M,17,Arizona,13,0
+288,6,"Oct 22, 1921",Tulane,7,Mississippi State,0,0
+289,6,"Oct 22, 1921",Colorado College,3,Utah,14,0
+290,6,"Oct 22, 1921",Johns Hopkins,7,Virginia,14,1
+291,6,"Oct 22, 1921",Lehigh,7,Washington & Jefferson,14,0
+292,6,"Oct 22, 1921",Morris Harvey,7,Washington & Lee,33,1
+293,6,"Oct 22, 1921",William & Mary,21,Wake Forest,14,0
+294,6,"Oct 22, 1921",Wisconsin,20,Illinois,0,1
+295,6,"Oct 22, 1921",Colorado Mines,7,Wyoming,14,1
+296,6,"Oct 22, 1921",Army,7,Yale,14,1
+297,7,"Oct 27, 1921",South Carolina,21,Clemson,0,0
+298,7,"Oct 29, 1921",LSU,7,Alabama,7,0
+299,7,"Oct 29, 1921",Arkansas,14,SMU,0,0
+300,7,"Oct 29, 1921",Baylor,16,Southwestern (TX),0,0
+301,7,"Oct 29, 1921",California,14,Washington State,0,0
+302,7,"Oct 29, 1921",Centre,6,Harvard,0,1
+303,7,"Oct 29, 1921",Chicago,35,Colorado,0,0
+304,7,"Oct 29, 1921",Colorado State,24,Colorado College,0,1
+305,7,"Oct 29, 1921",Dartmouth,7,Cornell,59,1
+306,7,"Oct 29, 1921",Richmond,14,Davidson,14,0
+307,7,"Oct 29, 1921",Detroit Mercy,14,Tulane,10,0
+308,7,"Oct 29, 1921",Presbyterian,7,Erskine,19,0
+309,7,"Oct 29, 1921",Florida,34,Samford,0,1
+310,7,"Oct 29, 1921",Furman,42,Citadel,0,0
+311,7,"Oct 29, 1921",Georgia,7,Auburn,0,0
+312,7,"Oct 29, 1921",Purdue,6,Iowa,13,0
+313,7,"Oct 29, 1921",Kansas State,7,Kansas,21,1
+314,7,"Oct 29, 1921",Lafayette,35,Rutgers,0,0
+315,7,"Oct 29, 1921",Lehigh,21,West Virginia,12,0
+316,7,"Oct 29, 1921",Mercer,41,Stetson,0,0
+317,7,"Oct 29, 1921",Michigan,3,Illinois,0,1
+318,7,"Oct 29, 1921",Birmingham-Southern,6,Mississippi College,27,1
+319,7,"Oct 29, 1921",Mississippi State,21,Ole Miss,0,0
+320,7,"Oct 29, 1921",Missouri,6,Drake,0,0
+321,7,"Oct 29, 1921",Navy,21,Bethany (West Virginia),0,0
+322,7,"Oct 29, 1921",Nebraska,44,Oklahoma,0,0
+323,7,"Oct 29, 1921",New York University,7,Colgate,7,0
+324,7,"Oct 29, 1921",Newberry,33,Wofford,21,1
+325,7,"Oct 29, 1921",Maryland,7,North Carolina,16,0
+326,7,"Oct 29, 1921",Northwestern,34,DePaul,0,0
+327,7,"Oct 29, 1921",Indiana,7,Notre Dame,28,1
+328,7,"Oct 29, 1921",Oglethorpe,7,Chattanooga,0,0
+329,7,"Oct 29, 1921",Georgia Tech,7,Penn State,28,1
+330,7,"Oct 29, 1921",Pitt,28,Pennsylvania,0,1
+331,7,"Oct 29, 1921",Princeton,34,Virginia,0,0
+332,7,"Oct 29, 1921",Sewanee,6,Kentucky,0,1
+333,7,"Oct 29, 1921",Spring Hill,41,Marion,0,0
+334,7,"Oct 29, 1921",Oregon State,7,Stanford,14,1
+335,7,"Oct 29, 1921",Texas,56,Rice,0,0
+336,7,"Oct 29, 1921",Oklahoma State,7,Texas A&M,23,1
+337,7,"Oct 29, 1921",Phillips,0,TCU,0,0
+338,7,"Oct 29, 1921",Idaho,7,Utah,17,1
+339,7,"Oct 29, 1921",Utah State,3,Montana Tech,0,1
+340,7,"Oct 29, 1921",Vanderbilt,14,Tennessee,0,0
+341,7,"Oct 29, 1921",NC State,7,Virginia Military Institute,7,0
+342,7,"Oct 29, 1921",Wake Forest,28,Guilford,0,0
+343,7,"Oct 29, 1921",Washington & Jefferson,17,Syracuse,10,1
+344,7,"Oct 29, 1921",Washington & Lee,3,Virginia Tech,0,0
+345,7,"Oct 29, 1921",Washington (MO),2,Iowa State,0,0
+346,7,"Oct 29, 1921",Williams,20,Columbia,0,1
+347,7,"Oct 29, 1921",Wisconsin,35,Minnesota,0,0
+348,7,"Oct 29, 1921",Denver,9,Wyoming,9,0
+349,7,"Oct 29, 1921",Brown,7,Yale,45,1
+350,8,"Nov 3, 1921",Wofford,6,Erskine,19,0
+351,8,"Nov 5, 1921",Auburn,14,Tulane,0,1
+352,8,"Nov 5, 1921",Birmingham-Southern,16,Samford,14,0
+353,8,"Nov 5, 1921",Brown,55,St. Bonaventure,0,0
+354,8,"Nov 5, 1921",USC,7,California,38,1
+355,8,"Nov 5, 1921",Phillips,3,Central Oklahoma,28,0
+356,8,"Nov 5, 1921",Centre,55,Kentucky,0,0
+357,8,"Nov 5, 1921",Newberry,7,Citadel,7,0
+358,8,"Nov 5, 1921",Colgate,41,Rochester,0,0
+359,8,"Nov 5, 1921",Colorado,35,Colorado College,14,0
+360,8,"Nov 5, 1921",Columbia,7,Cornell,41,0
+361,8,"Nov 5, 1921",Creighton,26,Oklahoma State,13,0
+362,8,"Nov 5, 1921",Denver,21,Colorado State,14,1
+363,8,"Nov 5, 1921",Fort Benning,18,Presbyterian,0,1
+364,8,"Nov 5, 1921",Furman,37,Mercer,0,0
+365,8,"Nov 5, 1921",Clemson,7,Georgia Tech,48,1
+366,8,"Nov 5, 1921",Montana,7,Idaho,35,0
+367,8,"Nov 5, 1921",Illinois,21,DePauw,0,0
+368,8,"Nov 5, 1921",Minnesota,7,Iowa,41,0
+369,8,"Nov 5, 1921",Iowa State,7,Drake,0,1
+370,8,"Nov 5, 1921",Grinnell,7,Kansas State,21,1
+371,8,"Nov 5, 1921",Pennsylvania,6,Lafayette,38,0
+372,8,"Nov 5, 1921",Arkansas,7,LSU,10,1
+373,8,"Nov 5, 1921",Ole Miss,7,Mississippi College,27,1
+374,8,"Nov 5, 1921",Missouri,7,Washington (MO),0,1
+375,8,"Nov 5, 1921",Muhlenberg,14,Lehigh,13,0
+376,8,"Nov 5, 1921",Navy,6,Bucknell,0,0
+377,8,"Nov 5, 1921",Nebraska,10,Pitt,0,1
+378,8,"Nov 5, 1921",Utah,7,Nevada,28,1
+379,8,"Nov 5, 1921",Virginia Military Institute,7,North Carolina,20,0
+380,8,"Nov 5, 1921",NC State,3,Davidson,3,0
+381,8,"Nov 5, 1921",Notre Dame,28,Army,0,1
+382,8,"Nov 5, 1921",Oglethorpe,41,Stetson,0,1
+383,8,"Nov 5, 1921",Ohio State,7,Chicago,0,1
+384,8,"Nov 5, 1921",Kansas,7,Oklahoma,24,1
+385,8,"Nov 5, 1921",Washington State,7,Oregon,7,0
+386,8,"Nov 5, 1921",Carnegie Mellon,7,Penn State,28,1
+387,8,"Nov 5, 1921",Harvard,3,Princeton,10,1
+388,8,"Nov 5, 1921",Purdue,3,Northwestern,0,0
+389,8,"Nov 5, 1921",Rice,7,SMU,0,0
+390,8,"Nov 5, 1921",Richmond,41,Wake Forest,0,0
+391,8,"Nov 5, 1921",Sewanee,47,Chattanooga,0,1
+392,8,"Nov 5, 1921",Florida,7,South Carolina,7,0
+393,8,"Nov 5, 1921",Spring Hill,84,Jefferson (LA),6,0
+394,8,"Nov 5, 1921",Washington,0,Stanford,0,0
+395,8,"Nov 5, 1921",Syracuse,13,McGill,0,1
+396,8,"Nov 5, 1921",Mississippi State,7,Tennessee,14,1
+397,8,"Nov 5, 1921",Texas,44,Southwestern (TX),0,0
+398,8,"Nov 5, 1921",Baylor,3,Texas A&M,14,0
+399,8,"Nov 5, 1921",TCU,7,American Osteopath,0,0
+400,8,"Nov 5, 1921",Colorado Mines,7,Utah State,23,0
+401,8,"Nov 5, 1921",Vanderbilt,14,Alabama,0,1
+402,8,"Nov 5, 1921",Morris Harvey,7,Virginia Tech,54,1
+403,8,"Nov 5, 1921",Washington & Jefferson,49,Westminster (Pennsylvania),14,1
+404,8,"Nov 5, 1921",Washington & Lee,7,West Virginia,28,1
+405,8,"Nov 5, 1921",Yale,28,Maryland,0,0
+406,8,"Nov 6, 1921",Georgia,21,Virginia,0,0
+407,9,"Nov 8, 1921",Notre Dame,48,Rutgers,0,1
+408,9,"Nov 10, 1921",Clemson,7,Citadel,7,0
+409,9,"Nov 11, 1921",Chattanooga,7,Birmingham-Southern,14,1
+410,9,"Nov 11, 1921",Duke,17,Wake Forest,0,1
+411,9,"Nov 11, 1921",Florida,9,Alabama,2,1
+412,9,"Nov 11, 1921",Idaho,31,Wyoming,3,0
+413,9,"Nov 11, 1921",Iowa State,7,Kansas State,0,0
+414,9,"Nov 11, 1921",Mississippi State,7,Texas,54,1
+415,9,"Nov 11, 1921",Rice,7,Texas A&M,7,0
+416,9,"Nov 11, 1921",Virginia Tech,7,NC State,3,0
+417,9,"Nov 12, 1921",Austin,17,Southwestern (TX),10,1
+418,9,"Nov 12, 1921",Baylor,21,Hardin-Simmons,0,0
+419,9,"Nov 12, 1921",California,72,Washington,3,0
+420,9,"Nov 12, 1921",Centre,21,Auburn,0,1
+421,9,"Nov 12, 1921",Illinois,6,Chicago,14,0
+422,9,"Nov 12, 1921",Utah,0,Colorado,0,0
+423,9,"Nov 12, 1921",Colorado Mines,7,Colorado College,0,0
+424,9,"Nov 12, 1921",Cornell,14,Springfield,0,0
+425,9,"Nov 12, 1921",Drake,30,Morningside,10,1
+426,9,"Nov 12, 1921",Oklahoma State,7,Emporia State,7,0
+427,9,"Nov 12, 1921",Erskine,18,Newberry,13,0
+428,9,"Nov 12, 1921",Furman,7,South Carolina,0,0
+429,9,"Nov 12, 1921",Georgetown,7,Georgia Tech,21,1
+430,9,"Nov 12, 1921",Cornell College,6,Grinnell,13,1
+431,9,"Nov 12, 1921",Harvard,9,Brown,7,0
+432,9,"Nov 12, 1921",Iowa,41,Indiana,0,0
+433,9,"Nov 12, 1921",Virginia Military Institute,7,Kentucky,14,1
+434,9,"Nov 12, 1921",Lafayette,44,Delaware,0,0
+435,9,"Nov 12, 1921",Lebanon Valley,7,Lehigh,55,1
+436,9,"Nov 12, 1921",LSU,21,Ole Miss,0,0
+437,9,"Nov 12, 1921",Maryland,16,Catholic,0,1
+438,9,"Nov 12, 1921",Wisconsin,7,Michigan,7,0
+439,9,"Nov 12, 1921",Mississippi College,56,Millsaps,0,0
+440,9,"Nov 12, 1921",Missouri,24,Oklahoma,14,0
+441,9,"Nov 12, 1921",Nebraska,28,Kansas,0,0
+442,9,"Nov 12, 1921",Stanford,14,Nevada,14,0
+443,9,"Nov 12, 1921",North Carolina,0,Davidson,0,0
+444,9,"Nov 12, 1921",Haskell,7,Notre Dame,42,1
+445,9,"Nov 12, 1921",Oglethorpe,7,Mercer,6,1
+446,9,"Nov 12, 1921",Ohio,23,Columbia,21,1
+447,9,"Nov 12, 1921",Ohio State,28,Purdue,0,0
+448,9,"Nov 12, 1921",Multnomah A.C.,7,Oregon,21,1
+449,9,"Nov 12, 1921",Navy,7,Penn State,13,1
+450,9,"Nov 12, 1921",Pennsylvania,14,Dartmouth,14,0
+451,9,"Nov 12, 1921",Arkansas,0,Phillips,0,0
+452,9,"Nov 12, 1921",Presbyterian,27,Wofford,0,0
+453,9,"Nov 12, 1921",Richmond,49,Randolph-Macon,0,0
+454,9,"Nov 12, 1921",New York University,7,Rutgers,21,0
+455,9,"Nov 12, 1921",Spring Hill,7,Samford,0,1
+456,9,"Nov 12, 1921",Syracuse,14,Colgate,0,0
+457,9,"Nov 12, 1921",Tennessee,21,Sewanee,0,0
+458,9,"Nov 12, 1921",SMU,6,TCU,13,0
+459,9,"Nov 12, 1921",Utah State,20,Albertson,0,0
+460,9,"Nov 12, 1921",Washington & Jefferson,7,Pitt,0,1
+461,9,"Nov 12, 1921",Washington & Lee,41,Roanoke,0,0
+462,9,"Nov 12, 1921",Tulane,6,Washington (MO),14,1
+463,9,"Nov 12, 1921",Washington State,7,Oregon State,3,1
+464,9,"Nov 12, 1921",West Virginia,7,Virginia,0,1
+465,9,"Nov 12, 1921",Princeton,7,Yale,13,1
+466,9,"Nov 13, 1921",Vanderbilt,7,Georgia,7,0
+467,10,"Nov 18, 1921",Erskine,13,Clemson,0,1
+468,10,"Nov 18, 1921",Florida,7,Mississippi College,7,0
+469,10,"Nov 18, 1921",Rice,28,Trinity (Texas),14,1
+470,10,"Nov 19, 1921",Arkansas,13,Baylor,12,0
+471,10,"Nov 19, 1921",Brown,7,Colgate,0,0
+472,10,"Nov 19, 1921",Stanford,7,California,42,0
+473,10,"Nov 19, 1921",Carnegie Mellon,21,Maryland,0,0
+474,10,"Nov 19, 1921",Centre,25,Washington & Lee,0,0
+475,10,"Nov 19, 1921",Chicago,3,Wisconsin,0,0
+476,10,"Nov 19, 1921",Colorado,10,Colorado State,0,1
+477,10,"Nov 19, 1921",Davidson,47,Elon,0,0
+478,10,"Nov 19, 1921",Colorado Mines,7,Denver,13,1
+479,10,"Nov 19, 1921",Drake,21,Grinnell,10,0
+480,10,"Nov 19, 1921",Furman,62,Wofford,0,0
+481,10,"Nov 19, 1921",Georgia,22,Alabama,0,0
+482,10,"Nov 19, 1921",Yale,3,Harvard,10,1
+483,10,"Nov 19, 1921",Haskell,14,TCU,0,1
+484,10,"Nov 19, 1921",Idaho,6,Gonzaga,0,0
+485,10,"Nov 19, 1921",Illinois,7,Ohio State,0,1
+486,10,"Nov 19, 1921",Indiana,3,Purdue,0,0
+487,10,"Nov 19, 1921",Iowa,14,Northwestern,0,1
+488,10,"Nov 19, 1921",Oklahoma,7,Kansas State,14,1
+489,10,"Nov 19, 1921",Lehigh,6,Lafayette,28,0
+490,10,"Nov 19, 1921",Mercer,18,Chattanooga,0,0
+491,10,"Nov 19, 1921",Michigan,38,Minnesota,0,0
+492,10,"Nov 19, 1921",Nebraska,35,Iowa State,3,1
+493,10,"Nov 19, 1921",Presbyterian,7,Newberry,16,1
+494,10,"Nov 19, 1921",NC State,14,Wake Forest,0,1
+495,10,"Nov 19, 1921",Marquette,7,Notre Dame,21,0
+496,10,"Nov 19, 1921",Oklahoma State,7,Phillips,6,1
+497,10,"Nov 19, 1921",Oregon,0,Oregon State,0,0
+498,10,"Nov 19, 1921",Rollins,3,Birmingham-Southern,0,1
+499,10,"Nov 19, 1921",West Virginia,7,Rutgers,17,1
+500,10,"Nov 19, 1921",Samford,21,Marion,0,1
+501,10,"Nov 19, 1921",South Carolina,13,Citadel,0,0
+502,10,"Nov 19, 1921",SMU,0,Southwestern (TX),0,0
+503,10,"Nov 19, 1921",Dartmouth,7,Syracuse,14,1
+504,10,"Nov 19, 1921",Ole Miss,6,Tennessee Medical College,24,1
+505,10,"Nov 19, 1921",Tulane,21,LSU,0,0
+506,10,"Nov 19, 1921",Vanderbilt,9,Sewanee,0,0
+507,10,"Nov 19, 1921",Virginia Tech,35,Roanoke,0,0
+508,10,"Nov 19, 1921",Detroit Mercy,2,Washington & Jefferson,14,0
+509,10,"Nov 19, 1921",Saint Louis,0,Washington (MO),0,0
+510,11,"Nov 24, 1921",Centre,21,Tulane,0,1
+511,11,"Nov 24, 1921",Colgate,21,Columbia,14,1
+512,11,"Nov 24, 1921",Colorado Mines,7,Colorado,10,1
+513,11,"Nov 24, 1921",Colorado College,28,Denver,21,0
+514,11,"Nov 24, 1921",Cornell,41,Pennsylvania,0,1
+515,11,"Nov 24, 1921",Oglethorpe,3,Florida,21,1
+516,11,"Nov 24, 1921",Furman,28,Davidson,0,0
+517,11,"Nov 24, 1921",Georgia Tech,14,Auburn,0,0
+518,11,"Nov 24, 1921",Hampden-Sydney,39,Wake Forest,14,0
+519,11,"Nov 24, 1921",Missouri,9,Kansas,15,1
+520,11,"Nov 24, 1921",Maryville (TN),34,Chattanooga,0,0
+521,11,"Nov 24, 1921",Alabama,7,Mississippi State,7,0
+522,11,"Nov 24, 1921",Nebraska,70,Colorado State,7,0
+523,11,"Nov 24, 1921",North Carolina,7,Virginia,3,0
+524,11,"Nov 24, 1921",Maryland,6,NC State,6,0
+525,11,"Nov 24, 1921",Notre Dame,48,Michigan State,0,0
+526,11,"Nov 24, 1921",Oklahoma,27,Rice,0,0
+527,11,"Nov 24, 1921",Pitt,0,Penn State,0,0
+528,11,"Nov 24, 1921",William & Mary,7,Richmond,17,1
+529,11,"Nov 24, 1921",Samford,45,Millsaps,0,1
+530,11,"Nov 24, 1921",Kentucky,0,Tennessee,0,0
+531,11,"Nov 24, 1921",Texas A&M,0,Texas,0,0
+532,11,"Nov 24, 1921",TCU,19,Arkansas,14,0
+533,11,"Nov 24, 1921",Tulsa,21,Phillips,10,0
+534,11,"Nov 24, 1921",Utah,3,Utah State,14,0
+535,11,"Nov 24, 1921",Virginia Military Institute,7,Virginia Tech,26,1
+536,11,"Nov 24, 1921",Washington & Jefferson,13,West Virginia,0,1
+537,11,"Nov 24, 1921",Washington & Lee,7,Johns Hopkins,0,1
+538,11,"Nov 24, 1921",Washington State,14,Washington,0,1
+539,11,"Nov 25, 1921",Georgia,28,Clemson,0,0
+540,11,"Nov 26, 1921",Baylor,28,SMU,0,0
+541,11,"Nov 26, 1921",Duke,68,Wofford,0,0
+542,11,"Nov 26, 1921",Mercer,7,Fort Benning,24,0
+543,11,"Nov 26, 1921",Spring Hill,7,Mississippi College,28,0
+544,11,"Nov 26, 1921",Navy,7,Army,0,1
+545,11,"Nov 26, 1921",Oklahoma State,13,Washburn,0,0
+546,11,"Nov 26, 1921",USC,7,Oregon State,0,0
+547,11,"Nov 26, 1921",Idaho,3,Whitman,14,0
+548,11,"Nov 27, 1921",Dartmouth,7,Georgia,0,1
+549,12,"Dec 3, 1921",Tulane,7,Alabama,14,0
+550,12,"Dec 3, 1921",Baylor,24,Mississippi College,0,0
+551,12,"Dec 3, 1921",Idaho,6,9th Amry Corps,0,0
+552,12,"Dec 3, 1921",LSU,17,Mississippi State,14,1
+553,12,"Dec 3, 1921",North Carolina,14,Florida,10,1
+554,12,"Dec 3, 1921",Washington,7,Penn State,21,0
+555,12,"Dec 3, 1921",Washington State,7,USC,28,1
+556,13,"Dec 26, 1921",Centre,38,Arizona,0,0
+557,13,"Dec 26, 1921",Oregon,47,Hawaii,0,1
+558,14,"Dec 31, 1921",Havana University,14,Ole Miss,0,0
+559,14,"Jan 1, 1922",Pearl Harbor,5,Oregon,35,0
+560,15,"Jan 2, 1922",Texas A&M,22,Centre,14,0
+561,15,"Jan 2, 1922",Washington & Jefferson,0,California,0,0

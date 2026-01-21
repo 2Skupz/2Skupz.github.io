@@ -1,0 +1,813 @@
+0,1,"Sep 1, 2011",Arizona State,48,California-Davis,14,0
+1,1,"Sep 1, 2011",Bowling Green,32,Idaho,15,1
+2,1,"Sep 1, 2011",South Carolina State,6,Central Michigan,21,1
+3,1,"Sep 1, 2011",Florida Int'l,41,North Texas,16,0
+4,1,"Sep 1, 2011",Georgia Tech,63,Western Carolina,21,0
+5,1,"Sep 1, 2011",Western Kentucky,3,Kentucky,14,1
+6,1,"Sep 1, 2011",Murray State,9,Louisville,21,1
+7,1,"Sep 1, 2011",Mississippi State,59,Memphis,14,1
+8,1,"Sep 1, 2011",Rutgers,48,North Carolina Central,0,0
+9,1,"Sep 1, 2011",Syracuse,36,Wake Forest,29,0
+10,1,"Sep 1, 2011",Villanova,7,Temple,42,1
+11,1,"Sep 1, 2011",Toledo,58,New Hampshire,22,0
+12,1,"Sep 1, 2011",Utah,27,Montana State,10,0
+13,1,"Sep 1, 2011",Wisconsin,51,UNLV,17,0
+14,1,"Sep 2, 2011",Baylor,50,TCU,48,0
+15,1,"Sep 2, 2011",Youngstown State,6,Michigan State,28,1
+16,1,"Sep 3, 2011",Air Force,37,South Dakota,20,0
+17,1,"Sep 3, 2011",Kent State,7,Alabama,48,1
+18,1,"Sep 3, 2011",Arizona,41,Northern Arizona,10,0
+19,1,"Sep 3, 2011",Missouri State,7,Arkansas,51,1
+20,1,"Sep 3, 2011",Auburn,42,Utah State,38,0
+21,1,"Sep 3, 2011",Ball State,27,Indiana,20,0
+22,1,"Sep 3, 2011",Boise State,35,Georgia,21,1
+23,1,"Sep 3, 2011",BYU,14,Ole Miss,13,1
+24,1,"Sep 3, 2011",California,36,Fresno State,21,0
+25,1,"Sep 3, 2011",UCF,62,Charleston Southern,0,0
+26,1,"Sep 3, 2011",Cincinnati,72,Austin Peay,10,0
+27,1,"Sep 3, 2011",Clemson,43,Troy,19,0
+28,1,"Sep 3, 2011",Colorado State,14,New Mexico,10,1
+29,1,"Sep 3, 2011",Connecticut,35,Fordham,3,0
+30,1,"Sep 3, 2011",Florida,41,Florida Atlantic,3,0
+31,1,"Sep 3, 2011",Florida State,34,Louisiana-Monroe,0,0
+32,1,"Sep 3, 2011",Hawaii,34,Colorado,17,0
+33,1,"Sep 3, 2011",Houston,38,UCLA,34,0
+34,1,"Sep 3, 2011",Illinois,33,Arkansas State,15,0
+35,1,"Sep 3, 2011",Tennessee Tech,7,Iowa,34,1
+36,1,"Sep 3, 2011",Iowa State,20,Northern Iowa,19,0
+37,1,"Sep 3, 2011",Kansas,42,McNeese State,24,0
+38,1,"Sep 3, 2011",Eastern Kentucky,7,Kansas State,10,1
+39,1,"Sep 3, 2011",LSU,40,Oregon,27,0
+40,1,"Sep 3, 2011",Michigan,34,Western Michigan,10,0
+41,1,"Sep 3, 2011",Miami (OH),6,Missouri,17,1
+42,1,"Sep 3, 2011",Navy,40,Delaware,17,0
+43,1,"Sep 3, 2011",Chattanooga,7,Nebraska,40,1
+44,1,"Sep 3, 2011",North Carolina,42,James Madison,10,0
+45,1,"Sep 3, 2011",NC State,43,Liberty,21,0
+46,1,"Sep 3, 2011",Northern Illinois,49,Army,26,0
+47,1,"Sep 3, 2011",Northwestern,24,Boston College,17,1
+48,1,"Sep 3, 2011",Ohio,44,New Mexico State,24,1
+49,1,"Sep 3, 2011",Ohio State,42,Akron,0,0
+50,1,"Sep 3, 2011",Oklahoma,47,Tulsa,14,0
+51,1,"Sep 3, 2011",Oklahoma State,61,Louisiana,34,0
+52,1,"Sep 3, 2011",Indiana State,7,Penn State,41,1
+53,1,"Sep 3, 2011",Pitt,35,Buffalo,16,0
+54,1,"Sep 3, 2011",Purdue,27,Middle Tennessee,24,0
+55,1,"Sep 3, 2011",Richmond,23,Duke,21,1
+56,1,"Sep 3, 2011",Sacramento State,29,Oregon State,28,1
+57,1,"Sep 3, 2011",San Diego State,49,Cal Poly,21,0
+58,1,"Sep 3, 2011",South Carolina,56,East Carolina,37,0
+59,1,"Sep 3, 2011",South Florida,23,Notre Dame,20,1
+60,1,"Sep 3, 2011",USC,19,Minnesota,17,0
+61,1,"Sep 3, 2011",Southern Miss,19,Louisiana Tech,17,0
+62,1,"Sep 3, 2011",Stanford,57,San Jose State,3,0
+63,1,"Sep 3, 2011",Tennessee,42,Montana,16,0
+64,1,"Sep 3, 2011",Rice,9,Texas,34,1
+65,1,"Sep 3, 2011",Texas Tech,50,Texas State,10,0
+66,1,"Sep 3, 2011",UTEP,31,Stony Brook,24,0
+67,1,"Sep 3, 2011",Tulane,47,Southeastern Louisiana,33,0
+68,1,"Sep 3, 2011",Vanderbilt,45,Elon,14,0
+69,1,"Sep 3, 2011",Virginia,40,William & Mary,3,0
+70,1,"Sep 3, 2011",Virginia Tech,66,Appalachian State,13,0
+71,1,"Sep 3, 2011",Washington,30,Eastern Washington,27,0
+72,1,"Sep 3, 2011",Washington State,64,Idaho State,21,0
+73,1,"Sep 3, 2011",Wyoming,35,Weber State,32,0
+74,1,"Sep 4, 2011",Howard,9,Eastern Michigan,41,1
+75,1,"Sep 4, 2011",Texas A&M,46,SMU,14,0
+76,1,"Sep 4, 2011",West Virginia,34,Marshall,13,0
+77,1,"Sep 5, 2011",Maryland,32,Miami,24,0
+78,2,"Sep 8, 2011",Oklahoma State,37,Arizona,14,0
+79,2,"Sep 9, 2011",Arizona State,37,Missouri,30,0
+80,2,"Sep 9, 2011",Florida Int'l,24,Louisville,17,1
+81,2,"Sep 10, 2011",Alabama,27,Penn State,11,1
+82,2,"Sep 10, 2011",Arkansas,52,New Mexico,3,0
+83,2,"Sep 10, 2011",Arkansas State,47,Memphis,3,0
+84,2,"Sep 10, 2011",Auburn,41,Mississippi State,34,0
+85,2,"Sep 10, 2011",Bowling Green,58,Morgan State,13,0
+86,2,"Sep 10, 2011",Stony Brook,7,Buffalo,35,1
+87,2,"Sep 10, 2011",California,36,Colorado,33,1
+88,2,"Sep 10, 2011",UCF,30,Boston College,3,0
+89,2,"Sep 10, 2011",Clemson,35,Wofford,27,0
+90,2,"Sep 10, 2011",Colorado State,33,Northern Colorado,14,0
+91,2,"Sep 10, 2011",Alabama State,7,Eastern Michigan,14,1
+92,2,"Sep 10, 2011",Florida,39,UAB,0,0
+93,2,"Sep 10, 2011",Florida State,62,Charleston Southern,10,0
+94,2,"Sep 10, 2011",Georgia Tech,49,Middle Tennessee,21,1
+95,2,"Sep 10, 2011",Houston,48,North Texas,23,1
+96,2,"Sep 10, 2011",Idaho,44,North Dakota,14,0
+97,2,"Sep 10, 2011",Illinois,56,South Dakota State,3,0
+98,2,"Sep 10, 2011",Iowa State,44,Iowa,41,0
+99,2,"Sep 10, 2011",Kansas,45,Northern Illinois,42,0
+100,2,"Sep 10, 2011",Kentucky,27,Central Michigan,13,0
+101,2,"Sep 10, 2011",Louisiana,20,Kent State,12,1
+102,2,"Sep 10, 2011",LSU,49,Northwestern State,3,0
+103,2,"Sep 10, 2011",Louisiana Tech,48,Central Arkansas,42,0
+104,2,"Sep 10, 2011",Grambling State,7,Louisiana-Monroe,35,1
+105,2,"Sep 10, 2011",Marshall,26,Southern Miss,20,0
+106,2,"Sep 10, 2011",Michigan,35,Notre Dame,31,0
+107,2,"Sep 10, 2011",Michigan State,44,Florida Atlantic,0,0
+108,2,"Sep 10, 2011",Ole Miss,42,Southern Illinois,24,0
+109,2,"Sep 10, 2011",Navy,40,Western Kentucky,14,1
+110,2,"Sep 10, 2011",Nebraska,42,Fresno State,29,0
+111,2,"Sep 10, 2011",New Mexico State,28,Minnesota,21,1
+112,2,"Sep 10, 2011",North Carolina,24,Rutgers,22,0
+113,2,"Sep 10, 2011",Northwestern,42,Eastern Illinois,21,0
+114,2,"Sep 10, 2011",Ohio,30,Gardner-Webb,3,0
+115,2,"Sep 10, 2011",Ohio State,27,Toledo,22,0
+116,2,"Sep 10, 2011",Oregon,69,Nevada,20,0
+117,2,"Sep 10, 2011",Pitt,35,Maine,29,0
+118,2,"Sep 10, 2011",Rice,24,Purdue,22,0
+119,2,"Sep 10, 2011",San Diego State,23,Army,20,1
+120,2,"Sep 10, 2011",South Carolina,45,Georgia,42,1
+121,2,"Sep 10, 2011",Ball State,7,South Florida,37,1
+122,2,"Sep 10, 2011",USC,23,Utah,14,0
+123,2,"Sep 10, 2011",SMU,28,UTEP,17,0
+124,2,"Sep 10, 2011",Stanford,44,Duke,14,1
+125,2,"Sep 10, 2011",Syracuse,21,Rhode Island,14,0
+126,2,"Sep 10, 2011",Temple,41,Akron,3,1
+127,2,"Sep 10, 2011",Tennessee,45,Cincinnati,23,0
+128,2,"Sep 10, 2011",Texas,17,BYU,16,0
+129,2,"Sep 10, 2011",TCU,35,Air Force,19,1
+130,2,"Sep 10, 2011",Tulsa,31,Tulane,3,1
+131,2,"Sep 10, 2011",UCLA,27,San Jose State,17,0
+132,2,"Sep 10, 2011",Utah State,54,Weber State,17,0
+133,2,"Sep 10, 2011",Vanderbilt,24,Connecticut,21,0
+134,2,"Sep 10, 2011",Virginia,34,Indiana,31,1
+135,2,"Sep 10, 2011",Virginia Tech,17,East Carolina,10,1
+136,2,"Sep 10, 2011",Wake Forest,34,NC State,27,0
+137,2,"Sep 10, 2011",Washington,40,Hawaii,32,0
+138,2,"Sep 10, 2011",UNLV,7,Washington State,59,1
+139,2,"Sep 10, 2011",West Virginia,55,Norfolk State,12,0
+140,2,"Sep 10, 2011",Nicholls State,7,Western Michigan,38,1
+141,2,"Sep 10, 2011",Wisconsin,35,Oregon State,0,0
+142,2,"Sep 10, 2011",Wyoming,45,Texas State,10,0
+143,3,"Sep 15, 2011",Mississippi State,6,LSU,19,0
+144,3,"Sep 16, 2011",Boise State,40,Toledo,15,1
+145,3,"Sep 16, 2011",Iowa State,24,Connecticut,20,1
+146,3,"Sep 17, 2011",Alabama,41,North Texas,0,0
+147,3,"Sep 17, 2011",Arkansas,38,Troy,28,0
+148,3,"Sep 17, 2011",Army,21,Northwestern,14,0
+149,3,"Sep 17, 2011",Ball State,28,Buffalo,25,0
+150,3,"Sep 17, 2011",Baylor,48,Stephen F. Austin,0,0
+151,3,"Sep 17, 2011",California,63,Presbyterian,12,0
+152,3,"Sep 17, 2011",Cincinnati,59,Akron,14,0
+153,3,"Sep 17, 2011",Clemson,38,Auburn,24,0
+154,3,"Sep 17, 2011",Colorado,28,Colorado State,14,0
+155,3,"Sep 17, 2011",Duke,20,Boston College,19,1
+156,3,"Sep 17, 2011",Florida,33,Tennessee,23,0
+157,3,"Sep 17, 2011",Florida Int'l,17,UCF,10,0
+158,3,"Sep 17, 2011",Fresno State,27,North Dakota,22,0
+159,3,"Sep 17, 2011",Georgia,59,Coastal Carolina,0,0
+160,3,"Sep 17, 2011",Georgia Tech,66,Kansas,24,0
+161,3,"Sep 17, 2011",Houston,35,Louisiana Tech,34,1
+162,3,"Sep 17, 2011",Illinois,17,Arizona State,14,0
+163,3,"Sep 17, 2011",Indiana,38,South Carolina State,21,0
+164,3,"Sep 17, 2011",Indiana State,44,Western Kentucky,16,1
+165,3,"Sep 17, 2011",Iowa,31,Pitt,27,0
+166,3,"Sep 17, 2011",Kansas State,37,Kent State,0,0
+167,3,"Sep 17, 2011",Louisiana,38,Nicholls State,21,0
+168,3,"Sep 17, 2011",Louisville,24,Kentucky,17,1
+169,3,"Sep 17, 2011",Austin Peay,6,Memphis,27,1
+170,3,"Sep 17, 2011",Ohio State,6,Miami,24,1
+171,3,"Sep 17, 2011",Michigan,31,Eastern Michigan,3,0
+172,3,"Sep 17, 2011",Minnesota,29,Miami (OH),23,0
+173,3,"Sep 17, 2011",Missouri,69,Western Illinois,0,0
+174,3,"Sep 17, 2011",Nebraska,51,Washington,38,0
+175,3,"Sep 17, 2011",Nevada,17,San Jose State,14,1
+176,3,"Sep 17, 2011",UNLV,40,Hawaii,20,0
+177,3,"Sep 17, 2011",North Carolina,28,Virginia,17,0
+178,3,"Sep 17, 2011",NC State,35,South Alabama,13,0
+179,3,"Sep 17, 2011",Notre Dame,31,Michigan State,13,0
+180,3,"Sep 17, 2011",Marshall,7,Ohio,44,1
+181,3,"Sep 17, 2011",Oklahoma,23,Florida State,13,1
+182,3,"Sep 17, 2011",Oklahoma State,59,Tulsa,33,1
+183,3,"Sep 17, 2011",Missouri State,7,Oregon,56,1
+184,3,"Sep 17, 2011",Penn State,14,Temple,10,1
+185,3,"Sep 17, 2011",Purdue,59,Southeast Missouri State,0,0
+186,3,"Sep 17, 2011",San Diego State,42,Washington State,24,0
+187,3,"Sep 17, 2011",South Carolina,24,Navy,21,0
+188,3,"Sep 17, 2011",South Florida,70,Florida A&M,17,0
+189,3,"Sep 17, 2011",USC,38,Syracuse,17,0
+190,3,"Sep 17, 2011",Northwestern State,7,SMU,40,1
+191,3,"Sep 17, 2011",Southeastern Louisiana,6,Southern Miss,52,1
+192,3,"Sep 17, 2011",Stanford,37,Arizona,10,1
+193,3,"Sep 17, 2011",Texas,49,UCLA,20,1
+194,3,"Sep 17, 2011",Idaho,7,Texas A&M,37,1
+195,3,"Sep 17, 2011",TCU,38,Louisiana-Monroe,17,0
+196,3,"Sep 17, 2011",Texas Tech,59,New Mexico,13,1
+197,3,"Sep 17, 2011",UTEP,16,New Mexico State,10,1
+198,3,"Sep 17, 2011",Tulane,49,UAB,10,1
+199,3,"Sep 17, 2011",Utah,54,BYU,10,1
+200,3,"Sep 17, 2011",Ole Miss,7,Vanderbilt,30,1
+201,3,"Sep 17, 2011",Arkansas State,7,Virginia Tech,26,1
+202,3,"Sep 17, 2011",Gardner-Webb,5,Wake Forest,48,1
+203,3,"Sep 17, 2011",West Virginia,37,Maryland,31,1
+204,3,"Sep 17, 2011",Western Michigan,44,Central Michigan,14,0
+205,3,"Sep 17, 2011",Northern Illinois,7,Wisconsin,49,1
+206,3,"Sep 17, 2011",Wyoming,28,Bowling Green,27,1
+207,4,"Sep 22, 2011",Cincinnati,44,NC State,14,0
+208,4,"Sep 23, 2011",BYU,24,UCF,17,0
+209,4,"Sep 24, 2011",Air Force,63,Tennessee State,24,0
+210,4,"Sep 24, 2011",Akron,36,Virginia Military Institute,13,0
+211,4,"Sep 24, 2011",Alabama,38,Arkansas,14,0
+212,4,"Sep 24, 2011",Arizona State,43,USC,22,0
+213,4,"Sep 24, 2011",Arkansas State,53,Central Arkansas,24,0
+214,4,"Sep 24, 2011",Auburn,30,Florida Atlantic,14,0
+215,4,"Sep 24, 2011",Ball State,48,Army,21,0
+216,4,"Sep 24, 2011",Baylor,56,Rice,31,0
+217,4,"Sep 24, 2011",Boise State,41,Tulsa,21,0
+218,4,"Sep 24, 2011",Boston College,45,Massachusetts,17,0
+219,4,"Sep 24, 2011",Bowling Green,37,Miami (OH),23,1
+220,4,"Sep 24, 2011",Clemson,35,Florida State,30,0
+221,4,"Sep 24, 2011",Colorado State,35,Utah State,34,1
+222,4,"Sep 24, 2011",Buffalo,3,Connecticut,17,0
+223,4,"Sep 24, 2011",Duke,48,Tulane,27,0
+224,4,"Sep 24, 2011",East Carolina,28,UAB,23,0
+225,4,"Sep 24, 2011",Florida,48,Kentucky,10,1
+226,4,"Sep 24, 2011",Fresno State,48,Idaho,24,1
+227,4,"Sep 24, 2011",Georgia,27,Ole Miss,13,1
+228,4,"Sep 24, 2011",Georgia Tech,35,North Carolina,28,0
+229,4,"Sep 24, 2011",Hawaii,56,California-Davis,14,0
+230,4,"Sep 24, 2011",Houston,56,Georgia State,0,0
+231,4,"Sep 24, 2011",Illinois,23,Western Michigan,20,0
+232,4,"Sep 24, 2011",Iowa,45,Louisiana-Monroe,17,0
+233,4,"Sep 24, 2011",Kansas State,28,Miami,24,1
+234,4,"Sep 24, 2011",Kent State,33,South Alabama,25,0
+235,4,"Sep 24, 2011",Louisiana,36,Florida Int'l,31,1
+236,4,"Sep 24, 2011",LSU,47,West Virginia,21,1
+237,4,"Sep 24, 2011",San Diego State,7,Michigan,28,1
+238,4,"Sep 24, 2011",Central Michigan,7,Michigan State,45,1
+239,4,"Sep 24, 2011",Mississippi State,26,Louisiana Tech,20,0
+240,4,"Sep 24, 2011",Nebraska,38,Wyoming,14,1
+241,4,"Sep 24, 2011",North Dakota State,37,Minnesota,24,1
+242,4,"Sep 24, 2011",North Texas,24,Indiana,21,0
+243,4,"Sep 24, 2011",Northern Illinois,47,Cal Poly,30,0
+244,4,"Sep 24, 2011",Notre Dame,15,Pitt,12,1
+245,4,"Sep 24, 2011",Ohio State,37,Colorado,17,0
+246,4,"Sep 24, 2011",Oklahoma,38,Missouri,28,0
+247,4,"Sep 24, 2011",Oklahoma State,30,Texas A&M,29,1
+248,4,"Sep 24, 2011",Oregon,56,Arizona,31,1
+249,4,"Sep 24, 2011",Eastern Michigan,6,Penn State,34,1
+250,4,"Sep 24, 2011",Rutgers,38,Ohio,26,0
+251,4,"Sep 24, 2011",Sam Houston,48,New Mexico,45,1
+252,4,"Sep 24, 2011",San Jose State,34,New Mexico State,24,0
+253,4,"Sep 24, 2011",Vanderbilt,3,South Carolina,21,1
+254,4,"Sep 24, 2011",South Florida,52,UTEP,24,0
+255,4,"Sep 24, 2011",SMU,42,Memphis,0,1
+256,4,"Sep 24, 2011",Southern Miss,30,Virginia,24,1
+257,4,"Sep 24, 2011",Southern Utah,41,UNLV,16,1
+258,4,"Sep 24, 2011",Syracuse,33,Toledo,30,0
+259,4,"Sep 24, 2011",Maryland,7,Temple,38,0
+260,4,"Sep 24, 2011",TCU,55,Portland State,13,0
+261,4,"Sep 24, 2011",Texas Tech,35,Nevada,34,0
+262,4,"Sep 24, 2011",Troy,38,Middle Tennessee,35,0
+263,4,"Sep 24, 2011",UCLA,27,Oregon State,19,1
+264,4,"Sep 24, 2011",Virginia Tech,30,Marshall,10,1
+265,4,"Sep 24, 2011",Washington,31,California,23,0
+266,4,"Sep 24, 2011",Wisconsin,59,South Dakota,10,0
+267,5,"Sep 29, 2011",Houston,49,UTEP,42,1
+268,5,"Sep 29, 2011",Pitt,44,South Florida,17,0
+269,5,"Sep 30, 2011",BYU,27,Utah State,24,0
+270,5,"Oct 1, 2011",Air Force,35,Navy,34,1
+271,5,"Oct 1, 2011",Alabama,38,Florida,10,1
+272,5,"Oct 1, 2011",Arizona State,35,Oregon State,20,0
+273,5,"Oct 1, 2011",Arkansas,42,Texas A&M,38,0
+274,5,"Oct 1, 2011",Arkansas State,26,Western Kentucky,22,1
+275,5,"Oct 1, 2011",Tulane,6,Army,45,1
+276,5,"Oct 1, 2011",Auburn,16,South Carolina,13,1
+277,5,"Oct 1, 2011",Boise State,30,Nevada,10,0
+278,5,"Oct 1, 2011",Central Michigan,48,Northern Illinois,41,0
+279,5,"Oct 1, 2011",Cincinnati,27,Miami (OH),0,1
+280,5,"Oct 1, 2011",Virginia Tech,3,Clemson,23,0
+281,5,"Oct 1, 2011",Duke,31,Florida Int'l,27,1
+282,5,"Oct 1, 2011",Eastern Michigan,31,Akron,23,0
+283,5,"Oct 1, 2011",Georgia,24,Mississippi State,10,0
+284,5,"Oct 1, 2011",Georgia Tech,45,NC State,35,1
+285,5,"Oct 1, 2011",Hawaii,44,Louisiana Tech,26,1
+286,5,"Oct 1, 2011",Illinois,38,Northwestern,35,0
+287,5,"Oct 1, 2011",Kansas State,36,Baylor,35,0
+288,5,"Oct 1, 2011",Louisiana,37,Florida Atlantic,34,0
+289,5,"Oct 1, 2011",Kentucky,7,LSU,35,1
+290,5,"Oct 1, 2011",Marshall,17,Louisville,13,1
+291,5,"Oct 1, 2011",Towson,3,Maryland,28,1
+292,5,"Oct 1, 2011",Miami,45,Bethune-Cookman,14,0
+293,5,"Oct 1, 2011",Michigan,58,Minnesota,0,0
+294,5,"Oct 1, 2011",Ohio State,7,Michigan State,10,0
+295,5,"Oct 1, 2011",Middle Tennessee,38,Memphis,31,0
+296,5,"Oct 1, 2011",Ole Miss,38,Fresno State,28,1
+297,5,"Oct 1, 2011",New Mexico State,42,New Mexico,28,1
+298,5,"Oct 1, 2011",North Carolina,35,East Carolina,20,1
+299,5,"Oct 1, 2011",Notre Dame,38,Purdue,10,1
+300,5,"Oct 1, 2011",Ohio,17,Kent State,10,0
+301,5,"Oct 1, 2011",Oklahoma,62,Ball State,6,0
+302,5,"Oct 1, 2011",Penn State,16,Indiana,10,1
+303,5,"Oct 1, 2011",Rutgers,19,Syracuse,16,1
+304,5,"Oct 1, 2011",San Jose State,38,Colorado State,31,1
+305,5,"Oct 1, 2011",USC,48,Arizona,41,0
+306,5,"Oct 1, 2011",SMU,40,TCU,33,1
+307,5,"Oct 1, 2011",Southern Miss,48,Rice,24,0
+308,5,"Oct 1, 2011",Stanford,45,UCLA,19,0
+309,5,"Oct 1, 2011",Tennessee,41,Buffalo,10,0
+310,5,"Oct 1, 2011",Texas,37,Iowa State,14,1
+311,5,"Oct 1, 2011",Texas Tech,45,Kansas,34,1
+312,5,"Oct 1, 2011",Toledo,36,Temple,13,1
+313,5,"Oct 1, 2011",Troy,24,UAB,23,0
+314,5,"Oct 1, 2011",Tulsa,41,North Texas,24,0
+315,5,"Oct 1, 2011",Virginia,21,Idaho,20,0
+316,5,"Oct 1, 2011",Wake Forest,27,Boston College,19,1
+317,5,"Oct 1, 2011",Washington,31,Utah,14,1
+318,5,"Oct 1, 2011",Washington State,31,Colorado,27,1
+319,5,"Oct 1, 2011",West Virginia,55,Bowling Green,10,0
+320,5,"Oct 1, 2011",Western Michigan,38,Connecticut,31,1
+321,5,"Oct 1, 2011",Wisconsin,48,Nebraska,17,0
+322,6,"Oct 6, 2011",Oregon,43,California,15,0
+323,6,"Oct 6, 2011",Western Kentucky,36,Middle Tennessee,33,1
+324,6,"Oct 7, 2011",Fresno State,7,Boise State,57,0
+325,6,"Oct 8, 2011",Alabama,34,Vanderbilt,0,0
+326,6,"Oct 8, 2011",Arizona State,35,Utah,14,1
+327,6,"Oct 8, 2011",Arkansas,38,Auburn,14,0
+328,6,"Oct 8, 2011",Arkansas State,24,Louisiana-Monroe,19,1
+329,6,"Oct 8, 2011",Baylor,49,Iowa State,26,0
+330,6,"Oct 8, 2011",BYU,29,San Jose State,16,0
+331,6,"Oct 8, 2011",Buffalo,38,Ohio,37,0
+332,6,"Oct 8, 2011",Marshall,6,UCF,16,1
+333,6,"Oct 8, 2011",Clemson,36,Boston College,14,0
+334,6,"Oct 8, 2011",Florida Int'l,27,Akron,17,1
+335,6,"Oct 8, 2011",Georgia,20,Tennessee,12,1
+336,6,"Oct 8, 2011",Georgia Tech,21,Maryland,16,0
+337,6,"Oct 8, 2011",Houston,56,East Carolina,3,0
+338,6,"Oct 8, 2011",Illinois,41,Indiana,20,1
+339,6,"Oct 8, 2011",Kansas State,24,Missouri,17,0
+340,6,"Oct 8, 2011",Louisiana,31,Troy,17,0
+341,6,"Oct 8, 2011",LSU,41,Florida,11,0
+342,6,"Oct 8, 2011",Louisiana Tech,24,Idaho,11,1
+343,6,"Oct 8, 2011",Miami (OH),35,Army,28,0
+344,6,"Oct 8, 2011",Michigan,42,Northwestern,24,1
+345,6,"Oct 8, 2011",UAB,3,Mississippi State,21,0
+346,6,"Oct 8, 2011",Nebraska,34,Ohio State,27,0
+347,6,"Oct 8, 2011",Nevada,37,UNLV,0,0
+348,6,"Oct 8, 2011",Louisville,7,North Carolina,14,1
+349,6,"Oct 8, 2011",NC State,38,Central Michigan,24,0
+350,6,"Oct 8, 2011",North Texas,31,Florida Atlantic,17,0
+351,6,"Oct 8, 2011",Northern Illinois,40,Kent State,10,0
+352,6,"Oct 8, 2011",Notre Dame,59,Air Force,33,0
+353,6,"Oct 8, 2011",Oklahoma,55,Texas,17,0
+354,6,"Oct 8, 2011",Oklahoma State,70,Kansas,28,0
+355,6,"Oct 8, 2011",Oregon State,37,Arizona,27,0
+356,6,"Oct 8, 2011",Iowa,3,Penn State,13,1
+357,6,"Oct 8, 2011",Purdue,45,Minnesota,17,0
+358,6,"Oct 8, 2011",Memphis,6,Rice,28,1
+359,6,"Oct 8, 2011",Rutgers,34,Pitt,10,0
+360,6,"Oct 8, 2011",South Carolina,54,Kentucky,3,0
+361,6,"Oct 8, 2011",Southern Miss,63,Navy,35,1
+362,6,"Oct 8, 2011",Colorado,7,Stanford,48,1
+363,6,"Oct 8, 2011",Syracuse,37,Tulane,34,1
+364,6,"Oct 8, 2011",Temple,42,Ball State,0,1
+365,6,"Oct 8, 2011",Texas A&M,45,Texas Tech,40,1
+366,6,"Oct 8, 2011",TCU,27,San Diego State,14,1
+367,6,"Oct 8, 2011",Toledo,54,Eastern Michigan,16,0
+368,6,"Oct 8, 2011",UCLA,28,Washington State,25,0
+369,6,"Oct 8, 2011",Utah State,63,Wyoming,19,0
+370,6,"Oct 8, 2011",Virginia Tech,38,Miami,35,0
+371,6,"Oct 8, 2011",Wake Forest,35,Florida State,30,0
+372,6,"Oct 8, 2011",West Virginia,43,Connecticut,16,0
+373,6,"Oct 8, 2011",Western Michigan,45,Bowling Green,21,0
+374,7,"Oct 13, 2011",San Diego State,41,Air Force,27,1
+375,7,"Oct 13, 2011",California,9,USC,30,0
+376,7,"Oct 14, 2011",San Jose State,28,Hawaii,27,0
+377,7,"Oct 15, 2011",Ole Miss,7,Alabama,52,0
+378,7,"Oct 15, 2011",Florida,6,Auburn,17,1
+379,7,"Oct 15, 2011",Ball State,23,Ohio,20,1
+380,7,"Oct 15, 2011",Boise State,63,Colorado State,13,1
+381,7,"Oct 15, 2011",BYU,38,Oregon State,28,1
+382,7,"Oct 15, 2011",Cincinnati,25,Louisville,16,0
+383,7,"Oct 15, 2011",Clemson,56,Maryland,45,1
+384,7,"Oct 15, 2011",Connecticut,16,South Florida,10,0
+385,7,"Oct 15, 2011",East Carolina,35,Memphis,17,1
+386,7,"Oct 15, 2011",Eastern Michigan,35,Central Michigan,28,1
+387,7,"Oct 15, 2011",Florida State,41,Duke,16,1
+388,7,"Oct 15, 2011",Fresno State,31,Utah State,21,0
+389,7,"Oct 15, 2011",Georgia,33,Vanderbilt,28,1
+390,7,"Oct 15, 2011",Iowa,41,Northwestern,31,0
+391,7,"Oct 15, 2011",Kansas State,41,Texas Tech,34,1
+392,7,"Oct 15, 2011",Louisiana,30,North Texas,10,0
+393,7,"Oct 15, 2011",Tennessee,7,LSU,38,0
+394,7,"Oct 15, 2011",Louisiana-Monroe,38,Troy,10,1
+395,7,"Oct 15, 2011",Marshall,24,Rice,20,0
+396,7,"Oct 15, 2011",Miami,30,North Carolina,24,1
+397,7,"Oct 15, 2011",Miami (OH),9,Kent State,3,1
+398,7,"Oct 15, 2011",Michigan State,28,Michigan,14,0
+399,7,"Oct 15, 2011",Missouri,52,Iowa State,17,0
+400,7,"Oct 15, 2011",New Mexico,7,Nevada,49,1
+401,7,"Oct 15, 2011",New Mexico State,31,Idaho,24,0
+402,7,"Oct 15, 2011",Northern Illinois,51,Western Michigan,22,0
+403,7,"Oct 15, 2011",Illinois,7,Ohio State,17,0
+404,7,"Oct 15, 2011",Oklahoma,47,Kansas,17,1
+405,7,"Oct 15, 2011",Oklahoma State,38,Texas,26,1
+406,7,"Oct 15, 2011",Oregon,41,Arizona State,27,0
+407,7,"Oct 15, 2011",Penn State,23,Purdue,18,0
+408,7,"Oct 15, 2011",Rutgers,21,Navy,20,0
+409,7,"Oct 15, 2011",South Carolina,14,Mississippi State,12,1
+410,7,"Oct 15, 2011",SMU,38,UCF,17,0
+411,7,"Oct 15, 2011",Stanford,44,Washington State,14,1
+412,7,"Oct 15, 2011",Temple,34,Buffalo,0,0
+413,7,"Oct 15, 2011",Texas A&M,55,Baylor,28,0
+414,7,"Oct 15, 2011",Tulane,7,UTEP,44,0
+415,7,"Oct 15, 2011",Toledo,28,Bowling Green,21,1
+416,7,"Oct 15, 2011",Tulsa,37,UAB,20,0
+417,7,"Oct 15, 2011",Utah,26,Pitt,14,1
+418,7,"Oct 15, 2011",Virginia,24,Georgia Tech,21,0
+419,7,"Oct 15, 2011",Virginia Tech,38,Wake Forest,17,1
+420,7,"Oct 15, 2011",Washington,52,Colorado,24,0
+421,7,"Oct 15, 2011",Western Kentucky,20,Florida Atlantic,0,1
+422,7,"Oct 15, 2011",Indiana,7,Wisconsin,59,1
+423,7,"Oct 15, 2011",Wyoming,41,UNLV,14,0
+424,8,"Oct 18, 2011",Arkansas State,34,Florida Int'l,16,0
+425,8,"Oct 20, 2011",UAB,26,UCF,24,0
+426,8,"Oct 20, 2011",Arizona,48,UCLA,12,0
+427,8,"Oct 21, 2011",Louisville,16,Rutgers,14,0
+428,8,"Oct 21, 2011",Syracuse,49,West Virginia,23,0
+429,8,"Oct 22, 2011",Tennessee,6,Alabama,37,1
+430,8,"Oct 22, 2011",Arkansas,29,Ole Miss,24,1
+431,8,"Oct 22, 2011",Ball State,31,Central Michigan,27,0
+432,8,"Oct 22, 2011",Boise State,37,Air Force,26,0
+433,8,"Oct 22, 2011",Bowling Green,13,Temple,10,0
+434,8,"Oct 22, 2011",BYU,56,Idaho State,3,0
+435,8,"Oct 22, 2011",California,34,Utah,10,0
+436,8,"Oct 22, 2011",Cincinnati,37,South Florida,34,1
+437,8,"Oct 22, 2011",Clemson,59,North Carolina,38,0
+438,8,"Oct 22, 2011",East Carolina,38,Navy,35,1
+439,8,"Oct 22, 2011",Eastern Michigan,14,Western Michigan,10,0
+440,8,"Oct 22, 2011",Florida State,41,Maryland,16,0
+441,8,"Oct 22, 2011",Hawaii,45,New Mexico State,34,0
+442,8,"Oct 22, 2011",Houston,63,Marshall,28,0
+443,8,"Oct 22, 2011",Iowa,45,Indiana,24,0
+444,8,"Oct 22, 2011",Kansas State,59,Kansas,21,1
+445,8,"Oct 22, 2011",Kentucky,38,Jacksonville State,14,0
+446,8,"Oct 22, 2011",LSU,45,Auburn,10,0
+447,8,"Oct 22, 2011",Louisiana Tech,24,Utah State,17,1
+448,8,"Oct 22, 2011",Memphis,33,Tulane,17,1
+449,8,"Oct 22, 2011",Georgia Tech,7,Miami,24,1
+450,8,"Oct 22, 2011",Michigan State,37,Wisconsin,31,0
+451,8,"Oct 22, 2011",Middle Tennessee,38,Florida Atlantic,14,1
+452,8,"Oct 22, 2011",Nebraska,41,Minnesota,14,1
+453,8,"Oct 22, 2011",Nevada,45,Fresno State,38,0
+454,8,"Oct 22, 2011",NC State,28,Virginia,14,1
+455,8,"Oct 22, 2011",North Texas,38,Louisiana-Monroe,21,0
+456,8,"Oct 22, 2011",Northern Illinois,31,Buffalo,30,1
+457,8,"Oct 22, 2011",Ohio,37,Akron,20,1
+458,8,"Oct 22, 2011",Oklahoma State,45,Missouri,24,1
+459,8,"Oct 22, 2011",Oregon,45,Colorado,2,1
+460,8,"Oct 22, 2011",Oregon State,44,Washington State,21,1
+461,8,"Oct 22, 2011",Penn State,34,Northwestern,24,1
+462,8,"Oct 22, 2011",Purdue,21,Illinois,14,0
+463,8,"Oct 22, 2011",USC,31,Notre Dame,17,1
+464,8,"Oct 22, 2011",SMU,3,Southern Miss,27,1
+465,8,"Oct 22, 2011",Stanford,65,Washington,21,0
+466,8,"Oct 22, 2011",Texas A&M,33,Iowa State,17,1
+467,8,"Oct 22, 2011",TCU,69,New Mexico,0,0
+468,8,"Oct 22, 2011",Texas Tech,41,Oklahoma,38,1
+469,8,"Oct 22, 2011",UTEP,31,Colorado State,17,0
+470,8,"Oct 22, 2011",Toledo,49,Miami (OH),28,0
+471,8,"Oct 22, 2011",Tulsa,38,Rice,20,1
+472,8,"Oct 22, 2011",Vanderbilt,44,Army,21,0
+473,8,"Oct 22, 2011",Virginia Tech,30,Boston College,14,0
+474,8,"Oct 22, 2011",Wake Forest,24,Duke,23,1
+475,8,"Oct 22, 2011",Western Kentucky,42,Louisiana,23,0
+476,9,"Oct 25, 2011",Florida Int'l,23,Troy,20,0
+477,9,"Oct 26, 2011",Pitt,35,Connecticut,20,0
+478,9,"Oct 27, 2011",Houston,73,Rice,34,0
+479,9,"Oct 27, 2011",Virginia,28,Miami,21,1
+480,9,"Oct 28, 2011",TCU,38,BYU,28,0
+481,9,"Oct 29, 2011",Air Force,42,New Mexico,0,1
+482,9,"Oct 29, 2011",Arizona State,48,Colorado,14,0
+483,9,"Oct 29, 2011",Arkansas,31,Vanderbilt,28,1
+484,9,"Oct 29, 2011",Arkansas State,37,North Texas,14,0
+485,9,"Oct 29, 2011",Army,55,Fordham,0,0
+486,9,"Oct 29, 2011",Auburn,41,Ole Miss,23,0
+487,9,"Oct 29, 2011",Boston College,28,Maryland,17,1
+488,9,"Oct 29, 2011",UCF,41,Memphis,0,0
+489,9,"Oct 29, 2011",Central Michigan,23,Akron,22,1
+490,9,"Oct 29, 2011",East Carolina,34,Tulane,13,0
+491,9,"Oct 29, 2011",Florida State,34,NC State,0,0
+492,9,"Oct 29, 2011",Georgia,24,Florida,20,0
+493,9,"Oct 29, 2011",Georgia Tech,31,Clemson,17,0
+494,9,"Oct 29, 2011",Hawaii,16,Idaho,14,1
+495,9,"Oct 29, 2011",Texas Tech,7,Iowa State,41,0
+496,9,"Oct 29, 2011",Kent State,27,Bowling Green,15,0
+497,9,"Oct 29, 2011",Louisiana,45,Middle Tennessee,20,1
+498,9,"Oct 29, 2011",Louisiana Tech,38,San Jose State,28,0
+499,9,"Oct 29, 2011",Louisville,27,Syracuse,10,0
+500,9,"Oct 29, 2011",Marshall,59,UAB,14,0
+501,9,"Oct 29, 2011",Miami (OH),41,Buffalo,13,0
+502,9,"Oct 29, 2011",Michigan,36,Purdue,14,0
+503,9,"Oct 29, 2011",Minnesota,22,Iowa,21,0
+504,9,"Oct 29, 2011",Mississippi State,28,Kentucky,16,1
+505,9,"Oct 29, 2011",Missouri,38,Texas A&M,31,1
+506,9,"Oct 29, 2011",Michigan State,3,Nebraska,24,1
+507,9,"Oct 29, 2011",Nevada,48,New Mexico State,34,1
+508,9,"Oct 29, 2011",UNLV,38,Colorado State,35,0
+509,9,"Oct 29, 2011",North Carolina,49,Wake Forest,24,0
+510,9,"Oct 29, 2011",Northwestern,59,Indiana,38,1
+511,9,"Oct 29, 2011",Notre Dame,56,Navy,14,0
+512,9,"Oct 29, 2011",Ohio State,33,Wisconsin,29,0
+513,9,"Oct 29, 2011",Oklahoma,58,Kansas State,17,1
+514,9,"Oct 29, 2011",Oklahoma State,59,Baylor,24,0
+515,9,"Oct 29, 2011",Oregon,43,Washington State,28,0
+516,9,"Oct 29, 2011",Illinois,7,Penn State,10,1
+517,9,"Oct 29, 2011",Tennessee,3,South Carolina,14,0
+518,9,"Oct 29, 2011",Southern Miss,31,UTEP,13,1
+519,9,"Oct 29, 2011",Stanford,56,USC,48,1
+520,9,"Oct 29, 2011",Texas,43,Kansas,0,0
+521,9,"Oct 29, 2011",SMU,7,Tulsa,38,1
+522,9,"Oct 29, 2011",UCLA,31,California,14,0
+523,9,"Oct 29, 2011",Oregon State,8,Utah,27,1
+524,9,"Oct 29, 2011",Virginia Tech,14,Duke,10,1
+525,9,"Oct 29, 2011",Washington,42,Arizona,31,0
+526,9,"Oct 29, 2011",West Virginia,41,Rutgers,31,1
+527,9,"Oct 29, 2011",Western Kentucky,31,Louisiana-Monroe,28,1
+528,9,"Oct 29, 2011",Western Michigan,45,Ball State,35,0
+529,9,"Oct 29, 2011",Wyoming,30,San Diego State,27,1
+530,10,"Nov 1, 2011",Northern Illinois,63,Toledo,60,1
+531,10,"Nov 2, 2011",Ohio,35,Temple,31,0
+532,10,"Nov 3, 2011",Boston College,7,Florida State,38,0
+533,10,"Nov 3, 2011",Miami (OH),35,Akron,3,0
+534,10,"Nov 3, 2011",Tulsa,24,UCF,17,1
+535,10,"Nov 4, 2011",Kent State,24,Central Michigan,21,0
+536,10,"Nov 4, 2011",USC,42,Colorado,17,1
+537,10,"Nov 5, 2011",Air Force,24,Army,14,0
+538,10,"Nov 5, 2011",Arkansas,44,South Carolina,28,0
+539,10,"Nov 5, 2011",Arkansas State,39,Florida Atlantic,21,1
+540,10,"Nov 5, 2011",Ball State,33,Eastern Michigan,31,1
+541,10,"Nov 5, 2011",Baylor,42,Missouri,39,0
+542,10,"Nov 5, 2011",Boise State,48,UNLV,21,1
+543,10,"Nov 5, 2011",Washington State,7,California,30,1
+544,10,"Nov 5, 2011",Cincinnati,26,Pitt,23,1
+545,10,"Nov 5, 2011",Connecticut,28,Syracuse,21,0
+546,10,"Nov 5, 2011",Florida,26,Vanderbilt,21,0
+547,10,"Nov 5, 2011",Georgia,63,New Mexico State,16,0
+548,10,"Nov 5, 2011",Houston,56,UAB,13,1
+549,10,"Nov 5, 2011",Idaho,32,San Jose State,29,1
+550,10,"Nov 5, 2011",Iowa,24,Michigan,16,0
+551,10,"Nov 5, 2011",Iowa State,13,Kansas,10,0
+552,10,"Nov 5, 2011",Kentucky,30,Ole Miss,13,0
+553,10,"Nov 5, 2011",Louisiana,36,Louisiana-Monroe,35,0
+554,10,"Nov 5, 2011",LSU,9,Alabama,6,1
+555,10,"Nov 5, 2011",Louisiana Tech,41,Fresno State,21,1
+556,10,"Nov 5, 2011",Louisville,38,West Virginia,35,1
+557,10,"Nov 5, 2011",Miami,49,Duke,14,0
+558,10,"Nov 5, 2011",Michigan State,31,Minnesota,24,0
+559,10,"Nov 5, 2011",Mississippi State,55,Tennessee-Martin,17,0
+560,10,"Nov 5, 2011",Navy,42,Troy,14,0
+561,10,"Nov 5, 2011",NC State,13,North Carolina,0,0
+562,10,"Nov 5, 2011",Northwestern,28,Nebraska,25,1
+563,10,"Nov 5, 2011",Notre Dame,24,Wake Forest,17,1
+564,10,"Nov 5, 2011",Ohio State,34,Indiana,20,0
+565,10,"Nov 5, 2011",Oklahoma,41,Texas A&M,25,0
+566,10,"Nov 5, 2011",Oklahoma State,52,Kansas State,45,0
+567,10,"Nov 5, 2011",Oregon,34,Washington,17,1
+568,10,"Nov 5, 2011",Rice,41,UTEP,37,0
+569,10,"Nov 5, 2011",Rutgers,20,South Florida,17,0
+570,10,"Nov 5, 2011",New Mexico,7,San Diego State,35,1
+571,10,"Nov 5, 2011",SMU,45,Tulane,24,0
+572,10,"Nov 5, 2011",Southern Miss,48,East Carolina,28,1
+573,10,"Nov 5, 2011",Stanford,38,Oregon State,13,1
+574,10,"Nov 5, 2011",Tennessee,24,Middle Tennessee,0,0
+575,10,"Nov 5, 2011",Texas,52,Texas Tech,20,0
+576,10,"Nov 5, 2011",TCU,31,Wyoming,20,1
+577,10,"Nov 5, 2011",UCLA,29,Arizona State,28,0
+578,10,"Nov 5, 2011",Utah,34,Arizona,21,1
+579,10,"Nov 5, 2011",Utah State,35,Hawaii,31,1
+580,10,"Nov 5, 2011",Virginia,31,Maryland,13,1
+581,10,"Nov 5, 2011",Florida Int'l,9,Western Kentucky,10,1
+582,10,"Nov 5, 2011",Wisconsin,62,Purdue,17,0
+583,11,"Nov 8, 2011",Northern Illinois,45,Bowling Green,14,1
+584,11,"Nov 8, 2011",Toledo,66,Western Michigan,63,0
+585,11,"Nov 9, 2011",Temple,24,Miami (OH),21,0
+586,11,"Nov 10, 2011",Houston,73,Tulane,17,1
+587,11,"Nov 10, 2011",Ohio,43,Central Michigan,28,1
+588,11,"Nov 10, 2011",Virginia Tech,37,Georgia Tech,26,1
+589,11,"Nov 11, 2011",South Florida,37,Syracuse,17,1
+590,11,"Nov 12, 2011",Mississippi State,7,Alabama,24,0
+591,11,"Nov 12, 2011",UAB,41,Memphis,35,1
+592,11,"Nov 12, 2011",Tennessee,7,Arkansas,49,1
+593,11,"Nov 12, 2011",Arkansas State,30,Louisiana,21,0
+594,11,"Nov 12, 2011",Baylor,31,Kansas,30,1
+595,11,"Nov 12, 2011",Boston College,14,NC State,10,0
+596,11,"Nov 12, 2011",Idaho,7,BYU,42,1
+597,11,"Nov 12, 2011",Oregon State,6,California,23,1
+598,11,"Nov 12, 2011",Clemson,31,Wake Forest,28,0
+599,11,"Nov 12, 2011",Colorado,48,Arizona,29,0
+600,11,"Nov 12, 2011",Eastern Michigan,30,Buffalo,17,0
+601,11,"Nov 12, 2011",Florida Atlantic,7,Florida Int'l,41,1
+602,11,"Nov 12, 2011",Florida State,23,Miami,19,0
+603,11,"Nov 12, 2011",Auburn,7,Georgia,45,1
+604,11,"Nov 12, 2011",Kansas State,53,Texas A&M,50,0
+605,11,"Nov 12, 2011",Kent State,35,Akron,3,1
+606,11,"Nov 12, 2011",Western Kentucky,9,LSU,42,1
+607,11,"Nov 12, 2011",Ole Miss,7,Louisiana Tech,27,0
+608,11,"Nov 12, 2011",Louisiana-Monroe,42,Middle Tennessee,14,0
+609,11,"Nov 12, 2011",Michigan,31,Illinois,14,1
+610,11,"Nov 12, 2011",Michigan State,37,Iowa,21,1
+611,11,"Nov 12, 2011",Texas,5,Missouri,17,1
+612,11,"Nov 12, 2011",Navy,24,SMU,17,1
+613,11,"Nov 12, 2011",Nebraska,17,Penn State,14,1
+614,11,"Nov 12, 2011",Nevada,42,Hawaii,28,0
+615,11,"Nov 12, 2011",New Mexico,21,UNLV,14,0
+616,11,"Nov 12, 2011",New Mexico State,48,Fresno State,45,0
+617,11,"Nov 12, 2011",North Texas,38,Troy,33,1
+618,11,"Nov 12, 2011",Rice,6,Northwestern,28,1
+619,11,"Nov 12, 2011",Notre Dame,45,Maryland,21,1
+620,11,"Nov 12, 2011",Oklahoma State,66,Texas Tech,6,1
+621,11,"Nov 12, 2011",Oregon,53,Stanford,30,1
+622,11,"Nov 12, 2011",Pitt,21,Louisville,14,1
+623,11,"Nov 12, 2011",Purdue,26,Ohio State,23,0
+624,11,"Nov 12, 2011",Rutgers,27,Army,12,0
+625,11,"Nov 12, 2011",San Diego State,18,Colorado State,15,1
+626,11,"Nov 12, 2011",South Carolina,17,Florida,12,0
+627,11,"Nov 12, 2011",USC,40,Washington,17,0
+628,11,"Nov 12, 2011",Southern Miss,30,UCF,29,0
+629,11,"Nov 12, 2011",TCU,36,Boise State,35,1
+630,11,"Nov 12, 2011",UTEP,22,East Carolina,17,0
+631,11,"Nov 12, 2011",Tulsa,59,Marshall,17,0
+632,11,"Nov 12, 2011",UCLA,6,Utah,31,1
+633,11,"Nov 12, 2011",Utah State,34,San Jose State,33,0
+634,11,"Nov 12, 2011",Kentucky,8,Vanderbilt,38,1
+635,11,"Nov 12, 2011",Virginia,31,Duke,21,0
+636,11,"Nov 12, 2011",Washington State,37,Arizona State,27,0
+637,11,"Nov 12, 2011",West Virginia,24,Cincinnati,21,1
+638,11,"Nov 12, 2011",Wisconsin,42,Minnesota,13,1
+639,11,"Nov 12, 2011",Wyoming,25,Air Force,17,1
+640,12,"Nov 15, 2011",Northern Illinois,41,Ball State,38,0
+641,12,"Nov 16, 2011",Ohio,29,Bowling Green,28,1
+642,12,"Nov 16, 2011",Western Michigan,24,Miami (OH),21,1
+643,12,"Nov 17, 2011",UAB,34,Southern Miss,31,0
+644,12,"Nov 17, 2011",Marshall,23,Memphis,22,1
+645,12,"Nov 17, 2011",Virginia Tech,24,North Carolina,21,0
+646,12,"Nov 18, 2011",Iowa State,37,Oklahoma State,31,0
+647,12,"Nov 18, 2011",Toledo,44,Central Michigan,17,1
+648,12,"Nov 19, 2011",Air Force,45,UNLV,17,0
+649,12,"Nov 19, 2011",Alabama,45,Georgia Southern,21,0
+650,12,"Nov 19, 2011",Arizona,31,Arizona State,27,1
+651,12,"Nov 19, 2011",Arkansas,44,Mississippi State,17,0
+652,12,"Nov 19, 2011",Arkansas State,45,Middle Tennessee,19,1
+653,12,"Nov 19, 2011",Auburn,35,Samford,16,0
+654,12,"Nov 19, 2011",Baylor,45,Oklahoma,38,0
+655,12,"Nov 19, 2011",Boise State,52,San Diego State,35,1
+656,12,"Nov 19, 2011",New Mexico State,7,BYU,42,1
+657,12,"Nov 19, 2011",Buffalo,51,Akron,10,0
+658,12,"Nov 19, 2011",East Carolina,38,UCF,31,0
+659,12,"Nov 19, 2011",Florida,54,Furman,32,0
+660,12,"Nov 19, 2011",Florida Int'l,28,Louisiana-Monroe,17,1
+661,12,"Nov 19, 2011",Fresno State,24,Hawaii,21,1
+662,12,"Nov 19, 2011",Georgia,19,Kentucky,10,0
+663,12,"Nov 19, 2011",Georgia Tech,38,Duke,31,1
+664,12,"Nov 19, 2011",SMU,7,Houston,37,1
+665,12,"Nov 19, 2011",Iowa,31,Purdue,21,1
+666,12,"Nov 19, 2011",Kansas State,17,Texas,13,1
+667,12,"Nov 19, 2011",Kent State,28,Eastern Michigan,22,0
+668,12,"Nov 19, 2011",LSU,52,Ole Miss,3,1
+669,12,"Nov 19, 2011",Louisiana Tech,24,Nevada,20,1
+670,12,"Nov 19, 2011",Louisville,34,Connecticut,20,1
+671,12,"Nov 19, 2011",Miami,6,South Florida,3,1
+672,12,"Nov 19, 2011",Michigan,45,Nebraska,17,0
+673,12,"Nov 19, 2011",Michigan State,55,Indiana,3,0
+674,12,"Nov 19, 2011",Missouri,31,Texas Tech,27,0
+675,12,"Nov 19, 2011",NC State,37,Clemson,13,0
+676,12,"Nov 19, 2011",Northwestern,28,Minnesota,13,0
+677,12,"Nov 19, 2011",Notre Dame,16,Boston College,14,0
+678,12,"Nov 19, 2011",Oregon State,38,Washington,21,0
+679,12,"Nov 19, 2011",Penn State,20,Ohio State,14,1
+680,12,"Nov 19, 2011",Tulane,7,Rice,19,1
+681,12,"Nov 19, 2011",Cincinnati,3,Rutgers,20,1
+682,12,"Nov 19, 2011",San Jose State,27,Navy,24,0
+683,12,"Nov 19, 2011",South Carolina,41,Citadel,20,0
+684,12,"Nov 19, 2011",USC,38,Oregon,35,1
+685,12,"Nov 19, 2011",Stanford,31,California,28,0
+686,12,"Nov 19, 2011",Temple,42,Army,14,0
+687,12,"Nov 19, 2011",Tennessee,27,Vanderbilt,21,0
+688,12,"Nov 19, 2011",Kansas,7,Texas A&M,61,1
+689,12,"Nov 19, 2011",TCU,34,Colorado State,10,0
+690,12,"Nov 19, 2011",Florida Atlantic,7,Troy,34,1
+691,12,"Nov 19, 2011",Tulsa,57,UTEP,28,1
+692,12,"Nov 19, 2011",Colorado,6,UCLA,45,1
+693,12,"Nov 19, 2011",Utah,30,Washington State,27,1
+694,12,"Nov 19, 2011",Utah State,49,Idaho,42,1
+695,12,"Nov 19, 2011",Virginia,14,Florida State,13,1
+696,12,"Nov 19, 2011",Wake Forest,31,Maryland,10,0
+697,12,"Nov 19, 2011",Western Kentucky,31,North Texas,21,1
+698,12,"Nov 19, 2011",Wisconsin,28,Illinois,17,1
+699,12,"Nov 19, 2011",Wyoming,31,New Mexico,10,0
+700,13,"Nov 22, 2011",Ohio,21,Miami (OH),14,0
+701,13,"Nov 24, 2011",Texas,27,Texas A&M,25,1
+702,13,"Nov 25, 2011",Boston College,24,Miami,17,1
+703,13,"Nov 25, 2011",Bowling Green,42,Buffalo,28,1
+704,13,"Nov 25, 2011",California,47,Arizona State,38,1
+705,13,"Nov 25, 2011",UCF,31,UTEP,14,0
+706,13,"Nov 25, 2011",Colorado,17,Utah,14,1
+707,13,"Nov 25, 2011",Houston,48,Tulsa,16,1
+708,13,"Nov 25, 2011",LSU,41,Arkansas,17,0
+709,13,"Nov 25, 2011",Louisville,34,South Florida,24,1
+710,13,"Nov 25, 2011",Iowa,7,Nebraska,20,1
+711,13,"Nov 25, 2011",Northern Illinois,18,Eastern Michigan,12,0
+712,13,"Nov 25, 2011",Temple,34,Kent State,16,0
+713,13,"Nov 25, 2011",Toledo,45,Ball State,28,1
+714,13,"Nov 25, 2011",West Virginia,21,Pitt,20,0
+715,13,"Nov 25, 2011",Western Michigan,68,Akron,19,0
+716,13,"Nov 26, 2011",Air Force,45,Colorado State,21,1
+717,13,"Nov 26, 2011",Alabama,42,Auburn,14,1
+718,13,"Nov 26, 2011",Arizona,45,Louisiana,37,0
+719,13,"Nov 26, 2011",Baylor,66,Texas Tech,42,0
+720,13,"Nov 26, 2011",Boise State,36,Wyoming,14,0
+721,13,"Nov 26, 2011",Cincinnati,30,Syracuse,13,1
+722,13,"Nov 26, 2011",Connecticut,40,Rutgers,22,0
+723,13,"Nov 26, 2011",Florida Atlantic,38,UAB,35,0
+724,13,"Nov 26, 2011",Florida Int'l,31,Middle Tennessee,18,1
+725,13,"Nov 26, 2011",Florida,7,Florida State,21,0
+726,13,"Nov 26, 2011",Georgia,31,Georgia Tech,17,1
+727,13,"Nov 26, 2011",Hawaii,35,Tulane,23,0
+728,13,"Nov 26, 2011",Tennessee,7,Kentucky,10,1
+729,13,"Nov 26, 2011",Louisiana Tech,44,New Mexico State,0,0
+730,13,"Nov 26, 2011",Marshall,34,East Carolina,27,0
+731,13,"Nov 26, 2011",Michigan,40,Ohio State,34,0
+732,13,"Nov 26, 2011",Michigan State,31,Northwestern,17,1
+733,13,"Nov 26, 2011",Illinois,7,Minnesota,27,1
+734,13,"Nov 26, 2011",Mississippi State,31,Ole Miss,3,0
+735,13,"Nov 26, 2011",Missouri,24,Kansas,10,0
+736,13,"Nov 26, 2011",North Carolina,37,Duke,21,0
+737,13,"Nov 26, 2011",NC State,56,Maryland,41,0
+738,13,"Nov 26, 2011",Iowa State,6,Oklahoma,26,1
+739,13,"Nov 26, 2011",Oregon,49,Oregon State,21,0
+740,13,"Nov 26, 2011",Purdue,33,Indiana,25,1
+741,13,"Nov 26, 2011",San Diego State,31,UNLV,14,1
+742,13,"Nov 26, 2011",San Jose State,27,Fresno State,24,1
+743,13,"Nov 26, 2011",South Carolina,34,Clemson,13,0
+744,13,"Nov 26, 2011",USC,50,UCLA,0,0
+745,13,"Nov 26, 2011",SMU,27,Rice,24,0
+746,13,"Nov 26, 2011",Memphis,7,Southern Miss,44,1
+747,13,"Nov 26, 2011",Stanford,28,Notre Dame,14,0
+748,13,"Nov 26, 2011",Utah State,21,Nevada,17,0
+749,13,"Nov 26, 2011",Wake Forest,7,Vanderbilt,41,0
+750,13,"Nov 26, 2011",Virginia Tech,38,Virginia,0,1
+751,13,"Nov 26, 2011",Washington,38,Washington State,21,0
+752,13,"Nov 26, 2011",Western Kentucky,41,Troy,18,0
+753,13,"Nov 26, 2011",Penn State,7,Wisconsin,45,1
+754,14,"Dec 1, 2011",West Virginia,30,South Florida,27,1
+755,14,"Dec 2, 2011",Northern Illinois,23,Ohio,20,0
+756,14,"Dec 2, 2011",Oregon,49,UCLA,31,0
+757,14,"Dec 3, 2011",Arkansas State,45,Troy,14,0
+758,14,"Dec 3, 2011",Baylor,48,Texas,24,0
+759,14,"Dec 3, 2011",Boise State,45,New Mexico,0,0
+760,14,"Dec 3, 2011",BYU,41,Hawaii,20,1
+761,14,"Dec 3, 2011",Cincinnati,35,Connecticut,27,0
+762,14,"Dec 3, 2011",Clemson,38,Virginia Tech,10,0
+763,14,"Dec 3, 2011",Kansas State,30,Iowa State,23,0
+764,14,"Dec 3, 2011",LSU,42,Georgia,10,0
+765,14,"Dec 3, 2011",Louisiana-Monroe,26,Florida Atlantic,0,1
+766,14,"Dec 3, 2011",Nevada,56,Idaho,3,0
+767,14,"Dec 3, 2011",Middle Tennessee,7,North Texas,59,1
+768,14,"Dec 3, 2011",Oklahoma State,44,Oklahoma,10,0
+769,14,"Dec 3, 2011",Pitt,33,Syracuse,20,0
+770,14,"Dec 3, 2011",San Diego State,35,Fresno State,28,0
+771,14,"Dec 3, 2011",Southern Miss,49,Houston,28,1
+772,14,"Dec 3, 2011",UNLV,9,TCU,56,1
+773,14,"Dec 3, 2011",Utah State,24,New Mexico State,21,1
+774,14,"Dec 3, 2011",Wisconsin,42,Michigan State,39,0
+775,14,"Dec 3, 2011",Wyoming,22,Colorado State,19,1
+776,15,"Dec 10, 2011",Navy,27,Army,21,0
+777,16,"Dec 17, 2011",Louisiana,32,San Diego State,30,0
+778,16,"Dec 17, 2011",Ohio,24,Utah State,23,0
+779,16,"Dec 17, 2011",Temple,37,Wyoming,15,0
+780,17,"Dec 20, 2011",Marshall,20,Florida Int'l,10,0
+781,17,"Dec 20, 2011",Marshall,20,Florida Int'l,10,0
+782,17,"Dec 21, 2011",TCU,31,Louisiana Tech,24,0
+783,17,"Dec 22, 2011",Boise State,56,Arizona State,24,0
+784,17,"Dec 24, 2011",Southern Miss,24,Nevada,17,0
+785,17,"Dec 26, 2011",Missouri,41,North Carolina,24,0
+786,18,"Dec 27, 2011",NC State,31,Louisville,24,0
+787,18,"Dec 27, 2011",Purdue,37,Western Michigan,32,0
+788,18,"Dec 28, 2011",Texas,21,California,10,0
+789,18,"Dec 28, 2011",Toledo,42,Air Force,41,0
+790,18,"Dec 29, 2011",Baylor,67,Washington,56,0
+791,18,"Dec 29, 2011",Florida State,18,Notre Dame,14,0
+792,18,"Dec 30, 2011",BYU,24,Tulsa,21,0
+793,18,"Dec 30, 2011",Mississippi State,23,Wake Forest,17,0
+794,18,"Dec 30, 2011",Oklahoma,31,Iowa,14,0
+795,18,"Dec 30, 2011",Rutgers,27,Iowa State,13,0
+796,18,"Dec 31, 2011",Auburn,43,Virginia,24,0
+797,18,"Dec 31, 2011",Cincinnati,31,Vanderbilt,24,0
+798,18,"Dec 31, 2011",Illinois,20,UCLA,14,0
+799,18,"Dec 31, 2011",Texas A&M,33,Northwestern,22,0
+800,18,"Dec 31, 2011",Utah,30,Georgia Tech,27,0
+801,19,"Jan 2, 2012",Florida,24,Ohio State,17,0
+802,19,"Jan 2, 2012",Houston,30,Penn State,14,0
+803,19,"Jan 2, 2012",Michigan State,33,Georgia,30,0
+804,19,"Jan 2, 2012",Oklahoma State,41,Stanford,38,0
+805,19,"Jan 2, 2012",Oregon,45,Wisconsin,38,0
+806,19,"Jan 2, 2012",South Carolina,30,Nebraska,13,0
+807,20,"Jan 3, 2012",Michigan,23,Virginia Tech,20,0
+808,20,"Jan 4, 2012",West Virginia,70,Clemson,33,0
+809,20,"Jan 6, 2012",Arkansas,29,Kansas State,16,0
+810,20,"Jan 7, 2012",Pitt,6,SMU,28,1
+811,20,"Jan 8, 2012",Northern Illinois,38,Arkansas State,20,0
+812,20,"Jan 9, 2012",Alabama,21,LSU,0,0

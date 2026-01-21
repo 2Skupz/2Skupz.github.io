@@ -1,0 +1,112 @@
+0,Maryland,ACC
+1,Clemson,ACC
+2,North Carolina,ACC
+3,Georgia Tech,ACC
+4,Virginia,ACC
+5,Duke,ACC
+6,Wake Forest,ACC
+7,NC State,ACC
+8,Nebraska,Big 8
+9,Oklahoma,Big 8
+10,Missouri,Big 8
+11,Oklahoma State,Big 8
+12,Iowa State,Big 8
+13,Kansas,Big 8
+14,Colorado,Big 8
+15,Kansas State,Big 8
+16,Illinois,Big Ten
+17,Michigan,Big Ten
+18,Iowa,Big Ten
+19,Ohio State,Big Ten
+20,Wisconsin,Big Ten
+21,Purdue,Big Ten
+22,Michigan State,Big Ten
+23,Indiana,Big Ten
+24,Northwestern,Big Ten
+25,Minnesota,Big Ten
+26,Miami,Ind
+27,Virginia Tech,Ind
+28,Boston College,Ind
+29,West Virginia,Ind
+30,East Carolina,Ind
+31,Pitt,Ind
+32,Penn State,Ind
+33,Southern Miss,Ind
+34,Memphis,Ind
+35,Florida State,Ind
+36,Notre Dame,Ind
+37,Syracuse,Ind
+38,William & Mary,Ind
+39,South Carolina,Ind
+40,Cincinnati,Ind
+41,Louisiana,Ind
+42,Temple,Ind
+43,Tulane,Ind
+44,Louisville,Ind
+45,Navy,Ind
+46,Richmond,Ind
+47,Rutgers,Ind
+48,Army,Ind
+49,Northern Illinois,MAC
+50,Toledo,MAC
+51,Bowling Green,MAC
+52,Central Michigan,MAC
+53,Ball State,MAC
+54,Western Michigan,MAC
+55,Miami (OH),MAC
+56,Ohio,MAC
+57,Kent State,MAC
+58,Eastern Michigan,MAC
+59,Tulsa,MVC
+60,Southern Illinois,MVC
+61,New Mexico State,MVC
+62,Indiana State,MVC
+63,Illinois State,MVC
+64,Wichita State,MVC
+65,Drake,MVC
+66,West Texas State,MVC
+67,UCLA,Pac-10
+68,Washington,Pac-10
+69,Washington State,Pac-10
+70,USC,Pac-10
+71,Arizona,Pac-10
+72,Arizona State,Pac-10
+73,Oregon,Pac-10
+74,California,Pac-10
+75,Oregon State,Pac-10
+76,Stanford,Pac-10
+77,Cal State Fullerton,PCAA
+78,UNLV,PCAA
+79,Long Beach State,PCAA
+80,San Jose State,PCAA
+81,Utah State,PCAA
+82,Fresno State,PCAA
+83,Pacific,PCAA
+84,Auburn,SEC
+85,Georgia,SEC
+86,Florida,SEC
+87,Tennessee,SEC
+88,Alabama,SEC
+89,Ole Miss,SEC
+90,Kentucky,SEC
+91,Mississippi State,SEC
+92,LSU,SEC
+93,Vanderbilt,SEC
+94,Texas,SWC
+95,SMU,SWC
+96,Baylor,SWC
+97,Texas A&M,SWC
+98,Arkansas,SWC
+99,Texas Tech,SWC
+100,Houston,SWC
+101,TCU,SWC
+102,Rice,SWC
+103,BYU,WAC
+104,Air Force,WAC
+105,Wyoming,WAC
+106,New Mexico,WAC
+107,Hawaii,WAC
+108,Utah,WAC
+109,Colorado State,WAC
+110,San Diego State,WAC
+111,UTEP,WAC

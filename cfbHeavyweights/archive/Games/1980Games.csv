@@ -1,0 +1,816 @@
+0,1,"Sep 1, 1980",Texas,23,Arkansas,17,0
+1,2,"Sep 5, 1980",Long Beach State,9,Northern Illinois,16,0
+2,2,"Sep 6, 1980",Georgia Tech,3,Alabama,26,1
+3,2,"Sep 6, 1980",James Madison,6,Appalachian State,34,0
+4,2,"Sep 6, 1980",Utah,7,Boise State,28,0
+5,2,"Sep 6, 1980",Cal State Fullerton,39,Fresno State,25,1
+6,2,"Sep 6, 1980",Central Michigan,21,Ball State,17,0
+7,2,"Sep 6, 1980",Chattanooga,16,Jacksonville State,13,1
+8,2,"Sep 6, 1980",Citadel,21,Presbyterian,14,0
+9,2,"Sep 6, 1980",Air Force,9,Colorado State,21,1
+10,2,"Sep 6, 1980",East Carolina,35,Duke,10,1
+11,2,"Sep 6, 1980",Florida State,16,LSU,0,1
+12,2,"Sep 6, 1980",Georgia,16,Tennessee,15,1
+13,2,"Sep 6, 1980",Holy Cross,21,Rhode Island,14,0
+14,2,"Sep 6, 1980",Northwestern,9,Illinois,35,1
+15,2,"Sep 6, 1980",Illinois State,28,Nicholls State,13,0
+16,2,"Sep 6, 1980",Indiana State,13,Drake,10,1
+17,2,"Sep 6, 1980",Kentucky,17,Utah State,10,0
+18,2,"Sep 6, 1980",Texas Southern,8,Lamar,41,0
+19,2,"Sep 6, 1980",Louisiana,14,New Mexico State,12,0
+20,2,"Sep 6, 1980",Morehead State,8,Marshall,35,0
+21,2,"Sep 6, 1980",Maryland,7,Villanova,3,0
+22,2,"Sep 6, 1980",McNeese State,20,West Texas State,17,1
+23,2,"Sep 6, 1980",Miami,24,Louisville,10,1
+24,2,"Sep 6, 1980",Memphis,7,Mississippi State,34,0
+25,2,"Sep 6, 1980",New Mexico,25,BYU,21,0
+26,2,"Sep 6, 1980",North Carolina,35,Furman,13,0
+27,2,"Sep 6, 1980",NC State,42,William & Mary,0,0
+28,2,"Sep 6, 1980",North Texas,31,Texas-Arlington,14,1
+29,2,"Sep 6, 1980",Notre Dame,31,Purdue,10,0
+30,2,"Sep 6, 1980",Penn State,54,Colgate,10,0
+31,2,"Sep 6, 1980",Richmond,20,Bowling Green,17,0
+32,2,"Sep 6, 1980",San Jose State,28,Santa Clara,14,0
+33,2,"Sep 6, 1980",South Carolina,37,Pacific,0,0
+34,2,"Sep 6, 1980",Southern Miss,17,Tulane,14,1
+35,2,"Sep 6, 1980",Stanford,35,Oregon,25,1
+36,2,"Sep 6, 1980",Texas A&M,23,Ole Miss,20,1
+37,2,"Sep 6, 1980",UTEP,7,Texas Tech,35,1
+38,2,"Sep 6, 1980",Wake Forest,7,Virginia Tech,16,0
+39,2,"Sep 6, 1980",West Virginia,41,Cincinnati,27,0
+40,2,"Sep 6, 1980",Western Carolina,16,Virginia Military Institute,14,0
+41,2,"Sep 6, 1980",Western Michigan,37,Eastern Michigan,0,0
+42,2,"Sep 6, 1980",Wichita State,31,Southern Illinois,14,0
+43,2,"Sep 6, 1980",East Tennessee State,9,Wofford,16,0
+44,3,"Sep 13, 1980",Appalachian State,17,Citadel,14,0
+45,3,"Sep 13, 1980",Arizona State,29,Houston,13,0
+46,3,"Sep 13, 1980",Tennessee-Martin,9,Arkansas State,29,1
+47,3,"Sep 13, 1980",Holy Cross,7,Army,28,1
+48,3,"Sep 13, 1980",TCU,7,Auburn,10,0
+49,3,"Sep 13, 1980",Ball State,18,Northern Illinois,17,1
+50,3,"Sep 13, 1980",Lamar,7,Baylor,42,0
+51,3,"Sep 13, 1980",BYU,35,San Diego State,11,0
+52,3,"Sep 13, 1980",Cal State Fullerton,30,Cal Poly,23,0
+53,3,"Sep 13, 1980",Central Michigan,15,Miami (OH),14,1
+54,3,"Sep 13, 1980",Middle Tennessee,7,Chattanooga,32,0
+55,3,"Sep 13, 1980",Rice,3,Clemson,19,1
+56,3,"Sep 13, 1980",Lehigh,17,Colgate,17,0
+57,3,"Sep 13, 1980",Drake,42,Augustana (South Dakota),0,0
+58,3,"Sep 13, 1980",Eastern Michigan,18,Bowling Green,16,1
+59,3,"Sep 13, 1980",Florida,41,California,13,0
+60,3,"Sep 13, 1980",Florida State,52,Louisville,0,0
+61,3,"Sep 13, 1980",Presbyterian,7,Furman,28,1
+62,3,"Sep 13, 1980",Georgia,42,Texas A&M,0,0
+63,3,"Sep 13, 1980",Hawaii,41,Abilene Christian,0,0
+64,3,"Sep 13, 1980",Illinois,20,Michigan State,17,0
+65,3,"Sep 13, 1980",Indiana,7,Iowa,16,0
+66,3,"Sep 13, 1980",Louisiana-Monroe,7,Iowa State,42,1
+67,3,"Sep 13, 1980",Oregon,7,Kansas,7,0
+68,3,"Sep 13, 1980",Louisiana,27,East Carolina,21,1
+69,3,"Sep 13, 1980",LSU,21,Kansas State,0,0
+70,3,"Sep 13, 1980",Kent State,7,Marshall,17,1
+71,3,"Sep 13, 1980",Vanderbilt,6,Maryland,31,1
+72,3,"Sep 13, 1980",McNeese State,20,Toledo,17,1
+73,3,"Sep 13, 1980",Miami,49,Florida A&M,0,0
+74,3,"Sep 13, 1980",Michigan,17,Northwestern,10,0
+75,3,"Sep 13, 1980",Minnesota,38,Ohio,14,0
+76,3,"Sep 13, 1980",Memphis,7,Ole Miss,61,1
+77,3,"Sep 13, 1980",Mississippi State,31,Louisiana Tech,11,0
+78,3,"Sep 13, 1980",Missouri,47,New Mexico,16,0
+79,3,"Sep 13, 1980",Utah,9,Nebraska,55,1
+80,3,"Sep 13, 1980",Fresno State,6,UNLV,35,1
+81,3,"Sep 13, 1980",New Mexico State,6,UTEP,3,0
+82,3,"Sep 13, 1980",North Carolina,9,Texas Tech,3,1
+83,3,"Sep 13, 1980",Northwestern State,38,Texas-Arlington,31,1
+84,3,"Sep 13, 1980",Ohio State,31,Syracuse,21,0
+85,3,"Sep 13, 1980",Kentucky,7,Oklahoma,29,1
+86,3,"Sep 13, 1980",Pacific,24,Idaho,13,0
+87,3,"Sep 13, 1980",Boston College,6,Pitt,14,1
+88,3,"Sep 13, 1980",Wisconsin,6,Purdue,12,0
+89,3,"Sep 13, 1980",Villanova,7,Richmond,21,0
+90,3,"Sep 13, 1980",Temple,3,Rutgers,21,0
+91,3,"Sep 13, 1980",San Jose State,31,Washington State,26,1
+92,3,"Sep 13, 1980",South Carolina,73,Wichita State,0,0
+93,3,"Sep 13, 1980",USC,20,Tennessee,17,1
+94,3,"Sep 13, 1980",Southern Illinois,37,Eastern Illinois,35,0
+95,3,"Sep 13, 1980",North Texas,9,SMU,28,1
+96,3,"Sep 13, 1980",Stanford,19,Tulane,14,0
+97,3,"Sep 13, 1980",Tennessee Tech,26,Western Carolina,10,1
+98,3,"Sep 13, 1980",Tulsa,31,Cincinnati,13,0
+99,3,"Sep 13, 1980",UCLA,56,Colorado,14,0
+100,3,"Sep 13, 1980",Idaho State,7,Utah State,14,1
+101,3,"Sep 13, 1980",Virginia,6,Navy,3,0
+102,3,"Sep 13, 1980",Virginia Military Institute,13,William & Mary,10,1
+103,3,"Sep 13, 1980",East Tennessee State,7,Virginia Tech,35,1
+104,3,"Sep 13, 1980",Air Force,7,Washington,50,1
+105,3,"Sep 13, 1980",West Texas State,20,Oklahoma State,19,1
+106,3,"Sep 13, 1980",West Virginia,52,Colorado State,24,1
+107,3,"Sep 13, 1980",Western Michigan,31,Illinois State,17,1
+108,3,"Sep 13, 1980",Wyoming,30,Oregon State,10,0
+109,4,"Sep 20, 1980",Alabama,59,Ole Miss,35,1
+110,4,"Sep 20, 1980",Arizona State,42,Oregon State,14,0
+111,4,"Sep 20, 1980",Arkansas,33,Oklahoma State,20,0
+112,4,"Sep 20, 1980",Army,26,California,19,0
+113,4,"Sep 20, 1980",Auburn,35,Duke,28,0
+114,4,"Sep 20, 1980",Toledo,7,Ball State,27,1
+115,4,"Sep 20, 1980",Baylor,43,West Texas State,15,0
+116,4,"Sep 20, 1980",Boston College,30,Stanford,13,0
+117,4,"Sep 20, 1980",Wisconsin,3,BYU,28,0
+118,4,"Sep 20, 1980",Cal State Fullerton,21,Northern Arizona,13,0
+119,4,"Sep 20, 1980",Central Michigan,16,Illinois State,0,0
+120,4,"Sep 20, 1980",Appalachian State,7,Chattanooga,14,1
+121,4,"Sep 20, 1980",Colorado State,15,Arizona,13,1
+122,4,"Sep 20, 1980",Princeton,7,Cornell,17,1
+123,4,"Sep 20, 1980",Pennsylvania,7,Dartmouth,40,1
+124,4,"Sep 20, 1980",Temple,7,Delaware,28,0
+125,4,"Sep 20, 1980",Lamar,7,Drake,38,0
+126,4,"Sep 20, 1980",Florida,45,Georgia Tech,12,1
+127,4,"Sep 20, 1980",East Carolina,7,Florida State,63,1
+128,4,"Sep 20, 1980",Fresno State,16,Louisiana,14,0
+129,4,"Sep 20, 1980",Furman,28,Western Carolina,14,1
+130,4,"Sep 20, 1980",Georgia,20,Clemson,16,0
+131,4,"Sep 20, 1980",Columbia,6,Harvard,26,1
+132,4,"Sep 20, 1980",Hawaii,25,Pacific,14,0
+133,4,"Sep 20, 1980",Indiana,36,Kentucky,30,1
+134,4,"Sep 20, 1980",Indiana State,14,Eastern Illinois,0,0
+135,4,"Sep 20, 1980",San Jose State,6,Iowa State,27,1
+136,4,"Sep 20, 1980",South Dakota,3,Kansas State,24,1
+137,4,"Sep 20, 1980",Long Beach State,23,Bowling Green,21,1
+138,4,"Sep 20, 1980",LSU,23,Colorado,20,0
+139,4,"Sep 20, 1980",Louisiana-Monroe,35,Arkansas State,12,1
+140,4,"Sep 20, 1980",Maryland,14,West Virginia,11,1
+141,4,"Sep 20, 1980",Massachusetts,24,Villanova,12,0
+142,4,"Sep 20, 1980",McNeese State,21,Nicholls State,0,0
+143,4,"Sep 20, 1980",Houston,7,Miami,14,0
+144,4,"Sep 20, 1980",Mississippi State,24,Vanderbilt,14,1
+145,4,"Sep 20, 1980",Illinois,7,Missouri,52,1
+146,4,"Sep 20, 1980",Louisville,9,Murray State,13,0
+147,4,"Sep 20, 1980",Navy,31,Kent State,3,0
+148,4,"Sep 20, 1980",Nebraska,57,Iowa,0,0
+149,4,"Sep 20, 1980",New Mexico State,18,Southern Illinois,17,0
+150,4,"Sep 20, 1980",NC State,27,Virginia,13,1
+151,4,"Sep 20, 1980",North Texas,35,UTEP,15,1
+152,4,"Sep 20, 1980",Notre Dame,29,Michigan,27,0
+153,4,"Sep 20, 1980",Eastern Michigan,6,Ohio,34,1
+154,4,"Sep 20, 1980",Ohio State,47,Minnesota,0,0
+155,4,"Sep 20, 1980",Michigan State,7,Oregon,35,1
+156,4,"Sep 20, 1980",Texas A&M,9,Penn State,25,0
+157,4,"Sep 20, 1980",Kansas,3,Pitt,18,0
+158,4,"Sep 20, 1980",Cincinnati,7,Rutgers,24,1
+159,4,"Sep 20, 1980",San Diego State,13,Air Force,10,1
+160,4,"Sep 20, 1980",Southeastern Louisiana,7,East Tennessee State,3,0
+161,4,"Sep 20, 1980",USC,23,South Carolina,13,0
+162,4,"Sep 20, 1980",SMU,17,TCU,14,0
+163,4,"Sep 20, 1980",Southern Miss,38,Louisiana Tech,11,0
+164,4,"Sep 20, 1980",Syracuse,36,Miami (OH),24,0
+165,4,"Sep 20, 1980",Tennessee,35,Washington State,23,0
+166,4,"Sep 20, 1980",Texas,35,Utah State,17,0
+167,4,"Sep 20, 1980",Texas Tech,28,New Mexico,17,0
+168,4,"Sep 20, 1980",Tulane,35,Rice,14,0
+169,4,"Sep 20, 1980",UCLA,23,Purdue,14,1
+170,4,"Sep 20, 1980",Utah,45,UNLV,29,0
+171,4,"Sep 20, 1980",Marshall,3,Virginia Military Institute,17,1
+172,4,"Sep 20, 1980",Virginia Tech,7,William & Mary,3,0
+173,4,"Sep 20, 1980",Citadel,7,Wake Forest,24,1
+174,4,"Sep 20, 1980",Northwestern,7,Washington,45,1
+175,4,"Sep 20, 1980",Northern Illinois,6,Western Michigan,35,0
+176,4,"Sep 20, 1980",Wichita State,23,Tulsa,10,0
+177,4,"Sep 20, 1980",Wyoming,35,Richmond,14,0
+178,4,"Sep 20, 1980",Yale,45,Brown,17,1
+179,5,"Sep 26, 1980",Pennsylvania,6,Lehigh,35,0
+180,5,"Sep 27, 1980",Illinois,20,Air Force,20,0
+181,5,"Sep 27, 1980",Alabama,41,Vanderbilt,0,0
+182,5,"Sep 27, 1980",Appalachian State,42,East Tennessee State,15,0
+183,5,"Sep 27, 1980",Arizona,31,California,24,1
+184,5,"Sep 27, 1980",Arkansas,13,Tulsa,10,0
+185,5,"Sep 27, 1980",Texas Tech,3,Baylor,11,0
+186,5,"Sep 27, 1980",BYU,41,Long Beach State,25,0
+187,5,"Sep 27, 1980",Bucknell,28,Brown,20,1
+188,5,"Sep 27, 1980",Kent State,6,Central Michigan,21,1
+189,5,"Sep 27, 1980",Citadel,29,Chattanooga,13,0
+190,5,"Sep 27, 1980",Clemson,17,Western Carolina,10,0
+191,5,"Sep 27, 1980",Colgate,38,Cornell,20,0
+192,5,"Sep 27, 1980",Columbia,6,Lafayette,0,0
+193,5,"Sep 27, 1980",Florida,21,Mississippi State,15,0
+194,5,"Sep 27, 1980",Furman,21,Virginia Military Institute,16,0
+195,5,"Sep 27, 1980",Georgia,34,TCU,3,0
+196,5,"Sep 27, 1980",Memphis,8,Georgia Tech,17,1
+197,5,"Sep 27, 1980",Harvard,14,Holy Cross,13,0
+198,5,"Sep 27, 1980",Houston,24,North Texas,17,0
+199,5,"Sep 27, 1980",Colorado,7,Indiana,49,0
+200,5,"Sep 27, 1980",Akron,9,Indiana State,27,1
+201,5,"Sep 27, 1980",Iowa,7,Iowa State,10,0
+202,5,"Sep 27, 1980",Arkansas State,7,Kansas State,31,1
+203,5,"Sep 27, 1980",Kentucky,21,Bowling Green,20,0
+204,5,"Sep 27, 1980",Lamar,45,Stephen F. Austin,21,1
+205,5,"Sep 27, 1980",Western Illinois,6,Louisiana Tech,42,1
+206,5,"Sep 27, 1980",Louisiana-Monroe,24,Louisiana,0,1
+207,5,"Sep 27, 1980",Kansas,9,Louisville,17,0
+208,5,"Sep 27, 1980",Florida State,9,Miami,10,1
+209,5,"Sep 27, 1980",Ball State,9,Miami (OH),42,0
+210,5,"Sep 27, 1980",Western Michigan,7,Michigan State,33,1
+211,5,"Sep 27, 1980",San Diego State,7,Missouri,31,0
+212,5,"Sep 27, 1980",William & Mary,6,Navy,45,1
+213,5,"Sep 27, 1980",Penn State,7,Nebraska,21,0
+214,5,"Sep 27, 1980",UNLV,56,Colorado State,15,1
+215,5,"Sep 27, 1980",Dartmouth,7,New Hampshire,24,0
+216,5,"Sep 27, 1980",New Mexico,52,New Mexico State,19,0
+217,5,"Sep 27, 1980",Maryland,3,North Carolina,17,1
+218,5,"Sep 27, 1980",Northern Illinois,22,Ohio,21,1
+219,5,"Sep 27, 1980",Northwestern State,13,McNeese State,10,1
+220,5,"Sep 27, 1980",Ohio State,38,Arizona State,21,0
+221,5,"Sep 27, 1980",Oregon,34,Washington,10,1
+222,5,"Sep 27, 1980",Pacific,28,UTEP,14,0
+223,5,"Sep 27, 1980",Pitt,36,Temple,2,0
+224,5,"Sep 27, 1980",LSU,7,Rice,17,1
+225,5,"Sep 27, 1980",Rutgers,44,Princeton,13,0
+226,5,"Sep 27, 1980",South Carolina,17,Michigan,14,1
+227,5,"Sep 27, 1980",Southeastern Louisiana,28,Illinois State,21,1
+228,5,"Sep 27, 1980",Minnesota,7,USC,24,0
+229,5,"Sep 27, 1980",Southern Illinois,34,Drake,28,1
+230,5,"Sep 27, 1980",SMU,52,Texas-Arlington,16,0
+231,5,"Sep 27, 1980",East Carolina,7,Southern Miss,35,0
+232,5,"Sep 27, 1980",Stanford,31,Oklahoma,14,1
+233,5,"Sep 27, 1980",Syracuse,42,Northwestern,21,0
+234,5,"Sep 27, 1980",Tennessee,42,Auburn,0,1
+235,5,"Sep 27, 1980",Texas,35,Oregon State,0,0
+236,5,"Sep 27, 1980",Eastern Michigan,7,Toledo,49,1
+237,5,"Sep 27, 1980",Tulane,26,Ole Miss,24,1
+238,5,"Sep 27, 1980",UCLA,35,Wisconsin,0,0
+239,5,"Sep 27, 1980",Utah,27,Fresno State,12,0
+240,5,"Sep 27, 1980",Boston College,9,Villanova,20,1
+241,5,"Sep 27, 1980",Virginia,20,Duke,17,1
+242,5,"Sep 27, 1980",James Madison,6,Virginia Tech,38,1
+243,5,"Sep 27, 1980",NC State,7,Wake Forest,27,0
+244,5,"Sep 27, 1980",Washington State,31,Army,18,0
+245,5,"Sep 27, 1980",West Texas State,21,Texas State,13,0
+246,5,"Sep 27, 1980",West Virginia,31,Richmond,28,0
+247,5,"Sep 27, 1980",Cincinnati,8,Wichita State,13,0
+248,5,"Sep 27, 1980",Wyoming,45,Hawaii,20,0
+249,5,"Sep 27, 1980",Yale,20,Connecticut,10,0
+250,6,"Oct 3, 1980",Alabama,45,Kentucky,0,0
+251,6,"Oct 4, 1980",Marshall,6,Appalachian State,23,0
+252,6,"Oct 4, 1980",Arizona,5,Iowa,3,1
+253,6,"Oct 4, 1980",TCU,7,Arkansas,44,1
+254,6,"Oct 4, 1980",Auburn,55,Richmond,16,0
+255,6,"Oct 4, 1980",Baylor,24,Houston,12,0
+256,6,"Oct 4, 1980",Bowling Green,17,Western Michigan,14,1
+257,6,"Oct 4, 1980",Brown,28,Princeton,11,1
+258,6,"Oct 4, 1980",Central Michigan,14,Toledo,10,0
+259,6,"Oct 4, 1980",Citadel,28,Virginia Military Institute,0,0
+260,6,"Oct 4, 1980",Clemson,13,Virginia Tech,10,0
+261,6,"Oct 4, 1980",Connecticut,24,Colgate,21,0
+262,6,"Oct 4, 1980",Drake,30,Texas-Arlington,20,1
+263,6,"Oct 4, 1980",Eastern Illinois,31,Illinois State,14,0
+264,6,"Oct 4, 1980",Florida State,18,Nebraska,14,1
+265,6,"Oct 4, 1980",Fresno State,31,Cal Poly,25,0
+266,6,"Oct 4, 1980",Furman,42,Chattanooga,28,1
+267,6,"Oct 4, 1980",Harvard,15,Army,10,1
+268,6,"Oct 4, 1980",Dartmouth,6,Holy Cross,17,1
+269,6,"Oct 4, 1980",Indiana,31,Duke,21,0
+270,6,"Oct 4, 1980",Iowa State,69,Colorado State,0,0
+271,6,"Oct 4, 1980",Syracuse,8,Kansas,23,0
+272,6,"Oct 4, 1980",Kent State,15,Ohio,14,0
+273,6,"Oct 4, 1980",Florida,7,LSU,24,0
+274,6,"Oct 4, 1980",Louisiana Tech,7,East Tennessee State,3,1
+275,6,"Oct 4, 1980",Louisiana-Monroe,38,Northwestern State,14,0
+276,6,"Oct 4, 1980",Ball State,7,McNeese State,24,1
+277,6,"Oct 4, 1980",Arkansas State,3,Memphis,24,1
+278,6,"Oct 4, 1980",Michigan,38,California,13,0
+279,6,"Oct 4, 1980",Minnesota,49,Northwestern,21,1
+280,6,"Oct 4, 1980",Mississippi State,28,Illinois,21,1
+281,6,"Oct 4, 1980",Navy,21,Boston College,0,0
+282,6,"Oct 4, 1980",UNLV,36,Cal State Fullerton,17,0
+283,6,"Oct 4, 1980",New Mexico,24,Wyoming,21,1
+284,6,"Oct 4, 1980",North Carolina,33,Georgia Tech,0,0
+285,6,"Oct 4, 1980",North Texas,22,Louisiana,20,0
+286,6,"Oct 4, 1980",Northern Illinois,20,Southern Illinois,17,1
+287,6,"Oct 4, 1980",Notre Dame,26,Michigan State,21,1
+288,6,"Oct 4, 1980",Oklahoma,82,Colorado,42,1
+289,6,"Oct 4, 1980",Pacific,24,Washington State,22,1
+290,6,"Oct 4, 1980",Penn State,29,Missouri,21,1
+291,6,"Oct 4, 1980",Pennsylvania,24,Columbia,13,0
+292,6,"Oct 4, 1980",Maryland,9,Pitt,38,1
+293,6,"Oct 4, 1980",Miami (OH),3,Purdue,28,1
+294,6,"Oct 4, 1980",Rutgers,44,Cornell,3,1
+295,6,"Oct 4, 1980",South Carolina,30,NC State,10,0
+296,6,"Oct 4, 1980",USC,23,Arizona State,21,0
+297,6,"Oct 4, 1980",SMU,31,Tulane,21,1
+298,6,"Oct 4, 1980",Southern Miss,28,Ole Miss,22,0
+299,6,"Oct 4, 1980",Stanford,35,San Jose State,21,0
+300,6,"Oct 4, 1980",Boston University,6,Temple,53,1
+301,6,"Oct 4, 1980",Tennessee State,35,Long Beach State,18,1
+302,6,"Oct 4, 1980",Texas,41,Rice,28,1
+303,6,"Oct 4, 1980",Texas A&M,41,Texas Tech,21,0
+304,6,"Oct 4, 1980",UTEP,34,Hawaii,14,1
+305,6,"Oct 4, 1980",Tulsa,3,Kansas State,0,0
+306,6,"Oct 4, 1980",UCLA,17,Ohio State,0,1
+307,6,"Oct 4, 1980",Utah,23,Utah State,19,1
+308,6,"Oct 4, 1980",Cincinnati,6,Villanova,23,1
+309,6,"Oct 4, 1980",William & Mary,7,Wake Forest,27,0
+310,6,"Oct 4, 1980",Washington,24,Oklahoma State,18,1
+311,6,"Oct 4, 1980",West Texas State,17,New Mexico State,15,0
+312,6,"Oct 4, 1980",West Virginia,45,Virginia,21,0
+313,6,"Oct 4, 1980",Western Carolina,24,Middle Tennessee,10,1
+314,6,"Oct 4, 1980",Wichita State,46,Indiana State,20,0
+315,6,"Oct 4, 1980",Wisconsin,35,San Diego State,12,0
+316,6,"Oct 4, 1980",Yale,17,Air Force,16,0
+317,7,"Oct 11, 1980",Air Force,21,Navy,20,0
+318,7,"Oct 11, 1980",Akron,21,Eastern Michigan,10,0
+319,7,"Oct 11, 1980",Alabama,17,Rutgers,13,1
+320,7,"Oct 11, 1980",Arizona State,27,Washington State,21,0
+321,7,"Oct 11, 1980",Wichita State,7,Arkansas,27,1
+322,7,"Oct 11, 1980",Baylor,32,SMU,28,0
+323,7,"Oct 11, 1980",Yale,9,Boston College,27,1
+324,7,"Oct 11, 1980",Toledo,6,Bowling Green,17,0
+325,7,"Oct 11, 1980",BYU,52,Wyoming,17,0
+326,7,"Oct 11, 1980",Brown,42,Pennsylvania,22,0
+327,7,"Oct 11, 1980",Oregon,6,California,31,1
+328,7,"Oct 11, 1980",Chattanooga,55,Virginia Military Institute,10,1
+329,7,"Oct 11, 1980",Citadel,28,Western Carolina,21,1
+330,7,"Oct 11, 1980",Clemson,27,Virginia,24,1
+331,7,"Oct 11, 1980",Holy Cross,7,Colgate,38,1
+332,7,"Oct 11, 1980",Colorado State,31,New Mexico,26,1
+333,7,"Oct 11, 1980",Drake,41,Colorado,22,1
+334,7,"Oct 11, 1980",East Carolina,24,Richmond,22,1
+335,7,"Oct 11, 1980",Florida State,36,Pitt,22,0
+336,7,"Oct 11, 1980",Furman,33,East Tennessee State,21,1
+337,7,"Oct 11, 1980",Georgia,28,Ole Miss,21,0
+338,7,"Oct 11, 1980",Harvard,20,Cornell,12,0
+339,7,"Oct 11, 1980",Hawaii,16,West Virginia,13,0
+340,7,"Oct 11, 1980",Texas A&M,7,Houston,17,1
+341,7,"Oct 11, 1980",Illinois,20,Iowa,14,1
+342,7,"Oct 11, 1980",Illinois State,28,Northern Illinois,18,1
+343,7,"Oct 11, 1980",Indiana,24,Wisconsin,0,0
+344,7,"Oct 11, 1980",Southern Illinois,6,Indiana State,19,1
+345,7,"Oct 11, 1980",Kansas State,7,Iowa State,31,1
+346,7,"Oct 11, 1980",Army,24,Lehigh,24,0
+347,7,"Oct 11, 1980",Long Beach State,17,Pacific,12,1
+348,7,"Oct 11, 1980",Louisiana,3,Arkansas State,0,0
+349,7,"Oct 11, 1980",LSU,21,Auburn,17,0
+350,7,"Oct 11, 1980",Lamar,7,Louisiana Tech,16,1
+351,7,"Oct 11, 1980",Louisville,38,Memphis,14,0
+352,7,"Oct 11, 1980",McNeese State,48,Louisiana-Monroe,28,1
+353,7,"Oct 11, 1980",Marshall,6,Miami (OH),34,1
+354,7,"Oct 11, 1980",Michigan,27,Michigan State,23,0
+355,7,"Oct 11, 1980",Oklahoma State,7,Missouri,30,0
+356,7,"Oct 11, 1980",Nebraska,54,Kansas,0,1
+357,7,"Oct 11, 1980",UNLV,28,San Diego State,17,1
+358,7,"Oct 11, 1980",Wake Forest,9,North Carolina,27,0
+359,7,"Oct 11, 1980",NC State,17,Appalachian State,14,0
+360,7,"Oct 11, 1980",Notre Dame,32,Miami,14,0
+361,7,"Oct 11, 1980",Central Michigan,9,Ohio,24,1
+362,7,"Oct 11, 1980",Ohio State,63,Northwestern,0,1
+363,7,"Oct 11, 1980",Penn State,24,Maryland,10,1
+364,7,"Oct 11, 1980",Princeton,31,Columbia,19,1
+365,7,"Oct 11, 1980",Minnesota,7,Purdue,21,1
+366,7,"Oct 11, 1980",Rice,28,TCU,24,1
+367,7,"Oct 11, 1980",San Jose State,26,Fresno State,14,0
+368,7,"Oct 11, 1980",Duke,7,South Carolina,20,1
+369,7,"Oct 11, 1980",USC,27,Arizona,10,1
+370,7,"Oct 11, 1980",Southern Miss,42,Mississippi State,14,1
+371,7,"Oct 11, 1980",Temple,7,Syracuse,31,1
+372,7,"Oct 11, 1980",Tennessee,23,Georgia Tech,10,1
+373,7,"Oct 11, 1980",Texas,20,Oklahoma,13,0
+374,7,"Oct 11, 1980",Tulane,43,Vanderbilt,21,1
+375,7,"Oct 11, 1980",Tulsa,28,North Texas,27,0
+376,7,"Oct 11, 1980",UCLA,35,Stanford,21,0
+377,7,"Oct 11, 1980",UTEP,7,Utah,31,0
+378,7,"Oct 11, 1980",Utah State,28,Cal State Fullerton,17,1
+379,7,"Oct 11, 1980",Rhode Island,7,Virginia Tech,34,1
+380,7,"Oct 11, 1980",Oregon State,6,Washington,41,0
+381,7,"Oct 11, 1980",West Texas State,38,Texas-Arlington,26,1
+382,7,"Oct 11, 1980",Western Michigan,28,Kent State,21,1
+383,7,"Oct 11, 1980",William & Mary,17,Dartmouth,14,0
+384,8,"Oct 18, 1980",Alabama,27,Tennessee,0,1
+385,8,"Oct 18, 1980",Appalachian State,57,Lenoir-Rhyne,25,1
+386,8,"Oct 18, 1980",Auburn,17,Georgia Tech,14,0
+387,8,"Oct 18, 1980",Ball State,26,Eastern Michigan,0,1
+388,8,"Oct 18, 1980",Texas A&M,7,Baylor,46,0
+389,8,"Oct 18, 1980",Boise State,26,Cal State Fullerton,11,0
+390,8,"Oct 18, 1980",Kent State,3,Bowling Green,24,1
+391,8,"Oct 18, 1980",BYU,70,Utah State,46,1
+392,8,"Oct 18, 1980",Brown,32,Cornell,25,1
+393,8,"Oct 18, 1980",Oregon State,6,California,27,1
+394,8,"Oct 18, 1980",Chattanooga,21,Marshall,11,1
+395,8,"Oct 18, 1980",Citadel,37,Newberry,0,0
+396,8,"Oct 18, 1980",San Diego State,7,Colorado State,26,0
+397,8,"Oct 18, 1980",Connecticut,18,Holy Cross,17,1
+398,8,"Oct 18, 1980",Dartmouth,30,Harvard,12,0
+399,8,"Oct 18, 1980",Drake,27,West Texas State,21,0
+400,8,"Oct 18, 1980",Duke,34,Clemson,17,1
+401,8,"Oct 18, 1980",East Carolina,24,Western Carolina,14,1
+402,8,"Oct 18, 1980",East Tennessee State,6,Eastern Kentucky,25,1
+403,8,"Oct 18, 1980",Ole Miss,3,Florida,15,0
+404,8,"Oct 18, 1980",Boston College,7,Florida State,41,1
+405,8,"Oct 18, 1980",Pacific,3,Fresno State,27,1
+406,8,"Oct 18, 1980",Georgia,41,Vanderbilt,0,0
+407,8,"Oct 18, 1980",Hawaii,31,New Mexico,14,1
+408,8,"Oct 18, 1980",Houston,13,SMU,11,1
+409,8,"Oct 18, 1980",Northwestern,3,Iowa,25,1
+410,8,"Oct 18, 1980",Kansas,28,Iowa State,17,0
+411,8,"Oct 18, 1980",Lafayette,3,Pennsylvania,0,0
+412,8,"Oct 18, 1980",Long Beach State,23,San Jose State,21,1
+413,8,"Oct 18, 1980",LSU,17,Kentucky,10,1
+414,8,"Oct 18, 1980",Louisiana Tech,27,Northwestern State,23,1
+415,8,"Oct 18, 1980",Lamar,6,Louisiana-Monroe,28,0
+416,8,"Oct 18, 1980",Louisville,27,Indiana State,17,0
+417,8,"Oct 18, 1980",Maryland,11,Wake Forest,10,0
+418,8,"Oct 18, 1980",Michigan,37,Minnesota,14,1
+419,8,"Oct 18, 1980",Mississippi State,34,Miami,31,1
+420,8,"Oct 18, 1980",Colorado,7,Missouri,45,1
+421,8,"Oct 18, 1980",Navy,24,Villanova,15,0
+422,8,"Oct 18, 1980",Oklahoma State,7,Nebraska,48,1
+423,8,"Oct 18, 1980",UNLV,53,UTEP,14,0
+424,8,"Oct 18, 1980",New Mexico State,30,Texas-Arlington,10,1
+425,8,"Oct 18, 1980",NC State,8,North Carolina,28,1
+426,8,"Oct 18, 1980",North Texas,29,Memphis,10,1
+427,8,"Oct 18, 1980",Northern Illinois,21,Central Michigan,0,0
+428,8,"Oct 18, 1980",Notre Dame,30,Army,3,0
+429,8,"Oct 18, 1980",Miami (OH),7,Ohio,17,1
+430,8,"Oct 18, 1980",Ohio State,27,Indiana,17,0
+431,8,"Oct 18, 1980",Oklahoma,35,Kansas State,21,0
+432,8,"Oct 18, 1980",Syracuse,7,Penn State,24,1
+433,8,"Oct 18, 1980",Pitt,42,West Virginia,14,0
+434,8,"Oct 18, 1980",Princeton,14,Colgate,10,0
+435,8,"Oct 18, 1980",Purdue,45,Illinois,20,1
+436,8,"Oct 18, 1980",Cincinnati,7,South Carolina,49,1
+437,8,"Oct 18, 1980",Oregon,7,USC,7,0
+438,8,"Oct 18, 1980",Southern Illinois,42,Illinois State,0,1
+439,8,"Oct 18, 1980",Southern Miss,35,Arkansas State,0,0
+440,8,"Oct 18, 1980",Akron,7,Temple,16,1
+441,8,"Oct 18, 1980",Rice,3,Texas Tech,10,0
+442,8,"Oct 18, 1980",Air Force,7,Tulane,28,1
+443,8,"Oct 18, 1980",Tulsa,23,TCU,17,1
+444,8,"Oct 18, 1980",Virginia Military Institute,22,Richmond,17,1
+445,8,"Oct 18, 1980",Virginia Tech,30,Virginia,0,0
+446,8,"Oct 18, 1980",Washington,27,Stanford,24,1
+447,8,"Oct 18, 1980",Washington State,38,Arizona,14,1
+448,8,"Oct 18, 1980",Toledo,7,Western Michigan,17,1
+449,8,"Oct 18, 1980",William & Mary,21,Rutgers,18,1
+450,8,"Oct 18, 1980",Michigan State,7,Wisconsin,17,0
+451,8,"Oct 18, 1980",Wyoming,24,Utah,21,0
+452,8,"Oct 18, 1980",Yale,30,Columbia,10,0
+453,9,"Oct 25, 1980",Southern Miss,7,Alabama,42,1
+454,9,"Oct 25, 1980",Pacific,9,Arizona State,37,1
+455,9,"Oct 25, 1980",TCU,6,Baylor,21,0
+456,9,"Oct 25, 1980",Boston College,30,Army,14,0
+457,9,"Oct 25, 1980",Hawaii,7,BYU,34,0
+458,9,"Oct 25, 1980",Holy Cross,3,Brown,21,1
+459,9,"Oct 25, 1980",Cal State Fullerton,17,Nevada,16,1
+460,9,"Oct 25, 1980",Central Michigan,17,Northwestern State,0,0
+461,9,"Oct 25, 1980",Chattanooga,26,East Tennessee State,14,0
+462,9,"Oct 25, 1980",Citadel,35,Wofford,3,0
+463,9,"Oct 25, 1980",Colgate,35,Columbia,22,0
+464,9,"Oct 25, 1980",Utah,21,Colorado State,21,0
+465,9,"Oct 25, 1980",Cornell,7,Dartmouth,3,0
+466,9,"Oct 25, 1980",Delaware,7,William & Mary,3,1
+467,9,"Oct 25, 1980",Drake,28,New Mexico State,22,1
+468,9,"Oct 25, 1980",Florida,13,Louisville,0,0
+469,9,"Oct 25, 1980",Memphis,3,Florida State,24,0
+470,9,"Oct 25, 1980",Furman,21,Appalachian State,20,1
+471,9,"Oct 25, 1980",Georgia,27,Kentucky,0,1
+472,9,"Oct 25, 1980",Houston,24,Arkansas,17,0
+473,9,"Oct 25, 1980",Illinois State,9,Indiana State,0,0
+474,9,"Oct 25, 1980",Indiana,35,Northwestern,20,1
+475,9,"Oct 25, 1980",Oklahoma State,14,Kansas,14,0
+476,9,"Oct 25, 1980",Kent State,35,Eastern Michigan,12,0
+477,9,"Oct 25, 1980",Long Beach State,31,Oregon State,21,1
+478,9,"Oct 25, 1980",Louisiana,38,Lamar,10,0
+479,9,"Oct 25, 1980",Western Carolina,13,Marshall,13,0
+480,9,"Oct 25, 1980",Maryland,17,Duke,14,1
+481,9,"Oct 25, 1980",McNeese State,36,Arkansas State,28,1
+482,9,"Oct 25, 1980",Miami (OH),7,Bowling Green,3,0
+483,9,"Oct 25, 1980",Michigan,45,Illinois,14,0
+484,9,"Oct 25, 1980",Iowa,6,Minnesota,24,1
+485,9,"Oct 25, 1980",Ole Miss,27,Vanderbilt,14,1
+486,9,"Oct 25, 1980",Mississippi State,24,Auburn,21,0
+487,9,"Oct 25, 1980",Kansas State,3,Missouri,13,0
+488,9,"Oct 25, 1980",Navy,24,Washington,10,1
+489,9,"Oct 25, 1980",Colorado,7,Nebraska,45,0
+490,9,"Oct 25, 1980",New Mexico,22,UTEP,21,1
+491,9,"Oct 25, 1980",North Carolina,31,East Carolina,3,0
+492,9,"Oct 25, 1980",NC State,24,Clemson,20,0
+493,9,"Oct 25, 1980",Northern Illinois,17,Wichita State,14,1
+494,9,"Oct 25, 1980",Arizona,3,Notre Dame,20,0
+495,9,"Oct 25, 1980",Toledo,9,Ohio,24,1
+496,9,"Oct 25, 1980",Ohio State,21,Wisconsin,0,1
+497,9,"Oct 25, 1980",Iowa State,7,Oklahoma,42,0
+498,9,"Oct 25, 1980",UNLV,9,Oregon,32,1
+499,9,"Oct 25, 1980",Penn State,20,West Virginia,15,1
+500,9,"Oct 25, 1980",Tennessee,6,Pitt,30,0
+501,9,"Oct 25, 1980",Princeton,7,Harvard,3,0
+502,9,"Oct 25, 1980",Purdue,36,Michigan State,25,0
+503,9,"Oct 25, 1980",Texas A&M,6,Rice,10,0
+504,9,"Oct 25, 1980",Virginia Tech,7,Richmond,18,1
+505,9,"Oct 25, 1980",San Jose State,32,Idaho,10,0
+506,9,"Oct 25, 1980",Southeastern Louisiana,55,Louisiana-Monroe,30,1
+507,9,"Oct 25, 1980",Texas,6,SMU,20,0
+508,9,"Oct 25, 1980",Stanford,48,Washington State,34,1
+509,9,"Oct 25, 1980",Rutgers,9,Syracuse,17,1
+510,9,"Oct 25, 1980",Cincinnati,7,Temple,23,1
+511,9,"Oct 25, 1980",Texas-Arlington,21,Louisiana Tech,20,0
+512,9,"Oct 25, 1980",Tulane,31,Georgia Tech,14,1
+513,9,"Oct 25, 1980",Tulsa,44,West Texas State,24,0
+514,9,"Oct 25, 1980",California,9,UCLA,32,0
+515,9,"Oct 25, 1980",Utah State,14,Fresno State,0,1
+516,9,"Oct 25, 1980",Virginia Military Institute,6,Villanova,17,0
+517,9,"Oct 25, 1980",Virginia,24,Wake Forest,21,1
+518,9,"Oct 25, 1980",Western Michigan,17,Ball State,15,1
+519,9,"Oct 25, 1980",San Diego State,9,Wyoming,34,1
+520,9,"Oct 25, 1980",Yale,8,Pennsylvania,0,1
+521,10,"Nov 1, 1980",Appalachian State,27,Western Carolina,24,0
+522,10,"Nov 1, 1980",Arizona,23,UCLA,17,0
+523,10,"Nov 1, 1980",Boston College,23,Air Force,0,1
+524,10,"Nov 1, 1980",Boston University,38,Virginia Military Institute,22,0
+525,10,"Nov 1, 1980",Bowling Green,24,Ball State,21,0
+526,10,"Nov 1, 1980",BYU,83,UTEP,7,0
+527,10,"Nov 1, 1980",Bucknell,33,Cornell,16,0
+528,10,"Nov 1, 1980",Central Michigan,51,Eastern Michigan,15,1
+529,10,"Nov 1, 1980",Clemson,35,Wake Forest,33,1
+530,10,"Nov 1, 1980",Colgate,44,Lafayette,0,0
+531,10,"Nov 1, 1980",Iowa State,9,Colorado,17,1
+532,10,"Nov 1, 1980",Colorado State,28,Wyoming,25,0
+533,10,"Nov 1, 1980",Villanova,7,Delaware,17,1
+534,10,"Nov 1, 1980",Drake,38,Wichita State,15,0
+535,10,"Nov 1, 1980",Duke,17,Georgia Tech,12,0
+536,10,"Nov 1, 1980",East Carolina,31,William & Mary,23,0
+537,10,"Nov 1, 1980",Florida,21,Auburn,10,0
+538,10,"Nov 1, 1980",Florida State,45,Tulsa,2,0
+539,10,"Nov 1, 1980",Furman,35,Marshall,0,1
+540,10,"Nov 1, 1980",Georgia,13,South Carolina,10,0
+541,10,"Nov 1, 1980",Harvard,17,Brown,16,0
+542,10,"Nov 1, 1980",Hawaii,31,Cal State Fullerton,21,0
+543,10,"Nov 1, 1980",Holy Cross,26,Columbia,0,1
+544,10,"Nov 1, 1980",TCU,5,Houston,37,1
+545,10,"Nov 1, 1980",Indiana State,37,West Texas State,18,0
+546,10,"Nov 1, 1980",Iowa,22,Wisconsin,13,0
+547,10,"Nov 1, 1980",Kansas,20,Kansas State,18,1
+548,10,"Nov 1, 1980",Fresno State,9,Long Beach State,34,0
+549,10,"Nov 1, 1980",Southern Illinois,3,Louisiana,21,1
+550,10,"Nov 1, 1980",LSU,38,Ole Miss,16,0
+551,10,"Nov 1, 1980",Louisiana Tech,28,Arkansas State,0,1
+552,10,"Nov 1, 1980",Louisiana-Monroe,29,Nicholls State,28,1
+553,10,"Nov 1, 1980",Maryland,24,NC State,0,0
+554,10,"Nov 1, 1980",McNeese State,31,Texas-Arlington,17,0
+555,10,"Nov 1, 1980",Michigan,35,Indiana,0,1
+556,10,"Nov 1, 1980",Minnesota,21,Illinois,18,1
+557,10,"Nov 1, 1980",Mississippi State,6,Alabama,3,0
+558,10,"Nov 1, 1980",Nebraska,38,Missouri,16,0
+559,10,"Nov 1, 1980",UNLV,72,New Mexico,7,1
+560,10,"Nov 1, 1980",North Texas,38,New Mexico State,28,1
+561,10,"Nov 1, 1980",Northern Illinois,35,Kent State,14,1
+562,10,"Nov 1, 1980",Notre Dame,33,Navy,0,0
+563,10,"Nov 1, 1980",Ohio State,48,Michigan State,16,1
+564,10,"Nov 1, 1980",North Carolina,7,Oklahoma,41,1
+565,10,"Nov 1, 1980",San Diego State,6,Oklahoma State,15,1
+566,10,"Nov 1, 1980",Oregon,20,Washington State,10,0
+567,10,"Nov 1, 1980",Penn State,27,Miami,12,0
+568,10,"Nov 1, 1980",Syracuse,6,Pitt,43,0
+569,10,"Nov 1, 1980",Princeton,28,Pennsylvania,21,0
+570,10,"Nov 1, 1980",Purdue,52,Northwestern,31,1
+571,10,"Nov 1, 1980",Rice,17,Arkansas,16,1
+572,10,"Nov 1, 1980",Richmond,24,Cincinnati,10,0
+573,10,"Nov 1, 1980",Rutgers,37,Army,21,1
+574,10,"Nov 1, 1980",San Jose State,30,Baylor,22,1
+575,10,"Nov 1, 1980",California,7,USC,60,1
+576,10,"Nov 1, 1980",SMU,27,Texas A&M,0,0
+577,10,"Nov 1, 1980",Southern Miss,36,Lamar,10,0
+578,10,"Nov 1, 1980",Stanford,54,Oregon State,13,0
+579,10,"Nov 1, 1980",Temple,17,Louisville,12,1
+580,10,"Nov 1, 1980",Texas Tech,24,Texas,20,0
+581,10,"Nov 1, 1980",Toledo,17,Miami (OH),14,0
+582,10,"Nov 1, 1980",Tulane,24,Kentucky,22,0
+583,10,"Nov 1, 1980",Pacific,7,Utah State,21,1
+584,10,"Nov 1, 1980",Vanderbilt,14,Memphis,10,1
+585,10,"Nov 1, 1980",Virginia,16,Tennessee,13,1
+586,10,"Nov 1, 1980",Virginia Tech,34,West Virginia,11,0
+587,10,"Nov 1, 1980",Washington,25,Arizona State,0,0
+588,10,"Nov 1, 1980",Western Illinois,27,Illinois State,0,0
+589,10,"Nov 1, 1980",Ohio,7,Western Michigan,13,1
+590,10,"Nov 1, 1980",Dartmouth,7,Yale,35,0
+591,11,"Nov 8, 1980",LSU,7,Alabama,28,1
+592,11,"Nov 8, 1980",Virginia Military Institute,16,Appalachian State,16,0
+593,11,"Nov 8, 1980",California,6,Arizona State,34,1
+594,11,"Nov 8, 1980",Army,47,Air Force,24,0
+595,11,"Nov 8, 1980",Auburn,31,Southern Miss,0,0
+596,11,"Nov 8, 1980",Kent State,7,Ball State,34,1
+597,11,"Nov 8, 1980",Baylor,42,Arkansas,15,0
+598,11,"Nov 8, 1980",BYU,41,North Texas,23,0
+599,11,"Nov 8, 1980",Central Michigan,32,Bowling Green,10,0
+600,11,"Nov 8, 1980",Chattanooga,39,Western Carolina,14,0
+601,11,"Nov 8, 1980",Cincinnati,14,Memphis,10,0
+602,11,"Nov 8, 1980",UTEP,7,Colorado State,37,1
+603,11,"Nov 8, 1980",Yale,6,Cornell,24,0
+604,11,"Nov 8, 1980",Dartmouth,48,Columbia,0,0
+605,11,"Nov 8, 1980",Drake,17,Nebraska-Omaha,0,0
+606,11,"Nov 8, 1980",East Tennessee State,28,James Madison,23,1
+607,11,"Nov 8, 1980",Virginia Tech,7,Florida State,31,1
+608,11,"Nov 8, 1980",Fresno State,31,Southern Illinois,14,1
+609,11,"Nov 8, 1980",Davidson,7,Furman,21,1
+610,11,"Nov 8, 1980",Georgia,26,Florida,21,0
+611,11,"Nov 8, 1980",Harvard,24,William & Mary,13,0
+612,11,"Nov 8, 1980",San Diego State,6,Hawaii,31,1
+613,11,"Nov 8, 1980",Eastern Michigan,7,Illinois State,15,0
+614,11,"Nov 8, 1980",Kentucky,31,Vanderbilt,10,0
+615,11,"Nov 8, 1980",Lamar,23,Arkansas State,22,0
+616,11,"Nov 8, 1980",Long Beach State,20,Cal State Fullerton,10,1
+617,11,"Nov 8, 1980",Louisiana,30,Texas-Arlington,13,1
+618,11,"Nov 8, 1980",Louisiana-Monroe,40,Mississippi College,22,0
+619,11,"Nov 8, 1980",Massachusetts,17,Holy Cross,13,1
+620,11,"Nov 8, 1980",Louisiana Tech,8,McNeese State,45,0
+621,11,"Nov 8, 1980",Miami,23,East Carolina,10,0
+622,11,"Nov 8, 1980",Miami (OH),34,Western Michigan,24,0
+623,11,"Nov 8, 1980",Michigan,24,Wisconsin,0,1
+624,11,"Nov 8, 1980",Michigan State,42,Northwestern,10,0
+625,11,"Nov 8, 1980",Indiana,7,Minnesota,31,1
+626,11,"Nov 8, 1980",Missouri,14,Iowa State,10,0
+627,11,"Nov 8, 1980",Navy,6,Syracuse,3,1
+628,11,"Nov 8, 1980",Kansas State,8,Nebraska,55,1
+629,11,"Nov 8, 1980",UNLV,33,Wyoming,26,0
+630,11,"Nov 8, 1980",Wichita State,14,New Mexico State,14,0
+631,11,"Nov 8, 1980",North Carolina,24,Clemson,19,1
+632,11,"Nov 8, 1980",Georgia Tech,3,Notre Dame,3,0
+633,11,"Nov 8, 1980",Ohio,28,Marshall,20,0
+634,11,"Nov 8, 1980",Ohio State,49,Illinois,42,0
+635,11,"Nov 8, 1980",Oklahoma,21,Kansas,19,1
+636,11,"Nov 8, 1980",Colorado,7,Oklahoma State,42,1
+637,11,"Nov 8, 1980",Oregon,20,UCLA,14,1
+638,11,"Nov 8, 1980",Penn State,21,NC State,13,0
+639,11,"Nov 8, 1980",Pitt,41,Louisville,23,0
+640,11,"Nov 8, 1980",Maine,7,Princeton,24,1
+641,11,"Nov 8, 1980",Purdue,58,Iowa,13,0
+642,11,"Nov 8, 1980",Rutgers,19,Virginia,17,1
+643,11,"Nov 8, 1980",San Jose State,28,Pacific,23,1
+644,11,"Nov 8, 1980",South Carolina,45,Citadel,24,0
+645,11,"Nov 8, 1980",Stanford,9,USC,34,0
+646,11,"Nov 8, 1980",SMU,34,Rice,14,1
+647,11,"Nov 8, 1980",Texas,15,Houston,13,0
+648,11,"Nov 8, 1980",TCU,24,Texas Tech,17,0
+649,11,"Nov 8, 1980",Northern Illinois,6,Toledo,13,1
+650,11,"Nov 8, 1980",Indiana State,7,Tulsa,30,1
+651,11,"Nov 8, 1980",Utah,49,New Mexico,21,0
+652,11,"Nov 8, 1980",Utah State,50,Weber State,13,1
+653,11,"Nov 8, 1980",Villanova,34,Pennsylvania,3,1
+654,11,"Nov 8, 1980",Wake Forest,27,Duke,24,1
+655,11,"Nov 8, 1980",Washington,45,Arizona,22,0
+656,11,"Nov 8, 1980",Oregon State,7,Washington State,28,1
+657,11,"Nov 8, 1980",West Virginia,41,Temple,28,1
+658,12,"Nov 15, 1980",Wyoming,7,Air Force,25,1
+659,12,"Nov 15, 1980",Arizona,63,Pacific,35,0
+660,12,"Nov 15, 1980",Arkansas,27,Texas A&M,24,0
+661,12,"Nov 15, 1980",Ball State,37,Ohio,18,0
+662,12,"Nov 15, 1980",Rice,6,Baylor,16,0
+663,12,"Nov 15, 1980",Boston College,27,Syracuse,16,0
+664,12,"Nov 15, 1980",BYU,45,Colorado State,14,0
+665,12,"Nov 15, 1980",Central Michigan,22,Western Michigan,10,1
+666,12,"Nov 15, 1980",Chattanooga,27,Illinois State,19,0
+667,12,"Nov 15, 1980",Citadel,31,Davidson,13,0
+668,12,"Nov 15, 1980",Colgate,17,Bucknell,14,1
+669,12,"Nov 15, 1980",Cornell,24,Columbia,0,1
+670,12,"Nov 15, 1980",Dartmouth,28,Brown,24,1
+671,12,"Nov 15, 1980",Eastern Kentucky,28,East Carolina,16,1
+672,12,"Nov 15, 1980",Florida,17,Kentucky,15,1
+673,12,"Nov 15, 1980",Fresno State,21,Montana State,14,0
+674,12,"Nov 15, 1980",Georgia,31,Auburn,21,1
+675,12,"Nov 15, 1980",Harvard,28,Pennsylvania,17,1
+676,12,"Nov 15, 1980",Hawaii,24,UNLV,19,1
+677,12,"Nov 15, 1980",Indiana,26,Illinois,24,0
+678,12,"Nov 15, 1980",Indiana State,33,New Mexico State,28,0
+679,12,"Nov 15, 1980",Kansas,42,Colorado,3,1
+680,12,"Nov 15, 1980",Long Beach State,28,Utah State,27,0
+681,12,"Nov 15, 1980",Louisiana Tech,9,Louisiana,27,1
+682,12,"Nov 15, 1980",Louisville,20,Cincinnati,0,0
+683,12,"Nov 15, 1980",Clemson,7,Maryland,34,1
+684,12,"Nov 15, 1980",McNeese State,35,Lamar,3,0
+685,12,"Nov 15, 1980",Miami,24,Vanderbilt,17,1
+686,12,"Nov 15, 1980",Miami (OH),49,Kent State,14,0
+687,12,"Nov 15, 1980",Michigan,26,Purdue,0,0
+688,12,"Nov 15, 1980",Michigan State,30,Minnesota,12,1
+689,12,"Nov 15, 1980",Tennessee,9,Ole Miss,20,1
+690,12,"Nov 15, 1980",Mississippi State,55,LSU,31,0
+691,12,"Nov 15, 1980",Georgia Tech,8,Navy,19,0
+692,12,"Nov 15, 1980",Nebraska,35,Iowa State,0,1
+693,12,"Nov 15, 1980",Virginia,3,North Carolina,26,1
+694,12,"Nov 15, 1980",NC State,38,Duke,21,0
+695,12,"Nov 15, 1980",North Texas,26,Louisiana-Monroe,18,0
+696,12,"Nov 15, 1980",Notre Dame,7,Alabama,0,1
+697,12,"Nov 15, 1980",Iowa,7,Ohio State,41,0
+698,12,"Nov 15, 1980",Missouri,7,Oklahoma,17,1
+699,12,"Nov 15, 1980",Oklahoma State,10,Kansas State,0,1
+700,12,"Nov 15, 1980",Oregon,40,Oregon State,21,1
+701,12,"Nov 15, 1980",Temple,7,Penn State,50,0
+702,12,"Nov 15, 1980",Army,7,Pitt,45,0
+703,12,"Nov 15, 1980",UTEP,7,San Diego State,28,0
+704,12,"Nov 15, 1980",San Jose State,33,Cal State Fullerton,21,0
+705,12,"Nov 15, 1980",South Carolina,39,Wake Forest,38,0
+706,12,"Nov 15, 1980",Southern Miss,33,Richmond,12,0
+707,12,"Nov 15, 1980",Texas,51,TCU,26,1
+708,12,"Nov 15, 1980",Texas Tech,14,SMU,0,0
+709,12,"Nov 15, 1980",Texas-Arlington,36,Arkansas State,14,0
+710,12,"Nov 15, 1980",Toledo,38,Marshall,10,1
+711,12,"Nov 15, 1980",Tulane,21,Memphis,16,0
+712,12,"Nov 15, 1980",Southern Illinois,7,Tulsa,41,0
+713,12,"Nov 15, 1980",UCLA,23,Arizona State,14,1
+714,12,"Nov 15, 1980",Villanova,45,Holy Cross,13,1
+715,12,"Nov 15, 1980",Virginia Military Institute,6,Virginia Tech,21,1
+716,12,"Nov 15, 1980",Washington,20,USC,10,1
+717,12,"Nov 15, 1980",Washington State,31,California,17,1
+718,12,"Nov 15, 1980",West Virginia,24,Rutgers,15,1
+719,12,"Nov 15, 1980",Western Carolina,20,East Tennessee State,17,1
+720,12,"Nov 15, 1980",Wichita State,20,West Texas State,18,1
+721,12,"Nov 15, 1980",Wisconsin,39,Northwestern,19,1
+722,12,"Nov 15, 1980",Furman,14,Wofford,14,0
+723,12,"Nov 15, 1980",Yale,25,Princeton,13,0
+724,13,"Nov 22, 1980",Oregon State,7,Arizona,24,0
+725,13,"Nov 22, 1980",Arizona State,42,Oregon,37,0
+726,13,"Nov 22, 1980",Austin Peay,9,Arkansas State,14,1
+727,13,"Nov 22, 1980",Ball State,28,Indiana State,21,0
+728,13,"Nov 22, 1980",Baylor,16,Texas,0,0
+729,13,"Nov 22, 1980",Boston College,13,Massachusetts,12,1
+730,13,"Nov 22, 1980",Utah,6,BYU,56,0
+731,13,"Nov 22, 1980",Brown,31,Columbia,13,1
+732,13,"Nov 22, 1980",California,28,Stanford,23,0
+733,13,"Nov 22, 1980",Cincinnati,23,Miami (OH),13,0
+734,13,"Nov 22, 1980",South Carolina,6,Clemson,27,1
+735,13,"Nov 22, 1980",Pennsylvania,9,Cornell,31,1
+736,13,"Nov 22, 1980",East Tennessee State,21,Marshall,16,0
+737,13,"Nov 22, 1980",Furman,28,Citadel,15,0
+738,13,"Nov 22, 1980",Texas Tech,7,Houston,34,0
+739,13,"Nov 22, 1980",Iowa,41,Michigan State,0,1
+740,13,"Nov 22, 1980",Iowa State,23,Oklahoma State,21,1
+741,13,"Nov 22, 1980",Kansas State,17,Colorado,14,0
+742,13,"Nov 22, 1980",Kent State,34,Toledo,14,0
+743,13,"Nov 22, 1980",Drake,7,Long Beach State,21,1
+744,13,"Nov 22, 1980",Tulane,7,LSU,24,1
+745,13,"Nov 22, 1980",Louisiana-Monroe,19,Louisiana Tech,14,0
+746,13,"Nov 22, 1980",Louisville,6,Southern Miss,3,1
+747,13,"Nov 22, 1980",Maryland,31,Virginia,0,1
+748,13,"Nov 22, 1980",McNeese State,14,Louisiana,0,0
+749,13,"Nov 22, 1980",Memphis,6,Wichita State,0,0
+750,13,"Nov 22, 1980",North Texas,8,Miami,26,1
+751,13,"Nov 22, 1980",Michigan,9,Ohio State,3,1
+752,13,"Nov 22, 1980",Mississippi State,19,Ole Miss,14,0
+753,13,"Nov 22, 1980",Kansas,6,Missouri,31,1
+754,13,"Nov 22, 1980",North Carolina,44,Duke,21,0
+755,13,"Nov 22, 1980",NC State,36,East Carolina,14,0
+756,13,"Nov 22, 1980",Eastern Michigan,6,Northern Illinois,38,1
+757,13,"Nov 22, 1980",Notre Dame,24,Air Force,10,0
+758,13,"Nov 22, 1980",Ohio,21,Bowling Green,20,1
+759,13,"Nov 22, 1980",Oklahoma,21,Nebraska,17,1
+760,13,"Nov 22, 1980",Pacific,32,Cal State Fullerton,26,0
+761,13,"Nov 22, 1980",Princeton,27,Dartmouth,24,0
+762,13,"Nov 22, 1980",Purdue,24,Indiana,23,0
+763,13,"Nov 22, 1980",Richmond,26,William & Mary,14,0
+764,13,"Nov 22, 1980",Rutgers,35,Colgate,13,0
+765,13,"Nov 22, 1980",San Diego State,24,New Mexico,22,0
+766,13,"Nov 22, 1980",West Virginia,7,Syracuse,20,0
+767,13,"Nov 22, 1980",Tennessee,45,Kentucky,14,0
+768,13,"Nov 22, 1980",Texas A&M,13,TCU,10,0
+769,13,"Nov 22, 1980",Texas-Arlington,44,Lamar,27,1
+770,13,"Nov 22, 1980",Tulsa,21,New Mexico State,20,1
+771,13,"Nov 22, 1980",UCLA,20,USC,17,0
+772,13,"Nov 22, 1980",Utah State,44,San Jose State,38,1
+773,13,"Nov 22, 1980",Vanderbilt,31,Chattanooga,29,0
+774,13,"Nov 22, 1980",Temple,7,Villanova,23,1
+775,13,"Nov 22, 1980",Wake Forest,28,Appalachian State,16,0
+776,13,"Nov 22, 1980",Washington,30,Washington State,23,1
+777,13,"Nov 22, 1980",West Texas State,23,Southern Illinois,20,1
+778,13,"Nov 22, 1980",Minnesota,7,Wisconsin,25,1
+779,13,"Nov 22, 1980",UTEP,7,Wyoming,52,0
+780,13,"Nov 22, 1980",Yale,14,Harvard,0,1
+781,13,"Nov 23, 1980",Arkansas,7,SMU,31,1
+782,14,"Nov 28, 1980",Penn State,9,Pitt,14,0
+783,14,"Nov 29, 1980",Alabama,34,Auburn,18,0
+784,14,"Nov 29, 1980",Arizona,7,Arizona State,44,0
+785,14,"Nov 29, 1980",Arkansas,22,Texas Tech,16,0
+786,14,"Nov 29, 1980",Boston College,27,Holy Cross,26,0
+787,14,"Nov 29, 1980",BYU,54,UNLV,14,1
+788,14,"Nov 29, 1980",Brown,9,Rhode Island,3,0
+789,14,"Nov 29, 1980",Georgia,38,Georgia Tech,20,0
+790,14,"Nov 29, 1980",Hawaii,20,Air Force,12,0
+791,14,"Nov 29, 1980",Florida,7,Miami,31,0
+792,14,"Nov 29, 1980",Army,6,Navy,33,1
+793,14,"Nov 29, 1980",Oklahoma,63,Oklahoma State,14,0
+794,14,"Nov 29, 1980",Houston,7,Rice,35,0
+795,14,"Nov 29, 1980",San Diego State,21,Utah,20,0
+796,14,"Nov 29, 1980",Tennessee,51,Vanderbilt,13,1
+797,14,"Nov 29, 1980",Texas A&M,24,Texas,14,1
+798,14,"Nov 30, 1980",UCLA,34,Oregon State,3,0
+799,15,"Dec 6, 1980",Florida State,17,Florida,13,0
+800,15,"Dec 6, 1980",Notre Dame,3,USC,20,1
+801,16,"Dec 13, 1980",Southern Miss,16,McNeese State,14,0
+802,16,"Dec 14, 1980",Houston,35,Navy,0,0
+803,17,"Dec 19, 1980",BYU,46,SMU,45,0
+804,17,"Dec 20, 1980",Florida,35,Maryland,20,0
+805,18,"Dec 26, 1980",Penn State,31,Ohio State,19,0
+806,18,"Dec 27, 1980",Arkansas,34,Tulane,15,0
+807,18,"Dec 27, 1980",Nebraska,31,Mississippi State,17,0
+808,18,"Dec 27, 1980",Purdue,28,Missouri,25,0
+809,19,"Dec 29, 1980",South Carolina,9,Pitt,37,1
+810,20,"Dec 31, 1980",Texas,7,North Carolina,16,1
+811,20,"Jan 1, 1981",Alabama,30,Baylor,2,0
+812,20,"Jan 1, 1981",Georgia,17,Notre Dame,10,0
+813,20,"Jan 1, 1981",Washington,6,Michigan,23,1
+814,20,"Jan 1, 1981",Oklahoma,18,Florida State,17,0
+815,20,"Jan 2, 1981",Miami,20,Virginia Tech,10,0

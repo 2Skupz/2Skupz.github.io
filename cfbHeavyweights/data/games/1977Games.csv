@@ -1,0 +1,867 @@
+0,1,"Sep 2, 1977",Rutgers,7,Penn State,45,0
+1,1,"Sep 3, 1977",Alcorn State,7,Central Michigan,37,1
+2,1,"Sep 3, 1977",Citadel,7,Wofford,0,0
+3,1,"Sep 3, 1977",East Carolina,28,NC State,23,1
+4,1,"Sep 3, 1977",Eastern Michigan,25,Northern Illinois,2,1
+5,1,"Sep 3, 1977",Illinois State,20,Eastern Illinois,0,0
+6,1,"Sep 3, 1977",Alabama State,6,Jackson State,17,1
+7,1,"Sep 3, 1977",Jacksonville State,21,Western Carolina,16,1
+8,1,"Sep 3, 1977",Louisiana,48,Tulsa,21,0
+9,1,"Sep 3, 1977",Ole Miss,7,Memphis,3,0
+10,1,"Sep 3, 1977",Mississippi State,17,North Texas,15,0
+11,1,"Sep 3, 1977",Mississippi Valley State,27,Bishop,10,0
+12,1,"Sep 3, 1977",Southern Illinois,7,New Mexico State,29,1
+13,1,"Sep 3, 1977",Northwestern State,28,Texas-Arlington,24,1
+14,1,"Sep 3, 1977",South Carolina,32,Appalachian State,17,0
+15,1,"Sep 3, 1977",Tuskegee,7,Southern,13,1
+16,1,"Sep 3, 1977",Southern Miss,42,Troy,19,1
+17,1,"Sep 3, 1977",Tennessee State,27,Middle Tennessee,0,0
+18,1,"Sep 3, 1977",Texas Southern,14,Bethune-Cookman,0,0
+19,1,"Sep 3, 1977",Wichita State,14,West Texas State,10,0
+20,1,"Sep 3, 1977",William & Mary,27,Norfolk State,13,0
+21,2,"Sep 10, 1977",Wyoming,0,Air Force,0,0
+22,2,"Sep 10, 1977",Alabama,34,Ole Miss,13,0
+23,2,"Sep 10, 1977",Arkansas,53,New Mexico State,10,0
+24,2,"Sep 10, 1977",Arkansas State,31,Drake,29,1
+25,2,"Sep 10, 1977",Army,34,Massachusetts,10,0
+26,2,"Sep 10, 1977",Auburn,21,Arizona,10,0
+27,2,"Sep 10, 1977",Ball State,43,Toledo,3,1
+28,2,"Sep 10, 1977",Grand Valley State,6,Bowling Green,17,0
+29,2,"Sep 10, 1977",BYU,39,Kansas State,0,0
+30,2,"Sep 10, 1977",California,27,Tennessee,17,1
+31,2,"Sep 10, 1977",Central Michigan,9,Eastern Michigan,3,0
+32,2,"Sep 10, 1977",Western Kentucky,3,Chattanooga,27,0
+33,2,"Sep 10, 1977",Cincinnati,41,Northwestern State,0,0
+34,2,"Sep 10, 1977",Colgate,23,Rutgers,0,0
+35,2,"Sep 10, 1977",Colorado,27,Stanford,21,0
+36,2,"Sep 10, 1977",Pacific,3,Colorado State,20,0
+37,2,"Sep 10, 1977",East Carolina,17,Duke,16,1
+38,2,"Sep 10, 1977",Southern Miss,6,Florida State,35,0
+39,2,"Sep 10, 1977",Georgia,27,Oregon,16,0
+40,2,"Sep 10, 1977",Grambling State,42,Alcorn State,17,1
+41,2,"Sep 10, 1977",Iowa,24,Northwestern,0,0
+42,2,"Sep 10, 1977",Wichita State,9,Iowa State,35,1
+43,2,"Sep 10, 1977",Kent State,33,Illinois State,14,0
+44,2,"Sep 10, 1977",North Carolina,7,Kentucky,10,1
+45,2,"Sep 10, 1977",Louisiana-Monroe,7,Lamar,21,1
+46,2,"Sep 10, 1977",Louisiana,34,Fresno State,13,1
+47,2,"Sep 10, 1977",Louisville,38,Northern Illinois,0,0
+48,2,"Sep 10, 1977",Maryland,21,Clemson,14,1
+49,2,"Sep 10, 1977",Indiana State,7,McNeese State,25,1
+50,2,"Sep 10, 1977",Tulane,9,Memphis,27,1
+51,2,"Sep 10, 1977",Miami (OH),26,Dayton,23,1
+52,2,"Sep 10, 1977",Illinois,9,Michigan,37,0
+53,2,"Sep 10, 1977",Michigan State,19,Purdue,14,0
+54,2,"Sep 10, 1977",Minnesota,10,Western Michigan,0,0
+55,2,"Sep 10, 1977",Mississippi State,27,Washington,18,1
+56,2,"Sep 10, 1977",Mississippi Valley State,55,Lincoln,0,1
+57,2,"Sep 10, 1977",Navy,21,Citadel,2,0
+58,2,"Sep 10, 1977",New Hampshire,27,Holy Cross,14,0
+59,2,"Sep 10, 1977",New Mexico,35,Hawaii,26,1
+60,2,"Sep 10, 1977",NC State,14,Virginia,0,0
+61,2,"Sep 10, 1977",North Texas,41,UTEP,10,1
+62,2,"Sep 10, 1977",Pitt,9,Notre Dame,19,0
+63,2,"Sep 10, 1977",Ohio,49,Marshall,27,1
+64,2,"Sep 10, 1977",Ohio State,10,Miami,0,0
+65,2,"Sep 10, 1977",Oklahoma,25,Vanderbilt,23,0
+66,2,"Sep 10, 1977",Oklahoma State,34,Tulsa,17,1
+67,2,"Sep 10, 1977",Oregon State,24,Syracuse,12,0
+68,2,"Sep 10, 1977",Rice,31,Idaho,10,0
+69,2,"Sep 10, 1977",San Diego State,34,Cal State Fullerton,17,0
+70,2,"Sep 10, 1977",South Carolina,17,Georgia Tech,0,0
+71,2,"Sep 10, 1977",USC,27,Missouri,10,1
+72,2,"Sep 10, 1977",Southern Illinois,24,Temple,20,1
+73,2,"Sep 10, 1977",SMU,45,TCU,21,1
+74,2,"Sep 10, 1977",Jackson State,7,Tennessee State,17,0
+75,2,"Sep 10, 1977",Tennessee Tech,41,Western Carolina,21,0
+76,2,"Sep 10, 1977",Texas,44,Boston College,0,0
+77,2,"Sep 10, 1977",Texas A&M,28,Kansas,14,0
+78,2,"Sep 10, 1977",Texas A&M-Commerce,38,Prairie View A&M,10,1
+79,2,"Sep 10, 1977",Southern,14,Texas Southern,14,0
+80,2,"Sep 10, 1977",Baylor,7,Texas Tech,17,0
+81,2,"Sep 10, 1977",Utah State,22,San Jose State,10,0
+82,2,"Sep 10, 1977",Virginia Military Institute,23,William & Mary,13,0
+83,2,"Sep 10, 1977",Wake Forest,24,Furman,13,0
+84,2,"Sep 10, 1977",Washington State,19,Nebraska,10,1
+85,2,"Sep 10, 1977",West Virginia,36,Richmond,0,0
+86,2,"Sep 10, 1977",Wisconsin,30,Indiana,14,1
+87,2,"Sep 10, 1977",Youngstown State,13,Villanova,10,1
+88,2,"Sep 12, 1977",Houston,17,UCLA,13,0
+89,3,"Sep 17, 1977",Alabama State,7,Alcorn State,15,1
+90,3,"Sep 17, 1977",Arizona State,35,Northwestern,3,0
+91,3,"Sep 17, 1977",Oklahoma State,6,Arkansas,28,1
+92,3,"Sep 17, 1977",Army,27,Virginia Military Institute,14,0
+93,3,"Sep 17, 1977",Kentucky,6,Baylor,21,1
+94,3,"Sep 17, 1977",California,24,Air Force,14,0
+95,3,"Sep 17, 1977",Illinois State,7,Central Michigan,28,0
+96,3,"Sep 17, 1977",Appalachian State,7,Chattanooga,14,0
+97,3,"Sep 17, 1977",Louisville,17,Cincinnati,17,0
+98,3,"Sep 17, 1977",Citadel,20,Western Carolina,0,0
+99,3,"Sep 17, 1977",Clemson,7,Georgia,6,1
+100,3,"Sep 17, 1977",Colgate,38,Lafayette,12,0
+101,3,"Sep 17, 1977",Colorado,42,Kent State,0,0
+102,3,"Sep 17, 1977",Colorado State,20,Hawaii,16,1
+103,3,"Sep 17, 1977",Dartmouth,14,Princeton,11,0
+104,3,"Sep 17, 1977",Toledo,9,East Carolina,22,0
+105,3,"Sep 17, 1977",Bowling Green,6,Eastern Michigan,16,1
+106,3,"Sep 17, 1977",Florida,48,Rice,3,1
+107,3,"Sep 17, 1977",Florida State,18,Kansas State,10,1
+108,3,"Sep 17, 1977",Boise State,7,Fresno State,42,1
+109,3,"Sep 17, 1977",Furman,42,East Tennessee State,12,0
+110,3,"Sep 17, 1977",Miami,6,Georgia Tech,10,1
+111,3,"Sep 17, 1977",Grambling State,35,Morgan State,19,0
+112,3,"Sep 17, 1977",Columbia,7,Harvard,21,0
+113,3,"Sep 17, 1977",Missouri,7,Illinois,11,1
+114,3,"Sep 17, 1977",Indiana,24,LSU,21,0
+115,3,"Sep 17, 1977",Southern Illinois,9,Indiana State,14,0
+116,3,"Sep 17, 1977",Iowa,12,Iowa State,10,0
+117,3,"Sep 17, 1977",Jackson State,27,Prairie View A&M,2,1
+118,3,"Sep 17, 1977",Long Beach State,50,Cal State Fullerton,31,0
+119,3,"Sep 17, 1977",Lamar,6,Louisiana,10,0
+120,3,"Sep 17, 1977",Louisiana Tech,56,Sacramento State,0,0
+121,3,"Sep 17, 1977",Marshall,38,Morehead State,26,0
+122,3,"Sep 17, 1977",West Texas State,8,McNeese State,20,1
+123,3,"Sep 17, 1977",Memphis,31,Utah State,26,0
+124,3,"Sep 17, 1977",Duke,9,Michigan,21,1
+125,3,"Sep 17, 1977",Ole Miss,20,Notre Dame,13,0
+126,3,"Sep 17, 1977",Arkansas-Pine Bluff,9,Mississippi Valley State,12,1
+127,3,"Sep 17, 1977",Connecticut,7,Navy,38,1
+128,3,"Sep 17, 1977",Nebraska,31,Alabama,24,0
+129,3,"Sep 17, 1977",New Mexico State,24,Wichita State,12,0
+130,3,"Sep 17, 1977",North Carolina,31,Richmond,0,0
+131,3,"Sep 17, 1977",NC State,38,Syracuse,0,1
+132,3,"Sep 17, 1977",North Texas,24,SMU,13,0
+133,3,"Sep 17, 1977",Arkansas State,7,Northwestern State,30,1
+134,3,"Sep 17, 1977",Minnesota,7,Ohio State,38,1
+135,3,"Sep 17, 1977",Oklahoma,62,Utah,24,0
+136,3,"Sep 17, 1977",Oregon,29,TCU,24,1
+137,3,"Sep 17, 1977",Pacific,31,Idaho,21,1
+138,3,"Sep 17, 1977",Penn State,31,Houston,14,0
+139,3,"Sep 17, 1977",Cornell,7,Pennsylvania,17,1
+140,3,"Sep 17, 1977",William & Mary,6,Pitt,28,1
+141,3,"Sep 17, 1977",Ohio,7,Purdue,44,1
+142,3,"Sep 17, 1977",Rhode Island,14,Holy Cross,0,0
+143,3,"Sep 17, 1977",Rutgers,36,Bucknell,14,0
+144,3,"Sep 17, 1977",San Diego State,21,Arizona,14,1
+145,3,"Sep 17, 1977",South Carolina,42,Miami (OH),19,0
+146,3,"Sep 17, 1977",USC,17,Oregon State,10,1
+147,3,"Sep 17, 1977",Southern Miss,24,Auburn,13,1
+148,3,"Sep 17, 1977",Stanford,21,Tulane,17,1
+149,3,"Sep 17, 1977",Temple,42,Drake,0,0
+150,3,"Sep 17, 1977",Tennessee,24,Boston College,18,0
+151,3,"Sep 17, 1977",Tennessee State,23,Alabama A&M,10,1
+152,3,"Sep 17, 1977",Texas,68,Virginia,0,0
+153,3,"Sep 17, 1977",Virginia Tech,6,Texas A&M,27,0
+154,3,"Sep 17, 1977",Texas Tech,29,New Mexico,14,0
+155,3,"Sep 17, 1977",Texas-Arlington,17,Western Michigan,10,1
+156,3,"Sep 17, 1977",Tulsa,37,Louisiana-Monroe,35,0
+157,3,"Sep 17, 1977",Kansas,7,UCLA,17,1
+158,3,"Sep 17, 1977",Vanderbilt,3,Wake Forest,0,1
+159,3,"Sep 17, 1977",Villanova,38,Ball State,16,0
+160,3,"Sep 17, 1977",San Jose State,3,Washington,24,1
+161,3,"Sep 17, 1977",Washington State,23,Michigan State,21,1
+162,3,"Sep 17, 1977",West Virginia,24,Maryland,16,1
+163,3,"Sep 17, 1977",Northern Illinois,3,Wisconsin,14,1
+164,3,"Sep 17, 1977",Wyoming,27,UTEP,17,0
+165,3,"Sep 17, 1977",Brown,9,Yale,10,1
+166,4,"Sep 21, 1977",Richmond,21,Appalachian State,13,0
+167,4,"Sep 24, 1977",Air Force,15,Pacific,13,0
+168,4,"Sep 24, 1977",Alabama,24,Vanderbilt,12,1
+169,4,"Sep 24, 1977",Iowa,7,Arizona,41,0
+170,4,"Sep 24, 1977",Arizona State,33,Oregon State,31,0
+171,4,"Sep 24, 1977",Arkansas,37,Tulsa,3,0
+172,4,"Sep 24, 1977",Southern Illinois,6,Arkansas State,21,1
+173,4,"Sep 24, 1977",Auburn,14,Tennessee,12,1
+174,4,"Sep 24, 1977",Boston College,49,Army,28,0
+175,4,"Sep 24, 1977",BYU,65,Utah State,6,1
+176,4,"Sep 24, 1977",Brown,28,Rhode Island,10,0
+177,4,"Sep 24, 1977",California,28,Missouri,21,1
+178,4,"Sep 24, 1977",Central Michigan,31,Ohio,14,1
+179,4,"Sep 24, 1977",Cincinnati,63,Louisiana-Monroe,0,0
+180,4,"Sep 24, 1977",Clemson,31,Georgia Tech,14,0
+181,4,"Sep 24, 1977",Colgate,28,Cornell,22,1
+182,4,"Sep 24, 1977",New Mexico,7,Colorado,42,1
+183,4,"Sep 24, 1977",Colorado State,48,Northern Colorado,10,0
+184,4,"Sep 24, 1977",Columbia,21,Lafayette,10,0
+185,4,"Sep 24, 1977",Dartmouth,17,Holy Cross,14,0
+186,4,"Sep 24, 1977",Dayton,21,Villanova,17,1
+187,4,"Sep 24, 1977",Virginia,7,Duke,31,0
+188,4,"Sep 24, 1977",East Carolina,14,Virginia Military Institute,13,0
+189,4,"Sep 24, 1977",Eastern Michigan,9,McNeese State,7,0
+190,4,"Sep 24, 1977",Florida,24,Mississippi State,22,1
+191,4,"Sep 24, 1977",Alcorn State,7,Florida A&M,28,1
+192,4,"Sep 24, 1977",Chattanooga,7,Furman,17,0
+193,4,"Sep 24, 1977",Georgia,15,South Carolina,13,1
+194,4,"Sep 24, 1977",Hawaii,45,Idaho,26,0
+195,4,"Sep 24, 1977",Houston,34,Utah,16,1
+196,4,"Sep 24, 1977",Iowa State,35,Bowling Green,21,1
+197,4,"Sep 24, 1977",Jackson State,37,Mississippi Valley State,13,1
+198,4,"Sep 24, 1977",Kansas,14,Washington State,12,0
+199,4,"Sep 24, 1977",Kansas State,21,Wichita State,14,1
+200,4,"Sep 24, 1977",Kent State,13,Ball State,12,0
+201,4,"Sep 24, 1977",Kentucky,28,West Virginia,13,0
+202,4,"Sep 24, 1977",Pennsylvania,7,Lehigh,19,1
+203,4,"Sep 24, 1977",Lamar,7,Long Beach State,21,1
+204,4,"Sep 24, 1977",Louisiana,30,Texas-Arlington,20,0
+205,4,"Sep 24, 1977",LSU,77,Rice,0,0
+206,4,"Sep 24, 1977",Illinois State,21,Louisiana Tech,21,0
+207,4,"Sep 24, 1977",Marshall,24,Toledo,0,0
+208,4,"Sep 24, 1977",Massachusetts,17,Harvard,0,1
+209,4,"Sep 24, 1977",Memphis,21,Virginia Tech,20,0
+210,4,"Sep 24, 1977",Miami,23,Florida State,17,1
+211,4,"Sep 24, 1977",Miami (OH),21,Indiana,20,1
+212,4,"Sep 24, 1977",Navy,7,Michigan,14,1
+213,4,"Sep 24, 1977",Michigan State,34,Wyoming,16,0
+214,4,"Sep 24, 1977",Minnesota,27,UCLA,13,0
+215,4,"Sep 24, 1977",Montana State,24,Fresno State,14,0
+216,4,"Sep 24, 1977",Nebraska,31,Baylor,10,0
+217,4,"Sep 24, 1977",Drake,9,New Mexico State,35,1
+218,4,"Sep 24, 1977",Northwestern,7,North Carolina,41,0
+219,4,"Sep 24, 1977",NC State,41,Wake Forest,14,0
+220,4,"Sep 24, 1977",North Texas,31,West Texas State,20,0
+221,4,"Sep 24, 1977",Stephen F. Austin,6,Northwestern State,20,0
+222,4,"Sep 24, 1977",Notre Dame,31,Purdue,24,1
+223,4,"Sep 24, 1977",Oklahoma,29,Ohio State,28,1
+224,4,"Sep 24, 1977",Oklahoma State,54,UTEP,0,0
+225,4,"Sep 24, 1977",Maryland,9,Penn State,27,1
+226,4,"Sep 24, 1977",Pitt,76,Temple,0,1
+227,4,"Sep 24, 1977",Princeton,6,Rutgers,10,0
+228,4,"Sep 24, 1977",San Jose State,23,Cal State Fullerton,12,0
+229,4,"Sep 24, 1977",Prairie View A&M,6,Southern,46,0
+230,4,"Sep 24, 1977",USC,51,TCU,0,0
+231,4,"Sep 24, 1977",SMU,28,Tulane,23,0
+232,4,"Sep 24, 1977",Southern Miss,27,Ole Miss,19,1
+233,4,"Sep 24, 1977",Stanford,37,Illinois,24,0
+234,4,"Sep 24, 1977",Syracuse,22,Washington,20,0
+235,4,"Sep 24, 1977",Texas Southern,7,Tennessee State,23,1
+236,4,"Sep 24, 1977",Texas A&M,33,Texas Tech,17,1
+237,4,"Sep 24, 1977",Western Carolina,15,Indiana State,14,1
+238,4,"Sep 24, 1977",Western Michigan,49,Northern Illinois,21,0
+239,4,"Sep 24, 1977",Louisville,7,William & Mary,21,0
+240,4,"Sep 24, 1977",Wisconsin,22,Oregon,10,1
+241,4,"Sep 24, 1977",Yale,23,Connecticut,12,0
+242,5,"Sep 30, 1977",BYU,54,New Mexico,19,0
+243,5,"Sep 30, 1977",Washington State,7,USC,41,1
+244,5,"Oct 1, 1977",Indiana State,3,Akron,20,1
+245,5,"Oct 1, 1977",Alabama,18,Georgia,10,0
+246,5,"Oct 1, 1977",Appalachian State,28,Marshall,20,0
+247,5,"Oct 1, 1977",TCU,6,Arkansas,42,0
+248,5,"Oct 1, 1977",Arkansas State,18,Texas A&M-Commerce,17,0
+249,5,"Oct 1, 1977",Auburn,21,Ole Miss,15,0
+250,5,"Oct 1, 1977",Ball State,28,Central Michigan,12,0
+251,5,"Oct 1, 1977",Bowling Green,34,Western Michigan,14,0
+252,5,"Oct 1, 1977",Princeton,7,Brown,10,1
+253,5,"Oct 1, 1977",Cal State Fullerton,45,Cal State Northridge,14,0
+254,5,"Oct 1, 1977",California,52,San Jose State,3,0
+255,5,"Oct 1, 1977",Middle Tennessee,7,Chattanooga,38,1
+256,5,"Oct 1, 1977",Southern Miss,6,Cincinnati,17,1
+257,5,"Oct 1, 1977",Presbyterian,7,Citadel,13,1
+258,5,"Oct 1, 1977",Clemson,31,Virginia Tech,13,1
+259,5,"Oct 1, 1977",Colgate,38,Harvard,21,1
+260,5,"Oct 1, 1977",Colorado,31,Army,0,1
+261,5,"Oct 1, 1977",Colorado State,44,Utah,3,0
+262,5,"Oct 1, 1977",Columbia,30,Pennsylvania,18,0
+263,5,"Oct 1, 1977",Dartmouth,38,Boston University,0,1
+264,5,"Oct 1, 1977",Duke,28,Navy,16,0
+265,5,"Oct 1, 1977",Toledo,7,Eastern Michigan,17,1
+266,5,"Oct 1, 1977",Florida State,25,Oklahoma State,17,1
+267,5,"Oct 1, 1977",Fresno State,52,Cal Poly,3,1
+268,5,"Oct 1, 1977",Georgia Tech,30,Air Force,3,0
+269,5,"Oct 1, 1977",Grambling State,70,Prairie View A&M,7,0
+270,5,"Oct 1, 1977",Louisiana,6,Hawaii,20,1
+271,5,"Oct 1, 1977",Houston,28,Baylor,24,0
+272,5,"Oct 1, 1977",Northern Illinois,7,Illinois State,16,1
+273,5,"Oct 1, 1977",Iowa State,17,Dayton,13,0
+274,5,"Oct 1, 1977",Jackson State,31,Arkansas-Pine Bluff,0,1
+275,5,"Oct 1, 1977",Kent State,44,Ohio,23,1
+276,5,"Oct 1, 1977",Kentucky,24,Penn State,20,1
+277,5,"Oct 1, 1977",Long Beach State,27,Drake,10,1
+278,5,"Oct 1, 1977",LSU,36,Florida,14,0
+279,5,"Oct 1, 1977",McNeese State,7,Louisiana Tech,14,0
+280,5,"Oct 1, 1977",Louisville,14,Memphis,13,1
+281,5,"Oct 1, 1977",Pacific,3,Miami,24,1
+282,5,"Oct 1, 1977",Miami (OH),28,Yale,14,1
+283,5,"Oct 1, 1977",Michigan,41,Texas A&M,3,0
+284,5,"Oct 1, 1977",Minnesota,19,Washington,17,0
+285,5,"Oct 1, 1977",Mississippi State,24,Kansas State,21,1
+286,5,"Oct 1, 1977",Mississippi Valley State,35,Southern,13,0
+287,5,"Oct 1, 1977",Missouri,15,Arizona State,0,1
+288,5,"Oct 1, 1977",Nebraska,31,Indiana,13,0
+289,5,"Oct 1, 1977",NC State,24,Maryland,20,0
+290,5,"Oct 1, 1977",North Texas,47,Richmond,14,1
+291,5,"Oct 1, 1977",Northwestern State,13,Louisiana-Monroe,0,1
+292,5,"Oct 1, 1977",Michigan State,6,Notre Dame,16,1
+293,5,"Oct 1, 1977",SMU,7,Ohio State,35,0
+294,5,"Oct 1, 1977",Kansas,9,Oklahoma,24,1
+295,5,"Oct 1, 1977",Boston College,7,Pitt,45,0
+296,5,"Oct 1, 1977",Purdue,26,Wake Forest,17,0
+297,5,"Oct 1, 1977",Rutgers,30,Cornell,14,1
+298,5,"Oct 1, 1977",San Diego State,19,Utah State,0,0
+299,5,"Oct 1, 1977",South Carolina,19,East Carolina,16,0
+300,5,"Oct 1, 1977",Alcorn State,7,South Carolina State,31,0
+301,5,"Oct 1, 1977",Southern Illinois,9,Lamar,5,0
+302,5,"Oct 1, 1977",Stanford,20,Oregon,10,0
+303,5,"Oct 1, 1977",Syracuse,30,Illinois,20,1
+304,5,"Oct 1, 1977",Temple,6,Delaware,3,1
+305,5,"Oct 1, 1977",Tennessee,41,Oregon State,10,0
+306,5,"Oct 1, 1977",Tennessee State,17,Central State,0,0
+307,5,"Oct 1, 1977",Texas,72,Rice,15,0
+308,5,"Oct 1, 1977",Texas A&M-Kingsville,28,Texas Southern,13,1
+309,5,"Oct 1, 1977",North Carolina,7,Texas Tech,10,0
+310,5,"Oct 1, 1977",Texas-Arlington,17,West Texas State,13,1
+311,5,"Oct 1, 1977",UTEP,23,New Mexico State,21,0
+312,5,"Oct 1, 1977",Vanderbilt,7,Tulane,36,1
+313,5,"Oct 1, 1977",UCLA,34,Iowa,16,0
+314,5,"Oct 1, 1977",West Virginia,13,Virginia,0,1
+315,5,"Oct 1, 1977",Furman,24,Western Carolina,24,0
+316,5,"Oct 1, 1977",Wichita State,38,Tulsa,26,1
+317,5,"Oct 1, 1977",Villanova,8,William & Mary,28,1
+318,5,"Oct 1, 1977",Northwestern,7,Wisconsin,19,1
+319,5,"Oct 1, 1977",Wyoming,13,Arizona,12,0
+320,6,"Oct 8, 1977",Alabama,21,USC,20,1
+321,6,"Oct 8, 1977",Arizona State,45,New Mexico,24,1
+322,6,"Oct 8, 1977",Lamar,6,Arkansas State,10,0
+323,6,"Oct 8, 1977",Army,34,Villanova,32,0
+324,6,"Oct 8, 1977",Ball State,27,Illinois State,16,0
+325,6,"Oct 8, 1977",Baylor,9,SMU,6,0
+326,6,"Oct 8, 1977",Boston College,30,Tulane,28,0
+327,6,"Oct 8, 1977",Bowling Green,21,Toledo,13,0
+328,6,"Oct 8, 1977",Cal State Fullerton,31,Louisiana-Monroe,10,1
+329,6,"Oct 8, 1977",Central Michigan,25,Northern Illinois,21,1
+330,6,"Oct 8, 1977",Chattanooga,21,Western Carolina,10,1
+331,6,"Oct 8, 1977",Clemson,31,Virginia,0,0
+332,6,"Oct 8, 1977",Colgate,31,Holy Cross,14,1
+333,6,"Oct 8, 1977",Colorado,29,Oklahoma State,13,0
+334,6,"Oct 8, 1977",Colorado State,31,UTEP,14,1
+335,6,"Oct 8, 1977",Dartmouth,3,Yale,0,1
+336,6,"Oct 8, 1977",Citadel,7,Delaware,23,1
+337,6,"Oct 8, 1977",Duke,25,South Carolina,21,1
+338,6,"Oct 8, 1977",East Carolina,33,Southern Illinois,0,0
+339,6,"Oct 8, 1977",East Tennessee State,38,Appalachian State,20,0
+340,6,"Oct 8, 1977",Eastern Michigan,31,Ohio,14,0
+341,6,"Oct 8, 1977",Florida State,14,Cincinnati,0,0
+342,6,"Oct 8, 1977",Fresno State,34,San Diego State,14,0
+343,6,"Oct 8, 1977",Georgia,14,Ole Miss,13,0
+344,6,"Oct 8, 1977",Tennessee,8,Georgia Tech,24,0
+345,6,"Oct 8, 1977",Cornell,7,Harvard,17,0
+346,6,"Oct 8, 1977",Northwestern,3,Indiana,28,0
+347,6,"Oct 8, 1977",Indiana State,23,Drake,20,1
+348,6,"Oct 8, 1977",Minnesota,6,Iowa,18,1
+349,6,"Oct 8, 1977",Iowa State,7,Missouri,0,0
+350,6,"Oct 8, 1977",Kent State,20,Western Michigan,16,1
+351,6,"Oct 8, 1977",Mississippi State,7,Kentucky,23,1
+352,6,"Oct 8, 1977",Mississippi Valley State,8,Langston,34,1
+353,6,"Oct 8, 1977",Louisiana Tech,21,Louisiana,21,0
+354,6,"Oct 8, 1977",LSU,28,Vanderbilt,15,1
+355,6,"Oct 8, 1977",Louisville,33,Tulsa,0,0
+356,6,"Oct 8, 1977",Maryland,24,Syracuse,10,0
+357,6,"Oct 8, 1977",Kansas,7,Miami,14,1
+358,6,"Oct 8, 1977",Miami (OH),29,Marshall,19,0
+359,6,"Oct 8, 1977",Michigan,24,Michigan State,14,1
+360,6,"Oct 8, 1977",Air Force,7,Navy,10,1
+361,6,"Oct 8, 1977",Kansas State,9,Nebraska,26,0
+362,6,"Oct 8, 1977",Northwestern State,6,Nicholls State,10,1
+363,6,"Oct 8, 1977",Wake Forest,3,North Carolina,24,1
+364,6,"Oct 8, 1977",NC State,17,Auburn,15,1
+365,6,"Oct 8, 1977",North Texas,27,Southern Miss,14,1
+366,6,"Oct 8, 1977",Ohio State,46,Purdue,0,0
+367,6,"Oct 8, 1977",Oregon State,24,BYU,19,0
+368,6,"Oct 8, 1977",Hawaii,7,Pacific,37,1
+369,6,"Oct 8, 1977",Utah State,7,Penn State,16,1
+370,6,"Oct 8, 1977",Brown,7,Pennsylvania,14,1
+371,6,"Oct 8, 1977",Florida,17,Pitt,17,0
+372,6,"Oct 8, 1977",Texas State,7,Prairie View A&M,19,0
+373,6,"Oct 8, 1977",Columbia,7,Princeton,28,1
+374,6,"Oct 8, 1977",Rutgers,42,Connecticut,18,1
+375,6,"Oct 8, 1977",San Jose State,44,Santa Clara,22,0
+376,6,"Oct 8, 1977",Bishop,3,Southern,28,0
+377,6,"Oct 8, 1977",Stanford,32,UCLA,28,0
+378,6,"Oct 8, 1977",Grambling State,8,Tennessee State,26,1
+379,6,"Oct 8, 1977",Oklahoma,6,Texas,13,1
+380,6,"Oct 8, 1977",TCU,35,Rice,15,1
+381,6,"Oct 8, 1977",Texas Southern,37,Alcorn State,14,0
+382,6,"Oct 8, 1977",Texas Tech,32,Arizona,26,1
+383,6,"Oct 8, 1977",McNeese State,7,Texas-Arlington,24,1
+384,6,"Oct 8, 1977",Utah,23,Wyoming,13,0
+385,6,"Oct 8, 1977",Virginia Military Institute,25,Richmond,0,0
+386,6,"Oct 8, 1977",William & Mary,8,Virginia Tech,17,1
+387,6,"Oct 8, 1977",Washington,54,Oregon,0,1
+388,6,"Oct 8, 1977",Washington State,17,California,10,0
+389,6,"Oct 8, 1977",West Texas State,17,New Mexico State,14,1
+390,6,"Oct 8, 1977",West Virginia,38,Temple,16,0
+391,6,"Oct 8, 1977",Wisconsin,26,Illinois,0,0
+392,6,"Oct 8, 1977",Furman,7,Wofford,13,1
+393,7,"Oct 15, 1977",Alabama,24,Tennessee,10,0
+394,7,"Oct 15, 1977",Appalachian State,35,Lenoir-Rhyne,21,0
+395,7,"Oct 15, 1977",Arizona State,37,Air Force,14,1
+396,7,"Oct 15, 1977",Northern Illinois,6,Ball State,31,1
+397,7,"Oct 15, 1977",Boston College,28,West Virginia,24,1
+398,7,"Oct 15, 1977",Boston University,14,Holy Cross,13,1
+399,7,"Oct 15, 1977",Bowling Green,14,Kent State,10,1
+400,7,"Oct 15, 1977",BYU,63,Colorado State,17,1
+401,7,"Oct 15, 1977",Cornell,3,Brown,21,1
+402,7,"Oct 15, 1977",California,41,Oregon State,17,0
+403,7,"Oct 15, 1977",Central Michigan,17,Akron,14,0
+404,7,"Oct 15, 1977",Chattanooga,31,Illinois State,28,0
+405,7,"Oct 15, 1977",Clemson,17,Duke,11,1
+406,7,"Oct 15, 1977",Colgate,31,Princeton,13,1
+407,7,"Oct 15, 1977",Kansas,17,Colorado,17,0
+408,7,"Oct 15, 1977",Dayton,14,Louisville,10,0
+409,7,"Oct 15, 1977",East Carolina,35,Richmond,14,0
+410,7,"Oct 15, 1977",Florida A&M,31,Tennessee State,28,0
+411,7,"Oct 15, 1977",Fresno State,24,Pacific,10,1
+412,7,"Oct 15, 1977",Furman,42,Marshall,24,0
+413,7,"Oct 15, 1977",Georgia,24,Vanderbilt,13,1
+414,7,"Oct 15, 1977",Georgia Tech,38,Auburn,21,0
+415,7,"Oct 15, 1977",Grambling State,42,Mississippi Valley State,21,0
+416,7,"Oct 15, 1977",Harvard,31,Dartmouth,25,0
+417,7,"Oct 15, 1977",Illinois,29,Purdue,22,1
+418,7,"Oct 15, 1977",Iowa State,24,Nebraska,21,1
+419,7,"Oct 15, 1977",Jackson State,38,Southern,0,0
+420,7,"Oct 15, 1977",Kentucky,33,LSU,13,1
+421,7,"Oct 15, 1977",Louisiana,24,Southern Illinois,0,0
+422,7,"Oct 15, 1977",Arkansas State,7,Louisiana Tech,20,0
+423,7,"Oct 15, 1977",Wake Forest,7,Maryland,35,0
+424,7,"Oct 15, 1977",Louisiana-Monroe,7,McNeese State,29,0
+425,7,"Oct 15, 1977",Memphis,21,Mississippi State,13,0
+426,7,"Oct 15, 1977",Miami (OH),28,Ohio,24,0
+427,7,"Oct 15, 1977",Michigan,56,Wisconsin,0,0
+428,7,"Oct 15, 1977",Indiana,13,Michigan State,13,0
+429,7,"Oct 15, 1977",Northwestern,7,Minnesota,13,1
+430,7,"Oct 15, 1977",Ole Miss,17,South Carolina,10,0
+431,7,"Oct 15, 1977",New Mexico,22,Wichita State,17,0
+432,7,"Oct 15, 1977",North Carolina,27,NC State,14,1
+433,7,"Oct 15, 1977",Texas-Arlington,6,North Texas,15,1
+434,7,"Oct 15, 1977",Cal State Fullerton,9,Northern Arizona,24,1
+435,7,"Oct 15, 1977",Northwestern State,43,Lamar,0,0
+436,7,"Oct 15, 1977",Notre Dame,24,Army,0,1
+437,7,"Oct 15, 1977",Iowa,6,Ohio State,27,0
+438,7,"Oct 15, 1977",Oklahoma,21,Missouri,17,1
+439,7,"Oct 15, 1977",Oklahoma State,21,Kansas State,14,0
+440,7,"Oct 15, 1977",Penn State,31,Syracuse,24,1
+441,7,"Oct 15, 1977",Lafayette,7,Pennsylvania,42,1
+442,7,"Oct 15, 1977",Pitt,34,Navy,17,0
+443,7,"Oct 15, 1977",Rutgers,20,Lehigh,0,0
+444,7,"Oct 15, 1977",UTEP,7,San Diego State,49,1
+445,7,"Oct 15, 1977",San Jose State,33,Long Beach State,16,1
+446,7,"Oct 15, 1977",USC,33,Oregon,15,0
+447,7,"Oct 15, 1977",SMU,37,Houston,23,1
+448,7,"Oct 15, 1977",Southern Miss,28,Hawaii,26,1
+449,7,"Oct 15, 1977",Arkansas,9,Texas,13,0
+450,7,"Oct 15, 1977",Texas A&M,38,Baylor,31,1
+451,7,"Oct 15, 1977",Texas Lutheran,19,Prairie View A&M,14,0
+452,7,"Oct 15, 1977",Texas Southern,44,Bishop,0,0
+453,7,"Oct 15, 1977",Rice,7,Texas Tech,42,1
+454,7,"Oct 15, 1977",Tulane,16,Cincinnati,13,0
+455,7,"Oct 15, 1977",UCLA,27,Washington State,16,1
+456,7,"Oct 15, 1977",Utah,20,Utah State,0,0
+457,7,"Oct 15, 1977",Villanova,33,Delaware,16,0
+458,7,"Oct 15, 1977",Virginia Tech,14,Virginia,14,0
+459,7,"Oct 15, 1977",Citadel,3,Virginia Military Institute,19,1
+460,7,"Oct 15, 1977",Washington,45,Stanford,21,0
+461,7,"Oct 15, 1977",Drake,7,West Texas State,31,1
+462,7,"Oct 15, 1977",Western Carolina,35,East Tennessee State,0,0
+463,7,"Oct 15, 1977",Toledo,7,Western Michigan,28,0
+464,7,"Oct 15, 1977",Yale,42,Columbia,20,1
+465,8,"Oct 22, 1977",Louisville,6,Alabama,55,1
+466,8,"Oct 22, 1977",Alcorn State,23,Southern,0,1
+467,8,"Oct 22, 1977",Arizona,45,Utah,17,0
+468,8,"Oct 22, 1977",Arizona State,66,UTEP,3,0
+469,8,"Oct 22, 1977",Arkansas,34,Houston,0,0
+470,8,"Oct 22, 1977",Lafayette,6,Army,42,1
+471,8,"Oct 22, 1977",Ball State,66,Cal Poly-Pomona,10,0
+472,8,"Oct 22, 1977",Air Force,7,Baylor,38,1
+473,8,"Oct 22, 1977",Boston College,17,Villanova,0,0
+474,8,"Oct 22, 1977",Wyoming,7,BYU,10,0
+475,8,"Oct 22, 1977",Brown,44,Holy Cross,13,1
+476,8,"Oct 22, 1977",Cal State Fullerton,45,Cal Poly,18,0
+477,8,"Oct 22, 1977",Chattanooga,18,Jacksonville State,14,1
+478,8,"Oct 22, 1977",Cincinnati,28,Tulsa,0,0
+479,8,"Oct 22, 1977",Clemson,7,NC State,3,0
+480,8,"Oct 22, 1977",Colgate,48,Columbia,36,1
+481,8,"Oct 22, 1977",New Mexico,9,Colorado State,14,1
+482,8,"Oct 22, 1977",Dartmouth,17,Cornell,13,0
+483,8,"Oct 22, 1977",East Carolina,34,Citadel,16,1
+484,8,"Oct 22, 1977",Florida,27,Tennessee,17,0
+485,8,"Oct 22, 1977",Auburn,3,Florida State,24,1
+486,8,"Oct 22, 1977",Fresno State,45,San Jose State,24,0
+487,8,"Oct 22, 1977",Furman,28,Appalachian State,20,0
+488,8,"Oct 22, 1977",Georgia Tech,38,Tulane,14,1
+489,8,"Oct 22, 1977",Jackson State,7,Grambling State,34,0
+490,8,"Oct 22, 1977",Hawaii,21,Portland State,12,0
+491,8,"Oct 22, 1977",Indiana,7,Illinois,21,1
+492,8,"Oct 22, 1977",Indiana State,20,Illinois State,10,0
+493,8,"Oct 22, 1977",Kent State,29,Eastern Michigan,13,1
+494,8,"Oct 22, 1977",Kentucky,33,Georgia,0,1
+495,8,"Oct 22, 1977",Lehigh,30,Virginia Military Institute,20,0
+496,8,"Oct 22, 1977",LSU,56,Oregon,17,0
+497,8,"Oct 22, 1977",Northwestern State,8,Louisiana Tech,30,1
+498,8,"Oct 22, 1977",Louisiana-Monroe,24,Southeastern Louisiana,19,1
+499,8,"Oct 22, 1977",Maryland,31,Duke,13,0
+500,8,"Oct 22, 1977",McNeese State,17,Arkansas State,14,0
+501,8,"Oct 22, 1977",Miami (OH),33,Bowling Green,13,1
+502,8,"Oct 22, 1977",Michigan State,9,Wisconsin,7,1
+503,8,"Oct 22, 1977",Minnesota,16,Michigan,0,0
+504,8,"Oct 22, 1977",Ole Miss,26,Vanderbilt,14,0
+505,8,"Oct 22, 1977",Missouri,28,Kansas State,13,0
+506,8,"Oct 22, 1977",Navy,42,William & Mary,17,0
+507,8,"Oct 22, 1977",Nebraska,33,Colorado,15,0
+508,8,"Oct 22, 1977",New Mexico State,7,Texas-Arlington,6,1
+509,8,"Oct 22, 1977",North Carolina,17,South Carolina,0,0
+510,8,"Oct 22, 1977",North Texas,20,Memphis,19,1
+511,8,"Oct 22, 1977",Northern Illinois,28,Southern Illinois,0,0
+512,8,"Oct 22, 1977",Notre Dame,49,USC,19,0
+513,8,"Oct 22, 1977",Ohio State,35,Northwestern,15,1
+514,8,"Oct 22, 1977",Oklahoma,35,Iowa State,16,0
+515,8,"Oct 22, 1977",Oklahoma State,21,Kansas,0,1
+516,8,"Oct 22, 1977",Long Beach State,7,Pacific,22,0
+517,8,"Oct 22, 1977",Penn State,49,West Virginia,28,0
+518,8,"Oct 22, 1977",Pitt,28,Syracuse,21,0
+519,8,"Oct 22, 1977",Bishop,7,Prairie View A&M,39,1
+520,8,"Oct 22, 1977",Harvard,7,Princeton,20,0
+521,8,"Oct 22, 1977",Purdue,34,Iowa,21,0
+522,8,"Oct 22, 1977",Richmond,17,Virginia Tech,14,0
+523,8,"Oct 22, 1977",UNLV,7,San Diego State,31,1
+524,8,"Oct 22, 1977",Mississippi State,7,Southern Miss,14,0
+525,8,"Oct 22, 1977",Stanford,31,Washington State,29,0
+526,8,"Oct 22, 1977",Temple,27,Louisiana,20,0
+527,8,"Oct 22, 1977",Texas,30,SMU,14,1
+528,8,"Oct 22, 1977",Texas A&M,28,Rice,14,1
+529,8,"Oct 22, 1977",TCU,21,Miami,17,0
+530,8,"Oct 22, 1977",Texas Southern,35,Mississippi Valley State,33,1
+531,8,"Oct 22, 1977",Toledo,31,Ohio,29,0
+532,8,"Oct 22, 1977",UCLA,21,California,19,0
+533,8,"Oct 22, 1977",Virginia,12,Wake Forest,10,0
+534,8,"Oct 22, 1977",Oregon State,6,Washington,14,1
+535,8,"Oct 22, 1977",Lamar,9,West Texas State,27,0
+536,8,"Oct 22, 1977",Western Carolina,41,Maine,20,1
+537,8,"Oct 22, 1977",Western Michigan,53,Marshall,29,0
+538,8,"Oct 22, 1977",Wichita State,47,Drake,17,0
+539,8,"Oct 22, 1977",Yale,27,Pennsylvania,21,0
+540,9,"Oct 29, 1977",Mississippi State,7,Alabama,37,0
+541,9,"Oct 29, 1977",Arizona State,47,Utah,19,1
+542,9,"Oct 29, 1977",Rice,7,Arkansas,30,0
+543,9,"Oct 29, 1977",Arkansas State,31,Louisiana-Monroe,20,1
+544,9,"Oct 29, 1977",Holy Cross,7,Army,48,1
+545,9,"Oct 29, 1977",Auburn,29,Florida,14,0
+546,9,"Oct 29, 1977",Appalachian State,7,Ball State,38,0
+547,9,"Oct 29, 1977",Jackson State,3,Bethune-Cookman,10,1
+548,9,"Oct 29, 1977",Bishop,21,Alcorn State,16,0
+549,9,"Oct 29, 1977",Boise State,23,Utah State,16,1
+550,9,"Oct 29, 1977",Boston College,36,Air Force,14,1
+551,9,"Oct 29, 1977",BYU,34,Arizona,14,0
+552,9,"Oct 29, 1977",Brown,20,Harvard,15,0
+553,9,"Oct 29, 1977",California,17,USC,14,0
+554,9,"Oct 29, 1977",Central Michigan,35,Bowling Green,28,0
+555,9,"Oct 29, 1977",Chattanooga,21,Citadel,14,0
+556,9,"Oct 29, 1977",Clemson,26,Wake Forest,0,0
+557,9,"Oct 29, 1977",Colgate,43,Boston University,22,1
+558,9,"Oct 29, 1977",Columbia,7,Dartmouth,14,0
+559,9,"Oct 29, 1977",Drake,43,Lamar,21,0
+560,9,"Oct 29, 1977",Duke,25,Georgia Tech,24,1
+561,9,"Oct 29, 1977",Eastern Michigan,42,Akron,28,1
+562,9,"Oct 29, 1977",Florida State,35,North Texas,14,0
+563,9,"Oct 29, 1977",Idaho State,7,Fresno State,28,1
+564,9,"Oct 29, 1977",Richmond,7,Georgia,23,1
+565,9,"Oct 29, 1977",Grambling State,28,Texas Southern,14,0
+566,9,"Oct 29, 1977",Houston,42,TCU,14,1
+567,9,"Oct 29, 1977",Western Illinois,7,Illinois State,17,1
+568,9,"Oct 29, 1977",Indiana,34,Minnesota,22,0
+569,9,"Oct 29, 1977",Iowa State,41,Kansas,3,0
+570,9,"Oct 29, 1977",Kentucky,32,Virginia Tech,0,0
+571,9,"Oct 29, 1977",Louisiana,9,East Carolina,7,0
+572,9,"Oct 29, 1977",LSU,28,Ole Miss,21,1
+573,9,"Oct 29, 1977",Louisiana Tech,34,Texas-Arlington,12,0
+574,9,"Oct 29, 1977",Louisville,56,Marshall,0,1
+575,9,"Oct 29, 1977",Memphis,42,Southern Miss,14,0
+576,9,"Oct 29, 1977",Toledo,3,Miami (OH),27,1
+577,9,"Oct 29, 1977",Iowa,6,Michigan,23,1
+578,9,"Oct 29, 1977",Michigan State,49,Illinois,20,0
+579,9,"Oct 29, 1977",Missouri,24,Colorado,14,1
+580,9,"Oct 29, 1977",Nebraska,31,Oklahoma State,14,1
+581,9,"Oct 29, 1977",UNLV,24,Cal State Fullerton,21,1
+582,9,"Oct 29, 1977",New Mexico,35,New Mexico State,13,1
+583,9,"Oct 29, 1977",McNeese State,7,Nicholls State,24,0
+584,9,"Oct 29, 1977",Maryland,7,North Carolina,16,0
+585,9,"Oct 29, 1977",NC State,7,South Carolina,3,0
+586,9,"Oct 29, 1977",Northern Illinois,21,Kent State,18,1
+587,9,"Oct 29, 1977",Notre Dame,43,Navy,10,0
+588,9,"Oct 29, 1977",Ohio State,42,Wisconsin,0,0
+589,9,"Oct 29, 1977",Kansas State,7,Oklahoma,42,0
+590,9,"Oct 29, 1977",San Jose State,7,Pacific,24,0
+591,9,"Oct 29, 1977",Miami,7,Penn State,49,1
+592,9,"Oct 29, 1977",Pennsylvania,21,Princeton,10,0
+593,9,"Oct 29, 1977",Pitt,48,Tulane,0,0
+594,9,"Oct 29, 1977",Prairie View A&M,3,Mississippi Valley State,0,0
+595,9,"Oct 29, 1977",Furman,13,Presbyterian,13,0
+596,9,"Oct 29, 1977",Purdue,28,Northwestern,16,1
+597,9,"Oct 29, 1977",Rutgers,22,William & Mary,21,1
+598,9,"Oct 29, 1977",Tulsa,7,San Diego State,41,1
+599,9,"Oct 29, 1977",Oregon State,7,Stanford,26,0
+600,9,"Oct 29, 1977",Syracuse,6,Virginia,3,0
+601,9,"Oct 29, 1977",Cincinnati,17,Temple,17,0
+602,9,"Oct 29, 1977",Southern,7,Tennessee State,15,0
+603,9,"Oct 29, 1977",Texas,26,Texas Tech,0,0
+604,9,"Oct 29, 1977",Texas A&M,38,SMU,21,0
+605,9,"Oct 29, 1977",UCLA,20,Washington,12,0
+606,9,"Oct 29, 1977",Villanova,41,West Virginia,36,1
+607,9,"Oct 29, 1977",Virginia Military Institute,21,Davidson,0,0
+608,9,"Oct 29, 1977",Washington State,56,Oregon,20,0
+609,9,"Oct 29, 1977",West Texas State,31,Indiana State,20,0
+610,9,"Oct 29, 1977",Wofford,6,Western Carolina,41,1
+611,9,"Oct 29, 1977",Western Michigan,28,Ohio,22,1
+612,9,"Oct 29, 1977",Wichita State,35,Long Beach State,21,0
+613,9,"Oct 29, 1977",Wyoming,29,Colorado State,13,0
+614,9,"Oct 29, 1977",Yale,28,Cornell,0,1
+615,10,"Nov 5, 1977",Marshall,7,Akron,28,1
+616,10,"Nov 5, 1977",LSU,3,Alabama,24,0
+617,10,"Nov 5, 1977",Arizona State,45,Wyoming,0,0
+618,10,"Nov 5, 1977",Baylor,9,Arkansas,35,1
+619,10,"Nov 5, 1977",Arkansas State,17,Louisiana,15,0
+620,10,"Nov 5, 1977",Arkansas-Pine Bluff,33,Prairie View A&M,20,0
+621,10,"Nov 5, 1977",Air Force,6,Army,31,0
+622,10,"Nov 5, 1977",Ball State,42,Indiana State,18,1
+623,10,"Nov 5, 1977",Utah,8,BYU,38,1
+624,10,"Nov 5, 1977",Brown,13,Dartmouth,10,1
+625,10,"Nov 5, 1977",Cal State Fullerton,48,Cal Poly-Pomona,0,1
+626,10,"Nov 5, 1977",Central Michigan,49,Kent State,10,1
+627,10,"Nov 5, 1977",Chattanooga,37,Bowling Green,33,1
+628,10,"Nov 5, 1977",Cincinnati,38,Ohio,26,1
+629,10,"Nov 5, 1977",North Carolina,13,Clemson,13,0
+630,10,"Nov 5, 1977",Colgate,49,Bucknell,17,0
+631,10,"Nov 5, 1977",Iowa State,7,Colorado,12,0
+632,10,"Nov 5, 1977",Colorado State,35,Arizona,14,1
+633,10,"Nov 5, 1977",Columbia,7,Cornell,20,1
+634,10,"Nov 5, 1977",Duke,38,Wake Forest,14,1
+635,10,"Nov 5, 1977",East Carolina,45,Appalachian State,14,1
+636,10,"Nov 5, 1977",Eastern Michigan,21,North Carolina A&T,20,0
+637,10,"Nov 5, 1977",Florida,22,Georgia,17,0
+638,10,"Nov 5, 1977",Florida State,23,Virginia Tech,21,1
+639,10,"Nov 5, 1977",Fresno State,23,Long Beach State,14,1
+640,10,"Nov 5, 1977",Grambling State,65,Langston,0,0
+641,10,"Nov 5, 1977",Harvard,34,Pennsylvania,15,0
+642,10,"Nov 5, 1977",Howard,26,Southern,16,0
+643,10,"Nov 5, 1977",Indiana,24,Iowa,21,1
+644,10,"Nov 5, 1977",Jackson State,10,Texas Southern,0,1
+645,10,"Nov 5, 1977",Kansas,29,Kansas State,21,0
+646,10,"Nov 5, 1977",Vanderbilt,6,Kentucky,28,0
+647,10,"Nov 5, 1977",Lamar,6,Louisiana Tech,23,0
+648,10,"Nov 5, 1977",Nicholls State,2,Louisiana-Monroe,19,0
+649,10,"Nov 5, 1977",Louisville,51,Wichita State,21,0
+650,10,"Nov 5, 1977",Maryland,19,Villanova,13,0
+651,10,"Nov 5, 1977",Holy Cross,6,Massachusetts,28,1
+652,10,"Nov 5, 1977",Northwestern State,7,McNeese State,14,0
+653,10,"Nov 5, 1977",Western Michigan,8,Miami (OH),14,0
+654,10,"Nov 5, 1977",Michigan,63,Northwestern,20,0
+655,10,"Nov 5, 1977",Michigan State,29,Minnesota,10,1
+656,10,"Nov 5, 1977",Mississippi State,27,Auburn,13,1
+657,10,"Nov 5, 1977",Mississippi Valley State,12,Alcorn State,10,1
+658,10,"Nov 5, 1977",Nebraska,21,Missouri,10,1
+659,10,"Nov 5, 1977",New Mexico,33,UTEP,17,0
+660,10,"Nov 5, 1977",North Texas,45,New Mexico State,17,0
+661,10,"Nov 5, 1977",Notre Dame,69,Georgia Tech,14,0
+662,10,"Nov 5, 1977",Ohio State,35,Illinois,0,1
+663,10,"Nov 5, 1977",Oklahoma,61,Oklahoma State,28,1
+664,10,"Nov 5, 1977",Penn State,21,NC State,17,1
+665,10,"Nov 5, 1977",Pitt,44,West Virginia,3,1
+666,10,"Nov 5, 1977",Purdue,22,Wisconsin,0,1
+667,10,"Nov 5, 1977",Richmond,19,Furman,13,0
+668,10,"Nov 5, 1977",Pacific,7,San Diego State,29,0
+669,10,"Nov 5, 1977",San Jose State,24,Hawaii,14,0
+670,10,"Nov 5, 1977",USC,49,Stanford,0,0
+671,10,"Nov 5, 1977",Southern Illinois,23,Illinois State,17,0
+672,10,"Nov 5, 1977",SMU,41,Rice,24,0
+673,10,"Nov 5, 1977",Texas-Arlington,3,Southern Miss,20,0
+674,10,"Nov 5, 1977",Syracuse,45,Navy,34,1
+675,10,"Nov 5, 1977",Temple,24,Rutgers,14,0
+676,10,"Nov 5, 1977",Tennessee,27,Memphis,14,0
+677,10,"Nov 5, 1977",Tennessee-Martin,7,Tennessee State,55,0
+678,10,"Nov 5, 1977",Texas,35,Houston,21,1
+679,10,"Nov 5, 1977",Texas Tech,49,TCU,17,0
+680,10,"Nov 5, 1977",Northern Illinois,9,Toledo,27,0
+681,10,"Nov 5, 1977",Tulane,13,Miami,10,1
+682,10,"Nov 5, 1977",Tulsa,33,Drake,23,1
+683,10,"Nov 5, 1977",Oregon,3,UCLA,21,0
+684,10,"Nov 5, 1977",Utah State,23,Weber State,14,1
+685,10,"Nov 5, 1977",Virginia,6,Virginia Military Institute,30,0
+686,10,"Nov 5, 1977",Washington,50,California,31,1
+687,10,"Nov 5, 1977",Washington State,24,Oregon State,10,1
+688,10,"Nov 5, 1977",William & Mary,14,Citadel,13,1
+689,10,"Nov 5, 1977",Princeton,8,Yale,44,0
+690,11,"Nov 11, 1977",Michigan State,44,Northwestern,3,0
+691,11,"Nov 12, 1977",Air Force,34,Vanderbilt,28,0
+692,11,"Nov 12, 1977",Alabama,36,Miami,0,0
+693,11,"Nov 12, 1977",Alcorn State,31,Prairie View A&M,12,0
+694,11,"Nov 12, 1977",Arizona,15,New Mexico,13,0
+695,11,"Nov 12, 1977",Arizona State,24,BYU,13,0
+696,11,"Nov 12, 1977",Arkansas,26,Texas A&M,20,1
+697,11,"Nov 12, 1977",Auburn,33,Georgia,14,1
+698,11,"Nov 12, 1977",Ball State,29,Western Michigan,25,1
+699,11,"Nov 12, 1977",Baylor,24,Rice,14,0
+700,11,"Nov 12, 1977",Bowling Green,39,Ohio,27,1
+701,11,"Nov 12, 1977",Brown,21,Columbia,14,0
+702,11,"Nov 12, 1977",California,48,Oregon,16,1
+703,11,"Nov 12, 1977",Central Michigan,44,Toledo,0,1
+704,11,"Nov 12, 1977",Citadel,28,Appalachian State,20,0
+705,11,"Nov 12, 1977",Colgate,48,Northeastern,39,0
+706,11,"Nov 12, 1977",West Texas State,21,Colorado State,21,0
+707,11,"Nov 12, 1977",Eastern Michigan,41,Illinois State,28,0
+708,11,"Nov 12, 1977",Southern,6,Florida A&M,19,1
+709,11,"Nov 12, 1977",Memphis,9,Florida State,30,1
+710,11,"Nov 12, 1977",Fresno State,44,Cal State Fullerton,19,1
+711,11,"Nov 12, 1977",Grambling State,48,Norfolk State,12,1
+712,11,"Nov 12, 1977",Wisconsin,8,Iowa,24,0
+713,11,"Nov 12, 1977",Iowa State,22,Kansas State,15,1
+714,11,"Nov 12, 1977",Jackson State,31,Morgan State,14,0
+715,11,"Nov 12, 1977",Florida,7,Kentucky,14,0
+716,11,"Nov 12, 1977",McNeese State,7,Lamar,35,0
+717,11,"Nov 12, 1977",LSU,27,Mississippi State,24,0
+718,11,"Nov 12, 1977",Louisiana Tech,28,Southern Miss,10,1
+719,11,"Nov 12, 1977",Louisville,18,Drake,13,0
+720,11,"Nov 12, 1977",Maryland,27,Richmond,24,1
+721,11,"Nov 12, 1977",Miami (OH),25,Kent State,0,1
+722,11,"Nov 12, 1977",Purdue,7,Michigan,40,0
+723,11,"Nov 12, 1977",Minnesota,21,Illinois,0,1
+724,11,"Nov 12, 1977",Ole Miss,43,Tennessee,14,0
+725,11,"Nov 12, 1977",Missouri,41,Oklahoma State,14,0
+726,11,"Nov 12, 1977",Navy,20,Georgia Tech,16,0
+727,11,"Nov 12, 1977",Kansas,7,Nebraska,52,1
+728,11,"Nov 12, 1977",North Carolina,35,Virginia,14,1
+729,11,"Nov 12, 1977",NC State,37,Duke,32,1
+730,11,"Nov 12, 1977",Northwestern State,20,Louisiana,13,0
+731,11,"Nov 12, 1977",Notre Dame,21,Clemson,17,1
+732,11,"Nov 12, 1977",Indiana,7,Ohio State,35,1
+733,11,"Nov 12, 1977",Oklahoma,52,Colorado,14,0
+734,11,"Nov 12, 1977",Pacific,31,Louisiana-Monroe,0,0
+735,11,"Nov 12, 1977",Temple,7,Penn State,44,1
+736,11,"Nov 12, 1977",Pennsylvania,7,Dartmouth,3,0
+737,11,"Nov 12, 1977",Pitt,52,Army,26,1
+738,11,"Nov 12, 1977",Princeton,34,Cornell,0,0
+739,11,"Nov 12, 1977",Tulane,8,Rutgers,47,1
+740,11,"Nov 12, 1977",San Diego State,33,Long Beach State,22,0
+741,11,"Nov 12, 1977",South Carolina,24,Wake Forest,14,1
+742,11,"Nov 12, 1977",Stanford,31,San Jose State,26,0
+743,11,"Nov 12, 1977",Boston College,3,Syracuse,20,1
+744,11,"Nov 12, 1977",Chattanooga,14,Tennessee State,14,0
+745,11,"Nov 12, 1977",Texas,44,TCU,14,0
+746,11,"Nov 12, 1977",Texas Southern,85,Langston,13,0
+747,11,"Nov 12, 1977",SMU,7,Texas Tech,45,0
+748,11,"Nov 12, 1977",Texas-Arlington,44,Arkansas State,14,1
+749,11,"Nov 12, 1977",Tulsa,27,New Mexico State,24,0
+750,11,"Nov 12, 1977",UCLA,48,Oregon State,18,0
+751,11,"Nov 12, 1977",Utah,29,UTEP,17,0
+752,11,"Nov 12, 1977",Utah State,32,Wyoming,31,0
+753,11,"Nov 12, 1977",Villanova,24,Holy Cross,0,1
+754,11,"Nov 12, 1977",Virginia Military Institute,31,Furman,28,1
+755,11,"Nov 12, 1977",Washington,28,USC,10,0
+756,11,"Nov 12, 1977",Washington State,45,Idaho,17,0
+757,11,"Nov 12, 1977",West Virginia,20,Virginia Tech,14,0
+758,11,"Nov 12, 1977",Western Carolina,41,Marshall,26,1
+759,11,"Nov 12, 1977",Wichita State,41,Indiana State,14,1
+760,11,"Nov 12, 1977",William & Mary,21,East Carolina,17,1
+761,11,"Nov 12, 1977",Harvard,7,Yale,24,1
+762,12,"Nov 19, 1977",Arizona,41,UTEP,24,1
+763,12,"Nov 19, 1977",SMU,7,Arkansas,47,1
+764,12,"Nov 19, 1977",Arkansas State,14,Southern Miss,10,1
+765,12,"Nov 19, 1977",Ball State,45,Eastern Michigan,21,0
+766,12,"Nov 19, 1977",Massachusetts,7,Boston College,34,1
+767,12,"Nov 19, 1977",BYU,30,Long Beach State,27,0
+768,12,"Nov 19, 1977",Central Michigan,28,Western Michigan,23,0
+769,12,"Nov 19, 1977",Chattanooga,37,Marshall,20,0
+770,12,"Nov 19, 1977",Furman,3,Citadel,10,1
+771,12,"Nov 19, 1977",Clemson,31,South Carolina,27,1
+772,12,"Nov 19, 1977",Colorado,23,Kansas State,0,0
+773,12,"Nov 19, 1977",Colorado State,25,Arizona State,14,0
+774,12,"Nov 19, 1977",Colgate,3,Delaware,21,1
+775,12,"Nov 19, 1977",Southern Illinois,9,Drake,13,0
+776,12,"Nov 19, 1977",Florida,38,Utah,29,0
+777,12,"Nov 19, 1977",Santa Clara,7,Fresno State,35,1
+778,12,"Nov 19, 1977",Grambling State,55,Southern,20,1
+779,12,"Nov 19, 1977",Hawaii,41,Bowling Green,21,0
+780,12,"Nov 19, 1977",Connecticut,3,Holy Cross,14,0
+781,12,"Nov 19, 1977",Texas Tech,7,Houston,45,1
+782,12,"Nov 19, 1977",Idaho,47,New Mexico State,44,1
+783,12,"Nov 19, 1977",Indiana,21,Purdue,10,0
+784,12,"Nov 19, 1977",Iowa State,21,Oklahoma State,13,0
+785,12,"Nov 19, 1977",Jackson State,23,Alcorn State,16,0
+786,12,"Nov 19, 1977",Kansas,24,Missouri,22,0
+787,12,"Nov 19, 1977",Kent State,23,Toledo,12,1
+788,12,"Nov 19, 1977",Kentucky,21,Tennessee,17,0
+789,12,"Nov 19, 1977",LSU,20,Tulane,17,1
+790,12,"Nov 19, 1977",Maryland,28,Virginia,0,0
+791,12,"Nov 19, 1977",Louisiana,9,McNeese State,9,0
+792,12,"Nov 19, 1977",Memphis,28,Wichita State,14,1
+793,12,"Nov 19, 1977",Ohio State,6,Michigan,14,1
+794,12,"Nov 19, 1977",Michigan State,22,Iowa,16,1
+795,12,"Nov 19, 1977",Wisconsin,7,Minnesota,13,1
+796,12,"Nov 19, 1977",Mississippi State,18,Ole Miss,14,0
+797,12,"Nov 19, 1977",Duke,3,North Carolina,16,0
+798,12,"Nov 19, 1977",North Texas,41,Louisiana Tech,14,1
+799,12,"Nov 19, 1977",Ohio,6,Northern Illinois,20,1
+800,12,"Nov 19, 1977",Illinois,7,Northwestern,21,1
+801,12,"Nov 19, 1977",Notre Dame,49,Air Force,0,0
+802,12,"Nov 19, 1977",Oregon,28,Oregon State,16,0
+803,12,"Nov 19, 1977",Cal State Fullerton,7,Pacific,49,1
+804,12,"Nov 19, 1977",Boston University,8,Rutgers,63,1
+805,12,"Nov 19, 1977",San Diego State,41,Florida State,16,0
+806,12,"Nov 19, 1977",Southeastern Louisiana,38,Northwestern State,21,0
+807,12,"Nov 19, 1977",California,3,Stanford,21,1
+808,12,"Nov 19, 1977",West Virginia,9,Syracuse,28,1
+809,12,"Nov 19, 1977",Temple,38,Villanova,15,1
+810,12,"Nov 19, 1977",Baylor,7,Texas,29,1
+811,12,"Nov 19, 1977",Texas A&M,52,TCU,23,1
+812,12,"Nov 19, 1977",Texas Southern,29,Prairie View A&M,28,1
+813,12,"Nov 19, 1977",Lamar,7,Texas-Arlington,14,1
+814,12,"Nov 19, 1977",Idaho State,7,Utah State,35,0
+815,12,"Nov 19, 1977",Cincinnati,9,Vanderbilt,13,1
+816,12,"Nov 19, 1977",Rhode Island,7,Virginia Military Institute,20,1
+817,12,"Nov 19, 1977",Virginia Tech,28,Wake Forest,10,0
+818,12,"Nov 19, 1977",Washington,35,Washington State,15,0
+819,12,"Nov 19, 1977",West Texas State,57,Tulsa,21,0
+820,12,"Nov 19, 1977",Western Carolina,44,Appalachian State,14,0
+821,12,"Nov 19, 1977",William & Mary,29,Richmond,13,0
+822,12,"Nov 19, 1977",Wyoming,23,New Mexico,21,1
+823,12,"Nov 20, 1977",Louisville,27,Indiana State,16,0
+824,13,"Nov 24, 1977",Arkansas,17,Texas Tech,14,1
+825,13,"Nov 24, 1977",Cincinnati,7,Miami (OH),12,0
+826,13,"Nov 25, 1977",Nebraska,7,Oklahoma,38,1
+827,13,"Nov 25, 1977",USC,29,UCLA,27,0
+828,13,"Nov 26, 1977",Alabama,48,Auburn,21,0
+829,13,"Nov 26, 1977",Arizona,7,Arizona State,23,1
+830,13,"Nov 26, 1977",Army,17,Navy,14,0
+831,13,"Nov 26, 1977",TCU,9,Baylor,48,1
+832,13,"Nov 26, 1977",BYU,68,UTEP,19,1
+833,13,"Nov 26, 1977",Colorado State,13,Utah State,10,0
+834,13,"Nov 26, 1977",Florida,31,Miami,14,1
+835,13,"Nov 26, 1977",Georgia,7,Georgia Tech,16,1
+836,13,"Nov 26, 1977",South Carolina,7,Hawaii,24,1
+837,13,"Nov 26, 1977",Holy Cross,35,Boston College,20,0
+838,13,"Nov 26, 1977",Houston,51,Rice,21,1
+839,13,"Nov 26, 1977",Long Beach State,29,Bowling Green,28,0
+840,13,"Nov 26, 1977",Wyoming,7,LSU,66,1
+841,13,"Nov 26, 1977",Louisiana Tech,20,Louisiana-Monroe,0,0
+842,13,"Nov 26, 1977",New Mexico,41,Utah,24,0
+843,13,"Nov 26, 1977",Penn State,15,Pitt,13,1
+844,13,"Nov 26, 1977",Vanderbilt,7,Tennessee,42,1
+845,13,"Nov 26, 1977",Texas,57,Texas A&M,28,1
+846,13,"Nov 26, 1977",Virginia Military Institute,7,Virginia Tech,27,1
+847,13,"Nov 26, 1977",Southern Illinois,9,West Texas State,28,1
+848,14,"Dec 3, 1977",Arizona,17,Hawaii,10,1
+849,14,"Dec 3, 1977",Florida,9,Florida State,37,0
+850,14,"Dec 3, 1977",Notre Dame,48,Miami,10,1
+851,14,"Dec 3, 1977",San Diego State,37,San Jose State,34,1
+852,14,"Dec 3, 1977",Houston,7,Texas A&M,27,1
+853,15,"Dec 11, 1977",Grambling State,35,Temple,32,0
+854,16,"Dec 17, 1977",Louisiana Tech,24,Louisville,14,0
+855,16,"Dec 19, 1977",Nebraska,21,North Carolina,17,0
+856,17,"Dec 22, 1977",Minnesota,7,Maryland,17,1
+857,17,"Dec 23, 1977",Florida State,40,Texas Tech,17,0
+858,17,"Dec 25, 1977",Penn State,42,Arizona State,30,1
+859,18,"Dec 30, 1977",Pitt,34,Clemson,3,0
+860,18,"Dec 31, 1977",NC State,24,Iowa State,14,0
+861,18,"Dec 31, 1977",USC,47,Texas A&M,28,0
+862,18,"Dec 31, 1977",Stanford,24,LSU,14,0
+863,19,"Jan 2, 1978",Ohio State,6,Alabama,35,1
+864,19,"Jan 2, 1978",Oklahoma,6,Arkansas,31,1
+865,19,"Jan 2, 1978",Notre Dame,38,Texas,10,0
+866,19,"Jan 2, 1978",Washington,27,Michigan,20,0

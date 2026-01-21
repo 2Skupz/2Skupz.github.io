@@ -1,0 +1,686 @@
+0,1,"Aug 28, 1999",Louisiana Tech,7,Florida State,41,1
+1,1,"Aug 28, 1999",NC State,23,Texas,20,1
+2,1,"Aug 28, 1999",Notre Dame,48,Kansas,13,0
+3,1,"Aug 28, 1999",Arizona,7,Penn State,41,1
+4,1,"Aug 29, 1999",Miami,23,Ohio State,12,0
+5,2,"Sep 2, 1999",Central Michigan,33,Eastern Illinois,17,0
+6,2,"Sep 2, 1999",Idaho,48,Eastern Washington,21,0
+7,2,"Sep 2, 1999",Indiana State,7,Iowa State,33,1
+8,2,"Sep 2, 1999",Maryland,6,Temple,0,1
+9,2,"Sep 2, 1999",Michigan State,27,Oregon,20,0
+10,2,"Sep 2, 1999",North Texas,3,UNLV,26,0
+11,2,"Sep 2, 1999",New Mexico State,73,New Mexico Highlands,7,0
+12,2,"Sep 2, 1999",Syracuse,35,Toledo,12,1
+13,2,"Sep 2, 1999",Western Illinois,27,Northern Illinois,21,1
+14,2,"Sep 4, 1999",Air Force,37,Villanova,13,0
+15,2,"Sep 4, 1999",Alabama,28,Vanderbilt,17,1
+16,2,"Sep 4, 1999",Arkansas,26,SMU,0,1
+17,2,"Sep 4, 1999",Auburn,22,Appalachian State,15,0
+18,2,"Sep 4, 1999",Boston College,30,Baylor,29,0
+19,2,"Sep 4, 1999",Rutgers,7,California,21,1
+20,2,"Sep 4, 1999",Cincinnati,41,Kent State,3,0
+21,2,"Sep 4, 1999",Colorado State,41,Colorado,14,0
+22,2,"Sep 4, 1999",East Carolina,30,West Virginia,23,0
+23,2,"Sep 4, 1999",Florida,55,Western Michigan,26,0
+24,2,"Sep 4, 1999",Portland State,6,Fresno State,34,1
+25,2,"Sep 4, 1999",Utah State,7,Georgia,38,1
+26,2,"Sep 4, 1999",Georgia Tech,49,Navy,14,1
+27,2,"Sep 4, 1999",Rice,3,Houston,28,1
+28,2,"Sep 4, 1999",Illinois,41,Arkansas State,3,0
+29,2,"Sep 4, 1999",Ball State,9,Indiana,21,1
+30,2,"Sep 4, 1999",LSU,29,San Jose State,21,0
+31,2,"Sep 4, 1999",Louisiana-Monroe,27,Nicholls State,10,0
+32,2,"Sep 4, 1999",Louisville,56,Kentucky,28,1
+33,2,"Sep 4, 1999",Marshall,13,Clemson,10,1
+34,2,"Sep 4, 1999",Miami,57,Florida A&M,3,0
+35,2,"Sep 4, 1999",Northwestern,3,Miami (OH),28,0
+36,2,"Sep 4, 1999",Michigan,26,Notre Dame,22,0
+37,2,"Sep 4, 1999",Ohio,7,Minnesota,33,1
+38,2,"Sep 4, 1999",Ole Miss,3,Memphis,0,1
+39,2,"Sep 4, 1999",Middle Tennessee,7,Mississippi State,40,1
+40,2,"Sep 4, 1999",Missouri,31,UAB,28,0
+41,2,"Sep 4, 1999",Iowa,7,Nebraska,42,0
+42,2,"Sep 4, 1999",NC State,10,South Carolina,0,0
+43,2,"Sep 4, 1999",Louisiana,7,Oklahoma State,24,1
+44,2,"Sep 4, 1999",Oregon State,28,Nevada,13,1
+45,2,"Sep 4, 1999",Penn State,70,Akron,24,0
+46,2,"Sep 4, 1999",Pitt,30,Bowling Green,10,0
+47,2,"Sep 4, 1999",Purdue,47,UCF,13,1
+48,2,"Sep 4, 1999",San Diego State,41,South Florida,12,0
+49,2,"Sep 4, 1999",Hawaii,7,USC,62,0
+50,2,"Sep 4, 1999",Tennessee,42,Wyoming,17,0
+51,2,"Sep 4, 1999",Texas,69,Stanford,17,0
+52,2,"Sep 4, 1999",Texas A&M,37,Louisiana Tech,17,1
+53,2,"Sep 4, 1999",UTEP,13,New Mexico,10,0
+54,2,"Sep 4, 1999",Tulsa,45,Missouri State,21,0
+55,2,"Sep 4, 1999",Boise State,7,UCLA,38,1
+56,2,"Sep 4, 1999",Washington State,7,Utah,27,0
+57,2,"Sep 4, 1999",Virginia,20,North Carolina,17,1
+58,2,"Sep 4, 1999",Virginia Tech,47,James Madison,0,0
+59,2,"Sep 4, 1999",Wisconsin,49,Murray State,10,0
+60,2,"Sep 5, 1999",Arizona,35,TCU,31,1
+61,2,"Sep 6, 1999",Arizona State,31,Texas Tech,13,0
+62,2,"Sep 6, 1999",Southern Miss,48,Tulane,14,0
+63,3,"Sep 9, 1999",BYU,35,Washington,28,0
+64,3,"Sep 11, 1999",Akron,17,Buffalo,10,1
+65,3,"Sep 11, 1999",Alabama,37,Houston,10,0
+66,3,"Sep 11, 1999",Arizona,34,Middle Tennessee,19,0
+67,3,"Sep 11, 1999",Auburn,30,Idaho,23,0
+68,3,"Sep 11, 1999",Boise State,35,Southern Utah,27,0
+69,3,"Sep 11, 1999",Bowling Green,40,Tennessee Tech,15,0
+70,3,"Sep 11, 1999",Clemson,33,Virginia,14,0
+71,3,"Sep 11, 1999",Colorado,63,San Jose State,35,0
+72,3,"Sep 11, 1999",Colorado State,38,Nevada,33,0
+73,3,"Sep 11, 1999",Duke,9,East Carolina,27,1
+74,3,"Sep 11, 1999",Florida,58,UCF,27,0
+75,3,"Sep 11, 1999",Florida State,41,Georgia Tech,35,0
+76,3,"Sep 11, 1999",South Carolina,9,Georgia,24,1
+77,3,"Sep 11, 1999",Hawaii,31,Eastern Illinois,27,0
+78,3,"Sep 11, 1999",Illinois,38,San Diego State,10,0
+79,3,"Sep 11, 1999",Iowa State,17,Iowa,10,0
+80,3,"Sep 11, 1999",Kansas,71,Cal State Northridge,14,0
+81,3,"Sep 11, 1999",Kansas State,40,Temple,0,0
+82,3,"Sep 11, 1999",Kentucky,45,Connecticut,14,0
+83,3,"Sep 11, 1999",LSU,52,North Texas,0,0
+84,3,"Sep 11, 1999",Louisiana Tech,55,Sam Houston,17,0
+85,3,"Sep 11, 1999",Louisville,58,Chattanooga,30,0
+86,3,"Sep 11, 1999",Marshall,63,Liberty,3,0
+87,3,"Sep 11, 1999",Maryland,51,Western Carolina,10,0
+88,3,"Sep 11, 1999",Michigan,37,Rice,3,0
+89,3,"Sep 11, 1999",Eastern Michigan,7,Michigan State,51,1
+90,3,"Sep 11, 1999",Minnesota,35,Louisiana-Monroe,0,0
+91,3,"Sep 11, 1999",Ole Miss,38,Arkansas State,14,0
+92,3,"Sep 11, 1999",Mississippi State,13,Memphis,10,0
+93,3,"Sep 11, 1999",Navy,48,Kent State,28,1
+94,3,"Sep 11, 1999",Nebraska,45,California,0,0
+95,3,"Sep 11, 1999",UNLV,27,Baylor,24,1
+96,3,"Sep 11, 1999",New Mexico State,35,New Mexico,28,1
+97,3,"Sep 11, 1999",North Carolina,42,Indiana,30,1
+98,3,"Sep 11, 1999",William & Mary,9,NC State,38,1
+99,3,"Sep 11, 1999",Northern Iowa,36,Ohio,21,1
+100,3,"Sep 11, 1999",TCU,7,Northwestern,17,1
+101,3,"Sep 11, 1999",Ohio State,42,UCLA,20,0
+102,3,"Sep 11, 1999",Oklahoma,49,Indiana State,0,0
+103,3,"Sep 11, 1999",Tulsa,9,Oklahoma State,46,1
+104,3,"Sep 11, 1999",Oregon,47,UTEP,28,0
+105,3,"Sep 11, 1999",Oregon State,46,Fresno State,23,0
+106,3,"Sep 11, 1999",Penn State,20,Pitt,17,0
+107,3,"Sep 11, 1999",Purdue,28,Notre Dame,23,0
+108,3,"Sep 11, 1999",Northwestern State,6,Southern Miss,40,1
+109,3,"Sep 11, 1999",Stanford,54,Washington State,17,0
+110,3,"Sep 11, 1999",Central Michigan,7,Syracuse,47,1
+111,3,"Sep 11, 1999",Texas,38,Rutgers,21,1
+112,3,"Sep 11, 1999",Texas Tech,38,Louisiana,17,1
+113,3,"Sep 11, 1999",Troy,31,Cincinnati,24,1
+114,3,"Sep 11, 1999",Tulane,53,SMU,19,0
+115,3,"Sep 11, 1999",Utah State,51,Stephen F. Austin,17,0
+116,3,"Sep 11, 1999",Vanderbilt,34,Northern Illinois,31,0
+117,3,"Sep 11, 1999",Virginia Tech,31,UAB,10,0
+118,3,"Sep 11, 1999",Wake Forest,34,Army,15,1
+119,3,"Sep 11, 1999",West Virginia,43,Miami (OH),27,0
+120,3,"Sep 11, 1999",Western Michigan,46,Youngstown State,28,0
+121,3,"Sep 11, 1999",Wisconsin,50,Ball State,10,0
+122,3,"Sep 11, 1999",Wyoming,41,Weber State,16,0
+123,4,"Sep 16, 1999",BYU,34,Colorado State,13,0
+124,4,"Sep 18, 1999",Air Force,31,Washington,21,1
+125,4,"Sep 18, 1999",Akron,25,Temple,15,0
+126,4,"Sep 18, 1999",Louisiana-Monroe,6,Arkansas,44,1
+127,4,"Sep 18, 1999",LSU,7,Auburn,41,0
+128,4,"Sep 18, 1999",Boston College,14,Navy,10,1
+129,4,"Sep 18, 1999",Cincinnati,17,Wisconsin,12,0
+130,4,"Sep 18, 1999",Colorado,51,Kansas,17,0
+131,4,"Sep 18, 1999",Connecticut,23,Buffalo,0,0
+132,4,"Sep 18, 1999",South Carolina,3,East Carolina,21,0
+133,4,"Sep 18, 1999",Florida,23,Tennessee,21,0
+134,4,"Sep 18, 1999",Florida State,42,NC State,11,0
+135,4,"Sep 18, 1999",Georgia Tech,41,UCF,10,0
+136,4,"Sep 18, 1999",Hawaii,34,Boise State,19,0
+137,4,"Sep 18, 1999",Houston,45,Louisiana,0,0
+138,4,"Sep 18, 1999",Idaho,28,Washington State,17,0
+139,4,"Sep 18, 1999",Illinois,41,Louisville,36,1
+140,4,"Sep 18, 1999",Iowa,24,Northern Illinois,0,0
+141,4,"Sep 18, 1999",Iowa State,24,UNLV,0,1
+142,4,"Sep 18, 1999",UTEP,7,Kansas State,40,1
+143,4,"Sep 18, 1999",Kentucky,44,Indiana,35,1
+144,4,"Sep 18, 1999",Louisiana Tech,29,Alabama,28,1
+145,4,"Sep 18, 1999",Marshall,35,Bowling Green,16,0
+146,4,"Sep 18, 1999",Maryland,33,West Virginia,0,0
+147,4,"Sep 18, 1999",Memphis,31,Arkansas State,26,0
+148,4,"Sep 18, 1999",Miami (OH),35,Eastern Michigan,14,0
+149,4,"Sep 18, 1999",Michigan,18,Syracuse,13,1
+150,4,"Sep 18, 1999",Michigan State,23,Notre Dame,13,1
+151,4,"Sep 18, 1999",Middle Tennessee,52,Wofford,42,0
+152,4,"Sep 18, 1999",Illinois State,7,Minnesota,55,1
+153,4,"Sep 18, 1999",Mississippi State,29,Oklahoma State,11,0
+154,4,"Sep 18, 1999",Missouri,48,Western Michigan,34,0
+155,4,"Sep 18, 1999",Nebraska,20,Southern Miss,13,0
+156,4,"Sep 18, 1999",New Mexico,45,Northern Arizona,14,0
+157,4,"Sep 18, 1999",Arizona State,7,New Mexico State,35,0
+158,4,"Sep 18, 1999",North Texas,21,Texas Tech,14,1
+159,4,"Sep 18, 1999",Northwestern,15,Duke,12,1
+160,4,"Sep 18, 1999",Ohio State,40,Ohio,16,0
+161,4,"Sep 18, 1999",Oklahoma,41,Baylor,10,0
+162,4,"Sep 18, 1999",Oregon,72,Nevada,10,0
+163,4,"Sep 18, 1999",Oregon State,48,Georgia Southern,41,0
+164,4,"Sep 18, 1999",Penn State,27,Miami,23,1
+165,4,"Sep 18, 1999",Pitt,30,Kent State,23,0
+166,4,"Sep 18, 1999",Purdue,58,Central Michigan,16,0
+167,4,"Sep 18, 1999",San Jose State,38,Saint Mary's (CA),3,0
+168,4,"Sep 18, 1999",USC,24,San Diego State,21,0
+169,4,"Sep 18, 1999",Stanford,50,Arizona,22,1
+170,4,"Sep 18, 1999",Texas,18,Rice,13,0
+171,4,"Sep 18, 1999",Texas A&M,62,Tulsa,13,0
+172,4,"Sep 18, 1999",Toledo,23,Ball State,10,1
+173,4,"Sep 18, 1999",Tulane,48,Army,28,0
+174,4,"Sep 18, 1999",UCLA,35,Fresno State,21,0
+175,4,"Sep 18, 1999",Utah,38,Utah State,18,0
+176,4,"Sep 18, 1999",Vanderbilt,37,Ole Miss,34,1
+177,4,"Sep 18, 1999",Wake Forest,7,Virginia,35,1
+178,5,"Sep 23, 1999",Virginia Tech,31,Clemson,11,0
+179,5,"Sep 25, 1999",Alabama,35,Arkansas,28,0
+180,5,"Sep 25, 1999",UAB,29,Houston,10,0
+181,5,"Sep 25, 1999",Arizona,30,Washington State,24,1
+182,5,"Sep 25, 1999",Army,41,Ball State,21,0
+183,5,"Sep 25, 1999",New Mexico,9,Boise State,20,1
+184,5,"Sep 25, 1999",Rutgers,7,Boston College,27,0
+185,5,"Sep 25, 1999",California,24,Arizona State,23,0
+186,5,"Sep 25, 1999",East Carolina,27,Miami,23,0
+187,5,"Sep 25, 1999",Eastern Michigan,38,Akron,17,0
+188,5,"Sep 25, 1999",Florida,38,Kentucky,10,1
+189,5,"Sep 25, 1999",Florida State,42,North Carolina,10,1
+190,5,"Sep 25, 1999",Fresno State,49,Nevada,24,1
+191,5,"Sep 25, 1999",Georgia,24,UCF,23,0
+192,5,"Sep 25, 1999",Hawaii,20,SMU,0,1
+193,5,"Sep 25, 1999",Kansas State,35,Iowa State,28,1
+194,5,"Sep 25, 1999",Kent State,41,Bowling Green,27,0
+195,5,"Sep 25, 1999",Louisiana,45,Middle Tennessee,31,0
+196,5,"Sep 25, 1999",Northwestern State,7,Louisiana-Monroe,38,1
+197,5,"Sep 25, 1999",Marshall,34,Temple,0,0
+198,5,"Sep 25, 1999",Miami (OH),24,Central Michigan,16,1
+199,5,"Sep 25, 1999",Michigan,21,Wisconsin,16,1
+200,5,"Sep 25, 1999",Michigan State,27,Illinois,10,1
+201,5,"Sep 25, 1999",Ole Miss,24,Auburn,17,1
+202,5,"Sep 25, 1999",Mississippi State,17,South Carolina,0,0
+203,5,"Sep 25, 1999",Nebraska,40,Missouri,10,1
+204,5,"Sep 25, 1999",Buffalo,6,Ohio,45,1
+205,5,"Sep 25, 1999",Ohio State,34,Cincinnati,20,0
+206,5,"Sep 25, 1999",Oklahoma,42,Louisville,21,1
+207,5,"Sep 25, 1999",Oregon,33,USC,30,0
+208,5,"Sep 25, 1999",Penn State,45,Indiana,24,0
+209,5,"Sep 25, 1999",Purdue,31,Northwestern,23,0
+210,5,"Sep 25, 1999",Rice,20,Navy,17,0
+211,5,"Sep 25, 1999",San Diego State,41,Kansas,13,1
+212,5,"Sep 25, 1999",San Jose State,34,Tulsa,10,0
+213,5,"Sep 25, 1999",Stanford,42,UCLA,32,0
+214,5,"Sep 25, 1999",West Virginia,7,Syracuse,30,1
+215,5,"Sep 25, 1999",Tennessee,17,Memphis,16,0
+216,5,"Sep 25, 1999",Texas,62,Baylor,0,1
+217,5,"Sep 25, 1999",Southern Miss,6,Texas A&M,23,1
+218,5,"Sep 25, 1999",TCU,24,Arkansas State,21,1
+219,5,"Sep 25, 1999",UTEP,54,New Mexico State,23,0
+220,5,"Sep 25, 1999",Massachusetts,3,Toledo,24,1
+221,5,"Sep 25, 1999",Utah,52,UNLV,14,1
+222,5,"Sep 25, 1999",Vanderbilt,31,Duke,14,1
+223,5,"Sep 25, 1999",Virginia,45,BYU,40,1
+224,5,"Sep 25, 1999",NC State,7,Wake Forest,31,1
+225,5,"Sep 25, 1999",Washington,31,Colorado,24,0
+226,5,"Sep 25, 1999",Western Michigan,24,Northern Illinois,21,1
+227,5,"Sep 25, 1999",Air Force,7,Wyoming,10,0
+228,6,"Sep 30, 1999",Georgia Tech,49,Maryland,31,0
+229,6,"Oct 1, 1999",BYU,34,Utah State,31,1
+230,6,"Oct 2, 1999",Air Force,23,San Diego State,22,1
+231,6,"Oct 2, 1999",Ball State,9,Akron,31,0
+232,6,"Oct 2, 1999",Alabama,40,Florida,39,1
+233,6,"Oct 2, 1999",UAB,47,Louisiana-Monroe,0,0
+234,6,"Oct 2, 1999",Arizona State,28,UCLA,27,0
+235,6,"Oct 2, 1999",Arkansas State,45,Sam Houston,20,0
+236,6,"Oct 2, 1999",Baylor,23,North Texas,10,0
+237,6,"Oct 2, 1999",Boise State,26,Utah,20,0
+238,6,"Oct 2, 1999",Boston College,33,Northeastern,22,0
+239,6,"Oct 2, 1999",Bowling Green,34,Toledo,23,0
+240,6,"Oct 2, 1999",UCF,31,Eastern Illinois,21,0
+241,6,"Oct 2, 1999",Clemson,31,North Carolina,20,0
+242,6,"Oct 2, 1999",New Mexico State,7,Colorado State,46,1
+243,6,"Oct 2, 1999",East Carolina,33,Army,14,1
+244,6,"Oct 2, 1999",Florida State,51,Duke,23,0
+245,6,"Oct 2, 1999",Fresno State,26,TCU,19,0
+246,6,"Oct 2, 1999",Georgia,23,LSU,22,0
+247,6,"Oct 2, 1999",Hawaii,33,UTEP,3,0
+248,6,"Oct 2, 1999",Indiana,34,Illinois,31,0
+249,6,"Oct 2, 1999",SMU,9,Kansas,27,1
+250,6,"Oct 2, 1999",Kansas State,35,Texas,17,1
+251,6,"Oct 2, 1999",Kentucky,31,Arkansas,20,0
+252,6,"Oct 2, 1999",Louisiana Tech,41,Louisiana,31,1
+253,6,"Oct 2, 1999",Louisville,45,Eastern Michigan,10,0
+254,6,"Oct 2, 1999",Marshall,32,Miami (OH),14,1
+255,6,"Oct 2, 1999",Michigan,38,Purdue,12,0
+256,6,"Oct 2, 1999",Michigan State,49,Iowa,3,0
+257,6,"Oct 2, 1999",Minnesota,33,Northwestern,14,1
+258,6,"Oct 2, 1999",Ole Miss,36,South Carolina,10,1
+259,6,"Oct 2, 1999",Mississippi State,42,Vanderbilt,14,1
+260,6,"Oct 2, 1999",Missouri,27,Memphis,17,1
+261,6,"Oct 2, 1999",Navy,31,West Virginia,28,1
+262,6,"Oct 2, 1999",Nebraska,38,Oklahoma State,14,0
+263,6,"Oct 2, 1999",Nevada,26,UNLV,12,0
+264,6,"Oct 2, 1999",Northern Illinois,45,Buffalo,21,1
+265,6,"Oct 2, 1999",Notre Dame,34,Oklahoma,30,0
+266,6,"Oct 2, 1999",Ohio,31,Kent State,3,0
+267,6,"Oct 2, 1999",Pitt,55,Temple,24,0
+268,6,"Oct 2, 1999",Rice,20,Tulsa,10,1
+269,6,"Oct 2, 1999",San Jose State,44,Stanford,39,1
+270,6,"Oct 2, 1999",USC,37,Oregon State,29,0
+271,6,"Oct 2, 1999",Syracuse,47,Tulane,17,0
+272,6,"Oct 2, 1999",Tennessee,24,Auburn,0,0
+273,6,"Oct 2, 1999",Texas Tech,21,Texas A&M,19,0
+274,6,"Oct 2, 1999",Troy,48,Middle Tennessee,31,1
+275,6,"Oct 2, 1999",Virginia,7,Virginia Tech,31,0
+276,6,"Oct 2, 1999",Wake Forest,17,Rutgers,10,0
+277,6,"Oct 2, 1999",Washington,34,Oregon,20,0
+278,6,"Oct 2, 1999",California,7,Washington State,31,1
+279,6,"Oct 2, 1999",Western Michigan,38,Central Michigan,16,0
+280,6,"Oct 2, 1999",Wisconsin,42,Ohio State,17,1
+281,6,"Oct 2, 1999",Wyoming,28,Idaho,13,0
+282,7,"Oct 7, 1999",Army,59,Louisville,52,0
+283,7,"Oct 7, 1999",Syracuse,24,Pitt,17,1
+284,7,"Oct 9, 1999",Air Force,19,Navy,14,1
+285,7,"Oct 9, 1999",Akron,41,Ohio,28,0
+286,7,"Oct 9, 1999",Arizona,31,USC,24,0
+287,7,"Oct 9, 1999",Middle Tennessee,6,Arkansas,58,1
+288,7,"Oct 9, 1999",Eastern Washington,7,Boise State,41,1
+289,7,"Oct 9, 1999",BYU,38,California,28,0
+290,7,"Oct 9, 1999",Central Michigan,38,Buffalo,19,1
+291,7,"Oct 9, 1999",Colorado,46,Missouri,39,0
+292,7,"Oct 9, 1999",Duke,24,Virginia,17,1
+293,7,"Oct 9, 1999",Florida,31,LSU,10,1
+294,7,"Oct 9, 1999",Florida State,31,Miami,21,0
+295,7,"Oct 9, 1999",Fresno State,44,Colorado State,13,0
+296,7,"Oct 9, 1999",Georgia Tech,31,North Carolina,24,0
+297,7,"Oct 9, 1999",Houston,23,Cincinnati,20,0
+298,7,"Oct 9, 1999",Idaho,28,North Texas,10,0
+299,7,"Oct 9, 1999",Indiana,34,Northwestern,17,0
+300,7,"Oct 9, 1999",Kansas,9,Kansas State,50,1
+301,7,"Oct 9, 1999",Kentucky,30,South Carolina,10,1
+302,7,"Oct 9, 1999",Maryland,17,Wake Forest,14,1
+303,7,"Oct 9, 1999",Memphis,38,UAB,14,1
+304,7,"Oct 9, 1999",Miami (OH),45,Bowling Green,31,1
+305,7,"Oct 9, 1999",Michigan State,34,Michigan,31,0
+306,7,"Oct 9, 1999",Ole Miss,20,Tulane,13,0
+307,7,"Oct 9, 1999",Mississippi State,18,Auburn,16,1
+308,7,"Oct 9, 1999",Nebraska,49,Iowa State,14,0
+309,7,"Oct 9, 1999",Nevada,23,New Mexico State,16,1
+310,7,"Oct 9, 1999",UNLV,35,Wyoming,32,1
+311,7,"Oct 9, 1999",New Mexico,24,San Diego State,21,1
+312,7,"Oct 9, 1999",NC State,35,Clemson,31,0
+313,7,"Oct 9, 1999",Northern Illinois,37,Ball State,17,0
+314,7,"Oct 9, 1999",Notre Dame,48,Arizona State,17,0
+315,7,"Oct 9, 1999",Ohio State,25,Purdue,22,0
+316,7,"Oct 9, 1999",Oklahoma State,41,Texas Tech,21,0
+317,7,"Oct 9, 1999",Iowa,7,Penn State,31,0
+318,7,"Oct 9, 1999",Rice,38,Hawaii,19,1
+319,7,"Oct 9, 1999",Southern Miss,39,East Carolina,22,1
+320,7,"Oct 9, 1999",Temple,24,Boston College,14,0
+321,7,"Oct 9, 1999",Tennessee,37,Georgia,20,0
+322,7,"Oct 9, 1999",Texas,38,Oklahoma,28,0
+323,7,"Oct 9, 1999",Texas A&M,45,Baylor,13,0
+324,7,"Oct 9, 1999",TCU,42,San Jose State,0,0
+325,7,"Oct 9, 1999",UTEP,42,SMU,28,0
+326,7,"Oct 9, 1999",Kent State,7,Toledo,47,1
+327,7,"Oct 9, 1999",UCLA,34,Oregon,29,0
+328,7,"Oct 9, 1999",Utah,42,Louisiana-Monroe,0,0
+329,7,"Oct 9, 1999",Utah State,20,Arkansas State,14,0
+330,7,"Oct 9, 1999",Vanderbilt,58,Citadel,0,0
+331,7,"Oct 9, 1999",Virginia Tech,58,Rutgers,20,1
+332,7,"Oct 9, 1999",Washington,47,Oregon State,21,1
+333,7,"Oct 9, 1999",Washington State,44,Louisiana,0,0
+334,7,"Oct 9, 1999",Western Michigan,40,Eastern Michigan,37,1
+335,7,"Oct 9, 1999",Wisconsin,20,Minnesota,17,1
+336,8,"Oct 14, 1999",Marshall,38,Toledo,13,0
+337,8,"Oct 14, 1999",SMU,24,Fresno State,14,0
+338,8,"Oct 16, 1999",Akron,55,Bowling Green,25,0
+339,8,"Oct 16, 1999",Alabama,30,Ole Miss,24,1
+340,8,"Oct 16, 1999",UAB,24,Cincinnati,21,1
+341,8,"Oct 16, 1999",Arizona,34,UTEP,21,0
+342,8,"Oct 16, 1999",Washington,7,Arizona State,28,0
+343,8,"Oct 16, 1999",Arkansas,48,South Carolina,14,0
+344,8,"Oct 16, 1999",Boston College,20,Pitt,16,0
+345,8,"Oct 16, 1999",New Mexico,7,BYU,31,0
+346,8,"Oct 16, 1999",California,17,UCLA,0,1
+347,8,"Oct 16, 1999",UCF,28,Nicholls State,0,0
+348,8,"Oct 16, 1999",Clemson,42,Maryland,30,1
+349,8,"Oct 16, 1999",Eastern Michigan,27,Ohio,26,0
+350,8,"Oct 16, 1999",Florida,32,Auburn,14,1
+351,8,"Oct 16, 1999",Florida State,33,Wake Forest,10,0
+352,8,"Oct 16, 1999",Georgia,27,Vanderbilt,17,1
+353,8,"Oct 16, 1999",Georgia Tech,38,Duke,31,1
+354,8,"Oct 16, 1999",Houston,20,North Carolina,12,1
+355,8,"Oct 16, 1999",Idaho,30,Arkansas State,24,1
+356,8,"Oct 16, 1999",Iowa State,24,Missouri,21,1
+357,8,"Oct 16, 1999",Kansas State,40,Utah State,0,0
+358,8,"Oct 16, 1999",LSU,5,Kentucky,31,1
+359,8,"Oct 16, 1999",Louisiana Tech,42,Middle Tennessee,18,0
+360,8,"Oct 16, 1999",Louisville,32,Memphis,31,1
+361,8,"Oct 16, 1999",Miami (OH),17,Kent State,10,1
+362,8,"Oct 16, 1999",Illinois,7,Minnesota,37,0
+363,8,"Oct 16, 1999",North Texas,17,Boise State,10,0
+364,8,"Oct 16, 1999",Northern Illinois,31,Central Michigan,27,1
+365,8,"Oct 16, 1999",Northwestern,23,Iowa,21,0
+366,8,"Oct 16, 1999",Notre Dame,25,USC,24,0
+367,8,"Oct 16, 1999",Penn State,23,Ohio State,10,0
+368,8,"Oct 16, 1999",Purdue,52,Michigan State,28,0
+369,8,"Oct 16, 1999",San Jose State,7,Rice,49,1
+370,8,"Oct 16, 1999",San Diego State,17,Colorado State,10,1
+371,8,"Oct 16, 1999",Southern Miss,24,Army,0,0
+372,8,"Oct 16, 1999",Stanford,21,Oregon State,17,0
+373,8,"Oct 16, 1999",Texas A&M,34,Kansas,17,0
+374,8,"Oct 16, 1999",TCU,56,Tulsa,17,0
+375,8,"Oct 16, 1999",Texas Tech,31,Colorado,10,0
+376,8,"Oct 16, 1999",Tulane,48,Louisiana,32,0
+377,8,"Oct 16, 1999",Utah,21,Air Force,15,1
+378,8,"Oct 16, 1999",Virginia,47,NC State,26,1
+379,8,"Oct 16, 1999",Virginia Tech,62,Syracuse,0,0
+380,8,"Oct 16, 1999",West Virginia,62,Rutgers,16,0
+381,8,"Oct 16, 1999",Western Michigan,45,Buffalo,17,0
+382,8,"Oct 16, 1999",Wisconsin,59,Indiana,0,0
+383,8,"Oct 16, 1999",Wyoming,38,Louisiana-Monroe,20,1
+384,9,"Oct 23, 1999",Akron,35,Navy,29,1
+385,9,"Oct 23, 1999",Arizona State,33,Washington State,21,0
+386,9,"Oct 23, 1999",Arkansas State,14,North Texas,10,1
+387,9,"Oct 23, 1999",Army,35,New Mexico State,18,0
+388,9,"Oct 23, 1999",Boise State,52,Nevada,17,0
+389,9,"Oct 23, 1999",BYU,29,UNLV,0,1
+390,9,"Oct 23, 1999",Colorado,16,Iowa State,12,1
+391,9,"Oct 23, 1999",Colorado State,24,Wyoming,13,1
+392,9,"Oct 23, 1999",Tulane,7,East Carolina,52,1
+393,9,"Oct 23, 1999",Eastern Michigan,20,Toledo,13,1
+394,9,"Oct 23, 1999",Florida State,17,Clemson,14,1
+395,9,"Oct 23, 1999",Fresno State,24,UTEP,23,0
+396,9,"Oct 23, 1999",Georgia,49,Kentucky,34,0
+397,9,"Oct 23, 1999",Hawaii,35,Tulsa,21,1
+398,9,"Oct 23, 1999",Idaho,31,Utah State,3,0
+399,9,"Oct 23, 1999",Illinois,35,Michigan,29,1
+400,9,"Oct 23, 1999",Indiana,38,Iowa,31,1
+401,9,"Oct 23, 1999",Kansas,21,Missouri,0,0
+402,9,"Oct 23, 1999",Kansas State,44,Oklahoma State,21,1
+403,9,"Oct 23, 1999",Louisiana Tech,46,UCF,35,1
+404,9,"Oct 23, 1999",Louisiana,7,Louisiana-Monroe,31,0
+405,9,"Oct 23, 1999",Louisville,39,Houston,33,0
+406,9,"Oct 23, 1999",Marshall,59,Buffalo,3,1
+407,9,"Oct 23, 1999",North Carolina,7,Maryland,45,1
+408,9,"Oct 23, 1999",Miami,31,Boston College,28,1
+409,9,"Oct 23, 1999",Mississippi State,17,LSU,16,0
+410,9,"Oct 23, 1999",NC State,31,Duke,24,1
+411,9,"Oct 23, 1999",Kent State,7,Northern Illinois,50,1
+412,9,"Oct 23, 1999",Ohio,17,Bowling Green,14,0
+413,9,"Oct 23, 1999",Ohio State,20,Minnesota,17,1
+414,9,"Oct 23, 1999",Texas A&M,6,Oklahoma,51,1
+415,9,"Oct 23, 1999",Oregon,44,Arizona,41,1
+416,9,"Oct 23, 1999",UCLA,7,Oregon State,55,1
+417,9,"Oct 23, 1999",Penn State,31,Purdue,25,1
+418,9,"Oct 23, 1999",Pitt,38,Rutgers,15,1
+419,9,"Oct 23, 1999",Rice,42,TCU,21,0
+420,9,"Oct 23, 1999",Southern Miss,28,Cincinnati,20,0
+421,9,"Oct 23, 1999",Stanford,35,USC,31,1
+422,9,"Oct 23, 1999",Alabama,7,Tennessee,21,0
+423,9,"Oct 23, 1999",Texas,24,Nebraska,20,0
+424,9,"Oct 23, 1999",Baylor,7,Texas Tech,35,0
+425,9,"Oct 23, 1999",Utah,38,San Diego State,16,0
+426,9,"Oct 23, 1999",Vanderbilt,11,South Carolina,10,1
+427,9,"Oct 23, 1999",Wake Forest,47,UAB,3,0
+428,9,"Oct 23, 1999",Washington,31,California,27,1
+429,9,"Oct 23, 1999",West Virginia,20,Temple,17,0
+430,9,"Oct 23, 1999",Western Michigan,28,Ball State,0,0
+431,9,"Oct 23, 1999",Wisconsin,40,Michigan State,10,0
+432,10,"Oct 28, 1999",Colorado State,31,Utah,24,0
+433,10,"Oct 30, 1999",Alabama,35,Southern Miss,14,0
+434,10,"Oct 30, 1999",UCLA,7,Arizona,33,0
+435,10,"Oct 30, 1999",Arkansas,34,Auburn,10,0
+436,10,"Oct 30, 1999",Arkansas State,31,Louisiana,27,0
+437,10,"Oct 30, 1999",Boise State,33,Utah State,27,1
+438,10,"Oct 30, 1999",Boston College,24,Syracuse,23,1
+439,10,"Oct 30, 1999",Central Michigan,7,Bowling Green,31,1
+440,10,"Oct 30, 1999",BYU,27,Air Force,20,0
+441,10,"Oct 30, 1999",USC,7,California,17,1
+442,10,"Oct 30, 1999",Eastern Michigan,6,UCF,31,1
+443,10,"Oct 30, 1999",Cincinnati,52,Miami (OH),42,1
+444,10,"Oct 30, 1999",Wake Forest,3,Clemson,12,0
+445,10,"Oct 30, 1999",Colorado,38,Oklahoma,24,0
+446,10,"Oct 30, 1999",Duke,25,Maryland,22,1
+447,10,"Oct 30, 1999",Houston,3,East Carolina,19,0
+448,10,"Oct 30, 1999",Florida,30,Georgia,14,0
+449,10,"Oct 30, 1999",Florida State,35,Virginia,10,1
+450,10,"Oct 30, 1999",Fresno State,28,Tulsa,14,1
+451,10,"Oct 30, 1999",North Carolina,3,Furman,28,0
+452,10,"Oct 30, 1999",Georgia Tech,48,NC State,21,0
+453,10,"Oct 30, 1999",Baylor,7,Kansas State,48,1
+454,10,"Oct 30, 1999",Kent State,41,Buffalo,20,0
+455,10,"Oct 30, 1999",Louisiana Tech,34,Toledo,17,1
+456,10,"Oct 30, 1999",Louisiana-Monroe,10,Middle Tennessee,0,0
+457,10,"Oct 30, 1999",Louisville,23,UAB,14,0
+458,10,"Oct 30, 1999",Northern Illinois,9,Marshall,41,1
+459,10,"Oct 30, 1999",Tulane,7,Memphis,49,0
+460,10,"Oct 30, 1999",Miami,28,West Virginia,20,0
+461,10,"Oct 30, 1999",Michigan,34,Indiana,31,1
+462,10,"Oct 30, 1999",Ole Miss,42,LSU,23,1
+463,10,"Oct 30, 1999",Texas Tech,7,Missouri,34,1
+464,10,"Oct 30, 1999",Nebraska,24,Kansas,17,1
+465,10,"Oct 30, 1999",Nevada,41,North Texas,28,0
+466,10,"Oct 30, 1999",UNLV,6,New Mexico,27,1
+467,10,"Oct 30, 1999",New Mexico State,42,Idaho,14,0
+468,10,"Oct 30, 1999",Notre Dame,28,Navy,24,0
+469,10,"Oct 30, 1999",Ohio,37,Ball State,25,1
+470,10,"Oct 30, 1999",Ohio State,41,Iowa,11,0
+471,10,"Oct 30, 1999",Oregon,20,Arizona State,17,0
+472,10,"Oct 30, 1999",Oregon State,27,Washington State,13,1
+473,10,"Oct 30, 1999",Illinois,7,Penn State,27,0
+474,10,"Oct 30, 1999",Purdue,33,Minnesota,28,1
+475,10,"Oct 30, 1999",SMU,27,Rice,2,0
+476,10,"Oct 30, 1999",Temple,56,Rutgers,28,0
+477,10,"Oct 30, 1999",South Carolina,7,Tennessee,30,1
+478,10,"Oct 30, 1999",Texas,44,Iowa State,41,1
+479,10,"Oct 30, 1999",Oklahoma State,3,Texas A&M,21,1
+480,10,"Oct 30, 1999",TCU,34,Hawaii,14,1
+481,10,"Oct 30, 1999",UTEP,42,San Jose State,26,0
+482,10,"Oct 30, 1999",Virginia Tech,30,Pitt,17,1
+483,10,"Oct 30, 1999",Washington,35,Stanford,30,0
+484,10,"Oct 30, 1999",Western Michigan,24,Akron,10,1
+485,10,"Oct 30, 1999",Wisconsin,35,Northwestern,19,1
+486,11,"Nov 4, 1999",Mississippi State,23,Kentucky,22,0
+487,11,"Nov 6, 1999",Air Force,28,Army,0,0
+488,11,"Nov 6, 1999",Alabama,23,LSU,17,0
+489,11,"Nov 6, 1999",UAB,36,East Carolina,17,0
+490,11,"Nov 6, 1999",Arizona State,26,USC,16,1
+491,11,"Nov 6, 1999",Auburn,28,UCF,10,0
+492,11,"Nov 6, 1999",Boise State,63,Arkansas State,10,0
+493,11,"Nov 6, 1999",San Diego State,7,BYU,30,0
+494,11,"Nov 6, 1999",Duke,7,Clemson,58,1
+495,11,"Nov 6, 1999",Colorado State,36,New Mexico,22,1
+496,11,"Nov 6, 1999",Eastern Michigan,31,Ball State,21,0
+497,11,"Nov 6, 1999",Vanderbilt,6,Florida,13,1
+498,11,"Nov 6, 1999",Fresno State,47,Rice,18,0
+499,11,"Nov 6, 1999",Hawaii,62,San Jose State,41,1
+500,11,"Nov 6, 1999",Hofstra,20,Buffalo,13,1
+501,11,"Nov 6, 1999",Houston,36,Tulane,31,0
+502,11,"Nov 6, 1999",Idaho,42,Nevada,33,1
+503,11,"Nov 6, 1999",Illinois,40,Iowa,24,1
+504,11,"Nov 6, 1999",Kansas,45,Baylor,10,0
+505,11,"Nov 6, 1999",Kansas State,20,Colorado,14,0
+506,11,"Nov 6, 1999",Louisiana Tech,58,Louisiana-Monroe,17,0
+507,11,"Nov 6, 1999",Louisville,23,Cincinnati,13,1
+508,11,"Nov 6, 1999",Marshall,28,Kent State,16,1
+509,11,"Nov 6, 1999",Miami,33,Pitt,3,1
+510,11,"Nov 6, 1999",Miami (OH),32,Akron,23,0
+511,11,"Nov 6, 1999",Michigan,37,Northwestern,3,0
+512,11,"Nov 6, 1999",Ohio State,7,Michigan State,23,1
+513,11,"Nov 6, 1999",Middle Tennessee,70,Tennessee-Martin,14,0
+514,11,"Nov 6, 1999",Minnesota,24,Penn State,23,1
+515,11,"Nov 6, 1999",Ole Miss,38,Arkansas,16,0
+516,11,"Nov 6, 1999",Rutgers,7,Navy,34,0
+517,11,"Nov 6, 1999",Nebraska,37,Texas A&M,0,0
+518,11,"Nov 6, 1999",Utah State,6,New Mexico State,14,0
+519,11,"Nov 6, 1999",NC State,30,Maryland,17,0
+520,11,"Nov 6, 1999",Oklahoma,37,Missouri,0,0
+521,11,"Nov 6, 1999",Oregon,52,Washington State,10,0
+522,11,"Nov 6, 1999",California,7,Oregon State,17,1
+523,11,"Nov 6, 1999",Memphis,5,Southern Miss,20,0
+524,11,"Nov 6, 1999",Syracuse,27,Temple,10,0
+525,11,"Nov 6, 1999",Tennessee,38,Notre Dame,14,0
+526,11,"Nov 6, 1999",Texas,34,Oklahoma State,21,1
+527,11,"Nov 6, 1999",Texas Tech,28,Iowa State,16,0
+528,11,"Nov 6, 1999",Toledo,32,Central Michigan,13,1
+529,11,"Nov 6, 1999",Tulsa,43,UTEP,19,1
+530,11,"Nov 6, 1999",Virginia,45,Georgia Tech,38,0
+531,11,"Nov 6, 1999",Virginia Tech,22,West Virginia,20,1
+532,11,"Nov 6, 1999",North Carolina,3,Wake Forest,19,0
+533,11,"Nov 6, 1999",Washington,33,Arizona,25,1
+534,11,"Nov 6, 1999",Wisconsin,28,Purdue,21,1
+535,11,"Nov 6, 1999",Wyoming,43,Utah,29,1
+536,12,"Nov 11, 1999",NC State,6,North Carolina,10,1
+537,12,"Nov 13, 1999",Air Force,35,UNLV,16,0
+538,12,"Nov 13, 1999",Akron,37,Kent State,34,0
+539,12,"Nov 13, 1999",Mississippi State,7,Alabama,19,1
+540,12,"Nov 13, 1999",Arkansas,28,Tennessee,24,0
+541,12,"Nov 13, 1999",Arkansas State,44,Nevada,28,0
+542,12,"Nov 13, 1999",Auburn,38,Georgia,21,1
+543,12,"Nov 13, 1999",Boise State,45,New Mexico State,26,0
+544,12,"Nov 13, 1999",Boston College,34,West Virginia,17,0
+545,12,"Nov 13, 1999",Bowling Green,35,Ball State,14,0
+546,12,"Nov 13, 1999",UCF,39,Middle Tennessee,14,1
+547,12,"Nov 13, 1999",Central Michigan,29,Eastern Michigan,26,0
+548,12,"Nov 13, 1999",Colorado,37,Baylor,0,1
+549,12,"Nov 13, 1999",Duke,48,Wake Forest,35,0
+550,12,"Nov 13, 1999",East Carolina,48,Cincinnati,34,0
+551,12,"Nov 13, 1999",South Carolina,3,Florida,20,0
+552,12,"Nov 13, 1999",Florida State,49,Maryland,10,0
+553,12,"Nov 13, 1999",Georgia Tech,45,Clemson,42,0
+554,12,"Nov 13, 1999",Hawaii,31,Fresno State,24,0
+555,12,"Nov 13, 1999",LSU,7,Houston,20,0
+556,12,"Nov 13, 1999",Idaho,33,Montana,30,1
+557,12,"Nov 13, 1999",Illinois,46,Ohio State,20,1
+558,12,"Nov 13, 1999",Kentucky,19,Vanderbilt,17,1
+559,12,"Nov 13, 1999",Louisiana Tech,41,UAB,20,1
+560,12,"Nov 13, 1999",Louisiana-Monroe,37,Tulsa,34,1
+561,12,"Nov 13, 1999",Marshall,31,Western Michigan,17,1
+562,12,"Nov 13, 1999",Memphis,14,Army,10,0
+563,12,"Nov 13, 1999",Michigan,31,Penn State,27,1
+564,12,"Nov 13, 1999",Michigan State,34,Northwestern,0,1
+565,12,"Nov 13, 1999",Minnesota,44,Indiana,20,0
+566,12,"Nov 13, 1999",Navy,45,Tulane,21,0
+567,12,"Nov 13, 1999",Nebraska,41,Kansas State,15,0
+568,12,"Nov 13, 1999",Ohio,40,Miami (OH),28,0
+569,12,"Nov 13, 1999",Oklahoma,31,Iowa State,10,1
+570,12,"Nov 13, 1999",Oklahoma State,45,Kansas,13,0
+571,12,"Nov 13, 1999",Oregon,24,California,19,1
+572,12,"Nov 13, 1999",Oregon State,28,Arizona,20,0
+573,12,"Nov 13, 1999",Pitt,37,Notre Dame,27,0
+574,12,"Nov 13, 1999",Rutgers,24,Syracuse,21,0
+575,12,"Nov 13, 1999",USC,31,Washington State,28,1
+576,12,"Nov 13, 1999",SMU,58,Cal State Northridge,16,0
+577,12,"Nov 13, 1999",Southern Miss,48,Louisiana,0,0
+578,12,"Nov 13, 1999",Stanford,50,Arizona State,30,1
+579,12,"Nov 13, 1999",Texas Tech,7,Texas,58,1
+580,12,"Nov 13, 1999",Texas A&M,51,Missouri,14,1
+581,12,"Nov 13, 1999",North Texas,3,TCU,27,1
+582,12,"Nov 13, 1999",UTEP,30,Rice,29,1
+583,12,"Nov 13, 1999",Toledo,44,Northern Illinois,14,0
+584,12,"Nov 13, 1999",UCLA,23,Washington,20,0
+585,12,"Nov 13, 1999",New Mexico,7,Utah,52,1
+586,12,"Nov 13, 1999",Virginia,50,Buffalo,21,0
+587,12,"Nov 13, 1999",Virginia Tech,43,Miami,10,0
+588,12,"Nov 13, 1999",Wisconsin,41,Iowa,3,0
+589,12,"Nov 13, 1999",Wyoming,31,BYU,17,0
+590,13,"Nov 18, 1999",Colorado State,41,Air Force,21,0
+591,13,"Nov 20, 1999",Alabama,28,Auburn,17,1
+592,13,"Nov 20, 1999",UAB,23,Tulane,20,1
+593,13,"Nov 20, 1999",Mississippi State,9,Arkansas,14,1
+594,13,"Nov 20, 1999",Boise State,45,Idaho,14,1
+595,13,"Nov 20, 1999",Boston College,31,Notre Dame,29,1
+596,13,"Nov 20, 1999",Bowling Green,33,UCF,30,1
+597,13,"Nov 20, 1999",Central Michigan,27,Ball State,21,1
+598,13,"Nov 20, 1999",Clemson,31,South Carolina,21,1
+599,13,"Nov 20, 1999",NC State,6,East Carolina,23,1
+600,13,"Nov 20, 1999",Florida State,30,Florida,23,1
+601,13,"Nov 20, 1999",Fresno State,63,San Jose State,12,0
+602,13,"Nov 20, 1999",Georgia,20,Ole Miss,17,1
+603,13,"Nov 20, 1999",Hawaii,48,Navy,41,0
+604,13,"Nov 20, 1999",Houston,26,Army,14,1
+605,13,"Nov 20, 1999",Northwestern,7,Illinois,29,1
+606,13,"Nov 20, 1999",Kansas,31,Iowa State,28,0
+607,13,"Nov 20, 1999",Kansas State,66,Missouri,0,0
+608,13,"Nov 20, 1999",Louisiana,37,Wofford,34,0
+609,13,"Nov 20, 1999",Memphis,21,Cincinnati,13,1
+610,13,"Nov 20, 1999",Miami,55,Rutgers,0,0
+611,13,"Nov 20, 1999",Miami (OH),43,Buffalo,0,0
+612,13,"Nov 20, 1999",Michigan,24,Ohio State,17,0
+613,13,"Nov 20, 1999",Michigan State,35,Penn State,28,0
+614,13,"Nov 20, 1999",East Tennessee State,7,Middle Tennessee,24,1
+615,13,"Nov 20, 1999",Minnesota,25,Iowa,21,1
+616,13,"Nov 20, 1999",North Texas,9,New Mexico State,22,1
+617,13,"Nov 20, 1999",North Carolina,38,Duke,0,0
+618,13,"Nov 20, 1999",Northern Illinois,30,Eastern Michigan,23,0
+619,13,"Nov 20, 1999",Oklahoma State,34,Baylor,14,1
+620,13,"Nov 20, 1999",Oregon,25,Oregon State,14,0
+621,13,"Nov 20, 1999",Purdue,30,Indiana,24,1
+622,13,"Nov 20, 1999",UNLV,7,San Diego State,37,0
+623,13,"Nov 20, 1999",UCLA,7,USC,17,1
+624,13,"Nov 20, 1999",SMU,28,Tulsa,14,1
+625,13,"Nov 20, 1999",Southern Miss,30,Louisville,27,1
+626,13,"Nov 20, 1999",Stanford,31,California,13,0
+627,13,"Nov 20, 1999",Tennessee,56,Kentucky,21,1
+628,13,"Nov 20, 1999",TCU,52,UTEP,24,0
+629,13,"Nov 20, 1999",Texas Tech,38,Oklahoma,28,0
+630,13,"Nov 20, 1999",Toledo,45,Western Michigan,21,0
+631,13,"Nov 20, 1999",Utah,20,BYU,17,1
+632,13,"Nov 20, 1999",Utah State,37,Nevada,35,1
+633,13,"Nov 20, 1999",Virginia,34,Maryland,30,1
+634,13,"Nov 20, 1999",Temple,7,Virginia Tech,62,0
+635,13,"Nov 20, 1999",Wake Forest,26,Georgia Tech,23,0
+636,13,"Nov 20, 1999",Washington,24,Washington State,14,0
+637,13,"Nov 20, 1999",Wyoming,42,New Mexico,28,0
+638,14,"Nov 25, 1999",Mississippi State,23,Ole Miss,20,0
+639,14,"Nov 26, 1999",LSU,35,Arkansas,10,0
+640,14,"Nov 26, 1999",Marshall,34,Ohio,3,0
+641,14,"Nov 26, 1999",Nebraska,33,Colorado,30,1
+642,14,"Nov 26, 1999",USC,45,Louisiana Tech,19,0
+643,14,"Nov 26, 1999",Texas A&M,20,Texas,16,0
+644,14,"Nov 26, 1999",TCU,21,SMU,0,0
+645,14,"Nov 26, 1999",Virginia Tech,38,Boston College,14,0
+646,14,"Nov 27, 1999",Arizona State,42,Arizona,27,0
+647,14,"Nov 27, 1999",Colorado State,35,UNLV,17,1
+648,14,"Nov 27, 1999",Georgia Tech,51,Georgia,48,0
+649,14,"Nov 27, 1999",Miami,45,Syracuse,13,0
+650,14,"Nov 27, 1999",New Mexico,33,Air Force,28,0
+651,14,"Nov 27, 1999",Oklahoma State,7,Oklahoma,44,1
+652,14,"Nov 27, 1999",Wyoming,7,San Diego State,39,1
+653,14,"Nov 27, 1999",Stanford,40,Notre Dame,37,0
+654,14,"Nov 27, 1999",Tennessee,38,Vanderbilt,10,0
+655,14,"Nov 27, 1999",North Texas,7,Utah State,34,0
+656,14,"Nov 27, 1999",Washington State,22,Hawaii,14,1
+657,14,"Nov 27, 1999",West Virginia,52,Pitt,21,1
+658,15,"Dec 3, 1999",Marshall,34,Western Michigan,30,0
+659,15,"Dec 4, 1999",Florida,7,Alabama,34,1
+660,15,"Dec 4, 1999",Miami,55,Temple,0,0
+661,15,"Dec 4, 1999",Army,9,Navy,19,1
+662,15,"Dec 4, 1999",Texas,6,Nebraska,22,1
+663,16,"Dec 18, 1999",Utah,17,Fresno State,16,0
+664,17,"Dec 22, 1999",TCU,28,East Carolina,14,0
+665,17,"Dec 25, 1999",Hawaii,23,Oregon State,17,0
+666,17,"Dec 25, 1999",Arizona State,3,Wake Forest,23,1
+667,17,"Dec 27, 1999",BYU,3,Marshall,21,1
+668,18,"Dec 28, 1999",Penn State,24,Texas A&M,0,0
+669,18,"Dec 29, 1999",Kansas State,24,Washington,20,0
+670,18,"Dec 29, 1999",Syracuse,20,Kentucky,13,0
+671,18,"Dec 30, 1999",Boise State,34,Louisville,31,0
+672,18,"Dec 30, 1999",Illinois,63,Virginia,21,0
+673,18,"Dec 30, 1999",Clemson,7,Mississippi State,17,1
+674,18,"Dec 31, 1999",Colorado,62,Boston College,28,0
+675,18,"Dec 31, 1999",Ole Miss,27,Oklahoma,25,0
+676,18,"Dec 31, 1999",Oregon,24,Minnesota,20,0
+677,18,"Dec 31, 1999",Southern Miss,23,Colorado State,17,0
+678,18,"Jan 1, 2000",Texas,6,Arkansas,27,1
+679,18,"Jan 1, 2000",Georgia,28,Purdue,25,0
+680,18,"Jan 1, 2000",Miami,28,Georgia Tech,13,0
+681,18,"Jan 1, 2000",Michigan,35,Alabama,34,0
+682,18,"Jan 1, 2000",Michigan State,37,Florida,34,0
+683,18,"Jan 1, 2000",Stanford,9,Wisconsin,17,1
+684,18,"Jan 2, 2000",Nebraska,31,Tennessee,21,0
+685,19,"Jan 4, 2000",Florida State,46,Virginia Tech,29,0

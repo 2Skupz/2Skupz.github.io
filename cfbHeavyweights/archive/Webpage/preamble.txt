@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Football Heavyweight Championship</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .center-image {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .center-image img {
+            width: 400px;
+            height: 300px;
+            object-fit: contain;
+        }
+        .preamble {
+            text-align: justify;
+            margin-top: 20px;
+        }
+        .small-table-container {
+            max-width: 40%;
+            margin: 0 auto;
+        }
+        .champ-header {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #2c3e50; /* Subtle navy */
+            color: #ecf0f1; /* Light gray text */
+            margin-bottom: 10px;
+            font-size: 1.3em;
+            letter-spacing: 1px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .table {
+            margin: 10px 0;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .table th, .table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        .table th {
+            background-color: #f2f2f2;
+        }
+        .links-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .links-column {
+            width: 45%;
+        }
+        .links-column a {
+            display: block;
+            margin-bottom: 10px;
+            text-decoration: none;
+            color: #34495e; /* Dark, muted blue */
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        .links-column a:hover {
+            color: #2980b9; /* Brighter blue on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="center-image">
+            <img src="theChamp.jpeg" alt="Championship Image">
+        </div>
+        <div class="preamble">
+            In boxing (and other sports), one becomes the champ by beating the champ. And they remain the champ until someone takes it from them. 
+            What if college football did this? On November 6, 1869 Rutgers defeated Princeton 6-4 (in a game that more closely resembled soccer than 
+            what we’d call football, but we’re counting it anyway), winning the first College Football Heavyweight Bout. Princeton would win the 
+            rematch 8-0 to take back the Belt. Since then, I’ve tracked the progress of the Belt and all the challenges for it. The 320th (and current) 
+            Heavyweight Champion of College Football is Louisville.
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,662 @@
+0,1,"Aug 24, 1996",BYU,41,Texas A&M,37,0
+1,1,"Aug 25, 1996",USC,7,Penn State,24,1
+2,2,"Aug 29, 1996",UCF,39,William & Mary,33,0
+3,2,"Aug 29, 1996",Eastern Illinois,28,Western Michigan,20,1
+4,2,"Aug 29, 1996",Kansas,35,Ball State,10,0
+5,2,"Aug 29, 1996",Louisiana-Monroe,14,Nicholls State,12,0
+6,2,"Aug 29, 1996",New Mexico State,7,New Mexico,28,0
+7,2,"Aug 29, 1996",Ohio,44,Akron,14,0
+8,2,"Aug 29, 1996",Wake Forest,19,Appalachian State,13,0
+9,2,"Aug 30, 1996",Tulane,34,Cincinnati,14,1
+10,2,"Aug 31, 1996",Air Force,45,San Jose State,0,0
+11,2,"Aug 31, 1996",Bowling Green,7,Alabama,21,1
+12,2,"Aug 31, 1996",UTEP,3,Arizona,23,1
+13,2,"Aug 31, 1996",Auburn,29,UAB,0,0
+14,2,"Aug 31, 1996",Boston College,24,Hawaii,21,1
+15,2,"Aug 31, 1996",Arkansas State,9,BYU,58,1
+16,2,"Aug 31, 1996",Central Michigan,42,Boise State,21,1
+17,2,"Aug 31, 1996",Colorado,37,Washington State,19,0
+18,2,"Aug 31, 1996",Colorado State,61,Chattanooga,19,0
+19,2,"Aug 31, 1996",Florida,55,Louisiana,21,0
+20,2,"Aug 31, 1996",Houston,43,Sam Houston,25,0
+21,2,"Aug 31, 1996",Kansas State,21,Texas Tech,14,0
+22,2,"Aug 31, 1996",Louisiana Tech,20,Middle Tennessee,0,0
+23,2,"Aug 31, 1996",Louisville,38,Kentucky,14,1
+24,2,"Aug 31, 1996",Northern Illinois,6,Maryland,30,1
+25,2,"Aug 31, 1996",Memphis,7,Miami,30,0
+26,2,"Aug 31, 1996",Miami (OH),64,Kent State,6,0
+27,2,"Aug 31, 1996",Illinois,8,Michigan,20,1
+28,2,"Aug 31, 1996",Michigan State,52,Purdue,14,0
+29,2,"Aug 31, 1996",Ole Miss,38,Idaho State,14,0
+30,2,"Aug 31, 1996",North Carolina,45,Clemson,0,0
+31,2,"Aug 31, 1996",Oklahoma State,23,Missouri State,20,0
+32,2,"Aug 31, 1996",Oregon,30,Fresno State,27,1
+33,2,"Aug 31, 1996",Rutgers,38,Villanova,28,0
+34,2,"Aug 31, 1996",SMU,17,Tulsa,10,0
+35,2,"Aug 31, 1996",Georgia,7,Southern Miss,11,0
+36,2,"Aug 31, 1996",Temple,28,Eastern Michigan,24,1
+37,2,"Aug 31, 1996",Tennessee,62,UNLV,3,0
+38,2,"Aug 31, 1996",Texas,40,Missouri,10,0
+39,2,"Aug 31, 1996",Utah State,20,Utah,17,0
+40,2,"Aug 31, 1996",West Virginia,34,Pitt,0,1
+41,2,"Aug 31, 1996",Wyoming,40,Idaho,38,0
+42,3,"Sep 5, 1996",Vanderbilt,7,Notre Dame,14,0
+43,3,"Sep 7, 1996",Air Force,65,UNLV,17,1
+44,3,"Sep 7, 1996",Alabama,20,Southern Miss,10,0
+45,3,"Sep 7, 1996",Arizona State,45,Washington,42,0
+46,3,"Sep 7, 1996",Arkansas State,24,Austin Peay,0,0
+47,3,"Sep 7, 1996",Auburn,62,Fresno State,0,0
+48,3,"Sep 7, 1996",Baylor,24,Louisiana Tech,16,1
+49,3,"Sep 7, 1996",Boise State,33,Portland State,22,0
+50,3,"Sep 7, 1996",California,45,San Jose State,25,1
+51,3,"Sep 7, 1996",Kentucky,3,Cincinnati,24,1
+52,3,"Sep 7, 1996",Furman,3,Clemson,19,1
+53,3,"Sep 7, 1996",Colorado,48,Colorado State,34,1
+54,3,"Sep 7, 1996",East Carolina,45,East Tennessee State,21,0
+55,3,"Sep 7, 1996",Florida,62,Georgia Southern,14,0
+56,3,"Sep 7, 1996",Duke,7,Florida State,44,1
+57,3,"Sep 7, 1996",Georgia Tech,28,NC State,16,1
+58,3,"Sep 7, 1996",Toledo,6,Indiana,40,0
+59,3,"Sep 7, 1996",Iowa,21,Arizona,20,0
+60,3,"Sep 7, 1996",Kansas State,59,Indiana State,3,0
+61,3,"Sep 7, 1996",LSU,35,Houston,34,0
+62,3,"Sep 7, 1996",Maryland,39,UAB,15,0
+63,3,"Sep 7, 1996",Citadel,6,Miami,52,1
+64,3,"Sep 7, 1996",Ball State,6,Miami (OH),16,0
+65,3,"Sep 7, 1996",Minnesota,30,Louisiana-Monroe,3,1
+66,3,"Sep 7, 1996",Virginia Military Institute,7,Ole Miss,31,1
+67,3,"Sep 7, 1996",Mississippi State,31,Memphis,10,1
+68,3,"Sep 7, 1996",Montana,35,Oregon State,14,1
+69,3,"Sep 7, 1996",Rutgers,6,Navy,10,0
+70,3,"Sep 7, 1996",Nebraska,55,Michigan State,14,0
+71,3,"Sep 7, 1996",New Mexico,49,Northern Arizona,33,0
+72,3,"Sep 7, 1996",North Carolina,27,Syracuse,10,1
+73,3,"Sep 7, 1996",North Texas,20,Illinois State,14,0
+74,3,"Sep 7, 1996",Ohio,21,Hawaii,10,1
+75,3,"Sep 7, 1996",Ohio State,70,Rice,7,0
+76,3,"Sep 7, 1996",Oregon,44,Nevada,30,0
+77,3,"Sep 7, 1996",Louisville,7,Penn State,24,1
+78,3,"Sep 7, 1996",Pitt,52,Kent State,14,0
+79,3,"Sep 7, 1996",San Diego State,40,Idaho,21,0
+80,3,"Sep 7, 1996",South Carolina,33,UCF,14,0
+81,3,"Sep 7, 1996",USC,55,Illinois,3,1
+82,3,"Sep 7, 1996",SMU,23,Arkansas,10,1
+83,3,"Sep 7, 1996",Tennessee,35,UCLA,20,0
+84,3,"Sep 7, 1996",New Mexico State,7,Texas,41,1
+85,3,"Sep 7, 1996",Oklahoma,7,TCU,20,0
+86,3,"Sep 7, 1996",Texas Tech,31,Oklahoma State,3,0
+87,3,"Sep 7, 1996",Utah,17,Stanford,10,1
+88,3,"Sep 7, 1996",Utah State,57,Cal State Northridge,27,0
+89,3,"Sep 7, 1996",Virginia,55,Central Michigan,21,0
+90,3,"Sep 7, 1996",Virginia Tech,21,Akron,18,1
+91,3,"Sep 7, 1996",Wake Forest,28,Northwestern,27,0
+92,3,"Sep 7, 1996",Washington State,38,Temple,34,1
+93,3,"Sep 7, 1996",Western Michigan,9,West Virginia,34,1
+94,3,"Sep 7, 1996",Western Illinois,17,Northern Illinois,0,1
+95,3,"Sep 7, 1996",Eastern Michigan,3,Wisconsin,24,1
+96,3,"Sep 7, 1996",Wyoming,41,Iowa State,38,1
+97,4,"Sep 12, 1996",Miami,33,Rutgers,0,1
+98,4,"Sep 14, 1996",Alabama,36,Vanderbilt,26,0
+99,4,"Sep 14, 1996",UAB,42,Arkansas State,17,0
+100,4,"Sep 14, 1996",Arizona,41,Illinois,0,0
+101,4,"Sep 14, 1996",North Texas,7,Arizona State,52,1
+102,4,"Sep 14, 1996",Army,37,Ohio,20,0
+103,4,"Sep 14, 1996",Auburn,45,Ole Miss,28,1
+104,4,"Sep 14, 1996",Baylor,14,Louisville,13,1
+105,4,"Sep 14, 1996",Bowling Green,20,Temple,16,0
+106,4,"Sep 14, 1996",California,42,San Diego State,37,0
+107,4,"Sep 14, 1996",Eastern Michigan,19,Western Michigan,12,1
+108,4,"Sep 14, 1996",Eastern Washington,27,Boise State,21,1
+109,4,"Sep 14, 1996",Georgia Tech,30,Wake Forest,10,0
+110,4,"Sep 14, 1996",Houston,42,Pitt,35,1
+111,4,"Sep 14, 1996",Idaho,52,Saint Mary's (CA),17,0
+112,4,"Sep 14, 1996",Indiana,21,Miami (OH),14,0
+113,4,"Sep 14, 1996",Iowa,38,Iowa State,13,0
+114,4,"Sep 14, 1996",Kansas,52,TCU,17,1
+115,4,"Sep 14, 1996",Kansas State,35,Cincinnati,0,0
+116,4,"Sep 14, 1996",Kent State,28,Youngstown State,12,0
+117,4,"Sep 14, 1996",Louisiana,29,Texas A&M,22,0
+118,4,"Sep 14, 1996",Louisiana Tech,38,Central Michigan,37,1
+119,4,"Sep 14, 1996",Memphis,19,Missouri,16,1
+120,4,"Sep 14, 1996",Michigan,20,Colorado,13,1
+121,4,"Sep 14, 1996",Minnesota,26,Ball State,23,0
+122,4,"Sep 14, 1996",Montana State,7,Nevada,31,1
+123,4,"Sep 14, 1996",UCF,7,New Mexico,17,1
+124,4,"Sep 14, 1996",Northwestern,38,Duke,13,1
+125,4,"Sep 14, 1996",Notre Dame,35,Purdue,0,0
+126,4,"Sep 14, 1996",Tulsa,9,Oklahoma State,30,1
+127,4,"Sep 14, 1996",Oregon,35,Colorado State,28,0
+128,4,"Sep 14, 1996",Penn State,49,Northern Illinois,0,0
+129,4,"Sep 14, 1996",Rice,21,Tulane,14,1
+130,4,"Sep 14, 1996",South Carolina,23,Georgia,14,0
+131,4,"Sep 14, 1996",USC,46,Oregon State,17,0
+132,4,"Sep 14, 1996",Southern Miss,31,Utah State,24,0
+133,4,"Sep 14, 1996",Stanford,25,San Jose State,2,0
+134,4,"Sep 14, 1996",New Mexico State,7,UTEP,14,1
+135,4,"Sep 14, 1996",Toledo,27,Akron,10,1
+136,4,"Sep 14, 1996",UCLA,44,Louisiana-Monroe,0,0
+137,4,"Sep 14, 1996",Utah,21,SMU,17,1
+138,4,"Sep 14, 1996",Maryland,3,Virginia,21,1
+139,4,"Sep 14, 1996",Boston College,7,Virginia Tech,45,0
+140,4,"Sep 14, 1996",Washington,29,BYU,17,0
+141,4,"Sep 14, 1996",East Carolina,9,West Virginia,10,1
+142,4,"Sep 14, 1996",Wisconsin,52,UNLV,17,1
+143,4,"Sep 14, 1996",Wyoming,66,Hawaii,0,0
+144,5,"Sep 19, 1996",Florida State,51,NC State,17,1
+145,5,"Sep 21, 1996",Arkansas,7,Alabama,17,0
+146,5,"Sep 21, 1996",UAB,24,Jacksonville State,17,0
+147,5,"Sep 21, 1996",Arizona State,19,Nebraska,0,0
+148,5,"Sep 21, 1996",Army,35,Duke,17,0
+149,5,"Sep 21, 1996",Ball State,31,UCF,10,0
+150,5,"Sep 21, 1996",Baylor,42,Oregon State,10,0
+151,5,"Sep 21, 1996",Bowling Green,14,Miami (OH),10,1
+152,5,"Sep 21, 1996",BYU,17,New Mexico,14,0
+153,5,"Sep 21, 1996",Cal State Northridge,33,New Mexico State,0,1
+154,5,"Sep 21, 1996",California,33,Nevada,15,0
+155,5,"Sep 21, 1996",Central Michigan,38,Western Michigan,28,0
+156,5,"Sep 21, 1996",Colorado State,35,UNLV,16,0
+157,5,"Sep 21, 1996",South Carolina,7,East Carolina,23,0
+158,5,"Sep 21, 1996",Florida,35,Tennessee,29,1
+159,5,"Sep 21, 1996",Georgia,15,Texas Tech,12,0
+160,5,"Sep 21, 1996",Hawaii,20,Boise State,14,0
+161,5,"Sep 21, 1996",Akron,7,Illinois,38,1
+162,5,"Sep 21, 1996",Iowa State,42,Northern Iowa,23,0
+163,5,"Sep 21, 1996",Rice,7,Kansas State,34,0
+164,5,"Sep 21, 1996",Kentucky,3,Indiana,0,0
+165,5,"Sep 21, 1996",LSU,19,Auburn,15,1
+166,5,"Sep 21, 1996",Louisiana Tech,38,Mississippi State,23,1
+167,5,"Sep 21, 1996",Louisiana-Monroe,34,Sam Houston,31,0
+168,5,"Sep 21, 1996",Louisville,30,Michigan State,20,1
+169,5,"Sep 21, 1996",Memphis,17,Tulane,10,0
+170,5,"Sep 21, 1996",Michigan,20,Boston College,14,0
+171,5,"Sep 21, 1996",Minnesota,35,Syracuse,33,0
+172,5,"Sep 21, 1996",Vanderbilt,9,Ole Miss,20,0
+173,5,"Sep 21, 1996",Missouri,38,Clemson,24,0
+174,5,"Sep 21, 1996",Navy,19,SMU,17,0
+175,5,"Sep 21, 1996",North Carolina,16,Georgia Tech,0,0
+176,5,"Sep 21, 1996",Northern Illinois,31,Arkansas State,30,1
+177,5,"Sep 21, 1996",Ohio,7,Northwestern,28,1
+178,5,"Sep 21, 1996",Notre Dame,27,Texas,24,1
+179,5,"Sep 21, 1996",Ohio State,72,Pitt,0,0
+180,5,"Sep 21, 1996",Oklahoma State,31,Utah State,17,0
+181,5,"Sep 21, 1996",Penn State,41,Temple,0,0
+182,5,"Sep 21, 1996",San Diego State,51,Oklahoma,31,0
+183,5,"Sep 21, 1996",San Jose State,26,UTEP,25,0
+184,5,"Sep 21, 1996",Houston,9,USC,26,0
+185,5,"Sep 21, 1996",Southern Miss,52,Louisiana,27,0
+186,5,"Sep 21, 1996",Texas A&M,55,North Texas,0,0
+187,5,"Sep 21, 1996",Eastern Michigan,7,Toledo,24,0
+188,5,"Sep 21, 1996",Tulsa,27,Iowa,20,0
+189,5,"Sep 21, 1996",Utah,45,Fresno State,17,0
+190,5,"Sep 21, 1996",Wake Forest,7,Virginia,42,0
+191,5,"Sep 21, 1996",Virginia Tech,30,Rutgers,14,0
+192,5,"Sep 21, 1996",Washington,31,Arizona,17,0
+193,5,"Sep 21, 1996",Washington State,55,Oregon,44,0
+194,5,"Sep 21, 1996",Purdue,6,West Virginia,20,0
+195,5,"Sep 21, 1996",Wisconsin,14,Stanford,0,0
+196,5,"Sep 21, 1996",Wyoming,22,Air Force,19,0
+197,6,"Sep 26, 1996",Georgia Tech,48,Duke,22,0
+198,6,"Sep 28, 1996",Air Force,45,Rice,17,0
+199,6,"Sep 28, 1996",Western Michigan,7,Akron,27,1
+200,6,"Sep 28, 1996",Arizona State,48,Oregon,27,0
+201,6,"Sep 28, 1996",Arkansas,38,Louisiana-Monroe,21,0
+202,6,"Sep 28, 1996",Army,27,North Texas,10,1
+203,6,"Sep 28, 1996",Boston College,43,Navy,38,0
+204,6,"Sep 28, 1996",Bowling Green,31,Central Michigan,27,0
+205,6,"Sep 28, 1996",BYU,31,SMU,3,0
+206,6,"Sep 28, 1996",California,48,Oregon State,42,0
+207,6,"Sep 28, 1996",Cincinnati,30,Miami (OH),23,0
+208,6,"Sep 28, 1996",Clemson,21,Wake Forest,10,0
+209,6,"Sep 28, 1996",Colorado,24,Texas A&M,10,1
+210,6,"Sep 28, 1996",UCF,7,East Carolina,28,1
+211,6,"Sep 28, 1996",Florida,65,Kentucky,0,0
+212,6,"Sep 28, 1996",Florida State,13,North Carolina,0,0
+213,6,"Sep 28, 1996",Fresno State,20,Hawaii,0,0
+214,6,"Sep 28, 1996",Iowa State,45,Missouri,31,0
+215,6,"Sep 28, 1996",Louisiana,37,Louisiana Tech,31,1
+216,6,"Sep 28, 1996",New Mexico State,7,LSU,63,1
+217,6,"Sep 28, 1996",Miami,45,Pitt,0,0
+218,6,"Sep 28, 1996",UCLA,9,Michigan,38,1
+219,6,"Sep 28, 1996",Michigan State,47,Eastern Michigan,0,0
+220,6,"Sep 28, 1996",Mississippi State,14,South Carolina,10,1
+221,6,"Sep 28, 1996",Colorado State,9,Nebraska,65,1
+222,6,"Sep 28, 1996",Nevada,63,Kent State,42,0
+223,6,"Sep 28, 1996",TCU,7,New Mexico,27,1
+224,6,"Sep 28, 1996",Northwestern,35,Indiana,17,1
+225,6,"Sep 28, 1996",Northwestern State,20,Boise State,16,1
+226,6,"Sep 28, 1996",Ohio State,29,Notre Dame,16,1
+227,6,"Sep 28, 1996",Penn State,23,Wisconsin,20,1
+228,6,"Sep 28, 1996",Purdue,42,NC State,21,0
+229,6,"Sep 28, 1996",Louisville,7,Southern Miss,24,0
+230,6,"Sep 28, 1996",Syracuse,52,Virginia Tech,21,0
+231,6,"Sep 28, 1996",Texas State,27,Idaho,21,0
+232,6,"Sep 28, 1996",Texas Tech,58,Utah State,20,0
+233,6,"Sep 28, 1996",Northern Illinois,6,UTEP,37,0
+234,6,"Sep 28, 1996",Toledo,31,Weber State,24,0
+235,6,"Sep 28, 1996",Tulsa,31,Oklahoma,24,1
+236,6,"Sep 28, 1996",Utah,45,Kansas,42,0
+237,6,"Sep 28, 1996",Virginia,37,Texas,13,0
+238,6,"Sep 28, 1996",Washington State,52,San Jose State,16,0
+239,6,"Sep 28, 1996",West Virginia,13,Maryland,0,0
+240,6,"Sep 28, 1996",Wyoming,33,UNLV,21,1
+241,7,"Oct 3, 1996",Tennessee,41,Ole Miss,3,0
+242,7,"Oct 4, 1996",BYU,45,Utah State,17,1
+243,7,"Oct 5, 1996",Kentucky,7,Alabama,35,1
+244,7,"Oct 5, 1996",UAB,24,Western Kentucky,0,0
+245,7,"Oct 5, 1996",Arizona,34,Washington State,26,0
+246,7,"Oct 5, 1996",Boise State,7,Arizona State,56,1
+247,7,"Oct 5, 1996",Central Arkansas,7,Arkansas State,17,1
+248,7,"Oct 5, 1996",Army,39,Yale,13,0
+249,7,"Oct 5, 1996",Auburn,28,South Carolina,24,0
+250,7,"Oct 5, 1996",Western Michigan,5,Ball State,28,0
+251,7,"Oct 5, 1996",California,22,USC,15,1
+252,7,"Oct 5, 1996",Colorado State,28,Hawaii,16,1
+253,7,"Oct 5, 1996",Arkansas,7,Florida,42,0
+254,7,"Oct 5, 1996",Florida State,34,Clemson,3,0
+255,7,"Oct 5, 1996",Georgia,38,Mississippi State,19,1
+256,7,"Oct 5, 1996",Virginia,7,Georgia Tech,13,1
+257,7,"Oct 5, 1996",Houston,31,Louisiana,24,1
+258,7,"Oct 5, 1996",Idaho,38,Cal Poly,33,0
+259,7,"Oct 5, 1996",Illinois,46,Indiana,43,0
+260,7,"Oct 5, 1996",Iowa,37,Michigan State,30,0
+261,7,"Oct 5, 1996",Kansas,52,Oklahoma,24,1
+262,7,"Oct 5, 1996",Kent State,32,Akron,17,0
+263,7,"Oct 5, 1996",LSU,35,Vanderbilt,0,0
+264,7,"Oct 5, 1996",Louisiana-Monroe,13,Northwestern State,10,0
+265,7,"Oct 5, 1996",Memphis,18,Cincinnati,16,0
+266,7,"Oct 5, 1996",Miami (OH),46,Central Michigan,14,0
+267,7,"Oct 5, 1996",Missouri,27,SMU,26,1
+268,7,"Oct 5, 1996",Navy,64,Duke,27,0
+269,7,"Oct 5, 1996",Nebraska,39,Kansas State,3,1
+270,7,"Oct 5, 1996",Nevada,54,UNLV,17,1
+271,7,"Oct 5, 1996",Wake Forest,6,North Carolina,45,0
+272,7,"Oct 5, 1996",Maryland,8,NC State,34,0
+273,7,"Oct 5, 1996",North Texas,24,Northern Illinois,21,1
+274,7,"Oct 5, 1996",Northwestern,17,Michigan,16,0
+275,7,"Oct 5, 1996",Ohio,7,Eastern Michigan,0,0
+276,7,"Oct 5, 1996",Penn State,7,Ohio State,38,1
+277,7,"Oct 5, 1996",Pitt,53,Temple,52,0
+278,7,"Oct 5, 1996",Purdue,30,Minnesota,27,0
+279,7,"Oct 5, 1996",Rice,38,New Mexico,21,0
+280,7,"Oct 5, 1996",Syracuse,42,Rutgers,0,0
+281,7,"Oct 5, 1996",Texas,71,Oklahoma State,14,0
+282,7,"Oct 5, 1996",Texas A&M,63,Louisiana Tech,13,0
+283,7,"Oct 5, 1996",Texas Tech,45,Baylor,24,0
+284,7,"Oct 5, 1996",Toledo,24,Bowling Green,16,0
+285,7,"Oct 5, 1996",TCU,7,Tulane,35,1
+286,7,"Oct 5, 1996",UCLA,41,Oregon,22,1
+287,7,"Oct 5, 1996",Utah,34,UTEP,27,1
+288,7,"Oct 5, 1996",Stanford,6,Washington,27,1
+289,7,"Oct 5, 1996",West Virginia,34,Boston College,17,0
+290,7,"Oct 5, 1996",Wyoming,45,San Jose State,22,1
+291,8,"Oct 10, 1996",East Carolina,7,Southern Miss,28,0
+292,8,"Oct 11, 1996",Hawaii,8,San Diego State,56,1
+293,8,"Oct 12, 1996",Alabama,24,NC State,19,1
+294,8,"Oct 12, 1996",Arizona State,42,UCLA,34,1
+295,8,"Oct 12, 1996",Arkansas,38,Louisiana Tech,21,0
+296,8,"Oct 12, 1996",Army,42,Rutgers,21,0
+297,8,"Oct 12, 1996",Auburn,49,Mississippi State,15,1
+298,8,"Oct 12, 1996",Ball State,30,Ohio,27,0
+299,8,"Oct 12, 1996",Boston College,24,Cincinnati,17,1
+300,8,"Oct 12, 1996",Bowling Green,31,Kent State,24,0
+301,8,"Oct 12, 1996",BYU,63,UNLV,28,0
+302,8,"Oct 12, 1996",Samford,6,UCF,38,1
+303,8,"Oct 12, 1996",Central Michigan,42,Akron,0,0
+304,8,"Oct 12, 1996",Duke,6,Clemson,13,0
+305,8,"Oct 12, 1996",Colorado,35,Oklahoma State,13,0
+306,8,"Oct 12, 1996",Florida,56,LSU,13,0
+307,8,"Oct 12, 1996",Florida State,34,Miami,16,1
+308,8,"Oct 12, 1996",Fresno State,28,San Jose State,18,0
+309,8,"Oct 12, 1996",Houston,37,Memphis,20,0
+310,8,"Oct 12, 1996",Iowa,31,Indiana,10,1
+311,8,"Oct 12, 1996",Kansas State,35,Missouri,10,1
+312,8,"Oct 12, 1996",Louisiana,42,Arkansas State,31,0
+313,8,"Oct 12, 1996",Louisville,23,Tulane,20,1
+314,8,"Oct 12, 1996",Miami (OH),35,Eastern Michigan,25,1
+315,8,"Oct 12, 1996",Michigan State,42,Illinois,14,0
+316,8,"Oct 12, 1996",Navy,20,Air Force,17,1
+317,8,"Oct 12, 1996",Nebraska,49,Baylor,0,0
+318,8,"Oct 12, 1996",Nevada,66,Boise State,28,0
+319,8,"Oct 12, 1996",Maryland,7,North Carolina,38,1
+320,8,"Oct 12, 1996",Northwestern,26,Minnesota,24,0
+321,8,"Oct 12, 1996",Notre Dame,54,Washington,20,0
+322,8,"Oct 12, 1996",Ohio State,17,Wisconsin,14,0
+323,8,"Oct 12, 1996",Oklahoma,30,Texas,27,0
+324,8,"Oct 12, 1996",Penn State,31,Purdue,14,0
+325,8,"Oct 12, 1996",South Carolina,25,Kentucky,14,1
+326,8,"Oct 12, 1996",Arizona,7,USC,14,1
+327,8,"Oct 12, 1996",Stanford,27,Oregon,24,0
+328,8,"Oct 12, 1996",Pitt,7,Syracuse,55,1
+329,8,"Oct 12, 1996",Tennessee,29,Georgia,17,1
+330,8,"Oct 12, 1996",Texas A&M,24,Iowa State,21,1
+331,8,"Oct 12, 1996",TCU,18,UTEP,0,0
+332,8,"Oct 12, 1996",Texas Tech,30,Kansas,17,1
+333,8,"Oct 12, 1996",Tulsa,20,Colorado State,14,0
+334,8,"Oct 12, 1996",Utah State,53,New Mexico State,21,1
+335,8,"Oct 12, 1996",North Texas,7,Vanderbilt,19,0
+336,8,"Oct 12, 1996",Virginia Tech,38,Temple,0,0
+337,8,"Oct 12, 1996",Oregon State,3,Washington State,24,0
+338,8,"Oct 12, 1996",Wyoming,42,Western Michigan,28,0
+339,9,"Oct 19, 1996",Air Force,20,Notre Dame,17,1
+340,9,"Oct 19, 1996",Miami (OH),7,Akron,10,1
+341,9,"Oct 19, 1996",Alabama,37,Ole Miss,0,0
+342,9,"Oct 19, 1996",UAB,39,Louisiana,29,0
+343,9,"Oct 19, 1996",Arizona State,48,USC,35,0
+344,9,"Oct 19, 1996",Southeast Missouri State,9,Arkansas State,38,1
+345,9,"Oct 19, 1996",Army,34,Tulane,10,0
+346,9,"Oct 19, 1996",Ball State,16,Bowling Green,11,1
+347,9,"Oct 19, 1996",Boston College,37,Rutgers,13,0
+348,9,"Oct 19, 1996",BYU,55,Tulsa,30,1
+349,9,"Oct 19, 1996",Central Michigan,41,Eastern Michigan,36,0
+350,9,"Oct 19, 1996",Cincinnati,31,Houston,20,0
+351,9,"Oct 19, 1996",Clemson,28,Georgia Tech,25,0
+352,9,"Oct 19, 1996",Kansas,7,Colorado,20,0
+353,9,"Oct 19, 1996",Colorado State,36,San Jose State,13,0
+354,9,"Oct 19, 1996",Miami,6,East Carolina,31,0
+355,9,"Oct 19, 1996",Florida,51,Auburn,10,0
+356,9,"Oct 19, 1996",Vanderbilt,2,Georgia,13,1
+357,9,"Oct 19, 1996",Hawaii,38,UNLV,28,0
+358,9,"Oct 19, 1996",Idaho,24,Nevada,15,0
+359,9,"Oct 19, 1996",Iowa,21,Penn State,20,1
+360,9,"Oct 19, 1996",Kansas State,23,Texas A&M,20,1
+361,9,"Oct 19, 1996",LSU,41,Kentucky,14,0
+362,9,"Oct 19, 1996",Louisiana Tech,61,Toledo,20,0
+363,9,"Oct 19, 1996",Louisiana-Monroe,39,UCF,38,1
+364,9,"Oct 19, 1996",Northern Illinois,3,Louisville,27,1
+365,9,"Oct 19, 1996",Maryland,52,Wake Forest,0,0
+366,9,"Oct 19, 1996",Michigan,27,Indiana,20,0
+367,9,"Oct 19, 1996",Minnesota,9,Michigan State,27,0
+368,9,"Oct 19, 1996",Nebraska,24,Texas Tech,10,1
+369,9,"Oct 19, 1996",North Texas,13,New Mexico State,0,0
+370,9,"Oct 19, 1996",Northwestern,34,Wisconsin,30,1
+371,9,"Oct 19, 1996",Ohio,24,Kent State,15,1
+372,9,"Oct 19, 1996",Ohio State,42,Purdue,14,1
+373,9,"Oct 19, 1996",Oklahoma,28,Baylor,24,1
+374,9,"Oct 19, 1996",Oklahoma State,28,Iowa State,27,0
+375,9,"Oct 19, 1996",Oregon State,26,Stanford,12,0
+376,9,"Oct 19, 1996",Rice,35,SMU,17,0
+377,9,"Oct 19, 1996",San Diego State,48,New Mexico,42,1
+378,9,"Oct 19, 1996",South Carolina,23,Arkansas,17,0
+379,9,"Oct 19, 1996",Southern Miss,16,Memphis,0,0
+380,9,"Oct 19, 1996",TCU,7,Utah,21,1
+381,9,"Oct 19, 1996",Utah State,39,Boise State,14,1
+382,9,"Oct 19, 1996",Virginia,62,NC State,14,0
+383,9,"Oct 19, 1996",Washington,41,UCLA,21,0
+384,9,"Oct 19, 1996",Washington State,21,California,18,0
+385,9,"Oct 19, 1996",West Virginia,30,Temple,10,1
+386,9,"Oct 19, 1996",Wyoming,42,Fresno State,21,0
+387,10,"Oct 26, 1996",Hawaii,7,Air Force,34,1
+388,10,"Oct 26, 1996",Akron,34,Northern Illinois,17,1
+389,10,"Oct 26, 1996",Oregon State,7,Arizona,33,1
+390,10,"Oct 26, 1996",Stanford,9,Arizona State,41,0
+391,10,"Oct 26, 1996",Miami (OH),7,Army,27,0
+392,10,"Oct 26, 1996",Ball State,24,Central Michigan,17,1
+393,10,"Oct 26, 1996",Baylor,49,Iowa State,21,0
+394,10,"Oct 26, 1996",BYU,45,TCU,21,1
+395,10,"Oct 26, 1996",Louisville,7,Cincinnati,10,0
+396,10,"Oct 26, 1996",Colorado,28,Texas,24,0
+397,10,"Oct 26, 1996",Colorado State,27,San Diego State,18,0
+398,10,"Oct 26, 1996",Eastern Michigan,51,Kent State,10,0
+399,10,"Oct 26, 1996",Florida State,31,Virginia,24,0
+400,10,"Oct 26, 1996",Fresno State,34,UNLV,23,1
+401,10,"Oct 26, 1996",Georgia Tech,27,UCF,20,0
+402,10,"Oct 26, 1996",Kansas State,42,Oklahoma,35,0
+403,10,"Oct 26, 1996",Kentucky,24,Georgia,17,0
+404,10,"Oct 26, 1996",Memphis,9,Louisiana,13,1
+405,10,"Oct 26, 1996",LSU,28,Mississippi State,20,0
+406,10,"Oct 26, 1996",Louisiana Tech,35,UAB,31,0
+407,10,"Oct 26, 1996",Maryland,22,Duke,19,1
+408,10,"Oct 26, 1996",West Virginia,7,Miami,10,0
+409,10,"Oct 26, 1996",Michigan,44,Minnesota,10,1
+410,10,"Oct 26, 1996",Michigan State,30,Wisconsin,13,0
+411,10,"Oct 26, 1996",Ole Miss,38,Arkansas State,21,0
+412,10,"Oct 26, 1996",Missouri,35,Oklahoma State,28,0
+413,10,"Oct 26, 1996",Navy,47,Wake Forest,18,1
+414,10,"Oct 26, 1996",Kansas,7,Nebraska,63,1
+415,10,"Oct 26, 1996",Nevada,40,North Texas,13,1
+416,10,"Oct 26, 1996",New Mexico State,52,Southern Utah,21,0
+417,10,"Oct 26, 1996",North Carolina,42,Houston,14,1
+418,10,"Oct 26, 1996",Northwestern,27,Illinois,24,0
+419,10,"Oct 26, 1996",Ohio,38,Bowling Green,0,0
+420,10,"Oct 26, 1996",Ohio State,38,Iowa,26,1
+421,10,"Oct 26, 1996",Penn State,48,Indiana,26,1
+422,10,"Oct 26, 1996",Rice,48,UTEP,21,1
+423,10,"Oct 26, 1996",Rutgers,28,Temple,17,0
+424,10,"Oct 26, 1996",South Carolina,27,Vanderbilt,0,1
+425,10,"Oct 26, 1996",USC,29,Washington State,24,1
+426,10,"Oct 26, 1996",SMU,52,New Mexico,31,0
+427,10,"Oct 26, 1996",Southern Miss,31,Tulane,28,1
+428,10,"Oct 26, 1996",Syracuse,45,Boston College,17,1
+429,10,"Oct 26, 1996",Tennessee,20,Alabama,13,0
+430,10,"Oct 26, 1996",Texas Tech,13,Texas A&M,10,1
+431,10,"Oct 26, 1996",Western Michigan,7,Toledo,10,1
+432,10,"Oct 26, 1996",UCLA,38,California,29,1
+433,10,"Oct 26, 1996",Utah,45,Tulsa,19,0
+434,10,"Oct 26, 1996",Utah State,35,Idaho,28,0
+435,10,"Oct 26, 1996",Virginia Tech,34,Pitt,17,0
+436,10,"Oct 26, 1996",Washington,33,Oregon,14,1
+437,11,"Oct 31, 1996",Pitt,20,Boston College,13,0
+438,11,"Nov 2, 1996",Akron,21,Bowling Green,14,0
+439,11,"Nov 2, 1996",Arizona State,29,Oregon State,14,1
+440,11,"Nov 2, 1996",Army,41,Lafayette,21,0
+441,11,"Nov 2, 1996",Arkansas,7,Auburn,28,1
+442,11,"Nov 2, 1996",Ball State,39,Eastern Michigan,25,1
+443,11,"Nov 2, 1996",BYU,40,UTEP,18,0
+444,11,"Nov 2, 1996",California,56,Arizona,55,0
+445,11,"Nov 2, 1996",UCF,42,Illinois State,15,0
+446,11,"Nov 2, 1996",Central Michigan,52,Kent State,51,1
+447,11,"Nov 2, 1996",Clemson,35,Maryland,3,0
+448,11,"Nov 2, 1996",Colorado,41,Missouri,13,1
+449,11,"Nov 2, 1996",Colorado State,42,Air Force,41,1
+450,11,"Nov 2, 1996",East Carolina,34,Arkansas State,16,0
+451,11,"Nov 2, 1996",Georgia,7,Florida,47,1
+452,11,"Nov 2, 1996",Florida State,49,Georgia Tech,3,1
+453,11,"Nov 2, 1996",Boise State,7,Fresno State,41,1
+454,11,"Nov 2, 1996",Houston,20,Tulane,17,1
+455,11,"Nov 2, 1996",Idaho,37,Eastern Washington,27,0
+456,11,"Nov 2, 1996",Iowa,31,Illinois,21,1
+457,11,"Nov 2, 1996",Kansas,34,Iowa State,31,1
+458,11,"Nov 2, 1996",Louisiana Tech,40,Northern Illinois,14,1
+459,11,"Nov 2, 1996",Louisville,13,Memphis,10,0
+460,11,"Nov 2, 1996",Miami,57,Temple,26,1
+461,11,"Nov 2, 1996",Toledo,7,Miami (OH),27,0
+462,11,"Nov 2, 1996",Michigan,45,Michigan State,29,0
+463,11,"Nov 2, 1996",Mississippi State,59,Louisiana-Monroe,0,0
+464,11,"Nov 2, 1996",Nebraska,73,Oklahoma,21,1
+465,11,"Nov 2, 1996",Nevada,63,New Mexico State,14,0
+466,11,"Nov 2, 1996",New Mexico,34,Tulsa,23,1
+467,11,"Nov 2, 1996",North Carolina,52,NC State,20,0
+468,11,"Nov 2, 1996",Notre Dame,54,Navy,27,0
+469,11,"Nov 2, 1996",Ohio,38,Western Michigan,0,1
+470,11,"Nov 2, 1996",Ohio State,45,Minnesota,0,0
+471,11,"Nov 2, 1996",Northwestern,9,Penn State,34,1
+472,11,"Nov 2, 1996",Rice,51,Utah,10,0
+473,11,"Nov 2, 1996",San Diego State,49,San Jose State,20,1
+474,11,"Nov 2, 1996",Southern Miss,21,Cincinnati,17,0
+475,11,"Nov 2, 1996",Stanford,21,UCLA,20,1
+476,11,"Nov 2, 1996",West Virginia,7,Syracuse,30,0
+477,11,"Nov 2, 1996",Tennessee,31,South Carolina,14,1
+478,11,"Nov 2, 1996",Texas,28,Baylor,23,0
+479,11,"Nov 2, 1996",Texas A&M,38,Oklahoma State,19,1
+480,11,"Nov 2, 1996",TCU,42,UNLV,34,0
+481,11,"Nov 2, 1996",Utah State,21,North Texas,13,0
+482,11,"Nov 2, 1996",Vanderbilt,31,UAB,15,0
+483,11,"Nov 2, 1996",Duke,3,Virginia,27,0
+484,11,"Nov 2, 1996",Virginia Tech,47,Louisiana,16,0
+485,11,"Nov 2, 1996",Washington,21,USC,10,1
+486,11,"Nov 2, 1996",Wisconsin,33,Purdue,25,0
+487,11,"Nov 2, 1996",Wyoming,59,SMU,17,0
+488,12,"Nov 7, 1996",San Diego State,28,Wyoming,24,0
+489,12,"Nov 9, 1996",Alabama,26,LSU,0,1
+490,12,"Nov 9, 1996",California,7,Arizona State,35,1
+491,12,"Nov 9, 1996",Ole Miss,7,Arkansas,13,1
+492,12,"Nov 9, 1996",Arkansas State,55,Louisiana Tech,38,0
+493,12,"Nov 9, 1996",Air Force,7,Army,23,1
+494,12,"Nov 9, 1996",Auburn,28,Louisiana-Monroe,24,0
+495,12,"Nov 9, 1996",Kent State,6,Ball State,50,1
+496,12,"Nov 9, 1996",BYU,49,Rice,0,0
+497,12,"Nov 9, 1996",UCF,35,UAB,13,1
+498,12,"Nov 9, 1996",Clemson,24,Virginia,16,1
+499,12,"Nov 9, 1996",Colorado,49,Iowa State,42,0
+500,12,"Nov 9, 1996",Colorado State,42,Fresno State,20,1
+501,12,"Nov 9, 1996",Eastern Michigan,20,Akron,17,0
+502,12,"Nov 9, 1996",Florida,28,Vanderbilt,21,1
+503,12,"Nov 9, 1996",Wake Forest,7,Florida State,44,1
+504,12,"Nov 9, 1996",Houston,56,Southern Miss,49,0
+505,12,"Nov 9, 1996",Idaho,34,New Mexico State,19,0
+506,12,"Nov 9, 1996",Kansas State,38,Kansas,12,1
+507,12,"Nov 9, 1996",Kentucky,24,Mississippi State,21,0
+508,12,"Nov 9, 1996",Louisiana,45,Northern Illinois,31,0
+509,12,"Nov 9, 1996",Memphis,21,Tennessee,17,0
+510,12,"Nov 9, 1996",Ohio,8,Miami (OH),24,1
+511,12,"Nov 9, 1996",Michigan State,38,Indiana,15,0
+512,12,"Nov 9, 1996",Navy,30,Delaware,14,0
+513,12,"Nov 9, 1996",Missouri,7,Nebraska,51,1
+514,12,"Nov 9, 1996",Nevada,54,Utah State,27,1
+515,12,"Nov 9, 1996",North Carolina,28,Louisville,10,0
+516,12,"Nov 9, 1996",NC State,44,Duke,22,0
+517,12,"Nov 9, 1996",North Texas,30,Boise State,27,1
+518,12,"Nov 9, 1996",Northwestern,40,Iowa,13,1
+519,12,"Nov 9, 1996",Notre Dame,48,Boston College,21,1
+520,12,"Nov 9, 1996",Ohio State,48,Illinois,0,1
+521,12,"Nov 9, 1996",Oklahoma,27,Oklahoma State,17,1
+522,12,"Nov 9, 1996",Oregon,49,Arizona,31,0
+523,12,"Nov 9, 1996",Purdue,9,Michigan,3,0
+524,12,"Nov 9, 1996",San Jose State,38,Hawaii,17,1
+525,12,"Nov 9, 1996",SMU,30,UTEP,0,1
+526,12,"Nov 9, 1996",Stanford,24,USC,20,0
+527,12,"Nov 9, 1996",Tulane,7,Syracuse,31,0
+528,12,"Nov 9, 1996",Texas,38,Texas Tech,32,1
+529,12,"Nov 9, 1996",Baylor,7,Texas A&M,24,0
+530,12,"Nov 9, 1996",TCU,31,Tulsa,24,1
+531,12,"Nov 9, 1996",Toledo,23,Central Michigan,20,0
+532,12,"Nov 9, 1996",UCLA,38,Washington State,14,0
+533,12,"Nov 9, 1996",Utah,31,New Mexico,24,1
+534,12,"Nov 9, 1996",Virginia Tech,35,East Carolina,14,0
+535,12,"Nov 9, 1996",Washington,42,Oregon State,3,0
+536,12,"Nov 9, 1996",West Virginia,55,Rutgers,14,1
+537,12,"Nov 9, 1996",Western Michigan,16,Bowling Green,13,1
+538,12,"Nov 9, 1996",Wisconsin,45,Minnesota,28,0
+539,13,"Nov 14, 1996",Maryland,13,Georgia Tech,10,0
+540,13,"Nov 16, 1996",Air Force,44,Fresno State,38,1
+541,13,"Nov 16, 1996",Arizona,35,UCLA,17,0
+542,13,"Nov 16, 1996",Ball State,24,Toledo,14,0
+543,13,"Nov 16, 1996",Boise State,33,New Mexico State,32,1
+544,13,"Nov 16, 1996",Boston College,21,Temple,20,0
+545,13,"Nov 16, 1996",BYU,45,Hawaii,14,1
+546,13,"Nov 16, 1996",UCF,27,Bowling Green,19,0
+547,13,"Nov 16, 1996",Cincinnati,34,UAB,14,1
+548,13,"Nov 16, 1996",Clemson,40,NC State,17,0
+549,13,"Nov 16, 1996",Colorado,12,Kansas State,0,0
+550,13,"Nov 16, 1996",East Carolina,55,Ohio,45,0
+551,13,"Nov 16, 1996",Florida,52,South Carolina,25,0
+552,13,"Nov 16, 1996",Florida State,54,Southern Miss,14,0
+553,13,"Nov 16, 1996",Georgia,56,Auburn,49,1
+554,13,"Nov 16, 1996",Louisville,7,Houston,38,1
+555,13,"Nov 16, 1996",Iowa,31,Wisconsin,0,0
+556,13,"Nov 16, 1996",Kentucky,25,Vanderbilt,0,0
+557,13,"Nov 16, 1996",Ole Miss,7,LSU,39,0
+558,13,"Nov 16, 1996",Louisiana-Monroe,31,Jacksonville State,28,0
+559,13,"Nov 16, 1996",Minnesota,23,Illinois,21,0
+560,13,"Nov 16, 1996",Mississippi State,17,Alabama,16,0
+561,13,"Nov 16, 1996",Missouri,49,Baylor,42,1
+562,13,"Nov 16, 1996",Navy,35,Tulane,21,0
+563,13,"Nov 16, 1996",Nebraska,49,Iowa State,14,1
+564,13,"Nov 16, 1996",Nevada,66,Arkansas State,14,0
+565,13,"Nov 16, 1996",UNLV,44,San Diego State,42,0
+566,13,"Nov 16, 1996",North Texas,24,Idaho,17,0
+567,13,"Nov 16, 1996",Northwestern,27,Purdue,24,0
+568,13,"Nov 16, 1996",Notre Dame,60,Pitt,6,0
+569,13,"Nov 16, 1996",Ohio State,27,Indiana,17,1
+570,13,"Nov 16, 1996",Oregon,40,California,23,0
+571,13,"Nov 16, 1996",Oregon State,67,Northern Illinois,28,0
+572,13,"Nov 16, 1996",Penn State,29,Michigan,17,1
+573,13,"Nov 16, 1996",Rice,30,TCU,17,1
+574,13,"Nov 16, 1996",Stanford,33,Washington State,17,0
+575,13,"Nov 16, 1996",Syracuse,42,Army,17,0
+576,13,"Nov 16, 1996",Tennessee,55,Arkansas,14,0
+577,13,"Nov 16, 1996",Texas,38,Kansas,17,1
+578,13,"Nov 16, 1996",Texas A&M,33,Oklahoma,16,0
+579,13,"Nov 16, 1996",Texas Tech,56,Louisiana,21,0
+580,13,"Nov 16, 1996",Tulsa,38,UTEP,21,1
+581,13,"Nov 16, 1996",Virginia,20,North Carolina,17,0
+582,13,"Nov 16, 1996",Miami,7,Virginia Tech,21,0
+583,13,"Nov 16, 1996",Wake Forest,17,Duke,16,0
+584,13,"Nov 16, 1996",Washington,53,San Jose State,10,0
+585,13,"Nov 16, 1996",Western Michigan,76,Kent State,27,0
+586,13,"Nov 16, 1996",Wyoming,25,Colorado State,24,1
+587,14,"Nov 21, 1996",UAB,49,Charleston Southern,13,0
+588,14,"Nov 21, 1996",SMU,27,TCU,24,0
+589,14,"Nov 23, 1996",Alabama,24,Auburn,23,0
+590,14,"Nov 23, 1996",Arizona State,56,Arizona,14,1
+591,14,"Nov 23, 1996",Arkansas,16,Mississippi State,13,1
+592,14,"Nov 23, 1996",BYU,37,Utah,17,1
+593,14,"Nov 23, 1996",Cincinnati,35,Louisiana-Monroe,13,0
+594,14,"Nov 23, 1996",East Carolina,20,Memphis,10,1
+595,14,"Nov 23, 1996",Florida State,48,Maryland,10,0
+596,14,"Nov 23, 1996",Idaho,64,Boise State,19,1
+597,14,"Nov 23, 1996",Indiana,33,Purdue,16,1
+598,14,"Nov 23, 1996",Iowa,43,Minnesota,24,1
+599,14,"Nov 23, 1996",Kansas State,35,Iowa State,20,0
+600,14,"Nov 23, 1996",LSU,35,Tulane,17,0
+601,14,"Nov 23, 1996",Miami,43,Boston College,26,0
+602,14,"Nov 23, 1996",Ohio State,9,Michigan,13,0
+603,14,"Nov 23, 1996",Ole Miss,31,Georgia,27,1
+604,14,"Nov 23, 1996",Missouri,42,Kansas,25,0
+605,14,"Nov 23, 1996",Navy,36,Georgia Tech,26,1
+606,14,"Nov 23, 1996",New Mexico,44,UTEP,17,0
+607,14,"Nov 23, 1996",North Carolina,27,Duke,10,1
+608,14,"Nov 23, 1996",NC State,37,Wake Forest,22,0
+609,14,"Nov 23, 1996",Notre Dame,62,Rutgers,0,0
+610,14,"Nov 23, 1996",Oklahoma State,37,Baylor,17,0
+611,14,"Nov 23, 1996",Oregon,49,Oregon State,13,1
+612,14,"Nov 23, 1996",Penn State,32,Michigan State,29,0
+613,14,"Nov 23, 1996",Rice,42,Tulsa,14,0
+614,14,"Nov 23, 1996",San Diego State,31,Fresno State,21,0
+615,14,"Nov 23, 1996",San Jose State,31,UNLV,28,0
+616,14,"Nov 23, 1996",South Carolina,34,Clemson,31,1
+617,14,"Nov 23, 1996",Stanford,42,California,21,1
+618,14,"Nov 23, 1996",Syracuse,36,Temple,15,1
+619,14,"Nov 23, 1996",Tennessee,56,Kentucky,10,0
+620,14,"Nov 23, 1996",Texas Tech,22,Oklahoma,12,1
+621,14,"Nov 23, 1996",Toledo,24,Ohio,23,1
+622,14,"Nov 23, 1996",UCLA,48,USC,41,0
+623,14,"Nov 23, 1996",Virginia Tech,31,West Virginia,14,0
+624,14,"Nov 23, 1996",Washington,31,Washington State,24,1
+625,14,"Nov 23, 1996",Wisconsin,35,Illinois,15,1
+626,15,"Nov 28, 1996",San Diego State,28,Air Force,23,0
+627,15,"Nov 29, 1996",Arkansas,7,LSU,17,0
+628,15,"Nov 29, 1996",Nebraska,17,Colorado,12,0
+629,15,"Nov 29, 1996",Texas,51,Texas A&M,15,0
+630,15,"Nov 29, 1996",Virginia,9,Virginia Tech,26,1
+631,15,"Nov 30, 1996",East Carolina,50,NC State,29,0
+632,15,"Nov 30, 1996",Florida State,24,Florida,21,0
+633,15,"Nov 30, 1996",Georgia,19,Georgia Tech,10,0
+634,15,"Nov 30, 1996",Miami,38,Syracuse,31,1
+635,15,"Nov 30, 1996",Mississippi State,17,Ole Miss,0,1
+636,15,"Nov 30, 1996",Rutgers,9,Pitt,24,1
+637,15,"Nov 30, 1996",USC,27,Notre Dame,20,0
+638,15,"Nov 30, 1996",Vanderbilt,7,Tennessee,14,0
+639,15,"Nov 30, 1996",Wisconsin,59,Hawaii,10,1
+640,16,"Dec 7, 1996",Army,28,Navy,24,0
+641,16,"Dec 7, 1996",BYU,28,Wyoming,25,0
+642,16,"Dec 7, 1996",Florida,45,Alabama,30,0
+643,16,"Dec 7, 1996",Texas,37,Nebraska,27,0
+644,17,"Dec 19, 1996",Nevada,18,Ball State,15,0
+645,18,"Dec 25, 1996",Navy,42,California,38,0
+646,18,"Dec 27, 1996",Miami,31,Virginia,21,0
+647,18,"Dec 27, 1996",Syracuse,30,Houston,17,0
+648,18,"Dec 27, 1996",Wisconsin,38,Utah,10,0
+649,18,"Dec 28, 1996",Clemson,7,LSU,10,1
+650,18,"Dec 29, 1996",Iowa,27,Texas Tech,0,0
+651,19,"Dec 30, 1996",Colorado,33,Washington,21,0
+652,20,"Dec 31, 1996",Auburn,32,Army,29,0
+653,20,"Dec 31, 1996",Nebraska,41,Virginia Tech,21,0
+654,20,"Dec 31, 1996",Stanford,38,Michigan State,0,0
+655,20,"Jan 1, 1997",Alabama,17,Michigan,14,0
+656,20,"Jan 1, 1997",BYU,19,Kansas State,15,0
+657,20,"Jan 1, 1997",North Carolina,20,West Virginia,13,0
+658,20,"Jan 1, 1997",Ohio State,20,Arizona State,17,0
+659,20,"Jan 1, 1997",Penn State,38,Texas,15,0
+660,20,"Jan 1, 1997",Tennessee,48,Northwestern,28,0
+661,20,"Jan 2, 1997",Florida,52,Florida State,20,0

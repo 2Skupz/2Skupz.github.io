@@ -1,0 +1,806 @@
+0,1,"Sep 4, 1975",North Texas,27,Texas-Arlington,14,0
+1,1,"Sep 6, 1975",Marshall,8,Akron,20,1
+2,1,"Sep 6, 1975",Arkansas State,42,Northwestern State,0,0
+3,1,"Sep 6, 1975",Ball State,24,Eastern Michigan,14,0
+4,1,"Sep 6, 1975",Baylor,20,Ole Miss,10,0
+5,1,"Sep 6, 1975",Central Michigan,34,Western Michigan,0,0
+6,1,"Sep 6, 1975",Cal State Fullerton,7,Fresno State,49,0
+7,1,"Sep 6, 1975",Lamar,3,Houston,20,1
+8,1,"Sep 6, 1975",Louisiana,22,Long Beach State,17,0
+9,1,"Sep 6, 1975",Maryland,41,Villanova,0,0
+10,1,"Sep 6, 1975",Memphis,7,Mississippi State,17,0
+11,1,"Sep 6, 1975",New Mexico State,14,Drake,10,0
+12,1,"Sep 6, 1975",William & Mary,7,North Carolina,33,1
+13,1,"Sep 6, 1975",East Carolina,3,NC State,26,1
+14,1,"Sep 6, 1975",Louisiana-Monroe,3,Pacific,3,0
+15,1,"Sep 6, 1975",Penn State,26,Temple,25,1
+16,1,"Sep 6, 1975",Georgia,9,Pitt,19,0
+17,1,"Sep 6, 1975",San Diego State,31,UTEP,10,0
+18,1,"Sep 6, 1975",Wake Forest,7,SMU,14,0
+19,1,"Sep 6, 1975",Toledo,32,Western Carolina,31,0
+20,1,"Sep 6, 1975",Dayton,7,Western Kentucky,27,0
+21,1,"Sep 6, 1975",West Texas State,7,Wichita State,13,1
+22,1,"Sep 8, 1975",Alabama,7,Missouri,20,0
+23,2,"Sep 12, 1975",Duke,7,USC,35,1
+24,2,"Sep 13, 1975",Akron,27,Western Michigan,21,1
+25,2,"Sep 13, 1975",Appalachian State,41,East Carolina,25,0
+26,2,"Sep 13, 1975",Arizona State,35,Washington,12,0
+27,2,"Sep 13, 1975",Arkansas,35,Air Force,0,0
+28,2,"Sep 13, 1975",Idaho,6,Arkansas State,23,1
+29,2,"Sep 13, 1975",Holy Cross,7,Army,44,1
+30,2,"Sep 13, 1975",Ball State,38,Toledo,28,0
+31,2,"Sep 13, 1975",Bowling Green,23,BYU,21,1
+32,2,"Sep 13, 1975",Richmond,6,Cincinnati,19,1
+33,2,"Sep 13, 1975",Citadel,21,Presbyterian,0,0
+34,2,"Sep 13, 1975",Colorado,34,California,27,0
+35,2,"Sep 13, 1975",Virginia Military Institute,9,Delaware,10,0
+36,2,"Sep 13, 1975",Eastern Kentucky,30,Dayton,24,0
+37,2,"Sep 13, 1975",Indiana State,7,Eastern Michigan,30,1
+38,2,"Sep 13, 1975",Florida,40,SMU,14,0
+39,2,"Sep 13, 1975",Wyoming,3,Idaho State,16,0
+40,2,"Sep 13, 1975",Illinois,27,Iowa,12,1
+41,2,"Sep 13, 1975",Indiana,20,Minnesota,14,0
+42,2,"Sep 13, 1975",Kansas State,17,Tulsa,16,1
+43,2,"Sep 13, 1975",Kent State,31,Louisiana-Monroe,29,1
+44,2,"Sep 13, 1975",Virginia Tech,8,Kentucky,27,1
+45,2,"Sep 13, 1975",Northern Illinois,7,Long Beach State,24,0
+46,2,"Sep 13, 1975",Louisiana,27,Southern Illinois,10,0
+47,2,"Sep 13, 1975",Louisiana Tech,21,McNeese State,14,1
+48,2,"Sep 13, 1975",Memphis,31,Auburn,20,1
+49,2,"Sep 13, 1975",Miami (OH),50,Marshall,0,0
+50,2,"Sep 13, 1975",Wisconsin,6,Michigan,23,0
+51,2,"Sep 13, 1975",Navy,42,Virginia,14,1
+52,2,"Sep 13, 1975",LSU,7,Nebraska,10,1
+53,2,"Sep 13, 1975",New Mexico,29,Fresno State,0,0
+54,2,"Sep 13, 1975",New Mexico State,31,UTEP,24,1
+55,2,"Sep 13, 1975",North Texas,7,Drake,3,1
+56,2,"Sep 13, 1975",Northwestern,31,Purdue,25,0
+57,2,"Sep 13, 1975",Central Michigan,6,Ohio,6,0
+58,2,"Sep 13, 1975",Ohio State,21,Michigan State,0,1
+59,2,"Sep 13, 1975",Oregon,7,Oklahoma,62,1
+60,2,"Sep 13, 1975",Oklahoma State,34,Wichita State,0,0
+61,2,"Sep 13, 1975",Pacific,31,California-Davis,13,0
+62,2,"Sep 13, 1975",Penn State,34,Stanford,14,0
+63,2,"Sep 13, 1975",Houston,7,Rice,24,0
+64,2,"Sep 13, 1975",San Diego State,25,Oregon State,0,1
+65,2,"Sep 13, 1975",San Jose State,13,Santa Clara,0,0
+66,2,"Sep 13, 1975",South Carolina,23,Georgia Tech,17,0
+67,2,"Sep 13, 1975",Southern Miss,14,Weber State,10,1
+68,2,"Sep 13, 1975",Syracuse,24,Villanova,17,0
+69,2,"Sep 13, 1975",Maryland,8,Tennessee,26,1
+70,2,"Sep 13, 1975",Furman,5,Tennessee Tech,17,0
+71,2,"Sep 13, 1975",Texas,46,Colorado State,0,0
+72,2,"Sep 13, 1975",Texas A&M,7,Ole Miss,0,0
+73,2,"Sep 13, 1975",Hawaii,9,Texas A&M-Kingsville,43,0
+74,2,"Sep 13, 1975",Texas Tech,31,Florida State,20,0
+75,2,"Sep 13, 1975",TCU,7,Texas-Arlington,24,0
+76,2,"Sep 13, 1975",Tulane,17,Clemson,13,1
+77,2,"Sep 13, 1975",UCLA,37,Iowa State,21,0
+78,2,"Sep 13, 1975",Utah,7,Utah State,13,0
+79,2,"Sep 13, 1975",Chattanooga,7,Vanderbilt,17,1
+80,2,"Sep 13, 1975",Wake Forest,30,NC State,22,1
+81,2,"Sep 13, 1975",Washington State,18,Kansas,14,1
+82,2,"Sep 13, 1975",Lamar,8,West Texas State,10,0
+83,2,"Sep 13, 1975",Temple,7,West Virginia,50,1
+84,2,"Sep 13, 1975",Illinois State,7,Western Illinois,17,0
+85,2,"Sep 13, 1975",Western Kentucky,21,Louisville,17,1
+86,2,"Sep 15, 1975",Boston College,3,Notre Dame,17,0
+87,3,"Sep 19, 1975",Oregon State,7,USC,24,1
+88,3,"Sep 20, 1975",Alabama,56,Clemson,0,0
+89,3,"Sep 20, 1975",Appalachian State,19,Wake Forest,17,1
+90,3,"Sep 20, 1975",Arizona,16,Pacific,0,0
+91,3,"Sep 20, 1975",Arizona State,33,TCU,10,1
+92,3,"Sep 20, 1975",McNeese State,7,Arkansas State,24,0
+93,3,"Sep 20, 1975",Army,54,Lehigh,32,0
+94,3,"Sep 20, 1975",Baylor,10,Auburn,10,0
+95,3,"Sep 20, 1975",Temple,9,Boston College,27,0
+96,3,"Sep 20, 1975",Bowling Green,16,Southern Miss,14,0
+97,3,"Sep 20, 1975",Fresno State,7,Cal State Northridge,13,0
+98,3,"Sep 20, 1975",Memphis,3,Cincinnati,13,1
+99,3,"Sep 20, 1975",Colgate,16,Citadel,0,0
+100,3,"Sep 20, 1975",Colorado,27,Wyoming,10,0
+101,3,"Sep 20, 1975",Colorado State,21,BYU,17,0
+102,3,"Sep 20, 1975",Akron,9,Dayton,31,1
+103,3,"Sep 20, 1975",Louisville,7,Drake,31,1
+104,3,"Sep 20, 1975",East Carolina,20,William & Mary,0,0
+105,3,"Sep 20, 1975",Chattanooga,10,Eastern Kentucky,10,0
+106,3,"Sep 20, 1975",Eastern Michigan,27,Louisiana-Monroe,24,1
+107,3,"Sep 20, 1975",Utah State,8,Florida State,17,1
+108,3,"Sep 20, 1975",Mississippi State,6,Georgia,28,1
+109,3,"Sep 20, 1975",Georgia Tech,38,Miami,23,0
+110,3,"Sep 20, 1975",Hawaii,6,Grambling State,20,0
+111,3,"Sep 20, 1975",Indiana State,23,Southern Illinois,21,1
+112,3,"Sep 20, 1975",Iowa State,17,Air Force,12,0
+113,3,"Sep 20, 1975",Kansas,14,Kentucky,10,1
+114,3,"Sep 20, 1975",Kansas State,32,Wichita State,0,0
+115,3,"Sep 20, 1975",Kent State,17,Virginia Tech,11,0
+116,3,"Sep 20, 1975",Cal State Fullerton,6,Long Beach State,32,1
+117,3,"Sep 20, 1975",Texas-Arlington,8,Louisiana Tech,37,1
+118,3,"Sep 20, 1975",North Carolina,7,Maryland,34,0
+119,3,"Sep 20, 1975",Michigan State,14,Miami (OH),13,0
+120,3,"Sep 20, 1975",Minnesota,38,Western Michigan,0,0
+121,3,"Sep 20, 1975",Missouri,30,Illinois,20,1
+122,3,"Sep 20, 1975",Morehead State,19,Marshall,16,1
+123,3,"Sep 20, 1975",Connecticut,7,Navy,55,1
+124,3,"Sep 20, 1975",Nebraska,45,Indiana,0,0
+125,3,"Sep 20, 1975",New Mexico State,17,Lamar,14,1
+126,3,"Sep 20, 1975",NC State,8,Florida,7,0
+127,3,"Sep 20, 1975",Northern Michigan,17,Central Michigan,16,1
+128,3,"Sep 20, 1975",Northern Illinois,3,Northwestern,10,1
+129,3,"Sep 20, 1975",Notre Dame,17,Purdue,0,1
+130,3,"Sep 20, 1975",Ohio,10,Ball State,0,0
+131,3,"Sep 20, 1975",Penn State,9,Ohio State,17,1
+132,3,"Sep 20, 1975",Oklahoma,46,Pitt,10,0
+133,3,"Sep 20, 1975",Oklahoma State,20,Arkansas,13,0
+134,3,"Sep 20, 1975",Richmond,27,Furman,21,0
+135,3,"Sep 20, 1975",Rutgers,47,Bucknell,3,0
+136,3,"Sep 20, 1975",San Diego State,30,North Texas,12,0
+137,3,"Sep 20, 1975",San Jose State,5,Oregon,0,1
+138,3,"Sep 20, 1975",South Carolina,24,Duke,16,1
+139,3,"Sep 20, 1975",Michigan,19,Stanford,19,0
+140,3,"Sep 20, 1975",Iowa,7,Syracuse,10,1
+141,3,"Sep 20, 1975",Texas,28,Washington,10,1
+142,3,"Sep 20, 1975",LSU,8,Texas A&M,39,0
+143,3,"Sep 20, 1975",Texas Tech,24,New Mexico,17,0
+144,3,"Sep 20, 1975",UTEP,6,East Tennessee State,3,0
+145,3,"Sep 20, 1975",Ole Miss,3,Tulane,14,1
+146,3,"Sep 20, 1975",Tulsa,23,West Texas State,14,1
+147,3,"Sep 20, 1975",UCLA,34,Tennessee,28,0
+148,3,"Sep 20, 1975",Vanderbilt,9,Rice,6,1
+149,3,"Sep 20, 1975",Villanova,14,Toledo,10,0
+150,3,"Sep 20, 1975",Virginia,22,Virginia Military Institute,21,0
+151,3,"Sep 20, 1975",Washington State,30,Utah,14,1
+152,3,"Sep 20, 1975",West Virginia,28,California,10,1
+153,3,"Sep 20, 1975",Western Kentucky,24,Illinois State,14,0
+154,3,"Sep 20, 1975",South Dakota,7,Wisconsin,48,1
+155,4,"Sep 26, 1975",Long Beach State,28,Pacific,12,0
+156,4,"Sep 26, 1975",Oklahoma,20,Miami,17,1
+157,4,"Sep 27, 1975",Central State,8,Akron,34,1
+158,4,"Sep 27, 1975",Vanderbilt,7,Alabama,40,0
+159,4,"Sep 27, 1975",Arizona,14,Wyoming,0,1
+160,4,"Sep 27, 1975",Arizona State,20,BYU,0,0
+161,4,"Sep 27, 1975",Arkansas,31,Tulsa,15,0
+162,4,"Sep 27, 1975",Arkansas State,29,Memphis,10,1
+163,4,"Sep 27, 1975",Michigan,14,Baylor,14,0
+164,4,"Sep 27, 1975",Bowling Green,21,Dayton,14,1
+165,4,"Sep 27, 1975",Brown,41,Rhode Island,20,0
+166,4,"Sep 27, 1975",Cal Poly,23,Cal State Fullerton,10,0
+167,4,"Sep 27, 1975",California,33,Washington State,21,1
+168,4,"Sep 27, 1975",Central Michigan,34,Toledo,27,1
+169,4,"Sep 27, 1975",Cincinnati,46,Louisville,27,1
+170,4,"Sep 27, 1975",Wofford,7,Citadel,16,1
+171,4,"Sep 27, 1975",Colgate,24,Cornell,22,1
+172,4,"Sep 27, 1975",Colorado,52,Wichita State,0,0
+173,4,"Sep 27, 1975",Colorado State,27,New Mexico,16,1
+174,4,"Sep 27, 1975",Duke,26,Virginia,11,0
+175,4,"Sep 27, 1975",Southern Illinois,7,East Carolina,41,0
+176,4,"Sep 27, 1975",McNeese State,6,Eastern Michigan,20,1
+177,4,"Sep 27, 1975",Florida,27,Mississippi State,10,1
+178,4,"Sep 27, 1975",Fresno State,34,Montana State,17,1
+179,4,"Sep 27, 1975",Furman,30,Appalachian State,23,0
+180,4,"Sep 27, 1975",Georgia,28,South Carolina,20,1
+181,4,"Sep 27, 1975",Georgia Tech,33,Clemson,28,0
+182,4,"Sep 27, 1975",Holy Cross,7,Harvard,18,1
+183,4,"Sep 27, 1975",Utah,7,Indiana,31,1
+184,4,"Sep 27, 1975",Florida State,6,Iowa State,10,0
+185,4,"Sep 27, 1975",Chattanooga,6,Jacksonville State,24,1
+186,4,"Sep 27, 1975",Kansas,20,Oregon State,0,0
+187,4,"Sep 27, 1975",Kansas State,17,Wake Forest,16,1
+188,4,"Sep 27, 1975",Columbia,7,Lafayette,10,1
+189,4,"Sep 27, 1975",Lehigh,34,Pennsylvania,23,0
+190,4,"Sep 27, 1975",New Mexico State,7,Louisiana,31,1
+191,4,"Sep 27, 1975",LSU,16,Rice,13,0
+192,4,"Sep 27, 1975",Louisiana Tech,24,Lamar,10,1
+193,4,"Sep 27, 1975",Louisiana-Monroe,38,Drake,25,0
+194,4,"Sep 27, 1975",Marshall,36,Illinois State,3,0
+195,4,"Sep 27, 1975",Kentucky,10,Maryland,10,0
+196,4,"Sep 27, 1975",Massachusetts,7,Dartmouth,3,0
+197,4,"Sep 27, 1975",Miami (OH),35,Ball State,28,0
+198,4,"Sep 27, 1975",Michigan State,37,NC State,15,0
+199,4,"Sep 27, 1975",Oregon,7,Minnesota,10,1
+200,4,"Sep 27, 1975",Southern Miss,8,Ole Miss,24,1
+201,4,"Sep 27, 1975",Missouri,27,Wisconsin,21,0
+202,4,"Sep 27, 1975",Nebraska,56,TCU,14,0
+203,4,"Sep 27, 1975",Northern Illinois,20,Western Michigan,0,1
+204,4,"Sep 27, 1975",Northwestern,7,Notre Dame,31,1
+205,4,"Sep 27, 1975",Ohio,23,Kent State,21,0
+206,4,"Sep 27, 1975",North Carolina,7,Ohio State,32,1
+207,4,"Sep 27, 1975",North Texas,7,Oklahoma State,61,1
+208,4,"Sep 27, 1975",Penn State,30,Iowa,10,1
+209,4,"Sep 27, 1975",Pitt,47,William & Mary,0,0
+210,4,"Sep 27, 1975",Rutgers,7,Princeton,10,1
+211,4,"Sep 27, 1975",San Diego State,19,Utah State,10,1
+212,4,"Sep 27, 1975",San Jose State,36,Stanford,34,1
+213,4,"Sep 27, 1975",Purdue,6,USC,19,1
+214,4,"Sep 27, 1975",SMU,27,Houston,16,1
+215,4,"Sep 27, 1975",Syracuse,31,Tulane,13,1
+216,4,"Sep 27, 1975",Tennessee,21,Auburn,17,0
+217,4,"Sep 27, 1975",Texas,42,Texas Tech,18,0
+218,4,"Sep 27, 1975",Texas A&M,43,Illinois,13,0
+219,4,"Sep 27, 1975",Air Force,20,UCLA,20,0
+220,4,"Sep 27, 1975",Villanova,10,Army,0,1
+221,4,"Sep 27, 1975",Virginia Military Institute,55,Davidson,0,0
+222,4,"Sep 27, 1975",Richmond,9,Virginia Tech,21,1
+223,4,"Sep 27, 1975",Washington,14,Navy,13,0
+224,4,"Sep 27, 1975",West Virginia,35,Boston College,18,0
+225,4,"Sep 27, 1975",Yale,35,Connecticut,14,0
+226,5,"Oct 3, 1975",BYU,16,New Mexico,15,0
+227,5,"Oct 4, 1975",Ole Miss,6,Alabama,32,1
+228,5,"Oct 4, 1975",Appalachian State,17,Tennessee Tech,10,0
+229,5,"Oct 4, 1975",Northwestern,6,Arizona,41,1
+230,5,"Oct 4, 1975",Idaho,3,Arizona State,29,1
+231,5,"Oct 4, 1975",TCU,8,Arkansas,19,1
+232,5,"Oct 4, 1975",Arkansas State,39,Louisiana,17,0
+233,5,"Oct 4, 1975",Ball State,20,Indiana State,16,0
+234,5,"Oct 4, 1975",Boston College,41,Villanova,12,0
+235,5,"Oct 4, 1975",Harvard,9,Boston University,13,0
+236,5,"Oct 4, 1975",Bowling Green,28,Western Michigan,0,0
+237,5,"Oct 4, 1975",Pennsylvania,8,Brown,17,0
+238,5,"Oct 4, 1975",Fresno State,7,Cal Poly-Pomona,24,1
+239,5,"Oct 4, 1975",California,27,San Jose State,24,0
+240,5,"Oct 4, 1975",Illinois State,7,Central Michigan,42,0
+241,5,"Oct 4, 1975",Middle Tennessee,6,Chattanooga,27,1
+242,5,"Oct 4, 1975",William & Mary,6,Citadel,21,1
+243,5,"Oct 4, 1975",Colorado State,3,Wyoming,0,1
+244,5,"Oct 4, 1975",Bucknell,6,Cornell,21,0
+245,5,"Oct 4, 1975",Holy Cross,7,Dartmouth,28,1
+246,5,"Oct 4, 1975",Dayton,24,Toledo,13,1
+247,5,"Oct 4, 1975",Delaware,21,Akron,0,0
+248,5,"Oct 4, 1975",LSU,6,Florida,34,0
+249,5,"Oct 4, 1975",Clemson,7,Georgia,35,1
+250,5,"Oct 4, 1975",Georgia Tech,30,Florida State,0,0
+251,5,"Oct 4, 1975",Grambling State,19,Oregon State,12,1
+252,5,"Oct 4, 1975",Illinois,27,Washington State,21,0
+253,5,"Oct 4, 1975",Iowa State,31,Utah,3,1
+254,5,"Oct 4, 1975",Wisconsin,7,Kansas,41,0
+255,5,"Oct 4, 1975",Long Beach State,31,Southern Illinois,24,1
+256,5,"Oct 4, 1975",Louisiana-Monroe,34,Northwestern State,20,1
+257,5,"Oct 4, 1975",Syracuse,7,Maryland,24,1
+258,5,"Oct 4, 1975",McNeese State,33,Marshall,3,1
+259,5,"Oct 4, 1975",Memphis,21,North Texas,19,0
+260,5,"Oct 4, 1975",Purdue,3,Miami (OH),14,0
+261,5,"Oct 4, 1975",Missouri,7,Michigan,31,1
+262,5,"Oct 4, 1975",Notre Dame,3,Michigan State,10,0
+263,5,"Oct 4, 1975",Minnesota,21,Ohio,0,0
+264,5,"Oct 4, 1975",Mississippi State,7,Southern Miss,3,0
+265,5,"Oct 4, 1975",Navy,17,Air Force,0,0
+266,5,"Oct 4, 1975",Nebraska,31,Miami,16,0
+267,5,"Oct 4, 1975",North Carolina,31,Virginia,28,1
+268,5,"Oct 4, 1975",NC State,27,Indiana,0,0
+269,5,"Oct 4, 1975",Northern Illinois,38,Kent State,15,0
+270,5,"Oct 4, 1975",Northern Iowa,27,Drake,24,1
+271,5,"Oct 4, 1975",Ohio State,41,UCLA,20,1
+272,5,"Oct 4, 1975",Oklahoma,21,Colorado,20,0
+273,5,"Oct 4, 1975",Oklahoma State,17,Texas Tech,16,0
+274,5,"Oct 4, 1975",Pacific,40,UTEP,10,0
+275,5,"Oct 4, 1975",Kentucky,3,Penn State,10,1
+276,5,"Oct 4, 1975",Pitt,14,Duke,0,0
+277,5,"Oct 4, 1975",Columbia,7,Princeton,27,0
+278,5,"Oct 4, 1975",Richmond,17,East Carolina,14,1
+279,5,"Oct 4, 1975",Rutgers,7,Hawaii,3,0
+280,5,"Oct 4, 1975",San Diego State,59,Cal State Fullerton,14,0
+281,5,"Oct 4, 1975",South Carolina,24,Baylor,13,0
+282,5,"Oct 4, 1975",USC,27,Iowa,16,1
+283,5,"Oct 4, 1975",Stanford,67,Army,14,0
+284,5,"Oct 4, 1975",Temple,21,Cincinnati,17,0
+285,5,"Oct 4, 1975",Utah State,7,Texas,61,1
+286,5,"Oct 4, 1975",Texas A&M,10,Kansas State,0,1
+287,5,"Oct 4, 1975",West Texas State,7,Texas-Arlington,39,0
+288,5,"Oct 4, 1975",New Mexico State,7,Tulsa,35,0
+289,5,"Oct 4, 1975",Vanderbilt,6,Tulane,3,1
+290,5,"Oct 4, 1975",Virginia Military Institute,13,Furman,10,1
+291,5,"Oct 4, 1975",Virginia Tech,23,Auburn,16,1
+292,5,"Oct 4, 1975",Washington,27,Oregon,17,1
+293,5,"Oct 4, 1975",West Virginia,28,SMU,22,1
+294,5,"Oct 4, 1975",Wichita State,13,Louisville,10,0
+295,5,"Oct 4, 1975",Yale,24,Colgate,10,0
+296,6,"Oct 10, 1975",Colorado,23,Miami,10,1
+297,6,"Oct 10, 1975",SMU,28,TCU,13,0
+298,6,"Oct 11, 1975",Akron,30,Northern Michigan,13,0
+299,6,"Oct 11, 1975",Alabama,52,Washington,0,0
+300,6,"Oct 11, 1975",Appalachian State,44,East Tennessee State,21,1
+301,6,"Oct 11, 1975",Arizona,36,UTEP,0,1
+302,6,"Oct 11, 1975",Arizona State,16,New Mexico,10,1
+303,6,"Oct 11, 1975",Arkansas,41,Baylor,3,1
+304,6,"Oct 11, 1975",Kentucky,9,Auburn,15,0
+305,6,"Oct 11, 1975",Ball State,25,Richmond,14,1
+306,6,"Oct 11, 1975",Bowling Green,34,Toledo,17,0
+307,6,"Oct 11, 1975",BYU,28,Air Force,14,0
+308,6,"Oct 11, 1975",Brown,27,Yale,12,0
+309,6,"Oct 11, 1975",Oregon,7,California,34,0
+310,6,"Oct 11, 1975",Eastern Michigan,7,Central Michigan,20,1
+311,6,"Oct 11, 1975",Clemson,16,Wake Forest,14,0
+312,6,"Oct 11, 1975",Colgate,20,Holy Cross,14,1
+313,6,"Oct 11, 1975",Oregon State,8,Colorado State,17,0
+314,6,"Oct 11, 1975",Dartmouth,19,Pennsylvania,14,0
+315,6,"Oct 11, 1975",Duke,21,Army,10,1
+316,6,"Oct 11, 1975",East Carolina,3,Citadel,0,1
+317,6,"Oct 11, 1975",Florida,35,Vanderbilt,0,0
+318,6,"Oct 11, 1975",Presbyterian,7,Furman,35,0
+319,6,"Oct 11, 1975",Georgia Tech,38,Virginia Military Institute,10,0
+320,6,"Oct 11, 1975",Harvard,35,Columbia,30,0
+321,6,"Oct 11, 1975",Illinois,42,Minnesota,23,0
+322,6,"Oct 11, 1975",Indiana State,21,Northern Illinois,10,0
+323,6,"Oct 11, 1975",Kansas State,7,Iowa State,17,0
+324,6,"Oct 11, 1975",Kent State,22,Western Michigan,17,1
+325,6,"Oct 11, 1975",Lehigh,34,Rutgers,20,0
+326,6,"Oct 11, 1975",Louisiana Tech,24,Louisiana,14,0
+327,6,"Oct 11, 1975",Lamar,7,Louisiana-Monroe,34,1
+328,6,"Oct 11, 1975",Louisville,6,Chattanooga,3,0
+329,6,"Oct 11, 1975",Maryland,37,NC State,22,0
+330,6,"Oct 11, 1975",McNeese State,28,Texas-Arlington,24,1
+331,6,"Oct 11, 1975",Miami (OH),10,Dayton,0,0
+332,6,"Oct 11, 1975",Michigan State,6,Michigan,16,0
+333,6,"Oct 11, 1975",Ole Miss,28,Georgia,13,0
+334,6,"Oct 11, 1975",Mississippi State,28,Rice,14,1
+335,6,"Oct 11, 1975",Missouri,41,Oklahoma State,14,0
+336,6,"Oct 11, 1975",Syracuse,6,Navy,10,1
+337,6,"Oct 11, 1975",Nebraska,16,Kansas,0,0
+338,6,"Oct 11, 1975",New Mexico State,26,Wichita State,24,1
+339,6,"Oct 11, 1975",North Texas,28,Houston,0,0
+340,6,"Oct 11, 1975",Northwestern,30,Indiana,0,0
+341,6,"Oct 11, 1975",Notre Dame,21,North Carolina,14,1
+342,6,"Oct 11, 1975",William & Mary,8,Ohio,22,0
+343,6,"Oct 11, 1975",Ohio State,49,Iowa,0,0
+344,6,"Oct 11, 1975",Oklahoma,24,Texas,17,0
+345,6,"Oct 11, 1975",Pacific,31,Cal State Fullerton,20,0
+346,6,"Oct 11, 1975",Penn State,39,West Virginia,0,0
+347,6,"Oct 11, 1975",Temple,6,Pitt,55,0
+348,6,"Oct 11, 1975",Cornell,8,Princeton,16,0
+349,6,"Oct 11, 1975",San Diego State,29,Fresno State,0,1
+350,6,"Oct 11, 1975",Long Beach State,7,San Jose State,30,0
+351,6,"Oct 11, 1975",South Carolina,41,Virginia,14,0
+352,6,"Oct 11, 1975",USC,28,Washington State,10,0
+353,6,"Oct 11, 1975",Illinois State,17,Southern Illinois,17,0
+354,6,"Oct 11, 1975",Memphis,7,Southern Miss,21,0
+355,6,"Oct 11, 1975",Tennessee,24,LSU,10,0
+356,6,"Oct 11, 1975",Texas Tech,9,Texas A&M,38,0
+357,6,"Oct 11, 1975",Boston College,7,Tulane,17,0
+358,6,"Oct 11, 1975",Tulsa,24,Cincinnati,16,0
+359,6,"Oct 11, 1975",UCLA,31,Stanford,21,1
+360,6,"Oct 11, 1975",Utah,16,Wyoming,13,0
+361,6,"Oct 11, 1975",Utah State,21,West Texas State,17,0
+362,6,"Oct 11, 1975",Virginia Tech,13,Florida State,10,0
+363,6,"Oct 11, 1975",Wisconsin,17,Purdue,14,1
+364,7,"Oct 17, 1975",Miami,24,Houston,20,0
+365,7,"Oct 18, 1975",Akron,24,Temple,23,1
+366,7,"Oct 18, 1975",Tennessee,7,Alabama,30,1
+367,7,"Oct 18, 1975",Appalachian State,52,Lenoir-Rhyne,28,0
+368,7,"Oct 18, 1975",Arizona,32,Texas Tech,28,0
+369,7,"Oct 18, 1975",Arizona State,33,Colorado State,3,1
+370,7,"Oct 18, 1975",Cincinnati,9,Arkansas State,14,0
+371,7,"Oct 18, 1975",Auburn,31,Georgia Tech,27,1
+372,7,"Oct 18, 1975",Ball State,16,Central Michigan,13,0
+373,7,"Oct 18, 1975",Navy,3,Boston College,17,1
+374,7,"Oct 18, 1975",Kent State,9,Bowling Green,35,1
+375,7,"Oct 18, 1975",Dartmouth,10,Brown,10,0
+376,7,"Oct 18, 1975",Cal State Fullerton,32,California-Riverside,31,0
+377,7,"Oct 18, 1975",California,51,Oregon State,24,0
+378,7,"Oct 18, 1975",Chattanooga,21,East Tennessee State,13,1
+379,7,"Oct 18, 1975",Citadel,44,Davidson,0,1
+380,7,"Oct 18, 1975",Colgate,22,Princeton,21,1
+381,7,"Oct 18, 1975",Colorado,31,Missouri,20,0
+382,7,"Oct 18, 1975",Duke,25,Clemson,21,0
+383,7,"Oct 18, 1975",East Carolina,42,Western Carolina,14,0
+384,7,"Oct 18, 1975",Florida State,8,Florida,34,1
+385,7,"Oct 18, 1975",Furman,21,Holy Cross,14,0
+386,7,"Oct 18, 1975",Georgia,47,Vanderbilt,3,1
+387,7,"Oct 18, 1975",Harvard,34,Cornell,13,1
+388,7,"Oct 18, 1975",Portland State,7,Hawaii,24,1
+389,7,"Oct 18, 1975",Indiana State,56,Dayton,14,0
+390,7,"Oct 18, 1975",Iowa,20,Indiana,10,1
+391,7,"Oct 18, 1975",Kansas,21,Iowa State,10,1
+392,7,"Oct 18, 1975",Long Beach State,47,Fresno State,17,0
+393,7,"Oct 18, 1975",Louisiana,21,Lamar,12,0
+394,7,"Oct 18, 1975",LSU,17,Kentucky,14,0
+395,7,"Oct 18, 1975",Louisiana Tech,41,Northwestern State,14,0
+396,7,"Oct 18, 1975",Maryland,27,Wake Forest,0,1
+397,7,"Oct 18, 1975",McNeese State,15,Louisiana-Monroe,14,0
+398,7,"Oct 18, 1975",Louisville,7,Memphis,41,1
+399,7,"Oct 18, 1975",Ohio,9,Miami (OH),17,1
+400,7,"Oct 18, 1975",Michigan,69,Northwestern,0,0
+401,7,"Oct 18, 1975",Michigan State,38,Minnesota,15,1
+402,7,"Oct 18, 1975",Mississippi State,15,North Texas,12,0
+403,7,"Oct 18, 1975",Nebraska,28,Oklahoma State,20,1
+404,7,"Oct 18, 1975",New Mexico,27,Utah,23,0
+405,7,"Oct 18, 1975",NC State,21,North Carolina,20,0
+406,7,"Oct 18, 1975",Northern Illinois,52,Southern Illinois,12,0
+407,7,"Oct 18, 1975",Eastern Michigan,7,Northern Michigan,20,0
+408,7,"Oct 18, 1975",Notre Dame,31,Air Force,30,1
+409,7,"Oct 18, 1975",Ohio State,56,Wisconsin,0,0
+410,7,"Oct 18, 1975",Kansas State,3,Oklahoma,25,0
+411,7,"Oct 18, 1975",Syracuse,7,Penn State,19,0
+412,7,"Oct 18, 1975",Pennsylvania,13,Lafayette,0,0
+413,7,"Oct 18, 1975",Pitt,52,Army,20,1
+414,7,"Oct 18, 1975",Purdue,26,Illinois,24,1
+415,7,"Oct 18, 1975",Rice,28,SMU,17,0
+416,7,"Oct 18, 1975",Richmond,24,Virginia Military Institute,19,0
+417,7,"Oct 18, 1975",Rutgers,24,William & Mary,0,0
+418,7,"Oct 18, 1975",San Diego State,48,New Mexico State,3,0
+419,7,"Oct 18, 1975",San Jose State,41,Pacific,13,0
+420,7,"Oct 18, 1975",South Carolina,35,Ole Miss,29,1
+421,7,"Oct 18, 1975",Oregon,3,USC,17,1
+422,7,"Oct 18, 1975",Texas-Arlington,7,Southern Miss,34,0
+423,7,"Oct 18, 1975",Stanford,24,Washington,21,1
+424,7,"Oct 18, 1975",Texas,24,Arkansas,18,1
+425,7,"Oct 18, 1975",TCU,6,Texas A&M,14,0
+426,7,"Oct 18, 1975",Western Michigan,7,Toledo,25,1
+427,7,"Oct 18, 1975",Tulane,16,West Virginia,14,1
+428,7,"Oct 18, 1975",Tulsa,41,Wichita State,10,1
+429,7,"Oct 18, 1975",UCLA,37,Washington State,23,1
+430,7,"Oct 18, 1975",Weber State,7,Utah State,30,0
+431,7,"Oct 18, 1975",Villanova,21,Marshall,14,0
+432,7,"Oct 18, 1975",Virginia Tech,24,Virginia,17,0
+433,7,"Oct 18, 1975",Drake,6,West Texas State,24,1
+434,7,"Oct 18, 1975",Wyoming,31,UTEP,14,0
+435,7,"Oct 18, 1975",Columbia,7,Yale,34,0
+436,8,"Oct 24, 1975",Virginia Tech,7,West Virginia,10,1
+437,8,"Oct 25, 1975",Youngstown State,6,Akron,17,1
+438,8,"Oct 25, 1975",Alabama,45,TCU,0,0
+439,8,"Oct 25, 1975",UTEP,6,Arizona State,24,1
+440,8,"Oct 25, 1975",Arkansas,31,Utah State,0,0
+441,8,"Oct 25, 1975",Arkansas State,17,Lamar,0,1
+442,8,"Oct 25, 1975",Auburn,17,Florida State,14,1
+443,8,"Oct 25, 1975",Ball State,3,Northern Illinois,0,1
+444,8,"Oct 25, 1975",BYU,33,Wyoming,20,1
+445,8,"Oct 25, 1975",Kent State,8,Central Michigan,17,0
+446,8,"Oct 25, 1975",Western Carolina,6,Chattanooga,27,1
+447,8,"Oct 25, 1975",Cincinnati,23,Louisiana,17,0
+448,8,"Oct 25, 1975",Citadel,6,Virginia Military Institute,3,1
+449,8,"Oct 25, 1975",Colgate,56,Lafayette,2,0
+450,8,"Oct 25, 1975",Colorado State,47,Air Force,10,0
+451,8,"Oct 25, 1975",Dayton,17,McNeese State,12,1
+452,8,"Oct 25, 1975",East Carolina,38,North Carolina,17,1
+453,8,"Oct 25, 1975",Florida,24,Duke,16,0
+454,8,"Oct 25, 1975",William & Mary,6,Furman,21,0
+455,8,"Oct 25, 1975",Georgia,21,Kentucky,13,0
+456,8,"Oct 25, 1975",Georgia Tech,23,Tulane,0,1
+457,8,"Oct 25, 1975",Harvard,24,Dartmouth,10,0
+458,8,"Oct 25, 1975",Hawaii,48,Santa Clara,40,0
+459,8,"Oct 25, 1975",Holy Cross,21,Brown,20,0
+460,8,"Oct 25, 1975",Illinois,21,Michigan State,19,1
+461,8,"Oct 25, 1975",Indiana State,42,Illinois State,13,0
+462,8,"Oct 25, 1975",Long Beach State,31,Drake,10,1
+463,8,"Oct 25, 1975",South Carolina,6,LSU,24,1
+464,8,"Oct 25, 1975",Marshall,21,Western Michigan,19,0
+465,8,"Oct 25, 1975",Memphis,16,Tulsa,14,1
+466,8,"Oct 25, 1975",Miami (OH),20,Bowling Green,17,1
+467,8,"Oct 25, 1975",Indiana,7,Michigan,55,1
+468,8,"Oct 25, 1975",Iowa,7,Minnesota,31,0
+469,8,"Oct 25, 1975",Vanderbilt,7,Ole Miss,17,1
+470,8,"Oct 25, 1975",Mississippi State,28,Louisville,14,1
+471,8,"Oct 25, 1975",Missouri,35,Kansas State,3,0
+472,8,"Oct 25, 1975",Navy,17,Pitt,0,1
+473,8,"Oct 25, 1975",Nebraska,63,Colorado,21,0
+474,8,"Oct 25, 1975",New Mexico,44,Arizona,34,1
+475,8,"Oct 25, 1975",New Mexico State,16,Texas-Arlington,0,0
+476,8,"Oct 25, 1975",Clemson,7,NC State,45,0
+477,8,"Oct 25, 1975",North Texas,21,Tennessee,14,1
+478,8,"Oct 25, 1975",Purdue,6,Ohio State,35,0
+479,8,"Oct 25, 1975",Iowa State,7,Oklahoma,39,1
+480,8,"Oct 25, 1975",Oklahoma State,35,Kansas,19,1
+481,8,"Oct 25, 1975",Utah,7,Oregon,18,1
+482,8,"Oct 25, 1975",Pacific,45,Fresno State,28,0
+483,8,"Oct 25, 1975",Penn State,31,Army,0,0
+484,8,"Oct 25, 1975",Pennsylvania,24,Princeton,20,1
+485,8,"Oct 25, 1975",Richmond,24,Appalachian State,17,1
+486,8,"Oct 25, 1975",Rutgers,41,Columbia,0,0
+487,8,"Oct 25, 1975",Cal State Fullerton,7,San Jose State,41,1
+488,8,"Oct 25, 1975",Southeastern Louisiana,49,Louisiana-Monroe,19,0
+489,8,"Oct 25, 1975",USC,24,Notre Dame,17,1
+490,8,"Oct 25, 1975",Southern Illinois,33,Wichita State,22,0
+491,8,"Oct 25, 1975",Southern Miss,24,Louisiana Tech,14,1
+492,8,"Oct 25, 1975",Stanford,54,Washington State,14,0
+493,8,"Oct 25, 1975",Syracuse,22,Boston College,14,0
+494,8,"Oct 25, 1975",Temple,45,Delaware,0,1
+495,8,"Oct 25, 1975",Rice,9,Texas,41,1
+496,8,"Oct 25, 1975",Texas A&M,19,Baylor,10,0
+497,8,"Oct 25, 1975",Texas Tech,37,SMU,20,0
+498,8,"Oct 25, 1975",Toledo,14,Ohio,10,0
+499,8,"Oct 25, 1975",UCLA,28,California,14,0
+500,8,"Oct 25, 1975",Wake Forest,66,Virginia,21,1
+501,8,"Oct 25, 1975",Oregon State,7,Washington,35,1
+502,8,"Oct 25, 1975",Western Illinois,17,Eastern Michigan,14,1
+503,8,"Oct 25, 1975",Wisconsin,17,Northwestern,14,0
+504,8,"Oct 25, 1975",Yale,20,Cornell,14,0
+505,9,"Nov 1, 1975",Air Force,33,Army,3,0
+506,9,"Nov 1, 1975",Akron,14,Indiana State,11,0
+507,9,"Nov 1, 1975",Alabama,21,Mississippi State,10,1
+508,9,"Nov 1, 1975",Appalachian State,22,Citadel,17,1
+509,9,"Nov 1, 1975",Arizona,36,BYU,20,1
+510,9,"Nov 1, 1975",Arizona State,40,Utah,14,1
+511,9,"Nov 1, 1975",Arkansas State,48,Chattanooga,0,0
+512,9,"Nov 1, 1975",Ball State,27,Bowling Green,20,1
+513,9,"Nov 1, 1975",TCU,6,Baylor,24,1
+514,9,"Nov 1, 1975",Miami,7,Boston College,21,1
+515,9,"Nov 1, 1975",Boston University,6,Holy Cross,0,1
+516,9,"Nov 1, 1975",Brown,24,Princeton,16,1
+517,9,"Nov 1, 1975",California,28,USC,14,0
+518,9,"Nov 1, 1975",Central Michigan,34,Marshall,0,0
+519,9,"Nov 1, 1975",Cincinnati,28,Houston,23,0
+520,9,"Nov 1, 1975",Colorado,28,Iowa State,27,1
+521,9,"Nov 1, 1975",Columbia,42,Cornell,19,1
+522,9,"Nov 1, 1975",Delaware,14,Villanova,13,1
+523,9,"Nov 1, 1975",Drake,38,Southern Illinois,27,1
+524,9,"Nov 1, 1975",East Carolina,21,Furman,10,0
+525,9,"Nov 1, 1975",Florida,31,Auburn,14,1
+526,9,"Nov 1, 1975",Clemson,7,Florida State,43,0
+527,9,"Nov 1, 1975",Georgia,28,Richmond,24,0
+528,9,"Nov 1, 1975",Duke,6,Georgia Tech,21,1
+529,9,"Nov 1, 1975",Pennsylvania,3,Harvard,21,0
+530,9,"Nov 1, 1975",Cal State Fullerton,7,Hawaii,16,1
+531,9,"Nov 1, 1975",Illinois State,27,Northern Illinois,10,0
+532,9,"Nov 1, 1975",Iowa,24,Northwestern,21,1
+533,9,"Nov 1, 1975",Kansas,28,Kansas State,0,0
+534,9,"Nov 1, 1975",Kentucky,23,Tulane,10,0
+535,9,"Nov 1, 1975",Colgate,6,Lehigh,38,1
+536,9,"Nov 1, 1975",Louisiana,35,Texas-Arlington,32,0
+537,9,"Nov 1, 1975",Louisiana Tech,33,Southeastern Louisiana,28,1
+538,9,"Nov 1, 1975",McNeese State,31,Northwestern State,14,1
+539,9,"Nov 1, 1975",Wichita State,7,Memphis,13,0
+540,9,"Nov 1, 1975",Miami (OH),35,Toledo,21,0
+541,9,"Nov 1, 1975",Michigan,28,Minnesota,21,1
+542,9,"Nov 1, 1975",Ole Miss,17,LSU,13,0
+543,9,"Nov 1, 1975",Missouri,7,Nebraska,30,0
+544,9,"Nov 1, 1975",UTEP,3,New Mexico,23,1
+545,9,"Nov 1, 1975",NC State,28,South Carolina,21,0
+546,9,"Nov 1, 1975",Notre Dame,31,Navy,10,0
+547,9,"Nov 1, 1975",Ohio,24,Western Michigan,10,0
+548,9,"Nov 1, 1975",Ohio State,24,Indiana,14,0
+549,9,"Nov 1, 1975",Oklahoma State,7,Oklahoma,27,0
+550,9,"Nov 1, 1975",Oregon,26,Washington State,14,1
+551,9,"Nov 1, 1975",Penn State,15,Maryland,13,1
+552,9,"Nov 1, 1975",Pitt,38,Syracuse,0,1
+553,9,"Nov 1, 1975",Purdue,20,Michigan State,10,0
+554,9,"Nov 1, 1975",Connecticut,8,Rutgers,35,0
+555,9,"Nov 1, 1975",San Diego State,31,Pacific,13,1
+556,9,"Nov 1, 1975",Fresno State,7,San Jose State,21,0
+557,9,"Nov 1, 1975",Stanford,28,Oregon State,22,1
+558,9,"Nov 1, 1975",Temple,23,Dayton,10,0
+559,9,"Nov 1, 1975",Colorado State,7,Tennessee,28,1
+560,9,"Nov 1, 1975",Texas,30,SMU,22,1
+561,9,"Nov 1, 1975",Texas Tech,28,Rice,24,0
+562,9,"Nov 1, 1975",Tulsa,38,Louisville,14,0
+563,9,"Nov 1, 1975",Utah State,27,Wyoming,21,0
+564,9,"Nov 1, 1975",Vanderbilt,17,Virginia,14,0
+565,9,"Nov 1, 1975",William & Mary,7,Virginia Tech,24,1
+566,9,"Nov 1, 1975",North Carolina,9,Wake Forest,21,0
+567,9,"Nov 1, 1975",Washington,17,UCLA,13,1
+568,9,"Nov 1, 1975",West Texas State,45,Louisiana-Monroe,20,1
+569,9,"Nov 1, 1975",West Virginia,38,Kent State,13,0
+570,9,"Nov 1, 1975",Illinois,9,Wisconsin,18,1
+571,9,"Nov 1, 1975",Yale,16,Dartmouth,14,0
+572,9,"Nov 1, 1975",Youngstown State,15,Eastern Michigan,14,0
+573,10,"Nov 7, 1975",Navy,17,Miami,16,1
+574,10,"Nov 8, 1975",Air Force,13,Tulane,12,1
+575,10,"Nov 8, 1975",Alabama,23,LSU,10,1
+576,10,"Nov 8, 1975",Appalachian State,39,South Carolina,34,1
+577,10,"Nov 8, 1975",Arizona,31,San Diego State,24,1
+578,10,"Nov 8, 1975",Arizona State,21,Wyoming,20,0
+579,10,"Nov 8, 1975",Arkansas,20,Rice,16,1
+580,10,"Nov 8, 1975",Arkansas State,35,Southern Illinois,12,0
+581,10,"Nov 8, 1975",Ball State,17,Akron,14,1
+582,10,"Nov 8, 1975",Boston College,31,Army,0,1
+583,10,"Nov 8, 1975",Bowling Green,19,Ohio,17,1
+584,10,"Nov 8, 1975",Utah State,7,BYU,24,0
+585,10,"Nov 8, 1975",Brown,45,Cornell,23,1
+586,10,"Nov 8, 1975",Bucknell,24,Colgate,16,1
+587,10,"Nov 8, 1975",California,27,Washington,24,0
+588,10,"Nov 8, 1975",Western Illinois,7,Central Michigan,24,0
+589,10,"Nov 8, 1975",Tennessee State,6,Chattanooga,31,1
+590,10,"Nov 8, 1975",Clemson,38,North Carolina,35,1
+591,10,"Nov 8, 1975",Oklahoma State,7,Colorado,17,1
+592,10,"Nov 8, 1975",Colorado State,21,UTEP,17,1
+593,10,"Nov 8, 1975",Dartmouth,22,Columbia,17,1
+594,10,"Nov 8, 1975",Dayton,32,Louisville,13,1
+595,10,"Nov 8, 1975",Duke,42,Wake Forest,14,1
+596,10,"Nov 8, 1975",East Carolina,61,Virginia,10,1
+597,10,"Nov 8, 1975",Eastern Michigan,51,Illinois State,14,0
+598,10,"Nov 8, 1975",Furman,34,Western Carolina,0,0
+599,10,"Nov 8, 1975",Florida,7,Georgia,10,1
+600,10,"Nov 8, 1975",Nebraska-Omaha,9,Indiana State,26,1
+601,10,"Nov 8, 1975",Iowa,45,Wisconsin,28,0
+602,10,"Nov 8, 1975",Oklahoma,3,Kansas,23,0
+603,10,"Nov 8, 1975",Kent State,30,Marshall,21,0
+604,10,"Nov 8, 1975",Long Beach State,10,Hawaii,0,0
+605,10,"Nov 8, 1975",Louisiana Tech,41,Louisiana-Monroe,23,0
+606,10,"Nov 8, 1975",Maryland,21,Cincinnati,19,1
+607,10,"Nov 8, 1975",Massachusetts,45,Holy Cross,13,0
+608,10,"Nov 8, 1975",Memphis,17,Florida State,14,1
+609,10,"Nov 8, 1975",Miami (OH),44,Western Michigan,21,1
+610,10,"Nov 8, 1975",Michigan,28,Purdue,0,0
+611,10,"Nov 8, 1975",Indiana,6,Michigan State,14,0
+612,10,"Nov 8, 1975",Northwestern,9,Minnesota,33,1
+613,10,"Nov 8, 1975",Auburn,21,Mississippi State,21,0
+614,10,"Nov 8, 1975",Missouri,44,Iowa State,14,1
+615,10,"Nov 8, 1975",Nebraska,12,Kansas State,0,1
+616,10,"Nov 8, 1975",NC State,15,Penn State,14,1
+617,10,"Nov 8, 1975",North Texas,27,Cal Poly-Pomona,17,0
+618,10,"Nov 8, 1975",Georgia Tech,3,Notre Dame,24,1
+619,10,"Nov 8, 1975",Ohio State,40,Illinois,3,1
+620,10,"Nov 8, 1975",Oregon State,7,Washington State,0,0
+621,10,"Nov 8, 1975",Pacific,19,Louisiana,14,1
+622,10,"Nov 8, 1975",Princeton,24,Harvard,20,1
+623,10,"Nov 8, 1975",Richmond,7,Citadel,0,0
+624,10,"Nov 8, 1975",Lafayette,6,Rutgers,48,1
+625,10,"Nov 8, 1975",San Jose State,29,New Mexico,20,0
+626,10,"Nov 8, 1975",Southern Miss,43,Lamar,3,0
+627,10,"Nov 8, 1975",Stanford,13,USC,10,1
+628,10,"Nov 8, 1975",Rhode Island,6,Temple,45,1
+629,10,"Nov 8, 1975",Utah,7,Tennessee,40,1
+630,10,"Nov 8, 1975",Texas,37,Baylor,21,0
+631,10,"Nov 8, 1975",Texas A&M,36,SMU,3,0
+632,10,"Nov 8, 1975",Texas Tech,34,TCU,0,1
+633,10,"Nov 8, 1975",Toledo,24,Northern Illinois,22,1
+634,10,"Nov 8, 1975",Tulsa,70,Drake,7,0
+635,10,"Nov 8, 1975",UCLA,50,Oregon,17,1
+636,10,"Nov 8, 1975",Kentucky,3,Vanderbilt,13,1
+637,10,"Nov 8, 1975",Virginia Tech,34,Houston,28,1
+638,10,"Nov 8, 1975",West Texas State,38,New Mexico State,10,0
+639,10,"Nov 8, 1975",West Virginia,17,Pitt,14,0
+640,10,"Nov 8, 1975",Wichita State,28,Fresno State,11,0
+641,10,"Nov 8, 1975",Virginia Military Institute,7,William & Mary,13,0
+642,10,"Nov 8, 1975",Yale,24,Pennsylvania,14,0
+643,10,"Nov 8, 1975",Villanova,6,Youngstown State,25,1
+644,11,"Nov 15, 1975",Southern Miss,6,Alabama,27,1
+645,11,"Nov 15, 1975",Colorado State,9,Arizona,31,0
+646,11,"Nov 15, 1975",Arizona State,55,Pacific,14,0
+647,11,"Nov 15, 1975",SMU,7,Arkansas,35,0
+648,11,"Nov 15, 1975",Illinois State,7,Ball State,46,1
+649,11,"Nov 15, 1975",Southern Illinois,6,Bowling Green,48,0
+650,11,"Nov 15, 1975",BYU,51,Utah,20,0
+651,11,"Nov 15, 1975",Cal Poly-Pomona,33,Cal State Fullerton,21,1
+652,11,"Nov 15, 1975",California,31,Air Force,14,1
+653,11,"Nov 15, 1975",Northern Illinois,7,Central Michigan,69,1
+654,11,"Nov 15, 1975",Cincinnati,6,Ohio,5,1
+655,11,"Nov 15, 1975",Furman,9,Citadel,13,1
+656,11,"Nov 15, 1975",Colgate,21,William & Mary,17,1
+657,11,"Nov 15, 1975",Colorado,24,Kansas,21,1
+658,11,"Nov 15, 1975",Columbia,28,Pennsylvania,25,0
+659,11,"Nov 15, 1975",Dartmouth,33,Cornell,10,0
+660,11,"Nov 15, 1975",Marshall,8,Dayton,29,1
+661,11,"Nov 15, 1975",Drake,27,Wichita State,23,0
+662,11,"Nov 15, 1975",Kentucky,7,Florida,48,1
+663,11,"Nov 15, 1975",Fresno State,59,Cal State Los Angeles,14,0
+664,11,"Nov 15, 1975",Georgia,28,Auburn,13,0
+665,11,"Nov 15, 1975",Georgia Tech,14,Navy,13,0
+666,11,"Nov 15, 1975",Harvard,45,Brown,26,1
+667,11,"Nov 15, 1975",UTEP,9,Hawaii,21,1
+668,11,"Nov 15, 1975",Wisconsin,9,Indiana,9,0
+669,11,"Nov 15, 1975",Long Beach State,26,Cal Poly,24,1
+670,11,"Nov 15, 1975",Louisiana,40,Northwestern State,17,1
+671,11,"Nov 15, 1975",Louisiana Tech,49,Chattanooga,20,0
+672,11,"Nov 15, 1975",Louisiana-Monroe,14,Louisville,10,0
+673,11,"Nov 15, 1975",Maryland,22,Clemson,20,1
+674,11,"Nov 15, 1975",McNeese State,39,West Texas State,33,0
+675,11,"Nov 15, 1975",Houston,7,Memphis,14,1
+676,11,"Nov 15, 1975",Miami,24,Florida State,22,1
+677,11,"Nov 15, 1975",Kent State,8,Miami (OH),27,0
+678,11,"Nov 15, 1975",Michigan,21,Illinois,15,1
+679,11,"Nov 15, 1975",Michigan State,47,Northwestern,14,0
+680,11,"Nov 15, 1975",Tennessee,6,Ole Miss,23,1
+681,11,"Nov 15, 1975",LSU,6,Mississippi State,16,0
+682,11,"Nov 15, 1975",Morehead State,7,Akron,0,0
+683,11,"Nov 15, 1975",Nebraska,52,Iowa State,0,0
+684,11,"Nov 15, 1975",New Mexico,38,Wyoming,32,0
+685,11,"Nov 15, 1975",North Carolina,17,Tulane,15,1
+686,11,"Nov 15, 1975",Duke,21,NC State,21,0
+687,11,"Nov 15, 1975",North Texas,24,New Mexico State,20,1
+688,11,"Nov 15, 1975",Minnesota,6,Ohio State,38,1
+689,11,"Nov 15, 1975",Oklahoma,28,Missouri,27,1
+690,11,"Nov 15, 1975",Oklahoma State,56,Kansas State,3,0
+691,11,"Nov 15, 1975",Pitt,34,Notre Dame,20,0
+692,11,"Nov 15, 1975",Purdue,19,Iowa,18,0
+693,11,"Nov 15, 1975",Rutgers,41,Boston University,3,1
+694,11,"Nov 15, 1975",San Diego State,7,San Jose State,31,1
+695,11,"Nov 15, 1975",South Carolina,37,Wake Forest,26,0
+696,11,"Nov 15, 1975",Stanford,33,Oregon,30,0
+697,11,"Nov 15, 1975",Syracuse,37,Virginia,0,1
+698,11,"Nov 15, 1975",Texas,27,TCU,11,0
+699,11,"Nov 15, 1975",Texas A&M,33,Rice,14,1
+700,11,"Nov 15, 1975",Texas Tech,33,Baylor,10,0
+701,11,"Nov 15, 1975",Texas-Arlington,37,Lamar,24,0
+702,11,"Nov 15, 1975",Indiana State,7,Tulsa,62,1
+703,11,"Nov 15, 1975",Oregon State,9,UCLA,31,1
+704,11,"Nov 15, 1975",Utah State,42,Boise State,19,1
+705,11,"Nov 15, 1975",Vanderbilt,23,Army,14,0
+706,11,"Nov 15, 1975",Villanova,13,Holy Cross,12,1
+707,11,"Nov 15, 1975",Virginia Tech,33,Virginia Military Institute,0,0
+708,11,"Nov 15, 1975",Washington,8,USC,7,0
+709,11,"Nov 15, 1975",Washington State,84,Idaho,27,0
+710,11,"Nov 15, 1975",West Virginia,31,Richmond,13,1
+711,11,"Nov 15, 1975",Western Carolina,20,Appalachian State,11,0
+712,11,"Nov 15, 1975",Western Michigan,24,Eastern Michigan,14,0
+713,11,"Nov 15, 1975",Yale,24,Princeton,13,1
+714,12,"Nov 22, 1975",Davidson,7,Appalachian State,52,1
+715,12,"Nov 22, 1975",Arizona,38,Utah,14,0
+716,12,"Nov 22, 1975",Arkansas,31,Texas Tech,14,0
+717,12,"Nov 22, 1975",Texas-Arlington,7,Arkansas State,54,1
+718,12,"Nov 22, 1975",Boston College,24,Massachusetts,14,0
+719,12,"Nov 22, 1975",Boston University,20,Villanova,14,1
+720,12,"Nov 22, 1975",BYU,20,UTEP,10,1
+721,12,"Nov 22, 1975",Brown,48,Columbia,13,0
+722,12,"Nov 22, 1975",California,48,Stanford,15,1
+723,12,"Nov 22, 1975",Citadel,6,Chattanooga,24,1
+724,12,"Nov 22, 1975",Kansas State,7,Colorado,33,1
+725,12,"Nov 22, 1975",Connecticut,35,Holy Cross,14,0
+726,12,"Nov 22, 1975",Dartmouth,21,Princeton,16,1
+727,12,"Nov 22, 1975",Indiana State,7,Delaware,46,1
+728,12,"Nov 22, 1975",East Carolina,28,Virginia Military Institute,12,0
+729,12,"Nov 22, 1975",Florida State,33,Houston,22,1
+730,12,"Nov 22, 1975",Wofford,14,Furman,14,0
+731,12,"Nov 22, 1975",Yale,7,Harvard,10,0
+732,12,"Nov 22, 1975",Hawaii,17,Pacific,10,0
+733,12,"Nov 22, 1975",Idaho,25,Northern Illinois,24,0
+734,12,"Nov 22, 1975",Northwestern,7,Illinois,28,0
+735,12,"Nov 22, 1975",Illinois State,31,Eastern Illinois,13,1
+736,12,"Nov 22, 1975",Kansas,42,Missouri,24,0
+737,12,"Nov 22, 1975",Lamar,30,Southern Illinois,10,0
+738,12,"Nov 22, 1975",Long Beach State,21,San Diego State,17,1
+739,12,"Nov 22, 1975",Tulane,6,LSU,42,0
+740,12,"Nov 22, 1975",Maryland,62,Virginia,24,0
+741,12,"Nov 22, 1975",McNeese State,33,Louisiana,21,1
+742,12,"Nov 22, 1975",Miami (OH),21,Cincinnati,13,0
+743,12,"Nov 22, 1975",Michigan State,27,Iowa,23,1
+744,12,"Nov 22, 1975",Wisconsin,3,Minnesota,24,1
+745,12,"Nov 22, 1975",Mississippi State,7,Ole Miss,13,1
+746,12,"Nov 22, 1975",New Mexico,52,New Mexico State,28,1
+747,12,"Nov 22, 1975",Duke,17,North Carolina,17,0
+748,12,"Nov 22, 1975",Miami,9,Notre Dame,32,0
+749,12,"Nov 22, 1975",Ohio,38,Marshall,21,1
+750,12,"Nov 22, 1975",Ohio State,21,Michigan,14,1
+751,12,"Nov 22, 1975",Oklahoma,35,Nebraska,10,0
+752,12,"Nov 22, 1975",Iowa State,7,Oklahoma State,14,0
+753,12,"Nov 22, 1975",Oregon State,7,Oregon,14,1
+754,12,"Nov 22, 1975",Penn State,7,Pitt,6,1
+755,12,"Nov 22, 1975",Pennsylvania,27,Cornell,21,0
+756,12,"Nov 22, 1975",Purdue,9,Indiana,7,1
+757,12,"Nov 22, 1975",Rutgers,56,Colgate,14,0
+758,12,"Nov 22, 1975",South Carolina,56,Clemson,20,0
+759,12,"Nov 22, 1975",SMU,34,Baylor,31,1
+760,12,"Nov 22, 1975",Southern Miss,70,Cal State Fullerton,0,0
+761,12,"Nov 22, 1975",Syracuse,20,West Virginia,19,0
+762,12,"Nov 22, 1975",Drake,7,Temple,44,1
+763,12,"Nov 22, 1975",Tennessee,17,Kentucky,13,1
+764,12,"Nov 22, 1975",TCU,28,Rice,21,0
+765,12,"Nov 22, 1975",Toledo,33,Kent State,28,0
+766,12,"Nov 22, 1975",Utah State,28,Colorado State,17,1
+767,12,"Nov 22, 1975",Virginia Tech,40,Wake Forest,10,0
+768,12,"Nov 22, 1975",Washington,28,Washington State,27,0
+769,12,"Nov 22, 1975",West Texas State,49,Louisville,23,0
+770,12,"Nov 22, 1975",William & Mary,31,Richmond,21,0
+771,12,"Nov 22, 1975",Wyoming,24,Air Force,10,1
+772,13,"Nov 27, 1975",Georgia,42,Georgia Tech,26,1
+773,13,"Nov 28, 1975",Texas A&M,20,Texas,10,0
+774,13,"Nov 28, 1975",UCLA,25,USC,22,1
+775,13,"Nov 29, 1975",Alabama,28,Auburn,0,0
+776,13,"Nov 29, 1975",Arizona State,24,Arizona,21,0
+777,13,"Nov 29, 1975",Arkansas State,30,Louisiana Tech,13,1
+778,13,"Nov 29, 1975",Rice,7,Baylor,25,0
+779,13,"Nov 29, 1975",Boston College,24,Holy Cross,10,1
+780,13,"Nov 29, 1975",Cal State Fullerton,14,Cal State Northridge,0,0
+781,13,"Nov 29, 1975",Florida,15,Miami,11,1
+782,13,"Nov 29, 1975",Hawaii,30,San Jose State,20,0
+783,13,"Nov 29, 1975",Houston,42,Tulsa,30,0
+784,13,"Nov 29, 1975",McNeese State,20,Lamar,10,0
+785,13,"Nov 29, 1975",Army,6,Navy,30,1
+786,13,"Nov 29, 1975",North Texas,16,West Texas State,15,0
+787,13,"Nov 29, 1975",Rutgers,21,Syracuse,10,0
+788,13,"Nov 29, 1975",Southern Miss,42,BYU,14,0
+789,13,"Nov 29, 1975",Temple,41,Villanova,3,0
+790,13,"Nov 29, 1975",Texas-Arlington,21,Bowling Green,17,0
+791,13,"Nov 29, 1975",Vanderbilt,17,Tennessee,14,1
+792,13,"Nov 29, 1975",Connecticut,3,Virginia Military Institute,13,0
+793,14,"Dec 6, 1975",Texas A&M,6,Arkansas,31,1
+794,14,"Dec 6, 1975",Hawaii,6,Tennessee,28,0
+795,15,"Dec 20, 1975",South Carolina,7,Miami (OH),20,1
+796,15,"Dec 22, 1975",USC,20,Texas A&M,0,0
+797,16,"Dec 26, 1975",Arizona State,17,Nebraska,14,0
+798,16,"Dec 26, 1975",Pitt,33,Kansas,19,0
+799,16,"Dec 27, 1975",Texas,38,Colorado,21,0
+800,17,"Dec 29, 1975",Maryland,13,Florida,0,0
+801,18,"Dec 31, 1975",Penn State,6,Alabama,13,1
+802,18,"Dec 31, 1975",West Virginia,13,NC State,10,0
+803,18,"Jan 1, 1976",Arkansas,31,Georgia,10,0
+804,18,"Jan 1, 1976",Michigan,6,Oklahoma,14,1
+805,18,"Jan 1, 1976",UCLA,23,Ohio State,10,0

@@ -1,0 +1,470 @@
+0,1,"Sep 18, 1915",Albright,6,Carlisle,21,1
+1,2,"Sep 25, 1915",Brown,38,Rhode Island,0,0
+2,2,"Sep 25, 1915",Bucknell,14,Bloomsburg,0,0
+3,2,"Sep 25, 1915",Citadel,46,Charleston Navy,0,0
+4,2,"Sep 25, 1915",Clemson,99,Furman,0,1
+5,2,"Sep 25, 1915",Cornell,13,Gettysburg,0,0
+6,2,"Sep 25, 1915",Dartmouth,13,Massachusetts,0,0
+7,2,"Sep 25, 1915",Colby,6,Harvard,39,1
+8,2,"Sep 25, 1915",Haskell,7,Kansas Wesleyan,0,0
+9,2,"Sep 25, 1915",Iowa State,31,Ellsworth,0,0
+10,2,"Sep 25, 1915",Muhlenberg,7,Lafayette,14,1
+11,2,"Sep 25, 1915",Carlisle,0,Lebanon Valley,0,0
+12,2,"Sep 25, 1915",Lehigh,20,Ursinus,0,0
+13,2,"Sep 25, 1915",Mississippi College,28,Chamberlain Hunt,0,0
+14,2,"Sep 25, 1915",Oklahoma,67,Kingfisher,0,0
+15,2,"Sep 25, 1915",Penn State,26,Westminster (Pennsylvania),0,0
+16,2,"Sep 25, 1915",Pennsylvania,7,West Virginia,0,0
+17,2,"Sep 25, 1915",Princeton,13,Georgetown,0,0
+18,2,"Sep 25, 1915",Syracuse,43,Syracuse Alumni,0,0
+19,2,"Sep 25, 1915",Tennessee,101,Carson-Newman,0,0
+20,2,"Sep 25, 1915",Tulane,24,St. Paul,0,1
+21,2,"Sep 25, 1915",Vanderbilt,51,Middle Tennessee,0,0
+22,2,"Sep 25, 1915",Virginia,20,Randolph-Macon,0,0
+23,2,"Sep 25, 1915",Hampden-Sydney,7,Virginia Military Institute,25,1
+24,2,"Sep 25, 1915",Wake Forest,80,Florence YMCA,0,0
+25,2,"Sep 25, 1915",Washington & Jefferson,6,Geneva,0,1
+26,2,"Sep 25, 1915",Washington & Lee,14,Davidson,0,0
+27,2,"Sep 25, 1915",West Virginia Wesleyan,61,St. Francis (Pennsylvania),0,0
+28,2,"Sep 25, 1915",Wyoming,19,Laramie High,0,0
+29,2,"Sep 25, 1915",Yale,37,Maine,0,0
+30,2,"Sep 26, 1915",Virginia Tech,26,Roanoke,0,0
+31,3,"Sep 28, 1915",Georgia,79,Newberry,0,0
+32,3,"Sep 29, 1915",Pennsylvania,63,Albright,0,0
+33,3,"Sep 29, 1915",Bucknell,0,Susquehanna,0,0
+34,3,"Oct 1, 1915",Arkansas State,10,Ole Miss,0,1
+35,3,"Oct 1, 1915",Auburn,78,Marion,0,0
+36,3,"Oct 1, 1915",Georgia,64,North Georgia,0,0
+37,3,"Oct 1, 1915",Kansas State,9,Southwestern (Kansas),0,0
+38,3,"Oct 1, 1915",LSU,42,Jefferson (LA),0,0
+39,3,"Oct 2, 1915",Alabama,44,Samford,0,0
+40,3,"Oct 2, 1915",Arkansas,41,Hendrix,0,0
+41,3,"Oct 2, 1915",Baylor,3,Howard Payne,0,0
+42,3,"Oct 2, 1915",Colgate,44,Susquehanna,0,0
+43,3,"Oct 2, 1915",Colorado,30,Wyoming,0,0
+44,3,"Oct 2, 1915",Colorado College,76,Colorado Springs High,0,0
+45,3,"Oct 2, 1915",Oberlin,7,Cornell,34,1
+46,3,"Oct 2, 1915",Dartmouth,32,Maine,0,0
+47,3,"Oct 2, 1915",Clemson,6,Davidson,6,0
+48,3,"Oct 2, 1915",Furman,60,Erskine,0,0
+49,3,"Oct 2, 1915",Georgetown,9,Navy,0,1
+50,3,"Oct 2, 1915",Georgia Tech,52,Mercer,0,0
+51,3,"Oct 2, 1915",Harvard,7,Massachusetts,0,0
+52,3,"Oct 2, 1915",Army,14,Holy Cross,14,0
+53,3,"Oct 2, 1915",Illinois,36,Haskell,0,0
+54,3,"Oct 2, 1915",Indiana,7,DePauw,0,0
+55,3,"Oct 2, 1915",Iowa,33,Cornell College,0,1
+56,3,"Oct 2, 1915",Iowa State,27,Simpson,0,0
+57,3,"Oct 2, 1915",Kansas,20,William Jewell,0,0
+58,3,"Oct 2, 1915",Kentucky,33,Butler,0,0
+59,3,"Oct 2, 1915",Ursinus,2,Lafayette,13,1
+60,3,"Oct 2, 1915",Lehigh,14,Carlisle,0,0
+61,3,"Oct 2, 1915",Minnesota,41,North Dakota,0,0
+62,3,"Oct 2, 1915",Mississippi State,12,Mississippi College,0,0
+63,3,"Oct 2, 1915",Oklahoma State,6,Missouri,13,1
+64,3,"Oct 2, 1915",Nebraska,48,Drake,13,0
+65,3,"Oct 2, 1915",Citadel,7,North Carolina,14,1
+66,3,"Oct 2, 1915",Lake Forest,6,Northwestern,27,1
+67,3,"Oct 2, 1915",Notre Dame,32,Alma,0,0
+68,3,"Oct 2, 1915",Ohio Wesleyan,6,Ohio State,19,1
+69,3,"Oct 2, 1915",Oklahoma,55,Southwestern Oklahoma State,0,1
+70,3,"Oct 2, 1915",Penn State,13,Lebanon Valley,0,0
+71,3,"Oct 2, 1915",Franklin & Marshall,6,Pennsylvania,10,1
+72,3,"Oct 2, 1915",Pitt,32,Westminster (Pennsylvania),0,0
+73,3,"Oct 2, 1915",Wofford,6,Presbyterian,16,1
+74,3,"Oct 2, 1915",Princeton,10,Rutgers,0,0
+75,3,"Oct 2, 1915",Rice,46,Trinity (Texas),0,0
+76,3,"Oct 2, 1915",Sewanee,57,Morgan,0,0
+77,3,"Oct 2, 1915",South Carolina,29,Newberry,0,0
+78,3,"Oct 2, 1915",Syracuse,6,Bucknell,0,0
+79,3,"Oct 2, 1915",Tennessee,21,Tusculum,0,0
+80,3,"Oct 2, 1915",Texas,72,TCU,0,0
+81,3,"Oct 2, 1915",Texas A&M,40,Austin,0,0
+82,3,"Oct 2, 1915",Brown,0,Trinity (CT),0,0
+83,3,"Oct 2, 1915",Vanderbilt,47,Rhodes,0,0
+84,3,"Oct 2, 1915",Virginia,10,Yale,0,1
+85,3,"Oct 2, 1915",William & Mary,6,Virginia Military Institute,19,1
+86,3,"Oct 2, 1915",Randolph-Macon,3,Virginia Tech,19,1
+87,3,"Oct 2, 1915",Purdue,7,Wabash,7,0
+88,3,"Oct 2, 1915",West Virginia,6,Washington & Jefferson,6,0
+89,3,"Oct 2, 1915",Washington & Lee,20,West Virginia Wesleyan,0,0
+90,3,"Oct 2, 1915",Wisconsin,82,Lawrence,0,0
+91,4,"Oct 6, 1915",Michigan,39,Lawrence,0,0
+92,4,"Oct 8, 1915",Baylor,26,Rice,0,1
+93,4,"Oct 8, 1915",LSU,14,Mississippi College,0,0
+94,4,"Oct 8, 1915",Rhodes,6,Ole Miss,13,1
+95,4,"Oct 8, 1915",Wisconsin,85,Marquette,0,0
+96,4,"Oct 9, 1915",Alabama,67,Birmingham,0,0
+97,4,"Oct 9, 1915",Amherst,7,Brown,0,0
+98,4,"Oct 9, 1915",Ouachita,9,Arkansas,13,1
+99,4,"Oct 9, 1915",Army,22,Gettysburg,0,0
+100,4,"Oct 9, 1915",Auburn,7,Florida,0,0
+101,4,"Oct 9, 1915",Chicago,7,Northwestern,0,1
+102,4,"Oct 9, 1915",Citadel,54,Porter Military,0,1
+103,4,"Oct 9, 1915",Clemson,3,Tennessee,0,1
+104,4,"Oct 9, 1915",Colgate,44,Rochester,0,1
+105,4,"Oct 9, 1915",Colorado College,47,Montana State,0,0
+106,4,"Oct 9, 1915",Colorado,6,Colorado State,23,0
+107,4,"Oct 9, 1915",Williams,6,Cornell,46,1
+108,4,"Oct 9, 1915",Tufts,7,Dartmouth,20,1
+109,4,"Oct 9, 1915",Denver,47,South Denver High,0,0
+110,4,"Oct 9, 1915",Georgetown,58,Reina Mercedes,0,0
+111,4,"Oct 9, 1915",Chattanooga,6,Georgia,6,0
+112,4,"Oct 9, 1915",Davidson,7,Georgia Tech,27,1
+113,4,"Oct 9, 1915",Carlisle,7,Harvard,29,1
+114,4,"Oct 9, 1915",Highland Park,16,Drake,13,1
+115,4,"Oct 9, 1915",Illinois,75,Missouri-Rolla,7,0
+116,4,"Oct 9, 1915",Indiana,41,Miami (OH),0,0
+117,4,"Oct 9, 1915",Morningside,6,Iowa,17,0
+118,4,"Oct 9, 1915",Emporia State,3,Kansas,21,1
+119,4,"Oct 9, 1915",Kentucky,54,Earlham,13,0
+120,4,"Oct 9, 1915",Wofford,6,Mercer,13,1
+121,4,"Oct 9, 1915",Michigan,35,Mount Union,0,0
+122,4,"Oct 9, 1915",Iowa State,6,Minnesota,34,1
+123,4,"Oct 9, 1915",Nebraska,31,Kansas State,0,0
+124,4,"Oct 9, 1915",North Carolina,35,Wake Forest,0,0
+125,4,"Oct 9, 1915",Notre Dame,34,Haskell,0,0
+126,4,"Oct 9, 1915",Ohio State,14,Case,0,0
+127,4,"Oct 9, 1915",Oklahoma,102,Northwestern Oklahoma State,0,0
+128,4,"Oct 9, 1915",Oklahoma State,6,Friends,0,0
+129,4,"Oct 9, 1915",Pennsylvania,3,Penn State,13,0
+130,4,"Oct 9, 1915",Pitt,47,Navy,12,1
+131,4,"Oct 9, 1915",Princeton,3,Syracuse,0,0
+132,4,"Oct 9, 1915",Purdue,26,Beloit,0,0
+133,4,"Oct 9, 1915",NC State,0,Roanoke,0,0
+134,4,"Oct 9, 1915",Sewanee,47,Cumberland,0,0
+135,4,"Oct 9, 1915",South Carolina,41,Presbyterian,0,0
+136,4,"Oct 9, 1915",Swarthmore,3,Bucknell,0,1
+137,4,"Oct 9, 1915",Texas,92,Daniel Baker,0,0
+138,4,"Oct 9, 1915",Texas A&M,62,Trinity (Texas),0,0
+139,4,"Oct 9, 1915",TCU,43,SMU,0,0
+140,4,"Oct 9, 1915",Mississippi State,0,Transylvania,0,0
+141,4,"Oct 9, 1915",Tulane,13,Louisiana,0,0
+142,4,"Oct 9, 1915",Utah,70,Wyoming,7,0
+143,4,"Oct 9, 1915",Utah State,13,Granite High,0,0
+144,4,"Oct 9, 1915",Vanderbilt,75,Georgetown (Kentucky),0,0
+145,4,"Oct 9, 1915",Virginia,74,Richmond,0,0
+146,4,"Oct 9, 1915",Virginia Military Institute,7,Gallaudet,0,0
+147,4,"Oct 9, 1915",Virginia Tech,19,Hampden-Sydney,0,0
+148,4,"Oct 9, 1915",Washington & Jefferson,17,Lafayette,0,0
+149,4,"Oct 9, 1915",Washington & Lee,27,Marshall,0,0
+150,4,"Oct 9, 1915",Washington (MO),13,Missouri,0,0
+151,4,"Oct 9, 1915",West Virginia Wesleyan,65,Bethany (West Virginia),0,0
+152,4,"Oct 9, 1915",Yale,7,Lehigh,6,0
+153,5,"Oct 13, 1915",Marietta,6,Michigan,28,1
+154,5,"Oct 13, 1915",Vanderbilt,60,Cumberland,0,0
+155,5,"Oct 15, 1915",Emporia State,13,Kansas State,0,0
+156,5,"Oct 15, 1915",Haskell,6,Baker,0,0
+157,5,"Oct 15, 1915",LSU,28,Ole Miss,0,1
+158,5,"Oct 15, 1915",Presbyterian,20,Furman,12,1
+159,5,"Oct 15, 1915",Oklahoma State,0,Tulsa,0,0
+160,5,"Oct 16, 1915",Alabama,40,Mississippi College,0,0
+161,5,"Oct 16, 1915",Auburn,14,Clemson,0,1
+162,5,"Oct 16, 1915",Baylor,49,Trinity (Texas),0,0
+163,5,"Oct 16, 1915",Brown,33,Williams,0,0
+164,5,"Oct 16, 1915",Indiana,7,Chicago,13,1
+165,5,"Oct 16, 1915",Colgate,13,Army,0,1
+166,5,"Oct 16, 1915",Nebraska Wesleyan,6,Colorado College,28,1
+167,5,"Oct 16, 1915",Colorado Mines,19,Wyoming,0,0
+168,5,"Oct 16, 1915",Utah,9,Colorado State,21,0
+169,5,"Oct 16, 1915",Cornell,41,Bucknell,0,0
+170,5,"Oct 16, 1915",Dartmouth,60,Vermont,0,0
+171,5,"Oct 16, 1915",Davidson,45,Wofford,0,0
+172,5,"Oct 16, 1915",Montana State,3,Denver,27,1
+173,5,"Oct 16, 1915",Georgetown,38,North Carolina,0,0
+174,5,"Oct 16, 1915",Georgia,39,Citadel,0,1
+175,5,"Oct 16, 1915",Georgia Tech,67,Transylvania,0,0
+176,5,"Oct 16, 1915",Harvard,9,Virginia,0,0
+177,5,"Oct 16, 1915",Ohio State,3,Illinois,3,0
+178,5,"Oct 16, 1915",Iowa,9,Northwestern,6,0
+179,5,"Oct 16, 1915",Drake,7,Kansas,30,1
+180,5,"Oct 16, 1915",Lehigh,27,Albright,0,0
+181,5,"Oct 16, 1915",Case,3,Michigan,14,1
+182,5,"Oct 16, 1915",Minnesota,19,South Dakota,0,0
+183,5,"Oct 16, 1915",Mississippi State,12,Kentucky,0,0
+184,5,"Oct 16, 1915",Nebraska,47,Washburn,0,0
+185,5,"Oct 16, 1915",Newberry,69,Erskine,0,0
+186,5,"Oct 16, 1915",NC State,7,Wake Forest,0,1
+187,5,"Oct 16, 1915",Oklahoma,24,Missouri,0,1
+188,5,"Oct 16, 1915",Penn State,27,Gettysburg,12,0
+189,5,"Oct 16, 1915",Navy,7,Pennsylvania,7,0
+190,5,"Oct 16, 1915",Pitt,45,Carlisle,0,0
+191,5,"Oct 16, 1915",Princeton,40,Lafayette,3,0
+192,5,"Oct 16, 1915",Sewanee,7,Florida,0,1
+193,5,"Oct 16, 1915",Syracuse,82,Rochester,0,0
+194,5,"Oct 16, 1915",Tennessee,80,Centre,0,0
+195,5,"Oct 16, 1915",Texas,59,Rice,0,0
+196,5,"Oct 16, 1915",Texas A&M,13,TCU,10,1
+197,5,"Oct 16, 1915",Tulane,36,Spring Hill,13,0
+198,5,"Oct 16, 1915",Utah State,26,Nevada,0,0
+199,5,"Oct 16, 1915",Vanderbilt,100,Henderson State,0,0
+200,5,"Oct 16, 1915",Richmond,6,Virginia Military Institute,13,1
+201,5,"Oct 16, 1915",Washington (MO),3,Wabash,13,1
+202,5,"Oct 16, 1915",Washington & Jefferson,34,Westminster (Pennsylvania),0,1
+203,5,"Oct 16, 1915",Washington & Lee,13,Virginia Tech,0,0
+204,5,"Oct 16, 1915",West Virginia,33,Geneva,0,0
+205,5,"Oct 16, 1915",West Virginia Wesleyan,10,Catholic,0,0
+206,5,"Oct 16, 1915",Purdue,3,Wisconsin,28,0
+207,5,"Oct 16, 1915",Yale,19,Springfield,0,0
+208,6,"Oct 20, 1915",Lafayette,31,Delaware,0,0
+209,6,"Oct 21, 1915",South Carolina,19,NC State,10,1
+210,6,"Oct 22, 1915",LSU,7,Georgia Tech,36,0
+211,6,"Oct 23, 1915",Alabama,16,Tulane,0,0
+212,6,"Oct 23, 1915",Oklahoma State,9,Arkansas,14,1
+213,6,"Oct 23, 1915",Army,10,Georgetown,0,0
+214,6,"Oct 23, 1915",Auburn,26,Mississippi State,0,0
+215,6,"Oct 23, 1915",Baylor,10,Southwestern (TX),0,1
+216,6,"Oct 23, 1915",Carlisle,0,Bucknell,0,0
+217,6,"Oct 23, 1915",Chicago,7,Purdue,0,0
+218,6,"Oct 23, 1915",Citadel,14,Presbyterian,0,0
+219,6,"Oct 23, 1915",Colgate,107,Rensselaer,0,0
+220,6,"Oct 23, 1915",Colorado College,44,Colorado,0,1
+221,6,"Oct 23, 1915",Colorado State,59,Utah State,0,0
+222,6,"Oct 23, 1915",Cornell,10,Harvard,0,1
+223,6,"Oct 23, 1915",Davidson,13,Roanoke,0,1
+224,6,"Oct 23, 1915",Wyoming,7,Denver,19,0
+225,6,"Oct 23, 1915",Drake,45,Simpson,3,0
+226,6,"Oct 23, 1915",Bingham,6,Furman,20,0
+227,6,"Oct 23, 1915",Creighton,3,Haskell,10,0
+228,6,"Oct 23, 1915",Northwestern,6,Illinois,36,1
+229,6,"Oct 23, 1915",Missouri,6,Iowa State,14,1
+230,6,"Oct 23, 1915",Kansas State,7,Kansas,19,0
+231,6,"Oct 23, 1915",Lafayette,46,Albright,0,0
+232,6,"Oct 23, 1915",Lehigh,20,Muhlenberg,0,0
+233,6,"Oct 23, 1915",Michigan State,24,Michigan,0,1
+234,6,"Oct 23, 1915",Minnesota,51,Iowa,13,0
+235,6,"Oct 23, 1915",Southern Miss,7,Mississippi College,55,1
+236,6,"Oct 23, 1915",Navy,20,Virginia Tech,0,0
+237,6,"Oct 23, 1915",Nebraska,20,Notre Dame,19,0
+238,6,"Oct 23, 1915",Oklahoma,14,Texas,13,0
+239,6,"Oct 23, 1915",Penn State,28,West Virginia Wesleyan,0,0
+240,6,"Oct 23, 1915",Pennsylvania,7,Pitt,14,0
+241,6,"Oct 23, 1915",Dartmouth,7,Princeton,30,1
+242,6,"Oct 23, 1915",Rice,28,Daniel Baker,0,0
+243,6,"Oct 23, 1915",Kentucky,7,Sewanee,7,0
+244,6,"Oct 23, 1915",Syracuse,6,Brown,0,1
+245,6,"Oct 23, 1915",Tennessee,101,Cumberland,0,0
+246,6,"Oct 23, 1915",Texas A&M,33,Missouri-Rolla,3,0
+247,6,"Oct 23, 1915",TCU,28,Austin,0,1
+248,6,"Oct 23, 1915",Utah,7,Colorado Mines,0,0
+249,6,"Oct 23, 1915",Vanderbilt,91,Ole Miss,0,0
+250,6,"Oct 23, 1915",Virginia,9,Georgia,7,1
+251,6,"Oct 23, 1915",North Carolina,3,Virginia Military Institute,3,0
+252,6,"Oct 23, 1915",Yale,7,Washington & Jefferson,16,0
+253,6,"Oct 23, 1915",Washington (MO),38,Drury,0,0
+254,6,"Oct 23, 1915",Wisconsin,21,Ohio State,0,0
+255,6,"Oct 23, 1915",Erskine,3,Wofford,13,1
+256,7,"Oct 27, 1915",Muhlenberg,3,Bucknell,0,1
+257,7,"Oct 27, 1915",Utah State,7,Wyoming,13,1
+258,7,"Oct 28, 1915",South Carolina,0,Clemson,0,0
+259,7,"Oct 29, 1915",Missouri,0,Kansas State,0,0
+260,7,"Oct 30, 1915",Alabama,23,Sewanee,10,0
+261,7,"Oct 30, 1915",Saint Louis,0,Arkansas,0,0
+262,7,"Oct 30, 1915",Auburn,12,Georgia,0,1
+263,7,"Oct 30, 1915",Brown,46,Vermont,0,0
+264,7,"Oct 30, 1915",New York University,3,Bucknell,3,0
+265,7,"Oct 30, 1915",Chicago,14,Wisconsin,13,0
+266,7,"Oct 30, 1915",Colgate,15,Yale,0,1
+267,7,"Oct 30, 1915",Colorado College,21,Denver,0,1
+268,7,"Oct 30, 1915",Colorado State,35,Colorado Mines,0,0
+269,7,"Oct 30, 1915",Cornell,45,Virginia Tech,0,0
+270,7,"Oct 30, 1915",Dartmouth,26,Amherst,0,1
+271,7,"Oct 30, 1915",Drake,26,Washington (MO),16,0
+272,7,"Oct 30, 1915",Florida,45,Florida Southern,0,0
+273,7,"Oct 30, 1915",Fordham,7,Georgetown,33,1
+274,7,"Oct 30, 1915",North Carolina,3,Georgia Tech,23,1
+275,7,"Oct 30, 1915",Harvard,13,Penn State,0,0
+276,7,"Oct 30, 1915",Cincinnati,6,Kentucky,27,1
+277,7,"Oct 30, 1915",Lafayette,17,Pennsylvania,0,1
+278,7,"Oct 30, 1915",Lehigh,29,Gettysburg,0,0
+279,7,"Oct 30, 1915",LSU,10,Mississippi State,0,0
+280,7,"Oct 30, 1915",Hendrix,7,Ole Miss,32,1
+281,7,"Oct 30, 1915",Tulane,6,Mississippi College,20,0
+282,7,"Oct 30, 1915",Nebraska,21,Iowa State,0,1
+283,7,"Oct 30, 1915",NC State,14,Navy,12,1
+284,7,"Oct 30, 1915",Notre Dame,6,South Dakota,0,0
+285,7,"Oct 30, 1915",Oklahoma,23,Kansas,14,0
+286,7,"Oct 30, 1915",Baker,7,Oklahoma State,30,1
+287,7,"Oct 30, 1915",Allegheny,7,Pitt,42,1
+288,7,"Oct 30, 1915",Princeton,27,Williams,0,0
+289,7,"Oct 30, 1915",Rice,33,TCU,3,0
+290,7,"Oct 30, 1915",Michigan,7,Syracuse,14,0
+291,7,"Oct 30, 1915",Texas,45,Southwestern (TX),0,0
+292,7,"Oct 30, 1915",Haskell,7,Texas A&M,21,1
+293,7,"Oct 30, 1915",Utah,35,Colorado,3,0
+294,7,"Oct 30, 1915",Vanderbilt,35,Tennessee,0,0
+295,7,"Oct 30, 1915",Villanova,16,Army,13,1
+296,7,"Oct 30, 1915",Virginia,44,Virginia Military Institute,0,0
+297,7,"Oct 30, 1915",Wake Forest,40,Richmond Blues,0,0
+298,7,"Oct 30, 1915",Muskingum,7,Washington & Jefferson,47,1
+299,7,"Oct 30, 1915",Indiana,7,Washington & Lee,7,0
+300,7,"Oct 30, 1915",West Virginia Wesleyan,14,Carlisle,0,1
+301,7,"Oct 30, 1915",Newberry,7,Wofford,10,1
+302,8,"Nov 3, 1915",Presbyterian,7,Furman,38,1
+303,8,"Nov 4, 1915",Wofford,6,South Carolina,33,0
+304,8,"Nov 5, 1915",Arkansas,7,LSU,13,1
+305,8,"Nov 5, 1915",Penn State,7,Lehigh,0,0
+306,8,"Nov 6, 1915",Auburn,45,Mercer,0,0
+307,8,"Nov 6, 1915",Brown,3,Yale,0,1
+308,8,"Nov 6, 1915",Carlisle,23,Holy Cross,21,1
+309,8,"Nov 6, 1915",Chicago,35,Haskell,0,0
+310,8,"Nov 6, 1915",Citadel,48,Newberry,3,0
+311,8,"Nov 6, 1915",Utah,7,Colorado College,27,1
+312,8,"Nov 6, 1915",Colorado Mines,18,Denver,0,0
+313,8,"Nov 6, 1915",Colorado State,48,Wyoming,0,1
+314,8,"Nov 6, 1915",Michigan,7,Cornell,34,0
+315,8,"Nov 6, 1915",Dartmouth,7,Pennsylvania,3,0
+316,8,"Nov 6, 1915",Davidson,58,Furman,13,0
+317,8,"Nov 6, 1915",Georgetown,28,NC State,0,1
+318,8,"Nov 6, 1915",Georgia,37,Florida,0,0
+319,8,"Nov 6, 1915",Alabama,7,Georgia Tech,21,1
+320,8,"Nov 6, 1915",Grinnell,58,Drake,0,1
+321,8,"Nov 6, 1915",Princeton,6,Harvard,10,0
+322,8,"Nov 6, 1915",Iowa State,7,Morningside,0,0
+323,8,"Nov 6, 1915",Kansas,41,Washburn,0,0
+324,8,"Nov 6, 1915",Kansas State,14,Friends,0,0
+325,8,"Nov 6, 1915",Kentucky,15,Louisville,0,1
+326,8,"Nov 6, 1915",Lafayette,17,Swarthmore,0,0
+327,8,"Nov 6, 1915",Illinois,6,Minnesota,6,0
+328,8,"Nov 6, 1915",Mississippi State,65,Ole Miss,0,0
+329,8,"Nov 6, 1915",Bucknell,3,Navy,13,1
+330,8,"Nov 6, 1915",Nebraska,30,Nebraska Wesleyan,0,0
+331,8,"Nov 6, 1915",North Carolina,9,Clemson,7,1
+332,8,"Nov 6, 1915",Missouri,6,Northwestern,24,1
+333,8,"Nov 6, 1915",Notre Dame,7,Army,0,1
+334,8,"Nov 6, 1915",Indiana,9,Ohio State,10,1
+335,8,"Nov 6, 1915",Oklahoma,14,Tulsa,13,1
+336,8,"Nov 6, 1915",Oklahoma State,77,Northwestern Oklahoma State,0,1
+337,8,"Nov 6, 1915",Pitt,19,Washington & Jefferson,0,0
+338,8,"Nov 6, 1915",Presbyterian,60,Erskine,0,0
+339,8,"Nov 6, 1915",Purdue,19,Iowa,13,0
+340,8,"Nov 6, 1915",South Carolina,68,Cumberland,0,0
+341,8,"Nov 6, 1915",Southwestern (TX),15,Daniel Baker,0,0
+342,8,"Nov 6, 1915",Syracuse,73,Mount Union,0,0
+343,8,"Nov 6, 1915",Sewanee,6,Texas,27,1
+344,8,"Nov 6, 1915",TCU,25,Trinity (Texas),0,1
+345,8,"Nov 6, 1915",Montana Tech,6,Utah State,10,1
+346,8,"Nov 6, 1915",Virginia,35,Vanderbilt,10,0
+347,8,"Nov 6, 1915",Wake Forest,6,Virginia Military Institute,21,1
+348,8,"Nov 6, 1915",Washington & Lee,21,Roanoke,0,0
+349,8,"Nov 6, 1915",Saint Louis,7,Washington (MO),13,1
+350,8,"Nov 6, 1915",West Virginia,92,Marshall,6,1
+351,8,"Nov 6, 1915",Marietta,14,West Virginia Wesleyan,14,0
+352,8,"Nov 8, 1915",Rice,7,Texas A&M,0,0
+353,8,"Nov 8, 1915",Baylor,3,Sewanee,16,0
+354,9,"Nov 9, 1915",Gallaudet,7,NC State,27,1
+355,9,"Nov 11, 1915",Gallaudet,6,Wake Forest,28,1
+356,9,"Nov 12, 1915",Emporia State,7,Haskell,21,0
+357,9,"Nov 12, 1915",Kansas State,6,Washburn,0,1
+358,9,"Nov 13, 1915",Army,24,Maine,0,0
+359,9,"Nov 13, 1915",Oklahoma State,6,Baylor,12,1
+360,9,"Nov 13, 1915",Gettysburg,7,Bucknell,16,1
+361,9,"Nov 13, 1915",Carlisle,21,Dickinson,14,0
+362,9,"Nov 13, 1915",Colorado,6,Colorado Mines,13,1
+363,9,"Nov 13, 1915",Colorado State,24,Colorado College,13,1
+364,9,"Nov 13, 1915",Cornell,40,Washington & Lee,21,0
+365,9,"Nov 13, 1915",Dartmouth,29,Bates,0,0
+366,9,"Nov 13, 1915",Florida,6,Citadel,0,0
+367,9,"Nov 13, 1915",Furman,7,Newberry,0,0
+368,9,"Nov 13, 1915",Georgia Tech,0,Georgia,0,0
+369,9,"Nov 13, 1915",Brown,7,Harvard,16,1
+370,9,"Nov 13, 1915",Wisconsin,3,Illinois,17,1
+371,9,"Nov 13, 1915",Northwestern,6,Indiana,14,0
+372,9,"Nov 13, 1915",Iowa State,16,Iowa,0,1
+373,9,"Nov 13, 1915",Kentucky,7,Purdue,0,0
+374,9,"Nov 13, 1915",Lebanon Valley,9,Lehigh,60,1
+375,9,"Nov 13, 1915",Pennsylvania,0,Michigan,0,0
+376,9,"Nov 13, 1915",Chicago,7,Minnesota,20,1
+377,9,"Nov 13, 1915",Mississippi College,74,Ole Miss,6,0
+378,9,"Nov 13, 1915",Mississippi State,14,Tennessee,0,0
+379,9,"Nov 13, 1915",Missouri,41,Drake,13,0
+380,9,"Nov 13, 1915",Montana State,7,Utah State,0,1
+381,9,"Nov 13, 1915",Navy,28,Colby,14,0
+382,9,"Nov 13, 1915",Nebraska,33,Kansas,0,1
+383,9,"Nov 13, 1915",Davidson,6,North Carolina,41,1
+384,9,"Nov 13, 1915",Notre Dame,41,Creighton,0,1
+385,9,"Nov 13, 1915",Ohio State,25,Oberlin,0,0
+386,9,"Nov 13, 1915",Penn State,33,Lafayette,3,1
+387,9,"Nov 13, 1915",Pitt,28,Carnegie Mellon,0,0
+388,9,"Nov 13, 1915",Clemson Freshmen,7,Presbyterian,13,1
+389,9,"Nov 13, 1915",Chattanooga,0,Sewanee,0,0
+390,9,"Nov 13, 1915",Syracuse,38,Colgate,0,0
+391,9,"Nov 13, 1915",Texas,20,Alabama,0,0
+392,9,"Nov 13, 1915",TCU,21,Southwestern (TX),0,0
+393,9,"Nov 13, 1915",Tulane,32,Samford,3,0
+394,9,"Nov 13, 1915",Vanderbilt,17,Auburn,0,1
+395,9,"Nov 13, 1915",Virginia,13,South Carolina,0,1
+396,9,"Nov 13, 1915",Virginia Military Institute,6,Clemson,3,0
+397,9,"Nov 13, 1915",Washington & Jefferson,7,West Virginia Wesleyan,3,0
+398,9,"Nov 13, 1915",West Virginia,19,Virginia Tech,0,0
+399,9,"Nov 13, 1915",Wofford,2,Cumberland,0,1
+400,9,"Nov 13, 1915",Princeton,7,Yale,13,1
+401,9,"Nov 14, 1915",Oklahoma,24,Arkansas,0,1
+402,10,"Nov 16, 1915",Oklahoma State,13,TCU,0,1
+403,10,"Nov 17, 1915",Rice,6,LSU,0,0
+404,10,"Nov 18, 1915",Tulane,7,Florida,14,1
+405,10,"Nov 18, 1915",Southwestern (TX),21,SMU,0,1
+406,10,"Nov 19, 1915",Nebraska Wesleyan,20,Wyoming,0,0
+407,10,"Nov 19, 1915",Kansas State,7,Oklahoma,21,0
+408,10,"Nov 19, 1915",Texas A&M,13,Texas,0,0
+409,10,"Nov 19, 1915",West Virginia,28,Marietta,0,0
+410,10,"Nov 20, 1915",Arkansas,46,Missouri-Rolla,0,0
+411,10,"Nov 20, 1915",Springfield,7,Army,17,1
+412,10,"Nov 20, 1915",Baylor,34,Daniel Baker,0,0
+413,10,"Nov 20, 1915",Syracuse,0,Dartmouth,0,0
+414,10,"Nov 20, 1915",Denver,7,Colorado,0,0
+415,10,"Nov 20, 1915",Fordham,14,Carlisle,10,0
+416,10,"Nov 20, 1915",Georgetown,61,South Carolina,0,0
+417,10,"Nov 20, 1915",Harvard,41,Yale,0,0
+418,10,"Nov 20, 1915",Oklahoma State,7,Haskell,21,1
+419,10,"Nov 20, 1915",Illinois,10,Chicago,0,1
+420,10,"Nov 20, 1915",Lehigh,6,Lafayette,35,0
+421,10,"Nov 20, 1915",Lebanon Valley,3,Bucknell,0,1
+422,10,"Nov 20, 1915",Wisconsin,3,Minnesota,20,0
+423,10,"Nov 20, 1915",Louisiana Tech,0,Mississippi College,0,0
+424,10,"Nov 20, 1915",Iowa,7,Nebraska,52,1
+425,10,"Nov 20, 1915",Newberry,20,Presbyterian,13,0
+426,10,"Nov 20, 1915",Ohio State,34,Northwestern,0,1
+427,10,"Nov 20, 1915",Purdue,7,Indiana,0,1
+428,10,"Nov 20, 1915",Navy,7,Ursinus,10,0
+429,10,"Nov 20, 1915",Utah,20,USC,13,0
+430,10,"Nov 20, 1915",Sewanee,3,Vanderbilt,27,1
+431,10,"Nov 20, 1915",Washington & Jefferson,59,Bethany (West Virginia),0,0
+432,11,"Nov 25, 1915",Alabama,53,Ole Miss,0,0
+433,11,"Nov 25, 1915",Baylor,51,TCU,0,0
+434,11,"Nov 25, 1915",Citadel,3,South Carolina,0,1
+435,11,"Nov 25, 1915",Colorado State,34,Denver,3,0
+436,11,"Nov 25, 1915",Pennsylvania,9,Cornell,24,0
+437,11,"Nov 25, 1915",Wake Forest,7,Davidson,21,1
+438,11,"Nov 25, 1915",Mercer,7,Florida,34,0
+439,11,"Nov 25, 1915",Furman,25,Wofford,0,0
+440,11,"Nov 25, 1915",Georgetown,90,Saint Louis,0,0
+441,11,"Nov 25, 1915",Georgia,13,Clemson,0,0
+442,11,"Nov 25, 1915",Georgia Tech,7,Auburn,0,0
+443,11,"Nov 25, 1915",Iowa State,28,Drake,14,1
+444,11,"Nov 25, 1915",Kansas,8,Missouri,6,1
+445,11,"Nov 25, 1915",Kentucky,6,Tennessee,0,0
+446,11,"Nov 25, 1915",Dickinson,7,Lafayette,27,1
+447,11,"Nov 25, 1915",LSU,12,Tulane,0,0
+448,11,"Nov 25, 1915",Mississippi State,7,Texas A&M,0,1
+449,11,"Nov 25, 1915",Texas,7,Notre Dame,36,0
+450,11,"Nov 25, 1915",Oklahoma State,7,Oklahoma,26,1
+451,11,"Nov 25, 1915",Ouachita,6,Mississippi College,0,1
+452,11,"Nov 25, 1915",Pitt,20,Penn State,0,0
+453,11,"Nov 25, 1915",Southwestern (TX),7,Austin,6,0
+454,11,"Nov 25, 1915",Montana,6,Syracuse,6,0
+455,11,"Nov 25, 1915",Tulsa,7,Haskell,3,0
+456,11,"Nov 25, 1915",Utah,14,Utah State,0,0
+457,11,"Nov 25, 1915",Virginia,14,North Carolina,0,0
+458,11,"Nov 25, 1915",Virginia Military Institute,9,Virginia Tech,27,1
+459,11,"Nov 25, 1915",Washington,46,Colorado,0,0
+460,11,"Nov 25, 1915",Lehigh,3,Washington & Jefferson,27,1
+461,11,"Nov 25, 1915",Washington & Lee,48,NC State,13,0
+462,11,"Nov 25, 1915",West Virginia,30,West Virginia Wesleyan,0,0
+463,11,"Nov 26, 1915",Colorado Mines,6,Colorado College,3,0
+464,11,"Nov 27, 1915",Army,14,Navy,0,0
+465,11,"Nov 27, 1915",Brown,39,Carlisle,3,0
+466,11,"Nov 27, 1915",Notre Dame,55,Rice,2,1
+467,12,"Dec 1, 1915",Syracuse,28,Oregon State,0,1
+468,12,"Dec 6, 1915",Syracuse,35,Occidental,0,1
+469,13,"Jan 1, 1916",Washington State,14,Brown,0,0

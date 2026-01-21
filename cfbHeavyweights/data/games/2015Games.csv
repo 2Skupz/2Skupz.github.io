@@ -1,0 +1,870 @@
+0,1,"Sep 3, 2015",Arizona,42,UTSA,32,0
+1,1,"Sep 3, 2015",Ball State,48,Virginia Military Institute,36,0
+2,1,"Sep 3, 2015",Connecticut,20,Villanova,15,0
+3,1,"Sep 3, 2015",Tulane,7,Duke,37,0
+4,1,"Sep 3, 2015",Florida Int'l,15,UCF,14,1
+5,1,"Sep 3, 2015",Fresno State,34,Abilene Christian,13,0
+6,1,"Sep 3, 2015",Georgia Tech,69,Alcorn State,6,0
+7,1,"Sep 3, 2015",Hawaii,28,Colorado,20,0
+8,1,"Sep 3, 2015",Nevada,31,California-Davis,17,0
+9,1,"Sep 3, 2015",Ohio,45,Idaho,28,1
+10,1,"Sep 3, 2015",Oklahoma State,24,Central Michigan,13,1
+11,1,"Sep 3, 2015",San Jose State,43,New Hampshire,13,0
+12,1,"Sep 3, 2015",South Carolina,17,North Carolina,13,0
+13,1,"Sep 3, 2015",TCU,23,Minnesota,17,1
+14,1,"Sep 3, 2015",Utah,24,Michigan,17,0
+15,1,"Sep 3, 2015",Southern Utah,9,Utah State,12,1
+16,1,"Sep 3, 2015",Wake Forest,41,Elon,3,0
+17,1,"Sep 3, 2015",Western Kentucky,14,Vanderbilt,12,1
+18,1,"Sep 4, 2015",Baylor,56,SMU,21,1
+19,1,"Sep 4, 2015",Boise State,16,Washington,13,0
+20,1,"Sep 4, 2015",Charlotte,23,Georgia State,20,1
+21,1,"Sep 4, 2015",Fordham,37,Army,35,1
+22,1,"Sep 4, 2015",Michigan State,37,Western Michigan,24,1
+23,1,"Sep 4, 2015",Weber State,7,Oregon State,26,1
+24,1,"Sep 4, 2015",Syracuse,47,Rhode Island,0,0
+25,1,"Sep 5, 2015",Morgan State,7,Air Force,63,1
+26,1,"Sep 5, 2015",Alabama,35,Wisconsin,17,0
+27,1,"Sep 5, 2015",Appalachian State,49,Howard,0,0
+28,1,"Sep 5, 2015",Arkansas,48,UTEP,13,0
+29,1,"Sep 5, 2015",Auburn,31,Louisville,24,0
+30,1,"Sep 5, 2015",Maine,3,Boston College,24,1
+31,1,"Sep 5, 2015",BYU,33,Nebraska,28,1
+32,1,"Sep 5, 2015",Buffalo,51,Albany,14,0
+33,1,"Sep 5, 2015",California,73,Grambling State,14,0
+34,1,"Sep 5, 2015",Cincinnati,52,Alabama A&M,10,0
+35,1,"Sep 5, 2015",Clemson,49,Wofford,10,0
+36,1,"Sep 5, 2015",Colorado State,65,Savannah State,13,0
+37,1,"Sep 5, 2015",East Carolina,28,Towson,20,0
+38,1,"Sep 5, 2015",Florida,61,New Mexico State,13,0
+39,1,"Sep 5, 2015",Florida State,59,Texas State,16,0
+40,1,"Sep 5, 2015",Georgia,51,Louisiana-Monroe,14,0
+41,1,"Sep 5, 2015",Houston,52,Tennessee Tech,24,0
+42,1,"Sep 5, 2015",Illinois,52,Kent State,3,0
+43,1,"Sep 5, 2015",Indiana,48,Southern Illinois,47,0
+44,1,"Sep 5, 2015",Iowa,31,Illinois State,14,0
+45,1,"Sep 5, 2015",Northern Iowa,7,Iowa State,31,1
+46,1,"Sep 5, 2015",Kansas State,34,South Dakota,0,0
+47,1,"Sep 5, 2015",Kentucky,40,Louisiana,33,0
+48,1,"Sep 5, 2015",Louisiana Tech,62,Southern,15,0
+49,1,"Sep 5, 2015",Maryland,50,Richmond,21,0
+50,1,"Sep 5, 2015",Missouri State,7,Memphis,63,1
+51,1,"Sep 5, 2015",Miami,45,Bethune-Cookman,0,0
+52,1,"Sep 5, 2015",Presbyterian,7,Miami (OH),26,1
+53,1,"Sep 5, 2015",Middle Tennessee,70,Jackson State,14,0
+54,1,"Sep 5, 2015",Ole Miss,76,Tennessee-Martin,3,0
+55,1,"Sep 5, 2015",Mississippi State,34,Southern Miss,16,1
+56,1,"Sep 5, 2015",Missouri,34,Southeast Missouri State,3,0
+57,1,"Sep 5, 2015",Navy,48,Colgate,10,0
+58,1,"Sep 5, 2015",New Mexico,66,Mississippi Valley State,0,0
+59,1,"Sep 5, 2015",NC State,49,Troy,21,0
+60,1,"Sep 5, 2015",North Dakota,24,Wyoming,13,1
+61,1,"Sep 5, 2015",Northern Illinois,38,UNLV,30,0
+62,1,"Sep 5, 2015",Stanford,6,Northwestern,16,1
+63,1,"Sep 5, 2015",Notre Dame,38,Texas,3,0
+64,1,"Sep 5, 2015",Oklahoma,41,Akron,3,0
+65,1,"Sep 5, 2015",Old Dominion,38,Eastern Michigan,34,1
+66,1,"Sep 5, 2015",Oregon,61,Eastern Washington,42,0
+67,1,"Sep 5, 2015",Pitt,45,Youngstown State,37,0
+68,1,"Sep 5, 2015",Portland State,24,Washington State,17,1
+69,1,"Sep 5, 2015",Rice,56,Wagner,16,0
+70,1,"Sep 5, 2015",Rutgers,63,Norfolk State,13,0
+71,1,"Sep 5, 2015",San Diego State,37,San Diego,3,0
+72,1,"Sep 5, 2015",South Alabama,33,Gardner-Webb,23,0
+73,1,"Sep 5, 2015",South Dakota State,41,Kansas,38,1
+74,1,"Sep 5, 2015",South Florida,51,Florida A&M,3,0
+75,1,"Sep 5, 2015",Arkansas State,6,USC,55,1
+76,1,"Sep 5, 2015",Temple,27,Penn State,10,0
+77,1,"Sep 5, 2015",Tennessee,59,Bowling Green,30,0
+78,1,"Sep 5, 2015",Texas A&M,38,Arizona State,17,0
+79,1,"Sep 5, 2015",Texas Tech,59,Sam Houston,45,0
+80,1,"Sep 5, 2015",Tulsa,47,Florida Atlantic,44,0
+81,1,"Sep 5, 2015",UCLA,34,Virginia,16,0
+82,1,"Sep 5, 2015",West Virginia,44,Georgia Southern,0,0
+83,1,"Sep 6, 2015",Marshall,41,Purdue,31,0
+84,1,"Sep 7, 2015",Ohio State,42,Virginia Tech,24,1
+85,2,"Sep 10, 2015",Western Kentucky,41,Louisiana Tech,38,0
+86,2,"Sep 11, 2015",Miami,44,Florida Atlantic,20,1
+87,2,"Sep 11, 2015",Utah,24,Utah State,14,0
+88,2,"Sep 12, 2015",Air Force,37,San Jose State,16,0
+89,2,"Sep 12, 2015",Alabama,37,Middle Tennessee,10,0
+90,2,"Sep 12, 2015",Arizona,44,Nevada,20,1
+91,2,"Sep 12, 2015",Arizona State,35,Cal Poly,21,0
+92,2,"Sep 12, 2015",Auburn,27,Jacksonville State,20,0
+93,2,"Sep 12, 2015",Baylor,66,Lamar,31,0
+94,2,"Sep 12, 2015",Boston College,76,Howard,0,0
+95,2,"Sep 12, 2015",Bowling Green,48,Maryland,27,1
+96,2,"Sep 12, 2015",BYU,35,Boise State,24,0
+97,2,"Sep 12, 2015",San Diego State,7,California,35,1
+98,2,"Sep 12, 2015",Central Michigan,31,Monmouth,10,0
+99,2,"Sep 12, 2015",Charlotte,34,Presbyterian,10,0
+100,2,"Sep 12, 2015",Clemson,41,Appalachian State,10,0
+101,2,"Sep 12, 2015",Colorado,48,Massachusetts,14,0
+102,2,"Sep 12, 2015",Connecticut,22,Army,17,0
+103,2,"Sep 12, 2015",Duke,55,North Carolina Central,0,0
+104,2,"Sep 12, 2015",Eastern Michigan,48,Wyoming,29,1
+105,2,"Sep 12, 2015",Florida,31,East Carolina,24,0
+106,2,"Sep 12, 2015",Florida State,34,South Florida,14,0
+107,2,"Sep 12, 2015",Georgia,31,Vanderbilt,14,1
+108,2,"Sep 12, 2015",Georgia Southern,43,Western Michigan,17,0
+109,2,"Sep 12, 2015",Georgia State,34,New Mexico State,32,1
+110,2,"Sep 12, 2015",Georgia Tech,65,Tulane,10,0
+111,2,"Sep 12, 2015",Houston,34,Louisville,31,1
+112,2,"Sep 12, 2015",Illinois,44,Western Illinois,0,0
+113,2,"Sep 12, 2015",Indiana,36,Florida Int'l,22,0
+114,2,"Sep 12, 2015",Iowa,31,Iowa State,17,1
+115,2,"Sep 12, 2015",Kansas State,30,UTSA,3,1
+116,2,"Sep 12, 2015",Kent State,45,Delaware State,13,0
+117,2,"Sep 12, 2015",Kentucky,26,South Carolina,22,1
+118,2,"Sep 12, 2015",Louisiana,44,Northwestern State,17,0
+119,2,"Sep 12, 2015",LSU,21,Mississippi State,19,1
+120,2,"Sep 12, 2015",Louisiana-Monroe,47,Nicholls State,0,0
+121,2,"Sep 12, 2015",Memphis,55,Kansas,23,1
+122,2,"Sep 12, 2015",Oregon State,7,Michigan,35,1
+123,2,"Sep 12, 2015",Michigan State,31,Oregon,28,0
+124,2,"Sep 12, 2015",Minnesota,23,Colorado State,20,1
+125,2,"Sep 12, 2015",Ole Miss,73,Fresno State,21,0
+126,2,"Sep 12, 2015",Missouri,27,Arkansas State,20,1
+127,2,"Sep 12, 2015",South Alabama,9,Nebraska,48,1
+128,2,"Sep 12, 2015",North Carolina,53,North Carolina A&T,14,0
+129,2,"Sep 12, 2015",NC State,35,Eastern Kentucky,0,0
+130,2,"Sep 12, 2015",Northern Illinois,57,Murray State,26,0
+131,2,"Sep 12, 2015",Northwestern,41,Eastern Illinois,0,0
+132,2,"Sep 12, 2015",Notre Dame,34,Virginia,27,1
+133,2,"Sep 12, 2015",Ohio,21,Marshall,10,0
+134,2,"Sep 12, 2015",Ohio State,38,Hawaii,0,0
+135,2,"Sep 12, 2015",Oklahoma,31,Tennessee,24,1
+136,2,"Sep 12, 2015",Central Arkansas,8,Oklahoma State,32,1
+137,2,"Sep 12, 2015",Old Dominion,24,Norfolk State,10,0
+138,2,"Sep 12, 2015",Penn State,27,Buffalo,14,0
+139,2,"Sep 12, 2015",Akron,7,Pitt,24,0
+140,2,"Sep 12, 2015",Purdue,38,Indiana State,14,0
+141,2,"Sep 12, 2015",Idaho,9,USC,59,1
+142,2,"Sep 12, 2015",SMU,31,North Texas,13,0
+143,2,"Sep 12, 2015",Austin Peay,6,Southern Miss,52,1
+144,2,"Sep 12, 2015",UCF,7,Stanford,31,1
+145,2,"Sep 12, 2015",Syracuse,30,Wake Forest,17,0
+146,2,"Sep 12, 2015",Temple,34,Cincinnati,26,1
+147,2,"Sep 12, 2015",Texas,42,Rice,28,0
+148,2,"Sep 12, 2015",Texas A&M,56,Ball State,23,0
+149,2,"Sep 12, 2015",TCU,70,Stephen F. Austin,7,0
+150,2,"Sep 12, 2015",Texas State,63,Prairie View A&M,24,0
+151,2,"Sep 12, 2015",Texas Tech,69,UTEP,20,0
+152,2,"Sep 12, 2015",Toledo,16,Arkansas,12,0
+153,2,"Sep 12, 2015",Troy,44,Charleston Southern,16,0
+154,2,"Sep 12, 2015",Tulsa,40,New Mexico,21,1
+155,2,"Sep 12, 2015",UCLA,37,UNLV,3,1
+156,2,"Sep 12, 2015",Virginia Tech,42,Furman,3,0
+157,2,"Sep 12, 2015",Washington,49,Sacramento State,0,0
+158,2,"Sep 12, 2015",Washington State,37,Rutgers,34,1
+159,2,"Sep 12, 2015",West Virginia,41,Liberty,17,0
+160,2,"Sep 12, 2015",Wisconsin,58,Miami (OH),0,0
+161,3,"Sep 17, 2015",Clemson,20,Louisville,17,1
+162,3,"Sep 18, 2015",Arizona State,34,New Mexico,10,0
+163,3,"Sep 18, 2015",Boise State,52,Idaho State,0,0
+164,3,"Sep 18, 2015",Florida State,14,Boston College,0,1
+165,3,"Sep 19, 2015",Savannah State,9,Akron,52,1
+166,3,"Sep 19, 2015",Arizona,77,Northern Arizona,13,0
+167,3,"Sep 19, 2015",Arkansas State,70,Missouri State,7,0
+168,3,"Sep 19, 2015",Ball State,28,Eastern Michigan,17,1
+169,3,"Sep 19, 2015",Buffalo,33,Florida Atlantic,15,1
+170,3,"Sep 19, 2015",California,45,Texas,44,1
+171,3,"Sep 19, 2015",Cincinnati,37,Miami (OH),33,1
+172,3,"Sep 19, 2015",Colorado,27,Colorado State,24,0
+173,3,"Sep 19, 2015",Kentucky,9,Florida,14,0
+174,3,"Sep 19, 2015",Florida Int'l,39,North Carolina Central,14,0
+175,3,"Sep 19, 2015",Furman,16,UCF,15,1
+176,3,"Sep 19, 2015",Georgia,52,South Carolina,20,0
+177,3,"Sep 19, 2015",Georgia Southern,48,Citadel,13,0
+178,3,"Sep 19, 2015",Hawaii,47,California-Davis,27,0
+179,3,"Sep 19, 2015",Idaho,41,Wofford,38,0
+180,3,"Sep 19, 2015",Indiana,38,Western Kentucky,35,0
+181,3,"Sep 19, 2015",Iowa,27,Pitt,24,0
+182,3,"Sep 19, 2015",Kansas State,39,Louisiana Tech,33,0
+183,3,"Sep 19, 2015",LSU,45,Auburn,21,0
+184,3,"Sep 19, 2015",Norfolk State,7,Marshall,45,1
+185,3,"Sep 19, 2015",Maryland,35,South Florida,17,0
+186,3,"Sep 19, 2015",Memphis,44,Bowling Green,41,1
+187,3,"Sep 19, 2015",Miami,36,Nebraska,33,0
+188,3,"Sep 19, 2015",UNLV,7,Michigan,28,1
+189,3,"Sep 19, 2015",Michigan State,35,Air Force,21,0
+190,3,"Sep 19, 2015",Middle Tennessee,73,Charlotte,14,0
+191,3,"Sep 19, 2015",Kent State,7,Minnesota,10,1
+192,3,"Sep 19, 2015",Ole Miss,43,Alabama,37,1
+193,3,"Sep 19, 2015",Mississippi State,62,Northwestern State,13,0
+194,3,"Sep 19, 2015",Missouri,9,Connecticut,6,0
+195,3,"Sep 19, 2015",Navy,45,East Carolina,21,0
+196,3,"Sep 19, 2015",North Carolina,48,Illinois,14,0
+197,3,"Sep 19, 2015",NC State,38,Old Dominion,14,1
+198,3,"Sep 19, 2015",Northwestern,19,Duke,10,1
+199,3,"Sep 19, 2015",Notre Dame,30,Georgia Tech,22,0
+200,3,"Sep 19, 2015",Ohio,35,Southeastern Louisiana,14,0
+201,3,"Sep 19, 2015",Ohio State,20,Northern Illinois,13,0
+202,3,"Sep 19, 2015",Oklahoma,52,Tulsa,38,0
+203,3,"Sep 19, 2015",Oklahoma State,69,UTSA,14,0
+204,3,"Sep 19, 2015",Oregon,61,Georgia State,28,0
+205,3,"Sep 19, 2015",Oregon State,35,San Jose State,21,0
+206,3,"Sep 19, 2015",Rutgers,3,Penn State,28,1
+207,3,"Sep 19, 2015",Rice,38,North Texas,24,1
+208,3,"Sep 19, 2015",South Alabama,34,San Diego State,27,1
+209,3,"Sep 19, 2015",Southern Miss,56,Texas State,50,1
+210,3,"Sep 19, 2015",Stanford,41,USC,31,1
+211,3,"Sep 19, 2015",Syracuse,30,Central Michigan,27,0
+212,3,"Sep 19, 2015",Temple,25,Massachusetts,23,1
+213,3,"Sep 19, 2015",Tennessee,55,Western Carolina,10,0
+214,3,"Sep 19, 2015",Texas A&M,44,Nevada,27,0
+215,3,"Sep 19, 2015",TCU,56,SMU,37,0
+216,3,"Sep 19, 2015",Texas Tech,35,Arkansas,24,1
+217,3,"Sep 19, 2015",UTEP,50,New Mexico State,47,1
+218,3,"Sep 19, 2015",Toledo,30,Iowa State,23,0
+219,3,"Sep 19, 2015",Maine,7,Tulane,38,1
+220,3,"Sep 19, 2015",UCLA,24,BYU,23,0
+221,3,"Sep 19, 2015",Utah,45,Fresno State,24,1
+222,3,"Sep 19, 2015",Austin Peay,7,Vanderbilt,47,1
+223,3,"Sep 19, 2015",Virginia,35,William & Mary,29,0
+224,3,"Sep 19, 2015",Virginia Tech,51,Purdue,24,1
+225,3,"Sep 19, 2015",Wake Forest,17,Army,14,1
+226,3,"Sep 19, 2015",Washington,31,Utah State,17,0
+227,3,"Sep 19, 2015",Washington State,31,Wyoming,14,0
+228,3,"Sep 19, 2015",Western Michigan,52,Murray State,20,0
+229,3,"Sep 19, 2015",Troy,3,Wisconsin,28,1
+230,4,"Sep 24, 2015",Memphis,53,Cincinnati,46,0
+231,4,"Sep 25, 2015",Boise State,56,Virginia,14,1
+232,4,"Sep 25, 2015",Stanford,42,Oregon State,24,1
+233,4,"Sep 26, 2015",Akron,35,Louisiana,14,1
+234,4,"Sep 26, 2015",Alabama,34,Louisiana-Monroe,0,0
+235,4,"Sep 26, 2015",Appalachian State,49,Old Dominion,0,1
+236,4,"Sep 26, 2015",Army,58,Eastern Michigan,36,1
+237,4,"Sep 26, 2015",Baylor,70,Rice,17,0
+238,4,"Sep 26, 2015",Boston College,17,Northern Illinois,14,0
+239,4,"Sep 26, 2015",Bowling Green,35,Purdue,28,1
+240,4,"Sep 26, 2015",California,30,Washington,24,1
+241,4,"Sep 26, 2015",Colorado,48,Nicholls State,0,0
+242,4,"Sep 26, 2015",Colorado State,33,UTSA,31,1
+243,4,"Sep 26, 2015",Duke,34,Georgia Tech,20,0
+244,4,"Sep 26, 2015",East Carolina,35,Virginia Tech,28,0
+245,4,"Sep 26, 2015",Florida,28,Tennessee,27,0
+246,4,"Sep 26, 2015",Charlotte,7,Florida Atlantic,17,0
+247,4,"Sep 26, 2015",Southern,6,Georgia,48,1
+248,4,"Sep 26, 2015",Georgia Southern,44,Idaho,20,1
+249,4,"Sep 26, 2015",Houston,59,Texas State,14,0
+250,4,"Sep 26, 2015",Illinois,27,Middle Tennessee,25,0
+251,4,"Sep 26, 2015",Indiana,31,Wake Forest,24,1
+252,4,"Sep 26, 2015",Iowa,62,North Texas,16,0
+253,4,"Sep 26, 2015",James Madison,48,SMU,45,1
+254,4,"Sep 26, 2015",Kentucky,21,Missouri,13,0
+255,4,"Sep 26, 2015",LSU,34,Syracuse,24,1
+256,4,"Sep 26, 2015",Louisiana Tech,27,Florida Int'l,17,0
+257,4,"Sep 26, 2015",Louisville,45,Samford,3,0
+258,4,"Sep 26, 2015",Marshall,36,Kent State,29,1
+259,4,"Sep 26, 2015",Michigan,31,BYU,0,0
+260,4,"Sep 26, 2015",Michigan State,30,Central Michigan,10,0
+261,4,"Sep 26, 2015",Minnesota,27,Ohio,24,0
+262,4,"Sep 26, 2015",Ole Miss,27,Vanderbilt,16,0
+263,4,"Sep 26, 2015",Auburn,9,Mississippi State,17,0
+264,4,"Sep 26, 2015",Navy,28,Connecticut,18,1
+265,4,"Sep 26, 2015",Nebraska,36,Southern Miss,28,0
+266,4,"Sep 26, 2015",Nevada,24,Buffalo,21,1
+267,4,"Sep 26, 2015",UNLV,80,Idaho State,8,0
+268,4,"Sep 26, 2015",New Mexico,38,Wyoming,28,1
+269,4,"Sep 26, 2015",North Carolina,41,Delaware,14,0
+270,4,"Sep 26, 2015",NC State,63,South Alabama,13,1
+271,4,"Sep 26, 2015",Northwestern,24,Ball State,19,0
+272,4,"Sep 26, 2015",Notre Dame,62,Massachusetts,27,0
+273,4,"Sep 26, 2015",Ohio State,38,Western Michigan,12,0
+274,4,"Sep 26, 2015",Oklahoma State,30,Texas,27,1
+275,4,"Sep 26, 2015",Penn State,37,San Diego State,21,0
+276,4,"Sep 26, 2015",Rutgers,27,Kansas,14,0
+277,4,"Sep 26, 2015",San Jose State,49,Fresno State,23,0
+278,4,"Sep 26, 2015",South Carolina,31,UCF,14,0
+279,4,"Sep 26, 2015",USC,42,Arizona State,14,1
+280,4,"Sep 26, 2015",Texas A&M,28,Arkansas,21,0
+281,4,"Sep 26, 2015",TCU,55,Texas Tech,52,1
+282,4,"Sep 26, 2015",UTEP,27,Incarnate Word,17,0
+283,4,"Sep 26, 2015",Arkansas State,7,Toledo,37,1
+284,4,"Sep 26, 2015",UCLA,56,Arizona,30,1
+285,4,"Sep 26, 2015",Utah,62,Oregon,20,1
+286,4,"Sep 26, 2015",Maryland,6,West Virginia,45,1
+287,4,"Sep 26, 2015",Western Kentucky,56,Miami (OH),14,0
+288,4,"Sep 26, 2015",Wisconsin,28,Hawaii,0,0
+289,5,"Oct 1, 2015",Cincinnati,34,Miami,23,0
+290,5,"Oct 2, 2015",BYU,30,Connecticut,13,0
+291,5,"Oct 2, 2015",Memphis,24,South Florida,17,1
+292,5,"Oct 2, 2015",Temple,37,Charlotte,3,1
+293,5,"Oct 3, 2015",Alabama,38,Georgia,10,1
+294,5,"Oct 3, 2015",Appalachian State,31,Wyoming,13,0
+295,5,"Oct 3, 2015",Arizona State,38,UCLA,23,1
+296,5,"Oct 3, 2015",Arkansas,24,Tennessee,20,1
+297,5,"Oct 3, 2015",Arkansas State,49,Idaho,35,0
+298,5,"Oct 3, 2015",Auburn,35,San Jose State,21,0
+299,5,"Oct 3, 2015",Baylor,63,Texas Tech,35,0
+300,5,"Oct 3, 2015",Boise State,55,Hawaii,0,0
+301,5,"Oct 3, 2015",Bowling Green,28,Buffalo,22,1
+302,5,"Oct 3, 2015",California,34,Washington State,28,0
+303,5,"Oct 3, 2015",Central Michigan,29,Northern Illinois,19,0
+304,5,"Oct 3, 2015",Clemson,24,Notre Dame,22,0
+305,5,"Oct 3, 2015",Duke,9,Boston College,7,0
+306,5,"Oct 3, 2015",East Carolina,49,SMU,23,1
+307,5,"Oct 3, 2015",Florida,38,Ole Miss,10,0
+308,5,"Oct 3, 2015",Florida State,24,Wake Forest,16,1
+309,5,"Oct 3, 2015",Georgia Southern,51,Louisiana-Monroe,31,1
+310,5,"Oct 3, 2015",Houston,38,Tulsa,24,1
+311,5,"Oct 3, 2015",Illinois,14,Nebraska,13,0
+312,5,"Oct 3, 2015",Wisconsin,6,Iowa,10,0
+313,5,"Oct 3, 2015",Iowa State,38,Kansas,13,0
+314,5,"Oct 3, 2015",Kent State,20,Miami (OH),14,0
+315,5,"Oct 3, 2015",Kentucky,34,Eastern Kentucky,27,0
+316,5,"Oct 3, 2015",Liberty,41,Georgia State,33,1
+317,5,"Oct 3, 2015",LSU,44,Eastern Michigan,22,0
+318,5,"Oct 3, 2015",Louisiana Tech,43,Louisiana,14,0
+319,5,"Oct 3, 2015",Louisville,20,NC State,13,1
+320,5,"Oct 3, 2015",Old Dominion,7,Marshall,27,1
+321,5,"Oct 3, 2015",Massachusetts,24,Florida Int'l,14,0
+322,5,"Oct 3, 2015",Michigan,28,Maryland,0,1
+323,5,"Oct 3, 2015",Michigan State,24,Purdue,21,0
+324,5,"Oct 3, 2015",Missouri,24,South Carolina,10,0
+325,5,"Oct 3, 2015",Navy,33,Air Force,11,0
+326,5,"Oct 3, 2015",UNLV,23,Nevada,17,1
+327,5,"Oct 3, 2015",New Mexico,38,New Mexico State,29,0
+328,5,"Oct 3, 2015",North Carolina,38,Georgia Tech,31,1
+329,5,"Oct 3, 2015",Northwestern,27,Minnesota,0,0
+330,5,"Oct 3, 2015",Ohio,14,Akron,12,1
+331,5,"Oct 3, 2015",Ohio State,34,Indiana,27,1
+332,5,"Oct 3, 2015",Oklahoma,44,West Virginia,24,0
+333,5,"Oct 3, 2015",Oklahoma State,36,Kansas State,34,0
+334,5,"Oct 3, 2015",Oregon,41,Colorado,24,1
+335,5,"Oct 3, 2015",Penn State,20,Army,14,0
+336,5,"Oct 3, 2015",Pitt,17,Virginia Tech,13,1
+337,5,"Oct 3, 2015",Fresno State,7,San Diego State,21,1
+338,5,"Oct 3, 2015",South Alabama,24,Troy,18,1
+339,5,"Oct 3, 2015",Southern Miss,49,North Texas,14,0
+340,5,"Oct 3, 2015",Stanford,55,Arizona,17,0
+341,5,"Oct 3, 2015",Texas A&M,30,Mississippi State,17,0
+342,5,"Oct 3, 2015",Texas,7,TCU,50,1
+343,5,"Oct 3, 2015",UTEP,6,UTSA,25,0
+344,5,"Oct 3, 2015",Toledo,24,Ball State,10,1
+345,5,"Oct 3, 2015",Tulane,45,UCF,31,0
+346,5,"Oct 3, 2015",Utah State,33,Colorado State,18,0
+347,5,"Oct 3, 2015",Vanderbilt,17,Middle Tennessee,13,1
+348,5,"Oct 3, 2015",Western Kentucky,49,Rice,10,1
+349,6,"Oct 8, 2015",Houston,49,SMU,28,0
+350,6,"Oct 8, 2015",Washington,17,USC,12,1
+351,6,"Oct 9, 2015",Marshall,31,Southern Miss,10,0
+352,6,"Oct 9, 2015",Virginia Tech,28,NC State,13,0
+353,6,"Oct 10, 2015",Air Force,31,Wyoming,17,0
+354,6,"Oct 10, 2015",Akron,47,Eastern Michigan,21,1
+355,6,"Oct 10, 2015",Alabama,27,Arkansas,14,0
+356,6,"Oct 10, 2015",Appalachian State,37,Georgia State,3,1
+357,6,"Oct 10, 2015",Oregon State,7,Arizona,44,1
+358,6,"Oct 10, 2015",Arizona State,48,Colorado,23,0
+359,6,"Oct 10, 2015",Kansas,7,Baylor,66,0
+360,6,"Oct 10, 2015",Boise State,41,Colorado State,10,1
+361,6,"Oct 10, 2015",Bowling Green,62,Massachusetts,38,0
+362,6,"Oct 10, 2015",BYU,45,East Carolina,38,0
+363,6,"Oct 10, 2015",Clemson,43,Georgia Tech,24,0
+364,6,"Oct 10, 2015",Connecticut,40,UCF,13,1
+365,6,"Oct 10, 2015",Duke,44,Army,3,1
+366,6,"Oct 10, 2015",Missouri,3,Florida,21,0
+367,6,"Oct 10, 2015",Florida Int'l,52,UTEP,12,0
+368,6,"Oct 10, 2015",Florida State,29,Miami,24,0
+369,6,"Oct 10, 2015",Iowa,29,Illinois,20,0
+370,6,"Oct 10, 2015",Louisiana,49,Texas State,27,0
+371,6,"Oct 10, 2015",LSU,45,South Carolina,24,1
+372,6,"Oct 10, 2015",Louisiana Tech,34,UTSA,31,1
+373,6,"Oct 10, 2015",Michigan,38,Northwestern,0,0
+374,6,"Oct 10, 2015",Michigan State,31,Rutgers,24,1
+375,6,"Oct 10, 2015",Minnesota,41,Purdue,13,1
+376,6,"Oct 10, 2015",Ole Miss,52,New Mexico State,3,0
+377,6,"Oct 10, 2015",Mississippi State,45,Troy,17,0
+378,6,"Oct 10, 2015",Nevada,35,New Mexico,17,0
+379,6,"Oct 10, 2015",Northern Illinois,59,Ball State,41,0
+380,6,"Oct 10, 2015",Notre Dame,41,Navy,24,0
+381,6,"Oct 10, 2015",Ohio,34,Miami (OH),3,0
+382,6,"Oct 10, 2015",Ohio State,49,Maryland,28,0
+383,6,"Oct 10, 2015",Oklahoma State,33,West Virginia,26,1
+384,6,"Oct 10, 2015",Indiana,7,Penn State,29,1
+385,6,"Oct 10, 2015",Pitt,26,Virginia,19,0
+386,6,"Oct 10, 2015",North Texas,7,Portland State,66,0
+387,6,"Oct 10, 2015",Rice,27,Florida Atlantic,26,1
+388,6,"Oct 10, 2015",San Diego State,28,Hawaii,14,1
+389,6,"Oct 10, 2015",San Jose State,33,UNLV,27,1
+390,6,"Oct 10, 2015",South Florida,45,Syracuse,24,0
+391,6,"Oct 10, 2015",Temple,49,Tulane,10,0
+392,6,"Oct 10, 2015",Tennessee,38,Georgia,31,0
+393,6,"Oct 10, 2015",Texas,24,Oklahoma,17,0
+394,6,"Oct 10, 2015",TCU,52,Kansas State,45,1
+395,6,"Oct 10, 2015",Texas Tech,66,Iowa State,31,0
+396,6,"Oct 10, 2015",Kent State,7,Toledo,38,1
+397,6,"Oct 10, 2015",Tulsa,34,Louisiana-Monroe,24,0
+398,6,"Oct 10, 2015",Utah,30,California,24,0
+399,6,"Oct 10, 2015",Utah State,56,Fresno State,14,1
+400,6,"Oct 10, 2015",Wake Forest,3,Boston College,0,1
+401,6,"Oct 10, 2015",Washington State,45,Oregon,38,1
+402,6,"Oct 10, 2015",Western Kentucky,58,Middle Tennessee,28,0
+403,6,"Oct 10, 2015",Western Michigan,41,Central Michigan,39,0
+404,6,"Oct 10, 2015",Wisconsin,23,Nebraska,21,1
+405,7,"Oct 13, 2015",Arkansas State,49,South Alabama,31,1
+406,7,"Oct 15, 2015",Auburn,30,Kentucky,27,1
+407,7,"Oct 15, 2015",Stanford,56,UCLA,35,0
+408,7,"Oct 15, 2015",Western Kentucky,55,North Texas,28,1
+409,7,"Oct 16, 2015",BYU,38,Cincinnati,24,0
+410,7,"Oct 16, 2015",Fresno State,31,UNLV,28,0
+411,7,"Oct 16, 2015",Tulane,7,Houston,42,0
+412,7,"Oct 16, 2015",Utah State,52,Boise State,26,0
+413,7,"Oct 17, 2015",Alabama,41,Texas A&M,23,1
+414,7,"Oct 17, 2015",Appalachian State,59,Louisiana-Monroe,14,1
+415,7,"Oct 17, 2015",Arizona,38,Colorado,31,1
+416,7,"Oct 17, 2015",Army,21,Bucknell,14,0
+417,7,"Oct 17, 2015",Baylor,62,West Virginia,38,0
+418,7,"Oct 17, 2015",Bowling Green,59,Akron,10,0
+419,7,"Oct 17, 2015",Central Michigan,51,Buffalo,14,0
+420,7,"Oct 17, 2015",Clemson,34,Boston College,17,0
+421,7,"Oct 17, 2015",Colorado State,38,Air Force,23,0
+422,7,"Oct 17, 2015",East Carolina,30,Tulsa,17,0
+423,7,"Oct 17, 2015",Florida State,41,Louisville,21,0
+424,7,"Oct 17, 2015",Georgia,9,Missouri,6,0
+425,7,"Oct 17, 2015",Georgia Southern,56,New Mexico State,26,0
+426,7,"Oct 17, 2015",Georgia State,31,Ball State,19,1
+427,7,"Oct 17, 2015",Idaho,19,Troy,16,1
+428,7,"Oct 17, 2015",Iowa,40,Northwestern,10,1
+429,7,"Oct 17, 2015",Kent State,15,Massachusetts,10,1
+430,7,"Oct 17, 2015",LSU,35,Florida,28,0
+431,7,"Oct 17, 2015",Marshall,33,Florida Atlantic,17,1
+432,7,"Oct 17, 2015",Memphis,37,Ole Miss,24,0
+433,7,"Oct 17, 2015",Miami,30,Virginia Tech,20,0
+434,7,"Oct 17, 2015",Michigan State,27,Michigan,23,1
+435,7,"Oct 17, 2015",Middle Tennessee,42,Florida Int'l,34,0
+436,7,"Oct 17, 2015",Mississippi State,45,Louisiana Tech,20,0
+437,7,"Oct 17, 2015",Nebraska,48,Minnesota,25,1
+438,7,"Oct 17, 2015",New Mexico,28,Hawaii,27,0
+439,7,"Oct 17, 2015",North Carolina,50,Wake Forest,14,0
+440,7,"Oct 17, 2015",Northern Illinois,45,Miami (OH),12,1
+441,7,"Oct 17, 2015",Notre Dame,41,USC,31,0
+442,7,"Oct 17, 2015",Ohio State,38,Penn State,10,0
+443,7,"Oct 17, 2015",Oklahoma,55,Kansas State,0,1
+444,7,"Oct 17, 2015",Old Dominion,37,Charlotte,34,0
+445,7,"Oct 17, 2015",Oregon,26,Washington,20,1
+446,7,"Oct 17, 2015",Pitt,31,Georgia Tech,28,1
+447,7,"Oct 17, 2015",Rutgers,55,Indiana,52,1
+448,7,"Oct 17, 2015",San Jose State,7,San Diego State,30,0
+449,7,"Oct 17, 2015",South Carolina,19,Vanderbilt,10,0
+450,7,"Oct 17, 2015",South Florida,28,Connecticut,20,1
+451,7,"Oct 17, 2015",Southern Miss,32,UTSA,10,0
+452,7,"Oct 17, 2015",Temple,30,UCF,16,0
+453,7,"Oct 17, 2015",TCU,45,Iowa State,21,1
+454,7,"Oct 17, 2015",Texas Tech,30,Kansas,20,1
+455,7,"Oct 17, 2015",Toledo,63,Eastern Michigan,20,0
+456,7,"Oct 17, 2015",Utah,34,Arizona State,18,0
+457,7,"Oct 17, 2015",Virginia,44,Syracuse,38,0
+458,7,"Oct 17, 2015",Washington State,52,Oregon State,31,0
+459,7,"Oct 17, 2015",Western Michigan,49,Ohio,14,1
+460,7,"Oct 17, 2015",Purdue,7,Wisconsin,24,1
+461,7,"Oct 17, 2015",Wyoming,28,Nevada,21,0
+462,8,"Oct 20, 2015",Arkansas State,37,Louisiana,27,0
+463,8,"Oct 22, 2015",Appalachian State,31,Georgia Southern,13,0
+464,8,"Oct 22, 2015",Temple,24,East Carolina,14,1
+465,8,"Oct 22, 2015",UCLA,40,California,24,0
+466,8,"Oct 23, 2015",Memphis,66,Tulsa,42,1
+467,8,"Oct 23, 2015",San Diego State,48,Utah State,14,0
+468,8,"Oct 24, 2015",Air Force,42,Fresno State,14,0
+469,8,"Oct 24, 2015",Alabama,19,Tennessee,14,0
+470,8,"Oct 24, 2015",Arkansas,54,Auburn,46,0
+471,8,"Oct 24, 2015",Baylor,45,Iowa State,27,0
+472,8,"Oct 24, 2015",Boise State,34,Wyoming,14,0
+473,8,"Oct 24, 2015",Bowling Green,48,Kent State,0,1
+474,8,"Oct 24, 2015",BYU,70,Wagner,6,0
+475,8,"Oct 24, 2015",Buffalo,41,Ohio,17,0
+476,8,"Oct 24, 2015",Central Michigan,23,Ball State,21,1
+477,8,"Oct 24, 2015",Cincinnati,37,Connecticut,13,0
+478,8,"Oct 24, 2015",Clemson,58,Miami,0,1
+479,8,"Oct 24, 2015",Colorado,17,Oregon State,13,1
+480,8,"Oct 24, 2015",Duke,45,Virginia Tech,43,1
+481,8,"Oct 24, 2015",Florida Int'l,41,Old Dominion,12,0
+482,8,"Oct 24, 2015",Georgia Tech,22,Florida State,16,0
+483,8,"Oct 24, 2015",Houston,59,UCF,10,1
+484,8,"Oct 24, 2015",Idaho,27,Louisiana-Monroe,13,0
+485,8,"Oct 24, 2015",LSU,48,Western Kentucky,20,0
+486,8,"Oct 24, 2015",Louisiana Tech,45,Middle Tennessee,16,0
+487,8,"Oct 24, 2015",Louisville,17,Boston College,14,0
+488,8,"Oct 24, 2015",Marshall,30,North Texas,13,0
+489,8,"Oct 24, 2015",Michigan State,52,Indiana,26,0
+490,8,"Oct 24, 2015",Texas A&M,3,Ole Miss,23,1
+491,8,"Oct 24, 2015",Mississippi State,42,Kentucky,16,0
+492,8,"Oct 24, 2015",Navy,31,Tulane,14,0
+493,8,"Oct 24, 2015",Nevada,30,Hawaii,20,0
+494,8,"Oct 24, 2015",North Carolina,26,Virginia,13,0
+495,8,"Oct 24, 2015",NC State,35,Wake Forest,17,1
+496,8,"Oct 24, 2015",Northern Illinois,49,Eastern Michigan,21,0
+497,8,"Oct 24, 2015",Northwestern,30,Nebraska,28,1
+498,8,"Oct 24, 2015",Rutgers,7,Ohio State,49,0
+499,8,"Oct 24, 2015",Oklahoma,63,Texas Tech,27,0
+500,8,"Oct 24, 2015",Oklahoma State,58,Kansas,10,0
+501,8,"Oct 24, 2015",Penn State,31,Maryland,30,0
+502,8,"Oct 24, 2015",Pitt,23,Syracuse,20,1
+503,8,"Oct 24, 2015",Rice,38,Army,31,0
+504,8,"Oct 24, 2015",San Jose State,31,New Mexico,21,0
+505,8,"Oct 24, 2015",South Florida,38,SMU,14,0
+506,8,"Oct 24, 2015",USC,42,Utah,24,0
+507,8,"Oct 24, 2015",Southern Miss,44,Charlotte,10,1
+508,8,"Oct 24, 2015",Stanford,31,Washington,14,0
+509,8,"Oct 24, 2015",Kansas State,9,Texas,23,1
+510,8,"Oct 24, 2015",Texas State,36,South Alabama,18,0
+511,8,"Oct 24, 2015",UTEP,27,Florida Atlantic,17,0
+512,8,"Oct 24, 2015",Toledo,51,Massachusetts,35,1
+513,8,"Oct 24, 2015",New Mexico State,7,Troy,52,0
+514,8,"Oct 24, 2015",Missouri,3,Vanderbilt,10,1
+515,8,"Oct 24, 2015",Washington State,45,Arizona,42,1
+516,8,"Oct 24, 2015",Western Michigan,35,Miami (OH),13,0
+517,8,"Oct 24, 2015",Wisconsin,24,Illinois,13,1
+518,9,"Oct 29, 2015",Buffalo,29,Miami (OH),24,1
+519,9,"Oct 29, 2015",Georgia Southern,37,Texas State,13,0
+520,9,"Oct 29, 2015",North Carolina,26,Pitt,19,1
+521,9,"Oct 29, 2015",Oregon,61,Arizona State,55,1
+522,9,"Oct 29, 2015",TCU,40,West Virginia,10,0
+523,9,"Oct 29, 2015",Western Michigan,58,Eastern Michigan,28,1
+524,9,"Oct 30, 2015",Connecticut,31,East Carolina,13,0
+525,9,"Oct 30, 2015",Louisiana Tech,42,Rice,17,1
+526,9,"Oct 30, 2015",Louisville,20,Wake Forest,19,1
+527,9,"Oct 30, 2015",Utah State,58,Wyoming,27,0
+528,9,"Oct 31, 2015",Hawaii,7,Air Force,58,0
+529,9,"Oct 31, 2015",Appalachian State,44,Troy,41,0
+530,9,"Oct 31, 2015",Arkansas,63,Tennessee-Martin,28,0
+531,9,"Oct 31, 2015",Arkansas State,48,Georgia State,34,0
+532,9,"Oct 31, 2015",Ball State,20,Massachusetts,10,0
+533,9,"Oct 31, 2015",Boise State,55,UNLV,27,1
+534,9,"Oct 31, 2015",Akron,6,Central Michigan,14,0
+535,9,"Oct 31, 2015",UCF,7,Cincinnati,52,1
+536,9,"Oct 31, 2015",Clemson,56,NC State,41,1
+537,9,"Oct 31, 2015",Georgia,3,Florida,27,1
+538,9,"Oct 31, 2015",Florida Atlantic,31,Florida Int'l,17,0
+539,9,"Oct 31, 2015",Florida State,45,Syracuse,21,0
+540,9,"Oct 31, 2015",Houston,34,Vanderbilt,0,0
+541,9,"Oct 31, 2015",Iowa,31,Maryland,15,0
+542,9,"Oct 31, 2015",Iowa State,24,Texas,0,0
+543,9,"Oct 31, 2015",Louisiana,30,Louisiana-Monroe,24,0
+544,9,"Oct 31, 2015",Marshall,34,Charlotte,10,1
+545,9,"Oct 31, 2015",Memphis,41,Tulane,13,0
+546,9,"Oct 31, 2015",Miami,30,Duke,27,1
+547,9,"Oct 31, 2015",Michigan,29,Minnesota,26,1
+548,9,"Oct 31, 2015",Ole Miss,27,Auburn,19,1
+549,9,"Oct 31, 2015",Navy,29,South Florida,17,0
+550,9,"Oct 31, 2015",New Mexico State,55,Idaho,48,0
+551,9,"Oct 31, 2015",North Texas,30,UTSA,23,0
+552,9,"Oct 31, 2015",Notre Dame,24,Temple,20,1
+553,9,"Oct 31, 2015",Kansas,7,Oklahoma,62,0
+554,9,"Oct 31, 2015",Oklahoma State,70,Texas Tech,53,1
+555,9,"Oct 31, 2015",Penn State,39,Illinois,0,0
+556,9,"Oct 31, 2015",Purdue,55,Nebraska,45,0
+557,9,"Oct 31, 2015",San Diego State,41,Colorado State,17,1
+558,9,"Oct 31, 2015",USC,27,California,21,1
+559,9,"Oct 31, 2015",Southern Miss,34,UTEP,13,0
+560,9,"Oct 31, 2015",Stanford,30,Washington State,28,1
+561,9,"Oct 31, 2015",Tennessee,52,Kentucky,21,1
+562,9,"Oct 31, 2015",Texas A&M,35,South Carolina,28,0
+563,9,"Oct 31, 2015",Tulsa,40,SMU,31,1
+564,9,"Oct 31, 2015",UCLA,35,Colorado,31,0
+565,9,"Oct 31, 2015",Utah,27,Oregon State,12,0
+566,9,"Oct 31, 2015",Virginia,27,Georgia Tech,21,0
+567,9,"Oct 31, 2015",Virginia Tech,26,Boston College,10,1
+568,9,"Oct 31, 2015",Washington,49,Arizona,3,0
+569,9,"Oct 31, 2015",Western Kentucky,55,Old Dominion,30,1
+570,9,"Oct 31, 2015",Wisconsin,48,Rutgers,10,0
+571,10,"Nov 3, 2015",Northern Illinois,32,Toledo,27,1
+572,10,"Nov 4, 2015",Bowling Green,62,Ohio,24,0
+573,10,"Nov 5, 2015",Arkansas State,40,Appalachian State,27,1
+574,10,"Nov 5, 2015",Baylor,31,Kansas State,24,1
+575,10,"Nov 5, 2015",Buffalo,18,Kent State,17,1
+576,10,"Nov 5, 2015",Mississippi State,31,Missouri,13,1
+577,10,"Nov 5, 2015",Nevada,30,Fresno State,16,1
+578,10,"Nov 5, 2015",Ball State,7,Western Michigan,54,1
+579,10,"Nov 6, 2015",BYU,17,San Jose State,16,1
+580,10,"Nov 6, 2015",Temple,60,SMU,40,1
+581,10,"Nov 6, 2015",UTEP,24,Rice,21,0
+582,10,"Nov 7, 2015",Army,3,Air Force,20,1
+583,10,"Nov 7, 2015",Akron,17,Massachusetts,13,1
+584,10,"Nov 7, 2015",Alabama,30,LSU,16,0
+585,10,"Nov 7, 2015",Arkansas,53,Ole Miss,52,1
+586,10,"Nov 7, 2015",Auburn,26,Texas A&M,10,1
+587,10,"Nov 7, 2015",Clemson,23,Florida State,13,0
+588,10,"Nov 7, 2015",Wyoming,7,Colorado State,26,0
+589,10,"Nov 7, 2015",Connecticut,7,Tulane,3,1
+590,10,"Nov 7, 2015",Florida,9,Vanderbilt,7,0
+591,10,"Nov 7, 2015",Florida Int'l,48,Charlotte,31,0
+592,10,"Nov 7, 2015",Kentucky,3,Georgia,27,1
+593,10,"Nov 7, 2015",Houston,33,Cincinnati,30,0
+594,10,"Nov 7, 2015",Illinois,48,Purdue,14,1
+595,10,"Nov 7, 2015",Iowa,35,Indiana,27,1
+596,10,"Nov 7, 2015",Louisiana,23,Georgia State,21,1
+597,10,"Nov 7, 2015",Louisiana Tech,56,North Texas,13,0
+598,10,"Nov 7, 2015",Louisville,41,Syracuse,17,0
+599,10,"Nov 7, 2015",Miami,27,Virginia,21,0
+600,10,"Nov 7, 2015",Miami (OH),28,Eastern Michigan,13,0
+601,10,"Nov 7, 2015",Michigan,49,Rutgers,16,0
+602,10,"Nov 7, 2015",Middle Tennessee,27,Marshall,24,0
+603,10,"Nov 7, 2015",Navy,45,Memphis,20,1
+604,10,"Nov 7, 2015",Nebraska,39,Michigan State,38,0
+605,10,"Nov 7, 2015",UNLV,41,Hawaii,21,0
+606,10,"Nov 7, 2015",New Mexico,14,Utah State,13,0
+607,10,"Nov 7, 2015",New Mexico State,31,Texas State,21,1
+608,10,"Nov 7, 2015",North Carolina,66,Duke,31,0
+609,10,"Nov 7, 2015",Boston College,8,NC State,24,0
+610,10,"Nov 7, 2015",Northwestern,23,Penn State,21,0
+611,10,"Nov 7, 2015",Notre Dame,42,Pitt,30,1
+612,10,"Nov 7, 2015",Ohio State,28,Minnesota,14,0
+613,10,"Nov 7, 2015",Oklahoma,52,Iowa State,16,0
+614,10,"Nov 7, 2015",Oklahoma State,49,TCU,29,0
+615,10,"Nov 7, 2015",Old Dominion,36,UTSA,31,1
+616,10,"Nov 7, 2015",Oregon,44,California,28,0
+617,10,"Nov 7, 2015",South Alabama,52,Idaho,45,0
+618,10,"Nov 7, 2015",South Florida,22,East Carolina,17,1
+619,10,"Nov 7, 2015",USC,38,Arizona,30,0
+620,10,"Nov 7, 2015",Stanford,42,Colorado,10,1
+621,10,"Nov 7, 2015",Tennessee,27,South Carolina,24,0
+622,10,"Nov 7, 2015",Texas,59,Kansas,20,0
+623,10,"Nov 7, 2015",Troy,51,Louisiana-Monroe,14,0
+624,10,"Nov 7, 2015",Tulsa,45,UCF,30,0
+625,10,"Nov 7, 2015",UCLA,41,Oregon State,0,1
+626,10,"Nov 7, 2015",Utah,34,Washington,23,1
+627,10,"Nov 7, 2015",Washington State,38,Arizona State,24,0
+628,10,"Nov 7, 2015",West Virginia,31,Texas Tech,26,0
+629,10,"Nov 7, 2015",Western Kentucky,35,Florida Atlantic,19,0
+630,10,"Nov 7, 2015",Wisconsin,31,Maryland,24,1
+631,11,"Nov 10, 2015",Ohio,27,Kent State,0,0
+632,11,"Nov 10, 2015",Toledo,28,Central Michigan,23,1
+633,11,"Nov 11, 2015",Bowling Green,41,Western Michigan,27,1
+634,11,"Nov 11, 2015",Northern Illinois,41,Buffalo,30,1
+635,11,"Nov 12, 2015",South Alabama,32,Louisiana,25,0
+636,11,"Nov 12, 2015",Virginia Tech,23,Georgia Tech,21,1
+637,11,"Nov 13, 2015",USC,27,Colorado,24,1
+638,11,"Nov 14, 2015",Air Force,35,Utah State,28,0
+639,11,"Nov 14, 2015",Akron,37,Miami (OH),28,1
+640,11,"Nov 14, 2015",Mississippi State,6,Alabama,31,0
+641,11,"Nov 14, 2015",Appalachian State,47,Idaho,20,1
+642,11,"Nov 14, 2015",Arizona,37,Utah,30,0
+643,11,"Nov 14, 2015",Arizona State,27,Washington,17,0
+644,11,"Nov 14, 2015",Arkansas,31,LSU,14,1
+645,11,"Nov 14, 2015",Arkansas State,59,Louisiana-Monroe,21,1
+646,11,"Nov 14, 2015",California,54,Oregon State,24,0
+647,11,"Nov 14, 2015",Cincinnati,49,Tulsa,38,0
+648,11,"Nov 14, 2015",Clemson,37,Syracuse,27,1
+649,11,"Nov 14, 2015",Colorado State,49,UNLV,35,0
+650,11,"Nov 14, 2015",Florida,24,South Carolina,14,1
+651,11,"Nov 14, 2015",Florida State,34,NC State,17,0
+652,11,"Nov 14, 2015",Fresno State,42,Hawaii,14,1
+653,11,"Nov 14, 2015",Georgia,20,Auburn,13,1
+654,11,"Nov 14, 2015",Georgia Southern,45,Troy,10,1
+655,11,"Nov 14, 2015",Georgia State,41,Texas State,19,1
+656,11,"Nov 14, 2015",Houston,35,Memphis,34,0
+657,11,"Nov 14, 2015",Iowa,40,Minnesota,35,0
+658,11,"Nov 14, 2015",Louisville,38,Virginia,31,0
+659,11,"Nov 14, 2015",Marshall,52,Florida Int'l,0,0
+660,11,"Nov 14, 2015",Massachusetts,28,Eastern Michigan,17,1
+661,11,"Nov 14, 2015",Michigan,48,Indiana,41,1
+662,11,"Nov 14, 2015",Maryland,7,Michigan State,24,1
+663,11,"Nov 14, 2015",Middle Tennessee,24,Florida Atlantic,17,1
+664,11,"Nov 14, 2015",Missouri,20,BYU,16,0
+665,11,"Nov 14, 2015",Navy,55,SMU,14,0
+666,11,"Nov 14, 2015",Nebraska,31,Rutgers,14,1
+667,11,"Nov 14, 2015",Nevada,37,San Jose State,34,0
+668,11,"Nov 14, 2015",New Mexico,31,Boise State,24,1
+669,11,"Nov 14, 2015",North Carolina,59,Miami,21,0
+670,11,"Nov 14, 2015",Northwestern,21,Purdue,14,0
+671,11,"Nov 14, 2015",Wake Forest,7,Notre Dame,28,1
+672,11,"Nov 14, 2015",Illinois,3,Ohio State,28,0
+673,11,"Nov 14, 2015",Oklahoma,44,Baylor,34,1
+674,11,"Nov 14, 2015",Oklahoma State,35,Iowa State,31,1
+675,11,"Nov 14, 2015",Old Dominion,31,UTEP,21,0
+676,11,"Nov 14, 2015",Oregon,38,Stanford,36,1
+677,11,"Nov 14, 2015",Pitt,31,Duke,13,1
+678,11,"Nov 14, 2015",San Diego State,38,Wyoming,3,0
+679,11,"Nov 14, 2015",South Florida,44,Temple,23,0
+680,11,"Nov 14, 2015",Southern Miss,65,Rice,10,1
+681,11,"Nov 14, 2015",Tennessee,24,North Texas,0,0
+682,11,"Nov 14, 2015",Texas A&M,41,Western Carolina,17,0
+683,11,"Nov 14, 2015",TCU,23,Kansas,17,0
+684,11,"Nov 14, 2015",Texas Tech,59,Kansas State,44,0
+685,11,"Nov 14, 2015",UTSA,30,Charlotte,27,1
+686,11,"Nov 14, 2015",Tulane,34,Army,31,1
+687,11,"Nov 14, 2015",Vanderbilt,21,Kentucky,17,0
+688,11,"Nov 14, 2015",Washington State,31,UCLA,27,1
+689,11,"Nov 14, 2015",West Virginia,38,Texas,20,0
+690,12,"Nov 17, 2015",Ohio,48,Ball State,31,0
+691,12,"Nov 17, 2015",Toledo,44,Bowling Green,28,1
+692,12,"Nov 18, 2015",Central Michigan,27,Kent State,14,1
+693,12,"Nov 18, 2015",Northern Illinois,27,Western Michigan,19,0
+694,12,"Nov 19, 2015",UCF,7,East Carolina,44,0
+695,12,"Nov 19, 2015",Louisiana-Monroe,3,Texas State,16,1
+696,12,"Nov 20, 2015",Air Force,37,Boise State,30,1
+697,12,"Nov 20, 2015",South Florida,65,Cincinnati,27,0
+698,12,"Nov 21, 2015",Akron,42,Buffalo,21,0
+699,12,"Nov 21, 2015",Charleston Southern,6,Alabama,56,1
+700,12,"Nov 21, 2015",Arizona State,52,Arizona,37,0
+701,12,"Nov 21, 2015",Auburn,56,Idaho,34,0
+702,12,"Nov 21, 2015",Baylor,45,Oklahoma State,35,1
+703,12,"Nov 21, 2015",BYU,52,Fresno State,10,0
+704,12,"Nov 21, 2015",Citadel,23,South Carolina,22,1
+705,12,"Nov 21, 2015",Clemson,33,Wake Forest,13,0
+706,12,"Nov 21, 2015",Colorado State,28,New Mexico,21,1
+707,12,"Nov 21, 2015",Connecticut,20,Houston,17,0
+708,12,"Nov 21, 2015",Florida,20,Florida Atlantic,14,0
+709,12,"Nov 21, 2015",Florida State,52,Chattanooga,13,0
+710,12,"Nov 21, 2015",Georgia,23,Georgia Southern,17,0
+711,12,"Nov 21, 2015",Georgia State,24,South Alabama,10,0
+712,12,"Nov 21, 2015",Indiana,47,Maryland,28,1
+713,12,"Nov 21, 2015",Iowa,40,Purdue,20,0
+714,12,"Nov 21, 2015",Kansas State,38,Iowa State,35,0
+715,12,"Nov 21, 2015",Kentucky,58,Charlotte,10,0
+716,12,"Nov 21, 2015",Louisiana Tech,17,UTEP,15,1
+717,12,"Nov 21, 2015",Miami,38,Georgia Tech,21,0
+718,12,"Nov 21, 2015",Miami (OH),20,Massachusetts,13,1
+719,12,"Nov 21, 2015",Michigan,28,Penn State,16,1
+720,12,"Nov 21, 2015",Michigan State,17,Ohio State,14,1
+721,12,"Nov 21, 2015",North Texas,7,Middle Tennessee,41,1
+722,12,"Nov 21, 2015",Minnesota,32,Illinois,23,0
+723,12,"Nov 21, 2015",Ole Miss,38,LSU,17,0
+724,12,"Nov 21, 2015",Mississippi State,51,Arkansas,50,1
+725,12,"Nov 21, 2015",Navy,44,Tulsa,21,1
+726,12,"Nov 21, 2015",New Mexico State,37,Louisiana,34,1
+727,12,"Nov 21, 2015",North Carolina,30,Virginia Tech,27,1
+728,12,"Nov 21, 2015",NC State,42,Syracuse,29,0
+729,12,"Nov 21, 2015",Wisconsin,7,Northwestern,13,0
+730,12,"Nov 21, 2015",Notre Dame,19,Boston College,16,0
+731,12,"Nov 21, 2015",Oklahoma,30,TCU,29,0
+732,12,"Nov 21, 2015",Oregon,48,USC,28,0
+733,12,"Nov 21, 2015",Pitt,45,Louisville,34,0
+734,12,"Nov 21, 2015",Rutgers,31,Army,21,1
+735,12,"Nov 21, 2015",San Diego State,52,UNLV,14,1
+736,12,"Nov 21, 2015",San Jose State,42,Hawaii,23,1
+737,12,"Nov 21, 2015",SMU,49,Tulane,21,0
+738,12,"Nov 21, 2015",Southern Miss,56,Old Dominion,31,0
+739,12,"Nov 21, 2015",Stanford,35,California,22,0
+740,12,"Nov 21, 2015",Temple,31,Memphis,12,0
+741,12,"Nov 21, 2015",Missouri,8,Tennessee,19,0
+742,12,"Nov 21, 2015",Texas A&M,25,Vanderbilt,0,1
+743,12,"Nov 21, 2015",UTSA,34,Rice,24,0
+744,12,"Nov 21, 2015",Utah,9,UCLA,17,0
+745,12,"Nov 21, 2015",Utah State,31,Nevada,27,0
+746,12,"Nov 21, 2015",Virginia,42,Duke,34,0
+747,12,"Nov 21, 2015",Oregon State,7,Washington,52,0
+748,12,"Nov 21, 2015",Colorado,3,Washington State,27,1
+749,12,"Nov 21, 2015",West Virginia,49,Kansas,0,1
+750,12,"Nov 21, 2015",Florida Int'l,7,Western Kentucky,63,0
+751,13,"Nov 24, 2015",Bowling Green,48,Ball State,10,1
+752,13,"Nov 24, 2015",Ohio,26,Northern Illinois,21,1
+753,13,"Nov 26, 2015",South Florida,44,UCF,3,1
+754,13,"Nov 26, 2015",Texas Tech,48,Texas,45,1
+755,13,"Nov 27, 2015",Akron,20,Kent State,0,0
+756,13,"Nov 27, 2015",Missouri,3,Arkansas,28,1
+757,13,"Nov 27, 2015",Boise State,40,San Jose State,23,1
+758,13,"Nov 27, 2015",Central Michigan,35,Eastern Michigan,28,0
+759,13,"Nov 27, 2015",Georgia State,31,Troy,21,0
+760,13,"Nov 27, 2015",Houston,52,Navy,31,0
+761,13,"Nov 27, 2015",Iowa,28,Nebraska,20,1
+762,13,"Nov 27, 2015",Massachusetts,31,Buffalo,26,1
+763,13,"Nov 27, 2015",Miami,29,Pitt,24,1
+764,13,"Nov 27, 2015",Oregon,52,Oregon State,42,0
+765,13,"Nov 27, 2015",TCU,28,Baylor,21,0
+766,13,"Nov 27, 2015",Tulsa,45,Tulane,34,1
+767,13,"Nov 27, 2015",Washington,45,Washington State,10,0
+768,13,"Nov 27, 2015",Western Kentucky,49,Marshall,28,0
+769,13,"Nov 27, 2015",Western Michigan,35,Toledo,30,1
+770,13,"Nov 28, 2015",Alabama,29,Auburn,13,1
+771,13,"Nov 28, 2015",Louisiana,7,Appalachian State,28,1
+772,13,"Nov 28, 2015",Arkansas State,52,New Mexico State,28,1
+773,13,"Nov 28, 2015",BYU,51,Utah State,28,1
+774,13,"Nov 28, 2015",California,48,Arizona State,46,0
+775,13,"Nov 28, 2015",Cincinnati,19,East Carolina,16,1
+776,13,"Nov 28, 2015",Clemson,37,South Carolina,32,1
+777,13,"Nov 28, 2015",Colorado State,34,Fresno State,31,1
+778,13,"Nov 28, 2015",Duke,27,Wake Forest,21,1
+779,13,"Nov 28, 2015",Florida Atlantic,33,Old Dominion,31,1
+780,13,"Nov 28, 2015",Florida State,27,Florida,2,1
+781,13,"Nov 28, 2015",Georgia Tech,7,Georgia,13,0
+782,13,"Nov 28, 2015",Georgia Southern,55,South Alabama,17,0
+783,13,"Nov 28, 2015",Hawaii,28,Louisiana-Monroe,26,0
+784,13,"Nov 28, 2015",Idaho,38,Texas State,31,0
+785,13,"Nov 28, 2015",Indiana,54,Purdue,36,1
+786,13,"Nov 28, 2015",Kansas State,45,Kansas,14,1
+787,13,"Nov 28, 2015",Texas A&M,7,LSU,19,1
+788,13,"Nov 28, 2015",Louisville,38,Kentucky,24,1
+789,13,"Nov 28, 2015",Maryland,46,Rutgers,41,1
+790,13,"Nov 28, 2015",Memphis,63,SMU,0,0
+791,13,"Nov 28, 2015",Michigan State,55,Penn State,16,0
+792,13,"Nov 28, 2015",UTSA,7,Middle Tennessee,42,0
+793,13,"Nov 28, 2015",Ole Miss,38,Mississippi State,27,1
+794,13,"Nov 28, 2015",New Mexico,47,Air Force,35,0
+795,13,"Nov 28, 2015",North Carolina,45,NC State,34,1
+796,13,"Nov 28, 2015",Northwestern,24,Illinois,14,0
+797,13,"Nov 28, 2015",Ohio State,42,Michigan,13,1
+798,13,"Nov 28, 2015",Oklahoma,58,Oklahoma State,23,1
+799,13,"Nov 28, 2015",Charlotte,7,Rice,27,1
+800,13,"Nov 28, 2015",San Diego State,31,Nevada,14,0
+801,13,"Nov 28, 2015",USC,40,UCLA,21,0
+802,13,"Nov 28, 2015",Southern Miss,58,Louisiana Tech,24,1
+803,13,"Nov 28, 2015",Stanford,38,Notre Dame,36,0
+804,13,"Nov 28, 2015",Syracuse,20,Boston College,17,0
+805,13,"Nov 28, 2015",Connecticut,3,Temple,27,1
+806,13,"Nov 28, 2015",Tennessee,53,Vanderbilt,28,0
+807,13,"Nov 28, 2015",UTEP,20,North Texas,17,1
+808,13,"Nov 28, 2015",Utah,20,Colorado,14,0
+809,13,"Nov 28, 2015",Virginia Tech,23,Virginia,20,1
+810,13,"Nov 28, 2015",Iowa State,6,West Virginia,30,1
+811,13,"Nov 28, 2015",Wisconsin,31,Minnesota,21,1
+812,13,"Nov 28, 2015",Wyoming,35,UNLV,28,0
+813,14,"Dec 4, 2015",Bowling Green,34,Northern Illinois,14,0
+814,14,"Dec 5, 2015",Alabama,29,Florida,15,0
+815,14,"Dec 5, 2015",Appalachian State,34,South Alabama,27,1
+816,14,"Dec 5, 2015",Arkansas State,55,Texas State,17,0
+817,14,"Dec 5, 2015",Clemson,45,North Carolina,37,0
+818,14,"Dec 5, 2015",Georgia Southern,7,Georgia State,34,0
+819,14,"Dec 5, 2015",Houston,24,Temple,13,0
+820,14,"Dec 5, 2015",Kansas State,24,West Virginia,23,0
+821,14,"Dec 5, 2015",Louisiana-Monroe,42,New Mexico State,35,0
+822,14,"Dec 5, 2015",Michigan State,16,Iowa,13,0
+823,14,"Dec 5, 2015",San Diego State,27,Air Force,24,0
+824,14,"Dec 5, 2015",Stanford,41,USC,22,0
+825,14,"Dec 5, 2015",Texas,23,Baylor,17,1
+826,14,"Dec 5, 2015",Troy,41,Louisiana,17,1
+827,14,"Dec 5, 2015",Western Kentucky,45,Southern Miss,28,0
+828,15,"Dec 12, 2015",Navy,21,Army,17,0
+829,16,"Dec 19, 2015",Appalachian State,31,Ohio,29,0
+830,16,"Dec 19, 2015",Arizona,45,New Mexico,37,0
+831,16,"Dec 19, 2015",Louisiana Tech,47,Arkansas State,28,0
+832,16,"Dec 19, 2015",San Jose State,27,Georgia State,16,0
+833,16,"Dec 19, 2015",Utah,35,BYU,28,0
+834,16,"Dec 21, 2015",Western Kentucky,45,South Florida,35,0
+835,17,"Dec 22, 2015",Akron,23,Utah State,21,0
+836,17,"Dec 22, 2015",Toledo,32,Temple,17,0
+837,17,"Dec 23, 2015",Northern Illinois,7,Boise State,55,1
+838,17,"Dec 23, 2015",Georgia Southern,58,Bowling Green,27,0
+839,17,"Dec 24, 2015",Cincinnati,7,San Diego State,42,1
+840,17,"Dec 24, 2015",Western Michigan,45,Middle Tennessee,31,0
+841,17,"Dec 26, 2015",Duke,44,Indiana,41,0
+842,17,"Dec 26, 2015",Marshall,16,Connecticut,10,0
+843,17,"Dec 26, 2015",Nebraska,37,UCLA,29,0
+844,17,"Dec 26, 2015",Virginia Tech,55,Tulsa,52,0
+845,17,"Dec 26, 2015",Washington,44,Southern Miss,31,0
+846,17,"Dec 26, 2015",Washington State,20,Miami,14,0
+847,17,"Dec 28, 2015",Minnesota,21,Central Michigan,14,0
+848,17,"Dec 28, 2015",Navy,44,Pitt,28,0
+849,18,"Dec 29, 2015",Baylor,49,North Carolina,38,0
+850,18,"Dec 29, 2015",California,55,Air Force,36,0
+851,18,"Dec 29, 2015",LSU,56,Texas Tech,27,0
+852,18,"Dec 29, 2015",Nevada,28,Colorado State,23,0
+853,18,"Dec 30, 2015",Auburn,31,Memphis,10,0
+854,18,"Dec 30, 2015",Louisville,27,Texas A&M,21,0
+855,18,"Dec 30, 2015",Mississippi State,51,NC State,28,0
+856,18,"Dec 30, 2015",Wisconsin,23,USC,21,0
+857,18,"Dec 31, 2015",Alabama,38,Michigan State,0,0
+858,18,"Dec 31, 2015",Clemson,37,Oklahoma,17,0
+859,18,"Dec 31, 2015",Houston,38,Florida State,24,0
+860,18,"Jan 1, 2016",Florida,7,Michigan,41,1
+861,18,"Jan 1, 2016",Ole Miss,48,Oklahoma State,20,0
+862,18,"Jan 1, 2016",Ohio State,44,Notre Dame,28,0
+863,18,"Jan 1, 2016",Stanford,45,Iowa,16,0
+864,18,"Jan 1, 2016",Northwestern,6,Tennessee,45,1
+865,18,"Jan 2, 2016",Arkansas,45,Kansas State,23,0
+866,18,"Jan 2, 2016",Georgia,24,Penn State,17,0
+867,18,"Jan 2, 2016",TCU,47,Oregon,41,0
+868,18,"Jan 2, 2016",West Virginia,43,Arizona State,42,0
+869,19,"Jan 11, 2016",Alabama,45,Clemson,40,0

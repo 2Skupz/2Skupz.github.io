@@ -1,0 +1,646 @@
+0,1,"Sep 10, 1949",Texas Tech,20,Abilene Christian,0,0
+1,2,"Sep 16, 1949",Georgia,25,Furman,0,0
+2,2,"Sep 16, 1949",Memphis,7,Ole Miss,40,0
+3,2,"Sep 16, 1949",Saint Mary's (CA),7,Oregon,24,0
+4,2,"Sep 16, 1949",UCLA,35,Oregon State,13,0
+5,2,"Sep 17, 1949",Bradley,14,Ripon,0,0
+6,2,"Sep 17, 1949",Santa Clara,7,California,21,1
+7,2,"Sep 17, 1949",Presbyterian,7,Clemson,69,1
+8,2,"Sep 17, 1949",Colorado College,7,Colorado State,14,0
+9,2,"Sep 17, 1949",Denver,48,Colorado Mines,0,1
+10,2,"Sep 17, 1949",Drake,40,South Dakota State,0,0
+11,2,"Sep 17, 1949",North Texas,7,Hardin-Simmons,13,1
+12,2,"Sep 17, 1949",Idaho,79,Willamette,0,0
+13,2,"Sep 17, 1949",Iowa State,64,Dubuque,0,0
+14,2,"Sep 17, 1949",Kentucky,71,Southern Miss,7,0
+15,2,"Sep 17, 1949",Marquette,66,North Dakota State,0,0
+16,2,"Sep 17, 1949",Montana,33,South Dakota,13,0
+17,2,"Sep 17, 1949",Nevada,41,Cincinnati,21,1
+18,2,"Sep 17, 1949",New Mexico State,68,White Sands,0,0
+19,2,"Sep 17, 1949",Pacific,7,San Francisco,6,0
+20,2,"Sep 17, 1949",Pepperdine,39,Northern Arizona,0,0
+21,2,"Sep 17, 1949",Quantico Marines,33,Virginia Tech,14,0
+22,2,"Sep 17, 1949",Richmond,27,Randolph-Macon,0,0
+23,2,"Sep 17, 1949",Stanford,49,San Jose State,0,0
+24,2,"Sep 17, 1949",Texas,43,Texas Tech,0,0
+25,2,"Sep 17, 1949",TCU,28,Kansas,0,1
+26,2,"Sep 17, 1949",BYU,6,UTEP,47,0
+27,2,"Sep 17, 1949",Tulsa,27,McMurry,26,0
+28,2,"Sep 17, 1949",Villanova,35,Texas A&M,0,1
+29,2,"Sep 17, 1949",Duquesne,7,Wake Forest,22,1
+30,2,"Sep 17, 1949",Utah,7,Washington,14,1
+31,2,"Sep 17, 1949",Washington State,33,Utah State,0,0
+32,2,"Sep 17, 1949",Texas A&M-Commerce,7,West Texas State,41,1
+33,2,"Sep 17, 1949",Waynesburg,7,West Virginia,42,1
+34,2,"Sep 17, 1949",William & Mary,14,Houston,13,1
+35,2,"Sep 17, 1949",Wyoming,58,Idaho State,13,1
+36,3,"Sep 23, 1949",Boston University,33,Syracuse,21,1
+37,3,"Sep 23, 1949",Detroit Mercy,20,Tulsa,14,0
+38,3,"Sep 23, 1949",Chattanooga,6,Georgia,42,1
+39,3,"Sep 23, 1949",Auburn,7,Ole Miss,40,0
+40,3,"Sep 23, 1949",Oklahoma,46,Boston College,0,1
+41,3,"Sep 23, 1949",Pacific,52,Loyola Marymount,0,1
+42,3,"Sep 23, 1949",Pacific Fleet,27,BYU,13,1
+43,3,"Sep 23, 1949",Furman,7,Washington & Lee,27,0
+44,3,"Sep 24, 1949",New Mexico State,7,Arizona,40,1
+45,3,"Sep 24, 1949",Arizona State,33,Pepperdine,13,1
+46,3,"Sep 24, 1949",Arkansas,33,North Texas,19,0
+47,3,"Sep 24, 1949",Davidson,7,Army,47,1
+48,3,"Sep 24, 1949",South Carolina,6,Baylor,20,1
+49,3,"Sep 24, 1949",Bradley,20,Louisiana Tech,18,0
+50,3,"Sep 24, 1949",Saint Mary's (CA),7,California,29,1
+51,3,"Sep 24, 1949",Cincinnati,27,Hardin-Simmons,21,0
+52,3,"Sep 24, 1949",Colgate,32,Buffalo,0,0
+53,3,"Sep 24, 1949",Colorado,13,Kansas,12,0
+54,3,"Sep 24, 1949",Colorado State,14,Denver,13,1
+55,3,"Sep 24, 1949",Amherst,7,Columbia,27,1
+56,3,"Sep 24, 1949",Cornell,27,Niagara,0,0
+57,3,"Sep 24, 1949",Drake,42,Emporia State,0,0
+58,3,"Sep 24, 1949",Duke,67,Richmond,0,0
+59,3,"Sep 24, 1949",Florida,13,Citadel,0,0
+60,3,"Sep 24, 1949",Georgetown,20,Holy Cross,13,1
+61,3,"Sep 24, 1949",Vanderbilt,7,Georgia Tech,12,1
+62,3,"Sep 24, 1949",Illinois,20,Iowa State,20,0
+63,3,"Sep 24, 1949",Kansas State,55,Fort Hays State,0,0
+64,3,"Sep 24, 1949",Kentucky,19,LSU,0,1
+65,3,"Sep 24, 1949",Virginia Tech,7,Maryland,34,0
+66,3,"Sep 24, 1949",West Texas State,7,McMurry,34,0
+67,3,"Sep 24, 1949",Wichita State,6,Miami (OH),23,0
+68,3,"Sep 24, 1949",Michigan,7,Michigan State,3,0
+69,3,"Sep 24, 1949",Minnesota,48,Washington,20,0
+70,3,"Sep 24, 1949",South Dakota,6,Nebraska,33,1
+71,3,"Sep 24, 1949",NC State,6,North Carolina,26,1
+72,3,"Sep 24, 1949",Northern Arizona,43,California Tech,13,0
+73,3,"Sep 24, 1949",Purdue,6,Northwestern,20,1
+74,3,"Sep 24, 1949",Indiana,6,Notre Dame,49,1
+75,3,"Sep 24, 1949",West Virginia,7,Ohio,17,1
+76,3,"Sep 24, 1949",Ohio State,35,Missouri,34,0
+77,3,"Sep 24, 1949",TCU,33,Oklahoma State,33,0
+78,3,"Sep 24, 1949",Oregon,41,Idaho,0,0
+79,3,"Sep 24, 1949",Utah,7,Oregon State,27,1
+80,3,"Sep 24, 1949",William & Mary,7,Pitt,13,1
+81,3,"Sep 24, 1949",Princeton,26,Lafayette,14,0
+82,3,"Sep 24, 1949",Virginia Military Institute,7,Quantico Marines,14,0
+83,3,"Sep 24, 1949",Clemson,7,Rice,33,1
+84,3,"Sep 24, 1949",Rutgers,79,Merchant Marine,6,0
+85,3,"Sep 24, 1949",Santa Clara,14,San Jose State,13,1
+86,3,"Sep 24, 1949",USC,42,Navy,20,0
+87,3,"Sep 24, 1949",Wake Forest,7,SMU,13,1
+88,3,"Sep 24, 1949",Stanford,44,Harvard,0,0
+89,3,"Sep 24, 1949",Tennessee,10,Mississippi State,0,0
+90,3,"Sep 24, 1949",Texas,54,Temple,0,1
+91,3,"Sep 24, 1949",Texas Tech,7,Texas A&M,26,1
+92,3,"Sep 24, 1949",John Carroll,7,UTEP,33,1
+93,3,"Sep 24, 1949",Tulane,28,Alabama,14,1
+94,3,"Sep 24, 1949",UCLA,41,Iowa,25,1
+95,3,"Sep 24, 1949",Pacific Submarines,7,Utah State,26,1
+96,3,"Sep 24, 1949",Penn State,6,Villanova,27,0
+97,3,"Sep 24, 1949",Virginia,27,George Washington,13,0
+98,3,"Sep 24, 1949",Montana,7,Washington State,13,1
+99,3,"Sep 24, 1949",Wisconsin,41,Marquette,0,0
+100,3,"Sep 24, 1949",Wyoming,41,New Mexico,14,1
+101,3,"Sep 24, 1949",Yale,26,Connecticut,0,0
+102,3,"Sep 25, 1949",Nevada,53,Portland,27,1
+103,3,"Sep 25, 1949",San Francisco,34,St. Bonaventure,21,0
+104,4,"Sep 30, 1949",Wake Forest,7,Boston College,13,1
+105,4,"Sep 30, 1949",South Carolina,7,Furman,14,0
+106,4,"Sep 30, 1949",Georgetown,7,Maryland,33,1
+107,4,"Sep 30, 1949",Miami,52,Rollins,13,0
+108,4,"Sep 30, 1949",New Mexico,14,New Mexico State,13,1
+109,4,"Sep 30, 1949",Truman State,6,Saint Louis,48,1
+110,4,"Sep 30, 1949",San Francisco,27,Loyola Marymount,12,0
+111,4,"Sep 30, 1949",UCLA,35,Oregon,27,0
+112,4,"Sep 30, 1949",Detroit Mercy,7,Villanova,34,0
+113,4,"Oct 1, 1949",TCU,7,Arkansas,27,1
+114,4,"Oct 1, 1949",Penn State,7,Army,42,1
+115,4,"Oct 1, 1949",Mississippi State,6,Baylor,14,0
+116,4,"Oct 1, 1949",Holy Cross,6,Brown,28,1
+117,4,"Oct 1, 1949",Bucknell,14,New York University,0,0
+118,4,"Oct 1, 1949",California,41,Oregon State,0,1
+119,4,"Oct 1, 1949",Citadel,14,Newberry,12,0
+120,4,"Oct 1, 1949",Clemson,7,NC State,6,1
+121,4,"Oct 1, 1949",Harvard,7,Columbia,14,1
+122,4,"Oct 1, 1949",Cornell,39,Colgate,27,0
+123,4,"Oct 1, 1949",Richmond,7,Delaware,21,1
+124,4,"Oct 1, 1949",Bradley,7,Drake,17,0
+125,4,"Oct 1, 1949",Tennessee,7,Duke,21,0
+126,4,"Oct 1, 1949",Muhlenberg,6,Duquesne,14,0
+127,4,"Oct 1, 1949",Tulsa,7,Florida,40,0
+128,4,"Oct 1, 1949",Hardin-Simmons,34,Arizona State,13,0
+129,4,"Oct 1, 1949",Wichita State,6,Houston,26,1
+130,4,"Oct 1, 1949",Purdue,7,Iowa,21,0
+131,4,"Oct 1, 1949",Kansas,6,Iowa State,19,0
+132,4,"Oct 1, 1949",Kansas State,27,Colorado,13,0
+133,4,"Oct 1, 1949",Kentucky,47,Ole Miss,0,1
+134,4,"Oct 1, 1949",Rice,7,LSU,14,1
+135,4,"Oct 1, 1949",Stanford,7,Michigan,27,0
+136,4,"Oct 1, 1949",Marquette,7,Michigan State,48,1
+137,4,"Oct 1, 1949",Nebraska,6,Minnesota,28,0
+138,4,"Oct 1, 1949",Montana,16,Utah State,13,1
+139,4,"Oct 1, 1949",Princeton,7,Navy,28,1
+140,4,"Oct 1, 1949",North Carolina,21,Georgia,14,0
+141,4,"Oct 1, 1949",Washington,7,Notre Dame,27,0
+142,4,"Oct 1, 1949",Indiana,7,Ohio State,46,1
+143,4,"Oct 1, 1949",Oklahoma,33,Texas A&M,13,0
+144,4,"Oct 1, 1949",Oklahoma State,48,Denver,2,1
+145,4,"Oct 1, 1949",Pennsylvania,21,Dartmouth,0,0
+146,4,"Oct 1, 1949",Northwestern,7,Pitt,16,0
+147,4,"Oct 1, 1949",Davidson,7,Presbyterian,27,0
+148,4,"Oct 1, 1949",San Jose State,40,BYU,21,1
+149,4,"Oct 1, 1949",Santa Clara,53,Fresno State,0,1
+150,4,"Oct 1, 1949",Washington State,7,USC,35,1
+151,4,"Oct 1, 1949",SMU,28,Missouri,27,0
+152,4,"Oct 1, 1949",Syracuse,20,Lafayette,13,0
+153,4,"Oct 1, 1949",Rutgers,7,Temple,14,1
+154,4,"Oct 1, 1949",Idaho,7,Texas,56,1
+155,4,"Oct 1, 1949",Texas Tech,35,West Texas State,19,0
+156,4,"Oct 1, 1949",Hawaii,7,UTEP,14,1
+157,4,"Oct 1, 1949",Tulane,18,Georgia Tech,0,0
+158,4,"Oct 1, 1949",Arizona,12,Utah,12,0
+159,4,"Oct 1, 1949",Alabama,7,Vanderbilt,14,1
+160,4,"Oct 1, 1949",Virginia,21,Miami (OH),18,0
+161,4,"Oct 1, 1949",George Washington,7,Virginia Military Institute,14,1
+162,4,"Oct 1, 1949",West Virginia,28,Washington & Lee,20,0
+163,4,"Oct 1, 1949",Western State,25,Northern Arizona,14,1
+164,4,"Oct 1, 1949",William & Mary,39,Virginia Tech,13,0
+165,4,"Oct 1, 1949",Illinois,13,Wisconsin,13,0
+166,4,"Oct 1, 1949",Wyoming,8,Colorado State,0,1
+167,4,"Oct 2, 1949",Saint Mary's (CA),20,Nevada,14,0
+168,5,"Oct 6, 1949",New Mexico State,45,New Mexico Military,28,0
+169,5,"Oct 7, 1949",Duquesne,8,Alabama,48,1
+170,5,"Oct 7, 1949",Hawaii,27,Denver,14,1
+171,5,"Oct 7, 1949",Loyola Marymount,52,Fresno State,13,0
+172,5,"Oct 7, 1949",San Francisco,38,Detroit Mercy,14,1
+173,5,"Oct 7, 1949",Temple,27,Syracuse,14,1
+174,5,"Oct 8, 1949",Arizona State,62,Northern Arizona,6,0
+175,5,"Oct 8, 1949",Michigan,7,Army,21,0
+176,5,"Oct 8, 1949",Baylor,35,Arkansas,13,0
+177,5,"Oct 8, 1949",Boston University,40,Colgate,21,1
+178,5,"Oct 8, 1949",Brown,46,Rhode Island,0,0
+179,5,"Oct 8, 1949",California,35,Wisconsin,20,1
+180,5,"Oct 8, 1949",Colorado State,27,Montana,12,0
+181,5,"Oct 8, 1949",Cornell,33,Harvard,14,1
+182,5,"Oct 8, 1949",Holy Cross,7,Dartmouth,31,1
+183,5,"Oct 8, 1949",Davidson,20,NC State,14,0
+184,5,"Oct 8, 1949",South Dakota,6,Drake,48,1
+185,5,"Oct 8, 1949",Auburn,14,Florida,14,0
+186,5,"Oct 8, 1949",Merchant Marine,9,Fordham,44,0
+187,5,"Oct 8, 1949",Wake Forest,6,Georgetown,12,0
+188,5,"Oct 8, 1949",Georgia Tech,36,Washington & Lee,0,0
+189,5,"Oct 8, 1949",Hardin-Simmons,35,Arizona,0,0
+190,5,"Oct 8, 1949",Louisiana,7,Houston,28,0
+191,5,"Oct 8, 1949",Illinois,20,Iowa,14,1
+192,5,"Oct 8, 1949",Colorado,6,Iowa State,13,0
+193,5,"Oct 8, 1949",Kansas,21,George Washington,14,0
+194,5,"Oct 8, 1949",Kentucky,25,Georgia,0,0
+195,5,"Oct 8, 1949",LSU,34,Texas A&M,0,0
+196,5,"Oct 8, 1949",Saint Louis,7,Marquette,62,1
+197,5,"Oct 8, 1949",Miami,26,Louisville,0,1
+198,5,"Oct 8, 1949",Maryland,7,Michigan State,14,1
+199,5,"Oct 8, 1949",Northwestern,7,Minnesota,21,1
+200,5,"Oct 8, 1949",Clemson,7,Mississippi State,7,0
+201,5,"Oct 8, 1949",Oklahoma State,7,Missouri,21,1
+202,5,"Oct 8, 1949",Navy,28,Duke,14,0
+203,5,"Oct 8, 1949",Kansas State,6,Nebraska,13,0
+204,5,"Oct 8, 1949",New York University,39,Brooklyn,13,0
+205,5,"Oct 8, 1949",North Carolina,28,South Carolina,13,1
+206,5,"Oct 8, 1949",Notre Dame,35,Purdue,12,1
+207,5,"Oct 8, 1949",USC,13,Ohio State,13,0
+208,5,"Oct 8, 1949",Oklahoma,20,Texas,14,0
+209,5,"Oct 8, 1949",Oregon,21,Washington State,0,1
+210,5,"Oct 8, 1949",Oregon State,7,Washington,3,1
+211,5,"Oct 8, 1949",Nevada,6,Pacific,47,1
+212,5,"Oct 8, 1949",Penn State,32,Boston College,14,0
+213,5,"Oct 8, 1949",Pennsylvania,14,Princeton,13,1
+214,5,"Oct 8, 1949",West Virginia,7,Pitt,20,0
+215,5,"Oct 8, 1949",Rice,55,New Mexico,0,0
+216,5,"Oct 8, 1949",Richmond,12,Furman,0,0
+217,5,"Oct 8, 1949",Rutgers,40,Lehigh,27,0
+218,5,"Oct 8, 1949",Chattanooga,7,Tennessee,39,1
+219,5,"Oct 8, 1949",Indiana,6,TCU,13,0
+220,5,"Oct 8, 1949",Texas Tech,15,Tulsa,0,0
+221,5,"Oct 8, 1949",West Texas State,7,UTEP,34,0
+222,5,"Oct 8, 1949",Tulane,40,Southeastern Louisiana,0,0
+223,5,"Oct 8, 1949",Stanford,7,UCLA,14,0
+224,5,"Oct 8, 1949",Utah,38,BYU,0,0
+225,5,"Oct 8, 1949",Vanderbilt,28,Ole Miss,27,0
+226,5,"Oct 8, 1949",Villanova,28,Saint Mary's (CA),20,0
+227,5,"Oct 8, 1949",Virginia,26,Virginia Tech,0,0
+228,5,"Oct 8, 1949",Wichita State,21,Bradley,13,0
+229,5,"Oct 8, 1949",Virginia Military Institute,6,William & Mary,54,1
+230,5,"Oct 8, 1949",Wyoming,48,Montana State,0,0
+231,5,"Oct 8, 1949",Columbia,7,Yale,33,0
+232,5,"Oct 9, 1949",Santa Clara,26,Portland,13,0
+233,6,"Oct 14, 1949",Boston University,52,West Virginia,20,0
+234,6,"Oct 14, 1949",New York University,6,Georgetown,21,1
+235,6,"Oct 14, 1949",Georgia,7,LSU,0,0
+236,6,"Oct 14, 1949",Boston College,25,Ole Miss,25,0
+237,6,"Oct 14, 1949",Presbyterian,20,Furman,13,1
+238,6,"Oct 14, 1949",Purdue,14,Miami,0,1
+239,6,"Oct 14, 1949",San Francisco,27,San Jose State,20,1
+240,6,"Oct 14, 1949",Temple,20,Bucknell,19,0
+241,6,"Oct 14, 1949",Tulsa,21,Villanova,19,1
+242,6,"Oct 15, 1949",Arizona State,49,BYU,21,0
+243,6,"Oct 15, 1949",Army,54,Harvard,14,1
+244,6,"Oct 15, 1949",Texas Tech,7,Baylor,28,0
+245,6,"Oct 15, 1949",Washington & Jefferson,7,Bradley,19,1
+246,6,"Oct 15, 1949",California,16,USC,10,0
+247,6,"Oct 15, 1949",Cincinnati,19,Mississippi State,0,0
+248,6,"Oct 15, 1949",Colorado Mines,7,Colorado State,27,1
+249,6,"Oct 15, 1949",Cornell,48,Yale,14,1
+250,6,"Oct 15, 1949",Dartmouth,27,Colgate,13,0
+251,6,"Oct 15, 1949",Denver,20,Utah,18,1
+252,6,"Oct 15, 1949",Duke,14,NC State,13,0
+253,6,"Oct 15, 1949",Duquesne,40,Holy Cross,14,1
+254,6,"Oct 15, 1949",Fordham,33,Scranton,13,1
+255,6,"Oct 15, 1949",George Washington,24,Virginia Tech,14,1
+256,6,"Oct 15, 1949",Georgia Tech,35,Auburn,21,0
+257,6,"Oct 15, 1949",New Mexico,7,Hardin-Simmons,34,1
+258,6,"Oct 15, 1949",Houston,14,West Texas State,13,0
+259,6,"Oct 15, 1949",Indiana,9,Iowa,35,1
+260,6,"Oct 15, 1949",Iowa State,25,Kansas State,21,0
+261,6,"Oct 15, 1949",Kentucky,44,Citadel,0,0
+262,6,"Oct 15, 1949",Marquette,24,Detroit Mercy,14,0
+263,6,"Oct 15, 1949",Michigan State,42,William & Mary,13,0
+264,6,"Oct 15, 1949",Minnesota,27,Ohio State,0,1
+265,6,"Oct 15, 1949",Missouri,27,Illinois,20,1
+266,6,"Oct 15, 1949",Wichita State,7,Nevada,20,1
+267,6,"Oct 15, 1949",North Carolina,28,Wake Forest,14,0
+268,6,"Oct 15, 1949",Northwestern,21,Michigan,20,0
+269,6,"Oct 15, 1949",Tulane,7,Notre Dame,46,1
+270,6,"Oct 15, 1949",Oklahoma,48,Kansas,26,0
+271,6,"Oct 15, 1949",Oklahoma State,28,Drake,0,0
+272,6,"Oct 15, 1949",Oregon,42,Colorado,14,0
+273,6,"Oct 15, 1949",Oregon State,63,Montana,14,0
+274,6,"Oct 15, 1949",Nebraska,7,Penn State,22,1
+275,6,"Oct 15, 1949",Columbia,7,Pennsylvania,27,1
+276,6,"Oct 15, 1949",Pitt,35,Miami (OH),26,0
+277,6,"Oct 15, 1949",Princeton,27,Brown,14,0
+278,6,"Oct 15, 1949",Rice,41,SMU,27,1
+279,6,"Oct 15, 1949",Saint Louis,41,Davidson,12,0
+280,6,"Oct 15, 1949",Saint Mary's (CA),27,Loyola Marymount,14,1
+281,6,"Oct 15, 1949",San Diego State,39,New Mexico State,18,0
+282,6,"Oct 15, 1949",Santa Clara,14,UCLA,0,1
+283,6,"Oct 15, 1949",Stanford,40,Washington,0,1
+284,6,"Oct 15, 1949",Rutgers,9,Syracuse,21,0
+285,6,"Oct 15, 1949",Alabama,7,Tennessee,7,0
+286,6,"Oct 15, 1949",Texas,27,Arkansas,14,1
+287,6,"Oct 15, 1949",Texas A&M,6,TCU,28,1
+288,6,"Oct 15, 1949",UTEP,28,Arizona,0,1
+289,6,"Oct 15, 1949",Vanderbilt,22,Florida,17,1
+290,6,"Oct 15, 1949",Washington & Lee,7,Virginia,27,1
+291,6,"Oct 15, 1949",Richmond,7,Virginia Military Institute,14,0
+292,6,"Oct 15, 1949",Washington State,35,Idaho,13,1
+293,6,"Oct 15, 1949",Whittier,20,Northern Arizona,13,1
+294,6,"Oct 15, 1949",Wisconsin,48,Navy,13,0
+295,6,"Oct 15, 1949",Wyoming,27,Utah State,0,0
+296,7,"Oct 20, 1949",South Carolina,27,Clemson,13,0
+297,7,"Oct 21, 1949",Detroit Mercy,41,Wayne State,0,0
+298,7,"Oct 21, 1949",Citadel,7,Furman,19,0
+299,7,"Oct 21, 1949",George Washington,21,Washington & Lee,19,0
+300,7,"Oct 21, 1949",Boston College,7,Georgetown,10,0
+301,7,"Oct 21, 1949",Georgia,9,Miami,13,1
+302,7,"Oct 22, 1949",Mississippi State,6,Alabama,35,1
+303,7,"Oct 22, 1949",Arkansas,7,Vanderbilt,6,1
+304,7,"Oct 22, 1949",Army,63,Columbia,6,0
+305,7,"Oct 22, 1949",Baylor,21,Texas A&M,0,1
+306,7,"Oct 22, 1949",Boston University,38,New York University,0,0
+307,7,"Oct 22, 1949",Brown,48,Lehigh,0,0
+308,7,"Oct 22, 1949",Washington,7,California,21,1
+309,7,"Oct 22, 1949",Utah State,7,Colorado,20,0
+310,7,"Oct 22, 1949",Cornell,14,Princeton,12,0
+311,7,"Oct 22, 1949",Dartmouth,27,Harvard,13,1
+312,7,"Oct 22, 1949",BYU,7,Denver,35,1
+313,7,"Oct 22, 1949",Drake,27,Saint Louis,14,0
+314,7,"Oct 22, 1949",Virginia Tech,7,Duke,55,1
+315,7,"Oct 22, 1949",Fordham,47,Syracuse,21,0
+316,7,"Oct 22, 1949",Georgia Tech,43,Florida,14,1
+317,7,"Oct 22, 1949",Houston,27,Hardin-Simmons,27,0
+318,7,"Oct 22, 1949",Idaho,47,Montana,19,1
+319,7,"Oct 22, 1949",Illinois,19,Purdue,0,1
+320,7,"Oct 22, 1949",Indiana,48,Pitt,14,0
+321,7,"Oct 22, 1949",Iowa,28,Northwestern,21,0
+322,7,"Oct 22, 1949",Kansas,55,Oklahoma State,14,1
+323,7,"Oct 22, 1949",North Carolina,7,LSU,13,1
+324,7,"Oct 22, 1949",NC State,6,Maryland,14,0
+325,7,"Oct 22, 1949",Memphis,21,Kansas State,14,0
+326,7,"Oct 22, 1949",Minnesota,7,Michigan,14,1
+327,7,"Oct 22, 1949",Michigan State,24,Penn State,0,0
+328,7,"Oct 22, 1949",Missouri,32,Iowa State,0,1
+329,7,"Oct 22, 1949",Nevada,34,Fresno State,13,1
+330,7,"Oct 22, 1949",Redlands,20,Northern Arizona,20,0
+331,7,"Oct 22, 1949",Ohio State,21,Wisconsin,0,1
+332,7,"Oct 22, 1949",Oklahoma,48,Nebraska,0,1
+333,7,"Oct 22, 1949",Navy,7,Pennsylvania,28,1
+334,7,"Oct 22, 1949",Rice,17,Texas,15,1
+335,7,"Oct 22, 1949",Davidson,7,Richmond,28,0
+336,7,"Oct 22, 1949",Rutgers,35,Colgate,13,1
+337,7,"Oct 22, 1949",San Francisco,41,Saint Mary's (CA),14,1
+338,7,"Oct 22, 1949",Santa Clara,27,Loyola Marymount,19,1
+339,7,"Oct 22, 1949",USC,40,Oregon,13,0
+340,7,"Oct 22, 1949",Kentucky,7,SMU,20,1
+341,7,"Oct 22, 1949",Oregon State,7,Stanford,27,1
+342,7,"Oct 22, 1949",Rhode Island,6,Temple,47,1
+343,7,"Oct 22, 1949",Tennessee Tech,6,Tennessee,36,1
+344,7,"Oct 22, 1949",TCU,33,Ole Miss,27,0
+345,7,"Oct 22, 1949",Arizona,7,Texas Tech,27,1
+346,7,"Oct 22, 1949",UTEP,7,New Mexico,0,0
+347,7,"Oct 22, 1949",Auburn,6,Tulane,14,1
+348,7,"Oct 22, 1949",Bradley,6,Tulsa,55,1
+349,7,"Oct 22, 1949",UCLA,27,Washington State,20,1
+350,7,"Oct 22, 1949",Villanova,20,Duquesne,0,1
+351,7,"Oct 22, 1949",Virginia,32,Virginia Military Institute,13,0
+352,7,"Oct 22, 1949",Wake Forest,55,William & Mary,28,0
+353,7,"Oct 22, 1949",West Texas State,55,Trinity (Texas),20,0
+354,7,"Oct 22, 1949",West Virginia,47,Quantico Marines,26,0
+355,7,"Oct 22, 1949",Wichita State,91,Northern State,0,0
+356,7,"Oct 22, 1949",Wyoming,13,Utah,0,0
+357,7,"Oct 22, 1949",Holy Cross,7,Yale,14,1
+358,8,"Oct 28, 1949",Oklahoma State,7,Detroit Mercy,13,1
+359,8,"Oct 28, 1949",Lafayette,7,George Washington,14,1
+360,8,"Oct 28, 1949",Villanova,28,Boston College,14,1
+361,8,"Oct 29, 1949",Georgia,7,Alabama,14,0
+362,8,"Oct 29, 1949",Arizona State,28,New Mexico,19,1
+363,8,"Oct 29, 1949",Texas A&M,6,Arkansas,27,1
+364,8,"Oct 29, 1949",Army,40,Virginia Military Institute,14,0
+365,8,"Oct 29, 1949",Baylor,40,TCU,14,0
+366,8,"Oct 29, 1949",Scranton,6,Boston University,46,1
+367,8,"Oct 29, 1949",Brown,28,Western Reserve,14,1
+368,8,"Oct 29, 1949",California,35,UCLA,21,1
+369,8,"Oct 29, 1949",Utah,7,Colorado,14,1
+370,8,"Oct 29, 1949",Utah State,6,Colorado State,28,1
+371,8,"Oct 29, 1949",Cornell,54,Columbia,0,0
+372,8,"Oct 29, 1949",Dartmouth,34,Yale,13,1
+373,8,"Oct 29, 1949",Arizona,6,Denver,20,1
+374,8,"Oct 29, 1949",Saint Mary's (CA),13,Drake,13,0
+375,8,"Oct 29, 1949",Duke,27,Georgia Tech,14,1
+376,8,"Oct 29, 1949",Duquesne,51,Saint Louis,14,0
+377,8,"Oct 29, 1949",Florida,28,Furman,27,0
+378,8,"Oct 29, 1949",Fordham,42,Georgetown,0,0
+379,8,"Oct 29, 1949",Hardin-Simmons,33,UTEP,14,0
+380,8,"Oct 29, 1949",Harvard,22,Holy Cross,14,0
+381,8,"Oct 29, 1949",Idaho,49,Portland,21,0
+382,8,"Oct 29, 1949",Iowa,34,Oregon,31,0
+383,8,"Oct 29, 1949",Kansas,38,Kansas State,0,0
+384,8,"Oct 29, 1949",Cincinnati,7,Kentucky,14,1
+385,8,"Oct 29, 1949",New York University,6,Lehigh,21,1
+386,8,"Oct 29, 1949",Ole Miss,7,LSU,34,1
+387,8,"Oct 29, 1949",Louisville,35,Bradley,12,1
+388,8,"Oct 29, 1949",Loyola Marymount,34,San Diego State,20,1
+389,8,"Oct 29, 1949",Marquette,68,Northern Colorado,13,0
+390,8,"Oct 29, 1949",South Carolina,7,Maryland,44,1
+391,8,"Oct 29, 1949",Michigan,13,Illinois,0,1
+392,8,"Oct 29, 1949",Michigan State,62,Temple,14,0
+393,8,"Oct 29, 1949",Midwestern Texas State,33,Houston,21,0
+394,8,"Oct 29, 1949",Missouri,21,Nebraska,20,0
+395,8,"Oct 29, 1949",Montana,34,Montana State,12,0
+396,8,"Oct 29, 1949",New Mexico State,40,New Mexico Highlands,12,0
+397,8,"Oct 29, 1949",NC State,14,Virginia Tech,13,0
+398,8,"Oct 29, 1949",Notre Dame,40,Navy,0,1
+399,8,"Oct 29, 1949",Northwestern,7,Ohio State,24,1
+400,8,"Oct 29, 1949",Iowa State,7,Oklahoma,34,1
+401,8,"Oct 29, 1949",Washington State,6,Oregon State,35,1
+402,8,"Oct 29, 1949",Penn State,33,Syracuse,21,0
+403,8,"Oct 29, 1949",Pitt,22,Pennsylvania,21,1
+404,8,"Oct 29, 1949",Princeton,34,Rutgers,14,0
+405,8,"Oct 29, 1949",Minnesota,7,Purdue,13,0
+406,8,"Oct 29, 1949",Rice,28,Texas Tech,0,0
+407,8,"Oct 29, 1949",Stanford,7,Santa Clara,7,0
+408,8,"Oct 29, 1949",USC,40,Washington,28,1
+409,8,"Oct 29, 1949",SMU,7,Texas,6,0
+410,8,"Oct 29, 1949",North Carolina,6,Tennessee,35,0
+411,8,"Oct 29, 1949",Mississippi State,6,Tulane,54,1
+412,8,"Oct 29, 1949",Auburn,7,Vanderbilt,26,1
+413,8,"Oct 29, 1949",Virginia,19,West Virginia,14,0
+414,8,"Oct 29, 1949",Wake Forest,35,Clemson,21,1
+415,8,"Oct 29, 1949",Washington & Lee,53,Davidson,0,0
+416,8,"Oct 29, 1949",Wichita State,27,Tulsa,21,1
+417,8,"Oct 29, 1949",William & Mary,34,Richmond,0,1
+418,8,"Oct 29, 1949",Wisconsin,30,Indiana,14,1
+419,8,"Oct 29, 1949",Citadel,7,Wofford,21,1
+420,8,"Oct 29, 1949",Wyoming,45,BYU,0,0
+421,8,"Oct 30, 1949",San Francisco,41,Nevada,13,0
+422,9,"Nov 4, 1949",Presbyterian,7,Citadel,27,1
+423,9,"Nov 4, 1949",Detroit Mercy,6,Miami,27,1
+424,9,"Nov 5, 1949",Arizona,46,New Mexico,14,0
+425,9,"Nov 5, 1949",Arizona State,68,New Mexico State,32,0
+426,9,"Nov 5, 1949",Army,35,Fordham,0,0
+427,9,"Nov 5, 1949",Mississippi State,6,Auburn,25,1
+428,9,"Nov 5, 1949",Boston College,40,Clemson,27,1
+429,9,"Nov 5, 1949",Temple,7,Boston University,28,1
+430,9,"Nov 5, 1949",Brown,14,Yale,0,1
+431,9,"Nov 5, 1949",California,33,Washington State,14,0
+432,9,"Nov 5, 1949",Colorado State,21,Utah,12,1
+433,9,"Nov 5, 1949",Syracuse,7,Cornell,33,1
+434,9,"Nov 5, 1949",Dartmouth,35,Columbia,14,1
+435,9,"Nov 5, 1949",Bradley,7,Delaware,47,0
+436,9,"Nov 5, 1949",Georgia,7,Florida,28,1
+437,9,"Nov 5, 1949",Georgia Tech,30,Tennessee,13,1
+438,9,"Nov 5, 1949",Holy Cross,35,Colgate,27,0
+439,9,"Nov 5, 1949",Illinois,33,Indiana,14,0
+440,9,"Nov 5, 1949",Drake,8,Iowa State,21,0
+441,9,"Nov 5, 1949",Kansas,27,Nebraska,13,1
+442,9,"Nov 5, 1949",Xavier,7,Kentucky,21,0
+443,9,"Nov 5, 1949",LSU,33,Vanderbilt,13,0
+444,9,"Nov 5, 1949",Loyola Marymount,39,Hardin-Simmons,35,0
+445,9,"Nov 5, 1949",Maryland,40,George Washington,14,0
+446,9,"Nov 5, 1949",Michigan,20,Purdue,12,0
+447,9,"Nov 5, 1949",Iowa,7,Minnesota,55,1
+448,9,"Nov 5, 1949",Ole Miss,47,Chattanooga,27,0
+449,9,"Nov 5, 1949",Missouri,20,Colorado,13,1
+450,9,"Nov 5, 1949",Eastern Washington,6,Montana,19,1
+451,9,"Nov 5, 1949",Tulane,21,Navy,21,0
+452,9,"Nov 5, 1949",New York University,39,Merchant Marine,0,1
+453,9,"Nov 5, 1949",North Carolina,20,William & Mary,14,1
+454,9,"Nov 5, 1949",Richmond,6,NC State,20,1
+455,9,"Nov 5, 1949",Notre Dame,34,Michigan State,21,1
+456,9,"Nov 5, 1949",Ohio State,14,Pitt,10,1
+457,9,"Nov 5, 1949",Oklahoma,39,Kansas State,0,1
+458,9,"Nov 5, 1949",Oregon State,35,Idaho,25,1
+459,9,"Nov 5, 1949",Penn State,34,West Virginia,14,1
+460,9,"Nov 5, 1949",Princeton,33,Harvard,13,1
+461,9,"Nov 5, 1949",Rice,14,Arkansas,0,0
+462,9,"Nov 5, 1949",Rutgers,14,Lafayette,0,1
+463,9,"Nov 5, 1949",Saint Mary's (CA),41,Denver,21,0
+464,9,"Nov 5, 1949",San Francisco,7,Santa Clara,13,1
+465,9,"Nov 5, 1949",South Carolina,6,Marquette,3,1
+466,9,"Nov 5, 1949",Texas A&M,27,SMU,27,0
+467,9,"Nov 5, 1949",St. Bonaventure,20,Houston,14,0
+468,9,"Nov 5, 1949",Stanford,34,USC,13,1
+469,9,"Nov 5, 1949",Texas,20,Baylor,0,0
+470,9,"Nov 5, 1949",Texas Tech,13,UTEP,0,1
+471,9,"Nov 5, 1949",Oklahoma State,13,Tulsa,13,0
+472,9,"Nov 5, 1949",BYU,3,Utah State,22,0
+473,9,"Nov 5, 1949",Villanova,29,Georgetown,14,1
+474,9,"Nov 5, 1949",Virginia,26,Pennsylvania,14,1
+475,9,"Nov 5, 1949",Davidson,6,Virginia Military Institute,47,1
+476,9,"Nov 5, 1949",Duke,7,Wake Forest,27,0
+477,9,"Nov 5, 1949",Washington,28,Oregon,27,1
+478,9,"Nov 5, 1949",Washington & Lee,6,Virginia Tech,6,0
+479,9,"Nov 5, 1949",Northern Arizona,6,West Texas State,47,0
+480,9,"Nov 5, 1949",Saint Louis,21,Wichita State,21,0
+481,9,"Nov 5, 1949",Northwestern,6,Wisconsin,14,0
+482,9,"Nov 5, 1949",Wyoming,103,Northern Colorado,0,1
+483,9,"Nov 6, 1949",Dayton,16,Nevada,14,0
+484,10,"Nov 11, 1949",Colorado State,16,BYU,14,1
+485,10,"Nov 11, 1949",Loyola Marymount,13,Nevada,12,0
+486,10,"Nov 11, 1949",South Carolina,7,Miami,13,1
+487,10,"Nov 12, 1949",Georgia Tech,7,Alabama,20,1
+488,10,"Nov 12, 1949",Arizona,7,Arizona State,34,1
+489,10,"Nov 12, 1949",Army,14,Pennsylvania,13,1
+490,10,"Nov 12, 1949",Baylor,32,Wyoming,13,0
+491,10,"Nov 12, 1949",Boston College,20,Fordham,12,0
+492,10,"Nov 12, 1949",South Dakota State,7,Bradley,32,1
+493,10,"Nov 12, 1949",Brown,28,Harvard,14,1
+494,10,"Nov 12, 1949",California,41,Oregon,14,0
+495,10,"Nov 12, 1949",Citadel,19,Virginia Military Institute,14,0
+496,10,"Nov 12, 1949",Clemson,33,Duquesne,20,0
+497,10,"Nov 12, 1949",Cornell,7,Dartmouth,16,1
+498,10,"Nov 12, 1949",Washington & Lee,7,Delaware,13,0
+499,10,"Nov 12, 1949",Drake,7,Wichita State,6,1
+500,10,"Nov 12, 1949",Duke,35,George Washington,0,1
+501,10,"Nov 12, 1949",Davidson,6,Furman,21,1
+502,10,"Nov 12, 1949",Georgetown,28,Denver,13,1
+503,10,"Nov 12, 1949",Georgia,20,Auburn,20,0
+504,10,"Nov 12, 1949",Kentucky,35,Florida,0,1
+505,10,"Nov 12, 1949",Mississippi State,7,LSU,34,1
+506,10,"Nov 12, 1949",Maryland,14,Boston University,13,1
+507,10,"Nov 12, 1949",Indiana,7,Michigan,20,1
+508,10,"Nov 12, 1949",Pitt,7,Minnesota,24,0
+509,10,"Nov 12, 1949",Navy,34,Columbia,0,0
+510,10,"Nov 12, 1949",Nebraska,7,Iowa State,0,1
+511,10,"Nov 12, 1949",New Mexico,17,Colorado,15,0
+512,10,"Nov 12, 1949",New Mexico State,35,Northern Arizona,0,0
+513,10,"Nov 12, 1949",NC State,27,Wake Forest,14,0
+514,10,"Nov 12, 1949",North Texas,28,Houston,23,0
+515,10,"Nov 12, 1949",Northwestern,39,Colgate,20,0
+516,10,"Nov 12, 1949",North Carolina,6,Notre Dame,42,1
+517,10,"Nov 12, 1949",Ohio State,30,Illinois,17,0
+518,10,"Nov 12, 1949",Missouri,7,Oklahoma,27,0
+519,10,"Nov 12, 1949",Oklahoma State,26,Kansas State,14,1
+520,10,"Nov 12, 1949",Oregon State,25,Michigan State,20,0
+521,10,"Nov 12, 1949",Utah,6,Pacific,45,1
+522,10,"Nov 12, 1949",Temple,7,Penn State,28,0
+523,10,"Nov 12, 1949",Princeton,21,Yale,13,0
+524,10,"Nov 12, 1949",Marquette,7,Purdue,41,1
+525,10,"Nov 12, 1949",Rice,13,Texas A&M,0,0
+526,10,"Nov 12, 1949",New York University,9,Rutgers,33,1
+527,10,"Nov 12, 1949",Saint Mary's (CA),6,Santa Clara,19,0
+528,10,"Nov 12, 1949",Arkansas,6,SMU,34,1
+529,10,"Nov 12, 1949",Stanford,63,Idaho,0,0
+530,10,"Nov 12, 1949",Syracuse,47,Holy Cross,13,0
+531,10,"Nov 12, 1949",Ole Miss,7,Tennessee,35,1
+532,10,"Nov 12, 1949",TCU,14,Texas,13,1
+533,10,"Nov 12, 1949",West Virginia,13,UTEP,13,0
+534,10,"Nov 12, 1949",Tulane,41,Vanderbilt,14,1
+535,10,"Nov 12, 1949",Tulsa,10,San Francisco,0,0
+536,10,"Nov 12, 1949",UCLA,47,Washington,26,0
+537,10,"Nov 12, 1949",Utah State,19,Montana State,14,0
+538,10,"Nov 12, 1949",Virginia Tech,28,Richmond,13,1
+539,10,"Nov 12, 1949",Hardin-Simmons,7,West Texas State,19,1
+540,10,"Nov 12, 1949",Wisconsin,35,Iowa,13,0
+541,10,"Nov 13, 1949",Detroit Mercy,31,Saint Louis,14,0
+542,11,"Nov 15, 1949",Colgate,7,Syracuse,35,1
+543,11,"Nov 18, 1949",Pepperdine,6,Loyola Marymount,20,1
+544,11,"Nov 18, 1949",Miami,28,Florida,13,0
+545,11,"Nov 18, 1949",San Jose State,40,Saint Mary's (CA),13,0
+546,11,"Nov 19, 1949",Alabama,34,Southern Miss,26,0
+547,11,"Nov 19, 1949",Baylor,35,SMU,26,1
+548,11,"Nov 19, 1949",Saint Louis,7,Bradley,29,0
+549,11,"Nov 19, 1949",Columbia,7,Brown,16,0
+550,11,"Nov 19, 1949",California,33,Stanford,14,1
+551,11,"Nov 19, 1949",Clemson,28,Furman,21,1
+552,11,"Nov 19, 1949",Colorado State,45,New Mexico State,0,1
+553,11,"Nov 19, 1949",Davidson,25,Rollins,0,1
+554,11,"Nov 19, 1949",Georgetown,7,George Washington,28,0
+555,11,"Nov 19, 1949",Georgia,40,Duquesne,0,0
+556,11,"Nov 19, 1949",South Carolina,3,Georgia Tech,13,1
+557,11,"Nov 19, 1949",Houston,28,Trinity (Texas),21,0
+558,11,"Nov 19, 1949",Southeastern Louisiana,7,LSU,48,1
+559,11,"Nov 19, 1949",Michigan State,75,Arizona,0,1
+560,11,"Nov 19, 1949",Wisconsin,6,Minnesota,14,1
+561,11,"Nov 19, 1949",Missouri,34,Kansas,28,1
+562,11,"Nov 19, 1949",BYU,6,Montana,25,1
+563,11,"Nov 19, 1949",Nebraska,25,Colorado,14,0
+564,11,"Nov 19, 1949",City College of New York,7,New York University,41,0
+565,11,"Nov 19, 1949",North Carolina,21,Duke,20,1
+566,11,"Nov 19, 1949",Northwestern,9,Illinois,7,1
+567,11,"Nov 19, 1949",Iowa,7,Notre Dame,28,1
+568,11,"Nov 19, 1949",Michigan,7,Ohio State,7,0
+569,11,"Nov 19, 1949",Oklahoma,28,Santa Clara,21,0
+570,11,"Nov 19, 1949",Oklahoma State,47,Wichita State,20,0
+571,11,"Nov 19, 1949",Oregon State,20,Oregon,10,1
+572,11,"Nov 19, 1949",Pitt,19,Penn State,0,0
+573,11,"Nov 19, 1949",Princeton,19,Dartmouth,13,0
+574,11,"Nov 19, 1949",Indiana,6,Purdue,14,0
+575,11,"Nov 19, 1949",Rice,20,TCU,14,1
+576,11,"Nov 19, 1949",Rutgers,35,Fordham,14,0
+577,11,"Nov 19, 1949",UCLA,7,USC,21,1
+578,11,"Nov 19, 1949",St. Bonaventure,19,Boston University,0,1
+579,11,"Nov 19, 1949",Holy Cross,7,Temple,20,0
+580,11,"Nov 19, 1949",Tennessee,6,Kentucky,0,1
+581,11,"Nov 19, 1949",Texas Tech,27,New Mexico,0,1
+582,11,"Nov 19, 1949",Tulane,28,Virginia,14,1
+583,11,"Nov 19, 1949",Tulsa,48,Kansas State,27,0
+584,11,"Nov 19, 1949",Marshall,6,Vanderbilt,27,1
+585,11,"Nov 19, 1949",Villanova,45,NC State,21,0
+586,11,"Nov 19, 1949",Washington,34,Washington State,21,0
+587,11,"Nov 19, 1949",West Virginia,28,Western Reserve,20,1
+588,11,"Nov 19, 1949",William & Mary,20,Arkansas,0,1
+589,11,"Nov 19, 1949",Harvard,6,Yale,29,1
+590,11,"Nov 20, 1949",San Francisco,39,Marquette,20,0
+591,12,"Nov 24, 1949",Chattanooga,13,Duquesne,0,0
+592,12,"Nov 24, 1949",Cornell,29,Pennsylvania,21,1
+593,12,"Nov 24, 1949",Wichita State,7,Detroit Mercy,33,0
+594,12,"Nov 24, 1949",Houston,35,Saint Louis,0,1
+595,12,"Nov 24, 1949",West Virginia,7,Maryland,47,1
+596,12,"Nov 24, 1949",Missouri,34,Kansas State,27,0
+597,12,"Nov 24, 1949",North Texas,7,Nevada,28,1
+598,12,"Nov 24, 1949",Texas,42,Texas A&M,14,1
+599,12,"Nov 24, 1949",Utah,34,Utah State,0,0
+600,12,"Nov 24, 1949",Virginia Tech,28,Virginia Military Institute,28,0
+601,12,"Nov 24, 1949",Washington & Lee,35,Richmond,14,1
+602,12,"Nov 24, 1949",Denver,6,Wyoming,25,0
+603,12,"Nov 25, 1949",Miami,6,Kentucky,21,0
+604,12,"Nov 26, 1949",Alabama,35,Florida,13,1
+605,12,"Nov 26, 1949",Tulsa,7,Arkansas,40,1
+606,12,"Nov 26, 1949",Army,38,Navy,0,0
+607,12,"Nov 26, 1949",Boston College,76,Holy Cross,0,0
+608,12,"Nov 26, 1949",Brown,41,Colgate,26,0
+609,12,"Nov 26, 1949",Citadel,25,Davidson,19,0
+610,12,"Nov 26, 1949",Auburn,20,Clemson,20,0
+611,12,"Nov 26, 1949",Colorado,7,Colorado State,14,0
+612,12,"Nov 26, 1949",New York University,6,Fordham,34,1
+613,12,"Nov 26, 1949",Georgia Tech,7,Georgia,6,0
+614,12,"Nov 26, 1949",Kansas,46,Arizona,0,1
+615,12,"Nov 26, 1949",LSU,21,Tulane,0,1
+616,12,"Nov 26, 1949",Arizona State,7,Loyola Marymount,27,0
+617,12,"Nov 26, 1949",Ole Miss,26,Mississippi State,0,1
+618,12,"Nov 26, 1949",Virginia,7,North Carolina,14,1
+619,12,"Nov 26, 1949",Notre Dame,32,USC,0,0
+620,12,"Nov 26, 1949",Oklahoma,41,Oklahoma State,0,0
+621,12,"Nov 26, 1949",Pepperdine,28,BYU,14,0
+622,12,"Nov 26, 1949",Baylor,7,Rice,21,1
+623,12,"Nov 26, 1949",South Carolina,27,Wake Forest,20,0
+624,12,"Nov 26, 1949",Tennessee,26,Vanderbilt,20,0
+625,12,"Nov 26, 1949",TCU,21,SMU,13,0
+626,12,"Nov 26, 1949",Texas Tech,23,Hardin-Simmons,13,0
+627,12,"Nov 26, 1949",New Mexico State,7,UTEP,69,1
+628,12,"Nov 26, 1949",West Texas State,41,New Mexico,13,1
+629,12,"Nov 26, 1949",NC State,7,William & Mary,33,1
+630,13,"Dec 2, 1949",Hardin-Simmons,66,Trinity (Texas),13,1
+631,13,"Dec 2, 1949",Maryland,13,Miami,0,1
+632,13,"Dec 3, 1949",Arizona State,27,Utah State,12,0
+633,13,"Dec 3, 1949",Auburn,14,Alabama,13,0
+634,13,"Dec 3, 1949",Notre Dame,27,SMU,20,1
+635,13,"Dec 3, 1949",South Carolina,42,Citadel,0,0
+636,14,"Dec 31, 1949",San Jose State,20,Texas Tech,13,0
+637,14,"Jan 1, 1950",Xavier,33,Arizona State,21,1
+638,15,"Jan 2, 1950",Missouri,7,Maryland,20,1
+639,15,"Jan 2, 1950",Ohio State,17,California,14,0
+640,15,"Jan 2, 1950",Oklahoma,35,LSU,0,0
+641,15,"Jan 2, 1950",Rice,27,North Carolina,13,0
+642,15,"Jan 2, 1950",Santa Clara,21,Kentucky,13,0
+643,15,"Jan 2, 1950",St. Vincent's (Pennsylvania),7,Emory & Henry,6,0
+644,15,"Jan 2, 1950",Stanford,74,Hawaii,20,1
+645,15,"Jan 2, 1950",UTEP,33,Georgetown,20,0

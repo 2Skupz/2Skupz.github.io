@@ -1,0 +1,641 @@
+0,1,"Sep 9, 1947",Santa Clara,6,SMU,22,0
+1,2,"Sep 19, 1947",Detroit Mercy,34,Central Michigan,14,0
+2,2,"Sep 19, 1947",Furman,7,Georgia,13,1
+3,2,"Sep 19, 1947",New Mexico State,7,McMurry,22,0
+4,2,"Sep 19, 1947",San Jose State,6,San Francisco,20,0
+5,2,"Sep 19, 1947",Drake,7,UTEP,19,0
+6,2,"Sep 20, 1947",Southern Miss,7,Alabama,34,1
+7,2,"Sep 20, 1947",Cal Poly,6,Arizona State,33,1
+8,2,"Sep 20, 1947",Arkansas,64,Northwestern State,0,0
+9,2,"Sep 20, 1947",Baylor,34,Stephen F. Austin,0,0
+10,2,"Sep 20, 1947",BYU,45,Western State,0,0
+11,2,"Sep 20, 1947",Santa Clara,7,California,33,1
+12,2,"Sep 20, 1947",Clemson,42,Presbyterian,0,0
+13,2,"Sep 20, 1947",Colorado State,20,Colorado Mines,12,0
+14,2,"Sep 20, 1947",Davidson,19,Elon,0,0
+15,2,"Sep 20, 1947",Duquesne,7,Geneva,0,0
+16,2,"Sep 20, 1947",Puget Sound,7,Idaho,27,1
+17,2,"Sep 20, 1947",Iowa,59,North Dakota State,0,0
+18,2,"Sep 20, 1947",Iowa State,31,Northern Iowa,14,0
+19,2,"Sep 20, 1947",Kentucky,7,Ole Miss,14,1
+20,2,"Sep 20, 1947",Missouri,19,Saint Louis,0,0
+21,2,"Sep 20, 1947",Montana,21,Eastern Washington,0,1
+22,2,"Sep 20, 1947",Nevada,50,Northern Arizona,0,0
+23,2,"Sep 20, 1947",Oklahoma State,12,Kansas State,0,1
+24,2,"Sep 20, 1947",Oregon,27,Montana State,14,0
+25,2,"Sep 20, 1947",Washington State,6,Penn State,27,1
+26,2,"Sep 20, 1947",Randolph-Macon,7,Richmond,28,1
+27,2,"Sep 20, 1947",Saint Mary's (CA),26,Portland,13,1
+28,2,"Sep 20, 1947",San Diego State,24,Utah State,19,1
+29,2,"Sep 20, 1947",Newberry,6,South Carolina,27,1
+30,2,"Sep 20, 1947",Texas,33,Texas Tech,0,0
+31,2,"Sep 20, 1947",Texas A&M,48,Southwestern (TX),0,0
+32,2,"Sep 20, 1947",Kansas,0,TCU,0,0
+33,2,"Sep 20, 1947",Tulsa,26,West Texas State,13,0
+34,2,"Sep 20, 1947",Villanova,60,Merchant Marine,0,0
+35,2,"Sep 20, 1947",Washington & Lee,13,Quantico Marines,0,0
+36,2,"Sep 20, 1947",Wichita State,33,Central Missouri State,0,0
+37,3,"Sep 26, 1947",Miami,7,Baylor,18,0
+38,3,"Sep 26, 1947",Boston College,32,Clemson,22,0
+39,3,"Sep 26, 1947",BYU,19,Montana State,14,0
+40,3,"Sep 26, 1947",Kansas,9,Denver,0,1
+41,3,"Sep 26, 1947",Mississippi State,19,Chattanooga,0,0
+42,3,"Sep 26, 1947",Northern Colorado,14,New Mexico State,13,0
+43,3,"Sep 26, 1947",Oklahoma,24,Detroit Mercy,20,1
+44,3,"Sep 26, 1947",Saint Louis,61,Missouri-Rolla,0,0
+45,3,"Sep 26, 1947",Niagara,7,Syracuse,14,1
+46,3,"Sep 26, 1947",Kansas State,6,UTEP,20,1
+47,3,"Sep 26, 1947",Iowa,7,UCLA,22,1
+48,3,"Sep 27, 1947",West Texas State,7,Abilene Christian,13,1
+49,3,"Sep 27, 1947",Wyoming,7,Arizona,27,1
+50,3,"Sep 27, 1947",Arizona State,25,New Mexico,12,1
+51,3,"Sep 27, 1947",Arkansas,12,North Texas,0,0
+52,3,"Sep 27, 1947",Army,13,Villanova,0,0
+53,3,"Sep 27, 1947",Mohawk,7,Boston University,45,1
+54,3,"Sep 27, 1947",Brown,33,Connecticut,13,0
+55,3,"Sep 27, 1947",Navy,7,California,14,1
+56,3,"Sep 27, 1947",Presbyterian,6,Citadel,13,1
+57,3,"Sep 27, 1947",Colorado,7,Iowa State,0,1
+58,3,"Sep 27, 1947",Colorado State,23,Drake,19,1
+59,3,"Sep 27, 1947",Columbia,40,Rutgers,28,0
+60,3,"Sep 27, 1947",Cornell,27,Lehigh,0,0
+61,3,"Sep 27, 1947",Holy Cross,0,Dartmouth,0,0
+62,3,"Sep 27, 1947",Duke,7,NC State,0,0
+63,3,"Sep 27, 1947",Duquesne,6,Western Reserve,0,0
+64,3,"Sep 27, 1947",Georgia Tech,27,Tennessee,0,0
+65,3,"Sep 27, 1947",Hardin-Simmons,39,Trinity (Texas),0,0
+66,3,"Sep 27, 1947",Harvard,52,Western Maryland,0,0
+67,3,"Sep 27, 1947",Idaho,19,Stanford,16,1
+68,3,"Sep 27, 1947",Illinois,14,Pitt,0,0
+69,3,"Sep 27, 1947",Indiana,17,Nebraska,0,1
+70,3,"Sep 27, 1947",Kentucky,20,Cincinnati,0,0
+71,3,"Sep 27, 1947",LSU,21,Rice,14,0
+72,3,"Sep 27, 1947",South Dakota,6,Marquette,33,0
+73,3,"Sep 27, 1947",Maryland,19,South Carolina,13,1
+74,3,"Sep 27, 1947",Michigan,55,Michigan State,0,0
+75,3,"Sep 27, 1947",Minnesota,7,Washington,6,0
+76,3,"Sep 27, 1947",Florida,6,Ole Miss,14,0
+77,3,"Sep 27, 1947",Montana,21,Portland,0,0
+78,3,"Sep 27, 1947",Georgia,7,North Carolina,14,1
+79,3,"Sep 27, 1947",Missouri,7,Ohio State,13,1
+80,3,"Sep 27, 1947",TCU,7,Oklahoma State,14,0
+81,3,"Sep 27, 1947",Northern Arizona,7,Pepperdine,60,1
+82,3,"Sep 27, 1947",Hawaii,7,Saint Mary's (CA),27,0
+83,3,"Sep 27, 1947",USC,21,Washington State,0,0
+84,3,"Sep 27, 1947",Southern Miss,19,Auburn,13,1
+85,3,"Sep 27, 1947",New York University,7,Temple,32,1
+86,3,"Sep 27, 1947",Texas,38,Oregon,13,1
+87,3,"Sep 27, 1947",Texas Tech,7,Texas A&M,29,1
+88,3,"Sep 27, 1947",Tulane,21,Alabama,20,0
+89,3,"Sep 27, 1947",Utah,7,Oregon State,6,0
+90,3,"Sep 27, 1947",Wichita State,6,Utah State,21,1
+91,3,"Sep 27, 1947",Vanderbilt,3,Northwestern,0,1
+92,3,"Sep 27, 1947",Virginia,33,George Washington,13,0
+93,3,"Sep 27, 1947",Catawba College,6,Virginia Military Institute,13,1
+94,3,"Sep 27, 1947",Furman,6,Virginia Tech,20,1
+95,3,"Sep 27, 1947",Wake Forest,6,Georgetown,0,0
+96,3,"Sep 27, 1947",Richmond,3,Washington & Lee,16,0
+97,3,"Sep 27, 1947",West Virginia,59,Otterbein,0,0
+98,3,"Sep 27, 1947",William & Mary,21,Davidson,0,0
+99,3,"Sep 27, 1947",Wisconsin,32,Purdue,14,0
+100,3,"Sep 27, 1947",Yale,34,Merchant Marine,13,0
+101,3,"Sep 28, 1947",San Francisco,37,Nevada,13,0
+102,4,"Sep 30, 1947",Brown,7,Princeton,21,1
+103,4,"Oct 3, 1947",Chattanooga,12,Tennessee Tech,0,0
+104,4,"Oct 3, 1947",Wayne State,7,Detroit Mercy,40,1
+105,4,"Oct 3, 1947",Marquette,27,Saint Louis,23,0
+106,4,"Oct 3, 1947",Maryland,43,Delaware,19,0
+107,4,"Oct 3, 1947",Villanova,7,Miami,7,0
+108,4,"Oct 3, 1947",New Mexico State,48,Western New Mexico,0,0
+109,4,"Oct 3, 1947",San Jose State,19,Hardin-Simmons,12,0
+110,4,"Oct 4, 1947",Arizona State,7,Abilene Christian,13,0
+111,4,"Oct 4, 1947",Montana,7,Arizona,40,1
+112,4,"Oct 4, 1947",Arkansas,6,TCU,0,0
+113,4,"Oct 4, 1947",Army,47,Colorado,0,0
+114,4,"Oct 4, 1947",Auburn,14,Louisiana Tech,0,0
+115,4,"Oct 4, 1947",Saint Mary's (CA),6,California,45,1
+116,4,"Oct 4, 1947",Colgate,29,Merchant Marine,0,1
+117,4,"Oct 4, 1947",Navy,6,Columbia,13,0
+118,4,"Oct 4, 1947",Syracuse,7,Dartmouth,28,0
+119,4,"Oct 4, 1947",Denver,26,Oklahoma State,14,0
+120,4,"Oct 4, 1947",Tennessee,7,Duke,19,0
+121,4,"Oct 4, 1947",Fordham,7,Georgetown,40,1
+122,4,"Oct 4, 1947",Georgia,35,LSU,19,0
+123,4,"Oct 4, 1947",Georgia Tech,20,Tulane,0,1
+124,4,"Oct 4, 1947",Harvard,19,Boston University,14,0
+125,4,"Oct 4, 1947",Holy Cross,19,Temple,13,0
+126,4,"Oct 4, 1947",Illinois,35,Iowa,12,1
+127,4,"Oct 4, 1947",Iowa State,7,Kansas,27,1
+128,4,"Oct 4, 1947",Xavier,7,Kentucky,20,0
+129,4,"Oct 4, 1947",Michigan,49,Stanford,13,0
+130,4,"Oct 4, 1947",Michigan State,7,Mississippi State,0,0
+131,4,"Oct 4, 1947",Minnesota,28,Nebraska,13,1
+132,4,"Oct 4, 1947",Ole Miss,33,South Carolina,0,0
+133,4,"Oct 4, 1947",Montana State,32,Northern Colorado,13,1
+134,4,"Oct 4, 1947",Oregon,6,Nevada,13,0
+135,4,"Oct 4, 1947",New Mexico,20,Kansas State,18,1
+136,4,"Oct 4, 1947",New York University,19,Brooklyn,0,0
+137,4,"Oct 4, 1947",NC State,14,Davidson,0,0
+138,4,"Oct 4, 1947",North Texas,20,Florida,12,1
+139,4,"Oct 4, 1947",Northwestern,27,UCLA,26,0
+140,4,"Oct 4, 1947",Pitt,6,Notre Dame,40,0
+141,4,"Oct 4, 1947",Oklahoma,26,Texas A&M,14,0
+142,4,"Oct 4, 1947",Washington,7,Oregon State,14,0
+143,4,"Oct 4, 1947",Penn State,54,Bucknell,0,0
+144,4,"Oct 4, 1947",Pennsylvania,59,Lafayette,0,0
+145,4,"Oct 4, 1947",Purdue,24,Ohio State,20,0
+146,4,"Oct 4, 1947",USC,7,Rice,7,0
+147,4,"Oct 4, 1947",Richmond,7,Rollins,20,1
+148,4,"Oct 4, 1947",Western Reserve,6,Rutgers,21,1
+149,4,"Oct 4, 1947",Santa Clara,20,Fresno State,19,0
+150,4,"Oct 4, 1947",SMU,35,Missouri,19,0
+151,4,"Oct 4, 1947",Texas,34,North Carolina,0,0
+152,4,"Oct 4, 1947",Texas Tech,21,West Texas State,13,0
+153,4,"Oct 4, 1947",UTEP,40,Northern Arizona,0,0
+154,4,"Oct 4, 1947",Tulsa,28,Drake,14,0
+155,4,"Oct 4, 1947",Utah,35,Hawaii,0,0
+156,4,"Oct 4, 1947",Utah State,26,Colorado State,13,1
+157,4,"Oct 4, 1947",Alabama,7,Vanderbilt,14,1
+158,4,"Oct 4, 1947",Virginia Tech,7,Virginia,41,1
+159,4,"Oct 4, 1947",George Washington,7,Virginia Military Institute,13,1
+160,4,"Oct 4, 1947",Wake Forest,16,Clemson,14,1
+161,4,"Oct 4, 1947",Washington State,7,Idaho,0,1
+162,4,"Oct 4, 1947",Washington & Lee,6,West Virginia,35,1
+163,4,"Oct 4, 1947",Bradley,7,Wichita State,28,1
+164,4,"Oct 4, 1947",Citadel,7,William & Mary,56,1
+165,4,"Oct 4, 1947",Indiana,7,Wisconsin,7,0
+166,4,"Oct 4, 1947",BYU,7,Wyoming,12,1
+167,4,"Oct 4, 1947",Yale,14,Cornell,0,0
+168,4,"Oct 5, 1947",Portland,6,Hawaii All-Stars,14,0
+169,4,"Oct 5, 1947",San Francisco,51,Duquesne,0,0
+170,5,"Oct 10, 1947",Boston College,49,Kansas State,13,0
+171,5,"Oct 10, 1947",Richmond,6,Maryland,18,1
+172,5,"Oct 10, 1947",Miami,6,TCU,19,0
+173,5,"Oct 11, 1947",Alabama,26,Duquesne,0,0
+174,5,"Oct 11, 1947",Auburn,20,Florida,14,0
+175,5,"Oct 11, 1947",Arkansas,9,Baylor,17,1
+176,5,"Oct 11, 1947",New York University,7,Boston University,38,1
+177,5,"Oct 11, 1947",Rhode Island,6,Brown,55,1
+178,5,"Oct 11, 1947",Wisconsin,7,California,48,0
+179,5,"Oct 11, 1947",Newberry,6,Citadel,13,1
+180,5,"Oct 11, 1947",Denver,13,Colorado State,13,0
+181,5,"Oct 11, 1947",Cornell,27,Colgate,18,1
+182,5,"Oct 11, 1947",Wofford,7,Davidson,12,1
+183,5,"Oct 11, 1947",Navy,14,Duke,14,0
+184,5,"Oct 11, 1947",Georgia Tech,20,Virginia Military Institute,0,0
+185,5,"Oct 11, 1947",Arizona,7,Hardin-Simmons,35,1
+186,5,"Oct 11, 1947",Hawaii,14,Montana State,0,1
+187,5,"Oct 11, 1947",Army,0,Illinois,0,0
+188,5,"Oct 11, 1947",Iowa,27,Indiana,14,0
+189,5,"Oct 11, 1947",Kansas,86,South Dakota State,6,0
+190,5,"Oct 11, 1947",Kentucky,26,Georgia,0,0
+191,5,"Oct 11, 1947",LSU,19,Texas A&M,13,0
+192,5,"Oct 11, 1947",Marquette,41,Detroit Mercy,18,0
+193,5,"Oct 11, 1947",Michigan,69,Pitt,0,0
+194,5,"Oct 11, 1947",Washington State,7,Michigan State,21,0
+195,5,"Oct 11, 1947",Minnesota,37,Northwestern,21,0
+196,5,"Oct 11, 1947",Mississippi State,21,San Francisco,14,1
+197,5,"Oct 11, 1947",Missouri,21,Colorado,0,1
+198,5,"Oct 11, 1947",Iowa State,7,Nebraska,14,0
+199,5,"Oct 11, 1947",Portland,6,Nevada,51,1
+200,5,"Oct 11, 1947",New Mexico,20,New Mexico State,0,0
+201,5,"Oct 11, 1947",NC State,18,Clemson,0,0
+202,5,"Oct 11, 1947",Western State,8,Northern Arizona,12,1
+203,5,"Oct 11, 1947",Purdue,7,Notre Dame,22,0
+204,5,"Oct 11, 1947",Idaho,6,Oregon State,33,0
+205,5,"Oct 11, 1947",Penn State,75,Fordham,0,1
+206,5,"Oct 11, 1947",Pennsylvania,32,Dartmouth,0,1
+207,5,"Oct 11, 1947",Arizona State,6,Pepperdine,27,1
+208,5,"Oct 11, 1947",Rice,33,Tulane,0,0
+209,5,"Oct 11, 1947",Princeton,7,Rutgers,13,1
+210,5,"Oct 11, 1947",Saint Louis,16,Georgetown,0,0
+211,5,"Oct 11, 1947",Stanford,7,Santa Clara,13,0
+212,5,"Oct 11, 1947",Furman,8,South Carolina,26,1
+213,5,"Oct 11, 1947",USC,32,Ohio State,0,1
+214,5,"Oct 11, 1947",SMU,21,Oklahoma State,14,1
+215,5,"Oct 11, 1947",St. Bonaventure,25,Merchant Marine,0,0
+216,5,"Oct 11, 1947",Syracuse,28,Temple,12,0
+217,5,"Oct 11, 1947",Chattanooga,7,Tennessee,26,1
+218,5,"Oct 11, 1947",Texas,34,Oklahoma,14,0
+219,5,"Oct 11, 1947",Tulsa,7,Texas Tech,14,1
+220,5,"Oct 11, 1947",Oregon,7,UCLA,24,1
+221,5,"Oct 11, 1947",BYU,6,Utah,28,1
+222,5,"Oct 11, 1947",Montana,7,Utah State,13,1
+223,5,"Oct 11, 1947",Ole Miss,6,Vanderbilt,10,1
+224,5,"Oct 11, 1947",Holy Cross,6,Villanova,13,0
+225,5,"Oct 11, 1947",Virginia,47,Harvard,0,0
+226,5,"Oct 11, 1947",North Carolina,7,Wake Forest,19,0
+227,5,"Oct 11, 1947",Saint Mary's (CA),6,Washington,26,1
+228,5,"Oct 11, 1947",George Washington,6,Washington & Lee,15,1
+229,5,"Oct 11, 1947",West Texas State,14,UTEP,0,0
+230,5,"Oct 11, 1947",Waynesburg,7,West Virginia,60,1
+231,5,"Oct 11, 1947",Wichita State,21,Drake,13,0
+232,5,"Oct 11, 1947",Virginia Tech,7,William & Mary,21,1
+233,5,"Oct 11, 1947",Colorado Mines,6,Wyoming,53,1
+234,5,"Oct 11, 1947",Columbia,7,Yale,17,0
+235,6,"Oct 17, 1947",Furman,7,Citadel,0,0
+236,6,"Oct 17, 1947",LSU,14,Boston College,13,1
+237,6,"Oct 17, 1947",Miami,6,Rollins,0,0
+238,6,"Oct 17, 1947",New Mexico State,27,Sul Ross State,14,0
+239,6,"Oct 18, 1947",Alabama,10,Tennessee,0,0
+240,6,"Oct 18, 1947",Arizona,14,UTEP,13,1
+241,6,"Oct 18, 1947",Northern Arizona,7,Arizona State,31,1
+242,6,"Oct 18, 1947",Army,40,Virginia Tech,0,0
+243,6,"Oct 18, 1947",Texas Tech,6,Baylor,32,0
+244,6,"Oct 18, 1947",Washington State,6,California,21,1
+245,6,"Oct 18, 1947",Chattanooga,20,Centenary (LA),0,1
+246,6,"Oct 18, 1947",Colorado,9,BYU,7,0
+247,6,"Oct 18, 1947",Colorado College,7,Colorado State,28,0
+248,6,"Oct 18, 1947",Dartmouth,13,Brown,10,0
+249,6,"Oct 18, 1947",Davidson,49,Hampden-Sydney,0,1
+250,6,"Oct 18, 1947",Maryland,7,Duke,19,1
+251,6,"Oct 18, 1947",Florida,7,NC State,6,1
+252,6,"Oct 18, 1947",Georgetown,12,Tulsa,0,1
+253,6,"Oct 18, 1947",Oklahoma State,7,Georgia,20,0
+254,6,"Oct 18, 1947",Auburn,7,Georgia Tech,27,1
+255,6,"Oct 18, 1947",New Mexico,7,Hardin-Simmons,33,1
+256,6,"Oct 18, 1947",Harvard,7,Holy Cross,0,0
+257,6,"Oct 18, 1947",Idaho,20,Portland,14,0
+258,6,"Oct 18, 1947",Illinois,40,Minnesota,13,0
+259,6,"Oct 18, 1947",Pitt,6,Indiana,41,1
+260,6,"Oct 18, 1947",Ohio State,13,Iowa,13,0
+261,6,"Oct 18, 1947",Oklahoma,13,Kansas,13,0
+262,6,"Oct 18, 1947",Kentucky,14,Vanderbilt,0,1
+263,6,"Oct 18, 1947",Merchant Marine,46,Adelphi,0,0
+264,6,"Oct 18, 1947",Michigan,49,Northwestern,21,1
+265,6,"Oct 18, 1947",Michigan State,20,Iowa State,0,0
+266,6,"Oct 18, 1947",Ole Miss,27,Tulane,14,1
+267,6,"Oct 18, 1947",Mississippi State,34,Duquesne,0,0
+268,6,"Oct 18, 1947",Kansas State,7,Missouri,47,1
+269,6,"Oct 18, 1947",Montana State,13,Montana,12,0
+270,6,"Oct 18, 1947",Navy,38,Cornell,19,1
+271,6,"Oct 18, 1947",Nevada,39,Saint Mary's (CA),14,1
+272,6,"Oct 18, 1947",William & Mary,7,North Carolina,13,0
+273,6,"Oct 18, 1947",Notre Dame,31,Nebraska,0,0
+274,6,"Oct 18, 1947",Oregon,6,Washington,0,0
+275,6,"Oct 18, 1947",Penn State,40,Syracuse,0,0
+276,6,"Oct 18, 1947",Pennsylvania,34,Columbia,14,0
+277,6,"Oct 18, 1947",Colgate,7,Princeton,20,1
+278,6,"Oct 18, 1947",Boston University,7,Purdue,62,0
+279,6,"Oct 18, 1947",Richmond,21,Virginia Military Institute,20,0
+280,6,"Oct 18, 1947",Fordham,6,Rutgers,36,1
+281,6,"Oct 18, 1947",Saint Louis,41,Drake,12,0
+282,6,"Oct 18, 1947",San Francisco,34,Marquette,13,1
+283,6,"Oct 18, 1947",Santa Clara,21,Pacific,20,1
+284,6,"Oct 18, 1947",Oregon State,6,USC,48,1
+285,6,"Oct 18, 1947",SMU,14,Rice,0,0
+286,6,"Oct 18, 1947",Temple,7,Muhlenberg,6,0
+287,6,"Oct 18, 1947",Arkansas,6,Texas,21,1
+288,6,"Oct 18, 1947",TCU,26,Texas A&M,0,0
+289,6,"Oct 18, 1947",Stanford,6,UCLA,39,0
+290,6,"Oct 18, 1947",Denver,7,Utah,13,1
+291,6,"Oct 18, 1947",Washington & Lee,7,Virginia,32,1
+292,6,"Oct 18, 1947",George Washington,7,Wake Forest,39,0
+293,6,"Oct 18, 1947",West Texas State,38,Midwestern Texas State,0,0
+294,6,"Oct 18, 1947",West Virginia,40,New York University,0,1
+295,6,"Oct 18, 1947",Wichita State,7,Abilene Christian,0,0
+296,6,"Oct 18, 1947",Wisconsin,9,Yale,0,1
+297,6,"Oct 18, 1947",Wyoming,33,Utah State,19,0
+298,6,"Oct 19, 1947",Villanova,14,Detroit Mercy,12,0
+299,7,"Oct 23, 1947",South Carolina,21,Clemson,19,0
+300,7,"Oct 24, 1947",Boston College,6,Villanova,0,0
+301,7,"Oct 24, 1947",Chattanooga,19,Dayton,13,0
+302,7,"Oct 24, 1947",Duquesne,6,Detroit Mercy,38,1
+303,7,"Oct 24, 1947",Georgetown,25,New York University,0,0
+304,7,"Oct 24, 1947",George Washington,7,Miami,28,1
+305,7,"Oct 24, 1947",New Mexico State,7,West Texas State,34,0
+306,7,"Oct 25, 1947",Georgia,7,Alabama,17,0
+307,7,"Oct 25, 1947",Arizona,22,New Mexico,12,0
+308,7,"Oct 25, 1947",Arkansas,19,Ole Miss,14,0
+309,7,"Oct 25, 1947",BYU,27,Utah State,12,0
+310,7,"Oct 25, 1947",Colgate,13,Brown,13,0
+311,7,"Oct 25, 1947",Colorado State,7,Colorado,14,0
+312,7,"Oct 25, 1947",Columbia,21,Army,20,0
+313,7,"Oct 25, 1947",Cornell,28,Princeton,21,1
+314,7,"Oct 25, 1947",Dartmouth,14,Harvard,13,1
+315,7,"Oct 25, 1947",Oklahoma State,9,Drake,13,1
+316,7,"Oct 25, 1947",Wake Forest,6,Duke,13,0
+317,7,"Oct 25, 1947",Fordham,12,Merchant Marine,0,1
+318,7,"Oct 25, 1947",Wofford,6,Furman,20,0
+319,7,"Oct 25, 1947",Georgia Tech,38,Citadel,0,0
+320,7,"Oct 25, 1947",Holy Cross,26,Syracuse,0,1
+321,7,"Oct 25, 1947",Kentucky,7,Michigan State,6,1
+322,7,"Oct 25, 1947",LSU,19,Vanderbilt,13,0
+323,7,"Oct 25, 1947",Maryland,21,Virginia Tech,19,1
+324,7,"Oct 25, 1947",Minnesota,6,Michigan,13,1
+325,7,"Oct 25, 1947",Hardin-Simmons,7,Mississippi State,27,1
+326,7,"Oct 25, 1947",Iowa State,7,Missouri,26,0
+327,7,"Oct 25, 1947",Montana,13,Washington State,12,1
+328,7,"Oct 25, 1947",Montana State,34,Idaho State,12,0
+329,7,"Oct 25, 1947",Kansas State,7,Nebraska,14,0
+330,7,"Oct 25, 1947",Nevada,21,Tulsa,13,0
+331,7,"Oct 25, 1947",Florida,7,North Carolina,35,0
+332,7,"Oct 25, 1947",Northwestern,7,Indiana,6,0
+333,7,"Oct 25, 1947",Notre Dame,21,Iowa,0,0
+334,7,"Oct 25, 1947",San Francisco,7,Oregon,34,1
+335,7,"Oct 25, 1947",Oregon State,46,Portland,0,0
+336,7,"Oct 25, 1947",Penn State,21,West Virginia,14,0
+337,7,"Oct 25, 1947",Pennsylvania,21,Navy,0,0
+338,7,"Oct 25, 1947",Pitt,12,Ohio State,0,0
+339,7,"Oct 25, 1947",Illinois,7,Purdue,14,1
+340,7,"Oct 25, 1947",Richmond,20,Hampden-Sydney,0,0
+341,7,"Oct 25, 1947",Rutgers,46,Lehigh,13,0
+342,7,"Oct 25, 1947",Loyola Marymount,7,Saint Mary's (CA),57,1
+343,7,"Oct 25, 1947",USC,39,California,14,1
+344,7,"Oct 25, 1947",SMU,7,UCLA,0,1
+345,7,"Oct 25, 1947",Temple,21,Bucknell,0,1
+346,7,"Oct 25, 1947",Tennessee,49,Tennessee Tech,0,0
+347,7,"Oct 25, 1947",Texas,12,Rice,0,0
+348,7,"Oct 25, 1947",Texas A&M,24,Baylor,0,0
+349,7,"Oct 25, 1947",Oklahoma,7,TCU,20,0
+350,7,"Oct 25, 1947",Denver,7,Texas Tech,36,0
+351,7,"Oct 25, 1947",Tulane,40,Auburn,0,0
+352,7,"Oct 25, 1947",Wyoming,7,Utah,26,0
+353,7,"Oct 25, 1947",Virginia Military Institute,6,Virginia,35,0
+354,7,"Oct 25, 1947",Washington,25,Stanford,0,0
+355,7,"Oct 25, 1947",Washington & Lee,32,Davidson,0,0
+356,7,"Oct 25, 1947",Northern Arizona,7,Wichita State,55,1
+357,7,"Oct 25, 1947",William & Mary,47,Boston University,13,1
+358,7,"Oct 25, 1947",Wisconsin,35,Marquette,12,0
+359,7,"Oct 25, 1947",Yale,49,Springfield,0,0
+360,7,"Oct 26, 1947",St. Bonaventure,47,Saint Louis,13,1
+361,8,"Oct 31, 1947",Clemson,6,Georgia,21,1
+362,8,"Oct 31, 1947",South Carolina,8,Miami,0,1
+363,8,"Oct 31, 1947",George Washington,6,Virginia Tech,42,0
+364,8,"Oct 31, 1947",Washington State,35,Portland,0,0
+365,8,"Nov 1, 1947",Alabama,13,Kentucky,0,1
+366,8,"Nov 1, 1947",Arizona State,33,New Mexico State,12,0
+367,8,"Nov 1, 1947",Army,65,Washington & Lee,13,0
+368,8,"Nov 1, 1947",Georgetown,6,Boston College,27,1
+369,8,"Nov 1, 1947",Brown,20,Holy Cross,19,0
+370,8,"Nov 1, 1947",California,6,UCLA,0,1
+371,8,"Nov 1, 1947",Columbia,22,Cornell,0,1
+372,8,"Nov 1, 1947",BYU,6,Denver,20,1
+373,8,"Nov 1, 1947",Saint Mary's (CA),6,Detroit Mercy,19,1
+374,8,"Nov 1, 1947",Furman,7,Florida,34,1
+375,8,"Nov 1, 1947",Georgia Tech,7,Duke,0,0
+376,8,"Nov 1, 1947",Houston,7,Hardin-Simmons,33,1
+377,8,"Nov 1, 1947",Indiana,7,Ohio State,0,1
+378,8,"Nov 1, 1947",Kansas,55,Kansas State,0,0
+379,8,"Nov 1, 1947",Syracuse,7,Lafayette,14,1
+380,8,"Nov 1, 1947",Maryland,27,West Virginia,0,0
+381,8,"Nov 1, 1947",Illinois,7,Michigan,14,0
+382,8,"Nov 1, 1947",Marquette,7,Michigan State,13,1
+383,8,"Nov 1, 1947",Minnesota,29,Pitt,0,0
+384,8,"Nov 1, 1947",Ole Miss,20,LSU,18,1
+385,8,"Nov 1, 1947",Mississippi State,20,Tulane,0,1
+386,8,"Nov 1, 1947",Nebraska,6,Missouri,47,1
+387,8,"Nov 1, 1947",UTEP,20,New Mexico,20,0
+388,8,"Nov 1, 1947",Tennessee,6,North Carolina,20,1
+389,8,"Nov 1, 1947",NC State,21,Chattanooga,0,0
+390,8,"Nov 1, 1947",Drake,6,Northern Iowa,6,0
+391,8,"Nov 1, 1947",Notre Dame,27,Navy,0,0
+392,8,"Nov 1, 1947",Iowa State,9,Oklahoma,27,1
+393,8,"Nov 1, 1947",Oklahoma State,26,Temple,0,1
+394,8,"Nov 1, 1947",Idaho,7,Oregon,34,1
+395,8,"Nov 1, 1947",Stanford,7,Oregon State,13,0
+396,8,"Nov 1, 1947",Penn State,46,Colgate,0,0
+397,8,"Nov 1, 1947",Princeton,7,Pennsylvania,26,0
+398,8,"Nov 1, 1947",Purdue,21,Iowa,0,0
+399,8,"Nov 1, 1947",Texas Tech,7,Rice,40,1
+400,8,"Nov 1, 1947",Harvard,7,Rutgers,31,0
+401,8,"Nov 1, 1947",Santa Clara,9,San Francisco,20,0
+402,8,"Nov 1, 1947",USC,19,Washington,0,1
+403,8,"Nov 1, 1947",SMU,14,Texas,13,0
+404,8,"Nov 1, 1947",Arkansas,21,Texas A&M,21,0
+405,8,"Nov 1, 1947",Baylor,7,TCU,14,0
+406,8,"Nov 1, 1947",Tulsa,7,Wichita State,0,0
+407,8,"Nov 1, 1947",Colorado,7,Utah,13,0
+408,8,"Nov 1, 1947",Utah State,28,Montana State,13,1
+409,8,"Nov 1, 1947",Vanderbilt,28,Auburn,0,0
+410,8,"Nov 1, 1947",Virginia,34,Richmond,0,0
+411,8,"Nov 1, 1947",Davidson,14,Virginia Military Institute,14,0
+412,8,"Nov 1, 1947",West Texas State,25,Northern Arizona,0,1
+413,8,"Nov 1, 1947",William & Mary,21,Wake Forest,0,0
+414,8,"Nov 1, 1947",Wisconsin,29,Northwestern,0,1
+415,8,"Nov 1, 1947",Wyoming,44,Northern Colorado,14,1
+416,8,"Nov 1, 1947",Yale,23,Dartmouth,14,0
+417,8,"Nov 2, 1947",Nevada,27,Saint Louis,21,1
+418,9,"Nov 7, 1947",West Texas State,6,Hardin-Simmons,27,0
+419,9,"Nov 7, 1947",Montana,21,Idaho,0,1
+420,9,"Nov 7, 1947",South Carolina,12,Citadel,0,0
+421,9,"Nov 8, 1947",Fordham,6,Boston University,26,1
+422,9,"Nov 8, 1947",Brown,20,Yale,14,1
+423,9,"Nov 8, 1947",Washington,7,California,13,1
+424,9,"Nov 8, 1947",Union (Tennessee),7,Chattanooga,46,1
+425,9,"Nov 8, 1947",Miami,7,Cincinnati,20,1
+426,9,"Nov 8, 1947",Furman,7,Clemson,35,0
+427,9,"Nov 8, 1947",Holy Cross,6,Colgate,6,0
+428,9,"Nov 8, 1947",Columbia,15,Dartmouth,0,0
+429,9,"Nov 8, 1947",Syracuse,6,Cornell,12,1
+430,9,"Nov 8, 1947",Richmond,7,Davidson,13,0
+431,9,"Nov 8, 1947",Wyoming,7,Denver,27,1
+432,9,"Nov 8, 1947",Nevada,6,Detroit Mercy,38,0
+433,9,"Nov 8, 1947",Florida,6,Georgia,34,1
+434,9,"Nov 8, 1947",Georgia Tech,16,Navy,14,1
+435,9,"Nov 8, 1947",Illinois,60,Western Michigan,14,0
+436,9,"Nov 8, 1947",Drake,6,Iowa State,36,0
+437,9,"Nov 8, 1947",Nebraska,7,Kansas,13,0
+438,9,"Nov 8, 1947",West Virginia,6,Kentucky,15,0
+439,9,"Nov 8, 1947",Merchant Marine,6,Lehigh,20,1
+440,9,"Nov 8, 1947",Maryland,32,Duquesne,0,1
+441,9,"Nov 8, 1947",Michigan,35,Indiana,0,0
+442,9,"Nov 8, 1947",Michigan State,28,Santa Clara,0,0
+443,9,"Nov 8, 1947",Minnesota,26,Purdue,21,0
+444,9,"Nov 8, 1947",Ole Miss,43,Tennessee,13,0
+445,9,"Nov 8, 1947",Mississippi State,14,Auburn,0,1
+446,9,"Nov 8, 1947",Duke,7,Missouri,28,0
+447,9,"Nov 8, 1947",Montana State,20,Portland,13,0
+448,9,"Nov 8, 1947",New Mexico,34,Fresno State,3,0
+449,9,"Nov 8, 1947",Northern Arizona,6,New Mexico State,26,1
+450,9,"Nov 8, 1947",NC State,6,North Carolina,41,1
+451,9,"Nov 8, 1947",Army,7,Notre Dame,27,1
+452,9,"Nov 8, 1947",Ohio State,7,Northwestern,6,0
+453,9,"Nov 8, 1947",Oklahoma,27,Kansas State,13,1
+454,9,"Nov 8, 1947",Washington State,6,Oregon,12,0
+455,9,"Nov 8, 1947",Penn State,7,Temple,0,1
+456,9,"Nov 8, 1947",Virginia,7,Pennsylvania,19,1
+457,9,"Nov 8, 1947",Harvard,7,Princeton,33,0
+458,9,"Nov 8, 1947",Rice,26,Arkansas,0,0
+459,9,"Nov 8, 1947",Rutgers,20,Lafayette,0,1
+460,9,"Nov 8, 1947",San Jose State,28,BYU,19,1
+461,9,"Nov 8, 1947",USC,14,Stanford,0,0
+462,9,"Nov 8, 1947",SMU,13,Texas A&M,0,1
+463,9,"Nov 8, 1947",Baylor,7,Texas,28,1
+464,9,"Nov 8, 1947",Texas Tech,41,Arizona,28,0
+465,9,"Nov 8, 1947",UTEP,21,Arizona State,0,0
+466,9,"Nov 8, 1947",Tulsa,13,Oklahoma State,0,1
+467,9,"Nov 8, 1947",Oregon State,7,UCLA,27,0
+468,9,"Nov 8, 1947",Utah,19,Colorado State,0,0
+469,9,"Nov 8, 1947",Utah State,35,Colorado,12,0
+470,9,"Nov 8, 1947",Vanderbilt,68,Tennessee Tech,0,0
+471,9,"Nov 8, 1947",Marquette,7,Villanova,25,0
+472,9,"Nov 8, 1947",Virginia Tech,27,Washington & Lee,14,0
+473,9,"Nov 8, 1947",Wake Forest,14,Boston College,13,1
+474,9,"Nov 8, 1947",Saint Louis,6,Wichita State,38,0
+475,9,"Nov 8, 1947",William & Mary,28,Virginia Military Institute,20,0
+476,9,"Nov 8, 1947",Wisconsin,46,Iowa,14,0
+477,10,"Nov 11, 1947",Merchant Marine,22,Brooklyn,14,0
+478,10,"Nov 11, 1947",Bucknell,6,New York University,19,1
+479,10,"Nov 14, 1947",Loyola Marymount,6,San Francisco,41,1
+480,10,"Nov 14, 1947",Miami,7,Vanderbilt,33,0
+481,10,"Nov 15, 1947",Georgia Tech,7,Alabama,14,1
+482,10,"Nov 15, 1947",Arizona,26,Arizona State,13,1
+483,10,"Nov 15, 1947",Pennsylvania,7,Army,7,0
+484,10,"Nov 15, 1947",Baylor,7,Tulsa,6,1
+485,10,"Nov 15, 1947",Merchant Marine,6,Boston University,33,1
+486,10,"Nov 15, 1947",California,60,Montana,14,0
+487,10,"Nov 15, 1947",Citadel,7,Virginia Military Institute,6,0
+488,10,"Nov 15, 1947",Clemson,34,Duquesne,13,1
+489,10,"Nov 15, 1947",Wyoming,6,Colorado,21,1
+490,10,"Nov 15, 1947",Colorado State,27,BYU,25,1
+491,10,"Nov 15, 1947",Columbia,10,Holy Cross,0,0
+492,10,"Nov 15, 1947",Dartmouth,21,Cornell,13,0
+493,10,"Nov 15, 1947",Saint Louis,6,Detroit Mercy,37,1
+494,10,"Nov 15, 1947",Tulane,7,Florida,7,0
+495,10,"Nov 15, 1947",Auburn,6,Georgia,28,1
+496,10,"Nov 15, 1947",Hardin-Simmons,18,UTEP,0,0
+497,10,"Nov 15, 1947",Brown,7,Harvard,13,1
+498,10,"Nov 15, 1947",Utah,6,Idaho,13,1
+499,10,"Nov 15, 1947",Ohio State,7,Illinois,28,0
+500,10,"Nov 15, 1947",Marquette,6,Indiana,48,1
+501,10,"Nov 15, 1947",Minnesota,7,Iowa,13,1
+502,10,"Nov 15, 1947",Iowa State,14,Kansas State,0,0
+503,10,"Nov 15, 1947",Oklahoma State,7,Kansas,13,0
+504,10,"Nov 15, 1947",Kentucky,36,Evansville,0,0
+505,10,"Nov 15, 1947",Lafayette,7,Fordham,0,1
+506,10,"Nov 15, 1947",Mississippi State,6,LSU,21,1
+507,10,"Nov 15, 1947",Wichita State,7,Miami (OH),22,0
+508,10,"Nov 15, 1947",Wisconsin,6,Michigan,40,0
+509,10,"Nov 15, 1947",Temple,6,Michigan State,14,0
+510,10,"Nov 15, 1947",Ole Miss,52,Chattanooga,0,0
+511,10,"Nov 15, 1947",Nevada,55,Montana State,0,0
+512,10,"Nov 15, 1947",New Mexico,8,Drake,7,0
+513,10,"Nov 15, 1947",North Carolina,19,Maryland,0,1
+514,10,"Nov 15, 1947",NC State,20,Wake Forest,0,0
+515,10,"Nov 15, 1947",Notre Dame,26,Northwestern,19,1
+516,10,"Nov 15, 1947",Oklahoma,21,Missouri,12,1
+517,10,"Nov 15, 1947",Stanford,6,Oregon,21,0
+518,10,"Nov 15, 1947",Navy,7,Penn State,20,0
+519,10,"Nov 15, 1947",Portland,27,Willamette,0,0
+520,10,"Nov 15, 1947",Princeton,17,Yale,0,0
+521,10,"Nov 15, 1947",Purdue,28,Pitt,0,0
+522,10,"Nov 15, 1947",Texas A&M,7,Rice,41,1
+523,10,"Nov 15, 1947",Rutgers,40,New York University,0,0
+524,10,"Nov 15, 1947",Saint Mary's (CA),9,Santa Clara,33,0
+525,10,"Nov 15, 1947",Duke,0,South Carolina,0,0
+526,10,"Nov 15, 1947",Arkansas,6,SMU,14,1
+527,10,"Nov 15, 1947",Syracuse,7,Colgate,0,0
+528,10,"Nov 15, 1947",Tennessee,38,Boston College,13,0
+529,10,"Nov 15, 1947",Texas,20,TCU,0,0
+530,10,"Nov 15, 1947",Washington,7,UCLA,34,1
+531,10,"Nov 15, 1947",Utah State,20,Denver,0,0
+532,10,"Nov 15, 1947",Villanova,14,Georgetown,12,0
+533,10,"Nov 15, 1947",Virginia,6,West Virginia,0,1
+534,10,"Nov 15, 1947",Virginia Tech,26,Richmond,14,0
+535,10,"Nov 15, 1947",Washington State,14,Oregon State,13,1
+536,10,"Nov 15, 1947",Wayne State,7,George Washington,6,1
+537,10,"Nov 15, 1947",Colorado College,6,West Texas State,40,0
+538,10,"Nov 15, 1947",Washington & Lee,6,William & Mary,45,0
+539,11,"Nov 21, 1947",Wake Forest,33,Duquesne,0,0
+540,11,"Nov 22, 1947",Alabama,41,LSU,12,0
+541,11,"Nov 22, 1947",Saint Mary's (CA),7,Boston College,25,1
+542,11,"Nov 22, 1947",California,21,Stanford,18,1
+543,11,"Nov 22, 1947",Clemson,34,Auburn,18,0
+544,11,"Nov 22, 1947",Wyoming,6,Colorado State,21,1
+545,11,"Nov 22, 1947",Syracuse,8,Columbia,28,1
+546,11,"Nov 22, 1947",Citadel,7,Davidson,28,1
+547,11,"Nov 22, 1947",Florida,7,Miami,6,1
+548,11,"Nov 22, 1947",Georgetown,0,George Washington,0,0
+549,11,"Nov 22, 1947",Georgia,27,Chattanooga,0,1
+550,11,"Nov 22, 1947",Georgia Tech,51,Furman,0,0
+551,11,"Nov 22, 1947",Merchant Marine,7,Hofstra,16,1
+552,11,"Nov 22, 1947",Holy Cross,48,Fordham,0,0
+553,11,"Nov 22, 1947",Indiana,16,Purdue,14,0
+554,11,"Nov 22, 1947",Kansas,20,Missouri,14,0
+555,11,"Nov 22, 1947",Marquette,39,Arizona,21,1
+556,11,"Nov 22, 1947",Vanderbilt,6,Maryland,20,0
+557,11,"Nov 22, 1947",Michigan,21,Ohio State,0,0
+558,11,"Nov 22, 1947",Minnesota,21,Wisconsin,0,0
+559,11,"Nov 22, 1947",Southern Miss,7,Mississippi State,14,1
+560,11,"Nov 22, 1947",North Carolina,21,Duke,0,1
+561,11,"Nov 22, 1947",NC State,7,Virginia,2,1
+562,11,"Nov 22, 1947",Northwestern,28,Illinois,13,1
+563,11,"Nov 22, 1947",Tulane,6,Notre Dame,59,1
+564,11,"Nov 22, 1947",Oklahoma,14,Nebraska,13,1
+565,11,"Nov 22, 1947",Oregon State,6,Oregon,14,1
+566,11,"Nov 22, 1947",Penn State,29,Pitt,0,1
+567,11,"Nov 22, 1947",Princeton,14,Dartmouth,12,0
+568,11,"Nov 22, 1947",Rice,7,TCU,0,1
+569,11,"Nov 22, 1947",BYU,7,San Diego State,32,1
+570,11,"Nov 22, 1947",USC,6,UCLA,0,0
+571,11,"Nov 22, 1947",SMU,10,Baylor,0,1
+572,11,"Nov 22, 1947",Kentucky,6,Tennessee,13,0
+573,11,"Nov 22, 1947",Texas Tech,26,New Mexico,20,1
+574,11,"Nov 22, 1947",UTEP,26,New Mexico State,0,0
+575,11,"Nov 22, 1947",Tulsa,30,Detroit Mercy,20,0
+576,11,"Nov 22, 1947",Villanova,21,San Francisco,19,1
+577,11,"Nov 22, 1947",Washington,20,Washington State,0,0
+578,11,"Nov 22, 1947",Washington & Lee,18,Delaware,13,1
+579,11,"Nov 22, 1947",Arizona State,7,West Texas State,35,1
+580,11,"Nov 22, 1947",West Virginia,21,Temple,0,0
+581,11,"Nov 22, 1947",William & Mary,20,Bowling Green,0,0
+582,11,"Nov 22, 1947",Yale,31,Harvard,21,0
+583,12,"Nov 27, 1947",Arkansas,27,Tulsa,13,1
+584,12,"Nov 27, 1947",Furman,6,Davidson,20,0
+585,12,"Nov 27, 1947",Denver,26,Colorado,20,0
+586,12,"Nov 27, 1947",George Washington,40,Merchant Marine,0,0
+587,12,"Nov 27, 1947",Chattanooga,7,North Texas,14,0
+588,12,"Nov 27, 1947",Pennsylvania,21,Cornell,0,0
+589,12,"Nov 27, 1947",Rutgers,27,Brown,20,1
+590,12,"Nov 27, 1947",Saint Louis,14,Duquesne,13,0
+591,12,"Nov 27, 1947",South Carolina,6,Wake Forest,0,0
+592,12,"Nov 27, 1947",Texas,32,Texas A&M,13,1
+593,12,"Nov 27, 1947",Utah,40,Utah State,14,0
+594,12,"Nov 27, 1947",Virginia Military Institute,28,Virginia Tech,14,0
+595,12,"Nov 27, 1947",Wichita State,62,Colorado College,6,0
+596,12,"Nov 27, 1947",William & Mary,35,Richmond,0,1
+597,12,"Nov 29, 1947",Miami,6,Alabama,21,0
+598,12,"Nov 29, 1947",Army,21,Navy,0,0
+599,12,"Nov 29, 1947",Boston University,20,Colgate,14,0
+600,12,"Nov 29, 1947",Kansas State,7,Florida,25,1
+601,12,"Nov 29, 1947",Georgia Tech,7,Georgia,0,0
+602,12,"Nov 29, 1947",Boston College,6,Holy Cross,20,1
+603,12,"Nov 29, 1947",Kansas,54,Arizona,28,1
+604,12,"Nov 29, 1947",Michigan State,58,Hawaii,19,1
+605,12,"Nov 29, 1947",Ole Miss,33,Mississippi State,14,1
+606,12,"Nov 29, 1947",Colorado State,7,Montana,41,1
+607,12,"Nov 29, 1947",Nevada,33,Arizona State,13,0
+608,12,"Nov 29, 1947",New York University,13,Fordham,13,0
+609,12,"Nov 29, 1947",Virginia,7,North Carolina,40,1
+610,12,"Nov 29, 1947",Maryland,0,NC State,0,0
+611,12,"Nov 29, 1947",Oklahoma,21,Oklahoma State,13,0
+612,12,"Nov 29, 1947",Nebraska,6,Oregon State,27,0
+613,12,"Nov 29, 1947",Baylor,6,Rice,34,1
+614,12,"Nov 29, 1947",San Francisco,32,Saint Mary's (CA),20,1
+615,12,"Nov 29, 1947",TCU,19,SMU,19,0
+616,12,"Nov 29, 1947",Vanderbilt,7,Tennessee,12,1
+617,12,"Nov 29, 1947",Hardin-Simmons,6,Texas Tech,14,1
+618,12,"Nov 29, 1947",West Texas State,28,New Mexico,18,1
+619,12,"Nov 29, 1947",Pitt,2,West Virginia,17,0
+620,13,"Dec 6, 1947",Hardin-Simmons,42,Arizona State,0,1
+621,13,"Dec 6, 1947",Kentucky,24,Villanova,14,0
+622,13,"Dec 6, 1947",Tulane,6,LSU,6,0
+623,13,"Dec 6, 1947",USC,7,Notre Dame,38,0
+624,13,"Dec 6, 1947",Arizona,20,Utah,20,0
+625,14,"Dec 13, 1947",Denver,27,Hawaii,0,1
+626,14,"Dec 13, 1947",Pacific,35,Utah State,21,0
+627,15,"Dec 20, 1947",Montana,14,Hawaii,12,1
+628,16,"Dec 27, 1947",Montana,28,Hawaii All-Stars,14,1
+629,17,"Jan 1, 1948",Arkansas,21,William & Mary,19,0
+630,17,"Jan 1, 1948",Catawba College,7,Marshall,0,0
+631,17,"Jan 1, 1948",Georgia Tech,20,Kansas,14,0
+632,17,"Jan 1, 1948",Hardin-Simmons,53,San Diego State,0,1
+633,17,"Jan 1, 1948",Maryland,20,Georgia,20,0
+634,17,"Jan 1, 1948",Miami (OH),13,Texas Tech,12,0
+635,17,"Jan 1, 1948",Michigan,49,USC,0,1
+636,17,"Jan 1, 1948",TCU,9,Ole Miss,13,1
+637,17,"Jan 1, 1948",North Texas,6,Nevada,13,1
+638,17,"Jan 1, 1948",Pacific,26,Wichita State,14,0
+639,17,"Jan 1, 1948",SMU,13,Penn State,13,0
+640,17,"Jan 1, 1948",Alabama,7,Texas,27,1

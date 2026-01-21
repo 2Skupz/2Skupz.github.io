@@ -1,0 +1,180 @@
+0,1,"Sep 7, 1895",Chicago,28,Englewood High,0,0
+1,2,"Sep 14, 1895",Englewood YMCA,6,Chicago,42,1
+2,2,"Sep 15, 1895",Butte A.C.,12,Iowa State,10,0
+3,3,"Sep 21, 1895",Chicago,28,Eureka,0,0
+4,3,"Sep 21, 1895",Northwestern,6,Wisconsin,12,1
+5,4,"Sep 24, 1895",Chicago,24,Hyde Park High,0,0
+6,4,"Sep 26, 1895",Cornell,8,Syracuse,0,0
+7,4,"Sep 26, 1895",Purdue,6,Iowa State,0,0
+8,4,"Sep 28, 1895",Amherst,42,Massachusetts,0,0
+9,4,"Sep 28, 1895",Brown,22,Newton A.C.,0,0
+10,4,"Sep 28, 1895",Chicago,8,Chicago A.C.,0,0
+11,4,"Sep 28, 1895",Dartmouth,50,Exeter,0,0
+12,4,"Sep 28, 1895",Iowa State,36,Northwestern,0,1
+13,4,"Sep 28, 1895",Lake Forest,6,Englewood YMCA,0,0
+14,4,"Sep 28, 1895",Lehigh,25,Rutgers,0,1
+15,4,"Sep 28, 1895",Minnesota,20,Minneapolis Central High,0,1
+16,4,"Sep 28, 1895",Tufts,14,Boston Latin High,0,0
+17,4,"Sep 28, 1895",Wesleyan (CT),10,Yale Consolidated,0,0
+18,4,"Sep 28, 1895",Williams,4,Troy Laureates,0,0
+19,4,"Sep 28, 1895",Yale,8,Trinity (CT),0,1
+20,4,"Sep 30, 1895",Iowa State,6,Wisconsin,28,1
+21,5,"Oct 1, 1895",Pennsylvania,40,Swarthmore,0,0
+22,5,"Oct 2, 1895",Harvard,4,Dartmouth,0,0
+23,5,"Oct 2, 1895",Pennsylvania,40,Bucknell,0,0
+24,5,"Oct 2, 1895",Princeton,38,Elizabeth A.C.,0,1
+25,5,"Oct 2, 1895",Yale,4,Brown,0,0
+26,5,"Oct 3, 1895",Northwestern,16,Evanston High,0,0
+27,5,"Oct 5, 1895",Army,50,Trinity (CT),0,0
+28,5,"Oct 5, 1895",Chicago,52,Lake Forest,0,0
+29,5,"Oct 5, 1895",South Berwick,6,Dartmouth,10,0
+30,5,"Oct 5, 1895",Grinnell,6,Minnesota,4,1
+31,5,"Oct 5, 1895",Harvard,24,Amherst,0,0
+32,5,"Oct 5, 1895",Illinois,48,Wabash,0,0
+33,5,"Oct 5, 1895",Lafayette,12,Orange A.C.,0,1
+34,5,"Oct 5, 1895",Michigan,34,Michigan Military Academy,0,0
+35,5,"Oct 5, 1895",Beloit,6,Northwestern,34,1
+36,5,"Oct 5, 1895",Cornell,0,Penn State,0,0
+37,5,"Oct 5, 1895",Pennsylvania,42,Franklin & Marshall,0,0
+38,5,"Oct 5, 1895",Princeton,22,Rutgers,0,0
+39,5,"Oct 5, 1895",Tufts,28,Boston College,0,0
+40,5,"Oct 5, 1895",Wesleyan (CT),26,Massachusetts,0,1
+41,5,"Oct 5, 1895",Colgate,6,Williams,30,1
+42,5,"Oct 5, 1895",Armour,4,Wisconsin,32,1
+43,5,"Oct 5, 1895",Yale,26,Union (NY),0,1
+44,6,"Oct 9, 1895",Armour,14,Lake Forest,0,0
+45,6,"Oct 9, 1895",Bowdoin,10,Dartmouth,10,0
+46,6,"Oct 9, 1895",Harvard,42,Exeter,0,0
+47,6,"Oct 9, 1895",Pennsylvania,32,Crescent A.C.,0,1
+48,6,"Oct 9, 1895",Princeton,36,Virginia,0,0
+49,6,"Oct 9, 1895",Yale,36,Amherst,0,0
+50,6,"Oct 12, 1895",Amherst,12,Wesleyan (CT),10,0
+51,6,"Oct 12, 1895",Brown,28,Tufts,0,0
+52,6,"Oct 12, 1895",Chicago A.C.,8,Illinois,0,0
+53,6,"Oct 12, 1895",Western Reserve,4,Cornell,12,1
+54,6,"Oct 12, 1895",Dartmouth,38,Bates,0,0
+55,6,"Oct 12, 1895",Harvard,4,Army,0,1
+56,6,"Oct 12, 1895",Iowa State,6,Sioux City A.C.,0,1
+57,6,"Oct 12, 1895",Michigan,42,Detroit A.C.,0,0
+58,6,"Oct 12, 1895",Minnesota,6,Minneapolis Boat Club,0,1
+59,6,"Oct 12, 1895",Northwestern,44,Armour,0,0
+60,6,"Oct 12, 1895",Princeton,14,Lafayette,0,0
+61,6,"Oct 12, 1895",Purdue,32,Kentucky,0,0
+62,6,"Oct 12, 1895",Trinity (CT),22,Massachusetts,0,1
+63,6,"Oct 12, 1895",Lake Forest,5,Wisconsin,26,1
+64,6,"Oct 12, 1895",Yale,8,Crescent A.C.,2,0
+65,6,"Oct 14, 1895",Pennsylvania,54,Lehigh,0,0
+66,7,"Oct 16, 1895",Amherst,16,Wesleyan (CT),14,1
+67,7,"Oct 16, 1895",Harvard,32,Williams,0,0
+68,7,"Oct 16, 1895",Pennsylvania,36,Carlisle,0,0
+69,7,"Oct 16, 1895",Princeton,38,Lawrenceville,0,1
+70,7,"Oct 16, 1895",Yale,26,Dartmouth,0,0
+71,7,"Oct 19, 1895",Army,35,Tufts,0,0
+72,7,"Oct 19, 1895",Crescent A.C.,20,Amherst,0,0
+73,7,"Oct 19, 1895",Dartmouth,30,MIT,0,0
+74,7,"Oct 19, 1895",Brown,6,Harvard,26,1
+75,7,"Oct 19, 1895",Illinois,79,Illinois College,0,0
+76,7,"Oct 19, 1895",Lafayette,6,Cornell,0,1
+77,7,"Oct 19, 1895",Lake Forest,6,Illinois Cycling Club,0,0
+78,7,"Oct 19, 1895",Michigan,64,Adelbert,0,0
+79,7,"Oct 19, 1895",Minnesota,24,Iowa State,0,0
+80,7,"Oct 19, 1895",Purdue,6,Missouri,16,1
+81,7,"Oct 19, 1895",Chicago,6,Northwestern,22,0
+82,7,"Oct 19, 1895",Pennsylvania,54,Virginia,0,0
+83,7,"Oct 19, 1895",Princeton Seminary,4,Princeton,10,1
+84,7,"Oct 19, 1895",New York University,6,Wesleyan (CT),46,1
+85,7,"Oct 19, 1895",Williams,28,Syracuse,10,1
+86,7,"Oct 19, 1895",Grinnell,4,Wisconsin,14,1
+87,7,"Oct 19, 1895",Massachusetts,4,WPI,16,1
+88,7,"Oct 19, 1895",Yale,24,Orange A.C.,12,0
+89,8,"Oct 22, 1895",Chicago A.C.,30,Lake Forest,0,1
+90,8,"Oct 23, 1895",Brown,14,MIT,0,1
+91,8,"Oct 23, 1895",Armour,4,Chicago,24,1
+92,8,"Oct 23, 1895",Dartmouth,12,Boston University,0,0
+93,8,"Oct 23, 1895",Pennsylvania,30,Duquesne A.C.,0,1
+94,8,"Oct 23, 1895",Princeton,16,Lehigh,0,1
+95,8,"Oct 23, 1895",Trinity (CT),64,St. Stephen's,0,0
+96,8,"Oct 23, 1895",WPI,6,Tufts,10,0
+97,8,"Oct 23, 1895",Yale,54,Williams,0,0
+98,8,"Oct 25, 1895",Lafayette,56,Ursinus,0,0
+99,8,"Oct 26, 1895",Army,6,Dartmouth,0,0
+100,8,"Oct 26, 1895",Yale,0,Boston A.C.,0,0
+101,8,"Oct 26, 1895",Lehigh,4,Brown,22,1
+102,8,"Oct 26, 1895",Crescent A.C.,43,Williams,0,0
+103,8,"Oct 26, 1895",Harvard,25,Cornell,0,0
+104,8,"Oct 26, 1895",Wisconsin,10,Illinois,10,0
+105,8,"Oct 26, 1895",Massachusetts,6,Pittsfield A.C.,0,0
+106,8,"Oct 26, 1895",Michigan,40,Lake Forest,0,0
+107,8,"Oct 26, 1895",Chicago,6,Minnesota,10,0
+108,8,"Oct 26, 1895",Pennsylvania,30,Lafayette,0,0
+109,8,"Oct 26, 1895",Princeton,22,Union (NY),0,0
+110,8,"Oct 26, 1895",Wesleyan (CT),16,Tufts,10,0
+111,8,"Oct 28, 1895",Iowa State,24,Iowa,0,1
+112,8,"Oct 28, 1895",Lake Forest,16,Michigan Military Academy,0,1
+113,9,"Oct 29, 1895",Minnesota,4,Purdue,16,1
+114,9,"Oct 30, 1895",Lafayette,52,Rutgers,0,0
+115,9,"Oct 30, 1895",Pennsylvania,12,Brown,0,0
+116,9,"Oct 30, 1895",Orange A.C.,0,Princeton,0,0
+117,9,"Oct 30, 1895",Tufts,4,Trinity (CT),0,0
+118,9,"Oct 30, 1895",Yale,32,Dartmouth,0,0
+119,9,"Oct 31, 1895",Northwestern,24,Lake Forest,0,0
+120,9,"Nov 1, 1895",Chicago A.C.,4,Pennsylvania,12,1
+121,9,"Nov 2, 1895",Williams,4,Amherst,16,1
+122,9,"Nov 2, 1895",Wesleyan (CT),5,Brown,10,1
+123,9,"Nov 2, 1895",Chicago,22,Wisconsin,12,0
+124,9,"Nov 2, 1895",Illinois,38,Lake Forest,0,0
+125,9,"Nov 2, 1895",Michigan,42,Oberlin,0,0
+126,9,"Nov 2, 1895",Minnesota,40,Macalester,0,1
+127,9,"Nov 2, 1895",Purdue,6,Northwestern,24,0
+128,9,"Nov 2, 1895",Orange A.C.,2,Lehigh,0,0
+129,9,"Nov 2, 1895",Harvard,4,Princeton,12,1
+130,9,"Nov 2, 1895",Trinity (CT),30,New York University,0,1
+131,9,"Nov 2, 1895",Tufts,20,Exeter,0,0
+132,9,"Nov 2, 1895",Williston,14,Massachusetts,10,0
+133,9,"Nov 2, 1895",Army,8,Yale,28,0
+134,10,"Nov 5, 1895",Crescent A.C.,16,Brown,0,0
+135,10,"Nov 6, 1895",Andover,6,Tufts,4,1
+136,10,"Nov 6, 1895",Yale,18,Carlisle,0,0
+137,10,"Nov 9, 1895",Chicago,14,Western Reserve,0,1
+138,10,"Nov 9, 1895",Dartmouth,20,Amherst,0,0
+139,10,"Nov 9, 1895",Harvard,4,Michigan,0,0
+140,10,"Nov 9, 1895",Lafayette,22,Lehigh,12,1
+141,10,"Nov 9, 1895",Missouri,22,Northwestern,18,0
+142,10,"Nov 9, 1895",Penn State,4,Pennsylvania,35,1
+143,10,"Nov 9, 1895",Princeton,6,Cornell,0,0
+144,10,"Nov 9, 1895",Trinity (CT),18,New York A.C.,0,1
+145,10,"Nov 9, 1895",Tufts,6,Newton A.C.,0,1
+146,10,"Nov 9, 1895",Union (NY),6,Williams,14,0
+147,10,"Nov 9, 1895",Brown,6,Yale,6,0
+148,11,"Nov 13, 1895",Brown,28,MIT,0,0
+149,11,"Nov 13, 1895",Tufts,30,Whitman,0,0
+150,11,"Nov 16, 1895",MIT,4,Amherst,20,1
+151,11,"Nov 16, 1895",Army,16,Union (NY),0,0
+152,11,"Nov 16, 1895",Harvard,0,Boston A.C.,0,0
+153,11,"Nov 16, 1895",Chicago,6,Northwestern,0,1
+154,11,"Nov 16, 1895",Cornell,6,Brown,4,0
+155,11,"Nov 16, 1895",Williams,5,Dartmouth,10,0
+156,11,"Nov 16, 1895",Lake Forest,26,Wabash,0,1
+157,11,"Nov 16, 1895",Lehigh,6,Navy,4,1
+158,11,"Nov 16, 1895",Michigan,12,Purdue,10,0
+159,11,"Nov 16, 1895",Minnesota,14,Wisconsin,10,0
+160,11,"Nov 16, 1895",Tufts,6,Hopkinson,4,1
+161,11,"Nov 16, 1895",Trinity (CT),6,Wesleyan (CT),14,0
+162,11,"Nov 16, 1895",Yale,26,Orange A.C.,0,0
+163,12,"Nov 23, 1895",Army,26,Brown,0,0
+164,12,"Nov 23, 1895",Boston A.C.,20,Amherst,0,0
+165,12,"Nov 23, 1895",Northwestern,4,Illinois,38,1
+166,12,"Nov 23, 1895",Lehigh,6,Lafayette,14,1
+167,12,"Nov 23, 1895",Michigan,20,Minnesota,0,0
+168,12,"Nov 23, 1895",MIT,6,Tufts,0,0
+169,12,"Nov 23, 1895",Pennsylvania,17,Harvard,14,1
+170,12,"Nov 23, 1895",Wesleyan (CT),6,Union (NY),0,1
+171,12,"Nov 23, 1895",Yale,20,Princeton,10,0
+172,13,"Nov 28, 1895",Amherst,68,Amherst YMCA,0,0
+173,13,"Nov 28, 1895",Beloit,18,Lake Forest,0,1
+174,13,"Nov 28, 1895",Dartmouth,4,Brown,10,1
+175,13,"Nov 28, 1895",Lehigh,10,Baltimore A.C.,0,0
+176,13,"Nov 28, 1895",Michigan,12,Chicago,0,1
+177,13,"Nov 28, 1895",Minnesota,14,Minnesota Alumni,0,0
+178,13,"Nov 28, 1895",Pennsylvania,46,Cornell,2,0
+179,13,"Nov 28, 1895",Purdue,6,Illinois,2,0

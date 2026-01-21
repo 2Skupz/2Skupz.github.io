@@ -1,0 +1,591 @@
+0,1,"Sep 16, 1961",Cincinnati,16,Dayton,12,0
+1,1,"Sep 16, 1961",Davidson,21,Catawba College,15,0
+2,1,"Sep 16, 1961",George Washington,7,Florida State,15,1
+3,1,"Sep 16, 1961",Presbyterian,6,Furman,27,1
+4,1,"Sep 16, 1961",Iowa State,21,Drake,0,1
+5,1,"Sep 16, 1961",Memphis,40,Citadel,0,0
+6,1,"Sep 16, 1961",Northern Arizona,6,New Mexico State,56,1
+7,1,"Sep 16, 1961",Long Beach State,7,Pacific,12,1
+8,1,"Sep 16, 1961",Miami,7,Pitt,10,0
+9,1,"Sep 16, 1961",Richmond,35,West Virginia,26,1
+10,1,"Sep 16, 1961",San Jose State,14,BYU,13,1
+11,1,"Sep 16, 1961",Tulsa,27,Hardin-Simmons,0,0
+12,1,"Sep 16, 1961",Utah,40,Colorado State,0,0
+13,1,"Sep 16, 1961",UTEP,6,Utah State,21,1
+14,1,"Sep 16, 1961",Villanova,33,Miami (OH),0,1
+15,1,"Sep 16, 1961",Marshall,6,Virginia Military Institute,33,1
+16,1,"Sep 16, 1961",William & Mary,6,Virginia Tech,20,1
+17,1,"Sep 16, 1961",Toledo,7,Wichita State,12,0
+18,1,"Sep 16, 1961",Wyoming,29,Montana,0,1
+19,1,"Sep 16, 1961",Kent State,8,Xavier,16,1
+20,2,"Sep 22, 1961",Detroit Mercy,21,Western Michigan,14,0
+21,2,"Sep 22, 1961",USC,7,Georgia Tech,27,0
+22,2,"Sep 22, 1961",San Jose State,16,Pacific,0,0
+23,2,"Sep 23, 1961",Georgia,6,Alabama,32,0
+24,2,"Sep 23, 1961",Colorado State,6,Arizona,28,1
+25,2,"Sep 23, 1961",Wichita State,7,Arizona State,21,1
+26,2,"Sep 23, 1961",Richmond,6,Army,24,1
+27,2,"Sep 23, 1961",Baylor,31,Wake Forest,0,0
+28,2,"Sep 23, 1961",Boston College,23,Cincinnati,0,0
+29,2,"Sep 23, 1961",Buffalo,24,Boston University,12,1
+30,2,"Sep 23, 1961",Duke,7,South Carolina,6,1
+31,2,"Sep 23, 1961",Florida,21,Clemson,17,0
+32,2,"Sep 23, 1961",Furman,45,Davidson,19,0
+33,2,"Sep 23, 1961",George Washington,17,Citadel,13,1
+34,2,"Sep 23, 1961",Texas A&M,7,Houston,7,0
+35,2,"Sep 23, 1961",Oklahoma State,7,Iowa State,14,1
+36,2,"Sep 23, 1961",Indiana,8,Kansas State,14,1
+37,2,"Sep 23, 1961",Kent State,38,Dayton,14,0
+38,2,"Sep 23, 1961",SMU,6,Maryland,14,0
+39,2,"Sep 23, 1961",Memphis,48,Tulsa,12,1
+40,2,"Sep 23, 1961",Kentucky,7,Miami,14,0
+41,2,"Sep 23, 1961",Miami (OH),3,Xavier,0,0
+42,2,"Sep 23, 1961",Ole Miss,16,Arkansas,0,0
+43,2,"Sep 23, 1961",Mississippi State,6,Texas Tech,0,0
+44,2,"Sep 23, 1961",Washington State,6,Missouri,28,1
+45,2,"Sep 23, 1961",Nebraska,33,North Dakota,0,0
+46,2,"Sep 23, 1961",New Mexico State,7,New Mexico,41,1
+47,2,"Sep 23, 1961",North Texas,9,Hardin-Simmons,7,1
+48,2,"Sep 23, 1961",Oregon,51,Idaho,0,0
+49,2,"Sep 23, 1961",Penn State,20,Navy,10,0
+50,2,"Sep 23, 1961",Washington,6,Purdue,13,0
+51,2,"Sep 23, 1961",LSU,3,Rice,16,1
+52,2,"Sep 23, 1961",Stanford,9,Tulane,7,0
+53,2,"Sep 23, 1961",Oregon State,8,Syracuse,19,0
+54,2,"Sep 23, 1961",California,3,Texas,28,0
+55,2,"Sep 23, 1961",TCU,17,Kansas,16,0
+56,2,"Sep 23, 1961",Air Force,6,UCLA,19,0
+57,2,"Sep 23, 1961",Montana,6,Utah State,54,1
+58,2,"Sep 23, 1961",West Virginia,6,Vanderbilt,16,1
+59,2,"Sep 23, 1961",Villanova,22,Virginia Military Institute,0,0
+60,2,"Sep 23, 1961",William & Mary,6,Virginia,21,1
+61,2,"Sep 23, 1961",BYU,8,West Texas State,55,1
+62,2,"Sep 23, 1961",Wisconsin,7,Utah,0,0
+63,2,"Sep 23, 1961",Wyoming,15,NC State,14,0
+64,3,"Sep 29, 1961",Xavier,8,Detroit Mercy,34,1
+65,3,"Sep 29, 1961",Penn State,8,Miami,25,1
+66,3,"Sep 29, 1961",San Diego,7,Pacific,40,0
+67,3,"Sep 29, 1961",USC,21,SMU,16,0
+68,3,"Sep 29, 1961",Virginia Military Institute,8,Richmond,6,1
+69,3,"Sep 30, 1961",Alabama,9,Tulane,0,0
+70,3,"Sep 30, 1961",Nebraska,14,Arizona,14,0
+71,3,"Sep 30, 1961",Colorado State,6,Arizona State,14,0
+72,3,"Sep 30, 1961",Arkansas,6,Tulsa,0,0
+73,3,"Sep 30, 1961",Boston University,7,Army,31,1
+74,3,"Sep 30, 1961",Auburn,24,Tennessee,21,1
+75,3,"Sep 30, 1961",Baylor,16,Pitt,13,1
+76,3,"Sep 30, 1961",Bowling Green,28,Dayton,11,0
+77,3,"Sep 30, 1961",Citadel,20,Davidson,12,0
+78,3,"Sep 30, 1961",Colorado,24,Oklahoma State,0,0
+79,3,"Sep 30, 1961",Columbia,50,Brown,0,1
+80,3,"Sep 30, 1961",Cornell,34,Colgate,0,0
+81,3,"Sep 30, 1961",New Hampshire,3,Dartmouth,28,1
+82,3,"Sep 30, 1961",Duke,42,Virginia,0,1
+83,3,"Sep 30, 1961",Florida,3,Florida State,3,0
+84,3,"Sep 30, 1961",George Washington,9,Furman,13,1
+85,3,"Sep 30, 1961",Georgia Tech,24,Rice,0,0
+86,3,"Sep 30, 1961",Idaho,27,San Jose State,18,0
+87,3,"Sep 30, 1961",California,7,Iowa,28,1
+88,3,"Sep 30, 1961",Kansas State,14,Air Force,12,1
+89,3,"Sep 30, 1961",Lehigh,22,Harvard,17,1
+90,3,"Sep 30, 1961",Texas A&M,7,LSU,16,1
+91,3,"Sep 30, 1961",Maryland,24,Clemson,21,1
+92,3,"Sep 30, 1961",Memphis,56,Hardin-Simmons,0,0
+93,3,"Sep 30, 1961",UCLA,6,Michigan,29,1
+94,3,"Sep 30, 1961",Michigan State,20,Wisconsin,0,1
+95,3,"Sep 30, 1961",Kentucky,6,Ole Miss,20,0
+96,3,"Sep 30, 1961",Houston,7,Mississippi State,10,0
+97,3,"Sep 30, 1961",Missouri,6,Minnesota,0,1
+98,3,"Sep 30, 1961",New Mexico,8,Montana,40,1
+99,3,"Sep 30, 1961",William & Mary,6,Navy,44,1
+100,3,"Sep 30, 1961",McMurry,7,New Mexico State,35,1
+101,3,"Sep 30, 1961",North Carolina,27,NC State,22,0
+102,3,"Sep 30, 1961",North Texas,41,BYU,30,0
+103,3,"Sep 30, 1961",Northwestern,45,Boston College,0,0
+104,3,"Sep 30, 1961",Oklahoma,6,Notre Dame,19,1
+105,3,"Sep 30, 1961",Lafayette,7,Pennsylvania,14,1
+106,3,"Sep 30, 1961",Rutgers,16,Princeton,13,1
+107,3,"Sep 30, 1961",Wake Forest,7,South Carolina,10,0
+108,3,"Sep 30, 1961",Stanford,34,Oregon State,0,1
+109,3,"Sep 30, 1961",Syracuse,29,West Virginia,14,0
+110,3,"Sep 30, 1961",Texas,42,Texas Tech,14,0
+111,3,"Sep 30, 1961",Ohio State,7,TCU,7,0
+112,3,"Sep 30, 1961",Oregon,6,Utah,14,1
+113,3,"Sep 30, 1961",Utah State,34,Washington State,14,1
+114,3,"Sep 30, 1961",Vanderbilt,21,Georgia,0,1
+115,3,"Sep 30, 1961",Holy Cross,6,Villanova,20,0
+116,3,"Sep 30, 1961",Illinois,7,Washington,20,0
+117,3,"Sep 30, 1961",West Texas State,56,UTEP,27,1
+118,3,"Sep 30, 1961",Wichita State,21,Cincinnati,13,0
+119,3,"Sep 30, 1961",Kansas,6,Wyoming,6,0
+120,3,"Sep 30, 1961",Yale,18,Connecticut,0,0
+121,4,"Oct 6, 1961",Tulane,3,Florida,14,0
+122,4,"Oct 6, 1961",Miami,6,Navy,17,0
+123,4,"Oct 6, 1961",Penn State,32,Boston University,0,1
+124,4,"Oct 7, 1961",Vanderbilt,6,Alabama,35,0
+125,4,"Oct 7, 1961",Hardin-Simmons,7,Arizona,53,1
+126,4,"Oct 7, 1961",TCU,3,Arkansas,28,1
+127,4,"Oct 7, 1961",BYU,7,Montana,6,0
+128,4,"Oct 7, 1961",Missouri,14,California,14,0
+129,4,"Oct 7, 1961",Richmond,6,Citadel,24,1
+130,4,"Oct 7, 1961",Clemson,27,North Carolina,0,1
+131,4,"Oct 7, 1961",Colgate,13,Bucknell,0,0
+132,4,"Oct 7, 1961",Colorado,20,Kansas,19,0
+133,4,"Oct 7, 1961",Dartmouth,30,Pennsylvania,0,1
+134,4,"Oct 7, 1961",Presbyterian,7,Davidson,21,1
+135,4,"Oct 7, 1961",Wake Forest,3,Duke,23,1
+136,4,"Oct 7, 1961",Fresno State,20,Pacific,19,1
+137,4,"Oct 7, 1961",Virginia Military Institute,6,George Washington,30,1
+138,4,"Oct 7, 1961",Georgia,17,South Carolina,14,0
+139,4,"Oct 7, 1961",Harvard,14,Cornell,0,0
+140,4,"Oct 7, 1961",Buffalo,8,Holy Cross,20,0
+141,4,"Oct 7, 1961",Houston,21,Boston College,0,0
+142,4,"Oct 7, 1961",Iowa,35,USC,34,1
+143,4,"Oct 7, 1961",Iowa State,21,Oklahoma,15,1
+144,4,"Oct 7, 1961",Kentucky,14,Auburn,12,1
+145,4,"Oct 7, 1961",LSU,10,Georgia Tech,0,0
+146,4,"Oct 7, 1961",Maryland,22,Syracuse,21,0
+147,4,"Oct 7, 1961",Memphis,28,Louisville,13,1
+148,4,"Oct 7, 1961",Army,8,Michigan,38,1
+149,4,"Oct 7, 1961",Michigan State,31,Stanford,3,0
+150,4,"Oct 7, 1961",Oregon,7,Minnesota,14,1
+151,4,"Oct 7, 1961",Ole Miss,33,Florida State,0,0
+152,4,"Oct 7, 1961",Nebraska,24,Kansas State,0,1
+153,4,"Oct 7, 1961",New Mexico,7,UTEP,6,0
+154,4,"Oct 7, 1961",North Texas,14,New Mexico State,14,0
+155,4,"Oct 7, 1961",NC State,21,Virginia,14,1
+156,4,"Oct 7, 1961",Illinois,7,Northwestern,28,0
+157,4,"Oct 7, 1961",Notre Dame,22,Purdue,20,1
+158,4,"Oct 7, 1961",Ohio,14,Dayton,13,1
+159,4,"Oct 7, 1961",UCLA,3,Ohio State,13,1
+160,4,"Oct 7, 1961",Oklahoma State,26,Tulsa,0,0
+161,4,"Oct 7, 1961",Idaho,6,Oregon State,44,1
+162,4,"Oct 7, 1961",Princeton,30,Columbia,20,1
+163,4,"Oct 7, 1961",Rutgers,35,Connecticut,12,0
+164,4,"Oct 7, 1961",San Jose State,14,Colorado State,0,0
+165,4,"Oct 7, 1961",SMU,9,Air Force,7,0
+166,4,"Oct 7, 1961",Mississippi State,3,Tennessee,17,1
+167,4,"Oct 7, 1961",Washington State,8,Texas,41,1
+168,4,"Oct 7, 1961",Texas Tech,7,Texas A&M,38,0
+169,4,"Oct 7, 1961",Utah,28,Arizona State,26,1
+170,4,"Oct 7, 1961",Wyoming,6,Utah State,6,0
+171,4,"Oct 7, 1961",Villanova,33,Massachusetts,13,1
+172,4,"Oct 7, 1961",Washington,22,Pitt,17,0
+173,4,"Oct 7, 1961",West Virginia,28,Virginia Tech,0,0
+174,4,"Oct 7, 1961",Wichita State,41,West Texas State,34,1
+175,4,"Oct 7, 1961",Furman,6,William & Mary,19,1
+176,4,"Oct 7, 1961",Wisconsin,6,Indiana,3,1
+177,4,"Oct 7, 1961",Xavier,17,Cincinnati,12,1
+178,4,"Oct 7, 1961",Brown,3,Yale,14,1
+179,5,"Oct 13, 1961",Colorado,9,Miami,7,1
+180,5,"Oct 13, 1961",Boston College,3,Detroit Mercy,20,1
+181,5,"Oct 14, 1961",Abilene Christian,27,Hardin-Simmons,0,1
+182,5,"Oct 14, 1961",Air Force,8,Cincinnati,6,1
+183,5,"Oct 14, 1961",NC State,7,Alabama,26,1
+184,5,"Oct 14, 1961",Oregon,6,Arizona,15,0
+185,5,"Oct 14, 1961",Arizona State,28,West Texas State,11,1
+186,5,"Oct 14, 1961",Arkansas,23,Baylor,13,1
+187,5,"Oct 14, 1961",Penn State,6,Army,10,0
+188,5,"Oct 14, 1961",Chattanooga,7,Auburn,35,1
+189,5,"Oct 14, 1961",California,21,Washington,14,0
+190,5,"Oct 14, 1961",William & Mary,8,Citadel,10,0
+191,5,"Oct 14, 1961",Colgate,15,Harvard,0,1
+192,5,"Oct 14, 1961",Columbia,11,Yale,0,1
+193,5,"Oct 14, 1961",Dartmouth,34,Brown,0,0
+194,5,"Oct 14, 1961",Dayton,7,Louisville,6,1
+195,5,"Oct 14, 1961",Florida State,3,Georgia,0,0
+196,5,"Oct 14, 1961",Furman,21,Samford,14,0
+197,5,"Oct 14, 1961",Georgia Tech,21,Duke,0,0
+198,5,"Oct 14, 1961",Boston University,7,Holy Cross,20,0
+199,5,"Oct 14, 1961",Indiana,8,Iowa,27,1
+200,5,"Oct 14, 1961",Iowa State,7,Kansas,21,1
+201,5,"Oct 14, 1961",Kansas State,8,Kentucky,21,1
+202,5,"Oct 14, 1961",LSU,42,South Carolina,0,1
+203,5,"Oct 14, 1961",Southern Miss,7,Memphis,21,1
+204,5,"Oct 14, 1961",Michigan State,28,Michigan,0,1
+205,5,"Oct 14, 1961",Northwestern,3,Minnesota,10,0
+206,5,"Oct 14, 1961",Houston,7,Ole Miss,47,1
+207,5,"Oct 14, 1961",Mississippi State,38,Arkansas State,0,0
+208,5,"Oct 14, 1961",Missouri,10,Oklahoma State,0,1
+209,5,"Oct 14, 1961",Cornell,7,Navy,31,0
+210,5,"Oct 14, 1961",New Mexico State,70,Pacific,19,0
+211,5,"Oct 14, 1961",Maryland,8,North Carolina,14,0
+212,5,"Oct 14, 1961",Notre Dame,30,USC,0,0
+213,5,"Oct 14, 1961",Ohio State,44,Illinois,0,0
+214,5,"Oct 14, 1961",Princeton,9,Pennsylvania,3,0
+215,5,"Oct 14, 1961",Miami (OH),6,Purdue,19,1
+216,5,"Oct 14, 1961",Rice,19,Florida,10,0
+217,5,"Oct 14, 1961",Richmond,16,George Washington,15,0
+218,5,"Oct 14, 1961",Bucknell,6,Rutgers,21,0
+219,5,"Oct 14, 1961",San Jose State,6,Stanford,17,1
+220,5,"Oct 14, 1961",Nebraska,6,Syracuse,28,0
+221,5,"Oct 14, 1961",Tulsa,6,Tennessee,52,1
+222,5,"Oct 14, 1961",Oklahoma,7,Texas,28,1
+223,5,"Oct 14, 1961",Texas A&M,55,Trinity (Texas),0,1
+224,5,"Oct 14, 1961",Texas Tech,10,TCU,0,0
+225,5,"Oct 14, 1961",UTEP,20,McMurry,16,0
+226,5,"Oct 14, 1961",Tulane,27,Virginia Tech,14,0
+227,5,"Oct 14, 1961",UCLA,28,Vanderbilt,21,0
+228,5,"Oct 14, 1961",Utah,21,BYU,20,0
+229,5,"Oct 14, 1961",New Mexico,7,Utah State,41,1
+230,5,"Oct 14, 1961",Buffalo,6,Villanova,28,1
+231,5,"Oct 14, 1961",Virginia Military Institute,7,Virginia,14,1
+232,5,"Oct 14, 1961",Wake Forest,17,Clemson,13,1
+233,5,"Oct 14, 1961",Washington State,34,Idaho,0,0
+234,5,"Oct 14, 1961",Pitt,6,West Virginia,20,0
+235,5,"Oct 14, 1961",Wichita State,26,North Texas,14,1
+236,5,"Oct 14, 1961",Wisconsin,23,Oregon State,20,0
+237,5,"Oct 14, 1961",Colorado State,7,Wyoming,18,1
+238,5,"Oct 14, 1961",Xavier,6,Ohio,3,1
+239,6,"Oct 20, 1961",George Washington,49,William & Mary,12,0
+240,6,"Oct 20, 1961",Navy,37,Detroit Mercy,19,1
+241,6,"Oct 21, 1961",Alabama,34,Tennessee,3,0
+242,6,"Oct 21, 1961",Arizona,22,New Mexico,21,0
+243,6,"Oct 21, 1961",Arizona State,24,Oregon State,23,0
+244,6,"Oct 21, 1961",Idaho,7,Army,51,1
+245,6,"Oct 21, 1961",Villanova,6,Boston College,22,1
+246,6,"Oct 21, 1961",West Virginia,6,Boston University,12,1
+247,6,"Oct 21, 1961",Citadel,9,Furman,8,0
+248,6,"Oct 21, 1961",Duke,7,Clemson,17,0
+249,6,"Oct 21, 1961",Colgate,15,Princeton,0,1
+250,6,"Oct 21, 1961",Colorado,13,Kansas State,0,1
+251,6,"Oct 21, 1961",Columbia,26,Harvard,14,1
+252,6,"Oct 21, 1961",Florida,7,Vanderbilt,0,1
+253,6,"Oct 21, 1961",Richmond,7,Florida State,13,1
+254,6,"Oct 21, 1961",Mississippi State,7,Georgia,10,1
+255,6,"Oct 21, 1961",Georgia Tech,7,Auburn,6,0
+256,6,"Oct 21, 1961",Holy Cross,17,Dartmouth,13,0
+257,6,"Oct 21, 1961",Cincinnati,7,Houston,13,0
+258,6,"Oct 21, 1961",Washington State,7,Indiana,33,1
+259,6,"Oct 21, 1961",Iowa,47,Wisconsin,15,0
+260,6,"Oct 21, 1961",Kansas,10,Oklahoma,0,1
+261,6,"Oct 21, 1961",LSU,24,Kentucky,14,0
+262,6,"Oct 21, 1961",Maryland,21,Air Force,0,1
+263,6,"Oct 21, 1961",Memphis,35,Abilene Christian,0,0
+264,6,"Oct 21, 1961",Michigan,16,Purdue,14,0
+265,6,"Oct 21, 1961",Notre Dame,7,Michigan State,17,1
+266,6,"Oct 21, 1961",Minnesota,33,Illinois,0,1
+267,6,"Oct 21, 1961",Ole Miss,41,Tulane,0,0
+268,6,"Oct 21, 1961",Iowa State,7,Missouri,13,0
+269,6,"Oct 21, 1961",North Carolina,17,South Carolina,0,1
+270,6,"Oct 21, 1961",NC State,7,Wake Forest,0,0
+271,6,"Oct 21, 1961",North Texas,23,Tulsa,12,0
+272,6,"Oct 21, 1961",Ohio State,10,Northwestern,0,1
+273,6,"Oct 21, 1961",Nebraska,6,Oklahoma State,14,1
+274,6,"Oct 21, 1961",San Jose State,6,Oregon,21,1
+275,6,"Oct 21, 1961",San Diego Marines,9,Pacific,12,1
+276,6,"Oct 21, 1961",Penn State,14,Syracuse,0,0
+277,6,"Oct 21, 1961",Pennsylvania,7,Brown,0,0
+278,6,"Oct 21, 1961",Rice,10,SMU,0,0
+279,6,"Oct 21, 1961",Rutgers,32,Lehigh,15,0
+280,6,"Oct 21, 1961",USC,28,California,14,1
+281,6,"Oct 21, 1961",Arkansas,7,Texas,33,0
+282,6,"Oct 21, 1961",TCU,15,Texas A&M,14,0
+283,6,"Oct 21, 1961",Texas Tech,19,Baylor,17,0
+284,6,"Oct 21, 1961",UTEP,19,Trinity (Texas),14,1
+285,6,"Oct 21, 1961",Pitt,6,UCLA,20,1
+286,6,"Oct 21, 1961",Utah,24,Montana,12,1
+287,6,"Oct 21, 1961",Utah State,49,Colorado State,3,1
+288,6,"Oct 21, 1961",Virginia Military Institute,13,Davidson,0,1
+289,6,"Oct 21, 1961",Virginia Tech,20,Virginia,0,0
+290,6,"Oct 21, 1961",Washington,13,Stanford,0,0
+291,6,"Oct 21, 1961",West Texas State,42,Hardin-Simmons,0,0
+292,6,"Oct 21, 1961",Wichita State,42,New Mexico State,27,0
+293,6,"Oct 21, 1961",BYU,8,Wyoming,36,1
+294,6,"Oct 21, 1961",Xavier,14,Dayton,0,1
+295,6,"Oct 21, 1961",Yale,12,Cornell,0,1
+296,7,"Oct 27, 1961",George Washington,6,Boston University,20,0
+297,7,"Oct 27, 1961",Miami,10,North Carolina,0,0
+298,7,"Oct 28, 1961",Alabama,17,Houston,0,1
+299,7,"Oct 28, 1961",Arizona State,47,Hardin-Simmons,0,0
+300,7,"Oct 28, 1961",Northwestern State,7,Arkansas,42,1
+301,7,"Oct 28, 1961",Auburn,24,Clemson,14,0
+302,7,"Oct 28, 1961",North Texas,9,Cincinnati,21,1
+303,7,"Oct 28, 1961",Citadel,7,Xavier,6,1
+304,7,"Oct 28, 1961",Yale,8,Colgate,14,0
+305,7,"Oct 28, 1961",Colorado,22,Oklahoma,14,1
+306,7,"Oct 28, 1961",Detroit Mercy,41,Dayton,12,1
+307,7,"Oct 28, 1961",NC State,6,Duke,17,0
+308,7,"Oct 28, 1961",Wofford,7,Furman,12,0
+309,7,"Oct 28, 1961",Georgia,16,Kentucky,15,0
+310,7,"Oct 28, 1961",Georgia Tech,35,Tulane,0,1
+311,7,"Oct 28, 1961",Harvard,21,Dartmouth,15,0
+312,7,"Oct 28, 1961",Kansas State,7,Iowa State,31,1
+313,7,"Oct 28, 1961",Oklahoma State,8,Kansas,42,1
+314,7,"Oct 28, 1961",Columbia,7,Lehigh,14,0
+315,7,"Oct 28, 1961",LSU,23,Florida,0,1
+316,7,"Oct 28, 1961",Michigan State,35,Indiana,0,0
+317,7,"Oct 28, 1961",Minnesota,23,Michigan,20,0
+318,7,"Oct 28, 1961",Ole Miss,47,Vanderbilt,0,0
+319,7,"Oct 28, 1961",Mississippi State,23,Memphis,16,1
+320,7,"Oct 28, 1961",Missouri,10,Nebraska,0,0
+321,7,"Oct 28, 1961",Montana,22,Colorado State,19,0
+322,7,"Oct 28, 1961",Air Force,6,New Mexico,21,1
+323,7,"Oct 28, 1961",UTEP,6,New Mexico State,42,0
+324,7,"Oct 28, 1961",Northwestern,12,Notre Dame,10,1
+325,7,"Oct 28, 1961",Ohio State,30,Wisconsin,21,1
+326,7,"Oct 28, 1961",Oregon,7,Washington,6,0
+327,7,"Oct 28, 1961",Pacific,45,Cal State Los Angeles,27,0
+328,7,"Oct 28, 1961",Penn State,33,California,16,0
+329,7,"Oct 28, 1961",Pitt,28,Navy,14,0
+330,7,"Oct 28, 1961",Princeton,30,Cornell,25,0
+331,7,"Oct 28, 1961",Purdue,9,Iowa,0,0
+332,7,"Oct 28, 1961",Brown,9,Rhode Island,12,0
+333,7,"Oct 28, 1961",Richmond,20,Davidson,0,0
+334,7,"Oct 28, 1961",Pennsylvania,6,Rutgers,20,0
+335,7,"Oct 28, 1961",San Jose State,21,Washington State,19,1
+336,7,"Oct 28, 1961",South Carolina,20,Maryland,10,0
+337,7,"Oct 28, 1961",USC,14,Illinois,10,0
+338,7,"Oct 28, 1961",SMU,8,Texas Tech,7,0
+339,7,"Oct 28, 1961",Holy Cross,6,Syracuse,34,1
+340,7,"Oct 28, 1961",Chattanooga,7,Tennessee,20,1
+341,7,"Oct 28, 1961",Rice,7,Texas,34,1
+342,7,"Oct 28, 1961",Texas A&M,23,Baylor,0,0
+343,7,"Oct 28, 1961",UCLA,20,Stanford,0,1
+344,7,"Oct 28, 1961",Utah State,69,Idaho,0,0
+345,7,"Oct 28, 1961",Villanova,34,Quantico Marines,0,0
+346,7,"Oct 28, 1961",William & Mary,7,Virginia Military Institute,14,0
+347,7,"Oct 28, 1961",Florida State,7,Virginia Tech,10,1
+348,7,"Oct 28, 1961",Wake Forest,21,Virginia,15,0
+349,7,"Oct 28, 1961",West Texas State,27,Arizona,23,0
+350,7,"Oct 28, 1961",West Virginia,7,Army,3,1
+351,7,"Oct 28, 1961",Wichita State,9,Tulsa,7,0
+352,7,"Oct 28, 1961",Utah,6,Wyoming,13,0
+353,8,"Nov 3, 1961",Georgia,7,Miami,32,1
+354,8,"Nov 4, 1961",Colorado State,9,Air Force,14,1
+355,8,"Nov 4, 1961",Alabama,24,Mississippi State,0,0
+356,8,"Nov 4, 1961",Arizona,20,Wyoming,15,0
+357,8,"Nov 4, 1961",Texas A&M,8,Arkansas,15,1
+358,8,"Nov 4, 1961",Detroit Mercy,7,Army,34,1
+359,8,"Nov 4, 1961",Wake Forest,7,Auburn,21,1
+360,8,"Nov 4, 1961",Baylor,28,TCU,14,0
+361,8,"Nov 4, 1961",Boston College,14,Iowa State,10,0
+362,8,"Nov 4, 1961",Massachusetts,7,Boston University,21,0
+363,8,"Nov 4, 1961",West Texas State,6,Bowling Green,28,1
+364,8,"Nov 4, 1961",Virginia Military Institute,8,Citadel,14,0
+365,8,"Nov 4, 1961",Tulane,6,Clemson,21,1
+366,8,"Nov 4, 1961",Colorado,7,Missouri,6,0
+367,8,"Nov 4, 1961",Cornell,7,Columbia,35,0
+368,8,"Nov 4, 1961",Yale,8,Dartmouth,24,0
+369,8,"Nov 4, 1961",Davidson,31,William & Mary,30,1
+370,8,"Nov 4, 1961",Furman,7,Memphis,6,1
+371,8,"Nov 4, 1961",Georgia Tech,20,Florida,0,0
+372,8,"Nov 4, 1961",Pennsylvania,6,Harvard,37,0
+373,8,"Nov 4, 1961",Holy Cross,28,Dayton,0,0
+374,8,"Nov 4, 1961",Nebraska,6,Kansas,28,0
+375,8,"Nov 4, 1961",Kentucky,20,Florida State,0,0
+376,8,"Nov 4, 1961",Lehigh,20,Colgate,15,0
+377,8,"Nov 4, 1961",Ole Miss,7,LSU,10,1
+378,8,"Nov 4, 1961",Maryland,21,Penn State,17,0
+379,8,"Nov 4, 1961",Michigan,28,Duke,14,0
+380,8,"Nov 4, 1961",Minnesota,13,Michigan State,0,0
+381,8,"Nov 4, 1961",Navy,13,Notre Dame,10,1
+382,8,"Nov 4, 1961",New Mexico,21,Utah,16,0
+383,8,"Nov 4, 1961",North Carolina,22,Tennessee,21,0
+384,8,"Nov 4, 1961",NC State,7,Southern Miss,6,1
+385,8,"Nov 4, 1961",North Texas,28,Drake,21,0
+386,8,"Nov 4, 1961",Indiana,8,Northwestern,14,1
+387,8,"Nov 4, 1961",Ohio State,29,Iowa,13,0
+388,8,"Nov 4, 1961",Kansas State,6,Oklahoma,17,0
+389,8,"Nov 4, 1961",Stanford,7,Oregon,19,0
+390,8,"Nov 4, 1961",Washington State,6,Oregon State,14,1
+391,8,"Nov 4, 1961",Pacific,27,Idaho,2,1
+392,8,"Nov 4, 1961",Princeton,52,Brown,0,1
+393,8,"Nov 4, 1961",Illinois,9,Purdue,23,0
+394,8,"Nov 4, 1961",Texas Tech,7,Rice,42,0
+395,8,"Nov 4, 1961",Richmond,11,Virginia Tech,0,0
+396,8,"Nov 4, 1961",Lafayette,6,Rutgers,37,0
+397,8,"Nov 4, 1961",San Jose State,32,Arizona State,26,0
+398,8,"Nov 4, 1961",Washington,0,USC,0,0
+399,8,"Nov 4, 1961",Pitt,9,Syracuse,28,1
+400,8,"Nov 4, 1961",Texas,27,SMU,0,1
+401,8,"Nov 4, 1961",Hardin-Simmons,7,UTEP,35,0
+402,8,"Nov 4, 1961",Trinity (Texas),17,New Mexico State,14,0
+403,8,"Nov 4, 1961",Tulsa,19,Cincinnati,0,0
+404,8,"Nov 4, 1961",UCLA,35,California,15,0
+405,8,"Nov 4, 1961",BYU,8,Utah State,31,0
+406,8,"Nov 4, 1961",Villanova,40,West Chester,13,0
+407,8,"Nov 4, 1961",Virginia,28,South Carolina,20,0
+408,8,"Nov 4, 1961",George Washington,7,West Virginia,12,0
+409,8,"Nov 4, 1961",Wichita State,25,Oklahoma State,13,0
+410,8,"Nov 4, 1961",Louisville,8,Xavier,16,1
+411,9,"Nov 10, 1961",Villanova,6,Detroit Mercy,20,1
+412,9,"Nov 10, 1961",TCU,7,UCLA,28,1
+413,9,"Nov 11, 1961",Air Force,15,California,14,1
+414,9,"Nov 11, 1961",Alabama,66,Richmond,0,0
+415,9,"Nov 11, 1961",Idaho,7,Arizona,43,0
+416,9,"Nov 11, 1961",Arizona State,48,UTEP,28,1
+417,9,"Nov 11, 1961",Arkansas,10,Rice,0,1
+418,9,"Nov 11, 1961",Army,48,William & Mary,13,0
+419,9,"Nov 11, 1961",Connecticut,6,Boston University,14,1
+420,9,"Nov 11, 1961",BYU,30,Colorado State,16,0
+421,9,"Nov 11, 1961",Columbia,35,Dartmouth,14,0
+422,9,"Nov 11, 1961",Cornell,25,Brown,0,0
+423,9,"Nov 11, 1961",Davidson,34,Wofford,13,0
+424,9,"Nov 11, 1961",Navy,9,Duke,30,1
+425,9,"Nov 11, 1961",Florida,21,Georgia,14,0
+426,9,"Nov 11, 1961",Citadel,8,Florida State,44,1
+427,9,"Nov 11, 1961",East Carolina,8,Furman,29,1
+428,9,"Nov 11, 1961",Harvard,9,Princeton,7,0
+429,9,"Nov 11, 1961",Massachusetts,7,Holy Cross,44,1
+430,9,"Nov 11, 1961",Tulsa,2,Houston,14,0
+431,9,"Nov 11, 1961",Kansas,34,Kansas State,0,0
+432,9,"Nov 11, 1961",Vanderbilt,3,Kentucky,16,0
+433,9,"Nov 11, 1961",LSU,30,North Carolina,0,1
+434,9,"Nov 11, 1961",NC State,7,Maryland,10,1
+435,9,"Nov 11, 1961",McMurry,27,Hardin-Simmons,14,0
+436,9,"Nov 11, 1961",Memphis,41,North Texas,0,0
+437,9,"Nov 11, 1961",Miami,6,Tulane,0,1
+438,9,"Nov 11, 1961",Dayton,6,Miami (OH),48,0
+439,9,"Nov 11, 1961",Illinois,6,Michigan,38,0
+440,9,"Nov 11, 1961",Iowa,9,Minnesota,16,0
+441,9,"Nov 11, 1961",Ole Miss,54,Chattanooga,0,0
+442,9,"Nov 11, 1961",Mississippi State,11,Auburn,10,1
+443,9,"Nov 11, 1961",Montana,9,Montana State,10,1
+444,9,"Nov 11, 1961",Nebraska,16,Iowa State,13,1
+445,9,"Nov 11, 1961",Notre Dame,26,Pitt,20,1
+446,9,"Nov 11, 1961",Indiana,7,Ohio State,16,0
+447,9,"Nov 11, 1961",Oklahoma,7,Missouri,0,1
+448,9,"Nov 11, 1961",Oregon State,3,Washington,0,1
+449,9,"Nov 11, 1961",West Virginia,6,Penn State,20,0
+450,9,"Nov 11, 1961",Purdue,7,Michigan State,6,0
+451,9,"Nov 11, 1961",Rutgers,27,Delaware,19,0
+452,9,"Nov 11, 1961",San Jose State,29,Pacific,26,1
+453,9,"Nov 11, 1961",South Carolina,21,Clemson,14,0
+454,9,"Nov 11, 1961",USC,30,Stanford,15,0
+455,9,"Nov 11, 1961",Colgate,8,Syracuse,51,1
+456,9,"Nov 11, 1961",Georgia Tech,6,Tennessee,10,1
+457,9,"Nov 11, 1961",Baylor,7,Texas,33,1
+458,9,"Nov 11, 1961",Texas A&M,25,SMU,12,0
+459,9,"Nov 11, 1961",Boston College,6,Texas Tech,14,1
+460,9,"Nov 11, 1961",Utah,21,Colorado,12,1
+461,9,"Nov 11, 1961",Utah State,65,Western Michigan,22,1
+462,9,"Nov 11, 1961",Buffalo,6,Virginia Military Institute,39,0
+463,9,"Nov 11, 1961",Wake Forest,24,Virginia Tech,15,0
+464,9,"Nov 11, 1961",Washington State,22,Oregon,21,0
+465,9,"Nov 11, 1961",West Texas State,29,Trinity (Texas),28,1
+466,9,"Nov 11, 1961",Wichita State,26,Drake,13,0
+467,9,"Nov 11, 1961",Wisconsin,29,Northwestern,10,1
+468,9,"Nov 11, 1961",New Mexico,7,Wyoming,33,0
+469,9,"Nov 11, 1961",Xavier,3,Marshall,2,0
+470,9,"Nov 11, 1961",Yale,23,Pennsylvania,0,1
+471,10,"Nov 17, 1961",Tulane,17,Vanderbilt,14,0
+472,10,"Nov 17, 1961",George Washington,3,Virginia Tech,14,1
+473,10,"Nov 18, 1961",Alabama,10,Georgia Tech,0,0
+474,10,"Nov 18, 1961",Arizona,48,UTEP,15,0
+475,10,"Nov 18, 1961",Detroit Mercy,6,Arizona State,40,1
+476,10,"Nov 18, 1961",SMU,7,Arkansas,21,0
+477,10,"Nov 18, 1961",Georgia,7,Auburn,10,0
+478,10,"Nov 18, 1961",Air Force,7,Baylor,31,1
+479,10,"Nov 18, 1961",Boston University,7,Boston College,10,0
+480,10,"Nov 18, 1961",Arkansas State,6,Citadel,28,1
+481,10,"Nov 18, 1961",Furman,6,Clemson,35,1
+482,10,"Nov 18, 1961",Colorado,7,Nebraska,0,1
+483,10,"Nov 18, 1961",Pennsylvania,6,Columbia,37,1
+484,10,"Nov 18, 1961",Dartmouth,15,Cornell,14,0
+485,10,"Nov 18, 1961",Dayton,23,Wichita State,12,0
+486,10,"Nov 18, 1961",Duke,6,North Carolina,3,0
+487,10,"Nov 18, 1961",Fresno State,36,San Jose State,27,0
+488,10,"Nov 18, 1961",Brown,6,Harvard,21,1
+489,10,"Nov 18, 1961",Idaho,16,Montana,14,1
+490,10,"Nov 18, 1961",West Virginia,9,Indiana,17,0
+491,10,"Nov 18, 1961",Tulsa,6,Iowa State,27,0
+492,10,"Nov 18, 1961",California,7,Kansas,53,0
+493,10,"Nov 18, 1961",Kentucky,9,Xavier,0,0
+494,10,"Nov 18, 1961",Mississippi State,6,LSU,14,1
+495,10,"Nov 18, 1961",Louisville,20,North Texas,0,1
+496,10,"Nov 18, 1961",Wake Forest,7,Maryland,10,1
+497,10,"Nov 18, 1961",Miami (OH),7,Cincinnati,3,1
+498,10,"Nov 18, 1961",Michigan,23,Iowa,14,0
+499,10,"Nov 18, 1961",Michigan State,21,Northwestern,13,0
+500,10,"Nov 18, 1961",Purdue,7,Minnesota,10,1
+501,10,"Nov 18, 1961",Ole Miss,24,Tennessee,10,0
+502,10,"Nov 18, 1961",Kansas State,9,Missouri,27,1
+503,10,"Nov 18, 1961",Virginia,3,Navy,13,1
+504,10,"Nov 18, 1961",Colorado State,8,New Mexico,20,0
+505,10,"Nov 18, 1961",NC State,38,South Carolina,14,0
+506,10,"Nov 18, 1961",Notre Dame,17,Syracuse,15,0
+507,10,"Nov 18, 1961",Ohio State,22,Oregon,12,0
+508,10,"Nov 18, 1961",Army,8,Oklahoma,14,0
+509,10,"Nov 18, 1961",Oklahoma State,28,Houston,24,0
+510,10,"Nov 18, 1961",Oregon State,35,BYU,0,0
+511,10,"Nov 18, 1961",Penn State,34,Holy Cross,14,0
+512,10,"Nov 18, 1961",USC,9,Pitt,10,1
+513,10,"Nov 18, 1961",Princeton,26,Yale,16,0
+514,10,"Nov 18, 1961",Texas A&M,7,Rice,21,1
+515,10,"Nov 18, 1961",Colgate,6,Rutgers,26,0
+516,10,"Nov 18, 1961",Southern Miss,12,Florida State,0,1
+517,10,"Nov 18, 1961",TCU,6,Texas,0,1
+518,10,"Nov 18, 1961",Utah,6,Utah State,17,0
+519,10,"Nov 18, 1961",Washington,17,UCLA,13,1
+520,10,"Nov 18, 1961",Washington State,30,Stanford,0,1
+521,10,"Nov 18, 1961",West Texas State,35,New Mexico State,22,1
+522,10,"Nov 18, 1961",Illinois,7,Wisconsin,55,1
+523,11,"Nov 23, 1961",Brown,6,Colgate,30,0
+524,11,"Nov 23, 1961",Memphis,41,Chattanooga,13,1
+525,11,"Nov 23, 1961",Richmond,36,William & Mary,18,0
+526,11,"Nov 23, 1961",Texas,25,Texas A&M,0,1
+527,11,"Nov 23, 1961",Virginia Military Institute,6,Virginia Tech,0,0
+528,11,"Nov 24, 1961",Northwestern,6,Miami,10,1
+529,11,"Nov 25, 1961",Arizona,22,Arizona State,13,1
+530,11,"Nov 25, 1961",Arkansas,28,Texas Tech,0,0
+531,11,"Nov 25, 1961",Auburn,32,Florida,15,0
+532,11,"Nov 25, 1961",SMU,6,Baylor,31,1
+533,11,"Nov 25, 1961",Cincinnati,19,Detroit Mercy,13,0
+534,11,"Nov 25, 1961",Clemson,20,NC State,0,0
+535,11,"Nov 25, 1961",Colorado,34,Iowa State,0,0
+536,11,"Nov 25, 1961",Cornell,31,Pennsylvania,0,1
+537,11,"Nov 25, 1961",Princeton,6,Dartmouth,24,0
+538,11,"Nov 25, 1961",Harvard,27,Yale,0,1
+539,11,"Nov 25, 1961",Connecticut,3,Holy Cross,14,0
+540,11,"Nov 25, 1961",Florida State,8,Houston,28,1
+541,11,"Nov 25, 1961",Iowa,42,Notre Dame,21,0
+542,11,"Nov 25, 1961",LSU,62,Tulane,0,0
+543,11,"Nov 25, 1961",Illinois,7,Michigan State,34,1
+544,11,"Nov 25, 1961",Kansas,7,Missouri,10,0
+545,11,"Nov 25, 1961",BYU,6,New Mexico,34,1
+546,11,"Nov 25, 1961",Hardin-Simmons,8,New Mexico State,54,1
+547,11,"Nov 25, 1961",North Texas,24,UTEP,14,1
+548,11,"Nov 25, 1961",Ohio State,50,Michigan,20,1
+549,11,"Nov 25, 1961",Oklahoma,21,Nebraska,14,1
+550,11,"Nov 25, 1961",Oklahoma State,45,Kansas State,0,0
+551,11,"Nov 25, 1961",Oregon State,6,Oregon,2,1
+552,11,"Nov 25, 1961",Penn State,47,Pitt,26,1
+553,11,"Nov 25, 1961",Purdue,34,Indiana,12,1
+554,11,"Nov 25, 1961",Rice,35,TCU,16,1
+555,11,"Nov 25, 1961",Rutgers,32,Columbia,19,0
+556,11,"Nov 25, 1961",Vanderbilt,7,South Carolina,23,0
+557,11,"Nov 25, 1961",California,7,Stanford,20,1
+558,11,"Nov 25, 1961",Syracuse,28,Boston College,13,1
+559,11,"Nov 25, 1961",Tennessee,26,Kentucky,16,1
+560,11,"Nov 25, 1961",USC,7,UCLA,10,0
+561,11,"Nov 25, 1961",Virginia,28,Maryland,16,0
+562,11,"Nov 25, 1961",Wake Forest,17,North Carolina,14,0
+563,11,"Nov 25, 1961",Washington,21,Washington State,17,0
+564,11,"Nov 25, 1961",Wisconsin,23,Minnesota,21,1
+565,12,"Dec 2, 1961",Alabama,34,Auburn,0,0
+566,12,"Dec 2, 1961",Colorado,29,Air Force,12,0
+567,12,"Dec 2, 1961",Duke,37,Notre Dame,13,0
+568,12,"Dec 2, 1961",Georgia,7,Georgia Tech,22,1
+569,12,"Dec 2, 1961",Holy Cross,38,Boston College,26,0
+570,12,"Dec 2, 1961",Houston,23,Oregon State,12,0
+571,12,"Dec 2, 1961",Florida,6,Miami,15,0
+572,12,"Dec 2, 1961",Mississippi State,7,Ole Miss,37,0
+573,12,"Dec 2, 1961",Army,7,Navy,13,1
+574,12,"Dec 2, 1961",North Carolina,24,Virginia,0,0
+575,12,"Dec 2, 1961",Oklahoma,21,Oklahoma State,13,0
+576,12,"Dec 2, 1961",Rice,26,Baylor,14,0
+577,12,"Dec 2, 1961",TCU,28,SMU,28,0
+578,12,"Dec 2, 1961",Vanderbilt,7,Tennessee,41,1
+579,12,"Dec 2, 1961",Texas Tech,16,West Texas State,14,0
+580,13,"Dec 9, 1961",Utah State,9,Baylor,24,1
+581,13,"Dec 9, 1961",New Mexico,28,Western Michigan,12,0
+582,14,"Dec 16, 1961",Rice,7,Kansas,33,0
+583,14,"Dec 16, 1961",Syracuse,15,Miami,14,0
+584,15,"Dec 29, 1961",Lamar,21,Middle Tennessee,14,0
+585,15,"Dec 30, 1961",Penn State,30,Georgia Tech,15,0
+586,15,"Dec 30, 1961",Wichita State,9,Villanova,17,1
+587,16,"Jan 1, 1962",Arkansas,3,Alabama,10,1
+588,16,"Jan 1, 1962",Colorado,7,LSU,25,1
+589,16,"Jan 1, 1962",UCLA,3,Minnesota,21,0
+590,16,"Jan 1, 1962",Ole Miss,7,Texas,12,1

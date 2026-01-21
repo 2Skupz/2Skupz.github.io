@@ -1,0 +1,804 @@
+0,1,"Sep 5, 1981",LSU,7,Alabama,24,0
+1,1,"Sep 5, 1981",Lenoir-Rhyne,9,Appalachian State,48,1
+2,1,"Sep 5, 1981",Auburn,24,TCU,16,0
+3,1,"Sep 5, 1981",Long Beach State,8,BYU,31,0
+4,1,"Sep 5, 1981",Clemson,45,Wofford,10,0
+5,1,"Sep 5, 1981",Drake,39,Northern Iowa,30,1
+6,1,"Sep 5, 1981",Western Carolina,6,East Carolina,42,1
+7,1,"Sep 5, 1981",East Tennessee State,31,Tennessee Tech,22,0
+8,1,"Sep 5, 1981",Florida State,17,Louisville,0,0
+9,1,"Sep 5, 1981",Fresno State,23,Oregon,16,0
+10,1,"Sep 5, 1981",Georgia,44,Tennessee,0,0
+11,1,"Sep 5, 1981",Houston,21,New Mexico,10,0
+12,1,"Sep 5, 1981",Western Illinois,7,Illinois State,31,1
+13,1,"Sep 5, 1981",Kansas,15,Tulsa,11,1
+14,1,"Sep 5, 1981",North Texas,6,Kentucky,28,1
+15,1,"Sep 5, 1981",Lamar,18,Baylor,17,1
+16,1,"Sep 5, 1981",Indiana State,8,Louisiana-Monroe,38,1
+17,1,"Sep 5, 1981",McNeese State,27,Southern Illinois,12,0
+18,1,"Sep 5, 1981",Miami,21,Florida,20,0
+19,1,"Sep 5, 1981",Ole Miss,19,Tulane,18,1
+20,1,"Sep 5, 1981",Memphis,3,Mississippi State,20,1
+21,1,"Sep 5, 1981",San Jose State,6,UNLV,16,0
+22,1,"Sep 5, 1981",UTEP,7,New Mexico State,14,0
+23,1,"Sep 5, 1981",NC State,27,Richmond,21,0
+24,1,"Sep 5, 1981",Central Michigan,3,Pacific,10,1
+25,1,"Sep 5, 1981",Illinois,6,Pitt,26,1
+26,1,"Sep 5, 1981",Rutgers,29,Syracuse,27,1
+27,1,"Sep 5, 1981",Wake Forest,6,South Carolina,23,0
+28,1,"Sep 5, 1981",SMU,48,Texas-Arlington,0,0
+29,1,"Sep 5, 1981",Louisiana,7,Southern Miss,33,1
+30,1,"Sep 5, 1981",Temple,42,William & Mary,0,0
+31,1,"Sep 5, 1981",Texas A&M,29,California,28,1
+32,1,"Sep 5, 1981",Utah,10,Utah State,0,0
+33,1,"Sep 5, 1981",West Texas State,17,Louisiana Tech,10,0
+34,1,"Sep 5, 1981",Missouri Southern,6,Wichita State,38,1
+35,1,"Sep 5, 1981",Wyoming,38,Cal State Fullerton,13,0
+36,1,"Sep 5, 1981",Youngstown State,19,Cincinnati,13,1
+37,2,"Sep 12, 1981",Eastern Michigan,7,Akron,14,0
+38,2,"Sep 12, 1981",Appalachian State,45,James Madison,0,0
+39,2,"Sep 12, 1981",Arizona State,52,Utah,10,0
+40,2,"Sep 12, 1981",Arkansas,14,Tulsa,10,0
+41,2,"Sep 12, 1981",Arkansas State,35,Louisiana-Monroe,13,1
+42,2,"Sep 12, 1981",Ball State,24,McNeese State,21,0
+43,2,"Sep 12, 1981",Baylor,38,Bowling Green,0,0
+44,2,"Sep 12, 1981",BYU,45,Air Force,21,0
+45,2,"Sep 12, 1981",Chattanooga,42,Middle Tennessee,19,0
+46,2,"Sep 12, 1981",Tulane,5,Clemson,13,0
+47,2,"Sep 12, 1981",Colorado,45,Texas Tech,27,0
+48,2,"Sep 12, 1981",Drake,17,Indiana State,14,0
+49,2,"Sep 12, 1981",Furman,7,Florida,35,1
+50,2,"Sep 12, 1981",Memphis,5,Florida State,10,1
+51,2,"Sep 12, 1981",Georgia,27,California,13,0
+52,2,"Sep 12, 1981",Georgia Tech,24,Alabama,21,1
+53,2,"Sep 12, 1981",Boston University,6,Holy Cross,14,1
+54,2,"Sep 12, 1981",Illinois,27,Michigan State,17,1
+55,2,"Sep 12, 1981",Indiana,21,Northwestern,20,1
+56,2,"Sep 12, 1981",Nebraska,7,Iowa,10,1
+57,2,"Sep 12, 1981",Iowa State,17,West Texas State,13,0
+58,2,"Sep 12, 1981",Kansas,19,Oregon,10,0
+59,2,"Sep 12, 1981",Kansas State,31,South Dakota,10,0
+60,2,"Sep 12, 1981",Northern Illinois,7,Long Beach State,17,0
+61,2,"Sep 12, 1981",Louisiana Tech,31,East Tennessee State,3,0
+62,2,"Sep 12, 1981",Toledo,6,Louisville,31,1
+63,2,"Sep 12, 1981",Marshall,20,Morehead State,17,0
+64,2,"Sep 12, 1981",Miami (OH),33,William & Mary,14,1
+65,2,"Sep 12, 1981",Minnesota,19,Ohio,17,0
+66,2,"Sep 12, 1981",Ole Miss,20,South Carolina,13,1
+67,2,"Sep 12, 1981",Missouri,24,Army,10,0
+68,2,"Sep 12, 1981",Citadel,7,Navy,17,1
+69,2,"Sep 12, 1981",UNLV,49,New Mexico,42,0
+70,2,"Sep 12, 1981",North Carolina,56,East Carolina,0,0
+71,2,"Sep 12, 1981",NC State,28,Wake Forest,23,1
+72,2,"Sep 12, 1981",LSU,9,Notre Dame,27,1
+73,2,"Sep 12, 1981",Ohio State,34,Duke,13,0
+74,2,"Sep 12, 1981",Oklahoma,37,Wyoming,20,0
+75,2,"Sep 12, 1981",Oregon State,31,Fresno State,28,0
+76,2,"Sep 12, 1981",Penn State,52,Cincinnati,0,0
+77,2,"Sep 12, 1981",Purdue,27,Stanford,19,0
+78,2,"Sep 12, 1981",Colgate,5,Rutgers,13,1
+79,2,"Sep 12, 1981",San Diego State,30,Colorado State,14,1
+80,2,"Sep 12, 1981",Santa Clara,7,San Jose State,41,1
+81,2,"Sep 12, 1981",Southeastern Louisiana,7,Louisiana,0,1
+82,2,"Sep 12, 1981",Tennessee,7,USC,43,1
+83,2,"Sep 12, 1981",North Texas,7,SMU,34,1
+84,2,"Sep 12, 1981",Temple,31,Syracuse,19,0
+85,2,"Sep 12, 1981",Texas,31,Rice,3,0
+86,2,"Sep 12, 1981",Texas A&M-Kingsville,37,UTEP,15,1
+87,2,"Sep 12, 1981",Texas-Arlington,26,New Mexico State,13,0
+88,2,"Sep 12, 1981",UCLA,35,Arizona,18,1
+89,2,"Sep 12, 1981",Cal State Fullerton,9,Utah State,14,1
+90,2,"Sep 12, 1981",Vanderbilt,23,Maryland,17,0
+91,2,"Sep 12, 1981",Virginia Military Institute,21,Western Carolina,14,0
+92,2,"Sep 12, 1981",Virginia Tech,28,Richmond,12,0
+93,2,"Sep 12, 1981",Washington,34,Pacific,14,0
+94,2,"Sep 12, 1981",Washington State,33,Montana State,21,0
+95,2,"Sep 12, 1981",West Virginia,32,Virginia,18,1
+96,2,"Sep 12, 1981",Western Michigan,20,Kent State,17,1
+97,2,"Sep 12, 1981",Southern Illinois,7,Wichita State,13,0
+98,2,"Sep 12, 1981",Wisconsin,21,Michigan,14,0
+99,3,"Sep 18, 1981",Rutgers,3,Virginia,0,0
+100,3,"Sep 19, 1981",Alabama,19,Kentucky,10,1
+101,3,"Sep 19, 1981",Appalachian State,31,Chattanooga,14,0
+102,3,"Sep 19, 1981",Arizona State,33,Wichita State,21,0
+103,3,"Sep 19, 1981",Northwestern,7,Arkansas,38,1
+104,3,"Sep 19, 1981",Baylor,28,Louisiana Tech,21,1
+105,3,"Sep 19, 1981",Boston College,13,Texas A&M,12,0
+106,3,"Sep 19, 1981",UTEP,8,BYU,65,0
+107,3,"Sep 19, 1981",California,14,Arizona,13,1
+108,3,"Sep 19, 1981",Central Michigan,17,Northern Illinois,10,0
+109,3,"Sep 19, 1981",Western Carolina,3,Citadel,12,1
+110,3,"Sep 19, 1981",Georgia,3,Clemson,13,1
+111,3,"Sep 19, 1981",Colgate,27,Lehigh,14,0
+112,3,"Sep 19, 1981",Dartmouth,32,Princeton,13,0
+113,3,"Sep 19, 1981",Temple,7,Delaware,13,1
+114,3,"Sep 19, 1981",Western Illinois,6,Drake,21,1
+115,3,"Sep 19, 1981",Georgia Tech,6,Florida,27,1
+116,3,"Sep 19, 1981",Furman,21,East Tennessee State,0,0
+117,3,"Sep 19, 1981",Columbia,6,Harvard,23,0
+118,3,"Sep 19, 1981",Hawaii,38,Cal State Fullerton,12,0
+119,3,"Sep 19, 1981",Illinois,17,Syracuse,14,0
+120,3,"Sep 19, 1981",Eastern Michigan,7,Illinois State,28,1
+121,3,"Sep 19, 1981",New Mexico State,6,Indiana State,41,0
+122,3,"Sep 19, 1981",Iowa State,23,Iowa,12,0
+123,3,"Sep 19, 1981",Akron,6,Kent State,17,1
+124,3,"Sep 19, 1981",Sam Houston,7,Lamar,50,1
+125,3,"Sep 19, 1981",LSU,27,Oregon State,24,0
+126,3,"Sep 19, 1981",Louisiana-Monroe,20,Louisiana,17,0
+127,3,"Sep 19, 1981",Louisville,35,Long Beach State,13,0
+128,3,"Sep 19, 1981",Massachusetts,13,Holy Cross,10,0
+129,3,"Sep 19, 1981",Nicholls State,9,McNeese State,59,0
+130,3,"Sep 19, 1981",Houston,7,Miami,12,1
+131,3,"Sep 19, 1981",Notre Dame,7,Michigan,25,1
+132,3,"Sep 19, 1981",Minnesota,16,Purdue,13,0
+133,3,"Sep 19, 1981",Ole Miss,7,Memphis,3,1
+134,3,"Sep 19, 1981",Vanderbilt,9,Mississippi State,29,1
+135,3,"Sep 19, 1981",Missouri,42,Rice,10,0
+136,3,"Sep 19, 1981",Montana State,30,Fresno State,26,0
+137,3,"Sep 19, 1981",Navy,24,Eastern Kentucky,0,0
+138,3,"Sep 19, 1981",Nebraska,34,Florida State,14,0
+139,3,"Sep 19, 1981",Miami (OH),7,North Carolina,49,1
+140,3,"Sep 19, 1981",NC State,31,East Carolina,10,0
+141,3,"Sep 19, 1981",Ohio,23,Bowling Green,21,0
+142,3,"Sep 19, 1981",Ohio State,27,Michigan State,13,0
+143,3,"Sep 19, 1981",Oklahoma State,23,Tulsa,21,0
+144,3,"Sep 19, 1981",Oregon,34,Pacific,0,0
+145,3,"Sep 19, 1981",Pennsylvania,29,Cornell,22,0
+146,3,"Sep 19, 1981",Cincinnati,7,Pitt,38,1
+147,3,"Sep 19, 1981",Richmond,24,Arkansas State,20,1
+148,3,"Sep 19, 1981",Stanford,6,San Jose State,28,0
+149,3,"Sep 19, 1981",Duke,3,South Carolina,17,1
+150,3,"Sep 19, 1981",USC,21,Indiana,0,1
+151,3,"Sep 19, 1981",SMU,59,Grambling State,27,0
+152,3,"Sep 19, 1981",Tulane,3,Southern Miss,21,1
+153,3,"Sep 19, 1981",Tennessee,42,Colorado State,0,0
+154,3,"Sep 19, 1981",Tennessee State,17,Southern Illinois,14,1
+155,3,"Sep 19, 1981",Texas,23,North Texas,10,0
+156,3,"Sep 19, 1981",TCU,38,Texas-Arlington,16,0
+157,3,"Sep 19, 1981",Texas Tech,28,New Mexico,21,0
+158,3,"Sep 19, 1981",Toledo,40,Ball State,0,0
+159,3,"Sep 19, 1981",UCLA,31,Wisconsin,13,1
+160,3,"Sep 19, 1981",Utah,46,Portland State,0,0
+161,3,"Sep 19, 1981",Utah State,31,Weber State,18,0
+162,3,"Sep 19, 1981",Army,7,Virginia Military Institute,14,0
+163,3,"Sep 19, 1981",Virginia Tech,47,William & Mary,3,0
+164,3,"Sep 19, 1981",Wake Forest,24,Auburn,21,1
+165,3,"Sep 19, 1981",Kansas State,3,Washington,20,1
+166,3,"Sep 19, 1981",Washington State,14,Colorado,10,1
+167,3,"Sep 19, 1981",West Texas State,21,UNLV,17,1
+168,3,"Sep 19, 1981",West Virginia,17,Maryland,13,1
+169,3,"Sep 19, 1981",Marshall,3,Western Michigan,14,1
+170,3,"Sep 19, 1981",Wyoming,17,Air Force,10,1
+171,3,"Sep 19, 1981",Brown,7,Yale,28,1
+172,4,"Sep 26, 1981",Vanderbilt,7,Alabama,28,0
+173,4,"Sep 26, 1981",Arizona,37,Cal State Fullerton,16,0
+174,4,"Sep 26, 1981",Arkansas,27,Ole Miss,13,1
+175,4,"Sep 26, 1981",Arkansas State,26,Central Michigan,23,1
+176,4,"Sep 26, 1981",Army,23,Brown,17,0
+177,4,"Sep 26, 1981",Baylor,28,Texas Tech,15,0
+178,4,"Sep 26, 1981",BYU,41,Colorado,20,1
+179,4,"Sep 26, 1981",Jacksonville State,3,Chattanooga,10,1
+180,4,"Sep 26, 1981",Cincinnati,10,Rutgers,0,0
+181,4,"Sep 26, 1981",Citadel,34,Appalachian State,20,0
+182,4,"Sep 26, 1981",Colgate,34,Cornell,10,1
+183,4,"Sep 26, 1981",Princeton,8,Delaware,61,0
+184,4,"Sep 26, 1981",Drake,18,Kansas State,17,1
+185,4,"Sep 26, 1981",Duke,29,Virginia,24,1
+186,4,"Sep 26, 1981",East Carolina,28,Toledo,24,0
+187,4,"Sep 26, 1981",East Tennessee State,14,Marshall,0,1
+188,4,"Sep 26, 1981",Furman,31,Western Carolina,27,1
+189,4,"Sep 26, 1981",Georgia,24,South Carolina,0,0
+190,4,"Sep 26, 1981",Idaho,6,Hawaii,21,1
+191,4,"Sep 26, 1981",Holy Cross,33,Harvard,19,1
+192,4,"Sep 26, 1981",Utah State,7,Houston,35,1
+193,4,"Sep 26, 1981",UCLA,7,Iowa,20,1
+194,4,"Sep 26, 1981",Iowa State,28,Kent State,19,0
+195,4,"Sep 26, 1981",Kansas,21,Kentucky,16,0
+196,4,"Sep 26, 1981",Lafayette,28,Columbia,13,1
+197,4,"Sep 26, 1981",Lehigh,58,Pennsylvania,0,0
+198,4,"Sep 26, 1981",Louisiana,34,North Texas,11,0
+199,4,"Sep 26, 1981",LSU,28,Rice,14,0
+200,4,"Sep 26, 1981",NC State,9,Maryland,34,0
+201,4,"Sep 26, 1981",Dartmouth,8,Massachusetts,10,1
+202,4,"Sep 26, 1981",Memphis,28,Georgia Tech,15,1
+203,4,"Sep 26, 1981",Miami (OH),18,Eastern Michigan,12,1
+204,4,"Sep 26, 1981",Michigan,21,Navy,16,0
+205,4,"Sep 26, 1981",Bowling Green,7,Michigan State,10,1
+206,4,"Sep 26, 1981",Minnesota,42,Oregon State,12,0
+207,4,"Sep 26, 1981",Florida,7,Mississippi State,28,1
+208,4,"Sep 26, 1981",Missouri,34,Louisville,3,0
+209,4,"Sep 26, 1981",UNLV,32,Long Beach State,31,0
+210,4,"Sep 26, 1981",New Mexico,27,Air Force,10,0
+211,4,"Sep 26, 1981",North Carolina,56,Boston College,14,0
+212,4,"Sep 26, 1981",Illinois State,7,Northern Illinois,40,1
+213,4,"Sep 26, 1981",Ohio,30,Ball State,27,0
+214,4,"Sep 26, 1981",Ohio State,24,Stanford,19,1
+215,4,"Sep 26, 1981",Penn State,30,Nebraska,24,1
+216,4,"Sep 26, 1981",Purdue,15,Notre Dame,14,0
+217,4,"Sep 26, 1981",San Diego State,23,Oklahoma State,16,1
+218,4,"Sep 26, 1981",San Jose State,27,California,24,1
+219,4,"Sep 26, 1981",USC,28,Oklahoma,24,0
+220,4,"Sep 26, 1981",Southern Illinois,36,Tulsa,34,1
+221,4,"Sep 26, 1981",TCU,9,SMU,20,0
+222,4,"Sep 26, 1981",Southern Miss,17,Richmond,10,1
+223,4,"Sep 26, 1981",Indiana,7,Syracuse,21,1
+224,4,"Sep 26, 1981",Auburn,7,Tennessee,10,1
+225,4,"Sep 26, 1981",Miami,7,Texas,14,1
+226,4,"Sep 26, 1981",Louisiana Tech,7,Texas A&M,43,1
+227,4,"Sep 26, 1981",Lamar,7,Texas State,24,0
+228,4,"Sep 26, 1981",Utah,42,Northwestern,0,1
+229,4,"Sep 26, 1981",Virginia Tech,30,Wake Forest,14,0
+230,4,"Sep 26, 1981",Oregon,3,Washington,17,0
+231,4,"Sep 26, 1981",Washington State,24,Arizona State,21,0
+232,4,"Sep 26, 1981",West Texas State,35,Texas-Arlington,31,0
+233,4,"Sep 26, 1981",West Virginia,49,Colorado State,3,0
+234,4,"Sep 26, 1981",Indiana State,14,Wichita State,14,0
+235,4,"Sep 26, 1981",Wisconsin,21,Western Michigan,10,0
+236,4,"Sep 26, 1981",Yale,27,Connecticut,18,0
+237,5,"Oct 2, 1981",BYU,32,Utah State,26,0
+238,5,"Oct 2, 1981",Utah,38,UTEP,10,0
+239,5,"Oct 3, 1981",Air Force,28,Colorado State,14,0
+240,5,"Oct 3, 1981",Ole Miss,7,Alabama,38,1
+241,5,"Oct 3, 1981",Arizona,17,Stanford,13,0
+242,5,"Oct 3, 1981",Washington,7,Arizona State,26,0
+243,5,"Oct 3, 1981",Army,27,Harvard,13,1
+244,5,"Oct 3, 1981",Ball State,23,Northern Illinois,0,0
+245,5,"Oct 3, 1981",Cal State Fullerton,34,Cal Poly,10,0
+246,5,"Oct 3, 1981",Central Michigan,63,Eastern Michigan,14,0
+247,5,"Oct 3, 1981",Chattanooga,31,Furman,28,1
+248,5,"Oct 3, 1981",Kentucky,3,Clemson,21,0
+249,5,"Oct 3, 1981",Colgate,21,Boston University,14,0
+250,5,"Oct 3, 1981",Pennsylvania,9,Columbia,20,1
+251,5,"Oct 3, 1981",Long Beach State,7,Drake,18,1
+252,5,"Oct 3, 1981",Duke,24,East Carolina,14,0
+253,5,"Oct 3, 1981",East Tennessee State,17,Citadel,13,0
+254,5,"Oct 3, 1981",Florida,24,LSU,10,1
+255,5,"Oct 3, 1981",Florida State,36,Ohio State,27,1
+256,5,"Oct 3, 1981",Holy Cross,28,Dartmouth,0,1
+257,5,"Oct 3, 1981",Baylor,3,Houston,24,1
+258,5,"Oct 3, 1981",Illinois,38,Minnesota,29,0
+259,5,"Oct 3, 1981",Iowa,64,Northwestern,0,1
+260,5,"Oct 3, 1981",Oklahoma,7,Iowa State,7,0
+261,5,"Oct 3, 1981",Kansas,17,Arkansas State,16,0
+262,5,"Oct 3, 1981",Louisiana-Monroe,35,Louisiana Tech,0,1
+263,5,"Oct 3, 1981",Louisville,36,Marshall,0,0
+264,5,"Oct 3, 1981",Miami,48,Vanderbilt,16,0
+265,5,"Oct 3, 1981",Miami (OH),20,Kent State,13,0
+266,5,"Oct 3, 1981",Michigan,38,Indiana,17,1
+267,5,"Oct 3, 1981",Middle Tennessee,23,Western Carolina,10,1
+268,5,"Oct 3, 1981",Mississippi State,3,Missouri,14,0
+269,5,"Oct 3, 1981",Auburn,3,Nebraska,17,1
+270,5,"Oct 3, 1981",Georgia Tech,7,North Carolina,28,0
+271,5,"Oct 3, 1981",NC State,30,Virginia,24,0
+272,5,"Oct 3, 1981",Michigan State,7,Notre Dame,20,1
+273,5,"Oct 3, 1981",Oklahoma State,9,North Texas,0,1
+274,5,"Oct 3, 1981",Penn State,30,Temple,0,0
+275,5,"Oct 3, 1981",Pitt,42,South Carolina,28,1
+276,5,"Oct 3, 1981",Princeton,20,Brown,17,1
+277,5,"Oct 3, 1981",Rice,20,Tulane,16,0
+278,5,"Oct 3, 1981",James Madison,7,Richmond,24,1
+279,5,"Oct 3, 1981",Rutgers,31,Cornell,17,0
+280,5,"Oct 3, 1981",San Diego State,17,New Mexico,15,1
+281,5,"Oct 3, 1981",San Jose State,65,Fresno State,33,1
+282,5,"Oct 3, 1981",USC,56,Oregon State,22,1
+283,5,"Oct 3, 1981",Illinois State,3,Southern Illinois,14,1
+284,5,"Oct 3, 1981",Texas-Arlington,9,Southern Miss,52,1
+285,5,"Oct 3, 1981",Stephen F. Austin,13,Lamar,10,1
+286,5,"Oct 3, 1981",Maryland,17,Syracuse,17,0
+287,5,"Oct 3, 1981",Texas A&M,24,Texas Tech,23,1
+288,5,"Oct 3, 1981",TCU,28,Arkansas,24,0
+289,5,"Oct 3, 1981",Toledo,21,Ohio,14,0
+290,5,"Oct 3, 1981",Tulsa,35,Kansas State,21,0
+291,5,"Oct 3, 1981",Colorado,7,UCLA,27,1
+292,5,"Oct 3, 1981",Virginia Military Institute,31,William & Mary,14,0
+293,5,"Oct 3, 1981",Virginia Tech,17,Memphis,13,0
+294,5,"Oct 3, 1981",Wake Forest,15,Appalachian State,14,0
+295,5,"Oct 3, 1981",Washington State,31,Pacific,0,0
+296,5,"Oct 3, 1981",West Texas State,31,McNeese State,24,1
+297,5,"Oct 3, 1981",West Virginia,38,Boston College,10,1
+298,5,"Oct 3, 1981",Bowling Green,7,Western Michigan,21,0
+299,5,"Oct 3, 1981",Wichita State,24,New Mexico State,20,1
+300,5,"Oct 3, 1981",Wisconsin,20,Purdue,14,0
+301,5,"Oct 3, 1981",Wyoming,45,UNLV,21,0
+302,5,"Oct 3, 1981",Yale,23,Navy,19,0
+303,6,"Oct 10, 1981",Arizona,13,USC,10,1
+304,6,"Oct 10, 1981",Arizona State,24,Oregon,0,0
+305,6,"Oct 10, 1981",Arkansas,26,Texas Tech,14,1
+306,6,"Oct 10, 1981",Louisiana,3,Arkansas State,14,1
+307,6,"Oct 10, 1981",LSU,7,Auburn,19,1
+308,6,"Oct 10, 1981",Brown,26,Pennsylvania,24,1
+309,6,"Oct 10, 1981",Cal State Fullerton,13,Fresno State,10,0
+310,6,"Oct 10, 1981",Central Michigan,15,Western Michigan,13,1
+311,6,"Oct 10, 1981",Chattanooga,20,Marshall,0,0
+312,6,"Oct 10, 1981",Ohio,9,Cincinnati,19,0
+313,6,"Oct 10, 1981",Clemson,27,Virginia,0,0
+314,6,"Oct 10, 1981",Drake,24,Wichita State,23,1
+315,6,"Oct 10, 1981",Virginia Tech,7,Duke,14,1
+316,6,"Oct 10, 1981",East Carolina,17,Richmond,13,1
+317,6,"Oct 10, 1981",Florida,15,Maryland,10,0
+318,6,"Oct 10, 1981",Florida State,19,Notre Dame,13,1
+319,6,"Oct 10, 1981",Furman,22,Appalachian State,18,0
+320,6,"Oct 10, 1981",Ole Miss,7,Georgia,37,0
+321,6,"Oct 10, 1981",Harvard,27,Cornell,10,1
+322,6,"Oct 10, 1981",Wyoming,9,Hawaii,14,0
+323,6,"Oct 10, 1981",Eastern Illinois,3,Illinois State,25,1
+324,6,"Oct 10, 1981",Ball State,7,Indiana State,31,1
+325,6,"Oct 10, 1981",Iowa,42,Indiana,28,0
+326,6,"Oct 10, 1981",Kent State,31,Northern Illinois,10,0
+327,6,"Oct 10, 1981",Lamar,17,Louisiana-Monroe,13,1
+328,6,"Oct 10, 1981",Memphis,7,Louisville,14,0
+329,6,"Oct 10, 1981",McNeese State,42,Northwestern State,21,1
+330,6,"Oct 10, 1981",Bowling Green,7,Miami (OH),7,0
+331,6,"Oct 10, 1981",Michigan,38,Michigan State,20,1
+332,6,"Oct 10, 1981",Minnesota,35,Northwestern,23,0
+333,6,"Oct 10, 1981",Mississippi State,37,Colorado State,27,1
+334,6,"Oct 10, 1981",Missouri,58,Kansas State,13,0
+335,6,"Oct 10, 1981",Navy,30,Air Force,13,0
+336,6,"Oct 10, 1981",Nebraska,59,Colorado,0,0
+337,6,"Oct 10, 1981",UNLV,45,BYU,41,1
+338,6,"Oct 10, 1981",UTEP,3,New Mexico,26,1
+339,6,"Oct 10, 1981",North Carolina,48,Wake Forest,10,0
+340,6,"Oct 10, 1981",North Texas,38,New Mexico State,16,0
+341,6,"Oct 10, 1981",Kansas,7,Oklahoma State,20,0
+342,6,"Oct 10, 1981",Boston College,7,Penn State,38,1
+343,6,"Oct 10, 1981",Pitt,17,West Virginia,0,1
+344,6,"Oct 10, 1981",Princeton,21,Columbia,14,0
+345,6,"Oct 10, 1981",Purdue,44,Illinois,20,0
+346,6,"Oct 10, 1981",Rice,41,TCU,28,0
+347,6,"Oct 10, 1981",Rutgers,17,Army,0,1
+348,6,"Oct 10, 1981",San Diego State,52,Iowa State,31,0
+349,6,"Oct 10, 1981",South Carolina,28,Kentucky,14,1
+350,6,"Oct 10, 1981",Southern Illinois,29,West Texas State,22,1
+351,6,"Oct 10, 1981",SMU,37,Baylor,20,0
+352,6,"Oct 10, 1981",Alabama,13,Southern Miss,13,0
+353,6,"Oct 10, 1981",Stanford,26,UCLA,23,0
+354,6,"Oct 10, 1981",Temple,31,Colgate,0,0
+355,6,"Oct 10, 1981",Georgia Tech,7,Tennessee,10,1
+356,6,"Oct 10, 1981",Texas,34,Oklahoma,14,0
+357,6,"Oct 10, 1981",Texas A&M,7,Houston,6,0
+358,6,"Oct 10, 1981",Texas-Arlington,31,Louisiana Tech,14,1
+359,6,"Oct 10, 1981",Eastern Michigan,7,Toledo,42,0
+360,6,"Oct 10, 1981",Tulane,14,Vanderbilt,10,0
+361,6,"Oct 10, 1981",Utah State,17,Pacific,14,1
+362,6,"Oct 10, 1981",Virginia Military Institute,14,Citadel,0,0
+363,6,"Oct 10, 1981",Washington,27,California,26,1
+364,6,"Oct 10, 1981",Washington State,23,Oregon State,0,1
+365,6,"Oct 10, 1981",Western Carolina,37,Wofford,30,1
+366,6,"Oct 10, 1981",Dartmouth,7,William & Mary,12,0
+367,6,"Oct 10, 1981",Wisconsin,24,Ohio State,21,0
+368,6,"Oct 10, 1981",Yale,29,Holy Cross,28,1
+369,7,"Oct 17, 1981",Alabama,38,Tennessee,19,0
+370,7,"Oct 17, 1981",Arizona,18,Oregon,14,1
+371,7,"Oct 17, 1981",Arizona State,45,California,17,0
+372,7,"Oct 17, 1981",Arkansas,42,Texas,11,0
+373,7,"Oct 17, 1981",Army,34,Princeton,0,0
+374,7,"Oct 17, 1981",Georgia Tech,7,Auburn,31,0
+375,7,"Oct 17, 1981",Baylor,19,Texas A&M,17,0
+376,7,"Oct 17, 1981",Bowling Green,17,Northern Illinois,10,1
+377,7,"Oct 17, 1981",San Diego State,7,BYU,27,0
+378,7,"Oct 17, 1981",Chattanooga,3,Arkansas State,2,1
+379,7,"Oct 17, 1981",Cincinnati,27,Richmond,18,0
+380,7,"Oct 17, 1981",Davidson,3,Citadel,23,1
+381,7,"Oct 17, 1981",Clemson,38,Duke,10,1
+382,7,"Oct 17, 1981",Colgate,30,Lafayette,0,0
+383,7,"Oct 17, 1981",Colorado,11,Oklahoma State,10,0
+384,7,"Oct 17, 1981",Connecticut,44,Holy Cross,24,0
+385,7,"Oct 17, 1981",Brown,9,Cornell,14,0
+386,7,"Oct 17, 1981",Dartmouth,24,Harvard,10,1
+387,7,"Oct 17, 1981",East Carolina,35,Louisiana,31,0
+388,7,"Oct 17, 1981",East Tennessee State,34,Western Carolina,23,1
+389,7,"Oct 17, 1981",Florida,49,Ole Miss,3,0
+390,7,"Oct 17, 1981",Furman,30,James Madison,14,1
+391,7,"Oct 17, 1981",Georgia,53,Vanderbilt,21,1
+392,7,"Oct 17, 1981",Hawaii,23,New Mexico,13,0
+393,7,"Oct 17, 1981",Indiana,17,Minnesota,16,0
+394,7,"Oct 17, 1981",Iowa,9,Michigan,7,1
+395,7,"Oct 17, 1981",Iowa State,34,Missouri,13,0
+396,7,"Oct 17, 1981",Ball State,7,Kent State,17,0
+397,7,"Oct 17, 1981",LSU,24,Kentucky,10,0
+398,7,"Oct 17, 1981",Lamar,7,Louisiana Tech,16,0
+399,7,"Oct 17, 1981",Maryland,45,Wake Forest,33,1
+400,7,"Oct 17, 1981",McNeese State,41,Louisiana-Monroe,25,0
+401,7,"Oct 17, 1981",Miami (OH),20,Western Michigan,19,0
+402,7,"Oct 17, 1981",Michigan State,33,Wisconsin,14,0
+403,7,"Oct 17, 1981",Mississippi State,14,Miami,10,0
+404,7,"Oct 17, 1981",Navy,25,Boston College,10,1
+405,7,"Oct 17, 1981",Nebraska,49,Kansas State,3,1
+406,7,"Oct 17, 1981",New Mexico State,20,Illinois State,10,1
+407,7,"Oct 17, 1981",North Carolina,21,NC State,10,1
+408,7,"Oct 17, 1981",Eastern Michigan,7,Ohio,29,1
+409,7,"Oct 17, 1981",Ohio State,34,Illinois,27,0
+410,7,"Oct 17, 1981",Kansas,7,Oklahoma,45,1
+411,7,"Oct 17, 1981",Pacific,17,Long Beach State,10,1
+412,7,"Oct 17, 1981",Penn State,41,Syracuse,16,1
+413,7,"Oct 17, 1981",Pitt,42,Florida State,14,0
+414,7,"Oct 17, 1981",Purdue,35,Northwestern,0,1
+415,7,"Oct 17, 1981",Rice,30,Texas Tech,23,1
+416,7,"Oct 17, 1981",San Jose State,45,Cal State Fullerton,23,0
+417,7,"Oct 17, 1981",Virginia,3,South Carolina,21,1
+418,7,"Oct 17, 1981",USC,25,Stanford,17,0
+419,7,"Oct 17, 1981",Southern Illinois,24,Fresno State,18,1
+420,7,"Oct 17, 1981",SMU,38,Houston,22,1
+421,7,"Oct 17, 1981",Southern Miss,10,Memphis,0,1
+422,7,"Oct 17, 1981",Temple,24,Rutgers,12,1
+423,7,"Oct 17, 1981",Tennessee State,42,Louisville,30,1
+424,7,"Oct 17, 1981",Central Michigan,3,Toledo,17,1
+425,7,"Oct 17, 1981",Tulane,31,Air Force,13,1
+426,7,"Oct 17, 1981",Tulsa,20,Indiana State,19,1
+427,7,"Oct 17, 1981",Washington State,17,UCLA,17,0
+428,7,"Oct 17, 1981",Utah,24,Colorado State,13,1
+429,7,"Oct 17, 1981",TCU,13,Utah State,13,0
+430,7,"Oct 17, 1981",Appalachian State,14,Virginia Military Institute,14,0
+431,7,"Oct 17, 1981",Washington,56,Oregon State,17,0
+432,7,"Oct 17, 1981",West Texas State,23,Wichita State,17,1
+433,7,"Oct 17, 1981",Virginia Tech,6,West Virginia,27,1
+434,7,"Oct 17, 1981",Marshall,7,William & Mary,38,1
+435,7,"Oct 17, 1981",Wyoming,63,UTEP,12,0
+436,7,"Oct 17, 1981",Yale,48,Columbia,17,1
+437,8,"Oct 24, 1981",Air Force,20,Oregon,10,1
+438,8,"Oct 24, 1981",Rutgers,7,Alabama,31,1
+439,8,"Oct 24, 1981",Arizona State,62,Stanford,36,1
+440,8,"Oct 24, 1981",Baylor,34,TCU,21,0
+441,8,"Oct 24, 1981",Army,6,Boston College,41,0
+442,8,"Oct 24, 1981",Bowling Green,38,Toledo,0,0
+443,8,"Oct 24, 1981",Kent State,3,Central Michigan,24,1
+444,8,"Oct 24, 1981",Citadel,55,Newberry,14,0
+445,8,"Oct 24, 1981",NC State,7,Clemson,17,1
+446,8,"Oct 24, 1981",Colgate,41,Columbia,3,1
+447,8,"Oct 24, 1981",Cornell,7,Dartmouth,42,1
+448,8,"Oct 24, 1981",Drake,21,West Texas State,13,0
+449,8,"Oct 24, 1981",Wofford,8,East Tennessee State,34,0
+450,8,"Oct 24, 1981",Florida State,38,LSU,14,1
+451,8,"Oct 24, 1981",Fresno State,30,Pacific,27,1
+452,8,"Oct 24, 1981",Furman,38,Liberty,14,0
+453,8,"Oct 24, 1981",Georgia,21,Kentucky,0,0
+454,8,"Oct 24, 1981",Hawaii,28,San Diego State,10,1
+455,8,"Oct 24, 1981",Holy Cross,34,Brown,24,0
+456,8,"Oct 24, 1981",Houston,20,Arkansas,17,1
+457,8,"Oct 24, 1981",Illinois,23,Wisconsin,21,0
+458,8,"Oct 24, 1981",Indiana State,34,Illinois State,14,0
+459,8,"Oct 24, 1981",Iowa State,17,Colorado,10,0
+460,8,"Oct 24, 1981",Kansas,17,Kansas State,14,0
+461,8,"Oct 24, 1981",Cal State Fullerton,9,Long Beach State,10,1
+462,8,"Oct 24, 1981",Louisiana Tech,37,Northwestern State,33,0
+463,8,"Oct 24, 1981",Maryland,24,Duke,21,0
+464,8,"Oct 24, 1981",Arkansas State,7,McNeese State,21,1
+465,8,"Oct 24, 1981",East Carolina,6,Miami,31,0
+466,8,"Oct 24, 1981",Miami (OH),40,Ohio,14,0
+467,8,"Oct 24, 1981",Michigan,38,Northwestern,0,0
+468,8,"Oct 24, 1981",Minnesota,12,Iowa,10,1
+469,8,"Oct 24, 1981",Mississippi State,21,Auburn,17,1
+470,8,"Oct 24, 1981",Navy,27,William & Mary,0,0
+471,8,"Oct 24, 1981",Nebraska,6,Missouri,0,1
+472,8,"Oct 24, 1981",New Mexico,17,New Mexico State,13,1
+473,8,"Oct 24, 1981",Eastern Michigan,7,Northern Illinois,30,0
+474,8,"Oct 24, 1981",Ohio State,29,Indiana,10,0
+475,8,"Oct 24, 1981",Oklahoma,42,Oregon State,3,0
+476,8,"Oct 24, 1981",Oklahoma State,19,Louisville,11,0
+477,8,"Oct 24, 1981",West Virginia,7,Penn State,30,1
+478,8,"Oct 24, 1981",Pitt,23,Syracuse,10,0
+479,8,"Oct 24, 1981",Harvard,17,Princeton,17,0
+480,8,"Oct 24, 1981",Purdue,27,Michigan State,26,0
+481,8,"Oct 24, 1981",San Jose State,27,Utah State,24,1
+482,8,"Oct 24, 1981",South Carolina,31,North Carolina,13,1
+483,8,"Oct 24, 1981",Southeastern Louisiana,50,Louisiana-Monroe,47,0
+484,8,"Oct 24, 1981",Notre Dame,7,USC,14,0
+485,8,"Oct 24, 1981",Southern Illinois,41,Louisiana,0,0
+486,8,"Oct 24, 1981",Temple,24,Cincinnati,13,1
+487,8,"Oct 24, 1981",Memphis,9,Tennessee,28,0
+488,8,"Oct 24, 1981",Texas,9,SMU,7,1
+489,8,"Oct 24, 1981",Texas A&M,51,Rice,26,1
+490,8,"Oct 24, 1981",Texas-Arlington,7,North Texas,6,0
+491,8,"Oct 24, 1981",UTEP,35,Colorado State,29,0
+492,8,"Oct 24, 1981",Tulane,27,Georgia Tech,10,0
+493,8,"Oct 24, 1981",Tulsa,52,Wichita State,21,0
+494,8,"Oct 24, 1981",California,6,UCLA,34,1
+495,8,"Oct 24, 1981",Utah,69,UNLV,28,1
+496,8,"Oct 24, 1981",Vanderbilt,27,Ole Miss,23,1
+497,8,"Oct 24, 1981",Virginia Military Institute,20,Marshall,16,1
+498,8,"Oct 24, 1981",Virginia Tech,34,Appalachian State,12,0
+499,8,"Oct 24, 1981",Wake Forest,24,Virginia,21,1
+500,8,"Oct 24, 1981",Texas Tech,7,Washington,14,0
+501,8,"Oct 24, 1981",Washington State,34,Arizona,19,1
+502,8,"Oct 24, 1981",Western Carolina,24,Chattanooga,10,0
+503,8,"Oct 24, 1981",Ball State,3,Western Michigan,14,1
+504,8,"Oct 24, 1981",Wyoming,33,BYU,20,0
+505,8,"Oct 24, 1981",Pennsylvania,3,Yale,24,1
+506,9,"Oct 31, 1981",Air Force,7,Army,3,0
+507,9,"Oct 31, 1981",Alabama,13,Mississippi State,10,0
+508,9,"Oct 31, 1981",Arizona,48,UTEP,15,0
+509,9,"Oct 31, 1981",Arizona State,31,San Jose State,24,0
+510,9,"Oct 31, 1981",Rice,7,Arkansas,41,0
+511,9,"Oct 31, 1981",Texas-Arlington,7,Arkansas State,10,0
+512,9,"Oct 31, 1981",Auburn,14,Florida,12,0
+513,9,"Oct 31, 1981",Ball State,35,Eastern Michigan,13,0
+514,9,"Oct 31, 1981",Kent State,7,Bowling Green,13,1
+515,9,"Oct 31, 1981",New Mexico,7,BYU,31,1
+516,9,"Oct 31, 1981",California,45,Oregon State,3,0
+517,9,"Oct 31, 1981",Central Michigan,38,Ohio,21,1
+518,9,"Oct 31, 1981",Chattanooga,17,East Tennessee State,0,1
+519,9,"Oct 31, 1981",Cincinnati,17,Tulane,13,0
+520,9,"Oct 31, 1981",Presbyterian,3,Citadel,21,1
+521,9,"Oct 31, 1981",Clemson,82,Wake Forest,24,0
+522,9,"Oct 31, 1981",Cornell,22,Bucknell,15,0
+523,9,"Oct 31, 1981",Duke,38,Georgia Tech,24,1
+524,9,"Oct 31, 1981",Florida State,56,Western Carolina,31,0
+525,9,"Oct 31, 1981",Furman,35,Marshall,3,0
+526,9,"Oct 31, 1981",Georgia,49,Temple,3,0
+527,9,"Oct 31, 1981",Brown,7,Harvard,41,0
+528,9,"Oct 31, 1981",Hawaii,57,UNLV,21,0
+529,9,"Oct 31, 1981",Columbia,7,Holy Cross,14,1
+530,9,"Oct 31, 1981",Houston,20,TCU,16,1
+531,9,"Oct 31, 1981",Iowa,7,Illinois,24,1
+532,9,"Oct 31, 1981",Iowa State,7,Kansas State,10,1
+533,9,"Oct 31, 1981",Ole Miss,27,LSU,27,0
+534,9,"Oct 31, 1981",Louisiana,17,Louisiana Tech,17,0
+535,9,"Oct 31, 1981",Louisiana-Monroe,55,Nicholls State,18,0
+536,9,"Oct 31, 1981",Lamar,20,McNeese State,20,0
+537,9,"Oct 31, 1981",Miami,17,Penn State,14,0
+538,9,"Oct 31, 1981",Michigan,34,Minnesota,13,1
+539,9,"Oct 31, 1981",Indiana,3,Michigan State,26,1
+540,9,"Oct 31, 1981",Nebraska,31,Kansas,15,0
+541,9,"Oct 31, 1981",New Mexico State,31,Western Illinois,24,0
+542,9,"Oct 31, 1981",North Carolina,17,Maryland,10,1
+543,9,"Oct 31, 1981",Notre Dame,38,Navy,0,0
+544,9,"Oct 31, 1981",Ohio State,45,Purdue,33,1
+545,9,"Oct 31, 1981",Oklahoma,49,Colorado,0,0
+546,9,"Oct 31, 1981",Oklahoma State,16,Missouri,12,1
+547,9,"Oct 31, 1981",Pacific,17,Cal State Fullerton,16,0
+548,9,"Oct 31, 1981",Pitt,29,Boston College,24,1
+549,9,"Oct 31, 1981",Princeton,38,Pennsylvania,30,1
+550,9,"Oct 31, 1981",South Carolina,20,NC State,12,0
+551,9,"Oct 31, 1981",USC,41,Washington State,17,0
+552,9,"Oct 31, 1981",Indiana State,3,Southern Illinois,17,0
+553,9,"Oct 31, 1981",Texas A&M,7,SMU,27,0
+554,9,"Oct 31, 1981",Southern Miss,22,North Texas,0,1
+555,9,"Oct 31, 1981",Syracuse,47,Colgate,24,0
+556,9,"Oct 31, 1981",Texas Tech,9,Texas,26,1
+557,9,"Oct 31, 1981",Toledo,17,Miami (OH),10,0
+558,9,"Oct 31, 1981",Drake,6,Tulsa,59,1
+559,9,"Oct 31, 1981",UCLA,28,Oregon,11,1
+560,9,"Oct 31, 1981",Utah,17,San Diego State,14,0
+561,9,"Oct 31, 1981",Utah State,20,Fresno State,0,0
+562,9,"Oct 31, 1981",Vanderbilt,26,Memphis,0,0
+563,9,"Oct 31, 1981",Virginia,13,Virginia Military Institute,10,0
+564,9,"Oct 31, 1981",Kentucky,3,Virginia Tech,29,0
+565,9,"Oct 31, 1981",Washington,42,Stanford,31,0
+566,9,"Oct 31, 1981",East Carolina,3,West Virginia,20,1
+567,9,"Oct 31, 1981",Western Michigan,23,Northern Illinois,12,1
+568,9,"Oct 31, 1981",Illinois State,7,Wichita State,38,1
+569,9,"Oct 31, 1981",William & Mary,31,James Madison,19,0
+570,9,"Oct 31, 1981",Wisconsin,52,Northwestern,0,0
+571,9,"Oct 31, 1981",Wyoming,55,Colorado State,21,0
+572,9,"Oct 31, 1981",Dartmouth,3,Yale,24,1
+573,10,"Nov 7, 1981",Arkansas,41,Baylor,39,0
+574,10,"Nov 7, 1981",Lamar,9,Arkansas State,16,1
+575,10,"Nov 7, 1981",Auburn,20,North Texas,0,0
+576,10,"Nov 7, 1981",Boston College,52,Massachusetts,22,0
+577,10,"Nov 7, 1981",Bowling Green,14,Ball State,10,1
+578,10,"Nov 7, 1981",BYU,63,Colorado State,14,1
+579,10,"Nov 7, 1981",Rhode Island,8,Brown,10,0
+580,10,"Nov 7, 1981",Cal State Fullerton,20,Boise State,17,0
+581,10,"Nov 7, 1981",Memphis,7,Cincinnati,38,1
+582,10,"Nov 7, 1981",Chattanooga,28,Citadel,28,0
+583,10,"Nov 7, 1981",North Carolina,8,Clemson,10,0
+584,10,"Nov 7, 1981",Bucknell,6,Colgate,24,1
+585,10,"Nov 7, 1981",Columbia,7,Dartmouth,21,0
+586,10,"Nov 7, 1981",Pennsylvania,6,Delaware,40,0
+587,10,"Nov 7, 1981",Drake,22,Southern Illinois,17,1
+588,10,"Nov 7, 1981",Duke,31,Wake Forest,10,1
+589,10,"Nov 7, 1981",East Carolina,66,East Tennessee State,23,1
+590,10,"Nov 7, 1981",Fresno State,42,UNLV,26,0
+591,10,"Nov 7, 1981",Furman,30,Davidson,12,1
+592,10,"Nov 7, 1981",Georgia,26,Florida,21,0
+593,10,"Nov 7, 1981",Harvard,23,William & Mary,14,1
+594,10,"Nov 7, 1981",UTEP,7,Hawaii,35,0
+595,10,"Nov 7, 1981",Holy Cross,28,Army,13,1
+596,10,"Nov 7, 1981",Purdue,7,Iowa,33,1
+597,10,"Nov 7, 1981",Kansas,24,Iowa State,11,1
+598,10,"Nov 7, 1981",Eastern Michigan,7,Kent State,13,1
+599,10,"Nov 7, 1981",Kentucky,17,Vanderbilt,10,1
+600,10,"Nov 7, 1981",Louisville,7,Louisiana-Monroe,40,0
+601,10,"Nov 7, 1981",Maine,55,Princeton,44,1
+602,10,"Nov 7, 1981",Marshall,17,Appalachian State,10,1
+603,10,"Nov 7, 1981",McNeese State,27,Louisiana Tech,20,0
+604,10,"Nov 7, 1981",Miami,27,Florida State,19,1
+605,10,"Nov 7, 1981",Miami (OH),7,Central Michigan,3,1
+606,10,"Nov 7, 1981",Michigan,70,Illinois,21,0
+607,10,"Nov 7, 1981",Michigan State,61,Northwestern,14,1
+608,10,"Nov 7, 1981",Minnesota,35,Ohio State,31,0
+609,10,"Nov 7, 1981",Missouri,30,Colorado,14,1
+610,10,"Nov 7, 1981",Navy,35,Syracuse,23,0
+611,10,"Nov 7, 1981",Oklahoma State,7,Nebraska,54,0
+612,10,"Nov 7, 1981",Northern Illinois,38,Ohio,14,0
+613,10,"Nov 7, 1981",Notre Dame,35,Georgia Tech,3,0
+614,10,"Nov 7, 1981",Oklahoma,28,Kansas State,21,1
+615,10,"Nov 7, 1981",Pacific,23,South Carolina,21,1
+616,10,"Nov 7, 1981",Penn State,22,NC State,15,1
+617,10,"Nov 7, 1981",Pitt,47,Rutgers,3,1
+618,10,"Nov 7, 1981",Richmond,45,Virginia Military Institute,14,1
+619,10,"Nov 7, 1981",California,3,USC,21,0
+620,10,"Nov 7, 1981",SMU,33,Rice,12,0
+621,10,"Nov 7, 1981",Southern Miss,7,Mississippi State,6,0
+622,10,"Nov 7, 1981",Oregon State,9,Stanford,63,0
+623,10,"Nov 7, 1981",Tennessee,24,Wichita State,21,0
+624,10,"Nov 7, 1981",Houston,14,Texas,14,0
+625,10,"Nov 7, 1981",Texas Tech,39,TCU,39,0
+626,10,"Nov 7, 1981",Louisiana,7,Texas-Arlington,23,0
+627,10,"Nov 7, 1981",Toledo,28,Western Michigan,14,1
+628,10,"Nov 7, 1981",Maryland,7,Tulane,14,1
+629,10,"Nov 7, 1981",Tulsa,31,New Mexico State,0,0
+630,10,"Nov 7, 1981",UCLA,31,Washington,0,0
+631,10,"Nov 7, 1981",New Mexico,7,Utah,7,0
+632,10,"Nov 7, 1981",Utah State,28,Long Beach State,2,1
+633,10,"Nov 7, 1981",Oregon,7,Washington State,39,1
+634,10,"Nov 7, 1981",West Texas State,17,Indiana State,14,0
+635,10,"Nov 7, 1981",West Virginia,24,Temple,19,0
+636,10,"Nov 7, 1981",Indiana,7,Wisconsin,28,0
+637,10,"Nov 7, 1981",Wyoming,24,San Diego State,13,1
+638,10,"Nov 7, 1981",Yale,23,Cornell,17,1
+639,11,"Nov 14, 1981",Alabama,31,Penn State,16,1
+640,11,"Nov 14, 1981",Oregon State,7,Arizona,40,0
+641,11,"Nov 14, 1981",Texas A&M,7,Arkansas,10,0
+642,11,"Nov 14, 1981",Bowling Green,28,Eastern Michigan,0,1
+643,11,"Nov 14, 1981",Hawaii,3,BYU,13,0
+644,11,"Nov 14, 1981",Ball State,7,Central Michigan,28,0
+645,11,"Nov 14, 1981",Tennessee State,9,Chattanooga,28,1
+646,11,"Nov 14, 1981",Cincinnati,24,Louisville,0,0
+647,11,"Nov 14, 1981",Citadel,24,Wofford,14,0
+648,11,"Nov 14, 1981",Maryland,7,Clemson,21,1
+649,11,"Nov 14, 1981",Colgate,32,Holy Cross,13,1
+650,11,"Nov 14, 1981",Columbia,9,Cornell,15,1
+651,11,"Nov 14, 1981",Dartmouth,38,Brown,13,0
+652,11,"Nov 14, 1981",Drake,13,Illinois State,10,1
+653,11,"Nov 14, 1981",NC State,7,Duke,17,1
+654,11,"Nov 14, 1981",East Tennessee State,21,Appalachian State,14,0
+655,11,"Nov 14, 1981",Florida,33,Kentucky,12,0
+656,11,"Nov 14, 1981",Fresno State,31,Long Beach State,30,1
+657,11,"Nov 14, 1981",Furman,33,Virginia Military Institute,21,1
+658,11,"Nov 14, 1981",Georgia,24,Auburn,13,0
+659,11,"Nov 14, 1981",Pennsylvania,7,Harvard,45,1
+660,11,"Nov 14, 1981",Idaho State,50,Utah State,24,0
+661,11,"Nov 14, 1981",Illinois,35,Indiana,14,0
+662,11,"Nov 14, 1981",Indiana State,27,Eastern Illinois,14,1
+663,11,"Nov 14, 1981",Wisconsin,7,Iowa,17,0
+664,11,"Nov 14, 1981",Kansas,27,Colorado,0,0
+665,11,"Nov 14, 1981",Lamar,14,Louisiana,12,0
+666,11,"Nov 14, 1981",Louisiana Tech,32,Arkansas State,0,0
+667,11,"Nov 14, 1981",Miami,21,Virginia Tech,14,0
+668,11,"Nov 14, 1981",Miami (OH),30,Northern Illinois,3,0
+669,11,"Nov 14, 1981",Michigan,28,Purdue,10,1
+670,11,"Nov 14, 1981",Michigan State,43,Minnesota,36,0
+671,11,"Nov 14, 1981",LSU,9,Mississippi State,17,0
+672,11,"Nov 14, 1981",Missouri,19,Oklahoma,14,0
+673,11,"Nov 14, 1981",Navy,20,Georgia Tech,14,1
+674,11,"Nov 14, 1981",Iowa State,7,Nebraska,31,1
+675,11,"Nov 14, 1981",New Mexico,28,Colorado State,16,1
+676,11,"Nov 14, 1981",North Carolina,17,Virginia,14,1
+677,11,"Nov 14, 1981",North Texas,17,Louisiana-Monroe,14,1
+678,11,"Nov 14, 1981",Northern Michigan,32,Wichita State,30,1
+679,11,"Nov 14, 1981",Air Force,7,Notre Dame,35,0
+680,11,"Nov 14, 1981",Ohio,37,Western Michigan,20,0
+681,11,"Nov 14, 1981",Ohio State,70,Northwestern,6,0
+682,11,"Nov 14, 1981",Oklahoma State,31,Kansas State,10,0
+683,11,"Nov 14, 1981",Pitt,48,Army,0,0
+684,11,"Nov 14, 1981",Princeton,35,Yale,31,0
+685,11,"Nov 14, 1981",Rice,17,Baylor,14,1
+686,11,"Nov 14, 1981",San Diego State,38,UNLV,20,1
+687,11,"Nov 14, 1981",San Jose State,40,Pacific,25,0
+688,11,"Nov 14, 1981",Southern Illinois,23,New Mexico State,15,1
+689,11,"Nov 14, 1981",Texas Tech,6,SMU,30,1
+690,11,"Nov 14, 1981",Southern Miss,58,Florida State,14,1
+691,11,"Nov 14, 1981",Stanford,42,Oregon,3,0
+692,11,"Nov 14, 1981",Syracuse,27,Boston College,17,0
+693,11,"Nov 14, 1981",Tennessee,28,Ole Miss,20,0
+694,11,"Nov 14, 1981",Texas,31,TCU,15,0
+695,11,"Nov 14, 1981",Texas-Arlington,21,McNeese State,20,0
+696,11,"Nov 14, 1981",Toledo,17,Kent State,0,0
+697,11,"Nov 14, 1981",Memphis,7,Tulane,24,0
+698,11,"Nov 14, 1981",Tulsa,24,West Texas State,10,1
+699,11,"Nov 14, 1981",UCLA,34,Arizona State,24,0
+700,11,"Nov 14, 1981",Utah,30,Wyoming,27,0
+701,11,"Nov 14, 1981",Wake Forest,34,Richmond,22,1
+702,11,"Nov 14, 1981",USC,3,Washington,13,1
+703,11,"Nov 14, 1981",Washington State,19,California,0,0
+704,11,"Nov 14, 1981",Rutgers,3,West Virginia,20,1
+705,11,"Nov 14, 1981",Western Carolina,38,Marshall,28,1
+706,11,"Nov 14, 1981",William & Mary,31,East Carolina,21,1
+707,12,"Nov 21, 1981",Colorado State,7,Arizona State,52,1
+708,12,"Nov 21, 1981",Tulsa,7,Arkansas State,31,1
+709,12,"Nov 21, 1981",Ball State,14,Illinois State,10,1
+710,12,"Nov 21, 1981",Boston College,27,Rutgers,21,0
+711,12,"Nov 21, 1981",BYU,56,Utah,28,0
+712,12,"Nov 21, 1981",Brown,23,Columbia,20,0
+713,12,"Nov 21, 1981",Central Michigan,6,Bowling Green,3,1
+714,12,"Nov 21, 1981",Citadel,35,Furman,18,0
+715,12,"Nov 21, 1981",Clemson,29,South Carolina,13,1
+716,12,"Nov 21, 1981",Colorado,24,Kansas State,21,0
+717,12,"Nov 21, 1981",Dartmouth,33,Pennsylvania,13,1
+718,12,"Nov 21, 1981",Drake,53,Nebraska-Omaha,0,0
+719,12,"Nov 21, 1981",Fresno State,23,Arizona,17,1
+720,12,"Nov 21, 1981",Texas Tech,7,Houston,15,1
+721,12,"Nov 21, 1981",Illinois,49,Northwestern,12,1
+722,12,"Nov 21, 1981",Indiana,20,Purdue,17,0
+723,12,"Nov 21, 1981",Indiana State,42,Marshall,0,1
+724,12,"Nov 21, 1981",Michigan State,7,Iowa,36,1
+725,12,"Nov 21, 1981",James Madison,17,East Tennessee State,14,0
+726,12,"Nov 21, 1981",Kansas,19,Missouri,11,0
+727,12,"Nov 21, 1981",Kentucky,21,Tennessee,10,0
+728,12,"Nov 21, 1981",Louisville,13,Southern Miss,10,0
+729,12,"Nov 21, 1981",Virginia,7,Maryland,48,1
+730,12,"Nov 21, 1981",Louisiana,7,McNeese State,14,0
+731,12,"Nov 21, 1981",NC State,6,Miami,14,0
+732,12,"Nov 21, 1981",Miami (OH),7,Cincinnati,3,0
+733,12,"Nov 21, 1981",Ole Miss,21,Mississippi State,17,0
+734,12,"Nov 21, 1981",Nebraska,37,Oklahoma,14,1
+735,12,"Nov 21, 1981",Nevada,36,Cal State Fullerton,34,1
+736,12,"Nov 21, 1981",UNLV,24,Air Force,21,0
+737,12,"Nov 21, 1981",North Carolina,31,Duke,10,1
+738,12,"Nov 21, 1981",Louisiana-Monroe,9,Northwestern State,41,1
+739,12,"Nov 21, 1981",Kent State,7,Ohio,20,0
+740,12,"Nov 21, 1981",Michigan,9,Ohio State,14,0
+741,12,"Nov 21, 1981",Iowa State,7,Oklahoma State,27,0
+742,12,"Nov 21, 1981",Oregon,47,Oregon State,17,0
+743,12,"Nov 21, 1981",Pacific,23,Hawaii,17,1
+744,12,"Nov 21, 1981",Penn State,24,Notre Dame,21,0
+745,12,"Nov 21, 1981",Pitt,35,Temple,0,1
+746,12,"Nov 21, 1981",Princeton,37,Cornell,14,0
+747,12,"Nov 21, 1981",San Diego State,59,UTEP,14,0
+748,12,"Nov 21, 1981",San Jose State,24,Long Beach State,22,1
+749,12,"Nov 21, 1981",USC,22,UCLA,21,0
+750,12,"Nov 21, 1981",SMU,32,Arkansas,18,1
+751,12,"Nov 21, 1981",Stanford,42,California,21,0
+752,12,"Nov 21, 1981",Syracuse,27,West Virginia,24,0
+753,12,"Nov 21, 1981",Texas,34,Baylor,12,0
+754,12,"Nov 21, 1981",TCU,7,Texas A&M,37,0
+755,12,"Nov 21, 1981",Lamar,7,Texas-Arlington,31,1
+756,12,"Nov 21, 1981",Toledo,31,Northern Illinois,0,1
+757,12,"Nov 21, 1981",Vanderbilt,28,Chattanooga,14,0
+758,12,"Nov 21, 1981",Virginia Military Institute,6,Virginia Tech,0,1
+759,12,"Nov 21, 1981",Washington,23,Washington State,10,0
+760,12,"Nov 21, 1981",New Mexico State,9,West Texas State,45,0
+761,12,"Nov 21, 1981",Western Carolina,21,Appalachian State,10,0
+762,12,"Nov 21, 1981",Eastern Michigan,7,Western Michigan,38,1
+763,12,"Nov 21, 1981",William & Mary,35,Richmond,21,0
+764,12,"Nov 21, 1981",Wisconsin,26,Minnesota,21,1
+765,12,"Nov 21, 1981",Wyoming,13,New Mexico,12,1
+766,12,"Nov 21, 1981",Yale,28,Harvard,0,0
+767,13,"Nov 26, 1981",Richmond,18,Pennsylvania,12,0
+768,13,"Nov 26, 1981",Texas,21,Texas A&M,13,1
+769,13,"Nov 27, 1981",Miami,37,Notre Dame,15,0
+770,13,"Nov 28, 1981",Air Force,21,San Diego State,16,0
+771,13,"Nov 28, 1981",Alabama,28,Auburn,17,0
+772,13,"Nov 28, 1981",Arizona State,24,Arizona,13,0
+773,13,"Nov 28, 1981",Boston College,28,Holy Cross,24,1
+774,13,"Nov 28, 1981",Florida,35,Florida State,3,0
+775,13,"Nov 28, 1981",Colorado State,6,Hawaii,59,1
+776,13,"Nov 28, 1981",Houston,40,Rice,3,1
+777,13,"Nov 28, 1981",Navy,3,Army,3,0
+778,13,"Nov 28, 1981",UNLV,27,UTEP,20,1
+779,13,"Nov 28, 1981",Oklahoma State,3,Oklahoma,27,0
+780,13,"Nov 28, 1981",Penn State,48,Pitt,14,1
+781,13,"Nov 28, 1981",San Jose State,28,North Texas,16,0
+782,13,"Nov 28, 1981",Southern Miss,45,Lamar,14,0
+783,13,"Nov 28, 1981",Tennessee,38,Vanderbilt,34,0
+784,13,"Nov 28, 1981",LSU,7,Tulane,48,1
+785,13,"Nov 28, 1981",Virginia,3,Virginia Tech,20,0
+786,14,"Dec 5, 1981",Georgia Tech,7,Georgia,44,0
+787,14,"Dec 5, 1981",Hawaii,33,South Carolina,10,0
+788,15,"Dec 12, 1981",Texas A&M,33,Oklahoma State,16,0
+789,15,"Dec 13, 1981",Tennessee,28,Wisconsin,21,0
+790,16,"Dec 18, 1981",BYU,38,Washington State,36,0
+791,16,"Dec 19, 1981",Missouri,19,Southern Miss,17,0
+792,16,"Dec 19, 1981",Toledo,27,San Jose State,25,0
+793,17,"Dec 26, 1981",Oklahoma,40,Houston,14,0
+794,17,"Dec 28, 1981",North Carolina,31,Arkansas,27,0
+795,18,"Dec 30, 1981",Ohio State,31,Navy,28,0
+796,18,"Dec 31, 1981",Michigan,33,UCLA,14,0
+797,18,"Dec 31, 1981",Mississippi State,10,Kansas,0,0
+798,18,"Dec 31, 1981",Florida,6,West Virginia,26,1
+799,18,"Jan 1, 1982",Clemson,22,Nebraska,15,0
+800,18,"Jan 1, 1982",Penn State,26,USC,10,0
+801,18,"Jan 1, 1982",Pitt,24,Georgia,20,0
+802,18,"Jan 1, 1982",Texas,14,Alabama,12,0
+803,18,"Jan 1, 1982",Washington,28,Iowa,0,0

@@ -1,0 +1,632 @@
+0,1,"Aug 31, 1989",Notre Dame,36,Virginia,13,0
+1,1,"Sep 2, 1989",Air Force,52,San Diego State,36,0
+2,1,"Sep 2, 1989",Stanford,3,Arizona,19,1
+3,1,"Sep 2, 1989",New Mexico,3,BYU,24,0
+4,1,"Sep 2, 1989",Clemson,30,Furman,0,0
+5,1,"Sep 2, 1989",Kent State,7,Eastern Michigan,30,1
+6,1,"Sep 2, 1989",Fresno State,52,Utah,22,0
+7,1,"Sep 2, 1989",Hawaii,31,Tulane,26,0
+8,1,"Sep 2, 1989",Houston,69,UNLV,0,1
+9,1,"Sep 2, 1989",Kansas,41,Montana State,17,0
+10,1,"Sep 2, 1989",Cal State Northridge,9,Long Beach State,28,1
+11,1,"Sep 2, 1989",Louisiana Tech,40,Louisiana,14,1
+12,1,"Sep 2, 1989",Louisville,28,Wyoming,21,1
+13,1,"Sep 2, 1989",Ole Miss,20,Memphis,13,1
+14,1,"Sep 2, 1989",Vanderbilt,7,Mississippi State,42,1
+15,1,"Sep 2, 1989",Maryland,6,NC State,10,1
+16,1,"Sep 2, 1989",Northern Illinois,26,Cal State Fullerton,17,0
+17,1,"Sep 2, 1989",Oklahoma,73,New Mexico State,3,0
+18,1,"Sep 2, 1989",Pitt,38,Pacific,3,0
+19,1,"Sep 2, 1989",SMU,6,Rice,35,0
+20,1,"Sep 2, 1989",Cincinnati,17,Rutgers,17,0
+21,1,"Sep 2, 1989",South Carolina,27,Duke,21,0
+22,1,"Sep 2, 1989",Southern Miss,30,Florida State,26,0
+23,1,"Sep 2, 1989",Tennessee,17,Colorado State,14,0
+24,1,"Sep 2, 1989",Texas A&M,28,LSU,16,0
+25,1,"Sep 2, 1989",Toledo,27,Ohio,18,0
+26,1,"Sep 2, 1989",Tulsa,23,UTEP,14,1
+27,1,"Sep 2, 1989",Akron,3,Virginia Tech,29,1
+28,1,"Sep 2, 1989",Idaho,7,Washington State,41,1
+29,1,"Sep 2, 1989",West Virginia,35,Ball State,10,0
+30,1,"Sep 2, 1989",Western Michigan,31,Temple,24,0
+31,1,"Sep 4, 1989",Texas,6,Colorado,27,1
+32,1,"Sep 4, 1989",Illinois,14,USC,13,1
+33,2,"Sep 7, 1989",Washington State,46,BYU,41,1
+34,2,"Sep 9, 1989",Kent State,7,Akron,40,1
+35,2,"Sep 9, 1989",Appalachian State,15,Wake Forest,10,1
+36,2,"Sep 9, 1989",Arizona State,31,Kansas State,0,0
+37,2,"Sep 9, 1989",Arkansas State,17,Memphis,13,1
+38,2,"Sep 9, 1989",Auburn,55,Pacific,0,0
+39,2,"Sep 9, 1989",Rutgers,31,Ball State,31,0
+40,2,"Sep 9, 1989",Cal State Fullerton,27,Cal State Northridge,20,0
+41,2,"Sep 9, 1989",Clemson,34,Florida State,23,1
+42,2,"Sep 9, 1989",Colorado,45,Colorado State,20,0
+43,2,"Sep 9, 1989",Duke,41,Northwestern,31,0
+44,2,"Sep 9, 1989",Bowling Green,6,East Carolina,41,1
+45,2,"Sep 9, 1989",Youngstown State,3,Eastern Michigan,14,1
+46,2,"Sep 9, 1989",Fresno State,52,Montana,37,0
+47,2,"Sep 9, 1989",Hawaii,63,Long Beach State,10,0
+48,2,"Sep 9, 1989",Ohio,3,Iowa State,28,1
+49,2,"Sep 9, 1989",Kentucky,17,Indiana,14,0
+50,2,"Sep 9, 1989",Lamar,21,UTEP,19,1
+51,2,"Sep 9, 1989",Louisiana,22,Central Michigan,20,0
+52,2,"Sep 9, 1989",Louisville,33,Kansas,28,1
+53,2,"Sep 9, 1989",Miami,51,Wisconsin,3,1
+54,2,"Sep 9, 1989",Ole Miss,24,Florida,19,1
+55,2,"Sep 9, 1989",Mississippi State,26,Southern Miss,23,1
+56,2,"Sep 9, 1989",Missouri,14,TCU,10,0
+57,2,"Sep 9, 1989",Nebraska,48,Northern Illinois,17,0
+58,2,"Sep 9, 1989",UNLV,16,Weber State,12,0
+59,2,"Sep 9, 1989",New Mexico,45,New Mexico State,13,0
+60,2,"Sep 9, 1989",Virginia Military Institute,7,North Carolina,49,1
+61,2,"Sep 9, 1989",NC State,38,Georgia Tech,28,0
+62,2,"Sep 9, 1989",Baylor,7,Oklahoma,33,1
+63,2,"Sep 9, 1989",Oregon,35,California,19,0
+64,2,"Sep 9, 1989",Oregon State,20,Stanford,16,0
+65,2,"Sep 9, 1989",Pitt,29,Boston College,10,1
+66,2,"Sep 9, 1989",Purdue,27,Miami (OH),10,0
+67,2,"Sep 9, 1989",Syracuse,43,Temple,3,1
+68,2,"Sep 9, 1989",UCLA,6,Tennessee,24,0
+69,2,"Sep 9, 1989",Texas Tech,24,Arizona,14,0
+70,2,"Sep 9, 1989",Tulane,20,Rice,19,0
+71,2,"Sep 9, 1989",Tulsa,20,Oklahoma State,10,0
+72,2,"Sep 9, 1989",Utah,45,Utah State,10,0
+73,2,"Sep 9, 1989",Penn State,6,Virginia,14,0
+74,2,"Sep 9, 1989",South Carolina,17,Virginia Tech,17,0
+75,2,"Sep 9, 1989",Texas A&M,6,Washington,19,1
+76,2,"Sep 9, 1989",West Virginia,14,Maryland,10,1
+77,2,"Sep 9, 1989",Western Michigan,24,Louisiana Tech,20,0
+78,2,"Sep 10, 1989",Wyoming,7,Air Force,45,1
+79,3,"Sep 16, 1989",Air Force,48,Northwestern,31,1
+80,3,"Sep 16, 1989",Akron,27,Central Michigan,26,1
+81,3,"Sep 16, 1989",Memphis,7,Alabama,35,1
+82,3,"Sep 16, 1989",Arizona,6,Oklahoma,3,0
+83,3,"Sep 16, 1989",Arizona State,28,San Jose State,21,0
+84,3,"Sep 16, 1989",Tulsa,7,Arkansas,26,1
+85,3,"Sep 16, 1989",Southern Miss,3,Auburn,24,1
+86,3,"Sep 16, 1989",Bowling Green,3,Ball State,28,0
+87,3,"Sep 16, 1989",BYU,31,Navy,10,1
+88,3,"Sep 16, 1989",Virginia Tech,7,Clemson,27,0
+89,3,"Sep 16, 1989",Illinois,7,Colorado,38,1
+90,3,"Sep 16, 1989",Colorado State,42,Cal State Fullerton,14,0
+91,3,"Sep 16, 1989",East Carolina,21,Cincinnati,14,1
+92,3,"Sep 16, 1989",Eastern Michigan,30,Ohio,25,1
+93,3,"Sep 16, 1989",Louisiana Tech,7,Florida,34,1
+94,3,"Sep 16, 1989",Florida State,31,LSU,21,1
+95,3,"Sep 16, 1989",Fresno State,27,Pacific,14,1
+96,3,"Sep 16, 1989",Baylor,3,Georgia,15,1
+97,3,"Sep 16, 1989",Missouri,7,Indiana,24,1
+98,3,"Sep 16, 1989",Kansas,28,Kent State,21,0
+99,3,"Sep 16, 1989",North Carolina,6,Kentucky,13,1
+100,3,"Sep 16, 1989",Long Beach State,17,Boise State,14,1
+101,3,"Sep 16, 1989",Maryland,23,Western Michigan,0,0
+102,3,"Sep 16, 1989",Miami,31,California,3,0
+103,3,"Sep 16, 1989",Michigan State,49,Miami (OH),0,0
+104,3,"Sep 16, 1989",Minnesota,30,Iowa State,20,1
+105,3,"Sep 16, 1989",Ole Miss,34,Arkansas State,31,0
+106,3,"Sep 16, 1989",Nebraska,42,Utah,30,0
+107,3,"Sep 16, 1989",NC State,27,Wake Forest,17,1
+108,3,"Sep 16, 1989",Kansas State,8,Northern Iowa,10,0
+109,3,"Sep 16, 1989",Notre Dame,24,Michigan,19,1
+110,3,"Sep 16, 1989",Ohio State,37,Oklahoma State,13,0
+111,3,"Sep 16, 1989",Iowa,6,Oregon,44,0
+112,3,"Sep 16, 1989",Penn State,42,Temple,3,0
+113,3,"Sep 16, 1989",Rutgers,9,Boston College,7,0
+114,3,"Sep 16, 1989",USC,66,Utah State,10,0
+115,3,"Sep 16, 1989",SMU,31,Connecticut,30,0
+116,3,"Sep 16, 1989",Army,7,Syracuse,10,1
+117,3,"Sep 16, 1989",Duke,6,Tennessee,28,1
+118,3,"Sep 16, 1989",TCU,7,Texas A&M,44,0
+119,3,"Sep 16, 1989",Texas Tech,27,New Mexico,20,0
+120,3,"Sep 16, 1989",UTEP,29,New Mexico State,27,1
+121,3,"Sep 16, 1989",Tulane,17,Louisiana,10,0
+122,3,"Sep 16, 1989",UCLA,28,San Diego State,25,1
+123,3,"Sep 16, 1989",Virginia,17,Georgia Tech,10,1
+124,3,"Sep 16, 1989",Purdue,9,Washington,38,1
+125,3,"Sep 16, 1989",Washington State,41,Oregon State,3,0
+126,3,"Sep 16, 1989",West Virginia,45,South Carolina,21,0
+127,3,"Sep 16, 1989",Wisconsin,23,Toledo,10,0
+128,3,"Sep 16, 1989",Wyoming,20,Hawaii,15,0
+129,4,"Sep 23, 1989",Air Force,43,UTEP,26,0
+130,4,"Sep 23, 1989",Kentucky,3,Alabama,15,1
+131,4,"Sep 23, 1989",Arizona,20,Washington,17,0
+132,4,"Sep 23, 1989",Arkansas,24,Ole Miss,17,1
+133,4,"Sep 23, 1989",Army,14,Wake Forest,10,0
+134,4,"Sep 23, 1989",Baylor,46,Kansas,3,0
+135,4,"Sep 23, 1989",Bowling Green,24,Central Michigan,20,0
+136,4,"Sep 23, 1989",San Diego State,41,Cal State Fullerton,41,0
+137,4,"Sep 23, 1989",California,20,Wisconsin,14,0
+138,4,"Sep 23, 1989",Cincinnati,30,Miami (OH),14,1
+139,4,"Sep 23, 1989",Citadel,14,Navy,10,1
+140,4,"Sep 23, 1989",Maryland,7,Clemson,31,1
+141,4,"Sep 23, 1989",East Carolina,56,Illinois State,10,0
+142,4,"Sep 23, 1989",Colorado State,35,Eastern Michigan,35,0
+143,4,"Sep 23, 1989",Florida,38,Memphis,13,1
+144,4,"Sep 23, 1989",Tulane,9,Florida State,59,1
+145,4,"Sep 23, 1989",Fresno State,52,Long Beach State,0,0
+146,4,"Sep 23, 1989",Mississippi State,6,Georgia,23,1
+147,4,"Sep 23, 1989",Hawaii,67,Utah,20,0
+148,4,"Sep 23, 1989",Arizona State,7,Houston,36,0
+149,4,"Sep 23, 1989",Illinois,41,Utah State,2,0
+150,4,"Sep 23, 1989",Iowa,31,Iowa State,21,1
+151,4,"Sep 23, 1989",Rice,3,Louisiana,18,0
+152,4,"Sep 23, 1989",Missouri,7,Miami,38,0
+153,4,"Sep 23, 1989",Michigan,24,UCLA,23,1
+154,4,"Sep 23, 1989",Nebraska,48,Minnesota,0,1
+155,4,"Sep 23, 1989",UNLV,26,New Mexico State,14,0
+156,4,"Sep 23, 1989",North Carolina,6,NC State,40,1
+157,4,"Sep 23, 1989",Northern Illinois,37,Kansas State,20,1
+158,4,"Sep 23, 1989",Notre Dame,21,Michigan State,13,0
+159,4,"Sep 23, 1989",Oregon State,37,Boise State,30,1
+160,4,"Sep 23, 1989",Penn State,7,Boston College,3,0
+161,4,"Sep 23, 1989",Pitt,30,Syracuse,23,0
+162,4,"Sep 23, 1989",Rutgers,38,Northwestern,27,1
+163,4,"Sep 23, 1989",San Jose State,41,Pacific,32,0
+164,4,"Sep 23, 1989",South Carolina,21,Georgia Tech,10,0
+165,4,"Sep 23, 1989",USC,42,Ohio State,3,0
+166,4,"Sep 23, 1989",Stanford,18,Oregon,17,0
+167,4,"Sep 23, 1989",Texas,45,SMU,13,1
+168,4,"Sep 23, 1989",TCU,19,Southern Miss,17,0
+169,4,"Sep 23, 1989",Texas Tech,31,Oklahoma State,15,1
+170,4,"Sep 23, 1989",Toledo,29,Ball State,22,0
+171,4,"Sep 23, 1989",Tulsa,35,New Mexico,33,0
+172,4,"Sep 23, 1989",Vanderbilt,54,Ohio,10,0
+173,4,"Sep 23, 1989",Virginia,49,Duke,28,0
+174,4,"Sep 23, 1989",Virginia Tech,23,Temple,0,0
+175,4,"Sep 23, 1989",Washington State,29,Wyoming,23,1
+176,4,"Sep 23, 1989",West Virginia,30,Louisville,21,1
+177,4,"Sep 23, 1989",Kent State,4,Western Michigan,26,0
+178,4,"Sep 23, 1989",Youngstown State,20,Akron,17,0
+179,5,"Sep 30, 1989",Air Force,46,Colorado State,21,1
+180,5,"Sep 30, 1989",Akron,38,Bowling Green,24,1
+181,5,"Sep 30, 1989",Alabama,20,Vanderbilt,14,1
+182,5,"Sep 30, 1989",Missouri,3,Arizona State,19,1
+183,5,"Sep 30, 1989",UTEP,7,Arkansas,39,1
+184,5,"Sep 30, 1989",Army,56,Harvard,28,0
+185,5,"Sep 30, 1989",Baylor,29,Texas Tech,15,0
+186,5,"Sep 30, 1989",BYU,37,Utah State,10,1
+187,5,"Sep 30, 1989",Cal State Fullerton,34,UNLV,20,0
+188,5,"Sep 30, 1989",Miami (OH),7,Central Michigan,20,0
+189,5,"Sep 30, 1989",Colorado,45,Washington,28,1
+190,5,"Sep 30, 1989",Duke,21,Clemson,17,0
+191,5,"Sep 30, 1989",Eastern Michigan,21,Western Michigan,20,1
+192,5,"Sep 30, 1989",Florida,21,Mississippi State,0,0
+193,5,"Sep 30, 1989",Hawaii,60,New Mexico,14,0
+194,5,"Sep 30, 1989",Temple,7,Houston,65,1
+195,5,"Sep 30, 1989",Indiana,32,Toledo,12,0
+196,5,"Sep 30, 1989",Iowa,30,Tulsa,22,0
+197,5,"Sep 30, 1989",Iowa State,25,Tulane,24,1
+198,5,"Sep 30, 1989",Kansas State,20,North Texas,17,0
+199,5,"Sep 30, 1989",Louisiana,24,Louisiana-Monroe,10,1
+200,5,"Sep 30, 1989",Ohio,6,LSU,57,1
+201,5,"Sep 30, 1989",East Carolina,29,Louisiana Tech,29,0
+202,5,"Sep 30, 1989",Louisville,37,Cincinnati,17,0
+203,5,"Sep 30, 1989",Miami,26,Michigan State,20,1
+204,5,"Sep 30, 1989",Michigan,41,Maryland,21,0
+205,5,"Sep 30, 1989",Minnesota,34,Indiana State,14,0
+206,5,"Sep 30, 1989",North Carolina,7,Navy,12,0
+207,5,"Sep 30, 1989",Oregon State,7,Nebraska,35,1
+208,5,"Sep 30, 1989",NC State,42,Kent State,22,0
+209,5,"Sep 30, 1989",Northern Illinois,34,Western Illinois,27,0
+210,5,"Sep 30, 1989",Purdue,7,Notre Dame,40,0
+211,5,"Sep 30, 1989",Ohio State,34,Boston College,29,0
+212,5,"Sep 30, 1989",Kansas,6,Oklahoma,45,0
+213,5,"Sep 30, 1989",Wyoming,7,Oklahoma State,27,1
+214,5,"Sep 30, 1989",Oregon,16,Arizona,10,0
+215,5,"Sep 30, 1989",Pacific,26,Long Beach State,25,0
+216,5,"Sep 30, 1989",Penn State,16,Texas,12,1
+217,5,"Sep 30, 1989",West Virginia,31,Pitt,31,0
+218,5,"Sep 30, 1989",Wake Forest,17,Rice,17,0
+219,5,"Sep 30, 1989",San Diego State,38,Utah,27,1
+220,5,"Sep 30, 1989",San Jose State,40,Stanford,33,1
+221,5,"Sep 30, 1989",South Carolina,24,Georgia,20,1
+222,5,"Sep 30, 1989",USC,18,Washington State,17,1
+223,5,"Sep 30, 1989",Tennessee,21,Auburn,14,0
+224,5,"Sep 30, 1989",Texas A&M,31,Southern Miss,14,0
+225,5,"Sep 30, 1989",TCU,28,SMU,10,0
+226,5,"Sep 30, 1989",California,6,UCLA,24,1
+227,5,"Sep 30, 1989",Virginia,24,William & Mary,12,0
+228,6,"Oct 7, 1989",Navy,7,Air Force,35,0
+229,6,"Oct 7, 1989",Akron,31,Louisiana Tech,24,0
+230,6,"Oct 7, 1989",Alabama,62,Ole Miss,27,1
+231,6,"Oct 7, 1989",Arkansas,41,TCU,19,1
+232,6,"Oct 7, 1989",Auburn,24,Kentucky,12,1
+233,6,"Oct 7, 1989",Miami (OH),9,Ball State,37,1
+234,6,"Oct 7, 1989",Bowling Green,31,Ohio,28,1
+235,6,"Oct 7, 1989",BYU,36,Wyoming,20,0
+236,6,"Oct 7, 1989",California,26,San Jose State,21,0
+237,6,"Oct 7, 1989",Central Michigan,38,Kent State,0,0
+238,6,"Oct 7, 1989",Clemson,34,Virginia,20,0
+239,6,"Oct 7, 1989",Colorado,49,Missouri,3,0
+240,6,"Oct 7, 1989",Colorado State,34,New Mexico,20,1
+241,6,"Oct 7, 1989",Duke,35,Army,29,0
+242,6,"Oct 7, 1989",Eastern Michigan,31,Toledo,14,0
+243,6,"Oct 7, 1989",Florida,16,LSU,13,1
+244,6,"Oct 7, 1989",Florida State,41,Syracuse,10,1
+245,6,"Oct 7, 1989",Fresno State,35,Oregon State,18,0
+246,6,"Oct 7, 1989",Georgia Tech,28,Maryland,24,0
+247,6,"Oct 7, 1989",Hawaii,31,San Diego State,24,0
+248,6,"Oct 7, 1989",Houston,66,Baylor,10,0
+249,6,"Oct 7, 1989",Illinois,34,Ohio State,14,0
+250,6,"Oct 7, 1989",Indiana,43,Northwestern,11,0
+251,6,"Oct 7, 1989",Iowa State,24,Kansas,20,1
+252,6,"Oct 7, 1989",Long Beach State,55,New Mexico State,48,0
+253,6,"Oct 7, 1989",Louisiana,21,Tulsa,13,0
+254,6,"Oct 7, 1989",Memphis,13,Vanderbilt,10,0
+255,6,"Oct 7, 1989",Miami,56,Cincinnati,0,0
+256,6,"Oct 7, 1989",Michigan,24,Wisconsin,0,0
+257,6,"Oct 7, 1989",Michigan State,17,Iowa,14,1
+258,6,"Oct 7, 1989",Minnesota,35,Purdue,15,0
+259,6,"Oct 7, 1989",Mississippi State,28,Louisiana-Monroe,14,0
+260,6,"Oct 7, 1989",Kansas State,7,Nebraska,58,1
+261,6,"Oct 7, 1989",Pacific,7,UNLV,30,1
+262,6,"Oct 7, 1989",NC State,35,Middle Tennessee,14,0
+263,6,"Oct 7, 1989",Northern Illinois,29,Southern Illinois,24,0
+264,6,"Oct 7, 1989",Notre Dame,27,Stanford,17,1
+265,6,"Oct 7, 1989",Oklahoma,37,Oklahoma State,15,0
+266,6,"Oct 7, 1989",Penn State,17,Rutgers,0,1
+267,6,"Oct 7, 1989",Temple,3,Pitt,27,0
+268,6,"Oct 7, 1989",South Carolina,47,East Carolina,14,0
+269,6,"Oct 7, 1989",USC,24,Washington,16,0
+270,6,"Oct 7, 1989",Southern Miss,30,Tulane,21,0
+271,6,"Oct 7, 1989",Tennessee,17,Georgia,14,0
+272,6,"Oct 7, 1989",Texas,31,Rice,30,0
+273,6,"Oct 7, 1989",Texas Tech,27,Texas A&M,24,0
+274,6,"Oct 7, 1989",UCLA,33,Arizona State,14,0
+275,6,"Oct 7, 1989",Utah,50,UTEP,45,1
+276,6,"Oct 7, 1989",Utah State,34,Cal State Fullerton,23,0
+277,6,"Oct 7, 1989",Virginia Tech,12,West Virginia,10,1
+278,6,"Oct 7, 1989",Wake Forest,17,North Carolina,16,1
+279,6,"Oct 7, 1989",Washington State,51,Oregon,38,1
+280,7,"Oct 14, 1989",Alabama,24,Louisiana,17,0
+281,7,"Oct 14, 1989",UCLA,7,Arizona,42,1
+282,7,"Oct 14, 1989",Oregon State,17,Arizona State,17,0
+283,7,"Oct 14, 1989",Arkansas,45,Texas Tech,13,1
+284,7,"Oct 14, 1989",Holy Cross,9,Army,45,1
+285,7,"Oct 14, 1989",LSU,6,Auburn,10,1
+286,7,"Oct 14, 1989",Ball State,23,Kent State,21,1
+287,7,"Oct 14, 1989",Baylor,49,SMU,3,1
+288,7,"Oct 14, 1989",Boston College,35,Temple,14,0
+289,7,"Oct 14, 1989",Bowling Green,27,Toledo,23,0
+290,7,"Oct 14, 1989",BYU,45,Colorado State,16,1
+291,7,"Oct 14, 1989",Cal State Fullerton,35,Pacific,26,1
+292,7,"Oct 14, 1989",Western Michigan,6,Central Michigan,34,0
+293,7,"Oct 14, 1989",Colorado,52,Iowa State,17,1
+294,7,"Oct 14, 1989",Eastern Illinois,21,Akron,17,0
+295,7,"Oct 14, 1989",Florida,34,Vanderbilt,11,0
+296,7,"Oct 14, 1989",Virginia Tech,7,Florida State,41,0
+297,7,"Oct 14, 1989",Utah State,7,Fresno State,34,0
+298,7,"Oct 14, 1989",Georgia Tech,30,Clemson,14,1
+299,7,"Oct 14, 1989",Purdue,2,Illinois,14,0
+300,7,"Oct 14, 1989",Iowa,31,Wisconsin,24,1
+301,7,"Oct 14, 1989",Kentucky,33,Rutgers,26,0
+302,7,"Oct 14, 1989",Liberty,25,Eastern Michigan,24,1
+303,7,"Oct 14, 1989",Louisiana Tech,42,Northern Illinois,21,0
+304,7,"Oct 14, 1989",Wake Forest,7,Maryland,27,0
+305,7,"Oct 14, 1989",Memphis,34,Cincinnati,17,1
+306,7,"Oct 14, 1989",Miami,48,San Jose State,16,0
+307,7,"Oct 14, 1989",Michigan State,7,Michigan,10,0
+308,7,"Oct 14, 1989",Minnesota,20,Northwestern,18,1
+309,7,"Oct 14, 1989",Ole Miss,17,Georgia,13,0
+310,7,"Oct 14, 1989",Missouri,7,Nebraska,50,0
+311,7,"Oct 14, 1989",Notre Dame,41,Air Force,27,1
+312,7,"Oct 14, 1989",Miami (OH),22,Ohio,22,0
+313,7,"Oct 14, 1989",Ohio State,35,Indiana,31,0
+314,7,"Oct 14, 1989",Oklahoma State,17,Kansas State,13,0
+315,7,"Oct 14, 1989",Penn State,34,Syracuse,12,1
+316,7,"Oct 14, 1989",Pitt,31,Navy,14,0
+317,7,"Oct 14, 1989",San Diego State,30,Long Beach State,26,0
+318,7,"Oct 14, 1989",USC,31,California,15,1
+319,7,"Oct 14, 1989",Southern Miss,16,Louisville,10,1
+320,7,"Oct 14, 1989",Texas,28,Oklahoma,24,0
+321,7,"Oct 14, 1989",Texas A&M,17,Houston,13,0
+322,7,"Oct 14, 1989",TCU,30,Rice,16,1
+323,7,"Oct 14, 1989",New Mexico,7,UTEP,26,1
+324,7,"Oct 14, 1989",Tulsa,34,New Mexico State,13,0
+325,7,"Oct 14, 1989",Virginia,50,North Carolina,17,0
+326,7,"Oct 14, 1989",Washington,20,Oregon,14,0
+327,7,"Oct 14, 1989",Washington State,31,Stanford,13,0
+328,7,"Oct 14, 1989",Wyoming,45,Utah,24,0
+329,8,"Oct 21, 1989",Murray State,31,Akron,31,0
+330,8,"Oct 21, 1989",Alabama,47,Tennessee,30,0
+331,8,"Oct 21, 1989",Arizona,23,Washington State,21,1
+332,8,"Oct 21, 1989",Army,34,Lafayette,20,0
+333,8,"Oct 21, 1989",Ball State,14,Western Michigan,13,0
+334,8,"Oct 21, 1989",BYU,49,UTEP,24,0
+335,8,"Oct 21, 1989",Clemson,30,NC State,10,0
+336,8,"Oct 21, 1989",Colorado,49,Kansas,17,0
+337,8,"Oct 21, 1989",Colorado State,31,Hawaii,16,0
+338,8,"Oct 21, 1989",Duke,46,Maryland,25,1
+339,8,"Oct 21, 1989",East Carolina,14,Virginia Tech,10,0
+340,8,"Oct 21, 1989",Eastern Michigan,21,Bowling Green,13,0
+341,8,"Oct 21, 1989",Florida,27,New Mexico,21,0
+342,8,"Oct 21, 1989",Florida State,22,Auburn,14,0
+343,8,"Oct 21, 1989",Fresno State,33,Cal State Fullerton,19,0
+344,8,"Oct 21, 1989",Georgia,35,Vanderbilt,16,1
+345,8,"Oct 21, 1989",Georgia Tech,17,North Carolina,14,0
+346,8,"Oct 21, 1989",Houston,95,SMU,21,0
+347,8,"Oct 21, 1989",Illinois,14,Michigan State,10,1
+348,8,"Oct 21, 1989",Indiana,28,Minnesota,18,0
+349,8,"Oct 21, 1989",Kentucky,27,LSU,21,0
+350,8,"Oct 21, 1989",Louisiana,24,Southern Miss,21,1
+351,8,"Oct 21, 1989",Louisiana Tech,40,Arkansas State,37,1
+352,8,"Oct 21, 1989",Michigan,26,Iowa,12,1
+353,8,"Oct 21, 1989",Ole Miss,32,Tulane,28,1
+354,8,"Oct 21, 1989",Mississippi State,35,Memphis,10,0
+355,8,"Oct 21, 1989",Kansas State,9,Missouri,21,0
+356,8,"Oct 21, 1989",Navy,27,Boston College,24,1
+357,8,"Oct 21, 1989",Nebraska,48,Oklahoma State,23,1
+358,8,"Oct 21, 1989",Northern Illinois,42,UNLV,24,0
+359,8,"Oct 21, 1989",Notre Dame,28,USC,24,0
+360,8,"Oct 21, 1989",Ohio,37,Kent State,14,0
+361,8,"Oct 21, 1989",Purdue,3,Ohio State,21,1
+362,8,"Oct 21, 1989",Oklahoma,43,Iowa State,40,1
+363,8,"Oct 21, 1989",Arizona State,7,Oregon,27,0
+364,8,"Oct 21, 1989",Oregon State,18,UCLA,17,0
+365,8,"Oct 21, 1989",Pacific,7,San Diego State,35,1
+366,8,"Oct 21, 1989",San Jose State,21,Long Beach State,10,1
+367,8,"Oct 21, 1989",Western Carolina,3,South Carolina,24,1
+368,8,"Oct 21, 1989",Syracuse,49,Rutgers,28,1
+369,8,"Oct 21, 1989",Texas,24,Arkansas,20,1
+370,8,"Oct 21, 1989",Texas A&M,14,Baylor,11,1
+371,8,"Oct 21, 1989",Air Force,9,TCU,27,1
+372,8,"Oct 21, 1989",Texas Tech,41,Rice,25,0
+373,8,"Oct 21, 1989",Toledo,17,Miami (OH),14,0
+374,8,"Oct 21, 1989",Tulsa,31,Louisville,24,0
+375,8,"Oct 21, 1989",Utah,27,Stanford,24,1
+376,8,"Oct 21, 1989",Utah State,28,New Mexico State,13,1
+377,8,"Oct 21, 1989",Virginia,47,Wake Forest,28,0
+378,8,"Oct 21, 1989",Washington,29,California,16,1
+379,8,"Oct 21, 1989",West Virginia,69,Cincinnati,3,0
+380,8,"Oct 21, 1989",Wisconsin,35,Northwestern,31,0
+381,8,"Oct 21, 1989",Youngstown State,30,Central Michigan,3,1
+382,9,"Oct 26, 1989",Ball State,34,Indiana State,27,0
+383,9,"Oct 28, 1989",Akron,31,Cincinnati,0,0
+384,9,"Oct 28, 1989",Alabama,17,Penn State,16,1
+385,9,"Oct 28, 1989",Arizona,38,Pacific,14,0
+386,9,"Oct 28, 1989",Arizona State,44,Washington State,39,0
+387,9,"Oct 28, 1989",Arkansas,45,Houston,39,0
+388,9,"Oct 28, 1989",Army,35,Rutgers,14,0
+389,9,"Oct 28, 1989",Auburn,14,Mississippi State,0,0
+390,9,"Oct 28, 1989",TCU,9,Baylor,27,1
+391,9,"Oct 28, 1989",Eastern Michigan,9,Central Michigan,24,1
+392,9,"Oct 28, 1989",Clemson,44,Wake Forest,10,0
+393,9,"Oct 28, 1989",Oklahoma,3,Colorado,20,0
+394,9,"Oct 28, 1989",Colorado State,50,Utah,10,1
+395,9,"Oct 28, 1989",Duke,30,Georgia Tech,19,0
+396,9,"Oct 28, 1989",Florida State,24,Miami,10,0
+397,9,"Oct 28, 1989",Fresno State,31,UNLV,17,0
+398,9,"Oct 28, 1989",Georgia,34,Kentucky,23,0
+399,9,"Oct 28, 1989",Hawaii,56,BYU,14,0
+400,9,"Oct 28, 1989",Wisconsin,9,Illinois,32,1
+401,9,"Oct 28, 1989",Iowa,35,Northwestern,22,1
+402,9,"Oct 28, 1989",James Madison,24,Navy,20,1
+403,9,"Oct 28, 1989",Kansas,21,Kansas State,16,1
+404,9,"Oct 28, 1989",Louisiana Tech,34,Tulsa,31,0
+405,9,"Oct 28, 1989",Maryland,38,North Carolina,0,0
+406,9,"Oct 28, 1989",Miami (OH),17,Bowling Green,13,0
+407,9,"Oct 28, 1989",Michigan,38,Indiana,10,0
+408,9,"Oct 28, 1989",Michigan State,28,Purdue,21,1
+409,9,"Oct 28, 1989",Ole Miss,24,Vanderbilt,16,0
+410,9,"Oct 28, 1989",Nebraska,49,Iowa State,17,0
+411,9,"Oct 28, 1989",NC State,20,South Carolina,10,1
+412,9,"Oct 28, 1989",Northern Illinois,20,Temple,17,1
+413,9,"Oct 28, 1989",Pitt,7,Notre Dame,45,1
+414,9,"Oct 28, 1989",Ohio State,41,Minnesota,37,1
+415,9,"Oct 28, 1989",Oklahoma State,31,Missouri,30,1
+416,9,"Oct 28, 1989",Oregon,52,Long Beach State,10,0
+417,9,"Oct 28, 1989",Oregon State,25,California,14,1
+418,9,"Oct 28, 1989",San Diego State,34,UTEP,31,1
+419,9,"Oct 28, 1989",New Mexico State,6,San Jose State,34,1
+420,9,"Oct 28, 1989",USC,19,Stanford,0,0
+421,9,"Oct 28, 1989",North Texas,9,SMU,35,1
+422,9,"Oct 28, 1989",Memphis,7,Southern Miss,31,0
+423,9,"Oct 28, 1989",Syracuse,18,East Carolina,16,0
+424,9,"Oct 28, 1989",Tennessee,45,LSU,39,1
+425,9,"Oct 28, 1989",Rice,7,Texas A&M,45,0
+426,9,"Oct 28, 1989",Toledo,47,Kent State,42,1
+427,9,"Oct 28, 1989",Virginia,16,Louisville,15,0
+428,9,"Oct 28, 1989",Virginia Tech,30,Tulane,13,0
+429,9,"Oct 28, 1989",Washington,28,UCLA,27,1
+430,9,"Oct 28, 1989",West Virginia,44,Boston College,30,1
+431,9,"Oct 28, 1989",Western Michigan,28,Ohio,13,0
+432,9,"Oct 28, 1989",Wyoming,24,New Mexico,23,1
+433,10,"Nov 4, 1989",Army,3,Air Force,29,1
+434,10,"Nov 4, 1989",Northern Arizona,7,Akron,52,1
+435,10,"Nov 4, 1989",Alabama,23,Mississippi State,10,0
+436,10,"Nov 4, 1989",Arizona State,34,Washington,32,1
+437,10,"Nov 4, 1989",Arkansas,38,Rice,17,1
+438,10,"Nov 4, 1989",Florida,7,Auburn,10,1
+439,10,"Nov 4, 1989",Bowling Green,51,Kent State,28,0
+440,10,"Nov 4, 1989",BYU,45,Oregon,41,0
+441,10,"Nov 4, 1989",Cal State Fullerton,45,New Mexico State,10,0
+442,10,"Nov 4, 1989",California,29,Arizona,28,0
+443,10,"Nov 4, 1989",Ball State,13,Central Michigan,13,0
+444,10,"Nov 4, 1989",Clemson,35,North Carolina,3,1
+445,10,"Nov 4, 1989",Colorado,27,Nebraska,21,0
+446,10,"Nov 4, 1989",Duke,52,Wake Forest,35,1
+447,10,"Nov 4, 1989",Miami (OH),7,Eastern Michigan,20,1
+448,10,"Nov 4, 1989",Florida State,35,South Carolina,10,0
+449,10,"Nov 4, 1989",Fresno State,31,San Jose State,30,0
+450,10,"Nov 4, 1989",Georgia,37,Temple,10,0
+451,10,"Nov 4, 1989",Western Carolina,7,Georgia Tech,34,1
+452,10,"Nov 4, 1989",UTEP,7,Hawaii,26,1
+453,10,"Nov 4, 1989",Houston,55,TCU,10,1
+454,10,"Nov 4, 1989",Iowa,7,Illinois,31,0
+455,10,"Nov 4, 1989",Iowa State,36,Kansas State,11,0
+456,10,"Nov 4, 1989",Kentucky,31,Cincinnati,0,0
+457,10,"Nov 4, 1989",LSU,35,Ole Miss,30,1
+458,10,"Nov 4, 1989",Louisiana-Monroe,6,Louisiana Tech,24,1
+459,10,"Nov 4, 1989",Western Kentucky,7,Louisville,55,1
+460,10,"Nov 4, 1989",Miami,40,East Carolina,10,0
+461,10,"Nov 4, 1989",Michigan,42,Purdue,27,0
+462,10,"Nov 4, 1989",Michigan State,51,Indiana,20,1
+463,10,"Nov 4, 1989",Minnesota,24,Wisconsin,22,0
+464,10,"Nov 4, 1989",UNLV,43,Long Beach State,21,0
+465,10,"Nov 4, 1989",Northern Illinois,23,Louisiana,20,0
+466,10,"Nov 4, 1989",Notre Dame,41,Navy,0,0
+467,10,"Nov 4, 1989",Ohio State,52,Northwestern,27,1
+468,10,"Nov 4, 1989",Oklahoma,52,Missouri,14,0
+469,10,"Nov 4, 1989",Oklahoma State,37,Kansas,24,1
+470,10,"Nov 4, 1989",West Virginia,9,Penn State,19,1
+471,10,"Nov 4, 1989",San Diego State,45,New Mexico,28,0
+472,10,"Nov 4, 1989",Oregon State,6,USC,48,1
+473,10,"Nov 4, 1989",Stanford,17,UCLA,14,0
+474,10,"Nov 4, 1989",Syracuse,23,Boston College,11,0
+475,10,"Nov 4, 1989",Texas A&M,63,SMU,14,0
+476,10,"Nov 4, 1989",Texas Tech,24,Texas,17,1
+477,10,"Nov 4, 1989",Toledo,19,Western Michigan,18,0
+478,10,"Nov 4, 1989",Tulane,38,Memphis,34,0
+479,10,"Nov 4, 1989",Utah State,38,Pacific,10,1
+480,10,"Nov 4, 1989",NC State,9,Virginia,20,0
+481,10,"Nov 4, 1989",Virginia Tech,18,Vanderbilt,0,0
+482,10,"Nov 4, 1989",Wyoming,56,Colorado State,35,0
+483,11,"Nov 11, 1989",Alabama,32,LSU,16,1
+484,11,"Nov 11, 1989",Arizona State,30,Stanford,22,0
+485,11,"Nov 11, 1989",Arkansas,19,Baylor,10,0
+486,11,"Nov 11, 1989",Auburn,38,Louisiana Tech,23,0
+487,11,"Nov 11, 1989",Ball State,23,Eastern Michigan,17,0
+488,11,"Nov 11, 1989",Boston College,24,Army,17,1
+489,11,"Nov 11, 1989",Bowling Green,31,Western Michigan,30,1
+490,11,"Nov 11, 1989",BYU,44,Air Force,35,0
+491,11,"Nov 11, 1989",Cal State Fullerton,31,Long Beach State,13,0
+492,11,"Nov 11, 1989",California,38,Washington State,26,0
+493,11,"Nov 11, 1989",Central Michigan,24,Ohio,15,0
+494,11,"Nov 11, 1989",Colorado,41,Oklahoma State,17,1
+495,11,"Nov 11, 1989",Colorado State,52,UTEP,0,1
+496,11,"Nov 11, 1989",Duke,35,NC State,26,0
+497,11,"Nov 11, 1989",East Carolina,31,Temple,24,0
+498,11,"Nov 11, 1989",New Mexico State,5,Fresno State,45,0
+499,11,"Nov 11, 1989",Georgia,17,Florida,10,0
+500,11,"Nov 11, 1989",Hawaii,34,Pacific,26,0
+501,11,"Nov 11, 1989",Texas,9,Houston,47,1
+502,11,"Nov 11, 1989",Indiana,45,Wisconsin,17,1
+503,11,"Nov 11, 1989",Iowa State,35,Missouri,21,1
+504,11,"Nov 11, 1989",Kentucky,15,Vanderbilt,11,1
+505,11,"Nov 11, 1989",Louisiana,42,Lamar,33,0
+506,11,"Nov 11, 1989",Louisville,40,Memphis,10,1
+507,11,"Nov 11, 1989",Pitt,3,Miami,24,0
+508,11,"Nov 11, 1989",Miami (OH),15,Kent State,13,1
+509,11,"Nov 11, 1989",Michigan,24,Illinois,10,1
+510,11,"Nov 11, 1989",Minnesota,7,Michigan State,21,1
+511,11,"Nov 11, 1989",Tulane,7,Mississippi State,27,1
+512,11,"Nov 11, 1989",Morehead State,13,Cincinnati,10,1
+513,11,"Nov 11, 1989",Nebraska,51,Kansas,14,0
+514,11,"Nov 11, 1989",UNLV,7,Nevada,45,1
+515,11,"Nov 11, 1989",Northern Illinois,39,Toledo,27,0
+516,11,"Nov 11, 1989",SMU,6,Notre Dame,59,1
+517,11,"Nov 11, 1989",Ohio State,28,Iowa,0,0
+518,11,"Nov 11, 1989",Oklahoma,42,Kansas State,19,0
+519,11,"Nov 11, 1989",Oregon,38,UCLA,20,1
+520,11,"Nov 11, 1989",Maryland,13,Penn State,13,0
+521,11,"Nov 11, 1989",Purdue,46,Northwestern,15,0
+522,11,"Nov 11, 1989",San Diego State,27,Wyoming,17,0
+523,11,"Nov 11, 1989",Utah State,7,San Jose State,33,0
+524,11,"Nov 11, 1989",South Carolina,27,North Carolina,20,1
+525,11,"Nov 11, 1989",Arizona,3,USC,24,0
+526,11,"Nov 11, 1989",Syracuse,38,Navy,17,1
+527,11,"Nov 11, 1989",Akron,9,Tennessee,52,1
+528,11,"Nov 11, 1989",TCU,7,Texas Tech,37,1
+529,11,"Nov 11, 1989",Utah,41,New Mexico,39,0
+530,11,"Nov 11, 1989",Virginia,32,Virginia Tech,25,0
+531,11,"Nov 11, 1989",Wake Forest,29,Tulsa,17,0
+532,11,"Nov 11, 1989",Washington,51,Oregon State,14,1
+533,11,"Nov 11, 1989",West Virginia,21,Rutgers,20,0
+534,12,"Nov 18, 1989",Alabama,37,Southern Miss,14,0
+535,12,"Nov 18, 1989",Army,59,Colgate,14,0
+536,12,"Nov 18, 1989",Georgia,3,Auburn,20,0
+537,12,"Nov 18, 1989",Ball State,33,Ohio,14,1
+538,12,"Nov 18, 1989",BYU,70,Utah,31,0
+539,12,"Nov 18, 1989",Cal State Fullerton,28,San Jose State,14,1
+540,12,"Nov 18, 1989",Clemson,45,South Carolina,0,1
+541,12,"Nov 18, 1989",Colorado,59,Kansas State,11,1
+542,12,"Nov 18, 1989",Navy,9,Delaware,10,1
+543,12,"Nov 18, 1989",Duke,41,North Carolina,0,1
+544,12,"Nov 18, 1989",Florida,38,Kentucky,28,0
+545,12,"Nov 18, 1989",Florida State,57,Memphis,20,0
+546,12,"Nov 18, 1989",Georgia Tech,43,Wake Forest,14,0
+547,12,"Nov 18, 1989",Illinois,41,Indiana,28,0
+548,12,"Nov 18, 1989",Iowa,24,Purdue,0,1
+549,12,"Nov 18, 1989",Iowa State,31,Oklahoma State,21,1
+550,12,"Nov 18, 1989",Kansas,46,Missouri,44,1
+551,12,"Nov 18, 1989",Louisiana,29,Arkansas State,28,0
+552,12,"Nov 18, 1989",LSU,44,Mississippi State,20,0
+553,12,"Nov 18, 1989",Louisville,36,Boston College,22,1
+554,12,"Nov 18, 1989",San Diego State,6,Miami,42,1
+555,12,"Nov 18, 1989",Michigan,49,Minnesota,15,1
+556,12,"Nov 18, 1989",Michigan State,76,Northwestern,14,0
+557,12,"Nov 18, 1989",Nebraska,42,Oklahoma,25,0
+558,12,"Nov 18, 1989",New Mexico,45,Fresno State,22,0
+559,12,"Nov 18, 1989",Northern Illinois,56,Cincinnati,3,1
+560,12,"Nov 18, 1989",Notre Dame,34,Penn State,23,1
+561,12,"Nov 18, 1989",Ohio State,42,Wisconsin,22,0
+562,12,"Nov 18, 1989",Oregon,30,Oregon State,21,0
+563,12,"Nov 18, 1989",Pacific,14,New Mexico State,10,1
+564,12,"Nov 18, 1989",Pitt,47,East Carolina,42,0
+565,12,"Nov 18, 1989",Rice,6,Baylor,3,1
+566,12,"Nov 18, 1989",Stanford,24,California,14,0
+567,12,"Nov 18, 1989",Temple,36,Rutgers,33,0
+568,12,"Nov 18, 1989",Tennessee,33,Ole Miss,21,0
+569,12,"Nov 18, 1989",Texas,31,TCU,17,0
+570,12,"Nov 18, 1989",Texas Tech,48,SMU,24,1
+571,12,"Nov 18, 1989",Central Michigan,6,Toledo,29,1
+572,12,"Nov 18, 1989",Tulane,37,Vanderbilt,13,1
+573,12,"Nov 18, 1989",Tulsa,45,Bowling Green,10,0
+574,12,"Nov 18, 1989",USC,10,UCLA,10,0
+575,12,"Nov 18, 1989",Utah State,27,UNLV,22,1
+576,12,"Nov 18, 1989",Virginia,48,Maryland,21,1
+577,12,"Nov 18, 1989",Virginia Tech,25,NC State,23,1
+578,12,"Nov 18, 1989",Washington State,9,Washington,20,1
+579,12,"Nov 18, 1989",Miami (OH),7,Western Michigan,14,0
+580,12,"Nov 19, 1989",Wyoming,41,UTEP,10,0
+581,13,"Nov 23, 1989",West Virginia,24,Syracuse,17,1
+582,13,"Nov 24, 1989",Arkansas,23,Texas A&M,22,1
+583,13,"Nov 25, 1989",Air Force,42,Utah,38,1
+584,13,"Nov 25, 1989",Arizona,28,Arizona State,10,1
+585,13,"Nov 25, 1989",Texas,7,Baylor,50,0
+586,13,"Nov 25, 1989",BYU,48,San Diego State,27,1
+587,13,"Nov 25, 1989",Georgia Tech,13,Boston College,12,0
+588,13,"Nov 25, 1989",Hawaii,23,Oregon State,21,0
+589,13,"Nov 25, 1989",Houston,40,Texas Tech,24,0
+590,13,"Nov 25, 1989",Illinois,63,Northwestern,14,1
+591,13,"Nov 25, 1989",Long Beach State,31,Utah State,18,0
+592,13,"Nov 25, 1989",Tulane,7,LSU,27,0
+593,13,"Nov 25, 1989",Miami,27,Notre Dame,10,0
+594,13,"Nov 25, 1989",Michigan,28,Ohio State,18,0
+595,13,"Nov 25, 1989",Michigan State,31,Wisconsin,3,1
+596,13,"Nov 25, 1989",Iowa,7,Minnesota,43,0
+597,13,"Nov 25, 1989",Ole Miss,21,Mississippi State,11,0
+598,13,"Nov 25, 1989",Penn State,16,Pitt,13,1
+599,13,"Nov 25, 1989",Purdue,15,Indiana,14,1
+600,13,"Nov 25, 1989",San Jose State,38,UNLV,28,0
+601,13,"Nov 25, 1989",Southern Miss,41,East Carolina,27,0
+602,13,"Nov 25, 1989",Tennessee,31,Kentucky,10,1
+603,14,"Dec 2, 1989",Arkansas,38,SMU,24,0
+604,14,"Dec 2, 1989",Auburn,30,Alabama,20,0
+605,14,"Dec 2, 1989",Florida State,24,Florida,17,1
+606,14,"Dec 2, 1989",Georgia Tech,33,Georgia,22,0
+607,14,"Dec 2, 1989",Houston,64,Rice,0,1
+608,14,"Dec 2, 1989",Pitt,46,Rutgers,29,0
+609,14,"Dec 2, 1989",Tennessee,17,Vanderbilt,10,0
+610,14,"Dec 2, 1989",Texas A&M,21,Texas,10,0
+611,14,"Dec 4, 1989",Syracuse,24,Louisville,13,0
+612,15,"Dec 9, 1989",Hawaii,35,Air Force,35,0
+613,15,"Dec 9, 1989",Ball State,6,Fresno State,27,1
+614,15,"Dec 9, 1989",Navy,19,Army,17,1
+615,16,"Dec 16, 1989",Oregon,27,Tulsa,24,0
+616,17,"Dec 25, 1989",Michigan State,33,Hawaii,13,1
+617,18,"Dec 28, 1989",Ole Miss,42,Air Force,29,0
+618,18,"Dec 28, 1989",Texas Tech,49,Duke,21,0
+619,18,"Dec 29, 1989",Penn State,50,BYU,39,0
+620,18,"Dec 30, 1989",West Virginia,7,Clemson,27,1
+621,18,"Dec 30, 1989",Pitt,31,Texas A&M,28,0
+622,18,"Dec 30, 1989",Syracuse,19,Georgia,18,0
+623,18,"Dec 30, 1989",Florida,7,Washington,34,1
+624,18,"Dec 31, 1989",Arizona,17,NC State,10,0
+625,19,"Jan 1, 1990",Auburn,31,Ohio State,14,0
+626,19,"Jan 1, 1990",Florida State,41,Nebraska,17,0
+627,19,"Jan 1, 1990",Illinois,31,Virginia,21,0
+628,19,"Jan 1, 1990",Miami,33,Alabama,25,0
+629,19,"Jan 1, 1990",Colorado,6,Notre Dame,21,1
+630,19,"Jan 1, 1990",USC,17,Michigan,10,0
+631,19,"Jan 1, 1990",Tennessee,31,Arkansas,27,0

@@ -1,0 +1,575 @@
+0,1,"Sep 18, 1953",Denver,19,Colorado College,13,1
+1,1,"Sep 18, 1953",North Dakota State,6,Detroit Mercy,33,1
+2,1,"Sep 18, 1953",Furman,33,Newberry,0,0
+3,1,"Sep 18, 1953",Richmond,28,Randolph-Macon,0,0
+4,1,"Sep 18, 1953",Idaho,6,San Jose State,34,1
+5,1,"Sep 18, 1953",Southern Miss,25,Alabama,19,1
+6,1,"Sep 18, 1953",UCLA,41,Oregon State,0,0
+7,1,"Sep 19, 1953",Baylor,25,California,0,1
+8,1,"Sep 19, 1953",BYU,27,Montana,13,0
+9,1,"Sep 19, 1953",Tulsa,7,Cincinnati,14,0
+10,1,"Sep 19, 1953",Presbyterian,7,Clemson,33,1
+11,1,"Sep 19, 1953",Colorado,21,Washington,20,1
+12,1,"Sep 19, 1953",South Carolina,7,Duke,20,0
+13,1,"Sep 19, 1953",Georgia,32,Villanova,19,1
+14,1,"Sep 19, 1953",Georgia Tech,53,Davidson,0,0
+15,1,"Sep 19, 1953",Iowa State,35,South Dakota,0,0
+16,1,"Sep 19, 1953",Kansas State,50,Drake,0,0
+17,1,"Sep 19, 1953",Texas,7,LSU,20,1
+18,1,"Sep 19, 1953",Marquette,46,South Dakota State,13,0
+19,1,"Sep 19, 1953",Missouri,6,Maryland,20,0
+20,1,"Sep 19, 1953",Chattanooga,6,Ole Miss,39,1
+21,1,"Sep 19, 1953",Memphis,6,Mississippi State,34,0
+22,1,"Sep 19, 1953",Oklahoma State,20,Hardin-Simmons,0,0
+23,1,"Sep 19, 1953",Oregon,20,Nebraska,12,1
+24,1,"Sep 19, 1953",Pacific,25,Stanford,20,1
+25,1,"Sep 19, 1953",Rice,20,Florida,16,0
+26,1,"Sep 19, 1953",San Diego Navy,19,Arizona State,14,1
+27,1,"Sep 19, 1953",USC,29,Washington State,13,1
+28,1,"Sep 19, 1953",Texas A&M,7,Kentucky,6,1
+29,1,"Sep 19, 1953",TCU,13,Kansas,0,0
+30,1,"Sep 19, 1953",Texas Tech,40,West Texas State,14,0
+31,1,"Sep 19, 1953",Sul Ross State,7,UTEP,26,1
+32,1,"Sep 19, 1953",Citadel,6,Tulane,54,1
+33,1,"Sep 19, 1953",Arizona,7,Utah,28,0
+34,1,"Sep 19, 1953",Wichita State,7,Utah State,14,1
+35,1,"Sep 19, 1953",Virginia Military Institute,44,Catawba College,0,0
+36,1,"Sep 19, 1953",Virginia Tech,7,Marshall,0,0
+37,1,"Sep 19, 1953",Washington & Lee,47,Shepherd,0,0
+38,1,"Sep 19, 1953",William & Mary,16,Wake Forest,14,0
+39,1,"Sep 19, 1953",Wyoming,47,New Mexico State,0,0
+40,2,"Sep 25, 1953",Auburn,47,Stetson,0,0
+41,2,"Sep 25, 1953",Detroit Mercy,48,Wayne State,0,0
+42,2,"Sep 25, 1953",Miami,27,Florida State,0,0
+43,2,"Sep 25, 1953",San Jose State,28,BYU,25,1
+44,2,"Sep 25, 1953",Kansas,7,UCLA,19,1
+45,2,"Sep 26, 1953",Amherst,7,Brown,6,1
+46,2,"Sep 26, 1953",Arizona State,14,North Texas,0,1
+47,2,"Sep 26, 1953",Army,41,Furman,0,0
+48,2,"Sep 26, 1953",California,26,Oregon State,0,1
+49,2,"Sep 26, 1953",Boston College,14,Clemson,14,0
+50,2,"Sep 26, 1953",Colorado,20,Arizona,14,0
+51,2,"Sep 26, 1953",Colorado State,14,Kansas State,13,0
+52,2,"Sep 26, 1953",Lehigh,7,Columbia,14,1
+53,2,"Sep 26, 1953",Colgate,7,Cornell,27,1
+54,2,"Sep 26, 1953",Denver,33,Drake,14,0
+55,2,"Sep 26, 1953",Duke,19,Wake Forest,0,0
+56,2,"Sep 26, 1953",George Washington,14,Virginia Military Institute,13,1
+57,2,"Sep 26, 1953",Georgia,16,Tulane,14,0
+58,2,"Sep 26, 1953",Florida,0,Georgia Tech,0,0
+59,2,"Sep 26, 1953",Midwestern Texas State,7,Hardin-Simmons,33,1
+60,2,"Sep 26, 1953",Dartmouth,6,Holy Cross,28,1
+61,2,"Sep 26, 1953",Texas A&M,14,Houston,14,0
+62,2,"Sep 26, 1953",Alabama,7,LSU,7,0
+63,2,"Sep 26, 1953",Cincinnati,7,Marquette,31,1
+64,2,"Sep 26, 1953",Maryland,52,Washington & Lee,0,0
+65,2,"Sep 26, 1953",West Texas State,20,McMurry,20,0
+66,2,"Sep 26, 1953",Michigan,50,Washington,0,0
+67,2,"Sep 26, 1953",Iowa,7,Michigan State,21,0
+68,2,"Sep 26, 1953",Kentucky,6,Ole Miss,22,1
+69,2,"Sep 26, 1953",Mississippi State,26,Tennessee,0,1
+70,2,"Sep 26, 1953",Purdue,7,Missouri,14,1
+71,2,"Sep 26, 1953",Illinois,21,Nebraska,21,0
+72,2,"Sep 26, 1953",Colorado College,7,New Mexico State,12,1
+73,2,"Sep 26, 1953",NC State,7,North Carolina,29,1
+74,2,"Sep 26, 1953",Northwestern,35,Iowa State,0,0
+75,2,"Sep 26, 1953",Notre Dame,28,Oklahoma,21,1
+76,2,"Sep 26, 1953",Ohio State,36,Indiana,12,0
+77,2,"Sep 26, 1953",Oklahoma State,7,Arkansas,6,1
+78,2,"Sep 26, 1953",Vanderbilt,7,Pennsylvania,13,1
+79,2,"Sep 26, 1953",Princeton,20,Lafayette,14,0
+80,2,"Sep 26, 1953",Richmond,16,Davidson,0,0
+81,2,"Sep 26, 1953",South Carolina,25,Citadel,0,0
+82,2,"Sep 26, 1953",Minnesota,7,USC,17,1
+83,2,"Sep 26, 1953",Stanford,7,Oregon,0,0
+84,2,"Sep 26, 1953",Syracuse,42,Temple,0,0
+85,2,"Sep 26, 1953",Texas,41,Villanova,12,0
+86,2,"Sep 26, 1953",UTEP,6,Texas Tech,27,0
+87,2,"Sep 26, 1953",Utah,21,Idaho,0,0
+88,2,"Sep 26, 1953",Utah State,6,New Mexico,0,0
+89,2,"Sep 26, 1953",Virginia,6,Virginia Tech,20,0
+90,2,"Sep 26, 1953",Washington State,26,Pacific,20,1
+91,2,"Sep 26, 1953",Pitt,7,West Virginia,17,0
+92,2,"Sep 26, 1953",Wichita State,19,Tulsa,10,0
+93,2,"Sep 26, 1953",Navy,6,William & Mary,6,0
+94,2,"Sep 26, 1953",Wisconsin,20,Penn State,0,0
+95,2,"Sep 26, 1953",Montana,7,Wyoming,27,0
+96,2,"Sep 26, 1953",Yale,32,Connecticut,0,0
+97,3,"Oct 2, 1953",Baylor,21,Miami,13,1
+98,3,"Oct 2, 1953",Syracuse,14,Boston University,14,0
+99,3,"Oct 2, 1953",Detroit Mercy,7,Fordham,21,0
+100,3,"Oct 2, 1953",Furman,27,Citadel,0,1
+101,3,"Oct 2, 1953",USC,27,Indiana,14,0
+102,3,"Oct 3, 1953",Alabama,21,Vanderbilt,12,1
+103,3,"Oct 3, 1953",New Mexico State,7,Arizona,46,1
+104,3,"Oct 3, 1953",TCU,6,Arkansas,13,1
+105,3,"Oct 3, 1953",Auburn,13,Ole Miss,0,0
+106,3,"Oct 3, 1953",New Mexico,12,BYU,12,0
+107,3,"Oct 3, 1953",William & Mary,7,Cincinnati,57,1
+108,3,"Oct 3, 1953",Denver,6,Colorado State,21,1
+109,3,"Oct 3, 1953",Drake,18,South Dakota,0,0
+110,3,"Oct 3, 1953",Tennessee,7,Duke,21,0
+111,3,"Oct 3, 1953",NC State,7,George Washington,20,1
+112,3,"Oct 3, 1953",Georgia Tech,6,SMU,4,0
+113,3,"Oct 3, 1953",Harvard,16,Ohio,0,0
+114,3,"Oct 3, 1953",Colgate,6,Holy Cross,19,0
+115,3,"Oct 3, 1953",Idaho,20,Montana,12,1
+116,3,"Oct 3, 1953",Illinois,33,Stanford,21,0
+117,3,"Oct 3, 1953",Iowa,54,Washington State,12,0
+118,3,"Oct 3, 1953",Kansas,23,Iowa State,0,0
+119,3,"Oct 3, 1953",Kansas State,27,Nebraska,0,0
+120,3,"Oct 3, 1953",Kentucky,26,Florida,13,0
+121,3,"Oct 3, 1953",Boston College,6,LSU,42,1
+122,3,"Oct 3, 1953",Maryland,20,Clemson,0,1
+123,3,"Oct 3, 1953",Tulane,7,Michigan,26,1
+124,3,"Oct 3, 1953",Michigan State,21,Minnesota,0,1
+125,3,"Oct 3, 1953",North Texas,6,Mississippi State,21,1
+126,3,"Oct 3, 1953",Missouri,27,Colorado,16,1
+127,3,"Oct 3, 1953",Dartmouth,7,Navy,55,1
+128,3,"Oct 3, 1953",North Carolina,39,Washington & Lee,0,0
+129,3,"Oct 3, 1953",Northwestern,33,Army,20,0
+130,3,"Oct 3, 1953",Purdue,7,Notre Dame,37,0
+131,3,"Oct 3, 1953",Ohio State,33,California,19,1
+132,3,"Oct 3, 1953",Pitt,7,Oklahoma,7,0
+133,3,"Oct 3, 1953",Penn State,7,Pennsylvania,13,1
+134,3,"Oct 3, 1953",Princeton,20,Columbia,19,0
+135,3,"Oct 3, 1953",Cornell,7,Rice,28,0
+136,3,"Oct 3, 1953",Virginia Military Institute,7,Richmond,13,1
+137,3,"Oct 3, 1953",Rutgers,20,Virginia Tech,13,0
+138,3,"Oct 3, 1953",San Jose State,27,Fresno State,21,1
+139,3,"Oct 3, 1953",South Carolina,19,Virginia,0,1
+140,3,"Oct 3, 1953",Houston,7,Texas,28,1
+141,3,"Oct 3, 1953",Texas A&M,14,Georgia,12,0
+142,3,"Oct 3, 1953",Texas Tech,27,Oklahoma State,13,1
+143,3,"Oct 3, 1953",UTEP,28,Arizona State,27,0
+144,3,"Oct 3, 1953",Trinity (Texas),27,Hardin-Simmons,21,0
+145,3,"Oct 3, 1953",Tulsa,22,Pacific,13,1
+146,3,"Oct 3, 1953",UCLA,12,Oregon,0,1
+147,3,"Oct 3, 1953",Utah,47,Hawaii,24,0
+148,3,"Oct 3, 1953",Wake Forest,18,Villanova,12,0
+149,3,"Oct 3, 1953",Washington,28,Oregon State,0,0
+150,3,"Oct 3, 1953",West Virginia,47,Waynesburg,19,0
+151,3,"Oct 3, 1953",Wichita State,55,Bradley,0,0
+152,3,"Oct 3, 1953",Wisconsin,13,Marquette,11,0
+153,3,"Oct 3, 1953",Wyoming,20,Utah State,13,0
+154,3,"Oct 3, 1953",Yale,13,Brown,0,0
+155,4,"Oct 9, 1953",Houston,25,Detroit Mercy,19,1
+156,4,"Oct 9, 1953",Clemson,7,Miami,39,1
+157,4,"Oct 9, 1953",North Texas,27,San Diego Navy,12,0
+158,4,"Oct 9, 1953",Missouri,7,SMU,20,1
+159,4,"Oct 9, 1953",UCLA,13,Wisconsin,0,0
+160,4,"Oct 10, 1953",Alabama,41,Tulsa,13,0
+161,4,"Oct 10, 1953",Arizona,20,New Mexico,0,0
+162,4,"Oct 10, 1953",Arizona State,35,San Jose State,20,1
+163,4,"Oct 10, 1953",Army,27,Dartmouth,0,0
+164,4,"Oct 10, 1953",Mississippi State,21,Auburn,21,0
+165,4,"Oct 10, 1953",Arkansas,7,Baylor,14,1
+166,4,"Oct 10, 1953",BYU,20,Idaho,14,1
+167,4,"Oct 10, 1953",California,40,Pennsylvania,0,1
+168,4,"Oct 10, 1953",Duke,20,Purdue,14,0
+169,4,"Oct 10, 1953",Florida,45,Stetson,0,0
+170,4,"Oct 10, 1953",Georgia Tech,27,Tulane,13,1
+171,4,"Oct 10, 1953",Harvard,28,Colgate,26,0
+172,4,"Oct 10, 1953",Holy Cross,40,Bucknell,0,0
+173,4,"Oct 10, 1953",Illinois,41,Ohio State,20,1
+174,4,"Oct 10, 1953",Indiana,21,Marquette,20,0
+175,4,"Oct 10, 1953",Kansas,27,Colorado,21,1
+176,4,"Oct 10, 1953",Kansas State,20,Iowa State,12,1
+177,4,"Oct 10, 1953",LSU,6,Kentucky,6,0
+178,4,"Oct 10, 1953",Maryland,40,Georgia,13,0
+179,4,"Oct 10, 1953",McMurry,26,New Mexico State,12,1
+180,4,"Oct 10, 1953",Michigan,14,Iowa,13,0
+181,4,"Oct 10, 1953",Michigan State,26,TCU,19,0
+182,4,"Oct 10, 1953",Minnesota,30,Northwestern,13,1
+183,4,"Oct 10, 1953",Vanderbilt,6,Ole Miss,28,1
+184,4,"Oct 10, 1953",Montana,22,Denver,13,1
+185,4,"Oct 10, 1953",Cornell,6,Navy,26,1
+186,4,"Oct 10, 1953",North Carolina,18,Wake Forest,13,1
+187,4,"Oct 10, 1953",Davidson,7,NC State,27,1
+188,4,"Oct 10, 1953",Oklahoma,19,Texas,14,0
+189,4,"Oct 10, 1953",Wichita State,7,Oklahoma State,14,1
+190,4,"Oct 10, 1953",Hawaii,8,Pacific,26,1
+191,4,"Oct 10, 1953",Penn State,35,Boston University,13,1
+192,4,"Oct 10, 1953",Nebraska,6,Pitt,14,1
+193,4,"Oct 10, 1953",Princeton,9,Rutgers,7,0
+194,4,"Oct 10, 1953",Rhode Island,19,Brown,13,1
+195,4,"Oct 10, 1953",Rice,40,Hardin-Simmons,0,0
+196,4,"Oct 10, 1953",South Carolina,27,Furman,13,0
+197,4,"Oct 10, 1953",Washington,13,USC,13,0
+198,4,"Oct 10, 1953",Stanford,21,Oregon State,0,1
+199,4,"Oct 10, 1953",Syracuse,20,Fordham,13,0
+200,4,"Oct 10, 1953",Chattanooga,7,Tennessee,40,1
+201,4,"Oct 10, 1953",Texas A&M,27,Texas Tech,14,1
+202,4,"Oct 10, 1953",West Texas State,6,Trinity (Texas),14,0
+203,4,"Oct 10, 1953",Utah,33,Utah State,13,1
+204,4,"Oct 10, 1953",Virginia,24,George Washington,20,0
+205,4,"Oct 10, 1953",Virginia Military Institute,14,Citadel,0,1
+206,4,"Oct 10, 1953",Richmond,7,Virginia Tech,21,1
+207,4,"Oct 10, 1953",Washington State,7,Oregon,0,0
+208,4,"Oct 10, 1953",West Virginia,40,Washington & Lee,14,0
+209,4,"Oct 10, 1953",Wyoming,21,Colorado State,14,0
+210,4,"Oct 10, 1953",Columbia,7,Yale,13,1
+211,4,"Oct 11, 1953",Boston College,7,Villanova,15,0
+212,5,"Oct 16, 1953",Boston College,20,Fordham,13,1
+213,5,"Oct 16, 1953",BYU,7,Utah State,14,0
+214,5,"Oct 16, 1953",George Washington,6,West Virginia,27,0
+215,5,"Oct 17, 1953",Arizona State,39,West Texas State,20,0
+216,5,"Oct 17, 1953",Army,14,Duke,13,0
+217,5,"Oct 17, 1953",Vanderbilt,6,Baylor,47,1
+218,5,"Oct 17, 1953",Boston University,40,Brandeis,14,0
+219,5,"Oct 17, 1953",Brown,27,Rutgers,20,1
+220,5,"Oct 17, 1953",California,34,San Jose State,14,0
+221,5,"Oct 17, 1953",Colgate,24,Dartmouth,14,1
+222,5,"Oct 17, 1953",Columbia,6,Harvard,0,0
+223,5,"Oct 17, 1953",Detroit Mercy,27,Villanova,0,1
+224,5,"Oct 17, 1953",Florida,60,Citadel,0,0
+225,5,"Oct 17, 1953",Auburn,6,Georgia Tech,36,1
+226,5,"Oct 17, 1953",Minnesota,7,Illinois,27,1
+227,5,"Oct 17, 1953",Wyoming,7,Iowa,21,1
+228,5,"Oct 17, 1953",Missouri,6,Iowa State,13,1
+229,5,"Oct 17, 1953",Kansas State,28,Colorado,14,0
+230,5,"Oct 17, 1953",Kentucky,32,Mississippi State,13,0
+231,5,"Oct 17, 1953",Georgia,6,LSU,14,0
+232,5,"Oct 17, 1953",Marquette,14,Arizona,0,1
+233,5,"Oct 17, 1953",Maryland,26,North Carolina,0,1
+234,5,"Oct 17, 1953",Michigan,20,Northwestern,12,0
+235,5,"Oct 17, 1953",Michigan State,47,Indiana,18,0
+236,5,"Oct 17, 1953",Ole Miss,45,Tulane,14,1
+237,5,"Oct 17, 1953",Montana,32,Colorado State,31,0
+238,5,"Oct 17, 1953",Princeton,7,Navy,65,0
+239,5,"Oct 17, 1953",Nebraska,20,Miami,16,0
+240,5,"Oct 17, 1953",New Mexico,41,San Diego State,12,0
+241,5,"Oct 17, 1953",Midwestern Texas State,7,North Texas,39,1
+242,5,"Oct 17, 1953",Notre Dame,23,Pitt,14,0
+243,5,"Oct 17, 1953",Pennsylvania,6,Ohio State,12,0
+244,5,"Oct 17, 1953",Oklahoma,45,Kansas,0,0
+245,5,"Oct 17, 1953",Houston,7,Oklahoma State,14,0
+246,5,"Oct 17, 1953",Penn State,20,Syracuse,14,0
+247,5,"Oct 17, 1953",Presbyterian,19,Davidson,18,1
+248,5,"Oct 17, 1953",Richmond,27,Washington & Lee,19,1
+249,5,"Oct 17, 1953",USC,37,Oregon State,0,0
+250,5,"Oct 17, 1953",Rice,7,SMU,12,1
+251,5,"Oct 17, 1953",Stanford,21,UCLA,20,0
+252,5,"Oct 17, 1953",Alabama,0,Tennessee,0,0
+253,5,"Oct 17, 1953",Arkansas,7,Texas,16,0
+254,5,"Oct 17, 1953",TCU,7,Texas A&M,20,0
+255,5,"Oct 17, 1953",Pacific,7,Texas Tech,34,1
+256,5,"Oct 17, 1953",UTEP,39,New Mexico State,0,0
+257,5,"Oct 17, 1953",Tulsa,14,Hardin-Simmons,13,0
+258,5,"Oct 17, 1953",Denver,6,Utah,40,1
+259,5,"Oct 17, 1953",Virginia,6,Virginia Military Institute,21,0
+260,5,"Oct 17, 1953",NC State,7,Wake Forest,20,0
+261,5,"Oct 17, 1953",Oregon,6,Washington,14,0
+262,5,"Oct 17, 1953",Washington State,30,Idaho,13,1
+263,5,"Oct 17, 1953",Wichita State,27,Drake,0,0
+264,5,"Oct 17, 1953",Virginia Tech,7,William & Mary,13,1
+265,5,"Oct 17, 1953",Wisconsin,28,Purdue,19,1
+266,5,"Oct 17, 1953",Cornell,0,Yale,0,0
+267,5,"Oct 18, 1953",Quantico Marines,17,Holy Cross,0,1
+268,6,"Oct 22, 1953",Clemson,7,South Carolina,14,1
+269,6,"Oct 23, 1953",Denver,27,BYU,19,0
+270,6,"Oct 23, 1953",Maryland,30,Miami,0,1
+271,6,"Oct 24, 1953",Columbia,7,Army,40,1
+272,6,"Oct 24, 1953",Tulane,7,Auburn,34,1
+273,6,"Oct 24, 1953",Baylor,14,Texas A&M,13,1
+274,6,"Oct 24, 1953",Boston University,52,Lehigh,12,0
+275,6,"Oct 24, 1953",Brown,6,Holy Cross,0,0
+276,6,"Oct 24, 1953",Citadel,20,Presbyterian,14,0
+277,6,"Oct 24, 1953",Yale,7,Colgate,7,0
+278,6,"Oct 24, 1953",Cornell,26,Princeton,19,1
+279,6,"Oct 24, 1953",Detroit Mercy,18,Oklahoma State,14,0
+280,6,"Oct 24, 1953",Iowa State,7,Drake,12,1
+281,6,"Oct 24, 1953",Duke,31,NC State,0,0
+282,6,"Oct 24, 1953",Fordham,40,Rutgers,13,1
+283,6,"Oct 24, 1953",Furman,34,Davidson,0,0
+284,6,"Oct 24, 1953",Georgia,27,North Carolina,14,0
+285,6,"Oct 24, 1953",Hardin-Simmons,26,West Texas State,14,1
+286,6,"Oct 24, 1953",Harvard,20,Dartmouth,14,0
+287,6,"Oct 24, 1953",Houston,24,Arizona State,20,0
+288,6,"Oct 24, 1953",Illinois,20,Syracuse,13,0
+289,6,"Oct 24, 1953",Iowa,19,Indiana,13,0
+290,6,"Oct 24, 1953",Kansas State,21,Wichita State,0,0
+291,6,"Oct 24, 1953",Kentucky,19,Villanova,0,0
+292,6,"Oct 24, 1953",Florida,21,LSU,21,0
+293,6,"Oct 24, 1953",Minnesota,22,Michigan,0,0
+294,6,"Oct 24, 1953",Ole Miss,28,Arkansas,0,0
+295,6,"Oct 24, 1953",Alabama,7,Mississippi State,7,0
+296,6,"Oct 24, 1953",Nebraska,7,Missouri,23,1
+297,6,"Oct 24, 1953",New Mexico,41,Montana,13,1
+298,6,"Oct 24, 1953",Northwestern,27,Pitt,21,0
+299,6,"Oct 24, 1953",Notre Dame,27,Georgia Tech,14,0
+300,6,"Oct 24, 1953",Ohio State,20,Wisconsin,19,1
+301,6,"Oct 24, 1953",Oklahoma,27,Colorado,20,0
+302,6,"Oct 24, 1953",Oregon,26,San Jose State,13,0
+303,6,"Oct 24, 1953",Oregon State,19,Idaho,0,1
+304,6,"Oct 24, 1953",Marquette,20,Pacific,20,0
+305,6,"Oct 24, 1953",Penn State,27,TCU,21,0
+306,6,"Oct 24, 1953",Pennsylvania,9,Navy,6,0
+307,6,"Oct 24, 1953",Purdue,6,Michigan State,0,0
+308,6,"Oct 24, 1953",Rice,18,Texas,13,1
+309,6,"Oct 24, 1953",USC,32,California,20,1
+310,6,"Oct 24, 1953",Kansas,6,SMU,14,0
+311,6,"Oct 24, 1953",Washington,7,Stanford,13,0
+312,6,"Oct 24, 1953",Louisville,6,Tennessee,59,1
+313,6,"Oct 24, 1953",Texas Tech,71,New Mexico State,0,0
+314,6,"Oct 24, 1953",UTEP,26,North Texas,21,0
+315,6,"Oct 24, 1953",Washington State,7,UCLA,44,1
+316,6,"Oct 24, 1953",Utah,13,Wyoming,12,0
+317,6,"Oct 24, 1953",Utah State,14,Colorado State,13,1
+318,6,"Oct 24, 1953",Vanderbilt,28,Virginia,13,0
+319,6,"Oct 24, 1953",Virginia Tech,32,Washington & Lee,12,0
+320,6,"Oct 24, 1953",Richmond,13,Wake Forest,13,0
+321,6,"Oct 24, 1953",West Virginia,52,Virginia Military Institute,20,0
+322,6,"Oct 24, 1953",George Washington,7,William & Mary,12,1
+323,6,"Oct 25, 1953",Boston College,31,Xavier,14,1
+324,7,"Oct 30, 1953",Virginia Tech,22,Citadel,0,0
+325,7,"Oct 31, 1953",Alabama,33,Georgia,12,1
+326,7,"Oct 31, 1953",West Texas State,6,Arizona,39,1
+327,7,"Oct 31, 1953",Arkansas,41,Texas A&M,14,0
+328,7,"Oct 31, 1953",Tulane,0,Army,0,0
+329,7,"Oct 31, 1953",Florida,7,Auburn,16,1
+330,7,"Oct 31, 1953",TCU,7,Baylor,25,1
+331,7,"Oct 31, 1953",Clemson,18,Wake Forest,0,0
+332,7,"Oct 31, 1953",Colgate,33,Rutgers,13,1
+333,7,"Oct 31, 1953",Colorado,41,Iowa State,34,0
+334,7,"Oct 31, 1953",Cornell,27,Columbia,13,0
+335,7,"Oct 31, 1953",Dartmouth,32,Yale,0,1
+336,7,"Oct 31, 1953",Drake,21,Bradley,13,1
+337,7,"Oct 31, 1953",Virginia,6,Duke,48,1
+338,7,"Oct 31, 1953",Virginia Military Institute,7,Florida State,12,1
+339,7,"Oct 31, 1953",Fordham,20,Miami,0,0
+340,7,"Oct 31, 1953",Furman,7,Wofford,6,1
+341,7,"Oct 31, 1953",Washington & Lee,7,George Washington,25,0
+342,7,"Oct 31, 1953",Georgia Tech,43,Vanderbilt,0,1
+343,7,"Oct 31, 1953",Hardin-Simmons,27,Arizona State,20,1
+344,7,"Oct 31, 1953",Davidson,6,Harvard,42,1
+345,7,"Oct 31, 1953",Illinois,21,Purdue,0,0
+346,7,"Oct 31, 1953",Kentucky,19,Rice,13,1
+347,7,"Oct 31, 1953",Marquette,7,Boston University,6,1
+348,7,"Oct 31, 1953",South Carolina,6,Maryland,24,1
+349,7,"Oct 31, 1953",Michigan,24,Pennsylvania,14,0
+350,7,"Oct 31, 1953",Oregon State,6,Michigan State,34,1
+351,7,"Oct 31, 1953",Minnesota,35,Pitt,14,0
+352,7,"Oct 31, 1953",Ole Miss,27,LSU,16,1
+353,7,"Oct 31, 1953",Indiana,7,Missouri,14,0
+354,7,"Oct 31, 1953",Nebraska,9,Kansas,0,0
+355,7,"Oct 31, 1953",New Mexico,20,Denver,18,0
+356,7,"Oct 31, 1953",San Jose State,13,North Texas,13,0
+357,7,"Oct 31, 1953",Navy,7,Notre Dame,38,1
+358,7,"Oct 31, 1953",Ohio State,27,Northwestern,13,0
+359,7,"Oct 31, 1953",Oklahoma,34,Kansas State,0,1
+360,7,"Oct 31, 1953",Oklahoma State,28,Tulsa,14,0
+361,7,"Oct 31, 1953",USC,7,Oregon,13,1
+362,7,"Oct 31, 1953",Princeton,27,Brown,13,0
+363,7,"Oct 31, 1953",Richmond,14,Boston College,0,1
+364,7,"Oct 31, 1953",Stanford,48,Washington State,19,0
+365,7,"Oct 31, 1953",Syracuse,21,Holy Cross,0,1
+366,7,"Oct 31, 1953",North Carolina,6,Tennessee,20,0
+367,7,"Oct 31, 1953",SMU,7,Texas,16,0
+368,7,"Oct 31, 1953",Texas Tech,27,Mississippi State,20,1
+369,7,"Oct 31, 1953",Midwestern Texas State,7,UTEP,27,1
+370,7,"Oct 31, 1953",California,7,UCLA,20,1
+371,7,"Oct 31, 1953",Utah State,33,Montana,14,0
+372,7,"Oct 31, 1953",Villanova,21,Xavier,14,0
+373,7,"Oct 31, 1953",Washington,21,Utah,14,0
+374,7,"Oct 31, 1953",West Virginia,20,Penn State,19,1
+375,7,"Oct 31, 1953",William & Mary,7,NC State,6,1
+376,7,"Oct 31, 1953",Iowa,6,Wisconsin,10,1
+377,7,"Oct 31, 1953",Wyoming,27,BYU,0,0
+378,8,"Nov 6, 1953",Auburn,29,Miami,20,1
+379,8,"Nov 6, 1953",Furman,19,Presbyterian,0,0
+380,8,"Nov 7, 1953",Alabama,21,Chattanooga,14,0
+381,8,"Nov 7, 1953",NC State,7,Army,27,1
+382,8,"Nov 7, 1953",Wake Forest,7,Boston College,20,1
+383,8,"Nov 7, 1953",Connecticut,7,Brown,42,1
+384,8,"Nov 7, 1953",California,53,Washington,25,0
+385,8,"Nov 7, 1953",Colgate,19,Bucknell,12,0
+386,8,"Nov 7, 1953",Colorado,21,Utah,0,0
+387,8,"Nov 7, 1953",Colorado State,34,BYU,12,1
+388,8,"Nov 7, 1953",Columbia,25,Dartmouth,19,0
+389,8,"Nov 7, 1953",Wichita State,12,Denver,12,0
+390,8,"Nov 7, 1953",Navy,0,Duke,0,0
+391,8,"Nov 7, 1953",Georgia,7,Florida,21,1
+392,8,"Nov 7, 1953",Clemson,7,Georgia Tech,20,1
+393,8,"Nov 7, 1953",Hardin-Simmons,14,UTEP,13,0
+394,8,"Nov 7, 1953",Boston University,7,Holy Cross,20,1
+395,8,"Nov 7, 1953",Michigan,3,Illinois,19,1
+396,8,"Nov 7, 1953",Iowa,26,Purdue,0,1
+397,8,"Nov 7, 1953",Kansas State,7,Kansas,0,1
+398,8,"Nov 7, 1953",Kentucky,40,Vanderbilt,14,1
+399,8,"Nov 7, 1953",Marquette,19,Detroit Mercy,0,0
+400,8,"Nov 7, 1953",George Washington,6,Maryland,27,0
+401,8,"Nov 7, 1953",Michigan State,28,Ohio State,13,1
+402,8,"Nov 7, 1953",Minnesota,28,Indiana,20,0
+403,8,"Nov 7, 1953",North Texas,7,Ole Miss,40,1
+404,8,"Nov 7, 1953",Mississippi State,21,Tulane,0,1
+405,8,"Nov 7, 1953",Montana,32,Montana State,13,1
+406,8,"Nov 7, 1953",Nebraska,27,Iowa State,19,1
+407,8,"Nov 7, 1953",New Mexico State,6,New Mexico,28,0
+408,8,"Nov 7, 1953",Notre Dame,28,Pennsylvania,20,1
+409,8,"Nov 7, 1953",Missouri,7,Oklahoma,14,0
+410,8,"Nov 7, 1953",Oklahoma State,20,Wyoming,14,0
+411,8,"Nov 7, 1953",Idaho,6,Oregon,26,1
+412,8,"Nov 7, 1953",Penn State,28,Fordham,21,0
+413,8,"Nov 7, 1953",Pitt,26,Virginia,0,1
+414,8,"Nov 7, 1953",Princeton,6,Harvard,0,1
+415,8,"Nov 7, 1953",Rice,47,Arkansas,0,0
+416,8,"Nov 7, 1953",Rutgers,14,Lafayette,13,1
+417,8,"Nov 7, 1953",San Jose State,7,Pacific,6,0
+418,8,"Nov 7, 1953",South Carolina,18,North Carolina,0,0
+419,8,"Nov 7, 1953",USC,23,Stanford,20,0
+420,8,"Nov 7, 1953",SMU,23,Texas A&M,0,1
+421,8,"Nov 7, 1953",Syracuse,26,Cornell,0,1
+422,8,"Nov 7, 1953",Tennessee,32,LSU,14,0
+423,8,"Nov 7, 1953",Texas,21,Baylor,20,0
+424,8,"Nov 7, 1953",Washington State,7,TCU,21,0
+425,8,"Nov 7, 1953",Texas Tech,52,Arizona,27,0
+426,8,"Nov 7, 1953",Tulsa,23,Houston,21,0
+427,8,"Nov 7, 1953",Fresno State,6,Utah State,46,1
+428,8,"Nov 7, 1953",Virginia Military Institute,20,William & Mary,19,0
+429,8,"Nov 7, 1953",Davidson,7,Washington & Lee,34,1
+430,8,"Nov 7, 1953",Wayne State,25,Drake,19,1
+431,8,"Nov 7, 1953",West Texas State,20,Midwestern Texas State,14,1
+432,8,"Nov 7, 1953",Virginia Tech,7,West Virginia,12,1
+433,8,"Nov 7, 1953",Wisconsin,34,Northwestern,13,1
+434,8,"Nov 7, 1953",Temple,6,Yale,32,1
+435,9,"Nov 13, 1953",Miami,26,Virginia Tech,0,0
+436,9,"Nov 14, 1953",Georgia Tech,6,Alabama,13,1
+437,9,"Nov 14, 1953",Arizona State,26,BYU,18,0
+438,9,"Nov 14, 1953",Army,21,Pennsylvania,14,1
+439,9,"Nov 14, 1953",Auburn,39,Georgia,18,0
+440,9,"Nov 14, 1953",Boston University,31,Villanova,19,0
+441,9,"Nov 14, 1953",Cincinnati,67,Virginia Military Institute,0,0
+442,9,"Nov 14, 1953",Clemson,34,Citadel,13,1
+443,9,"Nov 14, 1953",Colorado,14,Nebraska,10,1
+444,9,"Nov 14, 1953",Cornell,28,Dartmouth,26,1
+445,9,"Nov 14, 1953",Drake,27,Northern Iowa,20,0
+446,9,"Nov 14, 1953",Fordham,28,Temple,0,0
+447,9,"Nov 14, 1953",Florida State,7,Furman,14,0
+448,9,"Nov 14, 1953",George Washington,33,Davidson,0,1
+449,9,"Nov 14, 1953",Hardin-Simmons,39,New Mexico State,0,0
+450,9,"Nov 14, 1953",Harvard,27,Brown,20,0
+451,9,"Nov 14, 1953",Baylor,7,Houston,37,0
+452,9,"Nov 14, 1953",Northwestern,6,Indiana,14,1
+453,9,"Nov 14, 1953",Iowa,27,Minnesota,0,0
+454,9,"Nov 14, 1953",Memphis,7,Kentucky,20,1
+455,9,"Nov 14, 1953",Holy Cross,7,Marquette,13,0
+456,9,"Nov 14, 1953",Maryland,38,Ole Miss,0,0
+457,9,"Nov 14, 1953",Michigan,6,Michigan State,14,1
+458,9,"Nov 14, 1953",Mississippi State,26,LSU,13,1
+459,9,"Nov 14, 1953",Kansas State,6,Missouri,16,1
+460,9,"Nov 14, 1953",Columbia,6,Navy,14,0
+461,9,"Nov 14, 1953",New Mexico,9,Wyoming,7,0
+462,9,"Nov 14, 1953",West Texas State,6,North Texas,38,1
+463,9,"Nov 14, 1953",Notre Dame,34,North Carolina,14,1
+464,9,"Nov 14, 1953",Purdue,6,Ohio State,21,1
+465,9,"Nov 14, 1953",Oklahoma,47,Iowa State,0,0
+466,9,"Nov 14, 1953",Oklahoma State,41,Kansas,14,1
+467,9,"Nov 14, 1953",California,0,Oregon,0,0
+468,9,"Nov 14, 1953",Oregon State,7,Washington State,0,0
+469,9,"Nov 14, 1953",Pacific,33,Idaho,0,1
+470,9,"Nov 14, 1953",Penn State,54,Rutgers,26,1
+471,9,"Nov 14, 1953",NC State,6,Pitt,40,1
+472,9,"Nov 14, 1953",Texas A&M,7,Rice,34,1
+473,9,"Nov 14, 1953",South Carolina,20,West Virginia,14,1
+474,9,"Nov 14, 1953",Arkansas,7,SMU,13,1
+475,9,"Nov 14, 1953",Stanford,54,San Jose State,0,0
+476,9,"Nov 14, 1953",Syracuse,34,Colgate,18,0
+477,9,"Nov 14, 1953",Tennessee,9,Florida,7,1
+478,9,"Nov 14, 1953",TCU,3,Texas,13,1
+479,9,"Nov 14, 1953",Tulsa,7,Texas Tech,49,0
+480,9,"Nov 14, 1953",UTEP,28,Arizona,20,1
+481,9,"Nov 14, 1953",Washington,6,UCLA,22,1
+482,9,"Nov 14, 1953",Utah,35,Colorado State,14,0
+483,9,"Nov 14, 1953",Utah State,21,Denver,12,1
+484,9,"Nov 14, 1953",Tulane,7,Vanderbilt,21,0
+485,9,"Nov 14, 1953",Washington & Lee,27,Virginia,13,0
+486,9,"Nov 14, 1953",Wichita State,39,South Dakota State,13,0
+487,9,"Nov 14, 1953",William & Mary,21,Richmond,0,1
+488,9,"Nov 14, 1953",Illinois,7,Wisconsin,34,1
+489,9,"Nov 14, 1953",Yale,26,Princeton,24,1
+490,9,"Nov 15, 1953",Boston College,33,Detroit Mercy,20,0
+491,10,"Nov 21, 1953",Auburn,45,Clemson,19,1
+492,10,"Nov 21, 1953",Baylor,27,SMU,21,0
+493,10,"Nov 21, 1953",Boston University,20,Temple,0,1
+494,10,"Nov 21, 1953",Stanford,21,California,21,0
+495,10,"Nov 21, 1953",Citadel,38,Davidson,14,1
+496,10,"Nov 21, 1953",Brown,7,Colgate,7,0
+497,10,"Nov 21, 1953",Colorado State,9,New Mexico,3,0
+498,10,"Nov 21, 1953",Columbia,27,Rutgers,13,0
+499,10,"Nov 21, 1953",Dartmouth,34,Princeton,12,1
+500,10,"Nov 21, 1953",Detroit Mercy,33,Tulsa,0,1
+501,10,"Nov 21, 1953",Pacific,21,Fresno State,21,0
+502,10,"Nov 21, 1953",Furman,21,Wake Forest,10,1
+503,10,"Nov 21, 1953",Richmond,7,George Washington,35,1
+504,10,"Nov 21, 1953",Georgia Tech,13,Duke,10,0
+505,10,"Nov 21, 1953",Hardin-Simmons,14,North Texas,10,0
+506,10,"Nov 21, 1953",Harvard,13,Yale,0,1
+507,10,"Nov 21, 1953",Fordham,7,Holy Cross,20,1
+508,10,"Nov 21, 1953",Illinois,39,Northwestern,14,1
+509,10,"Nov 21, 1953",Notre Dame,14,Iowa,14,0
+510,10,"Nov 21, 1953",Arizona,26,Kansas State,26,0
+511,10,"Nov 21, 1953",Kentucky,27,Tennessee,21,0
+512,10,"Nov 21, 1953",LSU,9,Arkansas,8,1
+513,10,"Nov 21, 1953",Maryland,21,Alabama,0,0
+514,10,"Nov 21, 1953",Michigan,20,Ohio State,0,0
+515,10,"Nov 21, 1953",Michigan State,21,Marquette,15,0
+516,10,"Nov 21, 1953",Arizona State,12,Midwestern Texas State,12,0
+517,10,"Nov 21, 1953",Kansas,6,Missouri,10,0
+518,10,"Nov 21, 1953",New Mexico State,19,West Texas State,13,0
+519,10,"Nov 21, 1953",Virginia,7,North Carolina,33,0
+520,10,"Nov 21, 1953",Nebraska,7,Oklahoma,30,0
+521,10,"Nov 21, 1953",Oregon State,7,Oregon,0,1
+522,10,"Nov 21, 1953",Penn State,17,Pitt,0,1
+523,10,"Nov 21, 1953",Purdue,30,Indiana,0,1
+524,10,"Nov 21, 1953",TCU,6,Rice,19,0
+525,10,"Nov 21, 1953",South Carolina,49,Wofford,0,0
+526,10,"Nov 21, 1953",Southern Miss,14,Georgia,0,0
+527,10,"Nov 21, 1953",Texas Tech,41,Houston,21,1
+528,10,"Nov 21, 1953",UCLA,13,USC,0,1
+529,10,"Nov 21, 1953",Idaho,7,Utah State,19,0
+530,10,"Nov 21, 1953",Vanderbilt,31,Middle Tennessee,13,0
+531,10,"Nov 21, 1953",Villanova,14,Syracuse,13,0
+532,10,"Nov 21, 1953",William & Mary,7,Washington & Lee,33,0
+533,10,"Nov 21, 1953",Washington State,25,Washington,20,1
+534,10,"Nov 21, 1953",West Virginia,61,NC State,0,1
+535,10,"Nov 21, 1953",Minnesota,21,Wisconsin,21,0
+536,11,"Nov 26, 1953",Pennsylvania,7,Cornell,7,0
+537,11,"Nov 26, 1953",Wichita State,6,Detroit Mercy,26,0
+538,11,"Nov 26, 1953",Pacific,20,Utah State,14,0
+539,11,"Nov 26, 1953",Texas,21,Texas A&M,12,1
+540,11,"Nov 26, 1953",Utah,33,BYU,32,0
+541,11,"Nov 26, 1953",Virginia Military Institute,28,Virginia Tech,13,0
+542,11,"Nov 26, 1953",Wake Forest,19,South Carolina,13,0
+543,11,"Nov 26, 1953",Denver,13,Wyoming,13,0
+544,11,"Nov 28, 1953",Auburn,7,Alabama,10,1
+545,11,"Nov 28, 1953",Arizona,35,Arizona State,0,1
+546,11,"Nov 28, 1953",Tulsa,7,Arkansas,27,1
+547,11,"Nov 28, 1953",Navy,7,Army,20,1
+548,11,"Nov 28, 1953",Boston College,6,Holy Cross,0,0
+549,11,"Nov 28, 1953",Boston University,41,William & Mary,14,1
+550,11,"Nov 28, 1953",Colorado State,7,Colorado,13,0
+551,11,"Nov 28, 1953",Duke,35,North Carolina,20,0
+552,11,"Nov 28, 1953",Florida State,23,NC State,13,0
+553,11,"Nov 28, 1953",Georgia Tech,28,Georgia,12,0
+554,11,"Nov 28, 1953",LSU,32,Tulane,13,0
+555,11,"Nov 28, 1953",Miami,14,Florida,10,0
+556,11,"Nov 28, 1953",Mississippi State,7,Ole Miss,7,0
+557,11,"Nov 28, 1953",Notre Dame,48,USC,14,1
+558,11,"Nov 28, 1953",Oklahoma State,7,Oklahoma,42,1
+559,11,"Nov 28, 1953",Rice,41,Baylor,19,0
+560,11,"Nov 28, 1953",Vanderbilt,6,Tennessee,33,1
+561,11,"Nov 28, 1953",TCU,13,SMU,0,0
+562,11,"Nov 28, 1953",Texas Tech,46,Hardin-Simmons,12,0
+563,11,"Nov 28, 1953",West Texas State,7,UTEP,27,0
+564,11,"Nov 28, 1953",North Texas,6,Trinity (Texas),14,1
+565,11,"Nov 28, 1953",Villanova,20,Fordham,13,1
+566,12,"Dec 5, 1953",Houston,33,Tennessee,19,0
+567,12,"Dec 5, 1953",Notre Dame,40,SMU,14,0
+568,13,"Jan 1, 1954",Georgia Tech,42,West Virginia,19,0
+569,13,"Jan 1, 1954",Michigan State,28,UCLA,20,1
+570,13,"Jan 1, 1954",Oklahoma,7,Maryland,0,0
+571,13,"Jan 1, 1954",Alabama,6,Rice,28,1
+572,13,"Jan 1, 1954",Texas A&M-Commerce,7,Arkansas State,7,0
+573,13,"Jan 1, 1954",Texas Tech,35,Auburn,13,0
+574,13,"Jan 1, 1954",UTEP,37,Southern Miss,14,0

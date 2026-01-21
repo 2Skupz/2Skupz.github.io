@@ -1,0 +1,888 @@
+0,1,"Aug 28, 2021",Fresno State,45,Connecticut,0,0
+1,1,"Aug 28, 2021",Illinois,30,Nebraska,22,0
+2,1,"Aug 28, 2021",San Jose State,45,Southern Utah,14,0
+3,1,"Aug 28, 2021",UTEP,30,New Mexico State,3,1
+4,1,"Aug 28, 2021",UCLA,44,Hawaii,10,0
+5,2,"Sep 1, 2021",UAB,31,Jacksonville State,0,0
+6,2,"Sep 2, 2021",Appalachian State,33,East Carolina,19,0
+7,2,"Sep 2, 2021",Arizona State,41,Southern Utah,14,0
+8,2,"Sep 2, 2021",Ball State,31,Western Illinois,21,0
+9,2,"Sep 2, 2021",Wagner,7,Buffalo,69,1
+10,2,"Sep 2, 2021",California-Davis,19,Tulsa,17,1
+11,2,"Sep 2, 2021",UCF,36,Boise State,31,0
+12,2,"Sep 2, 2021",Coastal Carolina,52,Citadel,14,0
+13,2,"Sep 2, 2021",Eastern Washington,35,UNLV,33,1
+14,2,"Sep 2, 2021",Florida Int'l,48,Long Island,10,0
+15,2,"Sep 2, 2021",New Mexico,27,Houston Baptist,17,0
+16,2,"Sep 2, 2021",NC State,45,South Florida,0,0
+17,2,"Sep 2, 2021",Ohio State,45,Minnesota,31,1
+18,2,"Sep 2, 2021",Bowling Green,6,Tennessee,38,1
+19,2,"Sep 2, 2021",Utah,40,Weber State,17,0
+20,2,"Sep 2, 2021",Western Kentucky,59,Tennessee-Martin,21,0
+21,2,"Sep 3, 2021",Charlotte,31,Duke,28,0
+22,2,"Sep 3, 2021",Northern Colorado,7,Colorado,35,1
+23,2,"Sep 3, 2021",Eastern Michigan,35,St. Francis (PA),15,0
+24,2,"Sep 3, 2021",Kansas,17,South Dakota,14,0
+25,2,"Sep 3, 2021",Michigan State,38,Northwestern,21,1
+26,2,"Sep 3, 2021",South Dakota State,42,Colorado State,23,1
+27,2,"Sep 3, 2021",Virginia Tech,17,North Carolina,10,0
+28,2,"Sep 3, 2021",Wake Forest,42,Old Dominion,10,0
+29,2,"Sep 4, 2021",Air Force,35,Lafayette,14,0
+30,2,"Sep 4, 2021",Alabama,44,Miami,13,0
+31,2,"Sep 4, 2021",Arkansas,38,Rice,17,0
+32,2,"Sep 4, 2021",Arkansas State,40,Central Arkansas,21,0
+33,2,"Sep 4, 2021",Army,43,Georgia State,10,1
+34,2,"Sep 4, 2021",Auburn,60,Akron,10,0
+35,2,"Sep 4, 2021",Baylor,29,Texas State,20,1
+36,2,"Sep 4, 2021",Boston College,51,Colgate,0,0
+37,2,"Sep 4, 2021",BYU,24,Arizona,16,0
+38,2,"Sep 4, 2021",Cincinnati,49,Miami (OH),14,0
+39,2,"Sep 4, 2021",Vanderbilt,3,East Tennessee State,23,0
+40,2,"Sep 4, 2021",Florida,35,Florida Atlantic,14,0
+41,2,"Sep 4, 2021",Clemson,3,Georgia,10,1
+42,2,"Sep 4, 2021",Georgia Southern,30,Gardner-Webb,25,0
+43,2,"Sep 4, 2021",Hawaii,49,Portland State,35,0
+44,2,"Sep 4, 2021",Holy Cross,38,Connecticut,28,1
+45,2,"Sep 4, 2021",Indiana,6,Iowa,34,1
+46,2,"Sep 4, 2021",Iowa State,16,Northern Iowa,10,0
+47,2,"Sep 4, 2021",Stanford,7,Kansas State,24,1
+48,2,"Sep 4, 2021",Kentucky,45,Louisiana-Monroe,10,0
+49,2,"Sep 4, 2021",Campbell,7,Liberty,48,1
+50,2,"Sep 4, 2021",Navy,7,Marshall,49,0
+51,2,"Sep 4, 2021",Maryland,30,West Virginia,24,0
+52,2,"Sep 4, 2021",Memphis,42,Nicholls State,17,0
+53,2,"Sep 4, 2021",Michigan,47,Western Michigan,14,0
+54,2,"Sep 4, 2021",Middle Tennessee,50,Monmouth,15,0
+55,2,"Sep 4, 2021",Mississippi State,35,Louisiana Tech,34,0
+56,2,"Sep 4, 2021",Missouri,34,Central Michigan,24,0
+57,2,"Sep 4, 2021",Washington,7,Montana,13,0
+58,2,"Sep 4, 2021",Fordham,7,Nebraska,52,1
+59,2,"Sep 4, 2021",Nevada,22,California,17,1
+60,2,"Sep 4, 2021",North Texas,44,Northwestern State,14,0
+61,2,"Sep 4, 2021",Northern Illinois,22,Georgia Tech,21,1
+62,2,"Sep 4, 2021",Oklahoma,40,Tulane,35,0
+63,2,"Sep 4, 2021",Oklahoma State,23,Missouri State,16,0
+64,2,"Sep 4, 2021",Oregon,31,Fresno State,24,0
+65,2,"Sep 4, 2021",Penn State,16,Wisconsin,10,1
+66,2,"Sep 4, 2021",Massachusetts,7,Pitt,51,1
+67,2,"Sep 4, 2021",Purdue,30,Oregon State,21,0
+68,2,"Sep 4, 2021",Rutgers,61,Temple,14,0
+69,2,"Sep 4, 2021",San Diego State,28,New Mexico State,10,0
+70,2,"Sep 4, 2021",Southern Miss,7,South Alabama,31,1
+71,2,"Sep 4, 2021",South Carolina,46,Eastern Illinois,0,0
+72,2,"Sep 4, 2021",San Jose State,7,USC,30,1
+73,2,"Sep 4, 2021",Abilene Christian,9,SMU,56,1
+74,2,"Sep 4, 2021",Ohio,9,Syracuse,29,0
+75,2,"Sep 4, 2021",Texas,38,Louisiana,18,0
+76,2,"Sep 4, 2021",Texas A&M,41,Kent State,10,0
+77,2,"Sep 4, 2021",TCU,45,Duquesne,3,0
+78,2,"Sep 4, 2021",Texas Tech,38,Houston,21,0
+79,2,"Sep 4, 2021",UTEP,38,Bethune-Cookman,28,0
+80,2,"Sep 4, 2021",UTSA,37,Illinois,30,1
+81,2,"Sep 4, 2021",Toledo,49,Norfolk State,10,0
+82,2,"Sep 4, 2021",Troy,55,Southern,3,0
+83,2,"Sep 4, 2021",UCLA,38,LSU,27,0
+84,2,"Sep 4, 2021",Utah State,26,Washington State,23,1
+85,2,"Sep 4, 2021",Virginia,43,William & Mary,0,0
+86,2,"Sep 4, 2021",Wyoming,19,Montana State,16,0
+87,2,"Sep 5, 2021",Notre Dame,41,Florida State,38,1
+88,2,"Sep 6, 2021",Ole Miss,43,Louisville,24,0
+89,3,"Sep 10, 2021",Boise State,54,UTEP,13,0
+90,3,"Sep 10, 2021",Coastal Carolina,49,Kansas,22,0
+91,3,"Sep 10, 2021",Duke,45,North Carolina A&T,17,0
+92,3,"Sep 10, 2021",Utah State,48,North Dakota,24,0
+93,3,"Sep 11, 2021",Navy,3,Air Force,23,0
+94,3,"Sep 11, 2021",Alabama,48,Mercer,14,0
+95,3,"Sep 11, 2021",Arizona State,37,UNLV,10,0
+96,3,"Sep 11, 2021",Arkansas,40,Texas,21,0
+97,3,"Sep 11, 2021",Army,38,Western Kentucky,35,0
+98,3,"Sep 11, 2021",Auburn,62,Alabama State,0,0
+99,3,"Sep 11, 2021",Texas Southern,7,Baylor,66,1
+100,3,"Sep 11, 2021",Boston College,45,Massachusetts,28,1
+101,3,"Sep 11, 2021",BYU,26,Utah,17,0
+102,3,"Sep 11, 2021",UCF,63,Bethune-Cookman,14,0
+103,3,"Sep 11, 2021",Central Michigan,45,Robert Morris,0,0
+104,3,"Sep 11, 2021",Charlotte,38,Gardner-Webb,10,0
+105,3,"Sep 11, 2021",Murray State,7,Cincinnati,42,1
+106,3,"Sep 11, 2021",Clemson,49,South Carolina State,3,0
+107,3,"Sep 11, 2021",Duquesne,28,Ohio,26,1
+108,3,"Sep 11, 2021",Florida,42,South Florida,20,1
+109,3,"Sep 11, 2021",Georgia Southern,6,Florida Atlantic,38,1
+110,3,"Sep 11, 2021",Fresno State,63,Cal Poly,10,0
+111,3,"Sep 11, 2021",UAB,7,Georgia,56,1
+112,3,"Sep 11, 2021",Georgia Tech,45,Kennesaw State,17,0
+113,3,"Sep 11, 2021",Rice,7,Houston,44,0
+114,3,"Sep 11, 2021",Indiana,56,Idaho,14,0
+115,3,"Sep 11, 2021",Iowa,27,Iowa State,17,1
+116,3,"Sep 11, 2021",Jacksonville State,20,Florida State,17,1
+117,3,"Sep 11, 2021",Kansas State,31,Southern Illinois,23,0
+118,3,"Sep 11, 2021",Kent State,60,Virginia Military Institute,10,0
+119,3,"Sep 11, 2021",Kentucky,35,Missouri,28,0
+120,3,"Sep 11, 2021",Liberty,21,Troy,13,1
+121,3,"Sep 11, 2021",Louisiana,27,Nicholls State,24,0
+122,3,"Sep 11, 2021",McNeese State,7,LSU,34,1
+123,3,"Sep 11, 2021",Louisiana Tech,45,Southeastern Louisiana,42,0
+124,3,"Sep 11, 2021",Louisville,30,Eastern Kentucky,3,0
+125,3,"Sep 11, 2021",Marshall,44,North Carolina Central,10,0
+126,3,"Sep 11, 2021",Maryland,62,Howard,0,0
+127,3,"Sep 11, 2021",Memphis,55,Arkansas State,50,1
+128,3,"Sep 11, 2021",Miami,25,Appalachian State,23,0
+129,3,"Sep 11, 2021",Michigan,31,Washington,10,0
+130,3,"Sep 11, 2021",Michigan State,42,Youngstown State,14,0
+131,3,"Sep 11, 2021",Minnesota,31,Miami (OH),26,0
+132,3,"Sep 11, 2021",Ole Miss,54,Austin Peay,17,0
+133,3,"Sep 11, 2021",Mississippi State,24,NC State,10,0
+134,3,"Sep 11, 2021",Buffalo,3,Nebraska,28,1
+135,3,"Sep 11, 2021",Nevada,49,Idaho State,10,0
+136,3,"Sep 11, 2021",New Mexico,34,New Mexico State,25,0
+137,3,"Sep 11, 2021",North Carolina,59,Georgia State,17,0
+138,3,"Sep 11, 2021",Indiana State,6,Northwestern,24,1
+139,3,"Sep 11, 2021",Notre Dame,32,Toledo,29,0
+140,3,"Sep 11, 2021",Oklahoma,76,Western Carolina,0,0
+141,3,"Sep 11, 2021",Oklahoma State,28,Tulsa,23,0
+142,3,"Sep 11, 2021",Hampton,7,Old Dominion,47,1
+143,3,"Sep 11, 2021",Oregon,35,Ohio State,28,1
+144,3,"Sep 11, 2021",Oregon State,45,Hawaii,27,0
+145,3,"Sep 11, 2021",Penn State,44,Ball State,13,0
+146,3,"Sep 11, 2021",Pitt,41,Tennessee,34,1
+147,3,"Sep 11, 2021",Purdue,49,Connecticut,0,1
+148,3,"Sep 11, 2021",Syracuse,7,Rutgers,17,0
+149,3,"Sep 11, 2021",San Diego State,38,Arizona,14,1
+150,3,"Sep 11, 2021",South Alabama,22,Bowling Green,19,1
+151,3,"Sep 11, 2021",South Carolina,20,East Carolina,17,1
+152,3,"Sep 11, 2021",SMU,35,North Texas,12,0
+153,3,"Sep 11, 2021",Southern Miss,37,Grambling State,0,0
+154,3,"Sep 11, 2021",Stanford,42,USC,28,1
+155,3,"Sep 11, 2021",Temple,45,Akron,24,1
+156,3,"Sep 11, 2021",Colorado,7,Texas A&M,10,1
+157,3,"Sep 11, 2021",TCU,34,California,32,0
+158,3,"Sep 11, 2021",Texas State,23,Florida Int'l,17,1
+159,3,"Sep 11, 2021",Texas Tech,28,Stephen F. Austin,22,0
+160,3,"Sep 11, 2021",UTSA,54,Lamar,0,0
+161,3,"Sep 11, 2021",Tulane,69,Morgan State,20,0
+162,3,"Sep 11, 2021",Vanderbilt,24,Colorado State,21,1
+163,3,"Sep 11, 2021",Virginia,42,Illinois,14,0
+164,3,"Sep 11, 2021",Virginia Tech,35,Middle Tennessee,14,0
+165,3,"Sep 11, 2021",Wake Forest,41,Norfolk State,16,0
+166,3,"Sep 11, 2021",Washington State,44,Portland State,24,0
+167,3,"Sep 11, 2021",West Virginia,66,Long Island,0,0
+168,3,"Sep 11, 2021",Western Michigan,28,Illinois State,0,0
+169,3,"Sep 11, 2021",Eastern Michigan,7,Wisconsin,34,1
+170,3,"Sep 11, 2021",Wyoming,50,Northern Illinois,43,1
+171,4,"Sep 16, 2021",Louisiana,49,Ohio,14,0
+172,4,"Sep 17, 2021",Louisville,42,UCF,35,0
+173,4,"Sep 17, 2021",Maryland,20,Illinois,17,1
+174,4,"Sep 18, 2021",Akron,35,Bryant,14,0
+175,4,"Sep 18, 2021",Alabama,31,Florida,29,1
+176,4,"Sep 18, 2021",North Texas,6,UAB,40,0
+177,4,"Sep 18, 2021",Appalachian State,44,Elon,10,0
+178,4,"Sep 18, 2021",Arkansas,45,Georgia Southern,10,0
+179,4,"Sep 18, 2021",Army,52,Connecticut,21,0
+180,4,"Sep 18, 2021",Kansas,7,Baylor,45,0
+181,4,"Sep 18, 2021",Temple,3,Boston College,28,0
+182,4,"Sep 18, 2021",Bowling Green,27,Murray State,10,0
+183,4,"Sep 18, 2021",BYU,27,Arizona State,17,0
+184,4,"Sep 18, 2021",California,42,Sacramento State,30,0
+185,4,"Sep 18, 2021",Cincinnati,38,Indiana,24,1
+186,4,"Sep 18, 2021",Georgia Tech,8,Clemson,14,1
+187,4,"Sep 18, 2021",Coastal Carolina,28,Buffalo,25,1
+188,4,"Sep 18, 2021",Toledo,6,Colorado State,22,0
+189,4,"Sep 18, 2021",Duke,30,Northwestern,23,0
+190,4,"Sep 18, 2021",East Carolina,42,Marshall,38,1
+191,4,"Sep 18, 2021",Eastern Michigan,42,Massachusetts,28,1
+192,4,"Sep 18, 2021",Florida Atlantic,45,Fordham,14,0
+193,4,"Sep 18, 2021",Fresno State,40,UCLA,37,1
+194,4,"Sep 18, 2021",Georgia,40,South Carolina,13,0
+195,4,"Sep 18, 2021",Charlotte,9,Georgia State,20,1
+196,4,"Sep 18, 2021",Houston,45,Grambling State,0,0
+197,4,"Sep 18, 2021",Incarnate Word,42,Texas State,34,1
+198,4,"Sep 18, 2021",Kent State,7,Iowa,30,1
+199,4,"Sep 18, 2021",Iowa State,48,UNLV,3,1
+200,4,"Sep 18, 2021",Kansas State,38,Nevada,17,0
+201,4,"Sep 18, 2021",Kentucky,28,Chattanooga,23,0
+202,4,"Sep 18, 2021",Liberty,45,Old Dominion,17,0
+203,4,"Sep 18, 2021",LSU,49,Central Michigan,21,0
+204,4,"Sep 18, 2021",Jackson State,7,Louisiana-Monroe,12,1
+205,4,"Sep 18, 2021",Memphis,31,Mississippi State,29,0
+206,4,"Sep 18, 2021",Long Island,7,Miami (OH),42,1
+207,4,"Sep 18, 2021",Michigan,63,Northern Illinois,10,0
+208,4,"Sep 18, 2021",Michigan State,38,Miami,17,1
+209,4,"Sep 18, 2021",Minnesota,30,Colorado,0,1
+210,4,"Sep 18, 2021",Ole Miss,61,Tulane,21,0
+211,4,"Sep 18, 2021",Missouri,59,Southeast Missouri State,28,0
+212,4,"Sep 18, 2021",New Mexico State,43,South Carolina State,35,0
+213,4,"Sep 18, 2021",North Carolina,59,Virginia,39,0
+214,4,"Sep 18, 2021",Furman,7,NC State,45,1
+215,4,"Sep 18, 2021",Northern Arizona,21,Arizona,19,1
+216,4,"Sep 18, 2021",Notre Dame,27,Purdue,13,0
+217,4,"Sep 18, 2021",Ohio State,41,Tulsa,20,0
+218,4,"Sep 18, 2021",Oklahoma,23,Nebraska,16,0
+219,4,"Sep 18, 2021",Oklahoma State,21,Boise State,20,1
+220,4,"Sep 18, 2021",Stony Brook,7,Oregon,48,1
+221,4,"Sep 18, 2021",Oregon State,42,Idaho,0,0
+222,4,"Sep 18, 2021",Penn State,28,Auburn,20,0
+223,4,"Sep 18, 2021",Rutgers,45,Delaware,13,0
+224,4,"Sep 18, 2021",San Diego State,33,Utah,31,0
+225,4,"Sep 18, 2021",South Alabama,28,Alcorn State,21,0
+226,4,"Sep 18, 2021",South Florida,38,Florida A&M,17,0
+227,4,"Sep 18, 2021",USC,45,Washington State,14,1
+228,4,"Sep 18, 2021",SMU,39,Louisiana Tech,37,1
+229,4,"Sep 18, 2021",Stanford,41,Vanderbilt,23,1
+230,4,"Sep 18, 2021",Syracuse,62,Albany,24,0
+231,4,"Sep 18, 2021",Tennessee,56,Tennessee Tech,0,0
+232,4,"Sep 18, 2021",Texas,58,Rice,0,0
+233,4,"Sep 18, 2021",Texas A&M,34,New Mexico,0,0
+234,4,"Sep 18, 2021",Texas Tech,54,Florida Int'l,21,0
+235,4,"Sep 18, 2021",UTSA,27,Middle Tennessee,13,0
+236,4,"Sep 18, 2021",Southern Miss,9,Troy,21,0
+237,4,"Sep 18, 2021",Utah State,49,Air Force,45,1
+238,4,"Sep 18, 2021",Wake Forest,35,Florida State,14,0
+239,4,"Sep 18, 2021",Washington,52,Arkansas State,3,0
+240,4,"Sep 18, 2021",West Virginia,27,Virginia Tech,21,0
+241,4,"Sep 18, 2021",Western Michigan,44,Pitt,41,1
+242,4,"Sep 18, 2021",Wyoming,45,Ball State,12,0
+243,4,"Sep 19, 2021",San Jose State,17,Hawaii,13,1
+244,5,"Sep 23, 2021",Appalachian State,31,Marshall,30,0
+245,5,"Sep 24, 2021",Charlotte,42,Middle Tennessee,39,0
+246,5,"Sep 24, 2021",Fresno State,38,UNLV,30,0
+247,5,"Sep 24, 2021",Syracuse,24,Liberty,21,0
+248,5,"Sep 24, 2021",Wake Forest,37,Virginia,17,1
+249,5,"Sep 25, 2021",Florida Atlantic,7,Air Force,31,1
+250,5,"Sep 25, 2021",Alabama,63,Southern Miss,14,0
+251,5,"Sep 25, 2021",UAB,28,Tulane,21,1
+252,5,"Sep 25, 2021",Arizona State,35,Colorado,13,0
+253,5,"Sep 25, 2021",Arkansas,20,Texas A&M,10,0
+254,5,"Sep 25, 2021",Army,23,Miami (OH),10,0
+255,5,"Sep 25, 2021",Auburn,34,Georgia State,24,0
+256,5,"Sep 25, 2021",Baylor,31,Iowa State,29,0
+257,5,"Sep 25, 2021",Utah State,3,Boise State,27,0
+258,5,"Sep 25, 2021",Boston College,41,Missouri,34,0
+259,5,"Sep 25, 2021",Bowling Green,14,Minnesota,10,1
+260,5,"Sep 25, 2021",BYU,35,South Florida,27,0
+261,5,"Sep 25, 2021",Buffalo,35,Old Dominion,34,1
+262,5,"Sep 25, 2021",Central Michigan,31,Florida Int'l,27,0
+263,5,"Sep 25, 2021",Coastal Carolina,53,Massachusetts,3,0
+264,5,"Sep 25, 2021",Duke,52,Kansas,33,0
+265,5,"Sep 25, 2021",East Carolina,31,Charleston Southern,28,0
+266,5,"Sep 25, 2021",Eastern Michigan,59,Texas State,21,0
+267,5,"Sep 25, 2021",Florida,38,Tennessee,14,0
+268,5,"Sep 25, 2021",Georgia,62,Vanderbilt,0,1
+269,5,"Sep 25, 2021",Georgia Tech,45,North Carolina,22,0
+270,5,"Sep 25, 2021",Hawaii,41,New Mexico State,21,1
+271,5,"Sep 25, 2021",Houston,28,Navy,20,0
+272,5,"Sep 25, 2021",Indiana,33,Western Kentucky,31,1
+273,5,"Sep 25, 2021",Iowa,24,Colorado State,14,0
+274,5,"Sep 25, 2021",Kentucky,16,South Carolina,10,1
+275,5,"Sep 25, 2021",Louisiana,28,Georgia Southern,20,1
+276,5,"Sep 25, 2021",LSU,28,Mississippi State,25,1
+277,5,"Sep 25, 2021",Louisiana Tech,24,North Texas,17,0
+278,5,"Sep 25, 2021",Louisiana-Monroe,29,Troy,16,0
+279,5,"Sep 25, 2021",Louisville,31,Florida State,23,1
+280,5,"Sep 25, 2021",Maryland,37,Kent State,16,0
+281,5,"Sep 25, 2021",Miami,69,Central Connecticut State,0,0
+282,5,"Sep 25, 2021",Michigan,20,Rutgers,13,0
+283,5,"Sep 25, 2021",Michigan State,23,Nebraska,20,0
+284,5,"Sep 25, 2021",NC State,27,Clemson,21,0
+285,5,"Sep 25, 2021",Northern Illinois,41,Maine,14,0
+286,5,"Sep 25, 2021",Ohio,6,Northwestern,35,1
+287,5,"Sep 25, 2021",Notre Dame,41,Wisconsin,13,0
+288,5,"Sep 25, 2021",Akron,7,Ohio State,59,1
+289,5,"Sep 25, 2021",Oklahoma,16,West Virginia,13,0
+290,5,"Sep 25, 2021",Oklahoma State,31,Kansas State,20,0
+291,5,"Sep 25, 2021",Oregon,41,Arizona,19,0
+292,5,"Sep 25, 2021",Oregon State,45,USC,27,1
+293,5,"Sep 25, 2021",Penn State,38,Villanova,17,0
+294,5,"Sep 25, 2021",Pitt,77,New Hampshire,7,0
+295,5,"Sep 25, 2021",Illinois,9,Purdue,13,1
+296,5,"Sep 25, 2021",Rice,48,Texas Southern,34,0
+297,5,"Sep 25, 2021",San Diego State,48,Towson,21,0
+298,5,"Sep 25, 2021",SMU,42,TCU,34,1
+299,5,"Sep 25, 2021",Wagner,7,Temple,41,1
+300,5,"Sep 25, 2021",Texas,70,Texas Tech,35,0
+301,5,"Sep 25, 2021",UTEP,20,New Mexico,13,0
+302,5,"Sep 25, 2021",UTSA,31,Memphis,28,1
+303,5,"Sep 25, 2021",Toledo,22,Ball State,12,1
+304,5,"Sep 25, 2021",Tulsa,41,Arkansas State,34,0
+305,5,"Sep 25, 2021",UCLA,35,Stanford,24,1
+306,5,"Sep 25, 2021",Utah,24,Washington State,13,0
+307,5,"Sep 25, 2021",Virginia Tech,21,Richmond,10,0
+308,5,"Sep 25, 2021",Washington,31,California,24,0
+309,5,"Sep 25, 2021",San Jose State,3,Western Michigan,23,1
+310,5,"Sep 25, 2021",Wyoming,24,Connecticut,22,1
+311,6,"Sep 30, 2021",Virginia,30,Miami,28,1
+312,6,"Oct 1, 2021",BYU,34,Utah State,20,1
+313,6,"Oct 1, 2021",Houston,45,Tulsa,10,1
+314,6,"Oct 1, 2021",Iowa,51,Maryland,14,1
+315,6,"Oct 2, 2021",Air Force,38,New Mexico,10,1
+316,6,"Oct 2, 2021",Alabama,42,Ole Miss,21,0
+317,6,"Oct 2, 2021",Appalachian State,45,Georgia State,16,1
+318,6,"Oct 2, 2021",Arizona State,42,UCLA,23,1
+319,6,"Oct 2, 2021",Auburn,24,LSU,19,1
+320,6,"Oct 2, 2021",Ball State,28,Army,16,0
+321,6,"Oct 2, 2021",Cincinnati,24,Notre Dame,13,1
+322,6,"Oct 2, 2021",Clemson,19,Boston College,13,0
+323,6,"Oct 2, 2021",Louisiana-Monroe,6,Coastal Carolina,59,1
+324,6,"Oct 2, 2021",East Carolina,52,Tulane,29,0
+325,6,"Oct 2, 2021",Florida Atlantic,58,Florida Int'l,21,0
+326,6,"Oct 2, 2021",Florida State,33,Syracuse,30,0
+327,6,"Oct 2, 2021",Georgia,37,Arkansas,0,0
+328,6,"Oct 2, 2021",Georgia Southern,59,Arkansas State,33,0
+329,6,"Oct 2, 2021",Hawaii,27,Fresno State,24,0
+330,6,"Oct 2, 2021",Illinois,24,Charlotte,14,0
+331,6,"Oct 2, 2021",Kansas,7,Iowa State,59,1
+332,6,"Oct 2, 2021",Kent State,27,Bowling Green,20,0
+333,6,"Oct 2, 2021",Kentucky,20,Florida,13,0
+334,6,"Oct 2, 2021",Liberty,36,UAB,12,1
+335,6,"Oct 2, 2021",Louisiana,20,South Alabama,18,1
+336,6,"Oct 2, 2021",Miami (OH),28,Central Michigan,17,0
+337,6,"Oct 2, 2021",Michigan,38,Wisconsin,17,1
+338,6,"Oct 2, 2021",Michigan State,48,Western Kentucky,31,0
+339,6,"Oct 2, 2021",Middle Tennessee,34,Marshall,28,0
+340,6,"Oct 2, 2021",Minnesota,20,Purdue,13,1
+341,6,"Oct 2, 2021",Mississippi State,26,Texas A&M,22,1
+342,6,"Oct 2, 2021",Navy,34,UCF,30,0
+343,6,"Oct 2, 2021",Northwestern,7,Nebraska,56,1
+344,6,"Oct 2, 2021",Nevada,41,Boise State,31,1
+345,6,"Oct 2, 2021",Duke,7,North Carolina,38,1
+346,6,"Oct 2, 2021",NC State,34,Louisiana Tech,27,0
+347,6,"Oct 2, 2021",Northern Illinois,27,Eastern Michigan,20,0
+348,6,"Oct 2, 2021",Ohio,34,Akron,17,1
+349,6,"Oct 2, 2021",Ohio State,52,Rutgers,13,1
+350,6,"Oct 2, 2021",Oklahoma,37,Kansas State,31,1
+351,6,"Oct 2, 2021",Oklahoma State,24,Baylor,14,0
+352,6,"Oct 2, 2021",Oregon State,27,Washington,24,0
+353,6,"Oct 2, 2021",Penn State,24,Indiana,0,0
+354,6,"Oct 2, 2021",Pitt,52,Georgia Tech,21,1
+355,6,"Oct 2, 2021",Rice,24,Southern Miss,19,0
+356,6,"Oct 2, 2021",San Jose State,37,New Mexico State,31,0
+357,6,"Oct 2, 2021",South Carolina,23,Troy,14,0
+358,6,"Oct 2, 2021",USC,37,Colorado,14,1
+359,6,"Oct 2, 2021",SMU,41,South Florida,17,0
+360,6,"Oct 2, 2021",Stanford,31,Oregon,24,0
+361,6,"Oct 2, 2021",Temple,34,Memphis,31,0
+362,6,"Oct 2, 2021",Tennessee,62,Missouri,24,1
+363,6,"Oct 2, 2021",Texas,32,TCU,27,1
+364,6,"Oct 2, 2021",Texas Tech,23,West Virginia,20,1
+365,6,"Oct 2, 2021",UTEP,28,Old Dominion,21,0
+366,6,"Oct 2, 2021",UTSA,24,UNLV,17,0
+367,6,"Oct 2, 2021",Massachusetts,7,Toledo,45,0
+368,6,"Oct 2, 2021",Vanderbilt,30,Connecticut,28,0
+369,6,"Oct 2, 2021",Wake Forest,37,Louisville,34,0
+370,6,"Oct 2, 2021",California,6,Washington State,21,0
+371,6,"Oct 2, 2021",Western Michigan,24,Buffalo,17,1
+372,7,"Oct 7, 2021",Coastal Carolina,52,Arkansas State,20,1
+373,7,"Oct 7, 2021",Houston,40,Tulane,22,1
+374,7,"Oct 8, 2021",Arizona State,28,Stanford,10,0
+375,7,"Oct 8, 2021",Charlotte,45,Florida Int'l,33,1
+376,7,"Oct 8, 2021",Cincinnati,52,Temple,3,0
+377,7,"Oct 9, 2021",Air Force,24,Wyoming,14,0
+378,7,"Oct 9, 2021",Akron,35,Bowling Green,20,1
+379,7,"Oct 9, 2021",UAB,31,Florida Atlantic,14,0
+380,7,"Oct 9, 2021",Ball State,45,Western Michigan,20,1
+381,7,"Oct 9, 2021",Baylor,45,West Virginia,20,0
+382,7,"Oct 9, 2021",Boise State,26,BYU,17,1
+383,7,"Oct 9, 2021",UCF,20,East Carolina,16,0
+384,7,"Oct 9, 2021",Central Michigan,30,Ohio,27,1
+385,7,"Oct 9, 2021",Colorado State,32,San Jose State,14,0
+386,7,"Oct 9, 2021",Eastern Michigan,13,Miami (OH),12,0
+387,7,"Oct 9, 2021",Florida,42,Vanderbilt,0,0
+388,7,"Oct 9, 2021",Florida State,35,North Carolina,25,1
+389,7,"Oct 9, 2021",Georgia,34,Auburn,10,1
+390,7,"Oct 9, 2021",Georgia State,55,Louisiana-Monroe,21,1
+391,7,"Oct 9, 2021",Georgia Tech,31,Duke,27,1
+392,7,"Oct 9, 2021",Iowa,23,Penn State,20,0
+393,7,"Oct 9, 2021",Kent State,48,Buffalo,38,0
+394,7,"Oct 9, 2021",Kentucky,42,LSU,21,0
+395,7,"Oct 9, 2021",Liberty,41,Middle Tennessee,13,0
+396,7,"Oct 9, 2021",Marshall,20,Old Dominion,13,0
+397,7,"Oct 9, 2021",Massachusetts,27,Connecticut,13,0
+398,7,"Oct 9, 2021",Michigan,32,Nebraska,29,1
+399,7,"Oct 9, 2021",Michigan State,31,Rutgers,13,1
+400,7,"Oct 9, 2021",Ole Miss,52,Arkansas,51,0
+401,7,"Oct 9, 2021",Missouri,48,North Texas,35,0
+402,7,"Oct 9, 2021",Nevada,55,New Mexico State,28,0
+403,7,"Oct 9, 2021",Northern Illinois,22,Toledo,20,1
+404,7,"Oct 9, 2021",Notre Dame,32,Virginia Tech,29,1
+405,7,"Oct 9, 2021",Ohio State,66,Maryland,17,0
+406,7,"Oct 9, 2021",Oklahoma,55,Texas,48,0
+407,7,"Oct 9, 2021",New Mexico,7,San Diego State,31,1
+408,7,"Oct 9, 2021",SMU,31,Navy,24,1
+409,7,"Oct 9, 2021",Tennessee,45,South Carolina,20,0
+410,7,"Oct 9, 2021",Texas A&M,41,Alabama,38,0
+411,7,"Oct 9, 2021",TCU,52,Texas Tech,31,1
+412,7,"Oct 9, 2021",Texas State,33,South Alabama,31,0
+413,7,"Oct 9, 2021",UTEP,26,Southern Miss,13,1
+414,7,"Oct 9, 2021",UTSA,52,Western Kentucky,46,1
+415,7,"Oct 9, 2021",Troy,27,Georgia Southern,24,0
+416,7,"Oct 9, 2021",Tulsa,35,Memphis,29,0
+417,7,"Oct 9, 2021",UCLA,34,Arizona,16,1
+418,7,"Oct 9, 2021",Utah,42,USC,26,1
+419,7,"Oct 9, 2021",Virginia,34,Louisville,33,1
+420,7,"Oct 9, 2021",Wake Forest,40,Syracuse,37,1
+421,7,"Oct 9, 2021",Washington State,31,Oregon State,24,0
+422,7,"Oct 9, 2021",Wisconsin,24,Illinois,0,1
+423,8,"Oct 12, 2021",Louisiana,41,Appalachian State,13,0
+424,8,"Oct 14, 2021",Memphis,35,Navy,17,0
+425,8,"Oct 14, 2021",South Alabama,41,Georgia Southern,14,0
+426,8,"Oct 15, 2021",Clemson,17,Syracuse,14,1
+427,8,"Oct 15, 2021",Marshall,49,North Texas,21,1
+428,8,"Oct 15, 2021",Oregon,24,California,17,0
+429,8,"Oct 15, 2021",San Diego State,19,San Jose State,13,1
+430,8,"Oct 16, 2021",Air Force,24,Boise State,17,1
+431,8,"Oct 16, 2021",Mississippi State,9,Alabama,49,0
+432,8,"Oct 16, 2021",UAB,34,Southern Miss,0,1
+433,8,"Oct 16, 2021",Auburn,38,Arkansas,23,1
+434,8,"Oct 16, 2021",Ball State,38,Eastern Michigan,31,1
+435,8,"Oct 16, 2021",Baylor,38,BYU,24,0
+436,8,"Oct 16, 2021",Buffalo,27,Ohio,26,0
+437,8,"Oct 16, 2021",Central Michigan,26,Toledo,23,0
+438,8,"Oct 16, 2021",Cincinnati,56,UCF,21,0
+439,8,"Oct 16, 2021",Colorado,34,Arizona,0,0
+440,8,"Oct 16, 2021",New Mexico,7,Colorado State,36,0
+441,8,"Oct 16, 2021",Connecticut,21,Yale,15,0
+442,8,"Oct 16, 2021",Fresno State,17,Wyoming,0,1
+443,8,"Oct 16, 2021",Georgia,30,Kentucky,13,0
+444,8,"Oct 16, 2021",Iowa State,33,Kansas State,20,1
+445,8,"Oct 16, 2021",LSU,49,Florida,42,0
+446,8,"Oct 16, 2021",Louisiana-Monroe,31,Liberty,28,0
+447,8,"Oct 16, 2021",Miami (OH),34,Akron,21,0
+448,8,"Oct 16, 2021",Michigan State,20,Indiana,15,1
+449,8,"Oct 16, 2021",Minnesota,30,Nebraska,23,0
+450,8,"Oct 16, 2021",Ole Miss,31,Tennessee,26,1
+451,8,"Oct 16, 2021",Nevada,34,Hawaii,17,0
+452,8,"Oct 16, 2021",North Carolina,45,Miami,42,0
+453,8,"Oct 16, 2021",Boston College,7,NC State,33,0
+454,8,"Oct 16, 2021",Northern Illinois,34,Bowling Green,26,0
+455,8,"Oct 16, 2021",Rutgers,7,Northwestern,21,1
+456,8,"Oct 16, 2021",Oklahoma,52,TCU,31,0
+457,8,"Oct 16, 2021",Oklahoma State,32,Texas,24,1
+458,8,"Oct 16, 2021",Virginia Tech,7,Pitt,28,0
+459,8,"Oct 16, 2021",Iowa,7,Purdue,24,0
+460,8,"Oct 16, 2021",South Carolina,21,Vanderbilt,20,0
+461,8,"Oct 16, 2021",Texas A&M,35,Missouri,14,1
+462,8,"Oct 16, 2021",Texas Tech,41,Kansas,14,1
+463,8,"Oct 16, 2021",Louisiana Tech,3,UTEP,19,1
+464,8,"Oct 16, 2021",UTSA,45,Rice,0,0
+465,8,"Oct 16, 2021",Troy,31,Texas State,28,1
+466,8,"Oct 16, 2021",Tulsa,32,South Florida,31,1
+467,8,"Oct 16, 2021",UCLA,24,Washington,17,1
+468,8,"Oct 16, 2021",Utah,35,Arizona State,21,0
+469,8,"Oct 16, 2021",Utah State,28,UNLV,24,1
+470,8,"Oct 16, 2021",Virginia,48,Duke,0,0
+471,8,"Oct 16, 2021",Washington State,34,Stanford,31,0
+472,8,"Oct 16, 2021",Western Kentucky,43,Old Dominion,20,1
+473,8,"Oct 16, 2021",Western Michigan,64,Kent State,31,0
+474,8,"Oct 16, 2021",Wisconsin,20,Army,14,0
+475,9,"Oct 20, 2021",Appalachian State,30,Coastal Carolina,27,0
+476,9,"Oct 21, 2021",Charlotte,9,Florida Atlantic,38,0
+477,9,"Oct 21, 2021",Louisiana,28,Arkansas State,27,1
+478,9,"Oct 21, 2021",San Jose State,27,UNLV,20,1
+479,9,"Oct 21, 2021",SMU,55,Tulane,26,0
+480,9,"Oct 22, 2021",Memphis,7,UCF,24,1
+481,9,"Oct 22, 2021",Middle Tennessee,44,Connecticut,13,1
+482,9,"Oct 22, 2021",Utah State,26,Colorado State,24,0
+483,9,"Oct 22, 2021",Washington,21,Arizona,16,1
+484,9,"Oct 23, 2021",Alabama,52,Tennessee,24,0
+485,9,"Oct 23, 2021",Arkansas,45,Arkansas-Pine Bluff,3,0
+486,9,"Oct 23, 2021",BYU,21,Washington State,19,1
+487,9,"Oct 23, 2021",Buffalo,45,Akron,10,1
+488,9,"Oct 23, 2021",Colorado,3,California,26,1
+489,9,"Oct 23, 2021",Cincinnati,27,Navy,20,1
+490,9,"Oct 23, 2021",Eastern Michigan,55,Bowling Green,24,1
+491,9,"Oct 23, 2021",Florida State,59,Massachusetts,3,0
+492,9,"Oct 23, 2021",Fresno State,34,Nevada,32,0
+493,9,"Oct 23, 2021",Georgia State,28,Texas State,16,0
+494,9,"Oct 23, 2021",Hawaii,48,New Mexico State,34,0
+495,9,"Oct 23, 2021",Houston,31,East Carolina,24,0
+496,9,"Oct 23, 2021",Illinois,20,Penn State,18,1
+497,9,"Oct 23, 2021",Iowa State,24,Oklahoma State,21,0
+498,9,"Oct 23, 2021",Kansas State,25,Texas Tech,24,1
+499,9,"Oct 23, 2021",Kent State,34,Ohio,27,1
+500,9,"Oct 23, 2021",Liberty,35,North Texas,26,1
+501,9,"Oct 23, 2021",Louisiana-Monroe,41,South Alabama,31,0
+502,9,"Oct 23, 2021",Louisville,28,Boston College,14,0
+503,9,"Oct 23, 2021",Miami,31,NC State,30,0
+504,9,"Oct 23, 2021",Miami (OH),24,Ball State,17,1
+505,9,"Oct 23, 2021",Northwestern,7,Michigan,33,1
+506,9,"Oct 23, 2021",Minnesota,34,Maryland,16,0
+507,9,"Oct 23, 2021",Ole Miss,31,LSU,17,0
+508,9,"Oct 23, 2021",Vanderbilt,6,Mississippi State,45,0
+509,9,"Oct 23, 2021",Wyoming,3,New Mexico,14,0
+510,9,"Oct 23, 2021",Northern Illinois,39,Central Michigan,38,1
+511,9,"Oct 23, 2021",Notre Dame,31,USC,16,0
+512,9,"Oct 23, 2021",Indiana,7,Ohio State,54,0
+513,9,"Oct 23, 2021",Oklahoma,35,Kansas,23,1
+514,9,"Oct 23, 2021",Oregon,34,UCLA,31,1
+515,9,"Oct 23, 2021",Oregon State,42,Utah,34,0
+516,9,"Oct 23, 2021",Pitt,27,Clemson,17,0
+517,9,"Oct 23, 2021",Rice,30,UAB,24,1
+518,9,"Oct 23, 2021",San Diego State,20,Air Force,14,1
+519,9,"Oct 23, 2021",South Florida,34,Temple,14,0
+520,9,"Oct 23, 2021",Syracuse,41,Virginia Tech,36,1
+521,9,"Oct 23, 2021",Texas A&M,44,South Carolina,14,0
+522,9,"Oct 23, 2021",UTSA,45,Louisiana Tech,16,1
+523,9,"Oct 23, 2021",Toledo,34,Western Michigan,15,0
+524,9,"Oct 23, 2021",Virginia,48,Georgia Tech,40,0
+525,9,"Oct 23, 2021",Wake Forest,70,Army,56,1
+526,9,"Oct 23, 2021",West Virginia,29,TCU,17,1
+527,9,"Oct 23, 2021",Western Kentucky,34,Florida Int'l,19,1
+528,9,"Oct 23, 2021",Wisconsin,30,Purdue,13,1
+529,10,"Oct 28, 2021",Coastal Carolina,35,Troy,28,0
+530,10,"Oct 28, 2021",East Carolina,29,South Florida,14,0
+531,10,"Oct 29, 2021",Navy,20,Tulsa,17,1
+532,10,"Oct 29, 2021",Nevada,51,UNLV,20,0
+533,10,"Oct 30, 2021",Appalachian State,59,Louisiana-Monroe,28,0
+534,10,"Oct 30, 2021",Auburn,31,Ole Miss,20,0
+535,10,"Oct 30, 2021",Baylor,31,Texas,24,0
+536,10,"Oct 30, 2021",Boise State,28,Colorado State,19,1
+537,10,"Oct 30, 2021",Bowling Green,56,Buffalo,44,1
+538,10,"Oct 30, 2021",BYU,66,Virginia,49,0
+539,10,"Oct 30, 2021",California,39,Oregon State,25,0
+540,10,"Oct 30, 2021",Temple,7,UCF,49,0
+541,10,"Oct 30, 2021",Cincinnati,31,Tulane,12,1
+542,10,"Oct 30, 2021",Clemson,30,Florida State,20,0
+543,10,"Oct 30, 2021",Florida Atlantic,28,UTEP,25,0
+544,10,"Oct 30, 2021",Fresno State,30,San Diego State,20,1
+545,10,"Oct 30, 2021",Florida,7,Georgia,34,1
+546,10,"Oct 30, 2021",Georgia State,21,Georgia Southern,14,1
+547,10,"Oct 30, 2021",Houston,44,SMU,37,0
+548,10,"Oct 30, 2021",Kansas State,31,TCU,12,0
+549,10,"Oct 30, 2021",Liberty,62,Massachusetts,17,0
+550,10,"Oct 30, 2021",Louisiana,45,Texas State,0,0
+551,10,"Oct 30, 2021",Marshall,38,Florida Int'l,0,0
+552,10,"Oct 30, 2021",Maryland,38,Indiana,35,0
+553,10,"Oct 30, 2021",Miami,38,Pitt,34,1
+554,10,"Oct 30, 2021",Michigan State,37,Michigan,33,0
+555,10,"Oct 30, 2021",Middle Tennessee,35,Southern Miss,10,0
+556,10,"Oct 30, 2021",Minnesota,41,Northwestern,14,1
+557,10,"Oct 30, 2021",Mississippi State,31,Kentucky,17,0
+558,10,"Oct 30, 2021",Missouri,37,Vanderbilt,28,1
+559,10,"Oct 30, 2021",NC State,28,Louisville,13,0
+560,10,"Oct 30, 2021",North Texas,30,Rice,24,1
+561,10,"Oct 30, 2021",Notre Dame,44,North Carolina,34,0
+562,10,"Oct 30, 2021",Ohio State,33,Penn State,24,0
+563,10,"Oct 30, 2021",Oklahoma,52,Texas Tech,21,0
+564,10,"Oct 30, 2021",Oklahoma State,55,Kansas,3,0
+565,10,"Oct 30, 2021",Old Dominion,23,Louisiana Tech,20,0
+566,10,"Oct 30, 2021",Oregon,52,Colorado,29,0
+567,10,"Oct 30, 2021",Purdue,28,Nebraska,23,1
+568,10,"Oct 30, 2021",Rutgers,20,Illinois,14,1
+569,10,"Oct 30, 2021",San Jose State,27,Wyoming,21,0
+570,10,"Oct 30, 2021",South Alabama,31,Arkansas State,13,0
+571,10,"Oct 30, 2021",USC,41,Arizona,34,0
+572,10,"Oct 30, 2021",Boston College,6,Syracuse,21,1
+573,10,"Oct 30, 2021",Utah,44,UCLA,24,0
+574,10,"Oct 30, 2021",Utah State,51,Hawaii,31,0
+575,10,"Oct 30, 2021",Virginia Tech,26,Georgia Tech,17,1
+576,10,"Oct 30, 2021",Duke,7,Wake Forest,45,1
+577,10,"Oct 30, 2021",Washington,20,Stanford,13,1
+578,10,"Oct 30, 2021",Washington State,34,Arizona State,21,1
+579,10,"Oct 30, 2021",West Virginia,38,Iowa State,31,0
+580,10,"Oct 30, 2021",Western Kentucky,45,Charlotte,13,0
+581,10,"Oct 30, 2021",Iowa,7,Wisconsin,27,1
+582,11,"Nov 2, 2021",Ball State,31,Akron,25,1
+583,11,"Nov 2, 2021",Eastern Michigan,52,Toledo,49,1
+584,11,"Nov 2, 2021",Ohio,35,Miami (OH),33,0
+585,11,"Nov 3, 2021",Central Michigan,42,Western Michigan,30,1
+586,11,"Nov 3, 2021",Kent State,52,Northern Illinois,47,0
+587,11,"Nov 4, 2021",Louisiana,21,Georgia State,17,0
+588,11,"Nov 5, 2021",Virginia Tech,3,Boston College,17,1
+589,11,"Nov 5, 2021",Stanford,7,Utah,52,0
+590,11,"Nov 6, 2021",Alabama,20,LSU,14,0
+591,11,"Nov 6, 2021",UAB,52,Louisiana Tech,38,0
+592,11,"Nov 6, 2021",Appalachian State,48,Arkansas State,14,1
+593,11,"Nov 6, 2021",California,3,Arizona,10,1
+594,11,"Nov 6, 2021",Arizona State,31,USC,16,0
+595,11,"Nov 6, 2021",Arkansas,31,Mississippi State,28,0
+596,11,"Nov 6, 2021",Army,21,Air Force,14,0
+597,11,"Nov 6, 2021",Boise State,40,Fresno State,14,1
+598,11,"Nov 6, 2021",BYU,59,Idaho State,14,0
+599,11,"Nov 6, 2021",UCF,14,Tulane,10,0
+600,11,"Nov 6, 2021",Charlotte,31,Rice,24,0
+601,11,"Nov 6, 2021",Cincinnati,28,Tulsa,20,0
+602,11,"Nov 6, 2021",Clemson,30,Louisville,24,1
+603,11,"Nov 6, 2021",Georgia Southern,8,Coastal Carolina,28,0
+604,11,"Nov 6, 2021",Colorado,37,Oregon State,34,0
+605,11,"Nov 6, 2021",East Carolina,45,Temple,3,0
+606,11,"Nov 6, 2021",Missouri,6,Georgia,43,1
+607,11,"Nov 6, 2021",Houston,54,South Florida,42,1
+608,11,"Nov 6, 2021",Minnesota,6,Illinois,14,0
+609,11,"Nov 6, 2021",Iowa,17,Northwestern,12,1
+610,11,"Nov 6, 2021",Texas,7,Iowa State,30,1
+611,11,"Nov 6, 2021",Kansas State,35,Kansas,10,1
+612,11,"Nov 6, 2021",Marshall,28,Florida Atlantic,13,1
+613,11,"Nov 6, 2021",Memphis,28,SMU,25,0
+614,11,"Nov 6, 2021",Miami,33,Georgia Tech,30,0
+615,11,"Nov 6, 2021",Indiana,7,Michigan,29,1
+616,11,"Nov 6, 2021",Ole Miss,27,Liberty,14,0
+617,11,"Nov 6, 2021",Nevada,27,San Jose State,24,0
+618,11,"Nov 6, 2021",UNLV,31,New Mexico,17,1
+619,11,"Nov 6, 2021",North Carolina,58,Wake Forest,55,0
+620,11,"Nov 6, 2021",NC State,28,Florida State,14,1
+621,11,"Nov 6, 2021",North Texas,38,Southern Miss,14,1
+622,11,"Nov 6, 2021",Navy,6,Notre Dame,34,1
+623,11,"Nov 6, 2021",Ohio State,26,Nebraska,17,1
+624,11,"Nov 6, 2021",West Virginia,3,Oklahoma State,24,0
+625,11,"Nov 6, 2021",Old Dominion,47,Florida Int'l,24,1
+626,11,"Nov 6, 2021",Oregon,26,Washington,16,1
+627,11,"Nov 6, 2021",Penn State,31,Maryland,14,1
+628,11,"Nov 6, 2021",Pitt,54,Duke,29,1
+629,11,"Nov 6, 2021",Purdue,40,Michigan State,29,0
+630,11,"Nov 6, 2021",Rhode Island,35,Massachusetts,22,1
+631,11,"Nov 6, 2021",San Diego State,17,Hawaii,10,1
+632,11,"Nov 6, 2021",South Carolina,40,Florida,17,0
+633,11,"Nov 6, 2021",Tennessee,45,Kentucky,42,1
+634,11,"Nov 6, 2021",Auburn,3,Texas A&M,20,1
+635,11,"Nov 6, 2021",TCU,30,Baylor,28,0
+636,11,"Nov 6, 2021",Texas State,27,Louisiana-Monroe,19,0
+637,11,"Nov 6, 2021",UTSA,44,UTEP,23,1
+638,11,"Nov 6, 2021",Troy,31,South Alabama,24,0
+639,11,"Nov 6, 2021",Utah State,35,New Mexico State,13,1
+640,11,"Nov 6, 2021",Western Kentucky,48,Middle Tennessee,21,0
+641,11,"Nov 6, 2021",Wisconsin,52,Rutgers,3,1
+642,11,"Nov 6, 2021",Wyoming,31,Colorado State,17,0
+643,12,"Nov 9, 2021",Miami (OH),45,Buffalo,18,0
+644,12,"Nov 9, 2021",Ohio,34,Eastern Michigan,26,1
+645,12,"Nov 9, 2021",Western Michigan,45,Akron,40,0
+646,12,"Nov 10, 2021",Central Michigan,54,Kent State,30,0
+647,12,"Nov 10, 2021",Northern Illinois,30,Ball State,29,0
+648,12,"Nov 10, 2021",Toledo,49,Bowling Green,17,1
+649,12,"Nov 11, 2021",Pitt,30,North Carolina,23,0
+650,12,"Nov 12, 2021",Boise State,23,Wyoming,13,0
+651,12,"Nov 12, 2021",Cincinnati,45,South Florida,28,1
+652,12,"Nov 13, 2021",Air Force,35,Colorado State,21,1
+653,12,"Nov 13, 2021",Alabama,59,New Mexico State,3,0
+654,12,"Nov 13, 2021",UAB,21,Marshall,14,1
+655,12,"Nov 13, 2021",South Alabama,7,Appalachian State,31,1
+656,12,"Nov 13, 2021",Arizona State,35,Washington,30,1
+657,12,"Nov 13, 2021",Arkansas,16,LSU,13,1
+658,12,"Nov 13, 2021",Arkansas State,27,Louisiana-Monroe,24,1
+659,12,"Nov 13, 2021",Army,63,Bucknell,10,0
+660,12,"Nov 13, 2021",Baylor,27,Oklahoma,14,0
+661,12,"Nov 13, 2021",Boston College,41,Georgia Tech,30,1
+662,12,"Nov 13, 2021",Connecticut,7,Clemson,44,1
+663,12,"Nov 13, 2021",East Carolina,30,Memphis,29,1
+664,12,"Nov 13, 2021",Florida,70,Samford,52,0
+665,12,"Nov 13, 2021",Florida State,31,Miami,28,0
+666,12,"Nov 13, 2021",New Mexico,7,Fresno State,34,1
+667,12,"Nov 13, 2021",Georgia,41,Tennessee,17,1
+668,12,"Nov 13, 2021",Georgia Southern,38,Texas State,30,1
+669,12,"Nov 13, 2021",Georgia State,42,Coastal Carolina,40,1
+670,12,"Nov 13, 2021",Temple,8,Houston,37,0
+671,12,"Nov 13, 2021",Iowa,27,Minnesota,22,0
+672,12,"Nov 13, 2021",Kansas,57,Texas,56,1
+673,12,"Nov 13, 2021",Kansas State,34,West Virginia,17,0
+674,12,"Nov 13, 2021",Kentucky,34,Vanderbilt,17,1
+675,12,"Nov 13, 2021",Louisiana,35,Troy,21,1
+676,12,"Nov 13, 2021",Louisiana Tech,42,Charlotte,32,0
+677,12,"Nov 13, 2021",Louisville,41,Syracuse,3,0
+678,12,"Nov 13, 2021",Maine,35,Massachusetts,10,1
+679,12,"Nov 13, 2021",Michigan,21,Penn State,17,1
+680,12,"Nov 13, 2021",Michigan State,40,Maryland,21,0
+681,12,"Nov 13, 2021",Middle Tennessee,50,Florida Int'l,10,0
+682,12,"Nov 13, 2021",Ole Miss,29,Texas A&M,19,0
+683,12,"Nov 13, 2021",Mississippi State,43,Auburn,34,1
+684,12,"Nov 13, 2021",Missouri,31,South Carolina,28,0
+685,12,"Nov 13, 2021",UNLV,27,Hawaii,13,0
+686,12,"Nov 13, 2021",North Texas,20,UTEP,17,0
+687,12,"Nov 13, 2021",Virginia,3,Notre Dame,28,0
+688,12,"Nov 13, 2021",Ohio State,59,Purdue,31,0
+689,12,"Nov 13, 2021",Oklahoma State,63,TCU,17,0
+690,12,"Nov 13, 2021",Old Dominion,30,Florida Atlantic,16,0
+691,12,"Nov 13, 2021",Oregon,38,Washington State,24,0
+692,12,"Nov 13, 2021",Oregon State,35,Stanford,14,0
+693,12,"Nov 13, 2021",Rutgers,38,Indiana,3,1
+694,12,"Nov 13, 2021",San Diego State,23,Nevada,21,0
+695,12,"Nov 13, 2021",SMU,55,UCF,28,0
+696,12,"Nov 13, 2021",Texas Tech,41,Iowa State,38,0
+697,12,"Nov 13, 2021",UTSA,27,Southern Miss,17,0
+698,12,"Nov 13, 2021",Tulsa,20,Tulane,13,1
+699,12,"Nov 13, 2021",UCLA,44,Colorado,20,0
+700,12,"Nov 13, 2021",Utah,38,Arizona,29,1
+701,12,"Nov 13, 2021",Utah State,48,San Jose State,17,1
+702,12,"Nov 13, 2021",Virginia Tech,48,Duke,17,0
+703,12,"Nov 13, 2021",Wake Forest,45,NC State,42,0
+704,12,"Nov 13, 2021",Western Kentucky,42,Rice,21,1
+705,12,"Nov 13, 2021",Northwestern,7,Wisconsin,35,1
+706,13,"Nov 16, 2021",Eastern Michigan,22,Western Michigan,21,0
+707,13,"Nov 16, 2021",Bowling Green,7,Miami (OH),34,1
+708,13,"Nov 16, 2021",Toledo,35,Ohio,23,1
+709,13,"Nov 17, 2021",Central Michigan,37,Ball State,17,1
+710,13,"Nov 17, 2021",Northern Illinois,33,Buffalo,27,1
+711,13,"Nov 18, 2021",Louisville,62,Duke,22,1
+712,13,"Nov 19, 2021",Air Force,41,Nevada,39,1
+713,13,"Nov 19, 2021",Houston,31,Memphis,13,0
+714,13,"Nov 19, 2021",San Diego State,28,UNLV,20,1
+715,13,"Nov 19, 2021",Southern Miss,35,Louisiana Tech,19,1
+716,13,"Nov 19, 2021",Washington State,44,Arizona,18,0
+717,13,"Nov 20, 2021",Alabama,42,Arkansas,35,0
+718,13,"Nov 20, 2021",Troy,7,Appalachian State,45,0
+719,13,"Nov 20, 2021",Army,33,Massachusetts,17,0
+720,13,"Nov 20, 2021",Baylor,20,Kansas State,10,1
+721,13,"Nov 20, 2021",Boise State,37,New Mexico,0,0
+722,13,"Nov 20, 2021",BYU,34,Georgia Southern,17,1
+723,13,"Nov 20, 2021",California,41,Stanford,11,1
+724,13,"Nov 20, 2021",UCF,49,Connecticut,17,0
+725,13,"Nov 20, 2021",Cincinnati,48,SMU,14,0
+726,13,"Nov 20, 2021",Clemson,48,Wake Forest,27,0
+727,13,"Nov 20, 2021",Coastal Carolina,35,Texas State,21,0
+728,13,"Nov 20, 2021",Colorado,20,Washington,17,0
+729,13,"Nov 20, 2021",East Carolina,38,Navy,35,1
+730,13,"Nov 20, 2021",Florida State,26,Boston College,23,1
+731,13,"Nov 20, 2021",Charleston Southern,7,Georgia,56,1
+732,13,"Nov 20, 2021",Georgia State,28,Arkansas State,20,0
+733,13,"Nov 20, 2021",Hawaii,50,Colorado State,45,0
+734,13,"Nov 20, 2021",Iowa,33,Illinois,23,0
+735,13,"Nov 20, 2021",Kent State,38,Akron,0,1
+736,13,"Nov 20, 2021",Kentucky,56,New Mexico State,16,0
+737,13,"Nov 20, 2021",Louisiana,42,Liberty,14,1
+738,13,"Nov 20, 2021",LSU,27,Louisiana-Monroe,14,0
+739,13,"Nov 20, 2021",Marshall,49,Charlotte,28,1
+740,13,"Nov 20, 2021",Miami,38,Virginia Tech,26,0
+741,13,"Nov 20, 2021",Michigan,59,Maryland,18,1
+742,13,"Nov 20, 2021",Minnesota,35,Indiana,14,1
+743,13,"Nov 20, 2021",Ole Miss,31,Vanderbilt,17,0
+744,13,"Nov 20, 2021",Mississippi State,55,Tennessee State,10,0
+745,13,"Nov 20, 2021",Missouri,24,Florida,23,0
+746,13,"Nov 20, 2021",North Carolina,34,Wofford,14,0
+747,13,"Nov 20, 2021",NC State,41,Syracuse,17,0
+748,13,"Nov 20, 2021",Florida Int'l,7,North Texas,49,0
+749,13,"Nov 20, 2021",Notre Dame,55,Georgia Tech,0,0
+750,13,"Nov 20, 2021",Michigan State,7,Ohio State,56,1
+751,13,"Nov 20, 2021",Oklahoma,28,Iowa State,21,0
+752,13,"Nov 20, 2021",Oklahoma State,23,Texas Tech,0,1
+753,13,"Nov 20, 2021",Old Dominion,24,Middle Tennessee,17,1
+754,13,"Nov 20, 2021",Oregon State,24,Arizona State,10,0
+755,13,"Nov 20, 2021",Penn State,28,Rutgers,0,0
+756,13,"Nov 20, 2021",Pitt,48,Virginia,38,0
+757,13,"Nov 20, 2021",Purdue,32,Northwestern,14,0
+758,13,"Nov 20, 2021",South Carolina,21,Auburn,17,0
+759,13,"Nov 20, 2021",Tennessee,60,South Alabama,14,0
+760,13,"Nov 20, 2021",Texas A&M,52,Prairie View A&M,3,0
+761,13,"Nov 20, 2021",TCU,31,Kansas,28,0
+762,13,"Nov 20, 2021",UTEP,38,Rice,28,0
+763,13,"Nov 20, 2021",UTSA,34,UAB,31,0
+764,13,"Nov 20, 2021",Tulane,45,South Florida,14,0
+765,13,"Nov 20, 2021",Tulsa,44,Temple,10,0
+766,13,"Nov 20, 2021",UCLA,62,USC,33,1
+767,13,"Nov 20, 2021",Oregon,7,Utah,38,1
+768,13,"Nov 20, 2021",West Virginia,31,Texas,23,0
+769,13,"Nov 20, 2021",Western Kentucky,52,Florida Atlantic,17,0
+770,13,"Nov 20, 2021",Wisconsin,35,Nebraska,28,0
+771,13,"Nov 20, 2021",Wyoming,44,Utah State,17,1
+772,14,"Nov 23, 2021",Buffalo,3,Ball State,20,1
+773,14,"Nov 23, 2021",Western Michigan,42,Northern Illinois,21,1
+774,14,"Nov 25, 2021",San Jose State,9,Fresno State,40,0
+775,14,"Nov 25, 2021",Ole Miss,31,Mississippi State,21,1
+776,14,"Nov 26, 2021",Air Force,48,UNLV,14,0
+777,14,"Nov 26, 2021",UAB,42,UTEP,25,0
+778,14,"Nov 26, 2021",Arkansas,34,Missouri,17,0
+779,14,"Nov 26, 2021",Bowling Green,21,Ohio,10,0
+780,14,"Nov 26, 2021",UCF,17,South Florida,13,0
+781,14,"Nov 26, 2021",Central Michigan,31,Eastern Michigan,10,0
+782,14,"Nov 26, 2021",Cincinnati,35,East Carolina,13,1
+783,14,"Nov 26, 2021",Coastal Carolina,27,South Alabama,21,1
+784,14,"Nov 26, 2021",Iowa,28,Nebraska,21,1
+785,14,"Nov 26, 2021",Iowa State,48,TCU,14,0
+786,14,"Nov 26, 2021",NC State,34,North Carolina,30,0
+787,14,"Nov 26, 2021",San Diego State,27,Boise State,16,0
+788,14,"Nov 26, 2021",Texas,22,Kansas State,17,0
+789,14,"Nov 26, 2021",Utah,28,Colorado,13,0
+790,14,"Nov 26, 2021",Utah State,35,New Mexico,10,1
+791,14,"Nov 26, 2021",Washington State,40,Washington,13,1
+792,14,"Nov 27, 2021",Alabama,24,Auburn,22,1
+793,14,"Nov 27, 2021",Georgia Southern,3,Appalachian State,27,1
+794,14,"Nov 27, 2021",Arizona State,38,Arizona,15,0
+795,14,"Nov 27, 2021",Army,31,Liberty,16,1
+796,14,"Nov 27, 2021",Baylor,27,Texas Tech,24,0
+797,14,"Nov 27, 2021",BYU,35,USC,31,1
+798,14,"Nov 27, 2021",Clemson,30,South Carolina,0,1
+799,14,"Nov 27, 2021",Florida,24,Florida State,21,0
+800,14,"Nov 27, 2021",Georgia,45,Georgia Tech,0,1
+801,14,"Nov 27, 2021",Georgia State,37,Troy,10,0
+802,14,"Nov 27, 2021",Hawaii,38,Wyoming,14,1
+803,14,"Nov 27, 2021",Houston,45,Connecticut,17,1
+804,14,"Nov 27, 2021",Illinois,47,Northwestern,14,0
+805,14,"Nov 27, 2021",Kent State,48,Miami (OH),47,0
+806,14,"Nov 27, 2021",Kentucky,52,Louisville,21,1
+807,14,"Nov 27, 2021",Louisiana,21,Louisiana-Monroe,16,0
+808,14,"Nov 27, 2021",LSU,27,Texas A&M,24,0
+809,14,"Nov 27, 2021",Maryland,40,Rutgers,16,1
+810,14,"Nov 27, 2021",Memphis,33,Tulane,28,0
+811,14,"Nov 27, 2021",Miami,47,Duke,10,1
+812,14,"Nov 27, 2021",Michigan,42,Ohio State,27,0
+813,14,"Nov 27, 2021",Michigan State,30,Penn State,27,0
+814,14,"Nov 27, 2021",Middle Tennessee,27,Florida Atlantic,17,1
+815,14,"Nov 27, 2021",Minnesota,23,Wisconsin,13,0
+816,14,"Nov 27, 2021",Navy,38,Temple,14,1
+817,14,"Nov 27, 2021",Nevada,52,Colorado State,10,1
+818,14,"Nov 27, 2021",New Mexico State,44,Massachusetts,27,0
+819,14,"Nov 27, 2021",North Texas,45,UTSA,23,0
+820,14,"Nov 27, 2021",Notre Dame,45,Stanford,14,1
+821,14,"Nov 27, 2021",Oklahoma State,37,Oklahoma,33,0
+822,14,"Nov 27, 2021",Old Dominion,56,Charlotte,34,0
+823,14,"Nov 27, 2021",Oregon,38,Oregon State,29,0
+824,14,"Nov 27, 2021",Pitt,31,Syracuse,14,1
+825,14,"Nov 27, 2021",Indiana,7,Purdue,44,1
+826,14,"Nov 27, 2021",Rice,35,Louisiana Tech,31,0
+827,14,"Nov 27, 2021",Southern Miss,37,Florida Int'l,17,0
+828,14,"Nov 27, 2021",Tennessee,45,Vanderbilt,21,0
+829,14,"Nov 27, 2021",Texas State,24,Arkansas State,22,1
+830,14,"Nov 27, 2021",Toledo,49,Akron,14,0
+831,14,"Nov 27, 2021",Tulsa,34,SMU,31,1
+832,14,"Nov 27, 2021",UCLA,42,California,14,0
+833,14,"Nov 27, 2021",Virginia Tech,29,Virginia,24,1
+834,14,"Nov 27, 2021",Wake Forest,41,Boston College,10,1
+835,14,"Nov 27, 2021",West Virginia,34,Kansas,28,1
+836,14,"Nov 27, 2021",Western Kentucky,53,Marshall,21,1
+837,15,"Dec 3, 2021",UTSA,49,Western Kentucky,41,0
+838,15,"Dec 3, 2021",Utah,38,Oregon,10,0
+839,15,"Dec 4, 2021",Alabama,41,Georgia,24,0
+840,15,"Dec 4, 2021",Baylor,21,Oklahoma State,16,0
+841,15,"Dec 4, 2021",California,24,USC,14,0
+842,15,"Dec 4, 2021",Cincinnati,35,Houston,20,0
+843,15,"Dec 4, 2021",Louisiana,24,Appalachian State,16,0
+844,15,"Dec 4, 2021",Michigan,42,Iowa,3,0
+845,15,"Dec 4, 2021",Northern Illinois,41,Kent State,23,0
+846,15,"Dec 4, 2021",Pitt,45,Wake Forest,21,0
+847,15,"Dec 4, 2021",Utah State,46,San Diego State,13,1
+848,16,"Dec 11, 2021",Navy,17,Army,13,0
+849,17,"Dec 17, 2021",Coastal Carolina,47,Northern Illinois,41,0
+850,17,"Dec 17, 2021",Middle Tennessee,31,Toledo,24,0
+851,17,"Dec 18, 2021",UAB,31,BYU,28,0
+852,17,"Dec 18, 2021",Fresno State,31,UTEP,24,0
+853,17,"Dec 18, 2021",Liberty,56,Eastern Michigan,20,0
+854,17,"Dec 18, 2021",Louisiana,36,Marshall,21,0
+855,17,"Dec 18, 2021",Utah State,24,Oregon State,13,0
+856,17,"Dec 18, 2021",Western Kentucky,59,Appalachian State,38,0
+857,17,"Dec 20, 2021",Tulsa,30,Old Dominion,17,0
+858,18,"Dec 21, 2021",San Diego State,38,UTSA,24,0
+859,18,"Dec 21, 2021",Wyoming,52,Kent State,38,0
+860,18,"Dec 22, 2021",Army,24,Missouri,22,0
+861,18,"Dec 23, 2021",Army,24,Missouri,22,0
+862,18,"Dec 23, 2021",UCF,29,Florida,17,0
+863,18,"Dec 23, 2021",Miami (OH),27,North Texas,14,0
+864,18,"Dec 25, 2021",Georgia State,51,Ball State,20,0
+865,18,"Dec 27, 2021",Western Michigan,52,Nevada,24,0
+866,19,"Dec 28, 2021",Air Force,31,Louisville,28,0
+867,19,"Dec 28, 2021",Houston,17,Auburn,13,0
+868,19,"Dec 28, 2021",West Virginia,6,Minnesota,18,1
+869,19,"Dec 28, 2021",Mississippi State,7,Texas Tech,34,1
+870,19,"Dec 29, 2021",Clemson,20,Iowa State,13,0
+871,19,"Dec 29, 2021",Maryland,54,Virginia Tech,10,0
+872,19,"Dec 29, 2021",Oklahoma,47,Oregon,32,0
+873,19,"Dec 30, 2021",Michigan State,31,Pitt,21,0
+874,19,"Dec 30, 2021",Purdue,48,Tennessee,45,0
+875,19,"Dec 30, 2021",South Carolina,38,North Carolina,21,0
+876,19,"Dec 30, 2021",Wisconsin,20,Arizona State,13,0
+877,19,"Dec 31, 2021",Cincinnati,6,Alabama,27,1
+878,19,"Dec 31, 2021",Central Michigan,24,Washington State,21,0
+879,19,"Dec 31, 2021",Georgia,34,Michigan,11,0
+880,19,"Dec 31, 2021",Wake Forest,38,Rutgers,10,0
+881,19,"Jan 1, 2022",Arkansas,24,Penn State,10,0
+882,19,"Jan 1, 2022",Ole Miss,7,Baylor,21,1
+883,19,"Jan 1, 2022",Kentucky,20,Iowa,17,0
+884,19,"Jan 1, 2022",Ohio State,48,Utah,45,0
+885,19,"Jan 1, 2022",Oklahoma State,37,Notre Dame,35,0
+886,20,"Jan 4, 2022",Kansas State,42,LSU,20,0
+887,20,"Jan 10, 2022",Georgia,33,Alabama,18,0

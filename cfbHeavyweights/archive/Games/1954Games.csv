@@ -1,0 +1,586 @@
+0,1,"Sep 17, 1954",Newberry,6,Furman,19,1
+1,1,"Sep 17, 1954",Ole Miss,35,North Texas,12,0
+2,1,"Sep 17, 1954",USC,39,Washington State,0,0
+3,1,"Sep 17, 1954",Southern Miss,7,Alabama,2,1
+4,1,"Sep 17, 1954",Stanford,13,Pacific,12,1
+5,1,"Sep 18, 1954",Arizona,58,New Mexico State,0,0
+6,1,"Sep 18, 1954",Arizona State,28,Hawaii,14,0
+7,1,"Sep 18, 1954",Baylor,53,Houston,13,0
+8,1,"Sep 18, 1954",Cincinnati,21,Detroit Mercy,13,1
+9,1,"Sep 18, 1954",Clemson,33,Presbyterian,0,0
+10,1,"Sep 18, 1954",Colorado,61,Drake,0,0
+11,1,"Sep 18, 1954",Davidson,19,Virginia Military Institute,0,1
+12,1,"Sep 18, 1954",Denver,72,Colorado College,0,1
+13,1,"Sep 18, 1954",Georgia,14,Florida State,0,1
+14,1,"Sep 18, 1954",Georgia Tech,28,Tulane,0,0
+15,1,"Sep 18, 1954",Hardin-Simmons,21,Tulsa,14,1
+16,1,"Sep 18, 1954",South Dakota State,6,Iowa State,34,1
+17,1,"Sep 18, 1954",Kansas State,29,Colorado State,0,0
+18,1,"Sep 18, 1954",Maryland,20,Kentucky,0,1
+19,1,"Sep 18, 1954",McMurry,19,West Texas State,18,1
+20,1,"Sep 18, 1954",Memphis,7,Mississippi State,27,1
+21,1,"Sep 18, 1954",New Mexico,21,BYU,12,1
+22,1,"Sep 18, 1954",Oklahoma,27,California,13,1
+23,1,"Sep 18, 1954",Wyoming,6,Oklahoma State,14,0
+24,1,"Sep 18, 1954",Oregon,41,Idaho,0,1
+25,1,"Sep 18, 1954",Rice,34,Florida,14,0
+26,1,"Sep 18, 1954",Richmond,46,Randolph-Macon,0,0
+27,1,"Sep 18, 1954",San Jose State,20,Utah State,0,0
+28,1,"Sep 18, 1954",LSU,6,Texas,20,1
+29,1,"Sep 18, 1954",Kansas,6,TCU,27,0
+30,1,"Sep 18, 1954",Texas A&M,9,Texas Tech,41,0
+31,1,"Sep 18, 1954",UTEP,35,Sul Ross State,14,0
+32,1,"Sep 18, 1954",UCLA,67,San Diego Navy,0,0
+33,1,"Sep 18, 1954",Virginia Tech,30,NC State,21,0
+34,1,"Sep 18, 1954",Wake Forest,14,George Washington,0,0
+35,1,"Sep 18, 1954",Washington,7,Utah,6,0
+36,1,"Sep 18, 1954",Emporia State,7,Wichita State,69,1
+37,1,"Sep 19, 1954",San Jose State,28,Fresno State,0,0
+38,2,"Sep 24, 1954",Arizona State,28,BYU,19,1
+39,2,"Sep 24, 1954",Miami,51,Furman,13,0
+40,2,"Sep 24, 1954",Richmond,40,Hampden-Sydney,0,0
+41,2,"Sep 24, 1954",Pitt,7,USC,27,1
+42,2,"Sep 25, 1954",Abilene Christian,13,Florida State,0,1
+43,2,"Sep 25, 1954",Alabama,12,LSU,0,1
+44,2,"Sep 25, 1954",Arizona,54,Utah,20,1
+45,2,"Sep 25, 1954",Arkansas,41,Tulsa,0,0
+46,2,"Sep 25, 1954",Auburn,45,Chattanooga,0,0
+47,2,"Sep 25, 1954",Baylor,25,Vanderbilt,19,1
+48,2,"Sep 25, 1954",Detroit Mercy,7,Boston College,12,0
+49,2,"Sep 25, 1954",Boston University,33,Brandeis,0,0
+50,2,"Sep 25, 1954",Columbia,7,Brown,18,1
+51,2,"Sep 25, 1954",California,45,San Jose State,0,0
+52,2,"Sep 25, 1954",Cincinnati,42,Dayton,13,0
+53,2,"Sep 25, 1954",Citadel,21,Elon,13,0
+54,2,"Sep 25, 1954",Colgate,19,Cornell,14,1
+55,2,"Sep 25, 1954",Colorado,46,Colorado State,0,0
+56,2,"Sep 25, 1954",Dartmouth,27,Holy Cross,26,0
+57,2,"Sep 25, 1954",Davidson,19,Stetson,13,0
+58,2,"Sep 25, 1954",Denver,33,Drake,13,1
+59,2,"Sep 25, 1954",Duke,52,Pennsylvania,0,1
+60,2,"Sep 25, 1954",Florida,13,Georgia Tech,12,1
+61,2,"Sep 25, 1954",Clemson,7,Georgia,14,1
+62,2,"Sep 25, 1954",Hardin-Simmons,27,New Mexico State,0,1
+63,2,"Sep 25, 1954",Iowa,14,Michigan State,10,0
+64,2,"Sep 25, 1954",Kansas State,21,Wyoming,13,1
+65,2,"Sep 25, 1954",Tulane,13,Memphis,13,0
+66,2,"Sep 25, 1954",Michigan,14,Washington,0,1
+67,2,"Sep 25, 1954",Nebraska,7,Minnesota,19,1
+68,2,"Sep 25, 1954",Kentucky,9,Ole Miss,28,1
+69,2,"Sep 25, 1954",Fort Lewis Army,7,Montana,31,1
+70,2,"Sep 25, 1954",Navy,27,William & Mary,0,0
+71,2,"Sep 25, 1954",San Diego State,7,New Mexico,28,0
+72,2,"Sep 25, 1954",NC State,6,North Carolina,20,1
+73,2,"Sep 25, 1954",Northwestern,27,Iowa State,14,0
+74,2,"Sep 25, 1954",Notre Dame,21,Texas,0,0
+75,2,"Sep 25, 1954",Ohio State,28,Indiana,0,0
+76,2,"Sep 25, 1954",Oklahoma,21,TCU,16,0
+77,2,"Sep 25, 1954",Texas A&M,6,Oklahoma State,14,0
+78,2,"Sep 25, 1954",Oregon State,13,Idaho,0,0
+79,2,"Sep 25, 1954",Penn State,14,Illinois,12,1
+80,2,"Sep 25, 1954",Rutgers,8,Princeton,10,1
+81,2,"Sep 25, 1954",Purdue,31,Missouri,0,0
+82,2,"Sep 25, 1954",South Carolina,34,Army,20,1
+83,2,"Sep 25, 1954",Stanford,18,Oregon,13,1
+84,2,"Sep 25, 1954",Villanova,6,Syracuse,28,1
+85,2,"Sep 25, 1954",Mississippi State,7,Tennessee,19,1
+86,2,"Sep 25, 1954",West Texas State,7,Texas Tech,33,1
+87,2,"Sep 25, 1954",McMurry,6,UTEP,27,1
+88,2,"Sep 25, 1954",Kansas,7,UCLA,32,0
+89,2,"Sep 25, 1954",Virginia,27,Lehigh,21,0
+90,2,"Sep 25, 1954",Virginia Military Institute,16,George Washington,14,1
+91,2,"Sep 25, 1954",Virginia Tech,32,Wake Forest,0,0
+92,2,"Sep 25, 1954",Washington State,18,Pacific,0,0
+93,2,"Sep 25, 1954",Utah State,7,Wichita State,32,1
+94,2,"Sep 25, 1954",Wisconsin,52,Marquette,14,0
+95,2,"Sep 25, 1954",Yale,27,Connecticut,0,0
+96,3,"Oct 1, 1954",Furman,27,Presbyterian,0,0
+97,3,"Oct 1, 1954",Miami,19,Baylor,13,0
+98,3,"Oct 1, 1954",Quantico Marines,20,Detroit Mercy,0,1
+99,3,"Oct 1, 1954",Maryland,7,UCLA,12,1
+100,3,"Oct 1, 1954",Drake,6,Wichita State,54,0
+101,3,"Oct 2, 1954",Alabama,28,Vanderbilt,14,0
+102,3,"Oct 2, 1954",Arizona State,34,UTEP,27,0
+103,3,"Oct 2, 1954",Arkansas,20,TCU,13,1
+104,3,"Oct 2, 1954",Michigan,7,Army,26,0
+105,3,"Oct 2, 1954",Temple,9,Boston College,12,0
+106,3,"Oct 2, 1954",Boston University,41,Connecticut,13,1
+107,3,"Oct 2, 1954",Tulsa,7,Cincinnati,40,1
+108,3,"Oct 2, 1954",Colgate,18,Holy Cross,0,1
+109,3,"Oct 2, 1954",Colorado,27,Kansas,0,1
+110,3,"Oct 2, 1954",Colorado State,14,BYU,13,0
+111,3,"Oct 2, 1954",Davidson,13,Citadel,0,1
+112,3,"Oct 2, 1954",Duke,7,Tennessee,6,0
+113,3,"Oct 2, 1954",Florida,19,Auburn,13,0
+114,3,"Oct 2, 1954",Louisville,6,Florida State,47,0
+115,3,"Oct 2, 1954",Rutgers,7,Fordham,13,0
+116,3,"Oct 2, 1954",SMU,7,Georgia Tech,10,0
+117,3,"Oct 2, 1954",Pacific,6,Indiana,34,1
+118,3,"Oct 2, 1954",Montana,6,Iowa,48,1
+119,3,"Oct 2, 1954",Kentucky,7,LSU,6,0
+120,3,"Oct 2, 1954",Harvard,7,Massachusetts,13,0
+121,3,"Oct 2, 1954",Miami (OH),27,Marquette,26,1
+122,3,"Oct 2, 1954",West Texas State,7,Midwestern Texas State,14,0
+123,3,"Oct 2, 1954",Pitt,7,Minnesota,46,0
+124,3,"Oct 2, 1954",Ole Miss,52,Villanova,0,1
+125,3,"Oct 2, 1954",Mississippi State,46,Arkansas State,13,0
+126,3,"Oct 2, 1954",Kansas State,7,Missouri,35,0
+127,3,"Oct 2, 1954",Dartmouth,7,Navy,42,0
+128,3,"Oct 2, 1954",Nebraska,39,Iowa State,14,0
+129,3,"Oct 2, 1954",Tulane,7,North Carolina,7,0
+130,3,"Oct 2, 1954",Southern Miss,7,North Texas,15,1
+131,3,"Oct 2, 1954",Ohio State,21,California,13,0
+132,3,"Oct 2, 1954",Texas Tech,13,Oklahoma State,13,0
+133,3,"Oct 2, 1954",Penn State,13,Syracuse,0,1
+134,3,"Oct 2, 1954",Princeton,54,Columbia,20,1
+135,3,"Oct 2, 1954",Purdue,27,Notre Dame,14,1
+136,3,"Oct 2, 1954",Rice,41,Cornell,20,0
+137,3,"Oct 2, 1954",Idaho,7,San Jose State,38,0
+138,3,"Oct 2, 1954",Northwestern,7,USC,12,0
+139,3,"Oct 2, 1954",Illinois,2,Stanford,12,1
+140,3,"Oct 2, 1954",Sul Ross State,42,New Mexico State,18,0
+141,3,"Oct 2, 1954",Texas,40,Washington State,14,0
+142,3,"Oct 2, 1954",Texas A&M,6,Georgia,0,1
+143,3,"Oct 2, 1954",Trinity (Texas),14,Hardin-Simmons,0,1
+144,3,"Oct 2, 1954",Utah,7,Oregon,6,1
+145,3,"Oct 2, 1954",Utah State,6,New Mexico,0,1
+146,3,"Oct 2, 1954",Virginia,14,George Washington,13,0
+147,3,"Oct 2, 1954",Richmond,6,Virginia Military Institute,19,0
+148,3,"Oct 2, 1954",Clemson,7,Virginia Tech,18,0
+149,3,"Oct 2, 1954",Wake Forest,26,NC State,0,0
+150,3,"Oct 2, 1954",Oregon State,7,Washington,17,0
+151,3,"Oct 2, 1954",South Carolina,6,West Virginia,26,0
+152,3,"Oct 2, 1954",Pennsylvania,7,William & Mary,27,0
+153,3,"Oct 2, 1954",Wisconsin,6,Michigan State,0,1
+154,3,"Oct 2, 1954",Wyoming,23,Denver,21,0
+155,3,"Oct 2, 1954",Yale,26,Brown,24,0
+156,4,"Oct 8, 1954",Denver,19,Montana,13,0
+157,4,"Oct 8, 1954",Miami,26,Holy Cross,20,0
+158,4,"Oct 8, 1954",Davidson,7,Presbyterian,10,1
+159,4,"Oct 8, 1954",USC,7,TCU,20,0
+160,4,"Oct 9, 1954",Alabama,40,Tulsa,0,0
+161,4,"Oct 9, 1954",Arkansas,21,Baylor,20,0
+162,4,"Oct 9, 1954",Army,60,Dartmouth,6,0
+163,4,"Oct 9, 1954",Boston College,44,Virginia Military Institute,0,0
+164,4,"Oct 9, 1954",Boston University,55,Fordham,20,0
+165,4,"Oct 9, 1954",Brown,35,Rhode Island,0,0
+166,4,"Oct 9, 1954",Cincinnati,30,Marquette,13,1
+167,4,"Oct 9, 1954",Florida,7,Clemson,14,0
+168,4,"Oct 9, 1954",Colgate,26,Rutgers,14,0
+169,4,"Oct 9, 1954",Colorado,40,Arizona,18,1
+170,4,"Oct 9, 1954",Drake,14,Northern Iowa,12,1
+171,4,"Oct 9, 1954",Purdue,13,Duke,13,0
+172,4,"Oct 9, 1954",Florida State,52,Villanova,13,0
+173,4,"Oct 9, 1954",Fresno State,23,Utah State,13,0
+174,4,"Oct 9, 1954",North Carolina,7,Georgia,21,0
+175,4,"Oct 9, 1954",Georgia Tech,30,LSU,20,0
+176,4,"Oct 9, 1954",Harvard,13,Cornell,12,1
+177,4,"Oct 9, 1954",Texas A&M,7,Houston,10,1
+178,4,"Oct 9, 1954",New Mexico State,7,Howard Payne,34,0
+179,4,"Oct 9, 1954",Kansas,6,Iowa State,33,1
+180,4,"Oct 9, 1954",Kansas State,7,Nebraska,3,1
+181,4,"Oct 9, 1954",Kentucky,21,Auburn,14,0
+182,4,"Oct 9, 1954",Wake Forest,13,Maryland,13,0
+183,4,"Oct 9, 1954",Michigan,14,Iowa,13,0
+184,4,"Oct 9, 1954",Michigan State,21,Indiana,14,1
+185,4,"Oct 9, 1954",Northwestern,7,Minnesota,26,1
+186,4,"Oct 9, 1954",Vanderbilt,7,Ole Miss,22,0
+187,4,"Oct 9, 1954",Mississippi State,14,Tulane,0,1
+188,4,"Oct 9, 1954",Navy,25,Stanford,0,1
+189,4,"Oct 9, 1954",NC State,26,William & Mary,0,1
+190,4,"Oct 9, 1954",Hardin-Simmons,7,North Texas,20,1
+191,4,"Oct 9, 1954",Notre Dame,33,Pitt,0,1
+192,4,"Oct 9, 1954",Illinois,7,Ohio State,40,0
+193,4,"Oct 9, 1954",Texas,7,Oklahoma,14,1
+194,4,"Oct 9, 1954",Oregon,33,California,27,1
+195,4,"Oct 9, 1954",Pacific,13,Idaho,0,0
+196,4,"Oct 9, 1954",Virginia,7,Penn State,34,1
+197,4,"Oct 9, 1954",Pennsylvania,7,Princeton,13,1
+198,4,"Oct 9, 1954",Richmond,26,Citadel,0,1
+199,4,"Oct 9, 1954",San Jose State,19,Arizona State,12,1
+200,4,"Oct 9, 1954",Furman,7,South Carolina,27,0
+201,4,"Oct 9, 1954",Missouri,6,SMU,25,0
+202,4,"Oct 9, 1954",Tennessee,20,Chattanooga,14,0
+203,4,"Oct 9, 1954",Texas Tech,55,UTEP,28,0
+204,4,"Oct 9, 1954",UCLA,21,Washington,20,1
+205,4,"Oct 9, 1954",BYU,7,Utah,12,0
+206,4,"Oct 9, 1954",Oregon State,6,Washington State,34,1
+207,4,"Oct 9, 1954",George Washington,7,West Virginia,13,1
+208,4,"Oct 9, 1954",Wichita State,22,Oklahoma State,13,0
+209,4,"Oct 9, 1954",Rice,7,Wisconsin,13,1
+210,4,"Oct 9, 1954",Wyoming,34,Colorado State,0,1
+211,4,"Oct 9, 1954",Columbia,7,Yale,13,0
+212,5,"Oct 15, 1954",Chattanooga,20,North Texas,19,0
+213,5,"Oct 15, 1954",Detroit Mercy,20,Villanova,0,0
+214,5,"Oct 15, 1954",Miami,27,Mississippi State,13,0
+215,5,"Oct 16, 1954",Alabama,27,Tennessee,0,1
+216,5,"Oct 16, 1954",Arizona,35,Idaho,13,0
+217,5,"Oct 16, 1954",Texas,7,Arkansas,20,0
+218,5,"Oct 16, 1954",Army,28,Duke,14,1
+219,5,"Oct 16, 1954",Washington,7,Baylor,34,1
+220,5,"Oct 16, 1954",Fordham,7,Boston College,21,0
+221,5,"Oct 16, 1954",Boston University,41,Syracuse,19,0
+222,5,"Oct 16, 1954",Brown,21,Princeton,20,0
+223,5,"Oct 16, 1954",Washington State,7,California,17,1
+224,5,"Oct 16, 1954",Cincinnati,27,Hardin-Simmons,13,0
+225,5,"Oct 16, 1954",Dartmouth,7,Colgate,13,0
+226,5,"Oct 16, 1954",Colorado,20,Iowa State,0,1
+227,5,"Oct 16, 1954",Columbia,7,Harvard,6,1
+228,5,"Oct 16, 1954",Denver,28,Utah,20,1
+229,5,"Oct 16, 1954",Kentucky,7,Florida,21,1
+230,5,"Oct 16, 1954",NC State,7,Florida State,13,0
+231,5,"Oct 16, 1954",Furman,31,Citadel,20,0
+232,5,"Oct 16, 1954",George Washington,32,Pennsylvania,27,1
+233,5,"Oct 16, 1954",Georgia,16,Vanderbilt,14,0
+234,5,"Oct 16, 1954",Auburn,7,Georgia Tech,14,1
+235,5,"Oct 16, 1954",Oklahoma State,7,Houston,14,0
+236,5,"Oct 16, 1954",Kansas State,20,Tulsa,13,1
+237,5,"Oct 16, 1954",LSU,20,Texas Tech,13,0
+238,5,"Oct 16, 1954",Marquette,19,Holy Cross,14,1
+239,5,"Oct 16, 1954",Maryland,33,North Carolina,0,0
+240,5,"Oct 16, 1954",Michigan,7,Northwestern,0,1
+241,5,"Oct 16, 1954",Arizona State,7,Midwestern Texas State,14,1
+242,5,"Oct 16, 1954",Illinois,6,Minnesota,19,1
+243,5,"Oct 16, 1954",Tulane,7,Ole Miss,34,1
+244,5,"Oct 16, 1954",Missouri,20,Indiana,14,0
+245,5,"Oct 16, 1954",Montana,20,Utah State,13,0
+246,5,"Oct 16, 1954",Oregon State,7,Nebraska,27,1
+247,5,"Oct 16, 1954",Notre Dame,20,Michigan State,19,0
+248,5,"Oct 16, 1954",Ohio State,20,Iowa,14,0
+249,5,"Oct 16, 1954",Oklahoma,65,Kansas,0,1
+250,5,"Oct 16, 1954",Colorado State,7,Pacific,15,0
+251,5,"Oct 16, 1954",Pitt,21,Navy,19,0
+252,5,"Oct 16, 1954",South Dakota,33,Drake,26,0
+253,5,"Oct 16, 1954",USC,24,Oregon,14,1
+254,5,"Oct 16, 1954",Rice,6,SMU,20,0
+255,5,"Oct 16, 1954",TCU,21,Texas A&M,20,1
+256,5,"Oct 16, 1954",Trinity (Texas),20,UTEP,14,1
+257,5,"Oct 16, 1954",UCLA,72,Stanford,0,0
+258,5,"Oct 16, 1954",Virginia,21,Virginia Military Institute,0,0
+259,5,"Oct 16, 1954",Virginia Tech,19,Richmond,12,1
+260,5,"Oct 16, 1954",New Mexico State,7,West Texas State,41,1
+261,5,"Oct 16, 1954",West Virginia,19,Penn State,14,1
+262,5,"Oct 16, 1954",Rutgers,7,William & Mary,14,0
+263,5,"Oct 16, 1954",Purdue,6,Wisconsin,20,1
+264,5,"Oct 16, 1954",Wyoming,9,New Mexico,7,0
+265,5,"Oct 16, 1954",Yale,47,Cornell,21,0
+266,6,"Oct 21, 1954",Clemson,8,South Carolina,13,1
+267,6,"Oct 22, 1954",Denver,27,Wichita State,14,0
+268,6,"Oct 22, 1954",Detroit Mercy,28,Tulsa,18,0
+269,6,"Oct 22, 1954",Davidson,7,Furman,19,1
+270,6,"Oct 22, 1954",Villanova,7,Houston,28,0
+271,6,"Oct 22, 1954",Miami,9,Maryland,7,0
+272,6,"Oct 22, 1954",George Washington,13,William & Mary,13,0
+273,6,"Oct 23, 1954",New Mexico,7,Arizona,41,0
+274,6,"Oct 23, 1954",Arizona State,21,West Texas State,14,0
+275,6,"Oct 23, 1954",Arkansas,6,Ole Miss,0,0
+276,6,"Oct 23, 1954",Army,67,Columbia,12,1
+277,6,"Oct 23, 1954",Auburn,33,Florida State,0,0
+278,6,"Oct 23, 1954",Texas A&M,7,Baylor,20,1
+279,6,"Oct 23, 1954",Springfield,6,Boston College,42,1
+280,6,"Oct 23, 1954",Drake,7,Bradley,14,0
+281,6,"Oct 23, 1954",Montana,7,BYU,19,1
+282,6,"Oct 23, 1954",Cincinnati,33,Xavier,0,0
+283,6,"Oct 23, 1954",Yale,13,Colgate,13,0
+284,6,"Oct 23, 1954",Cornell,27,Princeton,0,1
+285,6,"Oct 23, 1954",Harvard,7,Dartmouth,13,0
+286,6,"Oct 23, 1954",NC State,7,Duke,21,0
+287,6,"Oct 23, 1954",Marquette,14,Fordham,14,0
+288,6,"Oct 23, 1954",Georgia,7,Tulane,0,1
+289,6,"Oct 23, 1954",Oklahoma State,7,Hardin-Simmons,13,1
+290,6,"Oct 23, 1954",Holy Cross,14,Boston University,13,0
+291,6,"Oct 23, 1954",Idaho,10,Washington State,0,1
+292,6,"Oct 23, 1954",Syracuse,6,Illinois,34,1
+293,6,"Oct 23, 1954",Iowa,27,Indiana,14,1
+294,6,"Oct 23, 1954",Georgia Tech,6,Kentucky,13,0
+295,6,"Oct 23, 1954",Lehigh,33,Rutgers,13,0
+296,6,"Oct 23, 1954",Florida,7,LSU,20,1
+297,6,"Oct 23, 1954",Michigan,34,Minnesota,0,0
+298,6,"Oct 23, 1954",Alabama,7,Mississippi State,12,0
+299,6,"Oct 23, 1954",Missouri,32,Iowa State,14,0
+300,6,"Oct 23, 1954",Pennsylvania,6,Navy,52,0
+301,6,"Oct 23, 1954",Colorado,6,Nebraska,20,0
+302,6,"Oct 23, 1954",Wake Forest,7,North Carolina,14,1
+303,6,"Oct 23, 1954",Ohio State,31,Wisconsin,14,0
+304,6,"Oct 23, 1954",Oklahoma,21,Kansas State,0,0
+305,6,"Oct 23, 1954",San Jose State,7,Oregon,26,1
+306,6,"Oct 23, 1954",Texas Tech,7,Pacific,20,1
+307,6,"Oct 23, 1954",Northwestern,7,Pitt,14,1
+308,6,"Oct 23, 1954",Presbyterian,20,Citadel,19,1
+309,6,"Oct 23, 1954",Purdue,27,Michigan State,13,1
+310,6,"Oct 23, 1954",Texas,7,Rice,13,1
+311,6,"Oct 23, 1954",New Mexico State,7,San Diego Marines,33,0
+312,6,"Oct 23, 1954",USC,29,California,27,0
+313,6,"Oct 23, 1954",SMU,36,Kansas,18,0
+314,6,"Oct 23, 1954",Washington,7,Stanford,13,1
+315,6,"Oct 23, 1954",Temple,19,Brown,14,1
+316,6,"Oct 23, 1954",Dayton,7,Tennessee,14,1
+317,6,"Oct 23, 1954",Penn State,7,TCU,20,1
+318,6,"Oct 23, 1954",UTEP,6,North Texas,0,1
+319,6,"Oct 23, 1954",UCLA,61,Oregon State,0,1
+320,6,"Oct 23, 1954",Wyoming,7,Utah,14,0
+321,6,"Oct 23, 1954",Utah State,20,Colorado State,14,0
+322,6,"Oct 23, 1954",Virginia Tech,6,Virginia,0,0
+323,6,"Oct 23, 1954",Virginia Military Institute,6,West Virginia,40,1
+324,7,"Oct 29, 1954",Citadel,14,Wofford,13,0
+325,7,"Oct 29, 1954",New Mexico,6,Denver,19,1
+326,7,"Oct 29, 1954",Marquette,14,Detroit Mercy,13,1
+327,7,"Oct 29, 1954",Miami,75,Fordham,7,0
+328,7,"Oct 29, 1954",Richmond,7,George Washington,0,1
+329,7,"Oct 30, 1954",Arizona,48,West Texas State,12,0
+330,7,"Oct 30, 1954",Arizona State,14,Hardin-Simmons,13,1
+331,7,"Oct 30, 1954",Texas A&M,7,Arkansas,14,0
+332,7,"Oct 30, 1954",Army,21,Virginia,20,0
+333,7,"Oct 30, 1954",Auburn,27,Tulane,0,0
+334,7,"Oct 30, 1954",TCU,7,Baylor,12,0
+335,7,"Oct 30, 1954",Bucknell,7,Boston University,20,1
+336,7,"Oct 30, 1954",Lehigh,6,Brown,34,0
+337,7,"Oct 30, 1954",Pacific,7,Cincinnati,13,1
+338,7,"Oct 30, 1954",Clemson,32,Wake Forest,20,0
+339,7,"Oct 30, 1954",Princeton,6,Colgate,6,0
+340,7,"Oct 30, 1954",Colorado State,37,Montana,34,0
+341,7,"Oct 30, 1954",Cornell,26,Columbia,0,1
+342,7,"Oct 30, 1954",West Virginia Tech,6,Davidson,51,1
+343,7,"Oct 30, 1954",Duke,21,Georgia Tech,20,0
+344,7,"Oct 30, 1954",Florida,7,Mississippi State,0,0
+345,7,"Oct 30, 1954",Florida State,33,Virginia Military Institute,19,1
+346,7,"Oct 30, 1954",Furman,7,NC State,6,1
+347,7,"Oct 30, 1954",Alabama,0,Georgia,0,0
+348,7,"Oct 30, 1954",Harvard,27,Ohio,13,0
+349,7,"Oct 30, 1954",Idaho,14,Utah,13,1
+350,7,"Oct 30, 1954",Michigan,9,Indiana,13,0
+351,7,"Oct 30, 1954",Wisconsin,7,Iowa,13,1
+352,7,"Oct 30, 1954",Iowa State,35,Drake,0,0
+353,7,"Oct 30, 1954",Kansas,6,Kansas State,28,1
+354,7,"Oct 30, 1954",Villanova,3,Kentucky,28,1
+355,7,"Oct 30, 1954",Maryland,20,South Carolina,0,1
+356,7,"Oct 30, 1954",Minnesota,19,Michigan State,13,0
+357,7,"Oct 30, 1954",LSU,6,Ole Miss,21,0
+358,7,"Oct 30, 1954",Nebraska,25,Missouri,19,0
+359,7,"Oct 30, 1954",Notre Dame,6,Navy,0,1
+360,7,"Oct 30, 1954",Northwestern,7,Ohio State,14,0
+361,7,"Oct 30, 1954",Colorado,6,Oklahoma,13,0
+362,7,"Oct 30, 1954",Oklahoma State,12,Tulsa,0,1
+363,7,"Oct 30, 1954",Washington,7,Oregon,26,0
+364,7,"Oct 30, 1954",Penn State,35,Pennsylvania,13,1
+365,7,"Oct 30, 1954",Pitt,13,West Virginia,10,1
+366,7,"Oct 30, 1954",Purdue,28,Illinois,14,0
+367,7,"Oct 30, 1954",Rice,34,Vanderbilt,13,0
+368,7,"Oct 30, 1954",Rutgers,25,Temple,0,0
+369,7,"Oct 30, 1954",San Jose State,27,North Texas,20,1
+370,7,"Oct 30, 1954",USC,34,Oregon State,0,0
+371,7,"Oct 30, 1954",Texas,13,SMU,13,0
+372,7,"Oct 30, 1954",Syracuse,25,Holy Cross,20,0
+373,7,"Oct 30, 1954",Tennessee,26,North Carolina,20,0
+374,7,"Oct 30, 1954",New Mexico State,7,UTEP,12,0
+375,7,"Oct 30, 1954",California,6,UCLA,27,0
+376,7,"Oct 30, 1954",Utah State,45,BYU,13,0
+377,7,"Oct 30, 1954",Washington State,30,Stanford,26,1
+378,7,"Oct 30, 1954",Wichita State,9,Houston,7,0
+379,7,"Oct 30, 1954",Virginia Tech,7,William & Mary,7,0
+380,7,"Oct 30, 1954",Dartmouth,7,Yale,13,1
+381,7,"Oct 31, 1954",Xavier,19,Boston College,14,1
+382,8,"Nov 5, 1954",Marquette,7,Boston College,13,0
+383,8,"Nov 5, 1954",Virginia Tech,20,George Washington,13,1
+384,8,"Nov 6, 1954",Tulane,0,Alabama,0,0
+385,8,"Nov 6, 1954",Arkansas,28,Rice,15,0
+386,8,"Nov 6, 1954",Yale,7,Army,48,0
+387,8,"Nov 6, 1954",Auburn,14,Miami,13,0
+388,8,"Nov 6, 1954",Texas,7,Baylor,13,1
+389,8,"Nov 6, 1954",Villanova,6,Boston University,28,1
+390,8,"Nov 6, 1954",Springfield,7,Brown,40,1
+391,8,"Nov 6, 1954",Washington,6,California,27,0
+392,8,"Nov 6, 1954",Arizona State,7,Cincinnati,34,0
+393,8,"Nov 6, 1954",Furman,6,Clemson,27,1
+394,8,"Nov 6, 1954",Colgate,20,Bucknell,14,0
+395,8,"Nov 6, 1954",Missouri,19,Colorado,19,0
+396,8,"Nov 6, 1954",Colorado State,14,Utah,13,0
+397,8,"Nov 6, 1954",Syracuse,6,Cornell,14,1
+398,8,"Nov 6, 1954",Dartmouth,26,Columbia,0,0
+399,8,"Nov 6, 1954",Davidson,32,Catawba College,12,0
+400,8,"Nov 6, 1954",Denver,20,BYU,0,1
+401,8,"Nov 6, 1954",Georgia,14,Florida,13,0
+402,8,"Nov 6, 1954",Tennessee,7,Georgia Tech,28,1
+403,8,"Nov 6, 1954",Princeton,9,Harvard,14,0
+404,8,"Nov 6, 1954",Tulsa,7,Houston,20,1
+405,8,"Nov 6, 1954",Iowa,25,Purdue,14,0
+406,8,"Nov 6, 1954",Kansas State,53,Drake,18,1
+407,8,"Nov 6, 1954",Vanderbilt,7,Kentucky,19,1
+408,8,"Nov 6, 1954",LSU,26,Chattanooga,19,0
+409,8,"Nov 6, 1954",Maryland,42,NC State,14,0
+410,8,"Nov 6, 1954",Miami (OH),6,Indiana,0,1
+411,8,"Nov 6, 1954",Illinois,7,Michigan,14,1
+412,8,"Nov 6, 1954",Washington State,6,Michigan State,54,1
+413,8,"Nov 6, 1954",Oregon State,6,Minnesota,44,1
+414,8,"Nov 6, 1954",Ole Miss,51,Memphis,0,1
+415,8,"Nov 6, 1954",Mississippi State,48,North Texas,26,0
+416,8,"Nov 6, 1954",Duke,7,Navy,40,1
+417,8,"Nov 6, 1954",Nebraska,41,Kansas,20,1
+418,8,"Nov 6, 1954",New Mexico,20,Montana,14,0
+419,8,"Nov 6, 1954",Newberry,20,Citadel,14,1
+420,8,"Nov 6, 1954",North Carolina,21,South Carolina,19,0
+421,8,"Nov 6, 1954",Pennsylvania,7,Notre Dame,42,0
+422,8,"Nov 6, 1954",Ohio State,26,Pitt,0,0
+423,8,"Nov 6, 1954",Oklahoma,40,Iowa State,0,1
+424,8,"Nov 6, 1954",Oklahoma State,34,Detroit Mercy,19,0
+425,8,"Nov 6, 1954",San Jose State,7,Pacific,13,1
+426,8,"Nov 6, 1954",Holy Cross,7,Penn State,39,1
+427,8,"Nov 6, 1954",Richmond,13,Wake Forest,0,0
+428,8,"Nov 6, 1954",Rutgers,7,Lafayette,0,0
+429,8,"Nov 6, 1954",Stanford,7,USC,21,0
+430,8,"Nov 6, 1954",SMU,6,Texas A&M,3,0
+431,8,"Nov 6, 1954",Texas Tech,28,Arizona,14,1
+432,8,"Nov 6, 1954",Hardin-Simmons,7,UTEP,20,1
+433,8,"Nov 6, 1954",West Texas State,7,Trinity (Texas),19,1
+434,8,"Nov 6, 1954",UCLA,41,Oregon,0,0
+435,8,"Nov 6, 1954",Virginia Military Institute,21,William & Mary,0,0
+436,8,"Nov 6, 1954",Fordham,9,West Virginia,39,1
+437,8,"Nov 6, 1954",Wichita State,59,North Dakota State,0,0
+438,8,"Nov 6, 1954",Wisconsin,34,Northwestern,13,0
+439,8,"Nov 6, 1954",Wyoming,21,Utah State,12,1
+440,9,"Nov 12, 1954",Drake,33,Wayne State,24,1
+441,9,"Nov 13, 1954",Army,35,Pennsylvania,0,1
+442,9,"Nov 13, 1954",Auburn,35,Georgia,0,0
+443,9,"Nov 13, 1954",Boston College,7,Boston University,6,0
+444,9,"Nov 13, 1954",Harvard,21,Brown,21,0
+445,9,"Nov 13, 1954",Oregon State,7,California,46,1
+446,9,"Nov 13, 1954",Utah,7,Colorado,20,0
+447,9,"Nov 13, 1954",Cornell,40,Dartmouth,21,0
+448,9,"Nov 13, 1954",Davidson,3,Wofford,0,1
+449,9,"Nov 13, 1954",Utah State,7,Denver,25,0
+450,9,"Nov 13, 1954",Duke,28,Wake Forest,21,1
+451,9,"Nov 13, 1954",Florida,14,Tennessee,0,1
+452,9,"Nov 13, 1954",Florida State,33,Furman,14,0
+453,9,"Nov 13, 1954",Georgia Tech,20,Alabama,0,0
+454,9,"Nov 13, 1954",Hardin-Simmons,33,West Texas State,27,0
+455,9,"Nov 13, 1954",Holy Cross,20,Fordham,19,1
+456,9,"Nov 13, 1954",Idaho,45,North Dakota,0,0
+457,9,"Nov 13, 1954",Indiana,14,Northwestern,13,1
+458,9,"Nov 13, 1954",Iowa State,7,Kansas State,12,1
+459,9,"Nov 13, 1954",Memphis,7,Kentucky,33,1
+460,9,"Nov 13, 1954",Marquette,19,Pacific,13,1
+461,9,"Nov 13, 1954",Maryland,16,Clemson,0,0
+462,9,"Nov 13, 1954",Michigan State,7,Michigan,33,1
+463,9,"Nov 13, 1954",Minnesota,22,Iowa,20,0
+464,9,"Nov 13, 1954",Ole Miss,26,Houston,0,1
+465,9,"Nov 13, 1954",Mississippi State,25,LSU,0,1
+466,9,"Nov 13, 1954",Montana,25,Montana State,21,0
+467,9,"Nov 13, 1954",Columbia,6,Navy,51,1
+468,9,"Nov 13, 1954",Colorado State,7,New Mexico,10,1
+469,9,"Nov 13, 1954",Richmond,6,NC State,14,1
+470,9,"Nov 13, 1954",North Texas,20,Arizona State,13,1
+471,9,"Nov 13, 1954",Notre Dame,42,North Carolina,13,0
+472,9,"Nov 13, 1954",Purdue,6,Ohio State,28,0
+473,9,"Nov 13, 1954",Oklahoma,34,Missouri,13,0
+474,9,"Nov 13, 1954",Oklahoma State,47,Kansas,12,0
+475,9,"Nov 13, 1954",Oregon,26,Washington State,14,0
+476,9,"Nov 13, 1954",Penn State,37,Rutgers,14,0
+477,9,"Nov 13, 1954",Nebraska,7,Pitt,21,0
+478,9,"Nov 13, 1954",Princeton,21,Yale,14,1
+479,9,"Nov 13, 1954",Rice,29,Texas A&M,19,1
+480,9,"Nov 13, 1954",San Jose State,19,Stanford,14,1
+481,9,"Nov 13, 1954",South Carolina,27,Virginia,0,0
+482,9,"Nov 13, 1954",USC,41,Washington,0,0
+483,9,"Nov 13, 1954",SMU,21,Arkansas,14,1
+484,9,"Nov 13, 1954",Southern Miss,27,Villanova,0,0
+485,9,"Nov 13, 1954",Southwestern Oklahoma State,20,New Mexico State,14,1
+486,9,"Nov 13, 1954",Syracuse,31,Colgate,12,0
+487,9,"Nov 13, 1954",Texas,35,TCU,34,1
+488,9,"Nov 13, 1954",Texas Tech,55,Tulsa,13,0
+489,9,"Nov 13, 1954",UTEP,41,Arizona,21,0
+490,9,"Nov 13, 1954",Tulane,6,Vanderbilt,0,1
+491,9,"Nov 13, 1954",Virginia Military Institute,42,Citadel,0,0
+492,9,"Nov 13, 1954",Waynesburg,6,Virginia Tech,20,1
+493,9,"Nov 13, 1954",William & Mary,6,West Virginia,20,0
+494,9,"Nov 13, 1954",Wichita State,13,Cincinnati,0,1
+495,9,"Nov 13, 1954",Wisconsin,27,Illinois,14,1
+496,9,"Nov 13, 1954",Wyoming,34,BYU,13,1
+497,10,"Nov 19, 1954",Alabama,7,Miami,23,1
+498,10,"Nov 20, 1954",Arizona,54,Arizona State,14,0
+499,10,"Nov 20, 1954",Clemson,6,Auburn,27,1
+500,10,"Nov 20, 1954",Baylor,33,SMU,21,1
+501,10,"Nov 20, 1954",Temple,7,Boston University,19,0
+502,10,"Nov 20, 1954",California,28,Stanford,20,0
+503,10,"Nov 20, 1954",Colorado,38,Kansas State,14,0
+504,10,"Nov 20, 1954",South Carolina,7,Duke,26,1
+505,10,"Nov 20, 1954",Davidson,6,Elon,14,0
+506,10,"Nov 20, 1954",Stetson,6,Florida State,47,0
+507,10,"Nov 20, 1954",Yale,9,Harvard,13,1
+508,10,"Nov 20, 1954",Holy Cross,46,Connecticut,26,0
+509,10,"Nov 20, 1954",Idaho,7,BYU,0,0
+510,10,"Nov 20, 1954",Kentucky,14,Tennessee,13,1
+511,10,"Nov 20, 1954",LSU,7,Arkansas,6,0
+512,10,"Nov 20, 1954",George Washington,6,Maryland,48,1
+513,10,"Nov 20, 1954",Michigan State,40,Marquette,10,0
+514,10,"Nov 20, 1954",Missouri,41,Kansas,18,0
+515,10,"Nov 20, 1954",New Mexico,39,New Mexico State,27,0
+516,10,"Nov 20, 1954",North Carolina,26,Virginia,14,1
+517,10,"Nov 20, 1954",Illinois,7,Northwestern,20,0
+518,10,"Nov 20, 1954",Notre Dame,34,Iowa,18,1
+519,10,"Nov 20, 1954",Michigan,7,Ohio State,21,1
+520,10,"Nov 20, 1954",Nebraska,7,Oklahoma,55,1
+521,10,"Nov 20, 1954",Oregon,33,Oregon State,14,1
+522,10,"Nov 20, 1954",Penn State,13,Pitt,0,1
+523,10,"Nov 20, 1954",Dartmouth,7,Princeton,49,1
+524,10,"Nov 20, 1954",Indiana,7,Purdue,13,1
+525,10,"Nov 20, 1954",Rice,6,TCU,0,0
+526,10,"Nov 20, 1954",Rutgers,45,Columbia,12,1
+527,10,"Nov 20, 1954",Fordham,7,Syracuse,20,0
+528,10,"Nov 20, 1954",Texas Tech,61,Houston,14,0
+529,10,"Nov 20, 1954",Trinity (Texas),13,North Texas,0,1
+530,10,"Nov 20, 1954",UCLA,34,USC,0,0
+531,10,"Nov 20, 1954",Utah,41,Montana,20,1
+532,10,"Nov 20, 1954",Vanderbilt,34,Villanova,19,0
+533,10,"Nov 20, 1954",Washington,7,Washington State,26,1
+534,10,"Nov 20, 1954",NC State,3,West Virginia,28,1
+535,10,"Nov 20, 1954",Wichita State,20,Detroit Mercy,0,0
+536,10,"Nov 20, 1954",Wake Forest,9,William & Mary,13,1
+537,10,"Nov 20, 1954",Wisconsin,27,Minnesota,0,0
+538,10,"Nov 20, 1954",Wofford,19,Furman,0,1
+539,10,"Nov 20, 1954",Wyoming,28,Tulsa,27,1
+540,11,"Nov 24, 1954",North Texas,19,Midwestern Texas State,0,1
+541,11,"Nov 25, 1954",Brown,18,Colgate,14,0
+542,11,"Nov 25, 1954",Pennsylvania,6,Cornell,20,0
+543,11,"Nov 25, 1954",Denver,34,Colorado State,0,0
+544,11,"Nov 25, 1954",Maryland,74,Missouri,13,0
+545,11,"Nov 25, 1954",Cincinnati,9,Miami (OH),21,0
+546,11,"Nov 25, 1954",Texas,22,Texas A&M,13,0
+547,11,"Nov 25, 1954",UTEP,33,West Texas State,13,0
+548,11,"Nov 25, 1954",Utah State,35,Utah,19,1
+549,11,"Nov 25, 1954",Virginia Military Institute,9,Virginia Tech,46,1
+550,11,"Nov 25, 1954",Wichita State,33,Tulsa,19,1
+551,11,"Nov 25, 1954",William & Mary,2,Richmond,0,1
+552,11,"Nov 26, 1954",Nebraska,50,Hawaii,0,1
+553,11,"Nov 27, 1954",Arizona,42,Wyoming,40,0
+554,11,"Nov 27, 1954",Arkansas,19,Houston,0,1
+555,11,"Nov 27, 1954",Auburn,28,Alabama,0,0
+556,11,"Nov 27, 1954",Boston College,31,Holy Cross,13,0
+557,11,"Nov 27, 1954",Clemson,59,Citadel,0,0
+558,11,"Nov 27, 1954",Duke,47,North Carolina,12,1
+559,11,"Nov 27, 1954",Florida State,19,Southern Miss,18,0
+560,11,"Nov 27, 1954",Georgia Tech,7,Georgia,3,1
+561,11,"Nov 27, 1954",LSU,14,Tulane,13,1
+562,11,"Nov 27, 1954",Miami,14,Florida,0,1
+563,11,"Nov 27, 1954",Ole Miss,14,Mississippi State,0,0
+564,11,"Nov 27, 1954",Navy,27,Army,20,0
+565,11,"Nov 27, 1954",Notre Dame,23,USC,17,0
+566,11,"Nov 27, 1954",Oklahoma,14,Oklahoma State,0,1
+567,11,"Nov 27, 1954",Rice,20,Baylor,14,1
+568,11,"Nov 27, 1954",San Jose State,26,New Mexico,14,0
+569,11,"Nov 27, 1954",South Carolina,20,Wake Forest,19,0
+570,11,"Nov 27, 1954",TCU,6,SMU,21,1
+571,11,"Nov 27, 1954",Texas Tech,61,Hardin-Simmons,19,1
+572,11,"Nov 27, 1954",Vanderbilt,26,Tennessee,0,0
+573,11,"Nov 27, 1954",Villanova,41,Fordham,0,1
+574,11,"Nov 27, 1954",West Virginia,14,Virginia,10,1
+575,12,"Dec 4, 1954",Florida State,13,Tampa,0,1
+576,12,"Dec 4, 1954",Detroit Mercy,7,Houston,19,1
+577,12,"Dec 4, 1954",Notre Dame,26,SMU,14,1
+578,12,"Dec 4, 1954",Citadel,6,South Carolina,19,0
+579,13,"Dec 31, 1954",Auburn,33,Baylor,13,0
+580,13,"Jan 1, 1955",Nebraska,7,Duke,34,1
+581,13,"Jan 1, 1955",Arkansas,6,Georgia Tech,14,1
+582,13,"Jan 1, 1955",Navy,21,Ole Miss,0,0
+583,13,"Jan 1, 1955",Nebraska-Omaha,7,Eastern Kentucky,6,0
+584,13,"Jan 1, 1955",USC,7,Ohio State,20,0
+585,13,"Jan 1, 1955",UTEP,47,Florida State,20,0

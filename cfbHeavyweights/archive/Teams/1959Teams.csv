@@ -1,0 +1,112 @@
+0,Washington,AAWU
+1,USC,AAWU
+2,UCLA,AAWU
+3,California,AAWU
+4,Stanford,AAWU
+5,Clemson,ACC
+6,North Carolina,ACC
+7,Maryland,ACC
+8,South Carolina,ACC
+9,Wake Forest,ACC
+10,Duke,ACC
+11,NC State,ACC
+12,Virginia,ACC
+13,Oklahoma,Big 7
+14,Missouri,Big 7
+15,Iowa State,Big 7
+16,Colorado,Big 7
+17,Kansas,Big 7
+18,Nebraska,Big 7
+19,Kansas State,Big 7
+20,Wisconsin,Big Ten
+21,Michigan State,Big Ten
+22,Purdue,Big Ten
+23,Illinois,Big Ten
+24,Northwestern,Big Ten
+25,Iowa,Big Ten
+26,Michigan,Big Ten
+27,Indiana,Big Ten
+28,Ohio State,Big Ten
+29,Minnesota,Big Ten
+30,Arizona State,BIAA
+31,Arizona,BIAA
+32,New Mexico State,BIAA
+33,Hardin-Simmons,BIAA
+34,UTEP,BIAA
+35,West Texas State,BIAA
+36,Syracuse,Ind
+37,Penn State,Ind
+38,Oregon,Ind
+39,Rutgers,Ind
+40,Detroit Mercy,Ind
+41,Holy Cross,Ind
+42,Miami,Ind
+43,Oklahoma State,Ind
+44,Pitt,Ind
+45,Washington State,Ind
+46,Boston College,Ind
+47,Pacific,Ind
+48,Air Force,Ind
+49,Navy,Ind
+50,Army,Ind
+51,Notre Dame,Ind
+52,Boston University,Ind
+53,Florida State,Ind
+54,San Jose State,Ind
+55,Texas Tech,Ind
+56,Xavier,Ind
+57,Dayton,Ind
+58,Marquette,Ind
+59,Oregon State,Ind
+60,Colgate,Ind
+61,Idaho,Ind
+62,Villanova,Ind
+63,Pennsylvania,Ivy
+64,Dartmouth,Ivy
+65,Harvard,Ivy
+66,Yale,Ivy
+67,Cornell,Ivy
+68,Princeton,Ivy
+69,Brown,Ivy
+70,Columbia,Ivy
+71,North Texas,MVC
+72,Houston,MVC
+73,Tulsa,MVC
+74,Wichita State,MVC
+75,Cincinnati,MVC
+76,Georgia,SEC
+77,Ole Miss,SEC
+78,LSU,SEC
+79,Alabama,SEC
+80,Auburn,SEC
+81,Vanderbilt,SEC
+82,Georgia Tech,SEC
+83,Tennessee,SEC
+84,Florida,SEC
+85,Kentucky,SEC
+86,Tulane,SEC
+87,Mississippi State,SEC
+88,Wyoming,Skyline
+89,Colorado State,Skyline
+90,New Mexico,Skyline
+91,Utah,Skyline
+92,Utah State,Skyline
+93,BYU,Skyline
+94,Denver,Skyline
+95,Montana,Skyline
+96,Virginia Military Institute,Southern
+97,The Citadel,Southern
+98,Virginia Tech,Southern
+99,Furman,Southern
+100,Richmond,Southern
+101,West Virginia,Southern
+102,William & Mary,Southern
+103,Davidson,Southern
+104,George Washington,Southern
+105,Arkansas,SWC
+106,Texas,SWC
+107,TCU,SWC
+108,SMU,SWC
+109,Baylor,SWC
+110,Rice,SWC
+111,Texas A&M,SWC

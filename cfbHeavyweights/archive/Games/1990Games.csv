@@ -1,0 +1,646 @@
+0,1,"Aug 26, 1990",Tennessee,31,Colorado,31,0
+1,2,"Aug 31, 1990",USC,34,Syracuse,16,0
+2,2,"Sep 1, 1990",Illinois State,7,Akron,17,1
+3,2,"Sep 1, 1990",Memphis,24,Arkansas State,24,0
+4,2,"Sep 1, 1990",BYU,30,UTEP,10,1
+5,2,"Sep 1, 1990",Cal State Fullerton,38,Sonoma State,24,0
+6,2,"Sep 1, 1990",Clemson,59,Long Beach State,0,0
+7,2,"Sep 1, 1990",Colorado State,35,Air Force,33,1
+8,2,"Sep 1, 1990",East Carolina,27,Louisiana Tech,17,0
+9,2,"Sep 1, 1990",Fresno State,41,Eastern Michigan,10,0
+10,2,"Sep 1, 1990",Kentucky,20,Central Michigan,17,0
+11,2,"Sep 1, 1990",Tulane,6,Louisiana,48,0
+12,2,"Sep 1, 1990",San Jose State,10,Louisville,10,0
+13,2,"Sep 1, 1990",Maryland,20,Virginia Tech,13,0
+14,2,"Sep 1, 1990",Missouri State,31,UNLV,24,1
+15,2,"Sep 1, 1990",Montana,22,Oregon State,15,1
+16,2,"Sep 1, 1990",Nebraska,13,Baylor,0,0
+17,2,"Sep 1, 1990",New Mexico,29,New Mexico State,12,1
+18,2,"Sep 1, 1990",North Carolina,34,Miami (OH),0,0
+19,2,"Sep 1, 1990",NC State,67,Western Carolina,0,0
+20,2,"Sep 1, 1990",Northern Illinois,28,Eastern Illinois,17,0
+21,2,"Sep 1, 1990",Tulsa,3,Oklahoma State,10,1
+22,2,"Sep 1, 1990",Pitt,35,Ohio,3,0
+23,2,"Sep 1, 1990",Rice,33,Wake Forest,17,0
+24,2,"Sep 1, 1990",South Carolina,21,Duke,10,0
+25,2,"Sep 1, 1990",Southern Miss,12,Delta State,0,0
+26,2,"Sep 1, 1990",Pacific,7,Tennessee,55,1
+27,2,"Sep 1, 1990",Texas A&M,28,Hawaii,13,1
+28,2,"Sep 1, 1990",Utah,19,Utah State,0,1
+29,2,"Sep 1, 1990",Virginia,59,Kansas,10,1
+30,2,"Sep 1, 1990",TCU,3,Washington State,21,0
+31,2,"Sep 1, 1990",West Virginia,35,Kent State,24,0
+32,2,"Sep 1, 1990",Wyoming,38,Temple,23,0
+33,2,"Sep 2, 1990",Bowling Green,34,Cincinnati,20,1
+34,3,"Sep 6, 1990",Colorado,21,Stanford,17,0
+35,3,"Sep 8, 1990",Hawaii,3,Air Force,27,1
+36,3,"Sep 8, 1990",Akron,38,Kent State,10,1
+37,3,"Sep 8, 1990",Arizona,28,Illinois,16,0
+38,3,"Sep 8, 1990",Arizona State,34,Baylor,13,0
+39,3,"Sep 8, 1990",Arkansas State,23,Louisiana-Monroe,18,0
+40,3,"Sep 8, 1990",Auburn,38,Cal State Fullerton,17,0
+41,3,"Sep 8, 1990",Illinois State,3,Ball State,13,0
+42,3,"Sep 8, 1990",BYU,28,Miami,21,0
+43,3,"Sep 8, 1990",California,28,Wisconsin,12,1
+44,3,"Sep 8, 1990",Central Michigan,34,Cincinnati,0,0
+45,3,"Sep 8, 1990",Montana State,5,Colorado State,41,1
+46,3,"Sep 8, 1990",Duke,27,Northwestern,24,1
+47,3,"Sep 8, 1990",Eastern Michigan,27,Western Michigan,24,0
+48,3,"Sep 8, 1990",Oklahoma State,7,Florida,50,1
+49,3,"Sep 8, 1990",Florida State,45,East Carolina,24,0
+50,3,"Sep 8, 1990",Fresno State,24,New Mexico,17,0
+51,3,"Sep 8, 1990",Georgia Tech,21,NC State,13,0
+52,3,"Sep 8, 1990",UNLV,9,Houston,37,1
+53,3,"Sep 8, 1990",Northern Iowa,6,Iowa State,35,1
+54,3,"Sep 8, 1990",Kansas,38,Oregon State,12,0
+55,3,"Sep 8, 1990",Western Illinois,6,Kansas State,27,1
+56,3,"Sep 8, 1990",Louisiana,24,Nicholls State,21,0
+57,3,"Sep 8, 1990",LSU,18,Georgia,13,0
+58,3,"Sep 8, 1990",Louisiana Tech,51,McNeese State,3,1
+59,3,"Sep 8, 1990",Louisville,68,Murray State,0,0
+60,3,"Sep 8, 1990",Maryland,14,West Virginia,10,1
+61,3,"Sep 8, 1990",Ole Miss,23,Memphis,21,0
+62,3,"Sep 8, 1990",Navy,28,Richmond,17,0
+63,3,"Sep 8, 1990",Nebraska,60,Northern Illinois,14,0
+64,3,"Sep 8, 1990",Ohio State,17,Texas Tech,10,0
+65,3,"Sep 8, 1990",Oklahoma,34,UCLA,14,1
+66,3,"Sep 8, 1990",Oregon,42,San Diego State,21,0
+67,3,"Sep 8, 1990",Pacific,41,Sacramento State,33,0
+68,3,"Sep 8, 1990",Boston College,6,Pitt,29,1
+69,3,"Sep 8, 1990",Kentucky,8,Rutgers,24,1
+70,3,"Sep 8, 1990",North Carolina,5,South Carolina,27,1
+71,3,"Sep 8, 1990",Vanderbilt,7,SMU,44,1
+72,3,"Sep 8, 1990",Southern Miss,27,Alabama,24,1
+73,3,"Sep 8, 1990",Temple,9,Syracuse,19,1
+74,3,"Sep 8, 1990",Mississippi State,7,Tennessee,40,0
+75,3,"Sep 8, 1990",Texas,17,Penn State,13,1
+76,3,"Sep 8, 1990",TCU,20,Missouri,19,1
+77,3,"Sep 8, 1990",UTEP,27,New Mexico State,24,0
+78,3,"Sep 8, 1990",Toledo,20,Miami (OH),14,1
+79,3,"Sep 8, 1990",Tulane,21,Rice,10,1
+80,3,"Sep 8, 1990",Tulsa,41,Missouri State,28,0
+81,3,"Sep 8, 1990",Utah,35,Minnesota,29,1
+82,3,"Sep 8, 1990",Utah State,27,Long Beach State,13,0
+83,3,"Sep 8, 1990",Clemson,7,Virginia,20,1
+84,3,"Sep 8, 1990",Bowling Green,7,Virginia Tech,21,1
+85,3,"Sep 8, 1990",Wake Forest,23,Appalachian State,12,0
+86,3,"Sep 8, 1990",Washington,20,San Jose State,17,0
+87,3,"Sep 8, 1990",Wyoming,34,Washington State,13,1
+88,4,"Sep 13, 1990",Houston,51,Texas Tech,35,1
+89,4,"Sep 15, 1990",Citadel,7,Air Force,10,1
+90,4,"Sep 15, 1990",Arizona,25,New Mexico,10,1
+91,4,"Sep 15, 1990",Arizona State,31,Colorado State,20,0
+92,4,"Sep 15, 1990",Tulsa,3,Arkansas,28,1
+93,4,"Sep 15, 1990",Holy Cross,7,Army,24,1
+94,4,"Sep 15, 1990",Auburn,24,Ole Miss,10,1
+95,4,"Sep 15, 1990",BYU,50,Washington State,36,0
+96,4,"Sep 15, 1990",Akron,14,Central Michigan,14,0
+97,4,"Sep 15, 1990",Clemson,18,Maryland,17,1
+98,4,"Sep 15, 1990",Eastern Michigan,21,Ohio,18,0
+99,4,"Sep 15, 1990",Florida,17,Alabama,13,1
+100,4,"Sep 15, 1990",Georgia Southern,6,Florida State,48,1
+101,4,"Sep 15, 1990",Utah,7,Fresno State,31,0
+102,4,"Sep 15, 1990",Georgia,18,Southern Miss,17,0
+103,4,"Sep 15, 1990",Illinois,23,Colorado,22,0
+104,4,"Sep 15, 1990",Indiana,45,Kentucky,24,1
+105,4,"Sep 15, 1990",Iowa,63,Cincinnati,10,0
+106,4,"Sep 15, 1990",New Mexico State,7,Kansas State,52,1
+107,4,"Sep 15, 1990",Miami (OH),7,LSU,35,1
+108,4,"Sep 15, 1990",Louisville,28,Kansas,16,0
+109,4,"Sep 15, 1990",Miami,52,California,24,1
+110,4,"Sep 15, 1990",Syracuse,23,Michigan State,23,0
+111,4,"Sep 15, 1990",Minnesota,20,Iowa State,16,0
+112,4,"Sep 15, 1990",Mississippi State,27,Cal State Fullerton,13,0
+113,4,"Sep 15, 1990",Missouri,45,Utah State,10,0
+114,4,"Sep 15, 1990",UNLV,45,Oregon State,20,1
+115,4,"Sep 15, 1990",North Carolina,48,Connecticut,21,0
+116,4,"Sep 15, 1990",NC State,20,Wake Forest,15,0
+117,4,"Sep 15, 1990",Notre Dame,28,Michigan,24,0
+118,4,"Sep 15, 1990",Ohio State,31,Boston College,10,1
+119,4,"Sep 15, 1990",Oklahoma,52,Pitt,10,0
+120,4,"Sep 15, 1990",Oklahoma State,33,Northern Iowa,23,0
+121,4,"Sep 15, 1990",Oregon,55,Idaho,23,0
+122,4,"Sep 15, 1990",Rutgers,28,Colgate,17,0
+123,4,"Sep 15, 1990",San Diego State,38,Long Beach State,20,0
+124,4,"Sep 15, 1990",San Jose State,28,Pacific,14,1
+125,4,"Sep 15, 1990",USC,19,Penn State,14,0
+126,4,"Sep 15, 1990",Temple,28,Austin Peay,0,0
+127,4,"Sep 15, 1990",Tennessee,56,UTEP,0,0
+128,4,"Sep 15, 1990",Texas A&M,63,Louisiana,14,0
+129,4,"Sep 15, 1990",Toledo,23,Northern Illinois,14,0
+130,4,"Sep 15, 1990",SMU,7,Tulane,43,1
+131,4,"Sep 15, 1990",UCLA,32,Stanford,31,0
+132,4,"Sep 15, 1990",Virginia,56,Navy,14,0
+133,4,"Sep 15, 1990",Virginia Tech,24,East Carolina,23,1
+134,4,"Sep 15, 1990",Washington,20,Purdue,14,1
+135,4,"Sep 15, 1990",Western Michigan,27,Louisiana Tech,21,0
+136,4,"Sep 15, 1990",Ball State,7,Wisconsin,24,1
+137,4,"Sep 15, 1990",Wyoming,34,Arkansas State,27,0
+138,5,"Sep 22, 1990",Akron,48,Cal State Fullerton,17,0
+139,5,"Sep 22, 1990",Arizona,22,Oregon,17,0
+140,5,"Sep 22, 1990",Army,41,Virginia Military Institute,17,0
+141,5,"Sep 22, 1990",Sam Houston,9,Baylor,13,1
+142,5,"Sep 22, 1990",BYU,62,San Diego State,34,0
+143,5,"Sep 22, 1990",Central Michigan,17,Bowling Green,0,0
+144,5,"Sep 22, 1990",Clemson,48,Appalachian State,0,0
+145,5,"Sep 22, 1990",Colorado,29,Texas,22,1
+146,5,"Sep 22, 1990",Colorado State,38,UTEP,20,0
+147,5,"Sep 22, 1990",East Carolina,20,Louisiana,10,1
+148,5,"Sep 22, 1990",Furman,3,Florida,27,1
+149,5,"Sep 22, 1990",Florida State,31,Tulane,13,1
+150,5,"Sep 22, 1990",Fresno State,42,New Mexico State,3,0
+151,5,"Sep 22, 1990",Georgia,17,Alabama,16,0
+152,5,"Sep 22, 1990",Chattanooga,9,Georgia Tech,44,1
+153,5,"Sep 22, 1990",Utah,7,Hawaii,19,0
+154,5,"Sep 22, 1990",Illinois,56,Southern Illinois,21,0
+155,5,"Sep 22, 1990",Missouri,7,Indiana,58,1
+156,5,"Sep 22, 1990",Iowa,45,Iowa State,35,0
+157,5,"Sep 22, 1990",Pacific,7,Long Beach State,28,1
+158,5,"Sep 22, 1990",Arkansas State,7,Louisiana Tech,40,1
+159,5,"Sep 22, 1990",Louisville,9,West Virginia,7,1
+160,5,"Sep 22, 1990",Maryland,13,NC State,12,0
+161,5,"Sep 22, 1990",Memphis,37,UCF,28,0
+162,5,"Sep 22, 1990",Miami (OH),16,Cincinnati,12,1
+163,5,"Sep 22, 1990",Michigan,38,UCLA,15,0
+164,5,"Sep 22, 1990",Ole Miss,21,Arkansas,17,1
+165,5,"Sep 22, 1990",Mississippi State,13,Southern Miss,10,0
+166,5,"Sep 22, 1990",Navy,23,Villanova,21,0
+167,5,"Sep 22, 1990",Nebraska,56,Minnesota,0,0
+168,5,"Sep 22, 1990",North Carolina,16,Kentucky,13,0
+169,5,"Sep 22, 1990",Northern Illinois,42,Kansas State,35,0
+170,5,"Sep 22, 1990",Notre Dame,20,Michigan State,19,1
+171,5,"Sep 22, 1990",Ohio,42,Tennessee Tech,32,0
+172,5,"Sep 22, 1990",Oklahoma,52,Tulsa,10,0
+173,5,"Sep 22, 1990",Penn State,28,Rutgers,0,0
+174,5,"Sep 22, 1990",Syracuse,20,Pitt,20,0
+175,5,"Sep 22, 1990",Purdue,41,Indiana State,13,0
+176,5,"Sep 22, 1990",Rice,31,Northwestern,14,0
+177,5,"Sep 22, 1990",San Jose State,47,UNLV,13,1
+178,5,"Sep 22, 1990",South Carolina,35,Virginia Tech,24,1
+179,5,"Sep 22, 1990",Stanford,37,Oregon State,3,0
+180,5,"Sep 22, 1990",Temple,24,Wisconsin,18,1
+181,5,"Sep 22, 1990",North Texas,8,Texas A&M,40,1
+182,5,"Sep 22, 1990",TCU,31,Oklahoma State,21,0
+183,5,"Sep 22, 1990",Texas Tech,34,New Mexico,32,1
+184,5,"Sep 22, 1990",Toledo,28,Ball State,16,1
+185,5,"Sep 22, 1990",Vanderbilt,24,LSU,21,0
+186,5,"Sep 22, 1990",Virginia,59,Duke,0,1
+187,5,"Sep 22, 1990",Washington,31,USC,0,0
+188,5,"Sep 22, 1990",Washington State,41,California,31,0
+189,5,"Sep 22, 1990",Western Michigan,37,Kent State,10,0
+190,5,"Sep 22, 1990",Wyoming,24,Air Force,12,0
+191,5,"Sep 22, 1990",Youngstown State,24,Eastern Michigan,14,0
+192,6,"Sep 29, 1990",Alabama,59,Vanderbilt,28,0
+193,6,"Sep 29, 1990",Arkansas,31,Colorado State,20,0
+194,6,"Sep 29, 1990",Arkansas State,20,Southern Illinois,17,1
+195,6,"Sep 29, 1990",Bowling Green,6,Ball State,16,1
+196,6,"Sep 29, 1990",Baylor,21,Texas Tech,15,1
+197,6,"Sep 29, 1990",Boston College,28,Navy,17,1
+198,6,"Sep 29, 1990",California,30,Arizona,25,1
+199,6,"Sep 29, 1990",Miami (OH),7,Central Michigan,31,1
+200,6,"Sep 29, 1990",Cincinnati,27,Kent State,24,1
+201,6,"Sep 29, 1990",Duke,7,Clemson,26,1
+202,6,"Sep 29, 1990",Colorado,20,Washington,14,0
+203,6,"Sep 29, 1990",Florida,34,Mississippi State,21,0
+204,6,"Sep 29, 1990",Florida State,39,Virginia Tech,28,0
+205,6,"Sep 29, 1990",Fresno State,38,Cal State Fullerton,3,1
+206,6,"Sep 29, 1990",Georgia,19,East Carolina,15,0
+207,6,"Sep 29, 1990",South Carolina,6,Georgia Tech,27,1
+208,6,"Sep 29, 1990",Houston,24,Rice,22,0
+209,6,"Sep 29, 1990",Eastern Michigan,6,Indiana,37,1
+210,6,"Sep 29, 1990",Iowa State,34,Western Michigan,20,0
+211,6,"Sep 29, 1990",New Mexico,6,Kansas State,38,1
+212,6,"Sep 29, 1990",Long Beach State,21,Boise State,20,0
+213,6,"Sep 29, 1990",Texas A&M,8,LSU,17,1
+214,6,"Sep 29, 1990",Louisiana Tech,24,Louisiana,10,0
+215,6,"Sep 29, 1990",Memphis,22,Tulsa,10,1
+216,6,"Sep 29, 1990",Miami,48,Iowa,21,0
+217,6,"Sep 29, 1990",Michigan,45,Maryland,17,0
+218,6,"Sep 29, 1990",Michigan State,34,Rutgers,10,1
+219,6,"Sep 29, 1990",Ole Miss,31,Tulane,21,0
+220,6,"Sep 29, 1990",Arizona State,9,Missouri,30,1
+221,6,"Sep 29, 1990",Oregon State,7,Nebraska,31,1
+222,6,"Sep 29, 1990",UNLV,37,Pacific,28,1
+223,6,"Sep 29, 1990",North Carolina,9,NC State,12,0
+224,6,"Sep 29, 1990",Northern Illinois,7,Northwestern,24,1
+225,6,"Sep 29, 1990",Notre Dame,37,Purdue,11,0
+226,6,"Sep 29, 1990",Oklahoma,31,Kansas,17,0
+227,6,"Sep 29, 1990",Oregon,32,BYU,16,0
+228,6,"Sep 29, 1990",San Diego State,48,Air Force,18,0
+229,6,"Sep 29, 1990",San Jose State,29,Stanford,23,1
+230,6,"Sep 29, 1990",USC,35,Ohio State,26,1
+231,6,"Sep 29, 1990",Southern Miss,25,Louisville,13,0
+232,6,"Sep 29, 1990",Auburn,26,Tennessee,26,0
+233,6,"Sep 29, 1990",TCU,42,SMU,21,1
+234,6,"Sep 29, 1990",UTEP,17,Sam Houston,10,0
+235,6,"Sep 29, 1990",Toledo,27,Ohio,20,1
+236,6,"Sep 29, 1990",UCLA,30,Washington State,20,1
+237,6,"Sep 29, 1990",Virginia,63,William & Mary,35,0
+238,6,"Sep 29, 1990",Wake Forest,52,Army,14,0
+239,6,"Sep 29, 1990",West Virginia,38,Pitt,24,1
+240,6,"Sep 29, 1990",Wyoming,28,Utah,10,1
+241,6,"Sep 29, 1990",Youngstown State,28,Akron,23,0
+242,7,"Oct 6, 1990",Navy,7,Air Force,24,1
+243,7,"Oct 6, 1990",Louisiana,6,Alabama,25,0
+244,7,"Oct 6, 1990",Arizona,28,UCLA,21,1
+245,7,"Oct 6, 1990",Northwestern State,8,Arkansas State,16,1
+246,7,"Oct 6, 1990",Auburn,16,Louisiana Tech,14,0
+247,7,"Oct 6, 1990",Boston College,19,Rutgers,14,0
+248,7,"Oct 6, 1990",California,35,San Jose State,34,0
+249,7,"Oct 6, 1990",Central Michigan,42,Kent State,0,1
+250,7,"Oct 6, 1990",Clemson,34,Georgia,3,0
+251,7,"Oct 6, 1990",Colorado,33,Missouri,31,1
+252,7,"Oct 6, 1990",Colorado State,28,Utah,13,0
+253,7,"Oct 6, 1990",Duke,17,Army,16,1
+254,7,"Oct 6, 1990",LSU,8,Florida,34,1
+255,7,"Oct 6, 1990",Georgia Tech,31,Maryland,3,1
+256,7,"Oct 6, 1990",Hawaii,44,Maine,3,0
+257,7,"Oct 6, 1990",Houston,31,Baylor,15,1
+258,7,"Oct 6, 1990",Illinois,31,Ohio State,20,1
+259,7,"Oct 6, 1990",Indiana,42,Northwestern,0,1
+260,7,"Oct 6, 1990",Michigan State,7,Iowa,12,0
+261,7,"Oct 6, 1990",Iowa State,34,Kansas,34,0
+262,7,"Oct 6, 1990",Long Beach State,31,New Mexico State,27,0
+263,7,"Oct 6, 1990",Louisville,38,Tulsa,14,0
+264,7,"Oct 6, 1990",Memphis,21,Tulane,14,0
+265,7,"Oct 6, 1990",Miami,31,Florida State,22,0
+266,7,"Oct 6, 1990",Miami (OH),24,Ball State,10,0
+267,7,"Oct 6, 1990",Michigan,41,Wisconsin,3,1
+268,7,"Oct 6, 1990",Purdue,7,Minnesota,19,0
+269,7,"Oct 6, 1990",Ole Miss,35,Kentucky,29,0
+270,7,"Oct 6, 1990",Kansas State,8,Nebraska,45,0
+271,7,"Oct 6, 1990",UNLV,29,Cal State Fullerton,10,0
+272,7,"Oct 6, 1990",New Mexico,48,UTEP,28,0
+273,7,"Oct 6, 1990",North Carolina,31,Wake Forest,24,1
+274,7,"Oct 6, 1990",NC State,56,Appalachian State,0,0
+275,7,"Oct 6, 1990",SMU,7,North Texas,14,1
+276,7,"Oct 6, 1990",Northern Illinois,73,Fresno State,18,0
+277,7,"Oct 6, 1990",Bowling Green,10,Ohio,10,0
+278,7,"Oct 6, 1990",Oklahoma,31,Oklahoma State,17,1
+279,7,"Oct 6, 1990",Utah State,7,Oregon,52,1
+280,7,"Oct 6, 1990",Penn State,48,Temple,10,0
+281,7,"Oct 6, 1990",USC,30,Washington State,17,0
+282,7,"Oct 6, 1990",East Carolina,7,Southern Miss,16,0
+283,7,"Oct 6, 1990",Stanford,36,Notre Dame,31,1
+284,7,"Oct 6, 1990",Syracuse,49,Vanderbilt,14,1
+285,7,"Oct 6, 1990",Texas,26,Rice,10,1
+286,7,"Oct 6, 1990",Texas A&M,28,Texas Tech,24,0
+287,7,"Oct 6, 1990",TCU,54,Arkansas,26,1
+288,7,"Oct 6, 1990",Toledo,37,Eastern Michigan,23,0
+289,7,"Oct 6, 1990",Virginia Tech,26,West Virginia,21,0
+290,7,"Oct 6, 1990",Washington,42,Arizona State,14,1
+291,7,"Oct 6, 1990",Western Michigan,24,Akron,20,1
+292,7,"Oct 6, 1990",Wyoming,52,San Diego State,51,0
+293,8,"Oct 13, 1990",Vanderbilt,6,Auburn,56,1
+294,8,"Oct 13, 1990",Ball State,31,Kent State,0,0
+295,8,"Oct 13, 1990",Baylor,52,SMU,17,0
+296,8,"Oct 13, 1990",Boston College,41,Army,20,0
+297,8,"Oct 13, 1990",Colorado State,9,BYU,52,1
+298,8,"Oct 13, 1990",California,31,Arizona State,24,1
+299,8,"Oct 13, 1990",Central Michigan,20,Western Michigan,13,0
+300,8,"Oct 13, 1990",Colorado,28,Iowa State,12,0
+301,8,"Oct 13, 1990",Duke,49,Western Carolina,18,0
+302,8,"Oct 13, 1990",Georgia Tech,21,Clemson,19,0
+303,8,"Oct 13, 1990",Houston,36,Texas A&M,31,0
+304,8,"Oct 13, 1990",Illinois,34,Purdue,0,0
+305,8,"Oct 13, 1990",Iowa,30,Wisconsin,10,0
+306,8,"Oct 13, 1990",Kansas State,23,Oklahoma State,17,0
+307,8,"Oct 13, 1990",Kentucky,17,Mississippi State,15,0
+308,8,"Oct 13, 1990",Louisiana Tech,35,Tulsa,21,1
+309,8,"Oct 13, 1990",Louisville,19,Memphis,17,0
+310,8,"Oct 13, 1990",Maryland,41,Wake Forest,13,0
+311,8,"Oct 13, 1990",Miami,34,Kansas,0,0
+312,8,"Oct 13, 1990",Miami (OH),40,Ohio,18,1
+313,8,"Oct 13, 1990",Michigan State,28,Michigan,27,1
+314,8,"Oct 13, 1990",Minnesota,35,Northwestern,25,0
+315,8,"Oct 13, 1990",Ole Miss,28,Georgia,12,1
+316,8,"Oct 13, 1990",Navy,17,Akron,13,0
+317,8,"Oct 13, 1990",Nebraska,69,Missouri,21,0
+318,8,"Oct 13, 1990",UNLV,24,New Mexico State,20,1
+319,8,"Oct 13, 1990",Northern Illinois,35,Arkansas State,0,0
+320,8,"Oct 13, 1990",Notre Dame,57,Air Force,27,0
+321,8,"Oct 13, 1990",Indiana,27,Ohio State,27,0
+322,8,"Oct 13, 1990",Oregon State,35,Arizona,21,0
+323,8,"Oct 13, 1990",Pacific,67,Cal State Fullerton,37,1
+324,8,"Oct 13, 1990",Penn State,27,Syracuse,21,0
+325,8,"Oct 13, 1990",Pitt,45,Rutgers,21,0
+326,8,"Oct 13, 1990",San Jose State,46,Long Beach State,29,0
+327,8,"Oct 13, 1990",East Carolina,7,South Carolina,37,1
+328,8,"Oct 13, 1990",USC,37,Stanford,22,1
+329,8,"Oct 13, 1990",Southern Miss,20,Tulane,14,1
+330,8,"Oct 13, 1990",Tennessee,45,Florida,3,0
+331,8,"Oct 13, 1990",Texas,14,Oklahoma,13,0
+332,8,"Oct 13, 1990",TCU,38,Rice,28,0
+333,8,"Oct 13, 1990",Texas Tech,49,Arkansas,44,1
+334,8,"Oct 13, 1990",UTEP,12,Hawaii,10,0
+335,8,"Oct 13, 1990",Toledo,19,Bowling Green,13,0
+336,8,"Oct 13, 1990",UCLA,45,San Diego State,31,0
+337,8,"Oct 13, 1990",Fresno State,24,Utah State,24,0
+338,8,"Oct 13, 1990",Virginia,31,NC State,0,0
+339,8,"Oct 13, 1990",Washington,38,Oregon,17,0
+340,8,"Oct 13, 1990",West Virginia,28,Cincinnati,20,0
+341,8,"Oct 13, 1990",Wyoming,25,New Mexico,22,0
+342,9,"Oct 20, 1990",Alabama,9,Tennessee,6,1
+343,9,"Oct 20, 1990",Arizona,35,USC,26,1
+344,9,"Oct 20, 1990",Army,56,Lafayette,0,0
+345,9,"Oct 20, 1990",Auburn,20,Florida State,17,0
+346,9,"Oct 20, 1990",Texas A&M,20,Baylor,20,0
+347,9,"Oct 20, 1990",Bowling Green,25,Eastern Michigan,15,0
+348,9,"Oct 20, 1990",California,38,UCLA,31,0
+349,9,"Oct 20, 1990",Central Michigan,13,Toledo,12,0
+350,9,"Oct 20, 1990",Citadel,38,South Carolina,35,1
+351,9,"Oct 20, 1990",Clemson,24,NC State,17,1
+352,9,"Oct 20, 1990",Colorado,41,Kansas,10,1
+353,9,"Oct 20, 1990",New Mexico,7,Colorado State,47,1
+354,9,"Oct 20, 1990",East Carolina,56,Cincinnati,32,0
+355,9,"Oct 20, 1990",Florida,59,Akron,0,0
+356,9,"Oct 20, 1990",Fresno State,28,Long Beach State,16,0
+357,9,"Oct 20, 1990",Georgia,39,Vanderbilt,28,0
+358,9,"Oct 20, 1990",North Carolina,13,Georgia Tech,13,0
+359,9,"Oct 20, 1990",Hawaii,45,Cal State Fullerton,21,0
+360,9,"Oct 20, 1990",Houston,44,SMU,17,1
+361,9,"Oct 20, 1990",Illinois,15,Michigan State,13,0
+362,9,"Oct 20, 1990",Iowa,24,Michigan,23,1
+363,9,"Oct 20, 1990",Iowa State,33,Oklahoma,31,1
+364,9,"Oct 20, 1990",Kent State,44,Ohio,15,0
+365,9,"Oct 20, 1990",Louisiana,25,Tulsa,13,1
+366,9,"Oct 20, 1990",LSU,30,Kentucky,20,0
+367,9,"Oct 20, 1990",Louisville,27,Pitt,20,1
+368,9,"Oct 20, 1990",Maryland,23,Duke,20,1
+369,9,"Oct 20, 1990",Minnesota,12,Indiana,0,0
+370,9,"Oct 20, 1990",Ole Miss,42,Arkansas State,13,0
+371,9,"Oct 20, 1990",Mississippi State,38,Tulane,17,1
+372,9,"Oct 20, 1990",Missouri,31,Kansas State,10,0
+373,9,"Oct 20, 1990",Nebraska,31,Oklahoma State,3,0
+374,9,"Oct 20, 1990",Nevada,26,UNLV,14,1
+375,9,"Oct 20, 1990",Murray State,7,Northern Illinois,49,1
+376,9,"Oct 20, 1990",Northwestern,44,Wisconsin,34,0
+377,9,"Oct 20, 1990",Notre Dame,29,Miami,20,0
+378,9,"Oct 20, 1990",Ohio State,42,Purdue,2,1
+379,9,"Oct 20, 1990",Arizona State,7,Oregon,27,1
+380,9,"Oct 20, 1990",Pacific,62,New Mexico State,24,0
+381,9,"Oct 20, 1990",Penn State,40,Boston College,21,1
+382,9,"Oct 20, 1990",Rice,42,Texas Tech,21,0
+383,9,"Oct 20, 1990",San Jose State,34,Utah State,27,0
+384,9,"Oct 20, 1990",Memphis,7,Southern Miss,23,1
+385,9,"Oct 20, 1990",Syracuse,42,Rutgers,0,0
+386,9,"Oct 20, 1990",Temple,31,Virginia Tech,28,0
+387,9,"Oct 20, 1990",Texas,49,Arkansas,17,0
+388,9,"Oct 20, 1990",Utah,37,UTEP,23,0
+389,9,"Oct 20, 1990",Virginia,49,Wake Forest,14,1
+390,9,"Oct 20, 1990",Washington,52,Stanford,16,1
+391,9,"Oct 20, 1990",Washington State,55,Oregon State,24,1
+392,9,"Oct 20, 1990",Western Michigan,14,Ball State,13,0
+393,9,"Oct 20, 1990",Wyoming,21,Weber State,12,0
+394,10,"Oct 27, 1990",Air Force,52,Utah,21,0
+395,10,"Oct 27, 1990",Arizona,42,Washington State,34,0
+396,10,"Oct 27, 1990",Auburn,17,Mississippi State,16,1
+397,10,"Oct 27, 1990",Ball State,42,Indiana State,0,0
+398,10,"Oct 27, 1990",Baylor,27,TCU,21,1
+399,10,"Oct 27, 1990",Boston College,27,West Virginia,14,1
+400,10,"Oct 27, 1990",Central Michigan,16,Eastern Michigan,12,1
+401,10,"Oct 27, 1990",Wake Forest,6,Clemson,24,0
+402,10,"Oct 27, 1990",Colorado,32,Oklahoma,23,0
+403,10,"Oct 27, 1990",Florida State,42,LSU,3,0
+404,10,"Oct 27, 1990",Georgia Tech,48,Duke,31,0
+405,10,"Oct 27, 1990",Hawaii,35,Pacific,24,0
+406,10,"Oct 27, 1990",Houston,62,Arkansas,28,0
+407,10,"Oct 27, 1990",Wisconsin,3,Illinois,21,0
+408,10,"Oct 27, 1990",Iowa,56,Northwestern,14,0
+409,10,"Oct 27, 1990",Navy,7,James Madison,16,0
+410,10,"Oct 27, 1990",Kansas,27,Kansas State,24,0
+411,10,"Oct 27, 1990",Kentucky,26,Georgia,24,0
+412,10,"Oct 27, 1990",Long Beach State,37,Cal State Fullerton,35,0
+413,10,"Oct 27, 1990",Louisiana Tech,31,Stephen F. Austin,22,0
+414,10,"Oct 27, 1990",Western Kentucky,7,Louisville,41,1
+415,10,"Oct 27, 1990",Louisiana,6,Memphis,20,1
+416,10,"Oct 27, 1990",Miami,45,Texas Tech,10,1
+417,10,"Oct 27, 1990",Bowling Green,10,Miami (OH),10,0
+418,10,"Oct 27, 1990",Michigan,45,Indiana,19,1
+419,10,"Oct 27, 1990",Michigan State,55,Purdue,33,0
+420,10,"Oct 27, 1990",Ole Miss,14,Vanderbilt,13,1
+421,10,"Oct 27, 1990",Nebraska,45,Iowa State,13,1
+422,10,"Oct 27, 1990",North Carolina,34,Maryland,10,0
+423,10,"Oct 27, 1990",NC State,38,South Carolina,29,0
+424,10,"Oct 27, 1990",Notre Dame,31,Pitt,22,1
+425,10,"Oct 27, 1990",Ohio State,52,Minnesota,23,0
+426,10,"Oct 27, 1990",Oklahoma State,48,Missouri,28,0
+427,10,"Oct 27, 1990",Oregon,31,Stanford,0,0
+428,10,"Oct 27, 1990",Penn State,9,Alabama,0,1
+429,10,"Oct 27, 1990",Rutgers,20,Akron,17,0
+430,10,"Oct 27, 1990",Arizona State,6,USC,13,0
+431,10,"Oct 27, 1990",Syracuse,26,Army,14,1
+432,10,"Oct 27, 1990",Temple,30,East Carolina,27,0
+433,10,"Oct 27, 1990",Texas,52,SMU,3,0
+434,10,"Oct 27, 1990",Texas A&M,41,Rice,15,0
+435,10,"Oct 27, 1990",Toledo,28,Kent State,14,0
+436,10,"Oct 27, 1990",Cincinnati,7,Tulane,49,1
+437,10,"Oct 27, 1990",Tulsa,35,New Mexico State,10,1
+438,10,"Oct 27, 1990",UCLA,26,Oregon State,17,0
+439,10,"Oct 27, 1990",UNLV,6,Utah State,31,1
+440,10,"Oct 27, 1990",Virginia Tech,20,Southern Miss,16,0
+441,10,"Oct 27, 1990",California,7,Washington,46,1
+442,10,"Oct 27, 1990",Western Michigan,31,Ohio,23,1
+443,10,"Oct 27, 1990",Wyoming,17,UTEP,10,1
+444,10,"Oct 29, 1990",BYU,55,New Mexico,31,0
+445,11,"Nov 2, 1990",North Texas,35,Arkansas State,26,0
+446,11,"Nov 3, 1990",Alabama,22,Mississippi State,0,1
+447,11,"Nov 3, 1990",Oregon State,9,Arizona State,34,1
+448,11,"Nov 3, 1990",Army,35,Rutgers,31,0
+449,11,"Nov 3, 1990",Central Michigan,3,Ball State,13,0
+450,11,"Nov 3, 1990",Bowling Green,20,Kent State,16,1
+451,11,"Nov 3, 1990",Air Force,7,BYU,54,0
+452,11,"Nov 3, 1990",USC,31,California,31,0
+453,11,"Nov 3, 1990",North Carolina,3,Clemson,20,1
+454,11,"Nov 3, 1990",Colorado,27,Nebraska,12,1
+455,11,"Nov 3, 1990",Wyoming,8,Colorado State,17,1
+456,11,"Nov 3, 1990",Duke,57,Wake Forest,20,0
+457,11,"Nov 3, 1990",East Carolina,24,Memphis,17,1
+458,11,"Nov 3, 1990",Auburn,7,Florida,48,1
+459,11,"Nov 3, 1990",Florida State,41,South Carolina,10,1
+460,11,"Nov 3, 1990",Fresno State,45,UNLV,18,1
+461,11,"Nov 3, 1990",Georgia Tech,41,Virginia,38,1
+462,11,"Nov 3, 1990",Hawaii,43,New Mexico,16,0
+463,11,"Nov 3, 1990",Houston,56,TCU,35,0
+464,11,"Nov 3, 1990",Iowa,54,Illinois,28,1
+465,11,"Nov 3, 1990",Kansas,31,Oklahoma State,30,1
+466,11,"Nov 3, 1990",Kansas State,28,Iowa State,14,0
+467,11,"Nov 3, 1990",Louisiana-Monroe,7,Louisiana Tech,31,0
+468,11,"Nov 3, 1990",Louisville,41,Cincinnati,16,1
+469,11,"Nov 3, 1990",Miami,45,Pitt,0,0
+470,11,"Nov 3, 1990",Miami (OH),34,Eastern Michigan,14,0
+471,11,"Nov 3, 1990",Michigan,38,Purdue,13,1
+472,11,"Nov 3, 1990",Michigan State,45,Indiana,20,0
+473,11,"Nov 3, 1990",Wisconsin,3,Minnesota,21,0
+474,11,"Nov 3, 1990",Ole Miss,19,LSU,10,1
+475,11,"Nov 3, 1990",Northern Illinois,31,Akron,28,1
+476,11,"Nov 3, 1990",Notre Dame,52,Navy,31,0
+477,11,"Nov 3, 1990",Northwestern,7,Ohio State,48,1
+478,11,"Nov 3, 1990",Oklahoma,55,Missouri,10,1
+479,11,"Nov 3, 1990",Oregon,28,UCLA,24,0
+480,11,"Nov 3, 1990",Pacific,41,Portland State,35,0
+481,11,"Nov 3, 1990",Penn State,31,West Virginia,19,1
+482,11,"Nov 3, 1990",Rice,19,Arkansas,11,1
+483,11,"Nov 3, 1990",San Diego State,66,Utah,14,0
+484,11,"Nov 3, 1990",Cal State Fullerton,6,San Jose State,44,0
+485,11,"Nov 3, 1990",Southern Miss,14,Louisiana,13,1
+486,11,"Nov 3, 1990",Stanford,31,Washington State,13,0
+487,11,"Nov 3, 1990",Boston College,6,Syracuse,35,0
+488,11,"Nov 3, 1990",Tennessee,41,Temple,20,0
+489,11,"Nov 3, 1990",Texas,41,Texas Tech,22,1
+490,11,"Nov 3, 1990",Texas A&M,38,SMU,17,1
+491,11,"Nov 3, 1990",Western Michigan,9,Toledo,37,0
+492,11,"Nov 3, 1990",Utah State,55,New Mexico State,10,0
+493,11,"Nov 3, 1990",Virginia Tech,20,NC State,16,0
+494,11,"Nov 3, 1990",Washington,54,Arizona,10,0
+495,11,"Nov 3, 1990",Youngstown State,27,Ohio,0,0
+496,12,"Nov 10, 1990",Army,3,Air Force,15,0
+497,12,"Nov 10, 1990",LSU,3,Alabama,24,1
+498,12,"Nov 10, 1990",Arizona State,51,Washington State,26,1
+499,12,"Nov 10, 1990",Ball State,20,Eastern Michigan,13,1
+500,12,"Nov 10, 1990",Baylor,34,Arkansas,3,0
+501,12,"Nov 10, 1990",BYU,45,Wyoming,14,1
+502,12,"Nov 10, 1990",Oregon,3,California,28,1
+503,12,"Nov 10, 1990",Ohio,7,Central Michigan,52,0
+504,12,"Nov 10, 1990",Colorado,41,Oklahoma State,22,0
+505,12,"Nov 10, 1990",Colorado State,31,Tulsa,13,0
+506,12,"Nov 10, 1990",East Carolina,24,Northern Illinois,20,0
+507,12,"Nov 10, 1990",Georgia,7,Florida,38,1
+508,12,"Nov 10, 1990",Florida State,70,Cincinnati,21,0
+509,12,"Nov 10, 1990",Fresno State,48,Pacific,17,0
+510,12,"Nov 10, 1990",Georgia Tech,6,Virginia Tech,3,0
+511,12,"Nov 10, 1990",Wisconsin,7,Indiana,20,1
+512,12,"Nov 10, 1990",Iowa State,27,Missouri,25,0
+513,12,"Nov 10, 1990",Kentucky,28,Vanderbilt,21,0
+514,12,"Nov 10, 1990",Long Beach State,25,Cal State Northridge,24,0
+515,12,"Nov 10, 1990",Louisiana,17,Arkansas State,16,1
+516,12,"Nov 10, 1990",Louisiana Tech,36,Akron,15,0
+517,12,"Nov 10, 1990",Louisville,17,Boston College,10,0
+518,12,"Nov 10, 1990",Miami (OH),31,Kent State,10,0
+519,12,"Nov 10, 1990",Michigan,22,Illinois,17,0
+520,12,"Nov 10, 1990",Michigan State,28,Minnesota,16,1
+521,12,"Nov 10, 1990",Mississippi State,27,Memphis,23,1
+522,12,"Nov 10, 1990",Navy,14,Toledo,10,1
+523,12,"Nov 10, 1990",Kansas,9,Nebraska,41,0
+524,12,"Nov 10, 1990",NC State,16,Duke,0,0
+525,12,"Nov 10, 1990",Notre Dame,34,Tennessee,29,1
+526,12,"Nov 10, 1990",Ohio State,27,Iowa,26,1
+527,12,"Nov 10, 1990",Kansas State,7,Oklahoma,34,1
+528,12,"Nov 10, 1990",Penn State,24,Maryland,10,0
+529,12,"Nov 10, 1990",Purdue,33,Northwestern,13,1
+530,12,"Nov 10, 1990",Rice,30,SMU,28,0
+531,12,"Nov 10, 1990",San Diego State,44,Hawaii,38,0
+532,12,"Nov 10, 1990",San Jose State,56,New Mexico State,20,1
+533,12,"Nov 10, 1990",South Carolina,38,Southern Illinois,13,0
+534,12,"Nov 10, 1990",Oregon State,7,USC,56,0
+535,12,"Nov 10, 1990",Southern Miss,13,Auburn,12,1
+536,12,"Nov 10, 1990",Stanford,23,Arizona,10,1
+537,12,"Nov 10, 1990",Temple,28,Pitt,18,1
+538,12,"Nov 10, 1990",Texas,45,Houston,24,0
+539,12,"Nov 10, 1990",Texas Tech,40,TCU,28,1
+540,12,"Nov 10, 1990",Tulane,26,Syracuse,24,1
+541,12,"Nov 10, 1990",UCLA,25,Washington,22,1
+542,12,"Nov 10, 1990",Utah,29,New Mexico,27,1
+543,12,"Nov 10, 1990",Utah State,45,Cal State Fullerton,17,1
+544,12,"Nov 10, 1990",Virginia,24,North Carolina,10,1
+545,12,"Nov 10, 1990",Rutgers,3,West Virginia,28,0
+546,12,"Nov 10, 1990",Western Michigan,19,Bowling Green,13,1
+547,13,"Nov 17, 1990",Air Force,14,UTEP,13,1
+548,13,"Nov 17, 1990",Cincinnati,7,Alabama,45,1
+549,13,"Nov 17, 1990",Army,42,Vanderbilt,38,1
+550,13,"Nov 17, 1990",Auburn,33,Georgia,10,0
+551,13,"Nov 17, 1990",Ohio,6,Ball State,23,1
+552,13,"Nov 17, 1990",Baylor,17,Rice,16,1
+553,13,"Nov 17, 1990",BYU,45,Utah,22,1
+554,13,"Nov 17, 1990",Clemson,24,South Carolina,15,0
+555,13,"Nov 17, 1990",Colorado,64,Kansas State,3,0
+556,13,"Nov 17, 1990",Florida,47,Kentucky,15,1
+557,13,"Nov 17, 1990",Florida State,35,Memphis,3,0
+558,13,"Nov 17, 1990",Wake Forest,7,Georgia Tech,42,0
+559,13,"Nov 17, 1990",Hawaii,38,Wyoming,17,0
+560,13,"Nov 17, 1990",Houston,84,Eastern Washington,21,0
+561,13,"Nov 17, 1990",Illinois,24,Indiana,10,1
+562,13,"Nov 17, 1990",Purdue,9,Iowa,38,1
+563,13,"Nov 17, 1990",Kent State,25,Eastern Michigan,24,0
+564,13,"Nov 17, 1990",Long Beach State,29,UNLV,20,0
+565,13,"Nov 17, 1990",Louisiana,24,Northern Illinois,20,0
+566,13,"Nov 17, 1990",Louisiana Tech,31,Colorado State,30,0
+567,13,"Nov 17, 1990",Maryland,35,Virginia,30,1
+568,13,"Nov 17, 1990",Miami,42,Boston College,12,0
+569,13,"Nov 17, 1990",Michigan,35,Minnesota,18,0
+570,13,"Nov 17, 1990",Michigan State,29,Northwestern,22,1
+571,13,"Nov 17, 1990",Mississippi State,34,LSU,22,0
+572,13,"Nov 17, 1990",Missouri,31,Kansas,21,1
+573,13,"Nov 17, 1990",Navy,31,Delaware,27,0
+574,13,"Nov 17, 1990",Cal State Fullerton,9,New Mexico State,43,1
+575,13,"Nov 17, 1990",North Carolina,24,Duke,22,1
+576,13,"Nov 17, 1990",Ohio State,35,Wisconsin,10,1
+577,13,"Nov 17, 1990",Oklahoma State,25,Iowa State,17,1
+578,13,"Nov 17, 1990",Oregon,6,Oregon State,3,1
+579,13,"Nov 17, 1990",Penn State,24,Notre Dame,21,1
+580,13,"Nov 17, 1990",San Diego State,40,New Mexico,34,1
+581,13,"Nov 17, 1990",Fresno State,7,San Jose State,42,1
+582,13,"Nov 17, 1990",USC,45,UCLA,42,1
+583,13,"Nov 17, 1990",Stanford,27,California,25,1
+584,13,"Nov 17, 1990",West Virginia,7,Syracuse,31,0
+585,13,"Nov 17, 1990",Temple,29,Rutgers,22,0
+586,13,"Nov 17, 1990",Tennessee,22,Ole Miss,13,0
+587,13,"Nov 17, 1990",Texas,38,TCU,10,1
+588,13,"Nov 17, 1990",Texas A&M,20,Arkansas,16,1
+589,13,"Nov 17, 1990",SMU,7,Texas Tech,62,1
+590,13,"Nov 17, 1990",Toledo,43,Arkansas State,28,0
+591,13,"Nov 17, 1990",Tulsa,20,Montana State,2,0
+592,13,"Nov 17, 1990",Utah State,51,Pacific,45,0
+593,13,"Nov 17, 1990",Washington,55,Washington State,10,1
+594,13,"Nov 17, 1990",Western Michigan,31,Miami (OH),17,0
+595,14,"Nov 22, 1990",South Carolina,29,West Virginia,10,0
+596,14,"Nov 23, 1990",Oklahoma,45,Nebraska,10,0
+597,14,"Nov 24, 1990",Arizona,21,Arizona State,17,0
+598,14,"Nov 24, 1990",Arkansas,42,SMU,29,1
+599,14,"Nov 24, 1990",BYU,45,Utah State,10,0
+600,14,"Nov 24, 1990",Colorado State,30,Hawaii,27,1
+601,14,"Nov 24, 1990",Illinois,28,Northwestern,23,0
+602,14,"Nov 24, 1990",Indiana,28,Purdue,14,1
+603,14,"Nov 24, 1990",LSU,16,Tulane,13,0
+604,14,"Nov 24, 1990",Syracuse,7,Miami,33,1
+605,14,"Nov 24, 1990",Michigan,16,Ohio State,13,1
+606,14,"Nov 24, 1990",Wisconsin,9,Michigan State,14,1
+607,14,"Nov 24, 1990",Minnesota,31,Iowa,24,0
+608,14,"Nov 24, 1990",Mississippi State,9,Ole Miss,21,1
+609,14,"Nov 24, 1990",USC,6,Notre Dame,10,0
+610,14,"Nov 24, 1990",Penn State,22,Pitt,17,0
+611,14,"Nov 24, 1990",San Diego State,58,UTEP,31,0
+612,14,"Nov 24, 1990",Temple,29,Boston College,10,1
+613,14,"Nov 24, 1990",Tennessee,42,Kentucky,28,0
+614,14,"Nov 24, 1990",Texas,23,Baylor,13,1
+615,14,"Nov 24, 1990",Texas A&M,56,TCU,10,0
+616,14,"Nov 24, 1990",Virginia Tech,38,Virginia,13,0
+617,14,"Nov 24, 1990",Wake Forest,56,Vanderbilt,28,1
+618,15,"Dec 1, 1990",Auburn,7,Alabama,16,1
+619,15,"Dec 1, 1990",Florida State,45,Florida,30,0
+620,15,"Dec 1, 1990",Georgia Tech,40,Georgia,23,1
+621,15,"Dec 1, 1990",Hawaii,59,BYU,28,0
+622,15,"Dec 1, 1990",Miami,30,San Diego State,28,1
+623,15,"Dec 1, 1990",Tennessee,49,Vanderbilt,20,1
+624,15,"Dec 1, 1990",Texas,28,Texas A&M,27,0
+625,15,"Dec 2, 1990",Houston,62,Arizona State,45,0
+626,16,"Dec 8, 1990",Army,30,Navy,20,0
+627,16,"Dec 8, 1990",San Jose State,48,Central Michigan,24,0
+628,17,"Dec 15, 1990",Maryland,34,Louisiana Tech,34,0
+629,18,"Dec 25, 1990",Syracuse,28,Arizona,0,0
+630,18,"Dec 27, 1990",Air Force,23,Ohio State,11,0
+631,18,"Dec 28, 1990",Florida State,24,Penn State,17,0
+632,18,"Dec 28, 1990",NC State,31,Southern Miss,27,0
+633,18,"Dec 29, 1990",Auburn,27,Indiana,23,0
+634,18,"Dec 29, 1990",Colorado State,32,Oregon,31,0
+635,18,"Dec 29, 1990",Texas A&M,65,BYU,14,0
+636,19,"Dec 31, 1990",California,17,Wyoming,15,0
+637,19,"Dec 31, 1990",Michigan State,17,USC,16,0
+638,20,"Jan 1, 1991",Clemson,30,Illinois,0,0
+639,20,"Jan 1, 1991",Notre Dame,9,Colorado,10,1
+640,20,"Jan 1, 1991",Georgia Tech,45,Nebraska,21,0
+641,20,"Jan 1, 1991",Alabama,7,Louisville,34,1
+642,20,"Jan 1, 1991",Miami,46,Texas,3,0
+643,20,"Jan 1, 1991",Michigan,35,Ole Miss,3,0
+644,20,"Jan 1, 1991",Tennessee,23,Virginia,22,0
+645,20,"Jan 1, 1991",Washington,46,Iowa,34,0

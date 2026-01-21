@@ -1,0 +1,480 @@
+0,1,"Sep 17, 1904",Carlisle,28,Lebanon Valley,0,0
+1,1,"Sep 17, 1904",Lombard,5,Chicago,40,1
+2,1,"Sep 17, 1904",Minnesota,107,Twin Cities Central High,0,0
+3,1,"Sep 17, 1904",Purdue Alumni,6,Purdue,2,0
+4,2,"Sep 21, 1904",Chicago,72,Englewood High,0,0
+5,2,"Sep 23, 1904",Haskell,47,Friends,0,0
+6,2,"Sep 24, 1904",Rockford High,5,Beloit,17,1
+7,2,"Sep 24, 1904",Bowdoin,23,Camp Preble,0,0
+8,2,"Sep 24, 1904",Bucknell,30,Lebanon Valley,0,0
+9,2,"Sep 24, 1904",Chicago,29,Lawrence,0,0
+10,2,"Sep 24, 1904",Colorado,6,Colorado Alumni,0,0
+11,2,"Sep 24, 1904",Colorado College,12,Colorado Springs High,0,0
+12,2,"Sep 24, 1904",Columbia,10,Union (NY),0,0
+13,2,"Sep 24, 1904",Dickinson,10,Western Maryland,0,0
+14,2,"Sep 24, 1904",Drake,18,Buena Vista,0,0
+15,2,"Sep 24, 1904",Illinois,10,North Central,0,0
+16,2,"Sep 24, 1904",Indiana Alumni,5,Indiana,11,1
+17,2,"Sep 24, 1904",Iowa,17,Coe,0,0
+18,2,"Sep 24, 1904",Kansas,6,Emporia College,0,0
+19,2,"Sep 24, 1904",Lafayette,35,Wyoming Seminary,0,0
+20,2,"Sep 24, 1904",Lehigh,37,Albright,0,0
+21,2,"Sep 24, 1904",Holy Cross,0,Massachusetts,0,0
+22,2,"Sep 24, 1904",Minnesota,77,South Dakota,0,0
+23,2,"Sep 24, 1904",Nebraska,72,Grand Island,0,0
+24,2,"Sep 24, 1904",New Hampshire,4,Tufts,0,1
+25,2,"Sep 24, 1904",NC State,59,Guilford,0,0
+26,2,"Sep 24, 1904",Northwestern,17,Fort Sheridan,0,0
+27,2,"Sep 24, 1904",Ohio State,34,Otterbein,0,0
+28,2,"Sep 24, 1904",Pennsylvania,6,Penn State,0,0
+29,2,"Sep 24, 1904",Purdue,5,North Division High,0,0
+30,2,"Sep 24, 1904",Sewanee,47,Mooney,0,0
+31,2,"Sep 24, 1904",Virginia,16,Randolph-Macon,0,0
+32,2,"Sep 24, 1904",Wabash,16,Earlham,0,1
+33,2,"Sep 24, 1904",Washington (MO),10,Shurtleff,0,0
+34,2,"Sep 24, 1904",Williams Alumni,0,Williams,0,0
+35,2,"Sep 26, 1904",Georgetown,22,Maryland,0,0
+36,3,"Sep 27, 1904",Iowa,33,Augustana (South Dakota),2,0
+37,3,"Sep 27, 1904",Nebraska,17,Lincoln High,0,0
+38,3,"Sep 28, 1904",Amherst,23,Bowdoin,0,0
+39,3,"Sep 28, 1904",Chicago,18,North Division High,0,0
+40,3,"Sep 28, 1904",Columbia,28,Franklin & Marshall,0,0
+41,3,"Sep 28, 1904",Cornell,17,Colgate,0,0
+42,3,"Sep 28, 1904",Dartmouth,17,Massachusetts,0,0
+43,3,"Sep 28, 1904",Harvard,24,Williams,0,0
+44,3,"Sep 28, 1904",Illinois,23,Wabash,2,0
+45,3,"Sep 28, 1904",Indiana,12,Indiana Medical,0,0
+46,3,"Sep 28, 1904",Pennsylvania,6,Swarthmore,4,0
+47,3,"Sep 28, 1904",Princeton,12,Dickinson,0,0
+48,3,"Sep 28, 1904",Purdue,11,Beloit,0,0
+49,3,"Sep 28, 1904",Virginia,17,Washington & Lee,0,0
+50,3,"Sep 28, 1904",Yale,22,Wesleyan (CT),0,0
+51,3,"Oct 1, 1904",Army,12,Tufts,0,0
+52,3,"Oct 1, 1904",Beloit,34,Beloit High,0,0
+53,3,"Oct 1, 1904",Bucknell,26,Villanova,0,0
+54,3,"Oct 1, 1904",Carlisle,41,Gettysburg,0,0
+55,3,"Oct 1, 1904",Chicago,56,Indiana,0,0
+56,3,"Oct 1, 1904",Colby,23,New Hampshire,0,0
+57,3,"Oct 1, 1904",Utah,6,Colorado,33,0
+58,3,"Oct 1, 1904",Colorado College,6,Pueblo High,5,0
+59,3,"Oct 1, 1904",Columbia,16,Wesleyan (CT),0,0
+60,3,"Oct 1, 1904",Rochester,6,Cornell,29,1
+61,3,"Oct 1, 1904",Denver,18,Colorado State,0,1
+62,3,"Oct 1, 1904",Dickinson,58,Albright,0,0
+63,3,"Oct 1, 1904",Exeter,11,Bowdoin,0,0
+64,3,"Oct 1, 1904",Camp McPherson,5,Georgia Tech,11,1
+65,3,"Oct 1, 1904",Haskell,34,Ottawa,0,1
+66,3,"Oct 1, 1904",Bates,0,Holy Cross,0,0
+67,3,"Oct 1, 1904",Illinois,11,Knox,0,0
+68,3,"Oct 1, 1904",Iowa,88,Cornell College,0,0
+69,3,"Oct 1, 1904",Iowa State,22,Coe,0,0
+70,3,"Oct 1, 1904",Kansas,34,Emporia State,0,0
+71,3,"Oct 1, 1904",Lafayette,12,Ursinus,0,0
+72,3,"Oct 1, 1904",Maine,6,Brown,0,1
+73,3,"Oct 1, 1904",Massachusetts,12,Williams,0,0
+74,3,"Oct 1, 1904",Michigan,33,Case,0,0
+75,3,"Oct 1, 1904",Minnesota,65,Carleton,0,0
+76,3,"Oct 1, 1904",Missouri,6,Truman State,0,0
+77,3,"Oct 1, 1904",Nebraska,46,Grinnell,0,0
+78,3,"Oct 1, 1904",North Carolina,29,Guilford,0,0
+79,3,"Oct 1, 1904",NC State,6,Virginia Military Institute,0,1
+80,3,"Oct 1, 1904",Northwestern,34,North Central,0,0
+81,3,"Oct 1, 1904",Wabash,4,Notre Dame,12,1
+82,3,"Oct 1, 1904",Ohio State,80,Miami (OH),0,0
+83,3,"Oct 1, 1904",Penn State,50,Allegheny,0,0
+84,3,"Oct 1, 1904",Pennsylvania,24,Virginia,0,0
+85,3,"Oct 1, 1904",Princeton,10,Georgetown,0,0
+86,3,"Oct 1, 1904",Purdue,28,Earlham,11,1
+87,3,"Oct 1, 1904",Sewanee,58,Tennessee Medical College,0,0
+88,3,"Oct 1, 1904",Swarthmore,20,Lehigh,0,1
+89,3,"Oct 1, 1904",Tennessee,17,Maryville (TN),0,0
+90,3,"Oct 1, 1904",TCU,0,Baylor,0,0
+91,3,"Oct 1, 1904",Vanderbilt,61,Mississippi State,0,1
+92,3,"Oct 1, 1904",Virginia Tech,18,Richmond,0,0
+93,3,"Oct 1, 1904",Rose-Hulman,5,Washington (MO),16,1
+94,3,"Oct 1, 1904",Western Maryland,12,Franklin & Marshall,0,1
+95,3,"Oct 1, 1904",Wisconsin,45,Fort Sheridan,0,0
+96,3,"Oct 1, 1904",Yale,42,Trinity (CT),0,0
+97,3,"Oct 3, 1904",Alabama,29,Florida,0,0
+98,4,"Oct 4, 1904",Auburn,44,Florida,0,0
+99,4,"Oct 4, 1904",Columbia,31,Tufts,0,0
+100,4,"Oct 5, 1904",Bates,6,New Hampshire,0,1
+101,4,"Oct 5, 1904",Carlisle,53,Susquehanna,0,0
+102,4,"Oct 5, 1904",Cornell,24,Hobart,0,0
+103,4,"Oct 5, 1904",Dickinson,18,Mercersburg Academy,0,0
+104,4,"Oct 5, 1904",Harvard,17,Bowdoin,0,0
+105,4,"Oct 5, 1904",Illinois,26,Physicians & Surgeons,0,0
+106,4,"Oct 5, 1904",Lafayette,20,Gettysburg,0,0
+107,4,"Oct 5, 1904",Michigan,48,Ohio Northern,0,0
+108,4,"Oct 5, 1904",Northwestern,18,North Division High,0,0
+109,4,"Oct 5, 1904",Ohio State,46,Muskingum,0,0
+110,4,"Oct 5, 1904",Pennsylvania,34,Franklin & Marshall,0,0
+111,4,"Oct 5, 1904",Princeton,39,Wesleyan (CT),0,0
+112,4,"Oct 5, 1904",Yale,23,Holy Cross,0,0
+113,4,"Oct 6, 1904",Kansas,6,Haskell,23,0
+114,4,"Oct 6, 1904",Iowa,17,Drake,0,1
+115,4,"Oct 7, 1904",Missouri,7,Simpson,0,0
+116,4,"Oct 7, 1904",Virginia Tech,24,Washington & Lee,0,0
+117,4,"Oct 8, 1904",Amherst,23,New York University,0,0
+118,4,"Oct 8, 1904",Army,18,Dickinson,0,0
+119,4,"Oct 8, 1904",Beloit,77,Wisconsin-Platteville,0,0
+120,4,"Oct 8, 1904",Bowdoin,52,Colby,0,0
+121,4,"Oct 8, 1904",Brown,27,Massachusetts,0,0
+122,4,"Oct 8, 1904",Bucknell,4,Carlisle,10,1
+123,4,"Oct 8, 1904",Chicago,20,Purdue,0,0
+124,4,"Oct 8, 1904",Clemson,18,Alabama,0,1
+125,4,"Oct 8, 1904",Colorado,6,Nebraska,0,0
+126,4,"Oct 8, 1904",Colorado College,5,Denver,0,0
+127,4,"Oct 8, 1904",Colorado Mines,51,Colorado State,0,0
+128,4,"Oct 8, 1904",Columbia,11,Williams,0,0
+129,4,"Oct 8, 1904",Cornell,34,Hamilton,0,0
+130,4,"Oct 8, 1904",Dartmouth,37,Vermont,0,0
+131,4,"Oct 8, 1904",Exeter,29,Bates,0,1
+132,4,"Oct 8, 1904",Georgia,52,Florida,0,0
+133,4,"Oct 8, 1904",Georgia Tech,35,Florida State,0,0
+134,4,"Oct 8, 1904",Grinnell,5,East Des Moines High,0,0
+135,4,"Oct 8, 1904",Harvard,23,Maine,0,0
+136,4,"Oct 8, 1904",Illinois,31,Washington (MO),0,1
+137,4,"Oct 8, 1904",Iowa State,17,Northern Iowa,0,0
+138,4,"Oct 8, 1904",Kentucky,12,Indiana,0,1
+139,4,"Oct 8, 1904",Lafayette,53,Gallaudet,0,0
+140,4,"Oct 8, 1904",Michigan,95,Kalamazoo,0,0
+141,4,"Oct 8, 1904",Minnesota,35,North Dakota,0,0
+142,4,"Oct 8, 1904",Navy,12,Virginia Military Institute,0,0
+143,4,"Oct 8, 1904",North Carolina,0,Davidson,0,0
+144,4,"Oct 8, 1904",Northwestern,55,Lombard,0,0
+145,4,"Oct 8, 1904",Notre Dame,44,American Medical,0,0
+146,4,"Oct 8, 1904",Ohio State,24,Denison,0,0
+147,4,"Oct 8, 1904",Pennsylvania,24,Lehigh,0,0
+148,4,"Oct 8, 1904",Princeton,16,Washington & Jefferson,0,0
+149,4,"Oct 8, 1904",St. John's (Maryland),11,Franklin & Marshall,0,1
+150,4,"Oct 8, 1904",Swarthmore,17,Jefferson Medical,0,0
+151,4,"Oct 8, 1904",Tennessee Medical College,21,Nashville,0,1
+152,4,"Oct 8, 1904",Texas,40,TCU,0,0
+153,4,"Oct 8, 1904",Texas A&M,49,Texas Deaf School,0,0
+154,4,"Oct 8, 1904",Trinity (Texas),22,Baylor,0,1
+155,4,"Oct 8, 1904",Vanderbilt,66,Georgetown (Kentucky),0,0
+156,4,"Oct 8, 1904",Wisconsin,33,Marquette,0,0
+157,4,"Oct 8, 1904",WPI,17,Tufts,0,0
+158,4,"Oct 8, 1904",Yale,24,Penn State,0,0
+159,4,"Oct 10, 1904",Marine Officers,6,Virginia Military Institute,26,1
+160,5,"Oct 12, 1904",Brown,12,Wesleyan (CT),0,0
+161,5,"Oct 12, 1904",Columbia,12,Swarthmore,0,0
+162,5,"Oct 12, 1904",Harvard,11,Bates,0,0
+163,5,"Oct 12, 1904",Maine,6,New Hampshire,0,0
+164,5,"Oct 12, 1904",Michigan,72,Physicians & Surgeons,0,0
+165,5,"Oct 12, 1904",Navy,68,Marine Officers,0,0
+166,5,"Oct 12, 1904",North Carolina,50,Bingham,0,0
+167,5,"Oct 12, 1904",Pennsylvania,21,Gettysburg,0,0
+168,5,"Oct 12, 1904",Princeton,5,Lafayette,0,0
+169,5,"Oct 12, 1904",Virginia Tech,32,Nashville,0,0
+170,5,"Oct 12, 1904",Yale,6,Springfield,0,0
+171,5,"Oct 15, 1904",Alabama,6,Mississippi State,0,1
+172,5,"Oct 15, 1904",Amherst,12,Columbia,0,1
+173,5,"Oct 15, 1904",Auburn,5,Clemson,0,1
+174,5,"Oct 15, 1904",Bates,6,Maine,0,1
+175,5,"Oct 15, 1904",Bowdoin,32,Camp McKinley,0,0
+176,5,"Oct 15, 1904",Carlisle,100,Albright,0,0
+177,5,"Oct 15, 1904",Chicago,39,Iowa,0,0
+178,5,"Oct 15, 1904",Kansas,6,Colorado,6,0
+179,5,"Oct 15, 1904",Colorado College,41,Sacred Heart,0,0
+180,5,"Oct 15, 1904",Denver,6,Colorado Mines,13,1
+181,5,"Oct 15, 1904",Cornell,24,Bucknell,12,0
+182,5,"Oct 15, 1904",Grinnell,5,Cornell College,5,0
+183,5,"Oct 15, 1904",Dartmouth,11,Williams,0,1
+184,5,"Oct 15, 1904",Dickinson,57,Franklin & Marshall,0,1
+185,5,"Oct 15, 1904",Drake,52,Coe,0,0
+186,5,"Oct 15, 1904",Fort Worth,4,TCU,0,0
+187,5,"Oct 15, 1904",Georgetown,17,Villanova,0,0
+188,5,"Oct 15, 1904",Georgia Tech,51,Mooney,0,0
+189,5,"Oct 15, 1904",Harvard,4,Army,0,1
+190,5,"Oct 15, 1904",Haskell,39,Missouri,0,0
+191,5,"Oct 15, 1904",Haverford,6,Lehigh,0,1
+192,5,"Oct 15, 1904",Holy Cross,34,Tufts,0,0
+193,5,"Oct 15, 1904",Illinois,10,Indiana,0,0
+194,5,"Oct 15, 1904",Colby,0,Kents Hill,0,0
+195,5,"Oct 15, 1904",Lafayette,33,Bloomsburg,0,0
+196,5,"Oct 15, 1904",Wesleyan (CT),6,Massachusetts,24,1
+197,5,"Oct 15, 1904",Ohio State,6,Michigan,31,0
+198,5,"Oct 15, 1904",Minnesota,32,Iowa State,0,0
+199,5,"Oct 15, 1904",Tennessee,0,Nashville,0,0
+200,5,"Oct 15, 1904",Princeton,9,Navy,10,1
+201,5,"Oct 15, 1904",Nebraska,39,Creighton,0,1
+202,5,"Oct 15, 1904",North Carolina,27,South Carolina,0,0
+203,5,"Oct 15, 1904",Northwestern,34,Beloit,0,0
+204,5,"Oct 15, 1904",Penn State,34,West Virginia,0,0
+205,5,"Oct 15, 1904",Pennsylvania,6,Brown,0,0
+206,5,"Oct 15, 1904",Purdue,6,Wabash,0,0
+207,5,"Oct 15, 1904",Sewanee,17,Washington (MO),0,1
+208,5,"Oct 15, 1904",Swarthmore,41,Delaware,0,0
+209,5,"Oct 15, 1904",Texas,24,Trinity (Texas),0,0
+210,5,"Oct 15, 1904",Texas A&M,5,Baylor,0,1
+211,5,"Oct 15, 1904",Vanderbilt,69,Ole Miss,0,0
+212,5,"Oct 15, 1904",Vermont,10,St. Lawrence,0,0
+213,5,"Oct 15, 1904",Virginia,17,Virginia Military Institute,0,0
+214,5,"Oct 15, 1904",Wisconsin,58,Notre Dame,0,0
+215,5,"Oct 15, 1904",Syracuse,9,Yale,17,1
+216,5,"Oct 16, 1904",LSU,17,Louisiana Tech,0,0
+217,5,"Oct 17, 1904",Georgia Tech,77,Florida,0,0
+218,6,"Oct 19, 1904",Amherst,5,Brown,0,1
+219,6,"Oct 19, 1904",Maine,6,Tufts,0,1
+220,6,"Oct 19, 1904",Michigan,72,American Medical,0,0
+221,6,"Oct 19, 1904",Navy,23,St. John's (Maryland),0,0
+222,6,"Oct 19, 1904",Washington (MO),36,Drury,0,0
+223,6,"Oct 20, 1904",Nebraska,29,Lincoln Medical,0,0
+224,6,"Oct 21, 1904",Florida State,23,Florida,0,1
+225,6,"Oct 21, 1904",Haskell,4,Texas,0,1
+226,6,"Oct 21, 1904",Kansas,16,Oklahoma,0,1
+227,6,"Oct 21, 1904",Pennsylvania,16,Columbia,0,0
+228,6,"Oct 22, 1904",Yale,6,Army,11,1
+229,6,"Oct 22, 1904",Auburn,10,Nashville,0,0
+230,6,"Oct 22, 1904",Bates,6,Miami (OH),0,0
+231,6,"Oct 22, 1904",Beloit,22,North Central,0,0
+232,6,"Oct 22, 1904",Brown,22,Bowdoin,0,0
+233,6,"Oct 22, 1904",Chicago,32,Northwestern,0,0
+234,6,"Oct 22, 1904",Clemson,10,Georgia,0,0
+235,6,"Oct 22, 1904",Colorado College,5,Colorado College Alumni,0,0
+236,6,"Oct 22, 1904",Denver,6,Colorado Mines,10,0
+237,6,"Oct 22, 1904",Franklin & Marshall,5,Cornell,36,1
+238,6,"Oct 22, 1904",Holy Cross,4,Dartmouth,18,0
+239,6,"Oct 22, 1904",Navy,0,Dickinson,0,0
+240,6,"Oct 22, 1904",Georgetown,47,Washington & Lee,0,0
+241,6,"Oct 22, 1904",Georgia Tech,2,Tennessee,0,0
+242,6,"Oct 22, 1904",Harvard,12,Carlisle,0,0
+243,6,"Oct 22, 1904",Purdue,6,Illinois,24,0
+244,6,"Oct 22, 1904",Washington (MO),6,Indiana,22,0
+245,6,"Oct 22, 1904",Northern Iowa,5,Iowa,11,1
+246,6,"Oct 22, 1904",Iowa State,87,Simpson,0,0
+247,6,"Oct 22, 1904",Lafayette,4,Swarthmore,0,0
+248,6,"Oct 22, 1904",Massachusetts,11,Springfield,0,1
+249,6,"Oct 22, 1904",Michigan,130,West Virginia,0,0
+250,6,"Oct 22, 1904",Minnesota,146,Grinnell,0,0
+251,6,"Oct 22, 1904",Mississippi State,5,Ole Miss,17,1
+252,6,"Oct 22, 1904",Transylvania,6,Missouri,37,1
+253,6,"Oct 22, 1904",Nebraska,34,Knox,0,0
+254,6,"Oct 22, 1904",WPI,4,New Hampshire,18,1
+255,6,"Oct 22, 1904",North Carolina,41,Norfolk A.C.,0,0
+256,6,"Oct 22, 1904",Ohio Medical,5,Notre Dame,17,0
+257,6,"Oct 22, 1904",Case,6,Ohio State,16,1
+258,6,"Oct 22, 1904",Penn State,12,Washington & Jefferson,0,0
+259,6,"Oct 22, 1904",Shreveport A.C.,16,LSU,0,0
+260,6,"Oct 22, 1904",Virginia Military Institute,6,St. John's (Maryland),12,0
+261,6,"Oct 22, 1904",Tennessee Medical College,5,Centre,0,0
+262,6,"Oct 22, 1904",Texas A&M,29,TCU,0,0
+263,6,"Oct 22, 1904",Vermont,6,Tufts,6,0
+264,6,"Oct 22, 1904",Missouri-Rolla,4,Vanderbilt,29,1
+265,6,"Oct 22, 1904",Virginia,5,NC State,0,0
+266,6,"Oct 22, 1904",Virginia Tech,30,William & Mary,0,0
+267,6,"Oct 22, 1904",Wesleyan (CT),39,Rutgers,0,0
+268,6,"Oct 22, 1904",Williams,23,Hamilton,0,0
+269,6,"Oct 22, 1904",Wisconsin,82,Drake,0,0
+270,6,"Oct 23, 1904",Tulane,11,Louisiana Tech,0,0
+271,6,"Oct 24, 1904",Alabama,17,Nashville,0,0
+272,7,"Oct 26, 1904",Williams,6,Amherst,22,0
+273,7,"Oct 26, 1904",Norwich,15,Vermont,0,1
+274,7,"Oct 26, 1904",Princeton,60,Lehigh,0,0
+275,7,"Oct 26, 1904",South Carolina,2,Georgia,0,0
+276,7,"Oct 26, 1904",Tufts,40,Boston University,0,0
+277,7,"Oct 27, 1904",Notre Dame,6,Toledo A.C.,0,0
+278,7,"Oct 27, 1904",Clemson,5,Sewanee,11,0
+279,7,"Oct 28, 1904",Purdue,11,Missouri,0,1
+280,7,"Oct 29, 1904",Amherst,5,Colby,0,1
+281,7,"Oct 29, 1904",Army,16,Williams,0,0
+282,7,"Oct 29, 1904",Auburn,12,Georgia Tech,0,0
+283,7,"Oct 29, 1904",Baylor,17,TCU,0,0
+284,7,"Oct 29, 1904",Brown,33,Vermont,0,0
+285,7,"Oct 29, 1904",Bucknell,5,Maryland A.C.,0,1
+286,7,"Oct 29, 1904",Colorado,23,Colorado College,0,1
+287,7,"Oct 29, 1904",Dartmouth,33,Wesleyan (CT),0,1
+288,7,"Oct 29, 1904",Dickinson,6,Lehigh,0,1
+289,7,"Oct 29, 1904",Drake,67,Grinnell,0,0
+290,7,"Oct 29, 1904",Exeter,15,New Hampshire,0,1
+291,7,"Oct 29, 1904",Holy Cross,4,Georgetown,17,1
+292,7,"Oct 29, 1904",Chicago,6,Illinois,6,0
+293,7,"Oct 29, 1904",Indiana,8,Ohio State,0,0
+294,7,"Oct 29, 1904",Iowa State,6,Iowa,10,1
+295,7,"Oct 29, 1904",Kansas,5,Washburn,0,1
+296,7,"Oct 29, 1904",Lafayette,54,Manhattan,0,0
+297,7,"Oct 29, 1904",Beloit,5,Lawrence,5,0
+298,7,"Oct 29, 1904",Louisiana Tech,6,LSU,0,0
+299,7,"Oct 29, 1904",Massachusetts,39,WPI,0,1
+300,7,"Oct 29, 1904",Michigan,28,Wisconsin,0,1
+301,7,"Oct 29, 1904",Minnesota,16,Nebraska,12,0
+302,7,"Oct 29, 1904",Ole Miss,114,Union (Tennessee),0,0
+303,7,"Oct 29, 1904",Nashville,34,Centre,0,0
+304,7,"Oct 29, 1904",North Carolina,6,Virginia Tech,0,1
+305,7,"Oct 29, 1904",Northwestern,45,DePauw,0,0
+306,7,"Oct 29, 1904",Penn State,30,Jersey Shore,0,0
+307,7,"Oct 29, 1904",Pennsylvania,11,Harvard,0,1
+308,7,"Oct 29, 1904",Cornell,6,Princeton,18,0
+309,7,"Oct 29, 1904",Sewanee,12,Tennessee,0,1
+310,7,"Oct 29, 1904",Swarthmore,9,Navy,0,1
+311,7,"Oct 29, 1904",Texas,23,Washington (MO),0,1
+312,7,"Oct 29, 1904",Tulane,10,Mississippi State,0,0
+313,7,"Oct 29, 1904",Utah,12,Denver,0,1
+314,7,"Oct 29, 1904",Vanderbilt,97,Central (Kentucky),0,1
+315,7,"Oct 29, 1904",Virginia Military Institute,6,Davidson,0,0
+316,7,"Oct 29, 1904",Wabash,35,Earlham,0,0
+317,7,"Oct 29, 1904",Yale,34,Columbia,0,1
+318,8,"Nov 2, 1904",Brown,41,Tufts,0,0
+319,8,"Nov 5, 1904",Georgia,5,Alabama,16,1
+320,8,"Nov 5, 1904",Holy Cross,6,Amherst,40,1
+321,8,"Nov 5, 1904",Andover,16,New Hampshire,0,0
+322,8,"Nov 5, 1904",Bates,23,Colby,0,0
+323,8,"Nov 5, 1904",Arkansas,6,Baylor,17,1
+324,8,"Nov 5, 1904",Maine,5,Bowdoin,22,1
+325,8,"Nov 5, 1904",Carlisle,28,Ursinus,0,0
+326,8,"Nov 5, 1904",Chicago,68,Texas,0,0
+327,8,"Nov 5, 1904",Georgia Tech,11,Clemson,11,0
+328,8,"Nov 5, 1904",Colgate,6,Williams,0,1
+329,8,"Nov 5, 1904",Colorado Mines,13,Colorado,10,0
+330,8,"Nov 5, 1904",Cornell,50,Lehigh,5,0
+331,8,"Nov 5, 1904",Harvard,0,Dartmouth,0,0
+332,8,"Nov 5, 1904",Colorado College,8,Denver,14,1
+333,8,"Nov 5, 1904",Dickinson,44,Lebanon Valley,0,0
+334,8,"Nov 5, 1904",Georgetown,16,North Carolina,0,0
+335,8,"Nov 5, 1904",Haverford,23,Franklin & Marshall,0,1
+336,8,"Nov 5, 1904",Illinois,46,Ohio State,0,1
+337,8,"Nov 5, 1904",Indiana,4,Wabash,0,1
+338,8,"Nov 5, 1904",Iowa State,40,Grinnell,0,0
+339,8,"Nov 5, 1904",Notre Dame,5,Kansas,24,1
+340,8,"Nov 5, 1904",LSU,5,Ole Miss,0,0
+341,8,"Nov 5, 1904",Drake,4,Michigan,36,1
+342,8,"Nov 5, 1904",Minnesota,69,Lawrence,0,0
+343,8,"Nov 5, 1904",Penn State,9,Navy,20,1
+344,8,"Nov 5, 1904",Iowa,6,Nebraska,17,1
+345,8,"Nov 5, 1904",Northwestern,97,Wisconsin-Oshkosh,0,0
+346,8,"Nov 5, 1904",Pennsylvania,22,Lafayette,0,0
+347,8,"Nov 5, 1904",Army,6,Princeton,12,0
+348,8,"Nov 5, 1904",Indiana Medical,5,Purdue,34,1
+349,8,"Nov 5, 1904",Texas A&M,5,Sewanee,17,0
+350,8,"Nov 5, 1904",NC State,0,South Carolina,0,0
+351,8,"Nov 5, 1904",Tufts,23,Springfield,10,0
+352,8,"Nov 5, 1904",Tulane,10,Marion,0,1
+353,8,"Nov 5, 1904",Vanderbilt,22,Tennessee,0,0
+354,8,"Nov 5, 1904",Virginia,5,Virginia Tech,0,0
+355,8,"Nov 5, 1904",Hampton A.C.,12,Virginia Military Institute,12,0
+356,8,"Nov 5, 1904",Washington (MO),10,Missouri,0,0
+357,8,"Nov 5, 1904",Wesleyan (CT),23,Vermont,0,0
+358,8,"Nov 5, 1904",Wisconsin,36,Beloit,0,0
+359,8,"Nov 5, 1904",Yale,22,Brown,0,0
+360,9,"Nov 9, 1904",Virginia,6,Carlisle,14,0
+361,9,"Nov 10, 1904",LSU,16,Nashville,0,0
+362,9,"Nov 11, 1904",Mississippi State,59,Tennessee Medical College,0,0
+363,9,"Nov 12, 1904",Army,41,New York University,0,0
+364,9,"Nov 12, 1904",Alabama,5,Auburn,29,1
+365,9,"Nov 12, 1904",Bates,6,Bowdoin,12,1
+366,9,"Nov 12, 1904",Brown,41,Colby,0,0
+367,9,"Nov 12, 1904",Clemson,6,Tennessee,0,1
+368,9,"Nov 12, 1904",Colorado,57,Denver,0,1
+369,9,"Nov 12, 1904",Colorado College,4,Colorado State,0,1
+370,9,"Nov 12, 1904",Cornell,6,Columbia,12,1
+371,9,"Nov 12, 1904",Amherst,4,Dartmouth,15,1
+372,9,"Nov 12, 1904",Simpson,5,Drake,46,1
+373,9,"Nov 12, 1904",Georgetown,12,Bucknell,0,0
+374,9,"Nov 12, 1904",Georgia,6,Georgia Tech,23,1
+375,9,"Nov 12, 1904",Holy Cross,5,Harvard,28,1
+376,9,"Nov 12, 1904",Nebraska,6,Haskell,14,1
+377,9,"Nov 12, 1904",Iowa,69,Grinnell,0,0
+378,9,"Nov 12, 1904",Iowa State,16,Des Moines,0,0
+379,9,"Nov 12, 1904",Kansas,12,Washington (MO),0,1
+380,9,"Nov 12, 1904",Knox,16,Beloit,0,0
+381,9,"Nov 12, 1904",Maine,28,Tufts,0,0
+382,9,"Nov 12, 1904",Michigan,22,Chicago,12,0
+383,9,"Nov 12, 1904",Minnesota,28,Wisconsin,0,0
+384,9,"Nov 12, 1904",Ole Miss,42,Tennessee Medical College,0,0
+385,9,"Nov 12, 1904",Navy,5,Virginia,0,1
+386,9,"Nov 12, 1904",Illinois,6,Northwestern,12,1
+387,9,"Nov 12, 1904",Oberlin,4,Ohio State,2,0
+388,9,"Nov 12, 1904",Penn State,11,Dickinson,0,0
+389,9,"Nov 12, 1904",Pennsylvania,18,Carlisle,0,0
+390,9,"Nov 12, 1904",Purdue,27,Indiana,0,0
+391,9,"Nov 12, 1904",Saint Louis,17,Missouri,0,1
+392,9,"Nov 12, 1904",Sewanee,18,Tulane,0,1
+393,9,"Nov 12, 1904",Swarthmore,69,Franklin & Marshall,0,0
+394,9,"Nov 12, 1904",Lehigh,4,Syracuse,30,1
+395,9,"Nov 12, 1904",Texas A&M,10,Baylor,0,0
+396,9,"Nov 12, 1904",Vanderbilt,81,Nashville,0,0
+397,9,"Nov 12, 1904",Virginia Military Institute,27,Augusta Military Academy,0,0
+398,9,"Nov 12, 1904",Wabash,11,Indianapolis,0,0
+399,9,"Nov 12, 1904",Trinity (CT),6,Wesleyan (CT),32,1
+400,9,"Nov 12, 1904",Williams,72,Vermont,11,0
+401,9,"Nov 12, 1904",Yale,12,Princeton,0,1
+402,10,"Nov 16, 1904",Cincinnati,35,Tennessee,0,1
+403,10,"Nov 16, 1904",Georgia Tech,59,Tennessee Medical College,0,0
+404,10,"Nov 16, 1904",Massachusetts,11,Tufts,0,1
+405,10,"Nov 16, 1904",North Carolina,6,NC State,6,0
+406,10,"Nov 16, 1904",Kenyon,5,Ohio State,11,1
+407,10,"Nov 16, 1904",Texas,40,Oklahoma,10,0
+408,10,"Nov 16, 1904",Washburn,18,Missouri,0,1
+409,10,"Nov 18, 1904",Mississippi State,5,Cumberland,27,0
+410,10,"Nov 18, 1904",Cornell College,6,Iowa State,41,1
+411,10,"Nov 19, 1904",Amherst,40,Trinity (CT),0,1
+412,10,"Nov 19, 1904",Syracuse,5,Army,21,0
+413,10,"Nov 19, 1904",Carlisle,23,Ohio State,0,1
+414,10,"Nov 19, 1904",Colby,12,Maine,11,1
+415,10,"Nov 19, 1904",Colorado,46,Colorado State,0,0
+416,10,"Nov 19, 1904",Colorado Mines,4,Colorado College,4,0
+417,10,"Nov 19, 1904",Brown,5,Dartmouth,12,1
+418,10,"Nov 19, 1904",Ursinus,6,Dickinson,16,1
+419,10,"Nov 19, 1904",Northern Iowa,6,Drake,26,0
+420,10,"Nov 19, 1904",Georgetown,62,George Washington,0,1
+421,10,"Nov 19, 1904",Haskell,14,Washburn,0,1
+422,10,"Nov 19, 1904",Springfield,9,Holy Cross,12,1
+423,10,"Nov 19, 1904",Illinois,29,Iowa,0,0
+424,10,"Nov 19, 1904",Indiana,27,Kent State,0,0
+425,10,"Nov 19, 1904",Jefferson Medical,23,Franklin & Marshall,0,1
+426,10,"Nov 19, 1904",Kansas,41,Kansas State,4,1
+427,10,"Nov 19, 1904",Minnesota,17,Northwestern,0,1
+428,10,"Nov 19, 1904",Nashville,5,Ole Miss,12,1
+429,10,"Nov 19, 1904",Navy,11,Virginia Tech,0,0
+430,10,"Nov 19, 1904",Nebraska,51,Bellevue,0,0
+431,10,"Nov 19, 1904",Notre Dame,10,DePauw,0,0
+432,10,"Nov 19, 1904",Penn State,44,Geneva,0,0
+433,10,"Nov 19, 1904",Purdue,10,Culver,0,1
+434,10,"Nov 19, 1904",Tufts,5,Rochester,16,1
+435,10,"Nov 19, 1904",Grinnell,6,Simpson,12,0
+436,10,"Nov 19, 1904",Haverford,6,Swarthmore,27,1
+437,10,"Nov 19, 1904",Tennessee,23,Chattanooga,0,1
+438,10,"Nov 19, 1904",Texas,58,Baylor,0,0
+439,10,"Nov 19, 1904",Tulane,5,LSU,0,0
+440,10,"Nov 19, 1904",Vanderbilt,22,Centre,0,1
+441,10,"Nov 19, 1904",Wabash,51,Butler,0,0
+442,10,"Nov 19, 1904",West Virginia,6,Washington (MO),5,1
+443,10,"Nov 19, 1904",Williams,23,Wesleyan (CT),0,1
+444,10,"Nov 19, 1904",Yale,12,Harvard,0,0
+445,11,"Nov 24, 1904",Amherst,5,Williston,0,1
+446,11,"Nov 24, 1904",Georgia,6,Auburn,17,0
+447,11,"Nov 24, 1904",Chicago,18,Wisconsin,11,0
+448,11,"Nov 24, 1904",Wyoming,6,Colorado State,6,0
+449,11,"Nov 24, 1904",Washington & Jefferson,6,Dickinson,10,0
+450,11,"Nov 24, 1904",Georgia Tech,18,Cumberland,0,0
+451,11,"Nov 24, 1904",Franklin & Marshall,6,Gettysburg,10,0
+452,11,"Nov 24, 1904",Haskell,47,Washington (MO),0,1
+453,11,"Nov 24, 1904",Iowa State,19,Drake,0,1
+454,11,"Nov 24, 1904",Kansas,29,Missouri,0,0
+455,11,"Nov 24, 1904",Lehigh,6,Lafayette,40,1
+456,11,"Nov 24, 1904",Minnesota,11,Iowa,0,1
+457,11,"Nov 24, 1904",Nebraska,16,Illinois,10,0
+458,11,"Nov 24, 1904",NC State,18,Clemson,0,0
+459,11,"Nov 24, 1904",Pennsylvania,34,Cornell,0,0
+460,11,"Nov 24, 1904",Penn State,5,Pitt,22,1
+461,11,"Nov 24, 1904",Purdue,36,Notre Dame,0,0
+462,11,"Nov 24, 1904",Stanford,33,Colorado,0,0
+463,11,"Nov 24, 1904",Tennessee,5,Alabama,0,1
+464,11,"Nov 24, 1904",Texas A&M,6,Texas,34,1
+465,11,"Nov 24, 1904",TCU,5,Baylor,0,1
+466,11,"Nov 24, 1904",Tulane,22,Ole Miss,0,0
+467,11,"Nov 24, 1904",Utah,43,Colorado College,0,0
+468,11,"Nov 24, 1904",Vanderbilt,27,Sewanee,0,0
+469,11,"Nov 24, 1904",Virginia,12,North Carolina,11,0
+470,11,"Nov 24, 1904",Virginia Military Institute,5,Virginia Tech,17,1
+471,11,"Nov 25, 1904",Louisiana Tech,5,Mississippi State,32,1
+472,11,"Nov 26, 1904",Army,11,Navy,0,0
+473,11,"Nov 26, 1904",Haskell,4,Carlisle,38,0
+474,11,"Nov 26, 1904",Minnesota,75,Shattuck,0,1
+475,12,"Dec 2, 1904",Alabama,11,LSU,0,1
+476,12,"Dec 3, 1904",Alabama,6,Tulane,0,1
+477,12,"Dec 3, 1904",Carlisle,12,Susquehanna,0,1
+478,12,"Dec 3, 1904",Minnesota,47,St. Thomas,0,1
+479,12,"Dec 4, 1904",Pensacola A.C.,5,Alabama,10,0

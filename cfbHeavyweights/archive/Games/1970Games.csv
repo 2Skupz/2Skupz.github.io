@@ -1,0 +1,705 @@
+0,1,"Aug 29, 1970",Fresno State,28,Hayward State,12,0
+1,2,"Sep 5, 1970",Fresno State,25,California-Santa Barbara,10,1
+2,3,"Sep 11, 1970",Missouri,38,Baylor,0,0
+3,3,"Sep 12, 1970",Idaho,7,Air Force,45,1
+4,3,"Sep 12, 1970",Army,26,Holy Cross,0,0
+5,3,"Sep 12, 1970",Buffalo,7,Ball State,14,0
+6,3,"Sep 12, 1970",North Texas,7,BYU,10,1
+7,3,"Sep 12, 1970",Clemson,24,Citadel,0,0
+8,3,"Sep 12, 1970",New Mexico State,9,Colorado State,28,0
+9,3,"Sep 12, 1970",Dayton,45,Xavier,22,0
+10,3,"Sep 12, 1970",Florida,21,Duke,19,0
+11,3,"Sep 12, 1970",Florida State,9,Louisville,7,0
+12,3,"Sep 12, 1970",Georgia Tech,23,South Carolina,20,0
+13,3,"Sep 12, 1970",Kansas,48,Washington State,31,0
+14,3,"Sep 12, 1970",Kansas State,37,Utah State,0,1
+15,3,"Sep 12, 1970",Montana State,3,Long Beach State,19,0
+16,3,"Sep 12, 1970",Mississippi State,14,Oklahoma State,13,0
+17,3,"Sep 12, 1970",Navy,48,Colgate,22,0
+18,3,"Sep 12, 1970",Nebraska,36,Wake Forest,12,0
+19,3,"Sep 12, 1970",North Carolina,20,Kentucky,10,0
+20,3,"Sep 12, 1970",Oklahoma,28,SMU,11,1
+21,3,"Sep 12, 1970",Oregon,31,California,24,0
+22,3,"Sep 12, 1970",Pacific,24,UTEP,18,1
+23,3,"Sep 12, 1970",NC State,6,Richmond,21,1
+24,3,"Sep 12, 1970",San Diego State,35,Northern Illinois,3,1
+25,3,"Sep 12, 1970",San Jose State,28,California-Santa Barbara,14,0
+26,3,"Sep 12, 1970",USC,42,Alabama,21,1
+27,3,"Sep 12, 1970",Southern Miss,16,Louisiana,14,1
+28,3,"Sep 12, 1970",Stanford,34,Arkansas,28,1
+29,3,"Sep 12, 1970",Texas A&M,41,Wichita State,14,0
+30,3,"Sep 12, 1970",Texas-Arlington,7,TCU,31,1
+31,3,"Sep 12, 1970",Texas Tech,21,Tulane,14,0
+32,3,"Sep 12, 1970",Toledo,35,East Carolina,2,0
+33,3,"Sep 12, 1970",Tulsa,7,Cincinnati,3,0
+34,3,"Sep 12, 1970",Oregon State,9,UCLA,14,0
+35,3,"Sep 12, 1970",Chattanooga,6,Vanderbilt,39,1
+36,3,"Sep 12, 1970",Maryland,3,Villanova,21,0
+37,3,"Sep 12, 1970",Virginia,7,Virginia Tech,0,1
+38,3,"Sep 12, 1970",Virginia Military Institute,13,Furman,0,0
+39,3,"Sep 12, 1970",William & Mary,7,West Virginia,43,1
+40,3,"Sep 12, 1970",Western Michigan,41,Central Michigan,0,1
+41,4,"Sep 18, 1970",Miami,36,William & Mary,14,0
+42,4,"Sep 19, 1970",Air Force,41,Wyoming,17,1
+43,4,"Sep 19, 1970",Alabama,51,Virginia Tech,18,0
+44,4,"Sep 19, 1970",Colorado State,9,Arizona State,38,1
+45,4,"Sep 19, 1970",Oklahoma State,7,Arkansas,23,1
+46,4,"Sep 19, 1970",Arkansas State,53,Wichita State,14,1
+47,4,"Sep 19, 1970",Auburn,33,Southern Miss,14,0
+48,4,"Sep 19, 1970",Army,7,Baylor,10,0
+49,4,"Sep 19, 1970",Boston College,28,Villanova,21,1
+50,4,"Sep 19, 1970",California-Santa Barbara,7,Cal State Northridge,13,0
+51,4,"Sep 19, 1970",Dayton,7,Cincinnati,13,1
+52,4,"Sep 19, 1970",Clemson,27,Virginia,17,0
+53,4,"Sep 19, 1970",Colgate,26,Boston University,21,1
+54,4,"Sep 19, 1970",Indiana,9,Colorado,16,0
+55,4,"Sep 19, 1970",Duke,13,Maryland,12,0
+56,4,"Sep 19, 1970",East Tennessee State,10,East Carolina,0,1
+57,4,"Sep 19, 1970",Florida,34,Mississippi State,13,0
+58,4,"Sep 19, 1970",Presbyterian,7,Furman,19,1
+59,4,"Sep 19, 1970",Georgia Tech,23,Florida State,13,0
+60,4,"Sep 19, 1970",Houston,42,Syracuse,15,0
+61,4,"Sep 19, 1970",Illinois,20,Oregon,16,0
+62,4,"Sep 19, 1970",Iowa State,32,New Mexico,3,1
+63,4,"Sep 19, 1970",Kansas State,3,Kentucky,16,1
+64,4,"Sep 19, 1970",Lamar,33,West Texas State,28,0
+65,4,"Sep 19, 1970",Morehead State,7,Marshall,17,1
+66,4,"Sep 19, 1970",Xavier,7,Miami (OH),28,0
+67,4,"Sep 19, 1970",Arizona,9,Michigan,20,1
+68,4,"Sep 19, 1970",Ole Miss,47,Memphis,13,1
+69,4,"Sep 19, 1970",Missouri,34,Minnesota,12,0
+70,4,"Sep 19, 1970",Northern Illinois,6,Montana,30,0
+71,4,"Sep 19, 1970",USC,21,Nebraska,21,0
+72,4,"Sep 19, 1970",Texas-Arlington,7,New Mexico State,35,1
+73,4,"Sep 19, 1970",North Carolina,19,NC State,0,0
+74,4,"Sep 19, 1970",Northern Arizona,33,Cal State Los Angeles,0,0
+75,4,"Sep 19, 1970",Notre Dame,35,Northwestern,14,1
+76,4,"Sep 19, 1970",Ohio,24,Kent State,14,1
+77,4,"Sep 19, 1970",Wisconsin,7,Oklahoma,21,1
+78,4,"Sep 19, 1970",Oregon State,21,Iowa,14,0
+79,4,"Sep 19, 1970",Pacific,9,Long Beach State,6,0
+80,4,"Sep 19, 1970",Navy,7,Penn State,55,1
+81,4,"Sep 19, 1970",Purdue,15,TCU,0,0
+82,4,"Sep 19, 1970",Rice,42,Virginia Military Institute,0,0
+83,4,"Sep 19, 1970",Rutgers,41,Lafayette,16,0
+84,4,"Sep 19, 1970",San Diego State,23,North Texas,0,1
+85,4,"Sep 19, 1970",Wake Forest,7,South Carolina,43,1
+86,4,"Sep 19, 1970",Southern Illinois,31,Louisville,28,0
+87,4,"Sep 19, 1970",Stanford,34,San Jose State,3,0
+88,4,"Sep 19, 1970",SMU,3,Tennessee,28,1
+89,4,"Sep 19, 1970",Texas,56,California,15,0
+90,4,"Sep 19, 1970",Texas A&M,20,LSU,18,1
+91,4,"Sep 19, 1970",Texas Tech,23,Kansas,0,1
+92,4,"Sep 19, 1970",Buffalo,6,Toledo,27,0
+93,4,"Sep 19, 1970",Tulane,17,Georgia,14,0
+94,4,"Sep 19, 1970",Tulsa,38,Idaho State,13,0
+95,4,"Sep 19, 1970",UCLA,24,Pitt,15,1
+96,4,"Sep 19, 1970",Utah,44,UTEP,20,0
+97,4,"Sep 19, 1970",Utah State,33,Bowling Green,14,0
+98,4,"Sep 19, 1970",Vanderbilt,52,Citadel,0,0
+99,4,"Sep 19, 1970",Washington,42,Michigan State,16,0
+100,4,"Sep 19, 1970",Washington State,44,Idaho,16,0
+101,4,"Sep 19, 1970",West Virginia,49,Richmond,10,0
+102,4,"Sep 19, 1970",Western Michigan,35,BYU,17,0
+103,5,"Sep 26, 1970",Air Force,37,Missouri,14,1
+104,5,"Sep 26, 1970",Alabama,46,Florida,15,0
+105,5,"Sep 26, 1970",Arizona,30,San Jose State,29,0
+106,5,"Sep 26, 1970",Arizona State,35,Kansas State,13,0
+107,5,"Sep 26, 1970",Tulsa,7,Arkansas,49,1
+108,5,"Sep 26, 1970",Auburn,36,Tennessee,23,0
+109,5,"Sep 26, 1970",Boston College,28,Navy,14,1
+110,5,"Sep 26, 1970",Brown,21,Rhode Island,14,0
+111,5,"Sep 26, 1970",California,56,Indiana,14,0
+112,5,"Sep 26, 1970",Cincinnati,17,William & Mary,10,1
+113,5,"Sep 26, 1970",Citadel,31,East Carolina,0,0
+114,5,"Sep 26, 1970",Colorado,41,Penn State,13,0
+115,5,"Sep 26, 1970",Lafayette,9,Columbia,23,1
+116,5,"Sep 26, 1970",Colgate,7,Cornell,17,0
+117,5,"Sep 26, 1970",Dartmouth,27,Massachusetts,0,0
+118,5,"Sep 26, 1970",Richmond,5,Davidson,14,0
+119,5,"Sep 26, 1970",Bowling Green,14,Dayton,14,0
+120,5,"Sep 26, 1970",Virginia,7,Duke,17,1
+121,5,"Sep 26, 1970",Florida State,19,Wake Forest,14,0
+122,5,"Sep 26, 1970",Georgia,38,Clemson,0,0
+123,5,"Sep 26, 1970",Georgia Tech,31,Miami,21,0
+124,5,"Sep 26, 1970",Northeastern,7,Harvard,28,1
+125,5,"Sep 26, 1970",Hawaii,23,Long Beach State,14,1
+126,5,"Sep 26, 1970",Colorado State,6,Iowa State,37,1
+127,5,"Sep 26, 1970",Kansas,31,Syracuse,14,1
+128,5,"Sep 26, 1970",Kent State,27,Buffalo,21,0
+129,5,"Sep 26, 1970",LSU,24,Rice,0,0
+130,5,"Sep 26, 1970",North Texas,2,Louisville,13,1
+131,5,"Sep 26, 1970",Memphis,21,Virginia Tech,20,1
+132,5,"Sep 26, 1970",Miami (OH),23,Western Michigan,12,0
+133,5,"Sep 26, 1970",Washington,3,Michigan,17,0
+134,5,"Sep 26, 1970",Michigan State,28,Washington State,14,0
+135,5,"Sep 26, 1970",Ohio,7,Minnesota,49,1
+136,5,"Sep 26, 1970",Ole Miss,20,Kentucky,17,0
+137,5,"Sep 26, 1970",Vanderbilt,6,Mississippi State,20,1
+138,5,"Sep 26, 1970",Montana State,26,Fresno State,12,1
+139,5,"Sep 26, 1970",Nebraska,28,Army,0,0
+140,5,"Sep 26, 1970",New Mexico,34,Utah,28,1
+141,5,"Sep 26, 1970",North Carolina,53,Maryland,20,1
+142,5,"Sep 26, 1970",Northern Illinois,18,Xavier,0,1
+143,5,"Sep 26, 1970",Notre Dame,48,Purdue,0,0
+144,5,"Sep 26, 1970",Ohio State,56,Texas A&M,13,0
+145,5,"Sep 26, 1970",Oklahoma State,26,Houston,17,0
+146,5,"Sep 26, 1970",Oregon State,23,Oklahoma,14,1
+147,5,"Sep 26, 1970",Pacific,17,Idaho,10,1
+148,5,"Sep 26, 1970",Pennsylvania,24,Lehigh,0,0
+149,5,"Sep 26, 1970",Pitt,15,Baylor,10,1
+150,5,"Sep 26, 1970",Princeton,41,Rutgers,14,0
+151,5,"Sep 26, 1970",San Diego State,35,Cal State Los Angeles,0,0
+152,5,"Sep 26, 1970",NC State,7,South Carolina,7,0
+153,5,"Sep 26, 1970",USC,48,Iowa,0,1
+154,5,"Sep 26, 1970",SMU,34,New Mexico State,21,0
+155,5,"Sep 26, 1970",Southern Miss,26,Texas-Arlington,20,0
+156,5,"Sep 26, 1970",Stanford,33,Oregon,10,1
+157,5,"Sep 26, 1970",Temple,23,Holy Cross,13,1
+158,5,"Sep 26, 1970",Texas,35,Texas Tech,13,1
+159,5,"Sep 26, 1970",Wisconsin,14,TCU,14,0
+160,5,"Sep 26, 1970",UTEP,17,BYU,0,1
+161,5,"Sep 26, 1970",Toledo,52,Marshall,3,0
+162,5,"Sep 26, 1970",Illinois,9,Tulane,23,0
+163,5,"Sep 26, 1970",Northwestern,7,UCLA,12,1
+164,5,"Sep 26, 1970",Utah State,42,Wyoming,29,1
+165,5,"Sep 26, 1970",Villanova,37,Santa Clara,16,1
+166,5,"Sep 26, 1970",West Texas State,43,Wichita State,0,0
+167,5,"Sep 26, 1970",West Virginia,47,Virginia Military Institute,10,0
+168,5,"Sep 26, 1970",Wofford,28,Furman,13,1
+169,5,"Sep 26, 1970",Yale,10,Connecticut,0,0
+170,6,"Oct 2, 1970",Miami,18,Maryland,11,0
+171,6,"Oct 3, 1970",Air Force,37,Colorado State,22,0
+172,6,"Oct 3, 1970",Arizona,17,Iowa,10,0
+173,6,"Oct 3, 1970",Arizona State,52,Wyoming,3,1
+174,6,"Oct 3, 1970",Arkansas,49,TCU,14,1
+175,6,"Oct 3, 1970",Citadel,7,Arkansas State,24,1
+176,6,"Oct 3, 1970",Auburn,33,Kentucky,15,1
+177,6,"Oct 3, 1970",Boston College,56,Virginia Military Institute,3,0
+178,6,"Oct 3, 1970",Buffalo,16,Massachusetts,13,0
+179,6,"Oct 3, 1970",Cal State Los Angeles,7,Cal Poly-Pomona,17,0
+180,6,"Oct 3, 1970",Cornell,41,Lehigh,14,0
+181,6,"Oct 3, 1970",Dartmouth,50,Holy Cross,14,1
+182,6,"Oct 3, 1970",Dayton,28,Louisville,11,0
+183,6,"Oct 3, 1970",NC State,6,Florida,14,1
+184,6,"Oct 3, 1970",Fresno State,34,Pacific,14,0
+185,6,"Oct 3, 1970",Furman,42,Carson-Newman,34,1
+186,6,"Oct 3, 1970",Clemson,7,Georgia Tech,28,1
+187,6,"Oct 3, 1970",Rutgers,9,Harvard,39,1
+188,6,"Oct 3, 1970",Idaho State,35,Idaho,14,0
+189,6,"Oct 3, 1970",Illinois,27,Syracuse,0,0
+190,6,"Oct 3, 1970",Iowa State,16,Utah,13,1
+191,6,"Oct 3, 1970",Kansas,49,New Mexico,23,0
+192,6,"Oct 3, 1970",Kansas State,21,Colorado,20,0
+193,6,"Oct 3, 1970",Long Beach State,7,San Jose State,3,1
+194,6,"Oct 3, 1970",LSU,31,Baylor,10,0
+195,6,"Oct 3, 1970",Marshall,31,Xavier,14,1
+196,6,"Oct 3, 1970",Miami (OH),48,Northern Illinois,0,0
+197,6,"Oct 3, 1970",Michigan,14,Texas A&M,10,0
+198,6,"Oct 3, 1970",Ole Miss,48,Alabama,23,0
+199,6,"Oct 3, 1970",Mississippi State,7,Georgia,6,0
+200,6,"Oct 3, 1970",Missouri,40,Oklahoma State,20,1
+201,6,"Oct 3, 1970",Nebraska,35,Minnesota,10,1
+202,6,"Oct 3, 1970",Vanderbilt,7,North Carolina,10,0
+203,6,"Oct 3, 1970",North Texas,37,Drake,13,0
+204,6,"Oct 3, 1970",Notre Dame,29,Michigan State,0,1
+205,6,"Oct 3, 1970",Ohio State,34,Duke,10,0
+206,6,"Oct 3, 1970",Oregon,28,Washington State,13,0
+207,6,"Oct 3, 1970",Brown,9,Pennsylvania,17,0
+208,6,"Oct 3, 1970",Kent State,6,Pitt,27,1
+209,6,"Oct 3, 1970",Princeton,24,Columbia,22,0
+210,6,"Oct 3, 1970",Purdue,26,Stanford,14,1
+211,6,"Oct 3, 1970",Rice,28,California,0,0
+212,6,"Oct 3, 1970",San Diego State,31,BYU,11,0
+213,6,"Oct 3, 1970",Virginia Tech,7,South Carolina,24,1
+214,6,"Oct 3, 1970",USC,45,Oregon State,13,0
+215,6,"Oct 3, 1970",SMU,21,Northwestern,20,1
+216,6,"Oct 3, 1970",Southern Miss,43,Richmond,21,0
+217,6,"Oct 3, 1970",Tennessee,48,Army,3,0
+218,6,"Oct 3, 1970",Texas,20,UCLA,17,0
+219,6,"Oct 3, 1970",Texas Tech,63,California-Santa Barbara,21,0
+220,6,"Oct 3, 1970",UTEP,21,New Mexico State,14,0
+221,6,"Oct 3, 1970",Ohio,7,Toledo,42,0
+222,6,"Oct 3, 1970",Davidson,9,Trinity (Texas),20,0
+223,6,"Oct 3, 1970",Tulane,6,Cincinnati,3,1
+224,6,"Oct 3, 1970",Tulsa,27,Memphis,12,0
+225,6,"Oct 3, 1970",Villanova,34,Delaware,31,1
+226,6,"Oct 3, 1970",Virginia,7,Wake Forest,27,0
+227,6,"Oct 3, 1970",Navy,7,Washington,56,1
+228,6,"Oct 3, 1970",West Texas State,42,East Carolina,30,0
+229,6,"Oct 3, 1970",West Virginia,16,Indiana,10,1
+230,6,"Oct 3, 1970",Bowling Green,3,Western Michigan,23,1
+231,6,"Oct 3, 1970",William & Mary,33,Ohio Wesleyan,29,0
+232,6,"Oct 3, 1970",Wisconsin,29,Penn State,16,0
+233,6,"Oct 3, 1970",Colgate,7,Yale,39,1
+234,7,"Oct 10, 1970",Tulane,3,Air Force,24,1
+235,7,"Oct 10, 1970",Alabama,35,Vanderbilt,11,0
+236,7,"Oct 10, 1970",Arizona,24,BYU,17,0
+237,7,"Oct 10, 1970",Arizona State,37,Washington State,30,0
+238,7,"Oct 10, 1970",Baylor,7,Arkansas,41,1
+239,7,"Oct 10, 1970",Auburn,44,Clemson,0,1
+240,7,"Oct 10, 1970",Bucknell,21,Davidson,20,1
+241,7,"Oct 10, 1970",Cal State Fullerton,17,Cal State Los Angeles,0,1
+242,7,"Oct 10, 1970",California,31,Washington,28,1
+243,7,"Oct 10, 1970",Cincinnati,42,Xavier,0,0
+244,7,"Oct 10, 1970",William & Mary,7,Citadel,16,0
+245,7,"Oct 10, 1970",Colgate,21,Holy Cross,13,1
+246,7,"Oct 10, 1970",Colorado,61,Iowa State,10,0
+247,7,"Oct 10, 1970",Columbia,28,Harvard,21,0
+248,7,"Oct 10, 1970",Cornell,32,Pennsylvania,31,0
+249,7,"Oct 10, 1970",Dartmouth,38,Princeton,0,0
+250,7,"Oct 10, 1970",Duke,21,West Virginia,13,1
+251,7,"Oct 10, 1970",Florida,38,Florida State,27,1
+252,7,"Oct 10, 1970",Cal State Northridge,7,Fresno State,21,0
+253,7,"Oct 10, 1970",Richmond,9,Furman,23,1
+254,7,"Oct 10, 1970",Houston,31,Mississippi State,14,1
+255,7,"Oct 10, 1970",Iowa,24,Wisconsin,14,0
+256,7,"Oct 10, 1970",Kansas,21,Kansas State,15,1
+257,7,"Oct 10, 1970",Kent State,25,Western Michigan,22,0
+258,7,"Oct 10, 1970",Lehigh,7,Rutgers,0,0
+259,7,"Oct 10, 1970",Long Beach State,27,Boise State,14,0
+260,7,"Oct 10, 1970",LSU,34,Pacific,0,0
+261,7,"Oct 10, 1970",Tulsa,8,Louisville,14,1
+262,7,"Oct 10, 1970",Miami (OH),19,Marshall,12,1
+263,7,"Oct 10, 1970",Michigan,29,Purdue,0,1
+264,7,"Oct 10, 1970",Minnesota,23,Indiana,0,0
+265,7,"Oct 10, 1970",Ole Miss,31,Georgia,21,1
+266,7,"Oct 10, 1970",Montana,44,Idaho,26,1
+267,7,"Oct 10, 1970",Missouri,7,Nebraska,21,1
+268,7,"Oct 10, 1970",New Mexico,48,San Jose State,25,0
+269,7,"Oct 10, 1970",New Mexico State,57,Northern Arizona,13,0
+270,7,"Oct 10, 1970",East Carolina,6,NC State,23,1
+271,7,"Oct 10, 1970",Northwestern,48,Illinois,0,0
+272,7,"Oct 10, 1970",Notre Dame,51,Army,10,0
+273,7,"Oct 10, 1970",Ohio,17,Dayton,14,0
+274,7,"Oct 10, 1970",Ohio State,29,Michigan State,0,1
+275,7,"Oct 10, 1970",Oklahoma State,34,TCU,20,0
+276,7,"Oct 10, 1970",Oregon,41,UCLA,40,1
+277,7,"Oct 10, 1970",Oregon State,31,Utah,21,0
+278,7,"Oct 10, 1970",Boston College,3,Penn State,28,0
+279,7,"Oct 10, 1970",Navy,8,Pitt,10,0
+280,7,"Oct 10, 1970",San Diego State,41,Southern Miss,14,0
+281,7,"Oct 10, 1970",Santa Clara,14,California-Santa Barbara,10,1
+282,7,"Oct 10, 1970",South Carolina,35,North Carolina,21,1
+283,7,"Oct 10, 1970",Stanford,24,USC,14,0
+284,7,"Oct 10, 1970",Maryland,7,Syracuse,23,1
+285,7,"Oct 10, 1970",North Texas,7,Tampa,18,1
+286,7,"Oct 10, 1970",Georgia Tech,6,Tennessee,17,0
+287,7,"Oct 10, 1970",Oklahoma,9,Texas,41,1
+288,7,"Oct 10, 1970",Texas A&M,7,Texas Tech,21,0
+289,7,"Oct 10, 1970",Toledo,20,Bowling Green,0,0
+290,7,"Oct 10, 1970",Kentucky,6,Utah State,35,0
+291,7,"Oct 10, 1970",Buffalo,7,Villanova,17,0
+292,7,"Oct 10, 1970",Virginia,49,Virginia Military Institute,10,0
+293,7,"Oct 10, 1970",Virginia Tech,9,Wake Forest,28,1
+294,7,"Oct 10, 1970",West Texas State,24,Northern Illinois,22,1
+295,7,"Oct 10, 1970",Colorado State,6,Wyoming,16,0
+296,7,"Oct 10, 1970",Yale,28,Brown,0,0
+297,8,"Oct 16, 1970",Tampa,31,Miami,14,1
+298,8,"Oct 17, 1970",Navy,3,Air Force,26,0
+299,8,"Oct 17, 1970",BYU,3,Arizona State,27,0
+300,8,"Oct 17, 1970",Georgia Tech,7,Auburn,31,1
+301,8,"Oct 17, 1970",Boston University,33,Holy Cross,23,0
+302,8,"Oct 17, 1970",Bowling Green,44,Kent State,0,0
+303,8,"Oct 17, 1970",Cal State Los Angeles,21,UNLV,20,0
+304,8,"Oct 17, 1970",Citadel,42,Bucknell,28,0
+305,8,"Oct 17, 1970",Dartmouth,42,Brown,14,0
+306,8,"Oct 17, 1970",Dayton,41,Buffalo,0,0
+307,8,"Oct 17, 1970",Delaware,51,Rutgers,21,1
+308,8,"Oct 17, 1970",NC State,6,Duke,22,0
+309,8,"Oct 17, 1970",Florida,20,Richmond,0,0
+310,8,"Oct 17, 1970",Fresno State,23,Cal Poly,17,0
+311,8,"Oct 17, 1970",Furman,31,Davidson,24,1
+312,8,"Oct 17, 1970",Georgia,37,Vanderbilt,3,0
+313,8,"Oct 17, 1970",Harvard,27,Cornell,24,0
+314,8,"Oct 17, 1970",Houston,19,Oregon State,16,0
+315,8,"Oct 17, 1970",Indiana,30,Illinois,24,1
+316,8,"Oct 17, 1970",Kansas State,17,Iowa State,0,1
+317,8,"Oct 17, 1970",California-Santa Barbara,7,Long Beach State,33,1
+318,8,"Oct 17, 1970",Kentucky,7,LSU,14,1
+319,8,"Oct 17, 1970",Louisville,16,Marshall,14,1
+320,8,"Oct 17, 1970",Maryland,21,South Carolina,15,0
+321,8,"Oct 17, 1970",Memphis,16,Florida State,12,0
+322,8,"Oct 17, 1970",Michigan,34,Michigan State,20,0
+323,8,"Oct 17, 1970",Mississippi State,20,Texas Tech,16,0
+324,8,"Oct 17, 1970",Nebraska,41,Kansas,20,1
+325,8,"Oct 17, 1970",New Mexico,24,New Mexico State,17,0
+326,8,"Oct 17, 1970",North Texas,11,West Texas State,10,1
+327,8,"Oct 17, 1970",Northwestern,24,Wisconsin,14,1
+328,8,"Oct 17, 1970",Missouri,7,Notre Dame,24,0
+329,8,"Oct 17, 1970",Ohio,23,Miami (OH),22,0
+330,8,"Oct 17, 1970",Minnesota,8,Ohio State,28,1
+331,8,"Oct 17, 1970",Oklahoma,23,Colorado,15,1
+332,8,"Oct 17, 1970",Oregon,49,Idaho,13,0
+333,8,"Oct 17, 1970",Pacific,47,Santa Clara,23,0
+334,8,"Oct 17, 1970",Pennsylvania,31,Lafayette,20,0
+335,8,"Oct 17, 1970",Pitt,36,West Virginia,35,0
+336,8,"Oct 17, 1970",Princeton,34,Colgate,14,0
+337,8,"Oct 17, 1970",Iowa,3,Purdue,24,0
+338,8,"Oct 17, 1970",San Jose State,6,San Diego State,32,1
+339,8,"Oct 17, 1970",USC,28,Washington,25,0
+340,8,"Oct 17, 1970",Southern Illinois,14,East Carolina,12,1
+341,8,"Oct 17, 1970",SMU,10,Rice,0,0
+342,8,"Oct 17, 1970",Southern Miss,30,Ole Miss,14,1
+343,8,"Oct 17, 1970",Stanford,63,Washington State,16,1
+344,8,"Oct 17, 1970",Penn State,7,Syracuse,24,0
+345,8,"Oct 17, 1970",Temple,28,Xavier,15,1
+346,8,"Oct 17, 1970",Tennessee,24,Alabama,0,0
+347,8,"Oct 17, 1970",TCU,31,Texas A&M,15,1
+348,8,"Oct 17, 1970",UTEP,41,Colorado State,37,1
+349,8,"Oct 17, 1970",Toledo,20,Western Michigan,0,1
+350,8,"Oct 17, 1970",Tulane,24,North Carolina,17,0
+351,8,"Oct 17, 1970",UCLA,24,California,21,1
+352,8,"Oct 17, 1970",Utah,20,Wyoming,16,1
+353,8,"Oct 17, 1970",Virginia,21,Army,20,0
+354,8,"Oct 17, 1970",Virginia Tech,17,Tulsa,14,0
+355,8,"Oct 17, 1970",Wake Forest,36,Clemson,20,0
+356,8,"Oct 17, 1970",William & Mary,24,Virginia Military Institute,10,1
+357,8,"Oct 17, 1970",Yale,32,Columbia,15,0
+358,9,"Oct 24, 1970",Air Force,35,Boston College,10,0
+359,9,"Oct 24, 1970",Alabama,30,Houston,21,1
+360,9,"Oct 24, 1970",Arizona State,42,UTEP,13,1
+361,9,"Oct 24, 1970",Arkansas,62,Wichita State,0,0
+362,9,"Oct 24, 1970",Baylor,29,Texas A&M,24,0
+363,9,"Oct 24, 1970",BYU,27,Utah State,20,0
+364,9,"Oct 24, 1970",California,45,Washington State,0,0
+365,9,"Oct 24, 1970",California-Santa Barbara,22,Hawaii,20,0
+366,9,"Oct 24, 1970",Cincinnati,29,Ohio,21,0
+367,9,"Oct 24, 1970",Virginia Military Institute,9,Citadel,56,1
+368,9,"Oct 24, 1970",Brown,6,Colgate,10,0
+369,9,"Oct 24, 1970",Columbia,30,Rutgers,14,0
+370,9,"Oct 24, 1970",Dartmouth,37,Harvard,14,1
+371,9,"Oct 24, 1970",Akron,6,Dayton,14,0
+372,9,"Oct 24, 1970",Duke,21,Clemson,10,1
+373,9,"Oct 24, 1970",Florida State,21,South Carolina,13,1
+374,9,"Oct 24, 1970",Cal State Los Angeles,6,Fresno State,51,1
+375,9,"Oct 24, 1970",Furman,18,Chattanooga,16,0
+376,9,"Oct 24, 1970",Kentucky,3,Georgia,19,0
+377,9,"Oct 24, 1970",Tulane,6,Georgia Tech,20,1
+378,9,"Oct 24, 1970",Idaho,17,Portland State,16,0
+379,9,"Oct 24, 1970",Kansas,24,Iowa State,10,0
+380,9,"Oct 24, 1970",Kansas State,19,Oklahoma,14,1
+381,9,"Oct 24, 1970",Long Beach State,49,Cal Poly,20,0
+382,9,"Oct 24, 1970",Auburn,9,LSU,17,0
+383,9,"Oct 24, 1970",North Texas,7,Memphis,28,0
+384,9,"Oct 24, 1970",Miami (OH),7,Bowling Green,3,0
+385,9,"Oct 24, 1970",Michigan,39,Minnesota,13,0
+386,9,"Oct 24, 1970",Michigan State,37,Iowa,0,0
+387,9,"Oct 24, 1970",Ole Miss,26,Vanderbilt,16,1
+388,9,"Oct 24, 1970",Mississippi State,51,Southern Miss,15,0
+389,9,"Oct 24, 1970",Missouri,30,Colorado,16,0
+390,9,"Oct 24, 1970",Nebraska,65,Oklahoma State,31,0
+391,9,"Oct 24, 1970",Wyoming,7,New Mexico,17,0
+392,9,"Oct 24, 1970",NC State,6,Maryland,0,0
+393,9,"Oct 24, 1970",Northern Illinois,31,Ball State,14,1
+394,9,"Oct 24, 1970",Northwestern,38,Purdue,14,0
+395,9,"Oct 24, 1970",Ohio State,48,Illinois,29,1
+396,9,"Oct 24, 1970",USC,7,Oregon,10,1
+397,9,"Oct 24, 1970",Penn State,38,Army,14,1
+398,9,"Oct 24, 1970",Pitt,28,Miami,17,0
+399,9,"Oct 24, 1970",Princeton,22,Pennsylvania,16,1
+400,9,"Oct 24, 1970",Richmond,38,East Carolina,12,0
+401,9,"Oct 24, 1970",Pacific,7,San Jose State,48,0
+402,9,"Oct 24, 1970",Stanford,9,UCLA,7,1
+403,9,"Oct 24, 1970",Navy,8,Syracuse,23,1
+404,9,"Oct 24, 1970",Tampa,33,Xavier,10,0
+405,9,"Oct 24, 1970",Florida,7,Tennessee,38,1
+406,9,"Oct 24, 1970",Texas,45,Rice,21,1
+407,9,"Oct 24, 1970",Texas Tech,14,SMU,10,0
+408,9,"Oct 24, 1970",Toledo,34,Kent State,17,1
+409,9,"Oct 24, 1970",Utah,24,Arizona,0,0
+410,9,"Oct 24, 1970",Villanova,34,Holy Cross,14,0
+411,9,"Oct 24, 1970",William & Mary,6,Virginia,33,1
+412,9,"Oct 24, 1970",Virginia Tech,31,Buffalo,14,0
+413,9,"Oct 24, 1970",Wake Forest,14,North Carolina,13,0
+414,9,"Oct 24, 1970",Washington,29,Oregon State,20,1
+415,9,"Oct 24, 1970",New Mexico State,7,West Texas State,37,1
+416,9,"Oct 24, 1970",West Virginia,24,Colorado State,21,0
+417,9,"Oct 24, 1970",Western Michigan,34,Marshall,3,1
+418,9,"Oct 24, 1970",Wisconsin,30,Indiana,12,1
+419,9,"Oct 24, 1970",Wofford,35,Davidson,13,0
+420,9,"Oct 24, 1970",Cornell,7,Yale,38,0
+421,10,"Oct 30, 1970",Miami,3,Florida State,27,0
+422,10,"Oct 30, 1970",Washington State,9,UCLA,54,1
+423,10,"Oct 31, 1970",Air Force,23,Arizona,20,1
+424,10,"Oct 31, 1970",Mississippi State,6,Alabama,35,1
+425,10,"Oct 31, 1970",Texas A&M,6,Arkansas,45,0
+426,10,"Oct 31, 1970",Auburn,63,Florida,14,1
+427,10,"Oct 31, 1970",Boston College,21,Army,13,0
+428,10,"Oct 31, 1970",Bowling Green,26,Marshall,24,0
+429,10,"Oct 31, 1970",Wyoming,3,BYU,23,1
+430,10,"Oct 31, 1970",Buffalo,16,Holy Cross,0,0
+431,10,"Oct 31, 1970",California,13,USC,10,1
+432,10,"Oct 31, 1970",Wichita State,5,Cincinnati,35,0
+433,10,"Oct 31, 1970",Clemson,24,Maryland,11,1
+434,10,"Oct 31, 1970",Colgate,21,Lehigh,12,0
+435,10,"Oct 31, 1970",Colorado State,20,Utah State,13,0
+436,10,"Oct 31, 1970",Cornell,31,Columbia,20,1
+437,10,"Oct 31, 1970",Dartmouth,10,Yale,0,1
+438,10,"Oct 31, 1970",Davidson,55,Virginia Military Institute,21,1
+439,10,"Oct 31, 1970",Dayton,21,Northern Illinois,20,1
+440,10,"Oct 31, 1970",East Carolina,7,Furman,0,1
+441,10,"Oct 31, 1970",Georgia,52,South Carolina,34,0
+442,10,"Oct 31, 1970",Georgia Tech,24,Duke,16,1
+443,10,"Oct 31, 1970",Harvard,38,Pennsylvania,23,0
+444,10,"Oct 31, 1970",Cal State Los Angeles,7,Hawaii,31,1
+445,10,"Oct 31, 1970",Tulsa,9,Houston,21,1
+446,10,"Oct 31, 1970",Idaho,37,Montana State,24,1
+447,10,"Oct 31, 1970",Illinois,23,Purdue,21,1
+448,10,"Oct 31, 1970",Minnesota,14,Iowa,14,0
+449,10,"Oct 31, 1970",Kansas State,17,Missouri,13,0
+450,10,"Oct 31, 1970",Kentucky,27,NC State,2,0
+451,10,"Oct 31, 1970",Louisville,14,Kent State,13,0
+452,10,"Oct 31, 1970",Memphis,33,Southern Miss,0,0
+453,10,"Oct 31, 1970",Michigan,29,Wisconsin,15,1
+454,10,"Oct 31, 1970",Indiana,7,Michigan State,32,0
+455,10,"Oct 31, 1970",Nebraska,29,Colorado,13,1
+456,10,"Oct 31, 1970",New Mexico,35,UTEP,16,1
+457,10,"Oct 31, 1970",New Mexico State,32,North Texas,31,1
+458,10,"Oct 31, 1970",North Carolina,30,Virginia,15,0
+459,10,"Oct 31, 1970",Navy,7,Notre Dame,56,1
+460,10,"Oct 31, 1970",Ohio State,24,Northwestern,10,0
+461,10,"Oct 31, 1970",Oklahoma,29,Iowa State,28,1
+462,10,"Oct 31, 1970",Kansas,7,Oklahoma State,19,1
+463,10,"Oct 31, 1970",Pacific,27,California-Santa Barbara,13,1
+464,10,"Oct 31, 1970",West Virginia,8,Penn State,42,1
+465,10,"Oct 31, 1970",Princeton,42,Brown,14,1
+466,10,"Oct 31, 1970",Richmond,31,Citadel,14,1
+467,10,"Oct 31, 1970",Bucknell,7,Rutgers,21,1
+468,10,"Oct 31, 1970",San Diego State,56,Fresno State,14,0
+469,10,"Oct 31, 1970",Stanford,48,Oregon State,10,0
+470,10,"Oct 31, 1970",Syracuse,43,Pitt,13,0
+471,10,"Oct 31, 1970",Wake Forest,7,Tennessee,41,1
+472,10,"Oct 31, 1970",Texas,42,SMU,15,0
+473,10,"Oct 31, 1970",TCU,24,Baylor,17,0
+474,10,"Oct 31, 1970",Texas Tech,3,Rice,0,1
+475,10,"Oct 31, 1970",Toledo,14,Miami (OH),13,0
+476,10,"Oct 31, 1970",Vanderbilt,7,Tulane,10,0
+477,10,"Oct 31, 1970",San Jose State,9,Utah,13,0
+478,10,"Oct 31, 1970",Villanova,42,Xavier,14,0
+479,10,"Oct 31, 1970",Virginia Tech,35,William & Mary,14,1
+480,10,"Oct 31, 1970",Washington,25,Oregon,23,0
+481,10,"Oct 31, 1970",Texas-Arlington,8,West Texas State,33,0
+482,10,"Oct 31, 1970",Western Michigan,52,Ohio,23,0
+483,11,"Nov 7, 1970",Arizona State,46,San Jose State,10,0
+484,11,"Nov 7, 1970",Arkansas,38,Rice,14,0
+485,11,"Nov 7, 1970",Auburn,56,Mississippi State,0,0
+486,11,"Nov 7, 1970",Boston College,65,Buffalo,12,0
+487,11,"Nov 7, 1970",Cal State Los Angeles,6,California-Santa Barbara,36,0
+488,11,"Nov 7, 1970",Chattanooga,29,Citadel,28,0
+489,11,"Nov 7, 1970",Cincinnati,30,North Texas,10,1
+490,11,"Nov 7, 1970",Colgate,44,Bucknell,14,1
+491,11,"Nov 7, 1970",Colorado,45,Kansas,29,0
+492,11,"Nov 7, 1970",BYU,9,Colorado State,26,1
+493,11,"Nov 7, 1970",Cornell,35,Brown,21,1
+494,11,"Nov 7, 1970",Dartmouth,55,Columbia,0,0
+495,11,"Nov 7, 1970",Florida,24,Georgia,17,0
+496,11,"Nov 7, 1970",Florida State,38,Clemson,13,0
+497,11,"Nov 7, 1970",Furman,49,Guilford,28,1
+498,11,"Nov 7, 1970",Navy,8,Georgia Tech,30,1
+499,11,"Nov 7, 1970",Princeton,7,Harvard,29,0
+500,11,"Nov 7, 1970",Idaho,27,Weber State,17,0
+501,11,"Nov 7, 1970",Iowa,42,Indiana,13,0
+502,11,"Nov 7, 1970",Kansas State,28,Oklahoma State,15,0
+503,11,"Nov 7, 1970",Lafayette,53,Davidson,34,1
+504,11,"Nov 7, 1970",Long Beach State,50,Fresno State,14,1
+505,11,"Nov 7, 1970",Alabama,9,LSU,14,0
+506,11,"Nov 7, 1970",Louisville,40,Memphis,27,0
+507,11,"Nov 7, 1970",Marshall,20,Kent State,17,0
+508,11,"Nov 7, 1970",Massachusetts,29,Holy Cross,13,1
+509,11,"Nov 7, 1970",Miami (OH),17,Dayton,0,0
+510,11,"Nov 7, 1970",Michigan,42,Illinois,0,0
+511,11,"Nov 7, 1970",Michigan State,24,Purdue,14,0
+512,11,"Nov 7, 1970",Ole Miss,24,Houston,13,0
+513,11,"Nov 7, 1970",Nebraska,54,Iowa State,29,1
+514,11,"Nov 7, 1970",Arizona,7,New Mexico,35,1
+515,11,"Nov 7, 1970",North Carolina,62,Virginia Military Institute,13,0
+516,11,"Nov 7, 1970",NC State,21,Virginia,16,0
+517,11,"Nov 7, 1970",Northwestern,28,Minnesota,14,0
+518,11,"Nov 7, 1970",Notre Dame,46,Pitt,14,0
+519,11,"Nov 7, 1970",Bowling Green,7,Ohio,34,0
+520,11,"Nov 7, 1970",Wisconsin,7,Ohio State,24,0
+521,11,"Nov 7, 1970",Oklahoma,28,Missouri,13,0
+522,11,"Nov 7, 1970",Oregon,46,Air Force,35,0
+523,11,"Nov 7, 1970",Oregon State,16,California,10,0
+524,11,"Nov 7, 1970",Penn State,34,Maryland,0,1
+525,11,"Nov 7, 1970",Rutgers,6,Boston University,3,1
+526,11,"Nov 7, 1970",San Diego State,14,Pacific,13,1
+527,11,"Nov 7, 1970",USC,70,Washington State,33,1
+528,11,"Nov 7, 1970",SMU,6,Texas A&M,3,0
+529,11,"Nov 7, 1970",Stanford,29,Washington,22,0
+530,11,"Nov 7, 1970",Syracuse,31,Army,29,1
+531,11,"Nov 7, 1970",Tennessee,20,South Carolina,18,1
+532,11,"Nov 7, 1970",Texas,21,Baylor,14,1
+533,11,"Nov 7, 1970",Texas Tech,22,TCU,14,0
+534,11,"Nov 7, 1970",Wyoming,7,UTEP,42,1
+535,11,"Nov 7, 1970",Northern Illinois,7,Toledo,45,1
+536,11,"Nov 7, 1970",Tulane,31,Miami,16,0
+537,11,"Nov 7, 1970",Tulsa,21,Wichita State,12,0
+538,11,"Nov 7, 1970",Utah,17,Utah State,0,1
+539,11,"Nov 7, 1970",Vanderbilt,18,Kentucky,17,1
+540,11,"Nov 7, 1970",Villanova,7,Virginia Tech,34,1
+541,11,"Nov 7, 1970",Wake Forest,28,Duke,14,1
+542,11,"Nov 7, 1970",West Virginia,28,East Carolina,14,1
+543,11,"Nov 7, 1970",Western Michigan,20,West Texas State,0,1
+544,11,"Nov 7, 1970",William & Mary,28,Connecticut,15,0
+545,11,"Nov 7, 1970",Xavier,35,Quantico Marines,27,0
+546,11,"Nov 7, 1970",Yale,32,Pennsylvania,22,1
+547,12,"Nov 14, 1970",Air Force,31,Stanford,14,0
+548,12,"Nov 14, 1970",Miami,8,Alabama,32,0
+549,12,"Nov 14, 1970",Arizona State,37,Utah,14,0
+550,12,"Nov 14, 1970",Arkansas,36,SMU,3,0
+551,12,"Nov 14, 1970",Pitt,6,Boston College,21,0
+552,12,"Nov 14, 1970",California,35,San Jose State,28,0
+553,12,"Nov 14, 1970",Oklahoma State,6,Colorado,30,0
+554,12,"Nov 14, 1970",Pacific,8,Colorado State,17,1
+555,12,"Nov 14, 1970",Dartmouth,24,Cornell,0,1
+556,12,"Nov 14, 1970",Duke,42,South Carolina,38,1
+557,12,"Nov 14, 1970",East Carolina,17,Marshall,14,0
+558,12,"Nov 14, 1970",Florida,24,Kentucky,13,0
+559,12,"Nov 14, 1970",Virginia Tech,8,Florida State,34,1
+560,12,"Nov 14, 1970",Northern Arizona,7,Fresno State,40,0
+561,12,"Nov 14, 1970",Furman,28,Citadel,21,0
+562,12,"Nov 14, 1970",Georgia,31,Auburn,17,1
+563,12,"Nov 14, 1970",Harvard,17,Brown,10,0
+564,12,"Nov 14, 1970",Houston,28,Wyoming,0,0
+565,12,"Nov 14, 1970",Idaho,42,Utah State,14,1
+566,12,"Nov 14, 1970",Iowa State,31,Missouri,19,1
+567,12,"Nov 14, 1970",Cal State Los Angeles,7,Long Beach State,40,0
+568,12,"Nov 14, 1970",Mississippi State,7,LSU,38,1
+569,12,"Nov 14, 1970",Southern Miss,6,Louisiana Tech,27,0
+570,12,"Nov 14, 1970",Louisville,28,Cincinnati,14,1
+571,12,"Nov 14, 1970",Wichita State,6,Memphis,51,1
+572,12,"Nov 14, 1970",Kent State,8,Miami (OH),10,1
+573,12,"Nov 14, 1970",Michigan,55,Iowa,0,0
+574,12,"Nov 14, 1970",Minnesota,23,Michigan State,13,0
+575,12,"Nov 14, 1970",Chattanooga,7,Ole Miss,44,1
+576,12,"Nov 14, 1970",Nebraska,51,Kansas State,13,0
+577,12,"Nov 14, 1970",BYU,8,New Mexico,51,1
+578,12,"Nov 14, 1970",New Mexico State,69,Lamar,37,0
+579,12,"Nov 14, 1970",Clemson,7,North Carolina,42,0
+580,12,"Nov 14, 1970",Indiana,7,Northwestern,21,0
+581,12,"Nov 14, 1970",Georgia Tech,7,Notre Dame,10,1
+582,12,"Nov 14, 1970",Purdue,7,Ohio State,10,0
+583,12,"Nov 14, 1970",Oklahoma,28,Kansas,24,1
+584,12,"Nov 14, 1970",Army,22,Oregon,22,0
+585,12,"Nov 14, 1970",Oregon State,28,Washington State,16,1
+586,12,"Nov 14, 1970",Penn State,32,Ohio,22,0
+587,12,"Nov 14, 1970",Pennsylvania,21,Columbia,14,0
+588,12,"Nov 14, 1970",Rice,18,Texas A&M,17,1
+589,12,"Nov 14, 1970",Richmond,40,Virginia Military Institute,17,0
+590,12,"Nov 14, 1970",Holy Cross,7,Rutgers,37,1
+591,12,"Nov 14, 1970",California-Santa Barbara,7,San Diego State,64,1
+592,12,"Nov 14, 1970",Buffalo,8,Temple,21,1
+593,12,"Nov 14, 1970",Texas,58,TCU,0,1
+594,12,"Nov 14, 1970",Texas Tech,7,Baylor,3,1
+595,12,"Nov 14, 1970",UTEP,33,Arizona,17,0
+596,12,"Nov 14, 1970",Dayton,7,Toledo,31,0
+597,12,"Nov 14, 1970",Villanova,14,Navy,10,1
+598,12,"Nov 14, 1970",Virginia,54,Colgate,12,0
+599,12,"Nov 14, 1970",Wake Forest,16,NC State,13,0
+600,12,"Nov 14, 1970",Washington,61,UCLA,20,0
+601,12,"Nov 14, 1970",Bowling Green,7,West Texas State,23,0
+602,12,"Nov 14, 1970",West Virginia,28,Syracuse,19,0
+603,12,"Nov 14, 1970",Western Michigan,38,Northern Illinois,18,0
+604,12,"Nov 14, 1970",William & Mary,29,Davidson,28,1
+605,12,"Nov 14, 1970",Wisconsin,29,Illinois,17,1
+606,12,"Nov 14, 1970",Yale,27,Princeton,22,0
+607,13,"Nov 19, 1970",UTEP,37,Trinity (Texas),16,1
+608,13,"Nov 20, 1970",Long Beach State,27,San Diego State,11,0
+609,13,"Nov 21, 1970",Arizona,38,Wyoming,12,0
+610,13,"Nov 21, 1970",Arizona State,33,New Mexico,21,0
+611,13,"Nov 21, 1970",Arkansas,24,Texas Tech,10,1
+612,13,"Nov 21, 1970",Boston College,21,Massachusetts,10,1
+613,13,"Nov 21, 1970",Brown,17,Columbia,12,1
+614,13,"Nov 21, 1970",California-Santa Barbara,7,Cal Poly,42,0
+615,13,"Nov 21, 1970",Cal State Northridge,45,Cal State Los Angeles,0,0
+616,13,"Nov 21, 1970",California,22,Stanford,14,0
+617,13,"Nov 21, 1970",Cincinnati,33,Miami (OH),0,0
+618,13,"Nov 21, 1970",Davidson,9,Citadel,44,1
+619,13,"Nov 21, 1970",Colorado,49,Air Force,19,1
+620,13,"Nov 21, 1970",Holy Cross,20,Connecticut,20,0
+621,13,"Nov 21, 1970",Cornell,6,Princeton,3,1
+622,13,"Nov 21, 1970",Dartmouth,28,Pennsylvania,0,1
+623,13,"Nov 21, 1970",Kansas State,7,Florida State,33,1
+624,13,"Nov 21, 1970",Fresno State,27,San Jose State,19,1
+625,13,"Nov 21, 1970",Furman,38,Mississippi College,17,1
+626,13,"Nov 21, 1970",Harvard,14,Yale,12,0
+627,13,"Nov 21, 1970",Hawaii,14,Pacific,0,0
+628,13,"Nov 21, 1970",Houston,26,Wake Forest,2,0
+629,13,"Nov 21, 1970",Iowa,22,Illinois,16,0
+630,13,"Nov 21, 1970",Xavier,6,Kent State,34,1
+631,13,"Nov 21, 1970",Louisville,23,Drake,14,0
+632,13,"Nov 21, 1970",Maryland,17,Virginia,14,1
+633,13,"Nov 21, 1970",Missouri,28,Kansas,17,0
+634,13,"Nov 21, 1970",Nebraska,28,Oklahoma,21,0
+635,13,"Nov 21, 1970",North Carolina,59,Duke,34,0
+636,13,"Nov 21, 1970",North Texas,41,Wichita State,24,1
+637,13,"Nov 21, 1970",Northern Illinois,43,Buffalo,26,0
+638,13,"Nov 21, 1970",Northwestern,23,Michigan State,20,1
+639,13,"Nov 21, 1970",Notre Dame,3,LSU,0,0
+640,13,"Nov 21, 1970",Michigan,9,Ohio State,20,1
+641,13,"Nov 21, 1970",Oklahoma State,36,Iowa State,27,0
+642,13,"Nov 21, 1970",Oregon,9,Oregon State,24,1
+643,13,"Nov 21, 1970",Penn State,35,Pitt,15,0
+644,13,"Nov 21, 1970",Purdue,40,Indiana,0,0
+645,13,"Nov 21, 1970",Rice,17,TCU,15,0
+646,13,"Nov 21, 1970",Rutgers,30,Colgate,14,0
+647,13,"Nov 21, 1970",South Carolina,38,Clemson,32,1
+648,13,"Nov 21, 1970",SMU,23,Baylor,10,0
+649,13,"Nov 21, 1970",Syracuse,56,Miami,16,0
+650,13,"Nov 21, 1970",Tennessee,45,Kentucky,0,0
+651,13,"Nov 21, 1970",Toledo,24,Colorado State,14,0
+652,13,"Nov 21, 1970",Tulane,31,NC State,0,0
+653,13,"Nov 21, 1970",Tulsa,30,Idaho,17,0
+654,13,"Nov 21, 1970",UCLA,45,USC,20,0
+655,13,"Nov 21, 1970",Utah,14,BYU,13,0
+656,13,"Nov 21, 1970",Utah State,15,Memphis,12,1
+657,13,"Nov 21, 1970",Vanderbilt,36,Tampa,28,1
+658,13,"Nov 21, 1970",West Chester,7,Villanova,30,1
+659,13,"Nov 21, 1970",Virginia Tech,20,Virginia Military Institute,14,0
+660,13,"Nov 21, 1970",Washington,43,Washington State,25,1
+661,13,"Nov 21, 1970",West Texas State,14,Southern Miss,11,0
+662,13,"Nov 21, 1970",William & Mary,34,Richmond,33,1
+663,13,"Nov 21, 1970",Wisconsin,39,Minnesota,14,0
+664,14,"Nov 26, 1970",Houston,53,Florida State,21,1
+665,14,"Nov 26, 1970",Mississippi State,19,Ole Miss,14,1
+666,14,"Nov 26, 1970",Texas,52,Texas A&M,14,0
+667,14,"Nov 26, 1970",Villanova,31,Temple,26,1
+668,14,"Nov 28, 1970",Auburn,33,Alabama,28,0
+669,14,"Nov 28, 1970",Boston College,54,Holy Cross,0,0
+670,14,"Nov 28, 1970",East Carolina,36,Davidson,18,0
+671,14,"Nov 28, 1970",Georgia,7,Georgia Tech,17,0
+672,14,"Nov 28, 1970",Hawaii,49,Fresno State,0,0
+673,14,"Nov 28, 1970",Iowa State,28,San Diego State,22,1
+674,14,"Nov 28, 1970",Long Beach State,21,Cal State Northridge,11,1
+675,14,"Nov 28, 1970",LSU,26,Tulane,14,1
+676,14,"Nov 28, 1970",Louisville,34,Wichita State,24,1
+677,14,"Nov 28, 1970",Memphis,14,Cincinnati,10,0
+678,14,"Nov 28, 1970",Miami,14,Florida,13,1
+679,14,"Nov 28, 1970",Army,7,Navy,11,1
+680,14,"Nov 28, 1970",Oklahoma,66,Oklahoma State,6,0
+681,14,"Nov 28, 1970",Rice,28,Baylor,23,1
+682,14,"Nov 28, 1970",USC,38,Notre Dame,28,0
+683,14,"Nov 28, 1970",Southern Miss,53,Trinity (Texas),31,0
+684,14,"Nov 28, 1970",Vanderbilt,6,Tennessee,24,0
+685,14,"Nov 28, 1970",TCU,26,SMU,17,0
+686,14,"Nov 28, 1970",Utah State,45,New Mexico State,21,1
+687,14,"Nov 28, 1970",West Virginia,20,Maryland,10,1
+688,15,"Dec 5, 1970",Arizona,6,Arizona State,10,0
+689,15,"Dec 5, 1970",Houston,36,Miami,3,1
+690,15,"Dec 5, 1970",LSU,61,Ole Miss,17,0
+691,15,"Dec 5, 1970",Tennessee,28,UCLA,17,0
+692,15,"Dec 5, 1970",Arkansas,7,Texas,42,1
+693,15,"Dec 5, 1970",Tulsa,26,North Texas,20,0
+694,16,"Dec 12, 1970",Colorado,3,Tulane,17,1
+695,17,"Dec 19, 1970",Texas Tech,9,Georgia Tech,17,1
+696,17,"Dec 19, 1970",Long Beach State,24,Louisville,24,0
+697,18,"Dec 28, 1970",Toledo,40,William & Mary,12,0
+698,19,"Dec 30, 1970",Arizona State,48,North Carolina,26,0
+699,19,"Dec 31, 1970",Oklahoma,24,Alabama,24,0
+700,19,"Jan 1, 1971",Nebraska,17,LSU,12,0
+701,19,"Jan 1, 1971",Notre Dame,24,Texas,11,0
+702,19,"Jan 1, 1971",Stanford,27,Ohio State,17,0
+703,19,"Jan 1, 1971",Tennessee,34,Air Force,13,0
+704,19,"Jan 2, 1971",Auburn,35,Ole Miss,28,0
