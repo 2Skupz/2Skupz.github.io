@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Baseball, V1.0</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .example, .strategy {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Card Baseball, V1.0</h1>
+    
+    <div class="section" id="introduction">
+        <h2>Introduction</h2>
+        <p>Card Baseball is so called due to the way the scoring plays out. The game is played in innings that are divided into two halves wherein each team has one turn where they and only they can score (like baseball!).</p>
+        <p>As of version 1.0, there are some notable differences. The game doesn’t really have ‘outs’ and the baseball mechanism of advancing the bases is not present. Really, Card Baseball is at its core a game of chance and memory. The intended audience is probably kids that remind me of myself when I was 8 years old.</p>
+        <p>Due to the memory aspect of the game, the game should get more intense as play goes on, which can create a fun dynamic.</p>
+    </div>
+    
+    <div class="section" id="basics">
+        <h2>The Basics</h2>
+        <p>Games consist of 4 innings. Cards are shuffled after the entire deck is exhausted.</p>
+        <p>Before the game choose a player to bat first. Note that the player who bats second has an advantage so if there is a desire for one player to have an advantage (maybe you’re playing with a kid or maybe you’ve already played and one player lost the previous game or maybe someone doesn’t have as good of a memory, etc…) you can choose that player to bat second.</p>
+        <p>For each half inning:</p>
+        <ol>
+            <li>One player is the offense, another is the defense.</li>
+            <li>The offense calls two cards (we’ll say Ace and 2 for this example)</li>
+            <li>The defense responds by calling two cards of their own (Queen and King for this example)</li>
+            <li>The defense flips 3 cards
+                <ol>
+                    <li>If there are any offensive cards, the offensive player remains on offense and the cards are resolved (even if no runs are scored)</li>
+                    <li>The offensive player scores runs based on the difference of the offensive cards and the defensive cards
+                        <ol>
+                            <li>That is, defensive cards cancel out offensive cards, though they do not end the inning</li>
+                        </ol>
+                    </li>
+                </ol>
+            </li>
+            <li>Once a flip occurs without any offensive cards
+                <ol>
+                    <li>On a scoresheet, note the number of runs scored in that inning's place</li>
+                    <li>Switch offense and defense</li>
+                </ol>
+            </li>
+        </ol>
+    </div>
+    
+    <div class="section example">
+        <h2>Example Game (2 innings)</h2>
+        <p><strong>Sample players Alice and Bob, Alice begins on offense</strong></p>
+        <p><strong>Top 1:</strong><br>
+            Alice calls A,2; Bob Q,K<br>
+            Flip is a 5,10,Q<br>
+            No offensive cards came up, top of the 1st is over<br>
+            Note a defensive card came up, but no offensive cards so nothing happens with that card</p>
+        <p><strong>Bottom 1:</strong><br>
+            Sides switch. Bob is now batting and will call cards first, Alice is pitching and will call second<br>
+            Bob calls A,2; Alice J,K<br>
+            Flip is A, A, K<br>
+            At least one offensive card was turned over, Bob will remain batting<br>
+            In fact, two offensive cards were called, compared to one defensive card<br>
+            Bob scores 1 run<br>
+            Bob calls 2,3; Alice calls 9,J<br>
+            Flip is 2,9,10<br>
+            At least one offensive card was turned over, Bob will remain batting<br>
+            There is one offensive card (2), and one defensive (9). No runs score<br>
+            Bob calls 3,4; Alice calls 6,7<br>
+            Flip is A,10,J<br>
+            No offensive cards overturned, Bob’s turn is over<br>
+            Bob leads 1-0 after 1 inning</p>
+        <p><strong>Top 2:</strong><br>
+            Alice is offense, Bob defense<br>
+            Alice calls 3,4; Bob calls 5,6<br>
+            Flip is 7,9,K<br>
+            No offensive cards overturned, Alice’s turn is over<br>
+            Bob leads 1-0 entering the bottom of the second</p>
+        <p>Since this was a two inning game and Bob is leading, the game is over and Bob wins 1-0</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Player</th>
+                    <th>1</th>
+                    <th>2</th>
+                    <th>Runs</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Alice</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Bob</td>
+                    <td>1</td>
+                    <td>x</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="section strategy">
+        <h2>Strategy</h2>
+        <p>Note the players choice of cards. As the deck is not reshuffled the game is essentially one of memory. For the first two plays of the game, the offensive player calls an Ace. However, after the two aces are flipped, the odds of an ace are lower than a card that hasn’t been shown yet (for example, a 6) and the players choice of cards reflect this.</p>
+        <p>Similarly note that in the top of the second Bob called a 5. At this point in the game the remaining deck consisted of 40 cards, three of which were 5’s. Conversely there were still all four 3’s, 4’s, 6’s, 7’s, and 8’s. This was a bad call by Bob.</p>
+        <p>A calculating player can track the remaining cards in the deck, making it more and more likely that a called card will appear as the game goes on. Because offense calls first, this gives the offensive player more and more advantage as the game goes on. As noted in the gameplay instructions, this means the second batter has an advantage.</p>
+    </div>
+    
+    <div class="section" id="make-your-own">
+        <h2>Make the Game Your Own!</h2>
+        <p>The following grid indicates how many runs are scored per 9 innings depending on how many cards the batter and the pitcher gets. The table assumes a reshuffle after every throw which is not realistic but close enough for version 1. The rows represent the offensive card choices and the columns the defensive. For example, if the offense gets to call 3 cards per turn and the defense 2, we’d expect each player to score about 10.3 runs/9 innings.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>0</th>
+                    <th>1</th>
+                    <th>2</th>
+                    <th>3</th>
+                    <th>4</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>2.65</td>
+                    <td>2.26</td>
+                    <td>1.91</td>
+                    <td>1.58</td>
+                    <td>1.29</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>6.93</td>
+                    <td>5.95</td>
+                    <td>5.06</td>
+                    <td>4.26</td>
+                    <td>3.54</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>13.94</td>
+                    <td>12.06</td>
+                    <td>10.35</td>
+                    <td>8.82</td>
+                    <td>7.47</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>25.71</td>
+                    <td>22.41</td>
+                    <td>19.42</td>
+                    <td>16.76</td>
+                    <td>14.42</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>To that end, choose as many cards as you want, shuffle as often as you’d like, play as many innings as you’d like! The gameplay above is the ‘standard’ but the game can handle any variant.</p>
+        <p>Note that 2/2 or 2/3 most closely matches Major League Baseball run environments. But, some people have argued there should be more action in baseball, so, go 3/1 if you want a run an inning, it’s your game!</p>
+        <p>If it were me and I was playing a clone of myself so I didn’t have to worry that my opponent was just indulging me by playing my game, I’d probably do the following:</p>
+        <ul>
+            <li>Get TWO decks of cards</li>
+            <li>Start the game by killing (turning over for both players to see) 12 cards, just to get the memory part started</li>
+            <li>Play out the deck with two offensive and two defensive cards</li>
+        </ul>
+    </div>
+    
+    <div class="section" id="dice-variant">
+        <h2>Dice Variant</h2>
+        <p>The game could be played with dice. With dice, the game is 100% luck. You can either designate a number (1 for offense, 6 for defense, etc) or have players call out the numbers every time. It’s still luck but at least the player had choices.</p>
+        <p>The following grid describes run distribution:</p>
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>0</th>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+                <th>4</th>
+                <th>5</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1</th>
+                <td>7.78</td>
+                <td>5.62</td>
+                <td>3.89</td>
+                <td>2.59</td>
+                <td>1.73</td>
+                <td>1.30</td>
+            </tr>
+            <tr>
+                <th>2</th>
+                <td>30.38</td>
+                <td>22.78</td>
+                <td>16.88</td>
+                <td>12.66</td>
+                <td>10.13</td>
+            </tr>
+            <tr>
+                <th>3</th>
+                <td>108.00</td>
+                <td>84.00</td>
+                <td>66.00</td>
+                <td>54.00</td>
+            </tr>
+        </tbody>
+    </table>
+        <p>Pick what you want, here. I’d probably choose the simplicity of 1 offense and 1 defense, but, 2 and 2 is a nice distribution as well.</p>
+    </div>
+    
+    <div class="section" id="contact">
+        <h2>Thoughts, ideas, suggestions, deeply held grievances</h2>
+        <p>Contact Ken at <a href="mailto:schroeder.w.ken@gmail.com">schroeder.w.ken@gmail.com</a>; subject: Card Baseball.</p>
+    </div>
+</body>
+</html>
