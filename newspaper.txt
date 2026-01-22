@@ -78,16 +78,16 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, January 24                                                Sunday, January 18
-  Brentford            vs    Nott'ham Forest                          Monaco               vs    Lorient
-  Newcastle Utd        vs    Aston Villa                              Nantes               vs    Paris FC
-  Bournemouth          vs    Liverpool                                Toulouse             vs    Nice
-  Fulham               vs    Brighton                                 Lyon                 vs    Brest
-  Arsenal              vs    Manchester Utd                           Strasbourg           vs    Metz
-  Manchester City      vs    Wolves                                   Paris S-G            vs    Lille
-  Burnley              vs    Tottenham                                Lens                 vs    Auxerre
-  Everton              vs    Leeds United                             Angers               vs    Marseille
-  West Ham             vs    Sunderland                               Rennes               vs    Le Havre
+Saturday, January 24                                                Sunday, January 25
+  Brentford            vs    Nott'ham Forest                          Brest                vs    Toulouse
+  Newcastle Utd        vs    Aston Villa                              Lille                vs    Strasbourg
+  Bournemouth          vs    Liverpool                                Metz                 vs    Lyon
+  Fulham               vs    Brighton                                 Nantes               vs    Nice
+  Arsenal              vs    Manchester Utd                           Marseille            vs    Lens
+  Manchester City      vs    Wolves                                   Le Havre             vs    Monaco
+  Burnley              vs    Tottenham                                Paris FC             vs    Angers
+  Everton              vs    Leeds United                             Auxerre              vs    Paris S-G
+  West Ham             vs    Sunderland                               Rennes               vs    Lorient
   Crystal Palace       vs    Chelsea                                
 
 Serie A                                                             
@@ -115,11 +115,6 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Sunday, January 18
-  Parma                vs    Genoa
-  Bologna              vs    Fiorentina
-  Torino               vs    Roma
-  Milan                vs    Lecce
 Monday, January 19
   Cremonese            vs    Hellas Verona
   Lazio                vs    Como
@@ -129,6 +124,12 @@ Saturday, January 24
   Como                 vs    Torino
   Fiorentina           vs    Cagliari
   Lecce                vs    Lazio
+Sunday, January 25
+  Sassuolo             vs    Cremonese
+  Atalanta             vs    Parma
+  Genoa                vs    Bologna
+  Juventus             vs    Napoli
+  Roma                 vs    Milan
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -192,4 +193,4 @@ Wednesday, January 21
   Slavia Praguecz      vs    esBarcelona
   Qarabağaz            vs    deEint Frankfurt
 
-Standings from FBRef.com 01.21.26
+Standings from FBRef.com 01.22.26
