@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, January 24
-  Leverkusen           vs    Werder Bremen
-  St. Pauli            vs    Hamburger SV
-  Gladbach             vs    Stuttgart
-  Union Berlin         vs    Dortmund
-  Heidenheim           vs    RB Leipzig
-  Eint Frankfurt       vs    Hoffenheim
-  Mainz 05             vs    Wolfsburg
-  Freiburg             vs    Köln
-  Bayern Munich        vs    Augsburg
+Saturday, January 31
+  Augsburg             vs    St. Pauli
+  Hamburger SV         vs    Bayern Munich
+  Dortmund             vs    Heidenheim
+  Köln                 vs    Wolfsburg
+  RB Leipzig           vs    Mainz 05
+  Werder Bremen        vs    Gladbach
+  Eint Frankfurt       vs    Leverkusen
+  Hoffenheim           vs    Union Berlin
+  Stuttgart            vs    Freiburg
 
 
 Premier League
@@ -121,17 +121,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, January 24
-  Brentford            vs    Nott'ham Forest
-  Newcastle Utd        vs    Aston Villa
-  Bournemouth          vs    Liverpool
-  Fulham               vs    Brighton
-  Arsenal              vs    Manchester Utd
-  Manchester City      vs    Wolves
-  Burnley              vs    Tottenham
-  Everton              vs    Leeds United
-  West Ham             vs    Sunderland
-  Crystal Palace       vs    Chelsea
+Saturday, January 31
+  Aston Villa          vs    Brentford
+  Chelsea              vs    West Ham
+  Sunderland           vs    Burnley
+  Brighton             vs    Everton
+  Leeds United         vs    Arsenal
+  Wolves               vs    Bournemouth
+  Liverpool            vs    Newcastle Utd
+  Manchester Utd       vs    Fulham
+  Tottenham            vs    Manchester City
+  Nott'ham Forest      vs    Crystal Palace
 
 
 Ligue 1
@@ -196,10 +196,6 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Saturday, January 24
-  Como                 vs    Torino
-  Fiorentina           vs    Cagliari
-  Lecce                vs    Lazio
 Sunday, January 25
   Sassuolo             vs    Cremonese
   Atalanta             vs    Parma
@@ -273,4 +269,4 @@ Wednesday, January 28
   Pafos FCcy           vs    czSlavia Prague
 
 
-Standings from FBRef.com 01.27.26
+Standings from FBRef.com 01.28.26
