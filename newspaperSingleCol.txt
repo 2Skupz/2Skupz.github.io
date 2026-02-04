@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, January 31
-  Augsburg             vs    St. Pauli
-  Hamburger SV         vs    Bayern Munich
-  Dortmund             vs    Heidenheim
-  Köln                 vs    Wolfsburg
-  RB Leipzig           vs    Mainz 05
-  Werder Bremen        vs    Gladbach
-  Eint Frankfurt       vs    Leverkusen
-  Hoffenheim           vs    Union Berlin
-  Stuttgart            vs    Freiburg
+Saturday, February 07
+  Gladbach             vs    Leverkusen
+  Union Berlin         vs    Eint Frankfurt
+  Bayern Munich        vs    Hoffenheim
+  Wolfsburg            vs    Dortmund
+  Freiburg             vs    Werder Bremen
+  Mainz 05             vs    Augsburg
+  Köln                 vs    RB Leipzig
+  Heidenheim           vs    Hamburger SV
+  St. Pauli            vs    Stuttgart
 
 
 Premier League
@@ -121,17 +121,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, January 31
-  Aston Villa          vs    Brentford
-  Chelsea              vs    West Ham
-  Sunderland           vs    Burnley
-  Brighton             vs    Everton
-  Leeds United         vs    Arsenal
-  Wolves               vs    Bournemouth
-  Liverpool            vs    Newcastle Utd
-  Manchester Utd       vs    Fulham
-  Tottenham            vs    Manchester City
-  Nott'ham Forest      vs    Crystal Palace
+Saturday, February 07
+  Bournemouth          vs    Aston Villa
+  Wolves               vs    Chelsea
+  Arsenal              vs    Sunderland
+  Manchester Utd       vs    Tottenham
+  Leeds United         vs    Nott'ham Forest
+  Brighton             vs    Crystal Palace
+  Burnley              vs    West Ham
+  Liverpool            vs    Manchester City
+  Newcastle Utd        vs    Brentford
+  Fulham               vs    Everton
 
 
 Ligue 1
@@ -250,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 02.03.26
+Standings from FBRef.com 02.04.26
