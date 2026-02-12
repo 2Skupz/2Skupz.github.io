@@ -78,16 +78,16 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Wednesday, February 11                                              Sunday, February 08
-  Tottenham            vs    Newcastle Utd                            Nantes               vs    Lyon
-  West Ham             vs    Manchester Utd                           Auxerre              vs    Paris FC
-  Nott'ham Forest      vs    Wolves                                   Angers               vs    Toulouse
-  Manchester City      vs    Fulham                                   Brest                vs    Lorient
-  Crystal Palace       vs    Burnley                                  Nice                 vs    Monaco
-  Aston Villa          vs    Brighton                                 Lens                 vs    Rennes
-  Chelsea              vs    Leeds United                             Le Havre             vs    Strasbourg
-  Sunderland           vs    Liverpool                                Metz                 vs    Lille
-  Everton              vs    Bournemouth                              Paris S-G            vs    Marseille
+Wednesday, February 11                                              Sunday, February 15
+  Tottenham            vs    Newcastle Utd                            Lille                vs    Brest
+  West Ham             vs    Manchester Utd                           Monaco               vs    Nantes
+  Nott'ham Forest      vs    Wolves                                   Paris FC             vs    Lens
+  Manchester City      vs    Fulham                                   Rennes               vs    Paris S-G
+  Crystal Palace       vs    Burnley                                  Marseille            vs    Strasbourg
+  Aston Villa          vs    Brighton                                 Lorient              vs    Angers
+  Chelsea              vs    Leeds United                             Metz                 vs    Auxerre
+  Sunderland           vs    Liverpool                                Le Havre             vs    Toulouse
+  Everton              vs    Bournemouth                              Lyon                 vs    Nice
   Brentford            vs    Arsenal                                
 
 Serie A                                                             
@@ -115,17 +115,17 @@ Genoa               9   0   3   6   4  13  -9   3  11.3   9.8
 
 Serie A Fixtures
 ----------------
-Sunday, February 08
-  Lecce                vs    Udinese
-  Atalanta             vs    Cremonese
-  Roma                 vs    Cagliari
-  Fiorentina           vs    Torino
-  Sassuolo             vs    Inter
-  Milan                vs    Como
-  Bologna              vs    Parma
-  Hellas Verona        vs    Pisa
-  Juventus             vs    Lazio
-  Genoa                vs    Napoli
+Sunday, February 15
+  Pisa                 vs    Milan
+  Parma                vs    Hellas Verona
+  Como                 vs    Fiorentina
+  Cremonese            vs    Genoa
+  Napoli               vs    Roma
+  Torino               vs    Bologna
+  Udinese              vs    Sassuolo
+  Inter                vs    Juventus
+  Cagliari             vs    Lecce
+  Lazio                vs    Atalanta
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -167,4 +167,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 02.11.26
+Standings from FBRef.com 02.12.26
