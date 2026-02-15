@@ -76,19 +76,18 @@ West Ham           10   2   1   7  10  21 -11   7   9.3  15.3       Auxerre     
 Nott'ham Forest    10   1   3   6   7  19 -12   6  11.0  15.9       
 Wolves             10   0   2   8   7  22 -15   2   9.4  12.7       
 
-Premier League Fixtures                                             Ligue 1 Fixtures
------------------------                                             ----------------
-Wednesday, February 11                                              Sunday, February 15
-  Tottenham            vs    Newcastle Utd                            Lille                vs    Brest
-  West Ham             vs    Manchester Utd                           Monaco               vs    Nantes
-  Nott'ham Forest      vs    Wolves                                   Paris FC             vs    Lens
-  Manchester City      vs    Fulham                                   Rennes               vs    Paris S-G
-  Crystal Palace       vs    Burnley                                  Marseille            vs    Strasbourg
-  Aston Villa          vs    Brighton                                 Lorient              vs    Angers
-  Chelsea              vs    Leeds United                             Metz                 vs    Auxerre
-  Sunderland           vs    Liverpool                                Le Havre             vs    Toulouse
-  Everton              vs    Bournemouth                              Lyon                 vs    Nice
-  Brentford            vs    Arsenal                                
+                                                                    Ligue 1 Fixtures
+                                                                    ----------------
+                                                                    Sunday, February 15
+                                                                      Lille                vs    Brest
+                                                                      Monaco               vs    Nantes
+                                                                      Paris FC             vs    Lens
+                                                                      Rennes               vs    Paris S-G
+                                                                      Marseille            vs    Strasbourg
+                                                                      Lorient              vs    Angers
+                                                                      Metz                 vs    Auxerre
+                                                                      Le Havre             vs    Toulouse
+                                                                      Lyon                 vs    Nice
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -167,4 +166,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 02.14.26
+Standings from FBRef.com 02.15.26
