@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, February 14
-  Werder Bremen        vs    Bayern Munich
-  Dortmund             vs    Mainz 05
-  Hoffenheim           vs    Freiburg
-  Augsburg             vs    Heidenheim
-  RB Leipzig           vs    Wolfsburg
-  Eint Frankfurt       vs    Gladbach
-  Leverkusen           vs    St. Pauli
-  Stuttgart            vs    Köln
-  Hamburger SV         vs    Union Berlin
+Saturday, February 21
+  Union Berlin         vs    Leverkusen
+  Freiburg             vs    Gladbach
+  Mainz 05             vs    Hamburger SV
+  Bayern Munich        vs    Eint Frankfurt
+  Köln                 vs    Hoffenheim
+  Wolfsburg            vs    Augsburg
+  Heidenheim           vs    Stuttgart
+  St. Pauli            vs    Werder Bremen
+  RB Leipzig           vs    Dortmund
 
 
 Premier League
@@ -118,6 +118,20 @@ Burnley            10   3   1   6  10  -7
 West Ham           10   2   1   7   7 -11
 Nott'ham Forest    10   1   3   6   6 -12
 Wolves             10   0   2   8   2 -15
+
+Premier League Fixtures
+-----------------------
+Saturday, February 21
+  Sunderland           vs    Fulham
+  Aston Villa          vs    Leeds United
+  Everton              vs    Manchester Utd
+  Chelsea              vs    Burnley
+  Manchester City      vs    Newcastle Utd
+  Crystal Palace       vs    Wolves
+  West Ham             vs    Bournemouth
+  Nott'ham Forest      vs    Liverpool
+  Tottenham            vs    Arsenal
+  Brentford            vs    Brighton
 
 
 Ligue 1
@@ -236,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 02.17.26
+Standings from FBRef.com 02.18.26
