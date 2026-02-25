@@ -42,16 +42,16 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Saturday, February 21
-                                                                      Union Berlin         vs    Leverkusen
-                                                                      Freiburg             vs    Gladbach
-                                                                      Mainz 05             vs    Hamburger SV
-                                                                      Bayern Munich        vs    Eint Frankfurt
-                                                                      Köln                 vs    Hoffenheim
-                                                                      Wolfsburg            vs    Augsburg
-                                                                      Heidenheim           vs    Stuttgart
-                                                                      St. Pauli            vs    Werder Bremen
-                                                                      RB Leipzig           vs    Dortmund
+                                                                    Saturday, February 28
+                                                                      Gladbach             vs    Union Berlin
+                                                                      Werder Bremen        vs    Heidenheim
+                                                                      Dortmund             vs    Bayern Munich
+                                                                      Leverkusen           vs    Mainz 05
+                                                                      Hamburger SV         vs    RB Leipzig
+                                                                      Eint Frankfurt       vs    Freiburg
+                                                                      Augsburg             vs    Köln
+                                                                      Stuttgart            vs    Wolfsburg
+                                                                      Hoffenheim           vs    St. Pauli
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -78,17 +78,17 @@ Wolves             10   0   2   8   7  22 -15   2   9.4  12.7
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, February 21                                               Sunday, February 22
-  Sunderland           vs    Fulham                                   Paris S-G            vs    Metz
-  Aston Villa          vs    Leeds United                             Auxerre              vs    Rennes
-  Everton              vs    Manchester Utd                           Toulouse             vs    Paris FC
-  Chelsea              vs    Burnley                                  Nice                 vs    Lorient
-  Manchester City      vs    Newcastle Utd                            Angers               vs    Lille
-  Crystal Palace       vs    Wolves                                   Lens                 vs    Monaco
-  West Ham             vs    Bournemouth                              Strasbourg           vs    Lyon
-  Nott'ham Forest      vs    Liverpool                                Nantes               vs    Le Havre
-  Tottenham            vs    Arsenal                                  Brest                vs    Marseille
-  Brentford            vs    Brighton                               
+Saturday, February 28                                               Sunday, February 22
+  Newcastle Utd        vs    Everton                                  Paris S-G            vs    Metz
+  Manchester Utd       vs    Crystal Palace                           Auxerre              vs    Rennes
+  Fulham               vs    Tottenham                                Toulouse             vs    Paris FC
+  Leeds United         vs    Manchester City                          Nice                 vs    Lorient
+  Burnley              vs    Brentford                                Angers               vs    Lille
+  Brighton             vs    Nott'ham Forest                          Lens                 vs    Monaco
+  Wolves               vs    Aston Villa                              Strasbourg           vs    Lyon
+  Arsenal              vs    Chelsea                                  Nantes               vs    Le Havre
+  Liverpool            vs    West Ham                                 Brest                vs    Marseille
+  Bournemouth          vs    Sunderland                             
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -167,4 +167,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 02.24.26
+Standings from FBRef.com 02.25.26

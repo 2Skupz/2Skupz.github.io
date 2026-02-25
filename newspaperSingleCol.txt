@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, February 21
-  Union Berlin         vs    Leverkusen
-  Freiburg             vs    Gladbach
-  Mainz 05             vs    Hamburger SV
-  Bayern Munich        vs    Eint Frankfurt
-  Köln                 vs    Hoffenheim
-  Wolfsburg            vs    Augsburg
-  Heidenheim           vs    Stuttgart
-  St. Pauli            vs    Werder Bremen
-  RB Leipzig           vs    Dortmund
+Saturday, February 28
+  Gladbach             vs    Union Berlin
+  Werder Bremen        vs    Heidenheim
+  Dortmund             vs    Bayern Munich
+  Leverkusen           vs    Mainz 05
+  Hamburger SV         vs    RB Leipzig
+  Eint Frankfurt       vs    Freiburg
+  Augsburg             vs    Köln
+  Stuttgart            vs    Wolfsburg
+  Hoffenheim           vs    St. Pauli
 
 
 Premier League
@@ -121,17 +121,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, February 21
-  Sunderland           vs    Fulham
-  Aston Villa          vs    Leeds United
-  Everton              vs    Manchester Utd
-  Chelsea              vs    Burnley
-  Manchester City      vs    Newcastle Utd
-  Crystal Palace       vs    Wolves
-  West Ham             vs    Bournemouth
-  Nott'ham Forest      vs    Liverpool
-  Tottenham            vs    Arsenal
-  Brentford            vs    Brighton
+Saturday, February 28
+  Newcastle Utd        vs    Everton
+  Manchester Utd       vs    Crystal Palace
+  Fulham               vs    Tottenham
+  Leeds United         vs    Manchester City
+  Burnley              vs    Brentford
+  Brighton             vs    Nott'ham Forest
+  Wolves               vs    Aston Villa
+  Arsenal              vs    Chelsea
+  Liverpool            vs    West Ham
+  Bournemouth          vs    Sunderland
 
 
 Ligue 1
@@ -250,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 02.24.26
+Standings from FBRef.com 02.25.26
