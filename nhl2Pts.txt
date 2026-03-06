@@ -8,9 +8,9 @@ Vegas                  62   21   19   22     8    64
 SEATTLE                61   23   23   15    -6    61
 Edmonton               62   22   24   16    10    60
 Anaheim                61   20   24   17    -7    57
-Los Angeles            60   15   22   23   -24    53
+Los Angeles            61   16   22   23   -22    55
 San Jose               59   18   25   16   -21    52
-Calgary                60   20   29   11   -32    51
+Calgary                61   20   30   11   -35    51
 Vancouver              61   12   36   13   -73    37
 
 --------------------------------------------------------------------------------
@@ -19,9 +19,9 @@ Central                GP    W    L    T    GD   Pts
 Colorado               60   38   10   12    81    88
 Dallas                 61   31   14   16    47    78
 Minnesota              62   23   16   23    29    69
-Utah                   61   25   25   11    24    61
-Nashville              61   20   26   15   -31    55
-Winnipeg               60   20   26   14   -15    54
+Utah                   62   26   25   11    27    63
+Nashville              62   21   26   15   -28    57
+Winnipeg               61   21   26   14   -12    56
 St. Louis              61   22   29   10   -51    54
 Chicago                61   18   28   15   -32    51
 
@@ -29,23 +29,23 @@ Chicago                61   18   28   15   -32    51
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               61   29   16   16    39    74
-Pittsburgh             60   27   16   17    29    71
+Pittsburgh             61   27   17   17    25    71
 Washington             63   26   25   12    10    64
-NY Islanders           62   23   22   17     6    63
-Columbus               60   21   21   18     1    60
-Philadelphia           60   19   21   20   -11    58
+NY Islanders           63   23   23   17     4    63
+Columbus               61   22   21   18     3    62
+Philadelphia           61   19   22   20   -14    58
 New Jersey             62   20   29   13   -26    53
-NY Rangers             60   14   29   17   -30    45
+NY Rangers             61   15   29   17   -26    47
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Buffalo                61   30   19   12    26    72
-Tampa Bay              59   29   17   13    52    71
+Buffalo                62   31   19   12    30    74
+Tampa Bay              60   29   18   13    49    71
 Detroit                62   24   20   18    -2    66
-Boston                 60   26   21   13    14    65
+Boston                 61   26   22   13    11    65
 Montreal               60   22   18   20    13    64
-Ottawa                 60   23   22   15     8    61
-Florida                61   24   28    9   -19    57
-Toronto                62   19   24   19   -17    57
+Ottawa                 61   24   22   15    11    63
+Florida                62   24   29    9   -21    57
+Toronto                63   19   25   19   -21    57
 
