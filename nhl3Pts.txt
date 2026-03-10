@@ -9,9 +9,9 @@ Edmonton               64   23    8    8   25     9    93
 Vegas                  64   21    8   14   21     4    93
 SEATTLE                62   23    6    9   24    -9    90
 San Jose               61   18   12    6   25   -23    84
-Los Angeles            62   16    9   14   23   -23    80
-Calgary                62   21    4    7   30   -34    78
-Vancouver              63   13    6    8   36   -71    59
+Los Angeles            63   16   10   14   23   -22    82
+Calgary                63   21    4    7   31   -38    78
+Vancouver              64   13    6    8   37   -73    59
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
@@ -19,11 +19,11 @@ Central                GP    W   OW   OL    L    GD   Pts
 Colorado               62   38    5    9   10    83   133
 Dallas                 63   31    8   10   14    47   119
 Minnesota              64   24   13   11   16    30   109
-Utah                   63   26    8    4   25    28    98
+Utah                   64   26    8    5   25    27    99
 Nashville              63   21    7    8   27   -29    85
 Winnipeg               62   21    5   10   26   -11    83
 St. Louis              63   23    2    9   29   -46    82
-Chicago                63   18    5   11   29   -36    75
+Chicago                64   18    6   11   29   -35    77
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
@@ -31,11 +31,11 @@ Metropolitan           GP    W   OW   OL    L    GD   Pts
 Carolina               63   30   10    6   17    41   116
 Pittsburgh             63   27    5   14   17    25   105
 NY Islanders           64   23   13    5   23     5   100
-Columbus               62   22   10    9   21     2    95
-Washington             64   26    5    7   26     8    95
-Philadelphia           62   19   10   11   22   -13    88
+Washington             65   27    5    7   26    12    98
+Columbus               63   22   10   10   21     1    96
+Philadelphia           63   19   10   11   23   -17    88
 New Jersey             64   21   11    2   30   -26    87
-NY Rangers             62   15    9    8   30   -29    71
+NY Rangers             63   16    9    8   30   -25    74
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
@@ -45,7 +45,7 @@ Tampa Bay              62   30    9    4   19    51   112
 Detroit                64   25   11    7   21    -1   104
 Boston                 63   27    8    6   22    12   103
 Montreal               62   23   11   10   18    13   101
-Ottawa                 62   25    6    9   22    14    96
+Ottawa                 63   26    6    9   22    16    99
 Florida                63   25    6    3   29   -19    90
 Toronto                64   19    8   11   26   -24    84
 
