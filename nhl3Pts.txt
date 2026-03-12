@@ -32,8 +32,8 @@ Carolina               64   30   11    6   17    42   118
 Pittsburgh             64   27    5   15   17    24   106
 NY Islanders           65   23   14    5   23     6   102
 Columbus               64   23   10   10   21     4    99
-Washington             65   27    5    7   26    12    98
-Philadelphia           63   19   10   11   23   -17    88
+Washington             66   27    5    7   27     9    98
+Philadelphia           64   20   10   11   23   -14    91
 New Jersey             64   21   11    2   30   -26    87
 NY Rangers             64   17    9    8   30   -21    77
 
@@ -42,10 +42,10 @@ Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Buffalo                65   34    6    6   19    35   120
 Tampa Bay              63   30    9    4   20    48   112
+Montreal               64   25   11   10   18    16   107
 Boston                 64   27    9    6   22    13   105
-Montreal               63   24   11   10   18    15   104
 Detroit                65   25   11    7   22    -2   104
-Ottawa                 63   26    6    9   22    16    99
+Ottawa                 64   26    6    9   23    15    99
 Florida                64   26    6    3   29   -18    93
 Toronto                65   19    8   11   27   -26    84
 
