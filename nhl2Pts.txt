@@ -5,10 +5,10 @@ NHL Standings - 2 Points
 Pacific                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Vegas                  66   22   22   22     7    66
-Edmonton               66   24   26   16     5    64
+Edmonton               67   24   26   17     4    65
 SEATTLE                64   23   26   15   -15    61
 Anaheim                65   21   26   18    -9    60
-Los Angeles            64   16   23   25   -23    57
+Los Angeles            65   17   23   25   -22    59
 San Jose               63   19   26   18   -24    56
 Calgary                65   22   32   11   -41    55
 Vancouver              65   13   37   15   -72    41
@@ -20,7 +20,7 @@ Colorado               64   39   11   14    86    92
 Dallas                 65   33   14   18    53    84
 Minnesota              66   25   16   25    34    75
 Utah                   66   26   26   14    21    66
-St. Louis              65   24   29   12   -45    60
+St. Louis              66   24   29   13   -44    61
 Nashville              65   22   27   16   -28    60
 Winnipeg               64   21   28   15   -17    57
 Chicago                65   18   29   18   -34    54
@@ -32,7 +32,7 @@ Carolina               65   30   18   17    40    77
 Pittsburgh             65   27   18   20    20    74
 Washington             67   28   27   12    10    68
 Columbus               65   23   21   21     3    67
-NY Islanders           65   23   23   19     6    65
+NY Islanders           66   23   24   19     5    65
 Philadelphia           65   20   23   22   -13    62
 New Jersey             65   21   31   13   -27    55
 NY Rangers             65   18   30   17   -18    53
