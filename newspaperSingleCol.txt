@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, March 14
-  Hoffenheim           vs    Wolfsburg
-  Eint Frankfurt       vs    Heidenheim
-  Werder Bremen        vs    Mainz 05
-  Stuttgart            vs    RB Leipzig
-  Hamburger SV         vs    Köln
-  Dortmund             vs    Augsburg
-  Freiburg             vs    Union Berlin
-  Leverkusen           vs    Bayern Munich
-  Gladbach             vs    St. Pauli
+Saturday, March 21
+  Bayern Munich        vs    Union Berlin
+  Mainz 05             vs    Eint Frankfurt
+  Heidenheim           vs    Leverkusen
+  Dortmund             vs    Hamburger SV
+  Augsburg             vs    Stuttgart
+  Wolfsburg            vs    Werder Bremen
+  Köln                 vs    Gladbach
+  St. Pauli            vs    Freiburg
+  RB Leipzig           vs    Hoffenheim
 
 
 Premier League
@@ -121,17 +121,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, March 14
-  Arsenal              vs    Everton
-  Brentford            vs    Wolves
-  Chelsea              vs    Newcastle Utd
-  West Ham             vs    Manchester City
-  Liverpool            vs    Tottenham
-  Sunderland           vs    Brighton
-  Nott'ham Forest      vs    Fulham
-  Crystal Palace       vs    Leeds United
-  Manchester Utd       vs    Aston Villa
-  Burnley              vs    Bournemouth
+Saturday, March 21
+  Aston Villa          vs    West Ham
+  Fulham               vs    Burnley
+  Leeds United         vs    Brentford
+  Tottenham            vs    Nott'ham Forest
+  Brighton             vs    Liverpool
+  Newcastle Utd        vs    Sunderland
+  Manchester City      vs    Crystal Palace
+  Wolves               vs    Arsenal
+  Bournemouth          vs    Manchester Utd
+  Everton              vs    Chelsea
 
 
 Ligue 1
@@ -250,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 03.17.26
+Standings from FBRef.com 03.18.26
