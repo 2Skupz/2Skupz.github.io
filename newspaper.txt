@@ -64,18 +64,6 @@ West Ham           10   2   1   7  10  21 -11   7   9.3  15.3       Auxerre     
 Nott'ham Forest    10   1   3   6   7  19 -12   6  11.0  15.9       
 Wolves             10   0   2   8   7  22 -15   2   9.4  12.7       
 
-                                                                    Ligue 1 Fixtures
-                                                                    ----------------
-                                                                    Sunday, March 22
-                                                                      Rennes               vs    Metz
-                                                                      Nice                 vs    Paris S-G
-                                                                      Auxerre              vs    Brest
-                                                                      Nantes               vs    Strasbourg
-                                                                      Lyon                 vs    Monaco
-                                                                      Marseille            vs    Lille
-                                                                      Paris FC             vs    Le Havre
-                                                                      Lens                 vs    Angers
-                                                                      Toulouse             vs    Lorient
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -100,19 +88,6 @@ Hellas Verona      10   0   5   5   6  16 -10   5  11.9  11.7
 Fiorentina         10   0   4   6   7  16  -9   4  13.2  15.0       
 Genoa               9   0   3   6   4  13  -9   3  11.3   9.8       
 
-Serie A Fixtures
-----------------
-Sunday, March 22
-  Roma                 vs    Lecce
-  Milan                vs    Torino
-  Cagliari             vs    Napoli
-  Como                 vs    Pisa
-  Fiorentina           vs    Inter
-  Atalanta             vs    Hellas Verona
-  Parma                vs    Cremonese
-  Bologna              vs    Lazio
-  Genoa                vs    Udinese
-  Juventus             vs    Sassuolo
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -154,4 +129,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 03.25.26
+Standings from FBRef.com 03.26.26

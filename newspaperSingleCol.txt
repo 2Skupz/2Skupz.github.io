@@ -129,19 +129,6 @@ Lorient            11   2   3   6   9 -12
 Metz               11   2   2   7   8 -16
 Auxerre            11   2   1   8   7 -10
 
-Ligue 1 Fixtures
-----------------
-Sunday, March 22
-  Rennes               vs    Metz
-  Nice                 vs    Paris S-G
-  Auxerre              vs    Brest
-  Nantes               vs    Strasbourg
-  Lyon                 vs    Monaco
-  Marseille            vs    Lille
-  Paris FC             vs    Le Havre
-  Lens                 vs    Angers
-  Toulouse             vs    Lorient
-
 
 Serie A
 -------
@@ -166,20 +153,6 @@ Pisa               10   0   6   4   6  -7
 Hellas Verona      10   0   5   5   5 -10
 Fiorentina         10   0   4   6   4  -9
 Genoa               9   0   3   6   3  -9
-
-Serie A Fixtures
-----------------
-Sunday, March 22
-  Roma                 vs    Lecce
-  Milan                vs    Torino
-  Cagliari             vs    Napoli
-  Como                 vs    Pisa
-  Fiorentina           vs    Inter
-  Atalanta             vs    Hellas Verona
-  Parma                vs    Cremonese
-  Bologna              vs    Lazio
-  Genoa                vs    Udinese
-  Juventus             vs    Sassuolo
 
 
 Champions League
@@ -223,4 +196,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 03.25.26
+Standings from FBRef.com 03.26.26
