@@ -1,3 +1,7 @@
+#==========================================================================
+# MLB Tiebreaker Logic and UI Controller
+#==========================================================================
+
 let currentLeague = 'AL';
 let teams = [];
 let tiebreakers = null;
@@ -9,6 +13,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     populateSelectors();
 });
 
+#==========================================================================
+# Fetch and parse team data from CSV
+#==========================================================================
 async function loadTeams() {
     try {
         const response = await fetch('../data/teams/2025teams.csv');
@@ -28,18 +35,18 @@ async function loadTeams() {
         console.log('Loaded teams:', teams.length);
     } catch (error) {
         console.error('Error loading teams:', error);
-        alert('Could not load teams. Make sure ../data/teams/2025teams.csv exists.');
     }
 }
 
+#==========================================================================
+# Load tiebreaker JSON data
+#==========================================================================
 async function loadTiebreakers() {
     try {
         const response = await fetch('../data/tiebreakers.json');
         tiebreakers = await response.json();
-        console.log('Loaded tiebreakers:', Object.keys(tiebreakers));
     } catch (error) {
         console.error('Error loading tiebreakers:', error);
-        alert('Could not load tiebreakers. Make sure ../data/tiebreakers.json exists.');
     }
 }
 
@@ -55,25 +62,22 @@ function populateSelectors() {
     team1Select.innerHTML = options;
     team2Select.innerHTML = options;
     
-    // Reset selections
     team1Select.value = '';
     team2Select.value = '';
     
-    // Hide results
     document.getElementById('results').classList.add('hidden');
 }
 
 function switchLeague(league) {
     currentLeague = league;
-    
-    // Update button states
     document.getElementById('leagueAL').classList.toggle('active', league === 'AL');
     document.getElementById('leagueNL').classList.toggle('active', league === 'NL');
-    document.getElementById('leagueNL').classList.toggle('nl', league === 'NL');
-    
     populateSelectors();
 }
 
+#==========================================================================
+# Find and process the matchup from the tiebreaker data
+#==========================================================================
 function showMatchup() {
     const team1 = document.getElementById('team1').value;
     const team2 = document.getElementById('team2').value;
@@ -88,14 +92,9 @@ function showMatchup() {
         return;
     }
     
-    // Find matchup in tiebreakers
     const leagueData = tiebreakers['2025'][currentLeague];
-    let matchup = null;
+    let matchup = leagueData.find(m => m.team1 === team1 && m.team2 === team2);
 
-    // 1️⃣ Try to find an exact match first
-    matchup = leagueData.find(m => m.team1 === team1 && m.team2 === team2);
-
-    // 2️⃣ If not found, look for reversed matchup
     if (!matchup) {
         const reversed = leagueData.find(m => m.team1 === team2 && m.team2 === team1);
         if (reversed) {
@@ -104,56 +103,50 @@ function showMatchup() {
                 team2: reversed.team1,
                 h2h_record_1: reversed.h2h_record_2,
                 h2h_record_2: reversed.h2h_record_1,
-                h2h_record_winner: reversed.h2h_record_winner === reversed.team1 ? reversed.team2 :
-                                   (reversed.h2h_record_winner === reversed.team2 ? reversed.team1 : null),
+                h2h_record_winner: reversed.h2h_record_winner === reversed.team1 ? reversed.team2 : (reversed.h2h_record_winner === reversed.team2 ? reversed.team1 : null),
                 div_record_1: reversed.div_record_2,
                 div_record_2: reversed.div_record_1,
-                div_record_winner: reversed.div_record_winner === reversed.team1 ? reversed.team2 :
-                                   (reversed.div_record_winner === reversed.team2 ? reversed.team1 : null),
+                div_record_winner: reversed.div_record_winner === reversed.team1 ? reversed.team2 : (reversed.div_record_winner === reversed.team2 ? reversed.team1 : null),
                 league_record_1: reversed.league_record_2,
                 league_record_2: reversed.league_record_1,
-                league_record_winner: reversed.league_record_winner === reversed.team1 ? reversed.team2 :
-                                      (reversed.league_record_winner === reversed.team2 ? reversed.team1 : null),
-                tiebreak_winner: reversed.tiebreak_winner === reversed.team1 ? reversed.team2 :
-                                 (reversed.tiebreak_winner === reversed.team2 ? reversed.team1 : null),
+                league_record_winner: reversed.league_record_winner === reversed.team1 ? reversed.team2 : (reversed.league_record_winner === reversed.team2 ? reversed.team1 : null),
+                tiebreak_winner: reversed.tiebreak_winner === reversed.team1 ? reversed.team2 : (reversed.tiebreak_winner === reversed.team2 ? reversed.team1 : null),
                 tiebreak_method: reversed.tiebreak_method
             };
         }
     }
 
-    if (!matchup) {
-        alert('Matchup not found');
-        return;
+    if (matchup) {
+        displayMatchup(matchup);
+    } else {
+        alert('Matchup data not found.');
     }
-
-    console.log('=== DEBUG ===');
-    console.log('Selected team1:', team1);
-    console.log('Selected team2:', team2);
-    console.log('Matchup found:', matchup);
-    console.log('Matchup.team1:', matchup.team1, 'Matchup.team2:', matchup.team2);
-    console.log('H2H winner:', matchup.h2h_record_winner);
-    console.log('Tiebreak winner:', matchup.tiebreak_winner);
-    console.log('=== END DEBUG ===');
-    
-    displayMatchup(matchup);
 }
 
+#==========================================================================
+# Update the UI with records, names, and dynamic logos
+#==========================================================================
 function displayMatchup(matchup) {
-    const getTeamName = (abbr) => {
-        const t = teams.find(tm => tm.abbr === abbr);
-        return t ? `${t.city} ${t.nickname}` : abbr;
-    };
+    const getTeamObj = (abbr) => teams.find(tm => tm.abbr === abbr);
     
-    // Team info
-    document.getElementById('team1Name').textContent = getTeamName(matchup.team1);
+    const t1 = getTeamObj(matchup.team1);
+    const t2 = getTeamObj(matchup.team2);
+    
+    // Update Text Info
+    document.getElementById('team1Name').textContent = `${t1.city} ${t1.nickname}`;
     document.getElementById('team1Abbr').textContent = matchup.team1;
-    document.getElementById('team2Name').textContent = getTeamName(matchup.team2);
+    document.getElementById('team2Name').textContent = `${t2.city} ${t2.nickname}`;
     document.getElementById('team2Abbr').textContent = matchup.team2;
     
-    // Records with bold styling for winners
-    const formatRecord = (record, isWinner) => {
-        return `<span class="${isWinner ? 'winner' : ''}">${record}</span>`;
-    };
+    // Update Logos (Format: CityNickname.png)
+    const logo1 = document.getElementById('team1Logo');
+    const logo2 = document.getElementById('team2Logo');
+    
+    logo1.src = `../data/logos/${t1.city}${t1.nickname}.png`;
+    logo2.src = `../data/logos/${t2.city}${t2.nickname}.png`;
+    
+    // Update Records
+    const formatRecord = (record, isWinner) => `<span class="${isWinner ? 'winner' : ''}">${record}</span>`;
     
     document.getElementById('h2h1').innerHTML = formatRecord(matchup.h2h_record_1, matchup.h2h_record_winner === matchup.team1);
     document.getElementById('h2h2').innerHTML = formatRecord(matchup.h2h_record_2, matchup.h2h_record_winner === matchup.team2);
@@ -164,10 +157,10 @@ function displayMatchup(matchup) {
     document.getElementById('league1').innerHTML = formatRecord(matchup.league_record_1, matchup.league_record_winner === matchup.team1);
     document.getElementById('league2').innerHTML = formatRecord(matchup.league_record_2, matchup.league_record_winner === matchup.team2);
     
-    // Winner
-    document.getElementById('winnerName').textContent = `${getTeamName(matchup.tiebreak_winner)} (${matchup.tiebreak_winner})`;
+    // Update Winner Box
+    const winner = getTeamObj(matchup.tiebreak_winner);
+    document.getElementById('winnerName').textContent = `${winner.city} ${winner.nickname} (${matchup.tiebreak_winner})`;
     document.getElementById('winnerMethod').innerHTML = `Won on <strong>${matchup.tiebreak_method.toUpperCase()}</strong>`;
     
-    // Show results
     document.getElementById('results').classList.remove('hidden');
 }
