@@ -1,5 +1,5 @@
 from pybaseball import schedule_and_record as teamSched
-from scripts.utils import game
+from utils import game
 
 class Team:
     def __init__(self, abbr, city, nickname, league, division):
