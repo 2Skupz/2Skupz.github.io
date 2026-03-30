@@ -124,29 +124,37 @@ function showMatchup() {
 }
 
 #==========================================================================
-# Update the UI with records, names, and dynamic logos
+# Update the UI with team details, records, and dynamic logos
 #==========================================================================
 function displayMatchup(matchup) {
+    // Helper to get the full team object from the teams array
     const getTeamObj = (abbr) => teams.find(tm => tm.abbr === abbr);
     
     const t1 = getTeamObj(matchup.team1);
     const t2 = getTeamObj(matchup.team2);
     
-    // Update Text Info
+    // 1. Update Text Info
     document.getElementById('team1Name').textContent = `${t1.city} ${t1.nickname}`;
     document.getElementById('team1Abbr').textContent = matchup.team1;
     document.getElementById('team2Name').textContent = `${t2.city} ${t2.nickname}`;
     document.getElementById('team2Abbr').textContent = matchup.team2;
     
-    // Update Logos (Format: CityNickname.png)
+    // 2. Update Logos
+    // Constructs path like: ../data/logos/SeattleMariners.png
     const logo1 = document.getElementById('team1Logo');
     const logo2 = document.getElementById('team2Logo');
     
     logo1.src = `../data/logos/${t1.city}${t1.nickname}.png`;
     logo2.src = `../data/logos/${t2.city}${t2.nickname}.png`;
     
-    // Update Records
-    const formatRecord = (record, isWinner) => `<span class="${isWinner ? 'winner' : ''}">${record}</span>`;
+    // Ensure logos are visible
+    logo1.style.display = 'block';
+    logo2.style.display = 'block';
+    
+    // 3. Update Records with bold styling for winners
+    const formatRecord = (record, isWinner) => {
+        return `<span class="${isWinner ? 'winner' : ''}">${record}</span>`;
+    };
     
     document.getElementById('h2h1').innerHTML = formatRecord(matchup.h2h_record_1, matchup.h2h_record_winner === matchup.team1);
     document.getElementById('h2h2').innerHTML = formatRecord(matchup.h2h_record_2, matchup.h2h_record_winner === matchup.team2);
@@ -157,10 +165,11 @@ function displayMatchup(matchup) {
     document.getElementById('league1').innerHTML = formatRecord(matchup.league_record_1, matchup.league_record_winner === matchup.team1);
     document.getElementById('league2').innerHTML = formatRecord(matchup.league_record_2, matchup.league_record_winner === matchup.team2);
     
-    // Update Winner Box
+    // 4. Update Winner Box
     const winner = getTeamObj(matchup.tiebreak_winner);
     document.getElementById('winnerName').textContent = `${winner.city} ${winner.nickname} (${matchup.tiebreak_winner})`;
     document.getElementById('winnerMethod').innerHTML = `Won on <strong>${matchup.tiebreak_method.toUpperCase()}</strong>`;
     
+    // Show results
     document.getElementById('results').classList.remove('hidden');
 }
