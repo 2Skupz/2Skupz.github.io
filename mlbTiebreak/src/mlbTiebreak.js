@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadTeams() {
     try {
-        const response = await fetch('../data/teams/2025teams.csv');
+        const response = await fetch('../data/teams/2026teams.csv');
         const csv = await response.text();
         const lines = csv.split('\n').filter(line => line.trim());
         
@@ -28,7 +28,7 @@ async function loadTeams() {
         console.log('Loaded teams:', teams.length);
     } catch (error) {
         console.error('Error loading teams:', error);
-        alert('Could not load teams. Make sure ../data/teams/2025teams.csv exists.');
+        alert('Could not load teams. Make sure ../data/teams/2026teams.csv exists.');
     }
 }
 
@@ -89,7 +89,7 @@ function showMatchup() {
     }
     
     // Find matchup in tiebreakers
-    const leagueData = tiebreakers['2025'][currentLeague];
+    const leagueData = tiebreakers['2026'][currentLeague];
     let matchup = null;
 
     // 1️⃣ Try to find an exact match first

@@ -1,4 +1,8 @@
-from utils.team import Team
+try:
+    from utils.team import Team
+except ImportError:
+    from scripts.utils.team import Team
+import config
 from datetime import date
 import csv
 import os
@@ -53,11 +57,10 @@ def createTeamList(season, confirm=False):
     return teamList
 
 def getTeamFile(season):
-    return f"data/teams/{season}teams.csv"
+    return config.getTeamsPath(season)
 
 def getGameFile(season):
-    os.makedirs('data/games', exist_ok=True)
-    return f'data/games/{season}games.csv'
+    return config.getGamesPath(season)
 
 def writeGames(gameList, season):
     gameFile = getGameFile(season)

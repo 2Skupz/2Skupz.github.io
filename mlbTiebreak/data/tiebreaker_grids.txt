@@ -20,6 +20,7 @@ SEA          SEA     BAL     SEA     SEA     SEA     SEA     SEA     SEA     SEA
 TBR          ATH     BAL     BOS     CHW     CLE     DET     TBR     KCR     LAA     MIN     NYY     SEA       -     TEX     TBR
 TEX          TEX     TEX     TEX     TEX     TEX     TEX     HOU     KCR     TEX     TEX     NYY     SEA     TEX       -     TOR
 TOR          TOR     TOR     TOR     TOR     CLE     TOR     HOU     KCR     TOR     TOR     TOR     TOR     TBR     TOR       -
+
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 CLE    11-3 
@@ -47,15 +48,16 @@ CHC          CHC     CHC       -     CIN     CHC     CHC     CHC     CHC     NYM
 CIN          CIN     ATL     CIN       -     CIN     LAD     MIA     MIL     CIN     PHI     CIN     CIN     CIN     STL     WSN
 COL          ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     COL     COL
 LAD          LAD     LAD     CHC     LAD     LAD       -     LAD     MIL     NYM     PHI     PIT     LAD     LAD     STL     LAD
-MIA          ARI     ATL     CHC     MIA     MIA     LAD       -     MIL     MIA     PHI     MIA     SDP     MIA     STL     MIA
+MIA          ARI     ATL     CHC     MIA     MIA     LAD       -     MIL     NYM     PHI     MIA     SDP     MIA     STL     MIA
 MIL          ARI     MIL     CHC     MIL     MIL     MIL     MIL       -     MIL     MIL     MIL     SDP     SFG     MIL     MIL
-NYM          ARI     ATL     NYM     CIN     NYM     NYM     MIA     MIL       -     NYM     PIT     SDP     NYM     NYM     NYM
+NYM          ARI     ATL     NYM     CIN     NYM     NYM     NYM     MIL       -     NYM     PIT     SDP     NYM     NYM     NYM
 PHI          PHI     PHI     PHI     PHI     PHI     PHI     PHI     MIL     NYM       -     PHI     SDP     SFG     STL     PHI
 PIT          PIT     PIT     CHC     CIN     PIT     PIT     MIA     MIL     PIT     PHI       -     SDP     PIT     PIT     PIT
 SDP          SDP     SDP     SDP     CIN     SDP     LAD     SDP     SDP     SDP     SDP     SDP       -     SDP     SDP     SDP
 SFG          ARI     SFG     SFG     CIN     SFG     LAD     MIA     SFG     NYM     SFG     PIT     SDP       -     STL     SFG
 STL          ARI     ATL     CHC     STL     COL     STL     STL     MIL     NYM     STL     PIT     SDP     STL       -     STL
 WSN          WSN     ATL     CHC     WSN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL       -
+
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 SDP    12-2 
@@ -63,13 +65,13 @@ MIL    10-4
 CHC     9-5 
 PHI     9-5 
 LAD     8-6 
+NYM     8-6 
 PIT     8-6 
 ARI     7-7 
 CIN     7-7 
-NYM     7-7 
 ATL     6-8 
-MIA     6-8 
 SFG     6-8 
 STL     6-8 
+MIA     5-9 
 COL     2-12
 WSN     2-12

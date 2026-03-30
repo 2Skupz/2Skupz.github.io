@@ -134,10 +134,11 @@ def generate_summary(season, league):
 
 
 def main():
-    season = 2025
+    season = config.getSeason()
+    spaceLength=130
     
     # Generate AL grid and summary
-    print("Generating tiebreaker grids for 2025...\n")
+    print(f"Generating tiebreaker grids for {season}...\n")
     al_grid = generate_grid(season, 'AL')
     al_summary = generate_summary(season, 'AL')
     
@@ -146,18 +147,18 @@ def main():
     
     # Write to file
     with open('data/tiebreaker_grids.txt', 'w') as f:
-        f.write("=" * 130 + "\n")
+        f.write("=" * spaceLength + "\n")
         f.write(f"MLB TIEBREAKER WINNERS - {season}\n")
-        f.write("=" * 130 + "\n\n")
+        f.write("=" * spaceLength + "\n\n")
         
         f.write("AMERICAN LEAGUE\n")
-        f.write("-" * 130 + "\n")
+        f.write("-" * spaceLength + "\n")
         f.write(al_grid)
         f.write(al_summary)
         f.write("\n\n")
         
         f.write("NATIONAL LEAGUE\n")
-        f.write("-" * 130 + "\n")
+        f.write("-" * spaceLength + "\n")
         f.write(nl_grid)
         f.write(nl_summary)
         f.write("\n")

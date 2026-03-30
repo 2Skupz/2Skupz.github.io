@@ -3,6 +3,7 @@ scripts/generate_tiebreakers.py
 """
 import csv
 import json
+import config
 from utils.game import createGameFromList
 from utils.rules import get_h2h_record, get_division_record, get_league_record, determine_tiebreaker_winner
 
@@ -15,7 +16,7 @@ def load_teams(season):
     team_to_league = {}
     
     try:
-        with open(f'data/teams/{season}teams.csv', 'r') as f:
+        with open(config.getTeamsPath(season), 'r') as f:
             reader = csv.reader(f)
             for row in reader:
                 abbr, city, nickname, league, division = row
@@ -174,7 +175,7 @@ def write_tiebreakers(tiebreakers, season):
 
 
 def main():
-    season = 2025
+    season = config.getSeason()
     print(f"Generating tiebreakers for {season}...")
     tiebreakers = generate_tiebreakers(season)
     write_tiebreakers(tiebreakers, season)
