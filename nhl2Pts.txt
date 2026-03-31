@@ -5,22 +5,22 @@ NHL Standings - 2 Points
 Pacific                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Edmonton               74   28   28   18     7    74
-Vegas                  74   24   26   24    -2    72
-Anaheim                73   24   28   21    -6    69
+Vegas                  75   25   26   24     0    74
+Anaheim                74   24   28   22    -7    70
 SEATTLE                72   25   29   18   -18    68
 Los Angeles            73   19   26   28   -27    66
-Calgary                73   24   34   15   -36    63
-San Jose               71   21   31   19   -38    61
-Vancouver              72   14   43   15   -88    43
+San Jose               72   22   31   19   -37    63
+Calgary                74   24   35   15   -43    63
+Vancouver              73   14   44   15   -90    43
 
 --------------------------------------------------------------------------------
 Central                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Colorado               72   42   14   16    85   100
+Colorado               73   43   14   16    92   102
 Dallas                 74   34   18   22    49    90
 Minnesota              74   26   21   27    26    79
 Utah                   74   29   30   15    23    73
-St. Louis              72   27   30   15   -36    69
+St. Louis              73   27   31   15   -37    69
 Winnipeg               73   25   30   18   -16    68
 Nashville              74   25   31   18   -26    68
 Chicago                74   20   34   20   -52    60
@@ -29,10 +29,10 @@ Chicago                74   20   34   20   -52    60
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               73   33   21   19    42    85
-Pittsburgh             73   29   21   23    16    81
+Pittsburgh             74   30   21   23    21    83
 Washington             74   31   28   15    13    77
 Columbus               74   27   24   23    11    77
-NY Islanders           74   28   27   19     7    75
+NY Islanders           75   28   28   19     2    75
 Philadelphia           73   23   24   26    -3    72
 New Jersey             73   26   33   14   -19    66
 NY Rangers             74   21   35   18   -21    60
@@ -46,6 +46,6 @@ Montreal               73   30   21   22    25    82
 Ottawa                 73   32   25   16    20    80
 Boston                 74   30   24   20    20    80
 Detroit                73   28   26   19    -3    75
-Toronto                74   23   30   21   -30    67
+Toronto                75   23   30   22   -29    68
 Florida                73   27   35   11   -28    65
 
