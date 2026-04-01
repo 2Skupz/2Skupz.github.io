@@ -40,6 +40,18 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
                                                                     Mainz 05            9   1   2   6  10  17  -7   5  12.4  14.5
                                                                     Heidenheim          9   1   2   6   8  17  -9   5  11.8  15.9
 
+                                                                    Bundesliga Fixtures
+                                                                    -------------------
+                                                                    Saturday, April 04
+                                                                      Union Berlin         vs    St. Pauli
+                                                                      Leverkusen           vs    Wolfsburg
+                                                                      Eint Frankfurt       vs    Köln
+                                                                      Hamburger SV         vs    Augsburg
+                                                                      Werder Bremen        vs    RB Leipzig
+                                                                      Gladbach             vs    Heidenheim
+                                                                      Freiburg             vs    Bayern Munich
+                                                                      Stuttgart            vs    Dortmund
+                                                                      Hoffenheim           vs    Mainz 05
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -88,6 +100,19 @@ Hellas Verona      10   0   5   5   6  16 -10   5  11.9  11.7
 Fiorentina         10   0   4   6   7  16  -9   4  13.2  15.0       
 Genoa               9   0   3   6   4  13  -9   3  11.3   9.8       
 
+Serie A Fixtures
+----------------
+Saturday, April 04
+  Hellas Verona        vs    Fiorentina
+  Udinese              vs    Como
+  Juventus             vs    Genoa
+  Napoli               vs    Milan
+  Cremonese            vs    Bologna
+  Inter                vs    Roma
+  Sassuolo             vs    Cagliari
+  Lecce                vs    Atalanta
+  Lazio                vs    Parma
+  Pisa                 vs    Torino
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -129,4 +154,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 03.31.26
+Standings from FBRef.com 04.01.26
