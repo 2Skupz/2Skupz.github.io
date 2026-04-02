@@ -142,6 +142,19 @@ Lorient            11   2   3   6   9 -12
 Metz               11   2   2   7   8 -16
 Auxerre            11   2   1   8   7 -10
 
+Ligue 1 Fixtures
+----------------
+Sunday, April 05
+  Le Havre             vs    Auxerre
+  Brest                vs    Rennes
+  Metz                 vs    Nantes
+  Strasbourg           vs    Nice
+  Angers               vs    Lyon
+  Monaco               vs    Marseille
+  Lorient              vs    Paris FC
+  Paris S-G            vs    Toulouse
+  Lille                vs    Lens
+
 
 Serie A
 -------
@@ -223,4 +236,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 04.01.26
+Standings from FBRef.com 04.02.26
