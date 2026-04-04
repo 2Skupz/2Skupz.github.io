@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadTeams() {
     try {
-        const response = await fetch('../data/teams/2025teams.csv');
+        const response = await fetch('../data/teamFiles/2026teams.csv');
         const csv = await response.text();
         const lines = csv.split('\n').map(line => line.trim()).filter(line => line);
         
@@ -34,7 +34,7 @@ async function loadTiebreakers() {
     try {
         const response = await fetch('../data/tiebreakers.json');
         const data = await response.json();
-        tiebreakers = data['2025'];
+        tiebreakers = data['2026'];
     } catch (error) {
         console.error('Error loading tiebreakers:', error);
     }
