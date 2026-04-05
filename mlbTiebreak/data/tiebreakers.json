@@ -181,12 +181,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-1",
         "div_record_2": "3-3",
-        "div_record_winner": "HOU",
+        "div_record_winner": null,
         "league_record_1": "1-4",
         "league_record_2": "6-3",
         "league_record_winner": "HOU",
         "tiebreak_winner": "HOU",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "HOU",
@@ -198,12 +198,12 @@
         "h2h_record_winner": null,
         "div_record_1": "3-3",
         "div_record_2": "1-1",
-        "div_record_winner": "HOU",
+        "div_record_winner": null,
         "league_record_1": "6-3",
         "league_record_2": "1-4",
         "league_record_winner": "HOU",
         "tiebreak_winner": "HOU",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "ATH",
@@ -249,12 +249,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-1",
         "div_record_2": "3-3",
-        "div_record_winner": "LAA",
+        "div_record_winner": null,
         "league_record_1": "1-4",
         "league_record_2": "3-3",
         "league_record_winner": "LAA",
         "tiebreak_winner": "LAA",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "LAA",
@@ -266,12 +266,12 @@
         "h2h_record_winner": null,
         "div_record_1": "3-3",
         "div_record_2": "1-1",
-        "div_record_winner": "LAA",
+        "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "1-4",
         "league_record_winner": "LAA",
         "tiebreak_winner": "LAA",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "ATH",
@@ -283,12 +283,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-1",
         "div_record_2": "1-2",
-        "div_record_winner": null,
+        "div_record_winner": "ATH",
         "league_record_1": "1-4",
         "league_record_2": "3-5",
         "league_record_winner": "MIN",
-        "tiebreak_winner": "MIN",
-        "tiebreak_method": "league"
+        "tiebreak_winner": "ATH",
+        "tiebreak_method": "div"
       },
       {
         "team1": "MIN",
@@ -300,12 +300,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-2",
         "div_record_2": "1-1",
-        "div_record_winner": null,
+        "div_record_winner": "ATH",
         "league_record_1": "3-5",
         "league_record_2": "1-4",
         "league_record_winner": "MIN",
-        "tiebreak_winner": "MIN",
-        "tiebreak_method": "league"
+        "tiebreak_winner": "ATH",
+        "tiebreak_method": "div"
       },
       {
         "team1": "ATH",
@@ -388,7 +388,7 @@
         "div_record_winner": "ATH",
         "league_record_1": "1-4",
         "league_record_2": "1-1",
-        "league_record_winner": null,
+        "league_record_winner": "TBR",
         "tiebreak_winner": "ATH",
         "tiebreak_method": "div"
       },
@@ -405,7 +405,7 @@
         "div_record_winner": "ATH",
         "league_record_1": "1-1",
         "league_record_2": "1-4",
-        "league_record_winner": null,
+        "league_record_winner": "TBR",
         "tiebreak_winner": "ATH",
         "tiebreak_method": "div"
       },
@@ -524,8 +524,8 @@
         "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "2-0",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
         "tiebreak_method": "league"
       },
       {
@@ -541,8 +541,8 @@
         "div_record_winner": null,
         "league_record_1": "2-0",
         "league_record_2": "3-3",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
         "tiebreak_method": "league"
       },
       {
@@ -558,9 +558,9 @@
         "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "2-2",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
-        "tiebreak_method": "league"
+        "league_record_winner": null,
+        "tiebreak_winner": null,
+        "tiebreak_method": null
       },
       {
         "team1": "CLE",
@@ -575,9 +575,9 @@
         "div_record_winner": null,
         "league_record_1": "2-2",
         "league_record_2": "3-3",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
-        "tiebreak_method": "league"
+        "league_record_winner": null,
+        "tiebreak_winner": null,
+        "tiebreak_method": null
       },
       {
         "team1": "BAL",
@@ -660,7 +660,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "BAL",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -677,7 +677,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "BAL",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -728,7 +728,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-3",
         "league_record_2": "3-5",
-        "league_record_winner": null,
+        "league_record_winner": "BAL",
         "tiebreak_winner": "BAL",
         "tiebreak_method": "h2h"
       },
@@ -745,7 +745,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "BAL",
         "tiebreak_winner": "BAL",
         "tiebreak_method": "h2h"
       },
@@ -762,8 +762,8 @@
         "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
+        "league_record_winner": "NYY",
+        "tiebreak_winner": "NYY",
         "tiebreak_method": "league"
       },
       {
@@ -779,8 +779,8 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
+        "league_record_winner": "NYY",
+        "tiebreak_winner": "NYY",
         "tiebreak_method": "league"
       },
       {
@@ -796,7 +796,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "3-3",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "BAL",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -813,7 +813,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "3-3",
-        "league_record_winner": "SEA",
+        "league_record_winner": "BAL",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -830,9 +830,9 @@
         "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "1-1",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
-        "tiebreak_method": "league"
+        "league_record_winner": null,
+        "tiebreak_winner": null,
+        "tiebreak_method": null
       },
       {
         "team1": "TBR",
@@ -847,9 +847,9 @@
         "div_record_winner": null,
         "league_record_1": "1-1",
         "league_record_2": "3-3",
-        "league_record_winner": "BAL",
-        "tiebreak_winner": "BAL",
-        "tiebreak_method": "league"
+        "league_record_winner": null,
+        "tiebreak_winner": null,
+        "tiebreak_method": null
       },
       {
         "team1": "BAL",
@@ -864,7 +864,7 @@
         "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "BAL",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "TEX",
         "tiebreak_method": "h2h"
       },
@@ -881,7 +881,7 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "BAL",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "TEX",
         "tiebreak_method": "h2h"
       },
@@ -898,9 +898,9 @@
         "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "3-2",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "TOR",
+        "tiebreak_winner": "TOR",
+        "tiebreak_method": "league"
       },
       {
         "team1": "TOR",
@@ -915,9 +915,9 @@
         "div_record_winner": null,
         "league_record_1": "3-2",
         "league_record_2": "3-3",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "TOR",
+        "tiebreak_winner": "TOR",
+        "tiebreak_method": "league"
       },
       {
         "team1": "BOS",
@@ -1340,9 +1340,9 @@
         "div_record_winner": null,
         "league_record_1": "2-0",
         "league_record_2": "2-2",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CLE",
@@ -1357,9 +1357,9 @@
         "div_record_winner": null,
         "league_record_1": "2-2",
         "league_record_2": "2-0",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CHW",
@@ -1408,7 +1408,7 @@
         "div_record_winner": "HOU",
         "league_record_1": "2-0",
         "league_record_2": "6-3",
-        "league_record_winner": "HOU",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "HOU",
         "tiebreak_method": "div"
       },
@@ -1425,7 +1425,7 @@
         "div_record_winner": "HOU",
         "league_record_1": "6-3",
         "league_record_2": "2-0",
-        "league_record_winner": "HOU",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "HOU",
         "tiebreak_method": "div"
       },
@@ -1442,7 +1442,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-0",
         "league_record_2": "2-1",
-        "league_record_winner": null,
+        "league_record_winner": "CHW",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -1459,7 +1459,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "2-0",
-        "league_record_winner": null,
+        "league_record_winner": "CHW",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -1476,7 +1476,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "2-0",
         "league_record_2": "3-3",
-        "league_record_winner": "LAA",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -1493,7 +1493,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "2-0",
-        "league_record_winner": "LAA",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -1510,7 +1510,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "2-0",
         "league_record_2": "3-5",
-        "league_record_winner": "MIN",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -1527,7 +1527,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "2-0",
-        "league_record_winner": "MIN",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -1544,9 +1544,9 @@
         "div_record_winner": null,
         "league_record_1": "2-0",
         "league_record_2": "2-1",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
+        "tiebreak_method": "league"
       },
       {
         "team1": "NYY",
@@ -1561,9 +1561,9 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "2-0",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CHW",
@@ -1578,7 +1578,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "2-0",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -1595,7 +1595,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "2-0",
-        "league_record_winner": "SEA",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -1646,9 +1646,9 @@
         "div_record_winner": null,
         "league_record_1": "2-0",
         "league_record_2": "2-1",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
+        "tiebreak_method": "league"
       },
       {
         "team1": "TEX",
@@ -1663,9 +1663,9 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "2-0",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHW",
+        "tiebreak_winner": "CHW",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CHW",
@@ -1680,7 +1680,7 @@
         "div_record_winner": null,
         "league_record_1": "2-0",
         "league_record_2": "3-2",
-        "league_record_winner": "TOR",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "CHW",
         "tiebreak_method": "h2h"
       },
@@ -1697,7 +1697,7 @@
         "div_record_winner": null,
         "league_record_1": "3-2",
         "league_record_2": "2-0",
-        "league_record_winner": "TOR",
+        "league_record_winner": "CHW",
         "tiebreak_winner": "CHW",
         "tiebreak_method": "h2h"
       },
@@ -1782,7 +1782,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-2",
         "league_record_2": "2-1",
-        "league_record_winner": null,
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -1799,7 +1799,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "2-2",
-        "league_record_winner": null,
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -1816,7 +1816,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "2-2",
         "league_record_2": "3-3",
-        "league_record_winner": "LAA",
+        "league_record_winner": null,
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -1833,7 +1833,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "2-2",
-        "league_record_winner": "LAA",
+        "league_record_winner": null,
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -1850,7 +1850,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "2-2",
         "league_record_2": "3-5",
-        "league_record_winner": "MIN",
+        "league_record_winner": "CLE",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -1867,7 +1867,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "2-2",
-        "league_record_winner": "MIN",
+        "league_record_winner": "CLE",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -1884,9 +1884,9 @@
         "div_record_winner": null,
         "league_record_1": "2-2",
         "league_record_2": "2-1",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "NYY",
+        "tiebreak_winner": "NYY",
+        "tiebreak_method": "league"
       },
       {
         "team1": "NYY",
@@ -1901,9 +1901,9 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "2-2",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "NYY",
+        "tiebreak_winner": "NYY",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CLE",
@@ -1918,7 +1918,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "2-2",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "CLE",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -1935,7 +1935,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "2-2",
-        "league_record_winner": "SEA",
+        "league_record_winner": "CLE",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -1952,9 +1952,9 @@
         "div_record_winner": null,
         "league_record_1": "2-2",
         "league_record_2": "1-1",
-        "league_record_winner": "CLE",
-        "tiebreak_winner": "CLE",
-        "tiebreak_method": "league"
+        "league_record_winner": null,
+        "tiebreak_winner": null,
+        "tiebreak_method": null
       },
       {
         "team1": "TBR",
@@ -1969,9 +1969,9 @@
         "div_record_winner": null,
         "league_record_1": "1-1",
         "league_record_2": "2-2",
-        "league_record_winner": "CLE",
-        "tiebreak_winner": "CLE",
-        "tiebreak_method": "league"
+        "league_record_winner": null,
+        "tiebreak_winner": null,
+        "tiebreak_method": null
       },
       {
         "team1": "CLE",
@@ -1986,9 +1986,9 @@
         "div_record_winner": null,
         "league_record_1": "2-2",
         "league_record_2": "2-1",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "TEX",
+        "tiebreak_winner": "TEX",
+        "tiebreak_method": "league"
       },
       {
         "team1": "TEX",
@@ -2003,9 +2003,9 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "2-2",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "TEX",
+        "tiebreak_winner": "TEX",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CLE",
@@ -2357,11 +2357,11 @@
         "h2h_record_winner": null,
         "div_record_1": "3-3",
         "div_record_2": "2-1",
-        "div_record_winner": "HOU",
+        "div_record_winner": "KCR",
         "league_record_1": "6-3",
         "league_record_2": "2-1",
-        "league_record_winner": "HOU",
-        "tiebreak_winner": "HOU",
+        "league_record_winner": null,
+        "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
       {
@@ -2374,11 +2374,11 @@
         "h2h_record_winner": null,
         "div_record_1": "2-1",
         "div_record_2": "3-3",
-        "div_record_winner": "HOU",
+        "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "6-3",
-        "league_record_winner": "HOU",
-        "tiebreak_winner": "HOU",
+        "league_record_winner": null,
+        "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
       {
@@ -2462,7 +2462,7 @@
         "div_record_winner": "HOU",
         "league_record_1": "6-3",
         "league_record_2": "2-1",
-        "league_record_winner": "HOU",
+        "league_record_winner": null,
         "tiebreak_winner": "HOU",
         "tiebreak_method": "div"
       },
@@ -2479,7 +2479,7 @@
         "div_record_winner": "HOU",
         "league_record_1": "2-1",
         "league_record_2": "6-3",
-        "league_record_winner": "HOU",
+        "league_record_winner": null,
         "tiebreak_winner": "HOU",
         "tiebreak_method": "div"
       },
@@ -2493,12 +2493,12 @@
         "h2h_record_winner": null,
         "div_record_1": "3-3",
         "div_record_2": "1-1",
-        "div_record_winner": "HOU",
+        "div_record_winner": null,
         "league_record_1": "6-3",
         "league_record_2": "4-5",
         "league_record_winner": "HOU",
         "tiebreak_winner": "HOU",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "SEA",
@@ -2510,12 +2510,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-1",
         "div_record_2": "3-3",
-        "div_record_winner": "HOU",
+        "div_record_winner": null,
         "league_record_1": "4-5",
         "league_record_2": "6-3",
         "league_record_winner": "HOU",
         "tiebreak_winner": "HOU",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "HOU",
@@ -2564,7 +2564,7 @@
         "div_record_winner": "HOU",
         "league_record_1": "6-3",
         "league_record_2": "2-1",
-        "league_record_winner": "HOU",
+        "league_record_winner": null,
         "tiebreak_winner": "HOU",
         "tiebreak_method": "div"
       },
@@ -2581,7 +2581,7 @@
         "div_record_winner": "HOU",
         "league_record_1": "2-1",
         "league_record_2": "6-3",
-        "league_record_winner": "HOU",
+        "league_record_winner": null,
         "tiebreak_winner": "HOU",
         "tiebreak_method": "div"
       },
@@ -2629,11 +2629,11 @@
         "h2h_record_winner": null,
         "div_record_1": "2-1",
         "div_record_2": "3-3",
-        "div_record_winner": "LAA",
+        "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "LAA",
-        "tiebreak_winner": "LAA",
+        "league_record_winner": "KCR",
+        "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
       {
@@ -2646,11 +2646,11 @@
         "h2h_record_winner": null,
         "div_record_1": "3-3",
         "div_record_2": "2-1",
-        "div_record_winner": "LAA",
+        "div_record_winner": "KCR",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "LAA",
-        "tiebreak_winner": "LAA",
+        "league_record_winner": "KCR",
+        "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
       {
@@ -2666,7 +2666,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "3-5",
-        "league_record_winner": "MIN",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "h2h"
       },
@@ -2683,7 +2683,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "3-5",
         "league_record_2": "2-1",
-        "league_record_winner": "MIN",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "h2h"
       },
@@ -2734,7 +2734,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -2751,7 +2751,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "4-5",
         "league_record_2": "2-1",
-        "league_record_winner": "SEA",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -2836,7 +2836,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "2-1",
         "league_record_2": "3-2",
-        "league_record_winner": "TOR",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -2853,7 +2853,7 @@
         "div_record_winner": "KCR",
         "league_record_1": "3-2",
         "league_record_2": "2-1",
-        "league_record_winner": "TOR",
+        "league_record_winner": "KCR",
         "tiebreak_winner": "KCR",
         "tiebreak_method": "div"
       },
@@ -2870,7 +2870,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "3-5",
-        "league_record_winner": null,
+        "league_record_winner": "LAA",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -2887,7 +2887,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-5",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "LAA",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -2904,7 +2904,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "LAA",
+        "league_record_winner": "NYY",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -2921,7 +2921,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "LAA",
+        "league_record_winner": "NYY",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -2935,12 +2935,12 @@
         "h2h_record_winner": null,
         "div_record_1": "3-3",
         "div_record_2": "1-1",
-        "div_record_winner": "LAA",
+        "div_record_winner": null,
         "league_record_1": "3-3",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "LAA",
         "tiebreak_winner": "LAA",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "SEA",
@@ -2952,12 +2952,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-1",
         "div_record_2": "3-3",
-        "div_record_winner": "LAA",
+        "div_record_winner": null,
         "league_record_1": "4-5",
         "league_record_2": "3-3",
-        "league_record_winner": "SEA",
+        "league_record_winner": "LAA",
         "tiebreak_winner": "LAA",
-        "tiebreak_method": "div"
+        "tiebreak_method": "league"
       },
       {
         "team1": "LAA",
@@ -2972,7 +2972,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "1-1",
-        "league_record_winner": "LAA",
+        "league_record_winner": null,
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -2989,7 +2989,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "1-1",
         "league_record_2": "3-3",
-        "league_record_winner": "LAA",
+        "league_record_winner": null,
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -3006,7 +3006,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "LAA",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -3023,7 +3023,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "LAA",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -3040,7 +3040,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-3",
         "league_record_2": "3-2",
-        "league_record_winner": null,
+        "league_record_winner": "TOR",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -3057,7 +3057,7 @@
         "div_record_winner": "LAA",
         "league_record_1": "3-2",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "TOR",
         "tiebreak_winner": "LAA",
         "tiebreak_method": "div"
       },
@@ -3074,7 +3074,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "2-1",
-        "league_record_winner": "MIN",
+        "league_record_winner": "NYY",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3091,7 +3091,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "2-1",
         "league_record_2": "3-5",
-        "league_record_winner": "MIN",
+        "league_record_winner": "NYY",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3105,12 +3105,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-2",
         "div_record_2": "1-1",
-        "div_record_winner": null,
+        "div_record_winner": "SEA",
         "league_record_1": "3-5",
         "league_record_2": "4-5",
         "league_record_winner": "SEA",
         "tiebreak_winner": "SEA",
-        "tiebreak_method": "league"
+        "tiebreak_method": "div"
       },
       {
         "team1": "SEA",
@@ -3122,12 +3122,12 @@
         "h2h_record_winner": null,
         "div_record_1": "1-1",
         "div_record_2": "1-2",
-        "div_record_winner": null,
+        "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "3-5",
         "league_record_winner": "SEA",
         "tiebreak_winner": "SEA",
-        "tiebreak_method": "league"
+        "tiebreak_method": "div"
       },
       {
         "team1": "MIN",
@@ -3142,7 +3142,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "1-1",
-        "league_record_winner": "MIN",
+        "league_record_winner": "TBR",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3159,7 +3159,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "1-1",
         "league_record_2": "3-5",
-        "league_record_winner": "MIN",
+        "league_record_winner": "TBR",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3176,7 +3176,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "2-1",
-        "league_record_winner": "MIN",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3193,7 +3193,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "2-1",
         "league_record_2": "3-5",
-        "league_record_winner": "MIN",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3210,7 +3210,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-5",
         "league_record_2": "3-2",
-        "league_record_winner": null,
+        "league_record_winner": "TOR",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3227,7 +3227,7 @@
         "div_record_winner": "MIN",
         "league_record_1": "3-2",
         "league_record_2": "3-5",
-        "league_record_winner": null,
+        "league_record_winner": "TOR",
         "tiebreak_winner": "MIN",
         "tiebreak_method": "div"
       },
@@ -3244,7 +3244,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "2-1",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "NYY",
         "tiebreak_winner": "NYY",
         "tiebreak_method": "h2h"
       },
@@ -3261,7 +3261,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "2-1",
-        "league_record_winner": "SEA",
+        "league_record_winner": "NYY",
         "tiebreak_winner": "NYY",
         "tiebreak_method": "h2h"
       },
@@ -3346,8 +3346,8 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "3-2",
-        "league_record_winner": "TOR",
-        "tiebreak_winner": "TOR",
+        "league_record_winner": "NYY",
+        "tiebreak_winner": "NYY",
         "tiebreak_method": "league"
       },
       {
@@ -3363,8 +3363,8 @@
         "div_record_winner": null,
         "league_record_1": "3-2",
         "league_record_2": "2-1",
-        "league_record_winner": "TOR",
-        "tiebreak_winner": "TOR",
+        "league_record_winner": "NYY",
+        "tiebreak_winner": "NYY",
         "tiebreak_method": "league"
       },
       {
@@ -3380,7 +3380,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "1-1",
-        "league_record_winner": "SEA",
+        "league_record_winner": "TBR",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -3397,7 +3397,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "1-1",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "TBR",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -3414,7 +3414,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "2-1",
-        "league_record_winner": "SEA",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -3431,7 +3431,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "2-1",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "TEX",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -3448,7 +3448,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "4-5",
         "league_record_2": "3-2",
-        "league_record_winner": "SEA",
+        "league_record_winner": "TOR",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -3465,7 +3465,7 @@
         "div_record_winner": "SEA",
         "league_record_1": "3-2",
         "league_record_2": "4-5",
-        "league_record_winner": "SEA",
+        "league_record_winner": "TOR",
         "tiebreak_winner": "SEA",
         "tiebreak_method": "div"
       },
@@ -3550,8 +3550,8 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "3-2",
-        "league_record_winner": "TOR",
-        "tiebreak_winner": "TOR",
+        "league_record_winner": "TEX",
+        "tiebreak_winner": "TEX",
         "tiebreak_method": "league"
       },
       {
@@ -3567,8 +3567,8 @@
         "div_record_winner": null,
         "league_record_1": "3-2",
         "league_record_2": "2-1",
-        "league_record_winner": "TOR",
-        "tiebreak_winner": "TOR",
+        "league_record_winner": "TEX",
+        "tiebreak_winner": "TEX",
         "tiebreak_method": "league"
       }
     ],
@@ -3620,9 +3620,9 @@
         "div_record_winner": null,
         "league_record_1": "1-5",
         "league_record_2": "1-2",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHC",
+        "tiebreak_winner": "CHC",
+        "tiebreak_method": "league"
       },
       {
         "team1": "CHC",
@@ -3637,9 +3637,9 @@
         "div_record_winner": null,
         "league_record_1": "1-2",
         "league_record_2": "1-5",
-        "league_record_winner": null,
-        "tiebreak_winner": null,
-        "tiebreak_method": null
+        "league_record_winner": "CHC",
+        "tiebreak_winner": "CHC",
+        "tiebreak_method": "league"
       },
       {
         "team1": "ARI",
@@ -3654,7 +3654,7 @@
         "div_record_winner": "CIN",
         "league_record_1": "1-5",
         "league_record_2": "1-2",
-        "league_record_winner": null,
+        "league_record_winner": "CIN",
         "tiebreak_winner": "CIN",
         "tiebreak_method": "div"
       },
@@ -3671,7 +3671,7 @@
         "div_record_winner": "CIN",
         "league_record_1": "1-2",
         "league_record_2": "1-5",
-        "league_record_winner": null,
+        "league_record_winner": "CIN",
         "tiebreak_winner": "CIN",
         "tiebreak_method": "div"
       },
@@ -3926,7 +3926,7 @@
         "div_record_winner": "SDP",
         "league_record_1": "1-5",
         "league_record_2": "1-2",
-        "league_record_winner": null,
+        "league_record_winner": "SDP",
         "tiebreak_winner": "SDP",
         "tiebreak_method": "div"
       },
@@ -3943,7 +3943,7 @@
         "div_record_winner": "SDP",
         "league_record_1": "1-2",
         "league_record_2": "1-5",
-        "league_record_winner": null,
+        "league_record_winner": "SDP",
         "tiebreak_winner": "SDP",
         "tiebreak_method": "div"
       },
@@ -4266,8 +4266,8 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "5-4",
-        "league_record_winner": "NYM",
-        "tiebreak_winner": "NYM",
+        "league_record_winner": "ATL",
+        "tiebreak_winner": "ATL",
         "tiebreak_method": "league"
       },
       {
@@ -4283,8 +4283,8 @@
         "div_record_winner": null,
         "league_record_1": "5-4",
         "league_record_2": "2-1",
-        "league_record_winner": "NYM",
-        "tiebreak_winner": "NYM",
+        "league_record_winner": "ATL",
+        "tiebreak_winner": "ATL",
         "tiebreak_method": "league"
       },
       {
@@ -4334,7 +4334,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "PIT",
+        "league_record_winner": "ATL",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -4351,7 +4351,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "PIT",
+        "league_record_winner": "ATL",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -4402,7 +4402,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "SFG",
+        "league_record_winner": "ATL",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -4419,7 +4419,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "SFG",
+        "league_record_winner": "ATL",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -4470,7 +4470,7 @@
         "div_record_winner": "WSN",
         "league_record_1": "2-1",
         "league_record_2": "3-5",
-        "league_record_winner": "WSN",
+        "league_record_winner": "ATL",
         "tiebreak_winner": "WSN",
         "tiebreak_method": "div"
       },
@@ -4487,7 +4487,7 @@
         "div_record_winner": "WSN",
         "league_record_1": "3-5",
         "league_record_2": "2-1",
-        "league_record_winner": "WSN",
+        "league_record_winner": "ATL",
         "tiebreak_winner": "WSN",
         "tiebreak_method": "div"
       },
@@ -5626,7 +5626,7 @@
         "div_record_winner": "LAD",
         "league_record_1": "5-0",
         "league_record_2": "3-0",
-        "league_record_winner": "LAD",
+        "league_record_winner": null,
         "tiebreak_winner": "LAD",
         "tiebreak_method": "div"
       },
@@ -5643,7 +5643,7 @@
         "div_record_winner": "LAD",
         "league_record_1": "3-0",
         "league_record_2": "5-0",
-        "league_record_winner": "LAD",
+        "league_record_winner": null,
         "tiebreak_winner": "LAD",
         "tiebreak_method": "div"
       },
@@ -5694,7 +5694,7 @@
         "div_record_winner": "LAD",
         "league_record_1": "5-0",
         "league_record_2": "5-4",
-        "league_record_winner": null,
+        "league_record_winner": "LAD",
         "tiebreak_winner": "LAD",
         "tiebreak_method": "div"
       },
@@ -5711,7 +5711,7 @@
         "div_record_winner": "LAD",
         "league_record_1": "5-4",
         "league_record_2": "5-0",
-        "league_record_winner": null,
+        "league_record_winner": "LAD",
         "tiebreak_winner": "LAD",
         "tiebreak_method": "div"
       },
@@ -5966,8 +5966,8 @@
         "div_record_winner": null,
         "league_record_1": "3-0",
         "league_record_2": "5-4",
-        "league_record_winner": "NYM",
-        "tiebreak_winner": "NYM",
+        "league_record_winner": "MIA",
+        "tiebreak_winner": "MIA",
         "tiebreak_method": "league"
       },
       {
@@ -5983,8 +5983,8 @@
         "div_record_winner": null,
         "league_record_1": "5-4",
         "league_record_2": "3-0",
-        "league_record_winner": "NYM",
-        "tiebreak_winner": "NYM",
+        "league_record_winner": "MIA",
+        "tiebreak_winner": "MIA",
         "tiebreak_method": "league"
       },
       {
@@ -6000,7 +6000,7 @@
         "div_record_winner": "PHI",
         "league_record_1": "3-0",
         "league_record_2": "4-1",
-        "league_record_winner": "PHI",
+        "league_record_winner": "MIA",
         "tiebreak_winner": "PHI",
         "tiebreak_method": "div"
       },
@@ -6017,7 +6017,7 @@
         "div_record_winner": "PHI",
         "league_record_1": "4-1",
         "league_record_2": "3-0",
-        "league_record_winner": "PHI",
+        "league_record_winner": "MIA",
         "tiebreak_winner": "PHI",
         "tiebreak_method": "div"
       },
@@ -6034,7 +6034,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "3-0",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "MIA",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -6051,7 +6051,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "3-3",
         "league_record_2": "3-0",
-        "league_record_winner": null,
+        "league_record_winner": "MIA",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -6102,7 +6102,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "3-0",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "MIA",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -6119,7 +6119,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "3-3",
         "league_record_2": "3-0",
-        "league_record_winner": null,
+        "league_record_winner": "MIA",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -6170,7 +6170,7 @@
         "div_record_winner": "WSN",
         "league_record_1": "3-0",
         "league_record_2": "3-5",
-        "league_record_winner": null,
+        "league_record_winner": "MIA",
         "tiebreak_winner": "WSN",
         "tiebreak_method": "div"
       },
@@ -6187,7 +6187,7 @@
         "div_record_winner": "WSN",
         "league_record_1": "3-5",
         "league_record_2": "3-0",
-        "league_record_winner": null,
+        "league_record_winner": "MIA",
         "tiebreak_winner": "WSN",
         "tiebreak_method": "div"
       },
@@ -6442,7 +6442,7 @@
         "div_record_winner": "PHI",
         "league_record_1": "5-4",
         "league_record_2": "4-1",
-        "league_record_winner": "NYM",
+        "league_record_winner": "PHI",
         "tiebreak_winner": "PHI",
         "tiebreak_method": "div"
       },
@@ -6459,7 +6459,7 @@
         "div_record_winner": "PHI",
         "league_record_1": "4-1",
         "league_record_2": "5-4",
-        "league_record_winner": "NYM",
+        "league_record_winner": "PHI",
         "tiebreak_winner": "PHI",
         "tiebreak_method": "div"
       },
@@ -6578,7 +6578,7 @@
         "div_record_winner": null,
         "league_record_1": "5-4",
         "league_record_2": "2-1",
-        "league_record_winner": "NYM",
+        "league_record_winner": "STL",
         "tiebreak_winner": "STL",
         "tiebreak_method": "h2h"
       },
@@ -6595,7 +6595,7 @@
         "div_record_winner": null,
         "league_record_1": "2-1",
         "league_record_2": "5-4",
-        "league_record_winner": "NYM",
+        "league_record_winner": "STL",
         "tiebreak_winner": "STL",
         "tiebreak_method": "h2h"
       },
@@ -6884,7 +6884,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "PIT",
+        "league_record_winner": "STL",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -6901,7 +6901,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "PIT",
+        "league_record_winner": "STL",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -6918,7 +6918,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "3-3",
         "league_record_2": "3-5",
-        "league_record_winner": null,
+        "league_record_winner": "PIT",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -6935,7 +6935,7 @@
         "div_record_winner": "PIT",
         "league_record_1": "3-5",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "PIT",
         "tiebreak_winner": "PIT",
         "tiebreak_method": "div"
       },
@@ -7054,7 +7054,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "3-3",
         "league_record_2": "2-1",
-        "league_record_winner": "SFG",
+        "league_record_winner": "STL",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -7071,7 +7071,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "2-1",
         "league_record_2": "3-3",
-        "league_record_winner": "SFG",
+        "league_record_winner": "STL",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -7088,7 +7088,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "3-3",
         "league_record_2": "3-5",
-        "league_record_winner": null,
+        "league_record_winner": "SFG",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -7105,7 +7105,7 @@
         "div_record_winner": "SFG",
         "league_record_1": "3-5",
         "league_record_2": "3-3",
-        "league_record_winner": null,
+        "league_record_winner": "SFG",
         "tiebreak_winner": "SFG",
         "tiebreak_method": "div"
       },
@@ -7122,7 +7122,7 @@
         "div_record_winner": "WSN",
         "league_record_1": "2-1",
         "league_record_2": "3-5",
-        "league_record_winner": "WSN",
+        "league_record_winner": "STL",
         "tiebreak_winner": "WSN",
         "tiebreak_method": "div"
       },
@@ -7139,7 +7139,7 @@
         "div_record_winner": "WSN",
         "league_record_1": "3-5",
         "league_record_2": "2-1",
-        "league_record_winner": "WSN",
+        "league_record_winner": "STL",
         "tiebreak_winner": "WSN",
         "tiebreak_method": "div"
       }
