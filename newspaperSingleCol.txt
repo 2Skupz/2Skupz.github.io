@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, April 04
-  Union Berlin         vs    St. Pauli
-  Leverkusen           vs    Wolfsburg
-  Eint Frankfurt       vs    Köln
-  Hamburger SV         vs    Augsburg
-  Werder Bremen        vs    RB Leipzig
-  Gladbach             vs    Heidenheim
-  Freiburg             vs    Bayern Munich
-  Stuttgart            vs    Dortmund
-  Hoffenheim           vs    Mainz 05
+Saturday, April 11
+  Köln                 vs    Werder Bremen
+  Dortmund             vs    Leverkusen
+  RB Leipzig           vs    Gladbach
+  Augsburg             vs    Hoffenheim
+  St. Pauli            vs    Bayern Munich
+  Wolfsburg            vs    Eint Frankfurt
+  Mainz 05             vs    Freiburg
+  Stuttgart            vs    Hamburger SV
+  Heidenheim           vs    Union Berlin
 
 
 Premier League
@@ -118,6 +118,20 @@ Burnley            10   3   1   6  10  -7
 West Ham           10   2   1   7   7 -11
 Nott'ham Forest    10   1   3   6   6 -12
 Wolves             10   0   2   8   2 -15
+
+Premier League Fixtures
+-----------------------
+Saturday, April 11
+  Liverpool            vs    Fulham
+  Brentford            vs    Everton
+  Sunderland           vs    Tottenham
+  West Ham             vs    Wolves
+  Crystal Palace       vs    Newcastle Utd
+  Burnley              vs    Brighton
+  Nott'ham Forest      vs    Aston Villa
+  Arsenal              vs    Bournemouth
+  Chelsea              vs    Manchester City
+  Manchester Utd       vs    Leeds United
 
 
 Ligue 1
@@ -180,20 +194,6 @@ Hellas Verona      10   0   5   5   5 -10
 Fiorentina         10   0   4   6   4  -9
 Genoa               9   0   3   6   3  -9
 
-Serie A Fixtures
-----------------
-Saturday, April 04
-  Hellas Verona        vs    Fiorentina
-  Udinese              vs    Como
-  Juventus             vs    Genoa
-  Napoli               vs    Milan
-  Cremonese            vs    Bologna
-  Inter                vs    Roma
-  Sassuolo             vs    Cagliari
-  Lecce                vs    Atalanta
-  Lazio                vs    Parma
-  Pisa                 vs    Torino
-
 
 Champions League
 ----------------
@@ -236,4 +236,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 04.07.26
+Standings from FBRef.com 04.08.26

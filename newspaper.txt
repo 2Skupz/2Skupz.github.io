@@ -42,16 +42,16 @@ Värnamo            28   3   7  18  35  61 -26  16                   Gladbach   
 
                                                                     Bundesliga Fixtures
                                                                     -------------------
-                                                                    Saturday, April 04
-                                                                      Union Berlin         vs    St. Pauli
-                                                                      Leverkusen           vs    Wolfsburg
-                                                                      Eint Frankfurt       vs    Köln
-                                                                      Hamburger SV         vs    Augsburg
-                                                                      Werder Bremen        vs    RB Leipzig
-                                                                      Gladbach             vs    Heidenheim
-                                                                      Freiburg             vs    Bayern Munich
-                                                                      Stuttgart            vs    Dortmund
-                                                                      Hoffenheim           vs    Mainz 05
+                                                                    Saturday, April 11
+                                                                      Köln                 vs    Werder Bremen
+                                                                      Dortmund             vs    Leverkusen
+                                                                      RB Leipzig           vs    Gladbach
+                                                                      Augsburg             vs    Hoffenheim
+                                                                      St. Pauli            vs    Bayern Munich
+                                                                      Wolfsburg            vs    Eint Frankfurt
+                                                                      Mainz 05             vs    Freiburg
+                                                                      Stuttgart            vs    Hamburger SV
+                                                                      Heidenheim           vs    Union Berlin
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -76,18 +76,19 @@ West Ham           10   2   1   7  10  21 -11   7   9.3  15.3       Auxerre     
 Nott'ham Forest    10   1   3   6   7  19 -12   6  11.0  15.9       
 Wolves             10   0   2   8   7  22 -15   2   9.4  12.7       
 
-                                                                    Ligue 1 Fixtures
-                                                                    ----------------
-                                                                    Sunday, April 05
-                                                                      Le Havre             vs    Auxerre
-                                                                      Brest                vs    Rennes
-                                                                      Metz                 vs    Nantes
-                                                                      Strasbourg           vs    Nice
-                                                                      Angers               vs    Lyon
-                                                                      Monaco               vs    Marseille
-                                                                      Lorient              vs    Paris FC
-                                                                      Paris S-G            vs    Toulouse
-                                                                      Lille                vs    Lens
+Premier League Fixtures                                             Ligue 1 Fixtures
+-----------------------                                             ----------------
+Saturday, April 11                                                  Sunday, April 05
+  Liverpool            vs    Fulham                                   Le Havre             vs    Auxerre
+  Brentford            vs    Everton                                  Brest                vs    Rennes
+  Sunderland           vs    Tottenham                                Metz                 vs    Nantes
+  West Ham             vs    Wolves                                   Strasbourg           vs    Nice
+  Crystal Palace       vs    Newcastle Utd                            Angers               vs    Lyon
+  Burnley              vs    Brighton                                 Monaco               vs    Marseille
+  Nott'ham Forest      vs    Aston Villa                              Lorient              vs    Paris FC
+  Arsenal              vs    Bournemouth                              Paris S-G            vs    Toulouse
+  Chelsea              vs    Manchester City                          Lille                vs    Lens
+  Manchester Utd       vs    Leeds United                           
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -112,19 +113,6 @@ Hellas Verona      10   0   5   5   6  16 -10   5  11.9  11.7
 Fiorentina         10   0   4   6   7  16  -9   4  13.2  15.0       
 Genoa               9   0   3   6   4  13  -9   3  11.3   9.8       
 
-Serie A Fixtures
-----------------
-Saturday, April 04
-  Hellas Verona        vs    Fiorentina
-  Udinese              vs    Como
-  Juventus             vs    Genoa
-  Napoli               vs    Milan
-  Cremonese            vs    Bologna
-  Inter                vs    Roma
-  Sassuolo             vs    Cagliari
-  Lecce                vs    Atalanta
-  Lazio                vs    Parma
-  Pisa                 vs    Torino
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -166,4 +154,4 @@ pt  Benfica          3   0   0   3   2   7  -5   0   2.6   4.8
 nl  Ajax             3   0   0   3   1  11 -10   0   3.1   6.0      
 
 
-Standings from FBRef.com 04.07.26
+Standings from FBRef.com 04.08.26

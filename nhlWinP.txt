@@ -5,8 +5,8 @@ NHL Standings - Win Percentage
 Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Anaheim                78   41   37     .526    --
-Edmonton               78   39   39     .500   2.0
-San Jose               76   37   39     .487   3.0
+Edmonton               79   40   39     .506   1.5
+San Jose               77   37   40     .481   3.5
 Vegas                  78   36   42     .462   5.0
 Los Angeles            77   32   45     .416   8.5
 SEATTLE                77   32   45     .416   8.5
@@ -33,19 +33,19 @@ NY Islanders           78   42   36     .538   8.0
 Pittsburgh             78   40   38     .513  10.0
 Philadelphia           78   40   38     .513  10.0
 New Jersey             78   40   38     .513  10.0
-Washington             78   39   39     .500  11.0
+Washington             79   40   39     .506  10.5
 Columbus               78   39   39     .500  11.0
-NY Rangers             78   33   45     .423  17.0
+NY Rangers             79   33   46     .418  17.5
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Tampa Bay              78   48   30     .615    --
-Buffalo                78   47   31     .603   1.0
+Buffalo                79   48   31     .608   0.5
 Montreal               78   46   32     .590   2.0
 Boston                 79   43   36     .544   5.5
 Ottawa                 78   41   37     .526   7.0
 Detroit                78   40   38     .513   8.0
 Florida                78   37   41     .474  11.0
-Toronto                77   32   45     .416  15.5
+Toronto                78   32   46     .410  16.0
 
