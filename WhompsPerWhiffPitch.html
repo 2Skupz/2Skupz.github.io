@@ -1,20 +1,201 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Whomps per Whiff</title>
-<style>
-    td,th {
-      text-align: center;
-}
-</style>
+    <style>
+        :root {
+            --bg-top: #f3efe3;
+            --bg-bottom: #e5dcc7;
+            --panel: rgba(255, 252, 246, 0.9);
+            --panel-strong: #fffdfa;
+            --line: rgba(92, 71, 45, 0.14);
+            --line-strong: rgba(92, 71, 45, 0.24);
+            --text: #2d241b;
+            --muted: #6f6253;
+            --accent: #b45f25;
+            --accent-soft: rgba(180, 95, 37, 0.1);
+            --header: #f0e6d3;
+            --row-alt: rgba(130, 95, 57, 0.045);
+            --shadow: 0 24px 60px rgba(74, 54, 33, 0.14);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: Georgia, "Times New Roman", serif;
+            color: var(--text);
+            background:
+                radial-gradient(circle at top, rgba(255, 255, 255, 0.55), transparent 34%),
+                linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+        }
+
+        .page {
+            width: min(1180px, calc(100vw - 32px));
+            margin: 0 auto;
+            padding: 40px 0 56px;
+        }
+
+        .hero {
+            padding: 36px 38px 28px;
+            border: 1px solid var(--line);
+            border-radius: 28px;
+            background: linear-gradient(180deg, rgba(255, 253, 248, 0.98), rgba(248, 242, 230, 0.92));
+            box-shadow: var(--shadow);
+        }
+
+        .eyebrow {
+            margin: 0 0 12px;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: var(--accent);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: clamp(2.4rem, 4vw, 4.6rem);
+            line-height: 0.95;
+            letter-spacing: -0.04em;
+        }
+
+        .summary {
+            max-width: 760px;
+            margin: 18px 0 0;
+            color: var(--muted);
+            font-size: 1.02rem;
+            line-height: 1.7;
+        }
+
+        .table-card {
+            margin-top: 24px;
+            padding: 18px;
+            border: 1px solid var(--line);
+            border-radius: 24px;
+            background: var(--panel);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+
+        .table-scroll {
+            overflow-x: auto;
+            border-radius: 18px;
+            background: var(--panel-strong);
+            border: 1px solid var(--line);
+        }
+
+        table.stats-table {
+            width: 100%;
+            min-width: 860px;
+            border-collapse: separate;
+            border-spacing: 0;
+            font-size: 0.98rem;
+        }
+
+        table.stats-table thead th {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            padding: 16px 14px;
+            text-align: left;
+            font-size: 0.84rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--muted);
+            background: var(--header);
+            border-bottom: 1px solid var(--line-strong);
+            white-space: nowrap;
+        }
+
+        table.stats-table tbody td {
+            padding: 14px;
+            border-bottom: 1px solid var(--line);
+            white-space: nowrap;
+        }
+
+        table.stats-table tbody tr:nth-child(even) td {
+            background: var(--row-alt);
+        }
+
+        table.stats-table tbody tr:hover td {
+            background: rgba(180, 95, 37, 0.08);
+        }
+
+        table.stats-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        table.stats-table thead th:first-child,
+        table.stats-table tbody td:first-child {
+            padding-left: 20px;
+        }
+
+        table.stats-table thead th:last-child,
+        table.stats-table tbody td:last-child {
+            padding-right: 20px;
+        }
+
+        table.stats-table tbody td:first-child {
+            font-weight: 700;
+        }
+
+        table.stats-table thead th:not(:first-child),
+        table.stats-table tbody td:not(:first-child) {
+            text-align: right;
+            font-variant-numeric: tabular-nums;
+        }
+
+        table.stats-table thead th:last-child,
+        table.stats-table tbody td:last-child {
+            color: var(--accent);
+            font-weight: 700;
+        }
+
+        .footer-note {
+            margin-top: 14px;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 720px) {
+            .page {
+                width: min(100vw - 20px, 1180px);
+                padding: 20px 0 28px;
+            }
+
+            .hero {
+                padding: 24px 20px 20px;
+                border-radius: 22px;
+            }
+
+            .table-card {
+                padding: 12px;
+                border-radius: 20px;
+            }
+
+            table.stats-table {
+                min-width: 720px;
+                font-size: 0.92rem;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>2026 Leaders</h1>
-    <p style="text-align: left;">As invented by Ben Clemens at <a href="https://blogs.fangraphs.com/whomps-per-whiff-is-a-real-stat-now/" title="FanGraphs">FanGraphs</a>.<br>Compiled April 11, 2026 at 12:43</br>Lg Avg = 0.108</p>
-</body>
-</html>
-<table border="1" class="dataframe">
+    <main class="page">
+        <section class="hero">
+            <p class="eyebrow">Current Season</p>
+            <h1>2026 Leaders</h1>
+            <p class="summary">As invented by Ben Clemens at <a href="https://blogs.fangraphs.com/whomps-per-whiff-is-a-real-stat-now/" title="FanGraphs">FanGraphs</a>.<br>Compiled April 11, 2026 at 12:51<br>League Average W/W = 0.108</p>
+        </section>
+        <section class="table-card">
+            <div class="table-scroll">
+                <table class="dataframe stats-table" id="whomps-table">
   <thead>
     <tr style="text-align: right;">
       <th>Player</th>
@@ -968,3 +1149,9 @@
     </tr>
   </tbody>
 </table>
+            </div>
+            <p class="footer-note">Higher W/W means more barrels per swing-and-miss.</p>
+        </section>
+    </main>
+</body>
+</html>
