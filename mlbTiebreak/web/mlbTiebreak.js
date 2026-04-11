@@ -174,7 +174,7 @@ function renderTiebreakerMatrix() {
         return rowHeader + cells;
     }).join('');
 
-    matrix.style.gridTemplateColumns = `140px repeat(${leagueTeams.length}, minmax(72px, 1fr))`;
+    matrix.style.gridTemplateColumns = `96px repeat(${leagueTeams.length}, minmax(0, 1fr))`;
     matrix.innerHTML = `
         <div class="matrix-cell matrix-corner">Row team vs column team</div>
         ${headerCells}

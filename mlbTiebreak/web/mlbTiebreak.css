@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    max-width: 900px;
+    max-width: min(1500px, calc(100vw - 24px));
     margin: 0 auto;
 }
 
@@ -301,19 +301,19 @@ h1 {
 }
 
 .matrix-wrapper {
-    overflow-x: auto;
-    padding-bottom: 8px;
+    overflow-x: visible;
 }
 
 .tiebreaker-matrix {
     display: grid;
     gap: 8px;
-    min-width: max-content;
+    width: 100%;
+    min-width: 0;
 }
 
 .matrix-cell {
-    min-height: 72px;
-    border-radius: 12px;
+    min-height: 58px;
+    border-radius: 10px;
     background: #f8fafc;
     border: 1px solid #e2e8f0;
     display: flex;
@@ -326,7 +326,7 @@ h1 {
 .matrix-corner {
     background: #e2e8f0;
     color: #475569;
-    font-size: 0.85rem;
+    font-size: 0.72rem;
     font-weight: 700;
     line-height: 1.3;
 }
@@ -335,8 +335,8 @@ h1 {
 .matrix-side-header {
     background: #eff6ff;
     flex-direction: column;
-    gap: 6px;
-    font-size: 0.8rem;
+    gap: 4px;
+    font-size: 0.68rem;
     font-weight: 700;
 }
 
@@ -345,8 +345,8 @@ h1 {
 }
 
 .matrix-logo {
-    width: 36px;
-    height: 36px;
+    width: 26px;
+    height: 26px;
     object-fit: contain;
     flex-shrink: 0;
 }
@@ -366,20 +366,20 @@ h1 {
 .matrix-diagonal {
     background: #e2e8f0;
     color: #94a3b8;
-    font-size: 1.4rem;
+    font-size: 1rem;
     font-weight: 700;
 }
 
 .matrix-empty {
     color: #94a3b8;
-    font-size: 0.75rem;
+    font-size: 0.62rem;
     font-weight: 700;
     letter-spacing: 0.05em;
 }
 
 .winner-logo {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 @media (max-width: 768px) {
@@ -400,6 +400,14 @@ h1 {
         padding: 20px;
     }
 
+    .matrix-wrapper {
+        overflow-x: auto;
+    }
+
+    .tiebreaker-matrix {
+        min-width: max-content;
+    }
+
     .team-headers,
     .tiebreaker-row {
         gap: 16px;
@@ -408,5 +416,14 @@ h1 {
     .team-logo {
         width: 72px;
         height: 72px;
+    }
+
+    .matrix-cell {
+        min-height: 54px;
+    }
+
+    .matrix-logo {
+        width: 24px;
+        height: 24px;
     }
 }
