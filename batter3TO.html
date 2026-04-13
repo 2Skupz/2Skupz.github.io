@@ -1,3066 +1,3069 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baseball Statistics</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>3TO wOBA - Batters</title>
     <style>
+        :root {
+            --bg-top: #f4ead6;
+            --bg-bottom: #d7c2a1;
+            --bg-ink: #2b1d13;
+            --panel: rgba(255, 251, 244, 0.88);
+            --panel-strong: rgba(255, 253, 249, 0.97);
+            --line: rgba(74, 52, 27, 0.14);
+            --line-strong: rgba(74, 52, 27, 0.24);
+            --text: #2f2417;
+            --muted: #75614d;
+            --accent: #b85722;
+            --accent-deep: #7d3312;
+            --accent-soft: rgba(184, 87, 34, 0.12);
+            --header: #f2e0c3;
+            --row-alt: rgba(150, 96, 48, 0.05);
+            --row-hover: rgba(184, 87, 34, 0.11);
+            --shadow: 0 28px 80px rgba(64, 43, 19, 0.18);
+        }
+
         * {
-            margin: 0;
-            padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
             min-height: 100vh;
-            padding: 20px;
+            font-family: Georgia, "Times New Roman", serif;
+            color: var(--text);
+            background:
+                radial-gradient(circle at top left, rgba(255, 252, 244, 0.92), transparent 28%),
+                radial-gradient(circle at 85% 12%, rgba(122, 55, 20, 0.18), transparent 24%),
+                linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+            position: relative;
         }
-        
-        .container {
-            max-width: 1400px;
+
+        body::before,
+        body::after {
+            content: "";
+            position: fixed;
+            inset: auto;
+            pointer-events: none;
+            z-index: 0;
+            filter: blur(8px);
+        }
+
+        body::before {
+            width: 280px;
+            height: 280px;
+            top: 88px;
+            right: -80px;
+            background: radial-gradient(circle, rgba(125, 51, 18, 0.16), transparent 68%);
+        }
+
+        body::after {
+            width: 360px;
+            height: 360px;
+            left: -120px;
+            bottom: 40px;
+            background: radial-gradient(circle, rgba(255, 247, 234, 0.82), transparent 70%);
+        }
+
+        .page {
+            width: min(1320px, calc(100vw - 32px));
             margin: 0 auto;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            padding: 40px 0 56px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero {
+            padding: 38px 38px 30px;
+            border: 1px solid var(--line);
+            border-radius: 28px;
+            background:
+                linear-gradient(135deg, rgba(255, 253, 248, 0.98), rgba(246, 234, 214, 0.9)),
+                linear-gradient(180deg, rgba(248, 242, 230, 0.92), rgba(244, 231, 207, 0.84));
+            box-shadow: var(--shadow);
             overflow: hidden;
+            position: relative;
         }
-        
-        header {
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-            color: white;
-            padding: 30px;
-            text-align: center;
+
+        .hero::after {
+            content: "";
+            position: absolute;
+            inset: auto -40px -50px auto;
+            width: 260px;
+            height: 260px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(184, 87, 34, 0.12), transparent 70%);
         }
-        
-        header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
+
+        .eyebrow {
+            margin: 0 0 12px;
+            font-size: 12px;
             font-weight: 700;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: var(--accent);
         }
-        
-        header h1 a {
-            color: white;
-            text-decoration: none;
-            transition: opacity 0.3s;
+
+        h1 {
+            margin: 0;
+            font-size: clamp(2.4rem, 4vw, 4.6rem);
+            line-height: 0.95;
+            letter-spacing: -0.04em;
+            max-width: 12ch;
         }
-        
-        header h1 a:hover {
-            opacity: 0.8;
+
+        .summary {
+            max-width: 880px;
+            margin: 18px 0 0;
+            color: var(--muted);
+            font-size: 1.02rem;
+            line-height: 1.7;
+            position: relative;
+            z-index: 1;
         }
-        
-        .meta-info {
-            background: #f8f9fa;
-            padding: 20px 30px;
-            border-bottom: 1px solid #dee2e6;
+
+        .summary strong {
+            color: var(--accent-deep);
+        }
+
+        .table-toolbar {
             display: flex;
-            justify-content: space-between;
             align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
+            justify-content: space-between;
+            gap: 14px;
+            margin-bottom: 14px;
+            color: var(--muted);
+            font-size: 0.92rem;
         }
-        
-        .meta-info .badge {
-            background: #667eea;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.9em;
-            font-weight: 600;
+
+        .toolbar-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 9px 14px;
+            border: 1px solid var(--line);
+            border-radius: 999px;
+            background: rgba(255, 253, 249, 0.85);
         }
-        
-        .constants {
-            font-size: 0.9em;
-            color: #666;
-            font-family: 'Courier New', monospace;
+
+        .toolbar-pill strong {
+            color: var(--accent-deep);
         }
-        
-        .content {
-            padding: 30px;
-        }
-        
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-            font-size: 0.95em;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            border-radius: 8px;
+
+        .table-card {
+            margin-top: 24px;
+            padding: 18px;
+            border: 1px solid var(--line);
+            border-radius: 24px;
+            background: var(--panel);
+            box-shadow: var(--shadow);
             overflow: hidden;
+            backdrop-filter: blur(12px);
         }
-        
-        thead tr {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            text-align: center;
-            font-weight: 600;
+
+        .table-scroll {
+            overflow-x: auto;
+            border-radius: 18px;
+            background: var(--panel-strong);
+            border: 1px solid var(--line);
         }
-        
-        th, td {
-            padding: 12px 15px;
-            text-align: center;
+
+        table.stats-table {
+            width: 100%;
+            min-width: 980px;
+            border-collapse: separate;
+            border-spacing: 0;
+            font-size: 0.95rem;
         }
-        
-        tbody tr {
-            border-bottom: 1px solid #dee2e6;
-            transition: background-color 0.2s;
+
+        table.stats-table thead th {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+            padding: 0;
+            text-align: left;
+            font-size: 0.8rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            background: var(--header);
+            border-bottom: 1px solid var(--line-strong);
+            white-space: nowrap;
         }
-        
-        tbody tr:nth-of-type(even) {
-            background-color: #f8f9fa;
-        }
-        
-        tbody tr:hover {
-            background-color: #e9ecef;
+
+        .sort-button {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            width: 100%;
+            padding: 16px 14px;
+            border: 0;
+            background: transparent;
+            color: var(--muted);
+            font: inherit;
+            text-transform: inherit;
+            letter-spacing: inherit;
             cursor: pointer;
         }
-        
-        tbody tr:last-of-type {
-            border-bottom: 2px solid #667eea;
+
+        .sort-button:hover,
+        .sort-button:focus-visible {
+            color: var(--accent-deep);
+            background: rgba(255, 250, 242, 0.72);
+            outline: none;
         }
-        
-        .name-col {
-            text-align: left !important;
-            font-weight: 600;
-            color: #2a5298;
+
+        .sort-indicator {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 1.1rem;
+            color: rgba(117, 97, 77, 0.9);
+            font-size: 0.72rem;
         }
-        
-        .team-col {
-            text-align: center !important;
-            font-weight: 500;
-            color: #666;
+
+        th.is-sorted .sort-button {
+            color: var(--accent-deep);
+            background: rgba(255, 250, 242, 0.85);
         }
-        
-        footer {
-            background: #f8f9fa;
-            padding: 20px 30px;
-            text-align: center;
-            border-top: 1px solid #dee2e6;
+
+        table.stats-table tbody td {
+            padding: 14px;
+            border-bottom: 1px solid var(--line);
+            white-space: nowrap;
         }
-        
-        footer a {
-            color: #667eea;
-            text-decoration: none;
-            font-weight: 600;
-            transition: color 0.3s;
+
+        table.stats-table tbody tr:nth-child(even) td {
+            background: var(--row-alt);
         }
-        
-        footer a:hover {
-            color: #764ba2;
+
+        table.stats-table tbody tr:hover td {
+            background: var(--row-hover);
         }
-        
-        .stat-positive {
-            color: #28a745;
-            font-weight: 600;
+
+        table.stats-table tbody tr:last-child td {
+            border-bottom: none;
         }
-        
-        .stat-negative {
-            color: #dc3545;
-            font-weight: 600;
+
+        table.stats-table thead th:first-child,
+        table.stats-table tbody td:first-child {
+            padding-left: 20px;
         }
-        
-        @media (max-width: 768px) {
-            body {
-                padding: 10px;
+
+        table.stats-table thead th:last-child,
+        table.stats-table tbody td:last-child {
+            padding-right: 20px;
+        }
+
+        table.stats-table tbody td:first-child {
+            font-weight: 700;
+        }
+
+        table.stats-table thead th:not(:first-child),
+        table.stats-table tbody td:not(:first-child) {
+            text-align: right;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .footer-note {
+            margin-top: 14px;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 720px) {
+            .page {
+                width: min(100vw - 20px, 1320px);
+                padding: 20px 0 28px;
             }
-            
-            header h1 {
-                font-size: 1.8em;
+
+            .hero {
+                padding: 24px 20px 20px;
+                border-radius: 22px;
             }
-            
-            .meta-info {
-                flex-direction: column;
+
+            .table-card {
+                padding: 12px;
+                border-radius: 20px;
+            }
+
+            .table-toolbar {
                 align-items: flex-start;
+                flex-direction: column;
             }
-            
-            table {
-                font-size: 0.85em;
-            }
-            
-            th, td {
-                padding: 8px 10px;
+
+            table.stats-table {
+                min-width: 820px;
+                font-size: 0.9rem;
             }
         }
     </style>
-    
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1><a href="https://2Skupz.github.io/index.html">Baseball Statistics</a></h1>
-        </header>
-        
-        <div class="meta-info">
-            <div>
-                
-                <span class="badge">Min PA: 36</span>
-                <span class="badge">Compiled April 07, 2026 at 06:10</span>
-                
+    <main class="page">
+        <section class="hero">
+            <p class="eyebrow">Current Season</p>
+            <h1>2026 3TO wOBA Batters</h1>
+            <p class="summary">3TO wOBA built from local mlbRepo player exports using MLB Stats API counting stats, Baseball Savant quality metrics, and FanGraphs Guts constants.<br>Compiled April 13, 2026 at 16:39<br>Constants: HR 2.135 | BIP 0.290 | BB 0.709 | HBP 0.742<br>Minimum 54 PA</p>
+        </section>
+        <section class="table-card">
+            <div class="table-toolbar">
+                <div class="toolbar-pill"><strong>Interactive table</strong> Click any column header to sort.</div>
+                <div class="toolbar-pill">Tip: numeric columns toggle high-to-low and low-to-high.</div>
             </div>
-            <div class="constants">
-                Constants: | HR: 2.110 | BIP: 0.287 | BB: 0.707 | K: 0 |
-            </div>
-        </div>
-        
-        <div class="content">
-            <table>
-<thead><tr>
-<th>Name</th>
-<th>Team</th>
-<th>PA</th>
-<th>H</th>
-<th>Outs</th>
-<th>SO</th>
-<th>BB</th>
-<th>HBP</th>
-<th>BIP3</th>
-<th>BABIP</th>
-<th>HR</th>
-<th>R/PA</th>
-<th>wOBA</th>
-<th>xwOBA</th>
-<th>fwOBA</th>
-<th>dwOBA3</th>
-</tr></thead>
-<tbody>
-<tr>
-<td class="name-col">Yordan Alvarez</td>
-<td class="team-col">HOU</td>
-<td>50</td>
-<td>12</td>
-<td>22</td>
-<td>7</td>
-<td>13</td>
-<td>2</td>
-<td>24</td>
-<td>0.333</td>
-<td>4</td>
-<td>0.289</td>
-<td>0.536</td>
-<td>0.615</td>
-<td>0.575</td>
-<td>0.520</td>
-</tr>
-<tr>
-<td class="name-col">Chase DeLauter</td>
-<td class="team-col">CLE</td>
-<td>39</td>
-<td>10</td>
-<td>26</td>
-<td>9</td>
-<td>3</td>
-<td>0</td>
-<td>22</td>
-<td>0.227</td>
-<td>5</td>
-<td>0.215</td>
-<td>0.441</td>
-<td>0.397</td>
-<td>0.472</td>
-<td>0.487</td>
-</tr>
-<tr>
-<td class="name-col">Drake Baldwin</td>
-<td class="team-col">ATL</td>
-<td>49</td>
-<td>14</td>
-<td>32</td>
-<td>5</td>
-<td>4</td>
-<td>1</td>
-<td>34</td>
-<td>0.265</td>
-<td>5</td>
-<td>0.232</td>
-<td>0.462</td>
-<td>0.461</td>
-<td>0.474</td>
-<td>0.487</td>
-</tr>
-<tr>
-<td class="name-col">CJ Abrams</td>
-<td class="team-col">WSN</td>
-<td>41</td>
-<td>10</td>
-<td>26</td>
-<td>7</td>
-<td>5</td>
-<td>1</td>
-<td>24</td>
-<td>0.250</td>
-<td>4</td>
-<td>0.217</td>
-<td>0.443</td>
-<td>0.376</td>
-<td>0.472</td>
-<td>0.478</td>
-</tr>
-<tr>
-<td class="name-col">Ben Rice</td>
-<td class="team-col">NYY</td>
-<td>36</td>
-<td>10</td>
-<td>17</td>
-<td>9</td>
-<td>9</td>
-<td>0</td>
-<td>15</td>
-<td>0.467</td>
-<td>3</td>
-<td>0.317</td>
-<td>0.571</td>
-<td>0.514</td>
-<td>0.517</td>
-<td>0.472</td>
-</tr>
-<tr>
-<td class="name-col">Shea Langeliers</td>
-<td class="team-col">ATH</td>
-<td>39</td>
-<td>11</td>
-<td>27</td>
-<td>12</td>
-<td>3</td>
-<td>0</td>
-<td>19</td>
-<td>0.316</td>
-<td>5</td>
-<td>0.233</td>
-<td>0.464</td>
-<td>0.373</td>
-<td>0.450</td>
-<td>0.465</td>
-</tr>
-<tr>
-<td class="name-col">Brandon Lowe</td>
-<td class="team-col">PIT</td>
-<td>40</td>
-<td>9</td>
-<td>24</td>
-<td>6</td>
-<td>7</td>
-<td>0</td>
-<td>24</td>
-<td>0.250</td>
-<td>3</td>
-<td>0.212</td>
-<td>0.437</td>
-<td>0.362</td>
-<td>0.461</td>
-<td>0.454</td>
-</tr>
-<tr>
-<td class="name-col">Ryan O'Hearn</td>
-<td class="team-col">PIT</td>
-<td>41</td>
-<td>12</td>
-<td>23</td>
-<td>7</td>
-<td>7</td>
-<td>0</td>
-<td>24</td>
-<td>0.375</td>
-<td>3</td>
-<td>0.251</td>
-<td>0.487</td>
-<td>0.408</td>
-<td>0.461</td>
-<td>0.443</td>
-</tr>
-<tr>
-<td class="name-col">Munetaka Murakami</td>
-<td class="team-col">CHW</td>
-<td>42</td>
-<td>7</td>
-<td>27</td>
-<td>13</td>
-<td>7</td>
-<td>0</td>
-<td>18</td>
-<td>0.167</td>
-<td>4</td>
-<td>0.165</td>
-<td>0.376</td>
-<td>0.362</td>
-<td>0.442</td>
-<td>0.442</td>
-</tr>
-<tr>
-<td class="name-col">Zach Neto</td>
-<td class="team-col">LAA</td>
-<td>51</td>
-<td>10</td>
-<td>34</td>
-<td>12</td>
-<td>8</td>
-<td>0</td>
-<td>27</td>
-<td>0.222</td>
-<td>4</td>
-<td>0.177</td>
-<td>0.392</td>
-<td>0.315</td>
-<td>0.426</td>
-<td>0.429</td>
-</tr>
-<tr>
-<td class="name-col">Jose Altuve</td>
-<td class="team-col">HOU</td>
-<td>49</td>
-<td>14</td>
-<td>25</td>
-<td>7</td>
-<td>12</td>
-<td>0</td>
-<td>28</td>
-<td>0.429</td>
-<td>2</td>
-<td>0.271</td>
-<td>0.512</td>
-<td>0.444</td>
-<td>0.455</td>
-<td>0.423</td>
-</tr>
-<tr>
-<td class="name-col">Freddie Freeman</td>
-<td class="team-col">LAD</td>
-<td>45</td>
-<td>11</td>
-<td>32</td>
-<td>3</td>
-<td>2</td>
-<td>1</td>
-<td>36</td>
-<td>0.222</td>
-<td>3</td>
-<td>0.171</td>
-<td>0.384</td>
-<td>0.445</td>
-<td>0.408</td>
-<td>0.418</td>
-</tr>
-<tr>
-<td class="name-col">Cam Smith</td>
-<td class="team-col">HOU</td>
-<td>45</td>
-<td>11</td>
-<td>26</td>
-<td>11</td>
-<td>7</td>
-<td>1</td>
-<td>23</td>
-<td>0.348</td>
-<td>3</td>
-<td>0.218</td>
-<td>0.445</td>
-<td>0.372</td>
-<td>0.429</td>
-<td>0.414</td>
-</tr>
-<tr>
-<td class="name-col">Sal Stewart</td>
-<td class="team-col">CIN</td>
-<td>42</td>
-<td>12</td>
-<td>23</td>
-<td>6</td>
-<td>8</td>
-<td>0</td>
-<td>26</td>
-<td>0.385</td>
-<td>2</td>
-<td>0.244</td>
-<td>0.478</td>
-<td>0.480</td>
-<td>0.435</td>
-<td>0.413</td>
-</tr>
-<tr>
-<td class="name-col">Mike Trout</td>
-<td class="team-col">LAA</td>
-<td>46</td>
-<td>7</td>
-<td>27</td>
-<td>12</td>
-<td>11</td>
-<td>2</td>
-<td>19</td>
-<td>0.263</td>
-<td>2</td>
-<td>0.178</td>
-<td>0.393</td>
-<td>0.436</td>
-<td>0.425</td>
-<td>0.412</td>
-</tr>
-<tr>
-<td class="name-col">Corey Seager</td>
-<td class="team-col">TEX</td>
-<td>44</td>
-<td>10</td>
-<td>27</td>
-<td>10</td>
-<td>6</td>
-<td>0</td>
-<td>25</td>
-<td>0.280</td>
-<td>3</td>
-<td>0.165</td>
-<td>0.377</td>
-<td>0.360</td>
-<td>0.413</td>
-<td>0.404</td>
-</tr>
-<tr>
-<td class="name-col">Oneil Cruz</td>
-<td class="team-col">PIT</td>
-<td>42</td>
-<td>12</td>
-<td>28</td>
-<td>13</td>
-<td>2</td>
-<td>1</td>
-<td>22</td>
-<td>0.364</td>
-<td>4</td>
-<td>0.203</td>
-<td>0.425</td>
-<td>0.436</td>
-<td>0.403</td>
-<td>0.403</td>
-</tr>
-<tr>
-<td class="name-col">Willson Contreras</td>
-<td class="team-col">BOS</td>
-<td>44</td>
-<td>8</td>
-<td>28</td>
-<td>10</td>
-<td>8</td>
-<td>2</td>
-<td>22</td>
-<td>0.273</td>
-<td>2</td>
-<td>0.176</td>
-<td>0.390</td>
-<td>0.337</td>
-<td>0.406</td>
-<td>0.402</td>
-</tr>
-<tr>
-<td class="name-col">Kyle Schwarber</td>
-<td class="team-col">PHI</td>
-<td>46</td>
-<td>6</td>
-<td>29</td>
-<td>17</td>
-<td>9</td>
-<td>2</td>
-<td>15</td>
-<td>0.200</td>
-<td>3</td>
-<td>0.171</td>
-<td>0.384</td>
-<td>0.429</td>
-<td>0.408</td>
-<td>0.402</td>
-</tr>
-<tr>
-<td class="name-col">Brendan Donovan</td>
-<td class="team-col">SEA</td>
-<td>37</td>
-<td>10</td>
-<td>22</td>
-<td>7</td>
-<td>4</td>
-<td>2</td>
-<td>22</td>
-<td>0.364</td>
-<td>2</td>
-<td>0.220</td>
-<td>0.447</td>
-<td>0.379</td>
-<td>0.413</td>
-<td>0.401</td>
-</tr>
-<tr>
-<td class="name-col">Cody Bellinger</td>
-<td class="team-col">NYY</td>
-<td>40</td>
-<td>8</td>
-<td>23</td>
-<td>4</td>
-<td>9</td>
-<td>0</td>
-<td>26</td>
-<td>0.269</td>
-<td>1</td>
-<td>0.182</td>
-<td>0.398</td>
-<td>0.410</td>
-<td>0.415</td>
-<td>0.399</td>
-</tr>
-<tr>
-<td class="name-col">Shohei Ohtani</td>
-<td class="team-col">LAD</td>
-<td>49</td>
-<td>11</td>
-<td>30</td>
-<td>12</td>
-<td>7</td>
-<td>1</td>
-<td>26</td>
-<td>0.308</td>
-<td>3</td>
-<td>0.184</td>
-<td>0.401</td>
-<td>0.445</td>
-<td>0.407</td>
-<td>0.398</td>
-</tr>
-<tr>
-<td class="name-col">Andy Pages</td>
-<td class="team-col">LAD</td>
-<td>40</td>
-<td>18</td>
-<td>20</td>
-<td>7</td>
-<td>2</td>
-<td>0</td>
-<td>28</td>
-<td>0.536</td>
-<td>3</td>
-<td>0.310</td>
-<td>0.562</td>
-<td>0.402</td>
-<td>0.427</td>
-<td>0.395</td>
-</tr>
-<tr>
-<td class="name-col">Jonathan Aranda</td>
-<td class="team-col">TBR</td>
-<td>48</td>
-<td>9</td>
-<td>33</td>
-<td>10</td>
-<td>6</td>
-<td>0</td>
-<td>29</td>
-<td>0.207</td>
-<td>3</td>
-<td>0.144</td>
-<td>0.349</td>
-<td>0.373</td>
-<td>0.393</td>
-<td>0.394</td>
-</tr>
-<tr>
-<td class="name-col">Vladimir Guerrero Jr.</td>
-<td class="team-col">TOR</td>
-<td>43</td>
-<td>9</td>
-<td>25</td>
-<td>4</td>
-<td>8</td>
-<td>1</td>
-<td>29</td>
-<td>0.276</td>
-<td>1</td>
-<td>0.144</td>
-<td>0.350</td>
-<td>0.419</td>
-<td>0.406</td>
-<td>0.392</td>
-</tr>
-<tr>
-<td class="name-col">Jordan Walker</td>
-<td class="team-col">STL</td>
-<td>39</td>
-<td>11</td>
-<td>24</td>
-<td>11</td>
-<td>4</td>
-<td>0</td>
-<td>21</td>
-<td>0.381</td>
-<td>3</td>
-<td>0.215</td>
-<td>0.440</td>
-<td>0.420</td>
-<td>0.400</td>
-<td>0.390</td>
-</tr>
-<tr>
-<td class="name-col">Junior Caminero</td>
-<td class="team-col">TBR</td>
-<td>46</td>
-<td>10</td>
-<td>30</td>
-<td>7</td>
-<td>7</td>
-<td>0</td>
-<td>30</td>
-<td>0.267</td>
-<td>2</td>
-<td>0.156</td>
-<td>0.365</td>
-<td>0.386</td>
-<td>0.391</td>
-<td>0.387</td>
-</tr>
-<tr>
-<td class="name-col">Luis Robert Jr.</td>
-<td class="team-col">NYM</td>
-<td>38</td>
-<td>10</td>
-<td>22</td>
-<td>5</td>
-<td>8</td>
-<td>0</td>
-<td>24</td>
-<td>0.375</td>
-<td>1</td>
-<td>0.198</td>
-<td>0.419</td>
-<td>0.404</td>
-<td>0.401</td>
-<td>0.386</td>
-</tr>
-<tr>
-<td class="name-col">Corbin Carroll</td>
-<td class="team-col">ARI</td>
-<td>39</td>
-<td>10</td>
-<td>22</td>
-<td>8</td>
-<td>6</td>
-<td>0</td>
-<td>23</td>
-<td>0.348</td>
-<td>2</td>
-<td>0.222</td>
-<td>0.450</td>
-<td>0.436</td>
-<td>0.405</td>
-<td>0.386</td>
-</tr>
-<tr>
-<td class="name-col">Brayan Rocchio</td>
-<td class="team-col">CLE</td>
-<td>38</td>
-<td>6</td>
-<td>26</td>
-<td>4</td>
-<td>5</td>
-<td>2</td>
-<td>26</td>
-<td>0.200</td>
-<td>1</td>
-<td>0.125</td>
-<td>0.325</td>
-<td>0.356</td>
-<td>0.382</td>
-<td>0.384</td>
-</tr>
-<tr>
-<td class="name-col">Ian Happ</td>
-<td class="team-col">CHC</td>
-<td>45</td>
-<td>8</td>
-<td>33</td>
-<td>18</td>
-<td>5</td>
-<td>0</td>
-<td>18</td>
-<td>0.222</td>
-<td>4</td>
-<td>0.155</td>
-<td>0.364</td>
-<td>0.295</td>
-<td>0.377</td>
-<td>0.381</td>
-</tr>
-<tr>
-<td class="name-col">Gleyber Torres</td>
-<td class="team-col">DET</td>
-<td>46</td>
-<td>7</td>
-<td>28</td>
-<td>9</td>
-<td>12</td>
-<td>0</td>
-<td>24</td>
-<td>0.250</td>
-<td>1</td>
-<td>0.143</td>
-<td>0.348</td>
-<td>0.335</td>
-<td>0.391</td>
-<td>0.380</td>
-</tr>
-<tr>
-<td class="name-col">Nolan Schanuel</td>
-<td class="team-col">LAA</td>
-<td>42</td>
-<td>9</td>
-<td>32</td>
-<td>5</td>
-<td>4</td>
-<td>0</td>
-<td>31</td>
-<td>0.226</td>
-<td>2</td>
-<td>0.127</td>
-<td>0.328</td>
-<td>0.321</td>
-<td>0.371</td>
-<td>0.380</td>
-</tr>
-<tr>
-<td class="name-col">Josh Bell</td>
-<td class="team-col">MIN</td>
-<td>39</td>
-<td>6</td>
-<td>24</td>
-<td>12</td>
-<td>7</td>
-<td>1</td>
-<td>17</td>
-<td>0.235</td>
-<td>2</td>
-<td>0.165</td>
-<td>0.376</td>
-<td>0.344</td>
-<td>0.389</td>
-<td>0.379</td>
-</tr>
-<tr>
-<td class="name-col">Yandy Diaz</td>
-<td class="team-col">TBR</td>
-<td>47</td>
-<td>17</td>
-<td>25</td>
-<td>7</td>
-<td>4</td>
-<td>2</td>
-<td>32</td>
-<td>0.469</td>
-<td>2</td>
-<td>0.257</td>
-<td>0.494</td>
-<td>0.419</td>
-<td>0.399</td>
-<td>0.377</td>
-</tr>
-<tr>
-<td class="name-col">Alex Bregman</td>
-<td class="team-col">CHC</td>
-<td>45</td>
-<td>6</td>
-<td>35</td>
-<td>6</td>
-<td>5</td>
-<td>0</td>
-<td>32</td>
-<td>0.125</td>
-<td>2</td>
-<td>0.069</td>
-<td>0.253</td>
-<td>0.329</td>
-<td>0.367</td>
-<td>0.377</td>
-</tr>
-<tr>
-<td class="name-col">Aaron Judge</td>
-<td class="team-col">NYY</td>
-<td>40</td>
-<td>9</td>
-<td>29</td>
-<td>13</td>
-<td>3</td>
-<td>1</td>
-<td>20</td>
-<td>0.300</td>
-<td>3</td>
-<td>0.164</td>
-<td>0.375</td>
-<td>0.366</td>
-<td>0.370</td>
-<td>0.373</td>
-</tr>
-<tr>
-<td class="name-col">Salvador Perez</td>
-<td class="team-col">KCR</td>
-<td>41</td>
-<td>7</td>
-<td>32</td>
-<td>5</td>
-<td>3</td>
-<td>0</td>
-<td>31</td>
-<td>0.161</td>
-<td>2</td>
-<td>0.084</td>
-<td>0.273</td>
-<td>0.355</td>
-<td>0.363</td>
-<td>0.372</td>
-</tr>
-<tr>
-<td class="name-col">Manny Machado</td>
-<td class="team-col">SDP</td>
-<td>41</td>
-<td>7</td>
-<td>26</td>
-<td>9</td>
-<td>10</td>
-<td>0</td>
-<td>21</td>
-<td>0.286</td>
-<td>1</td>
-<td>0.164</td>
-<td>0.375</td>
-<td>0.382</td>
-<td>0.379</td>
-<td>0.371</td>
-</tr>
-<tr>
-<td class="name-col">William Contreras</td>
-<td class="team-col">MIL</td>
-<td>42</td>
-<td>9</td>
-<td>25</td>
-<td>6</td>
-<td>8</td>
-<td>0</td>
-<td>27</td>
-<td>0.296</td>
-<td>1</td>
-<td>0.172</td>
-<td>0.386</td>
-<td>0.409</td>
-<td>0.382</td>
-<td>0.370</td>
-</tr>
-<tr>
-<td class="name-col">Wilyer Abreu</td>
-<td class="team-col">BOS</td>
-<td>41</td>
-<td>16</td>
-<td>24</td>
-<td>9</td>
-<td>1</td>
-<td>0</td>
-<td>28</td>
-<td>0.464</td>
-<td>3</td>
-<td>0.272</td>
-<td>0.514</td>
-<td>0.395</td>
-<td>0.382</td>
-<td>0.368</td>
-</tr>
-<tr>
-<td class="name-col">Alec Burleson</td>
-<td class="team-col">STL</td>
-<td>45</td>
-<td>8</td>
-<td>31</td>
-<td>4</td>
-<td>7</td>
-<td>0</td>
-<td>33</td>
-<td>0.212</td>
-<td>1</td>
-<td>0.110</td>
-<td>0.306</td>
-<td>0.395</td>
-<td>0.368</td>
-<td>0.368</td>
-</tr>
-<tr>
-<td class="name-col">T.J. Rumfield</td>
-<td class="team-col">COL</td>
-<td>36</td>
-<td>12</td>
-<td>22</td>
-<td>7</td>
-<td>3</td>
-<td>0</td>
-<td>24</td>
-<td>0.417</td>
-<td>2</td>
-<td>0.229</td>
-<td>0.459</td>
-<td>0.352</td>
-<td>0.378</td>
-<td>0.368</td>
-</tr>
-<tr>
-<td class="name-col">Andres Gimenez</td>
-<td class="team-col">TOR</td>
-<td>40</td>
-<td>9</td>
-<td>28</td>
-<td>6</td>
-<td>3</td>
-<td>0</td>
-<td>29</td>
-<td>0.241</td>
-<td>2</td>
-<td>0.133</td>
-<td>0.335</td>
-<td>0.308</td>
-<td>0.366</td>
-<td>0.367</td>
-</tr>
-<tr>
-<td class="name-col">Christian Walker</td>
-<td class="team-col">HOU</td>
-<td>47</td>
-<td>14</td>
-<td>28</td>
-<td>7</td>
-<td>5</td>
-<td>0</td>
-<td>33</td>
-<td>0.364</td>
-<td>2</td>
-<td>0.215</td>
-<td>0.440</td>
-<td>0.395</td>
-<td>0.379</td>
-<td>0.367</td>
-</tr>
-<tr>
-<td class="name-col">Gunnar Henderson</td>
-<td class="team-col">BAL</td>
-<td>46</td>
-<td>9</td>
-<td>34</td>
-<td>14</td>
-<td>4</td>
-<td>1</td>
-<td>24</td>
-<td>0.250</td>
-<td>3</td>
-<td>0.144</td>
-<td>0.350</td>
-<td>0.331</td>
-<td>0.361</td>
-<td>0.365</td>
-</tr>
-<tr>
-<td class="name-col">Bryce Harper</td>
-<td class="team-col">PHI</td>
-<td>44</td>
-<td>8</td>
-<td>33</td>
-<td>7</td>
-<td>4</td>
-<td>0</td>
-<td>31</td>
-<td>0.194</td>
-<td>2</td>
-<td>0.113</td>
-<td>0.310</td>
-<td>0.320</td>
-<td>0.358</td>
-<td>0.363</td>
-</tr>
-<tr>
-<td class="name-col">Sal Frelick</td>
-<td class="team-col">MIL</td>
-<td>37</td>
-<td>7</td>
-<td>24</td>
-<td>7</td>
-<td>6</td>
-<td>1</td>
-<td>22</td>
-<td>0.273</td>
-<td>1</td>
-<td>0.144</td>
-<td>0.349</td>
-<td>0.341</td>
-<td>0.367</td>
-<td>0.363</td>
-</tr>
-<tr>
-<td class="name-col">Jackson Merrill</td>
-<td class="team-col">SDP</td>
-<td>39</td>
-<td>9</td>
-<td>30</td>
-<td>7</td>
-<td>3</td>
-<td>0</td>
-<td>27</td>
-<td>0.259</td>
-<td>2</td>
-<td>0.140</td>
-<td>0.345</td>
-<td>0.334</td>
-<td>0.355</td>
-<td>0.362</td>
-</tr>
-<tr>
-<td class="name-col">James Wood</td>
-<td class="team-col">WSN</td>
-<td>50</td>
-<td>7</td>
-<td>37</td>
-<td>17</td>
-<td>7</td>
-<td>0</td>
-<td>23</td>
-<td>0.174</td>
-<td>3</td>
-<td>0.122</td>
-<td>0.321</td>
-<td>0.315</td>
-<td>0.355</td>
-<td>0.358</td>
-</tr>
-<tr>
-<td class="name-col">Geraldo Perdomo</td>
-<td class="team-col">ARI</td>
-<td>38</td>
-<td>6</td>
-<td>33</td>
-<td>2</td>
-<td>3</td>
-<td>0</td>
-<td>32</td>
-<td>0.161</td>
-<td>1</td>
-<td>0.073</td>
-<td>0.258</td>
-<td>0.288</td>
-<td>0.340</td>
-<td>0.353</td>
-</tr>
-<tr>
-<td class="name-col">Maikel Garcia</td>
-<td class="team-col">KCR</td>
-<td>45</td>
-<td>13</td>
-<td>26</td>
-<td>5</td>
-<td>6</td>
-<td>0</td>
-<td>33</td>
-<td>0.364</td>
-<td>1</td>
-<td>0.197</td>
-<td>0.417</td>
-<td>0.419</td>
-<td>0.365</td>
-<td>0.352</td>
-</tr>
-<tr>
-<td class="name-col">Mauricio Dubon</td>
-<td class="team-col">ATL</td>
-<td>38</td>
-<td>12</td>
-<td>25</td>
-<td>7</td>
-<td>2</td>
-<td>0</td>
-<td>27</td>
-<td>0.370</td>
-<td>2</td>
-<td>0.189</td>
-<td>0.407</td>
-<td>0.301</td>
-<td>0.357</td>
-<td>0.352</td>
-</tr>
-<tr>
-<td class="name-col">Ramon Laureano</td>
-<td class="team-col">SDP</td>
-<td>38</td>
-<td>9</td>
-<td>28</td>
-<td>7</td>
-<td>2</td>
-<td>0</td>
-<td>27</td>
-<td>0.259</td>
-<td>2</td>
-<td>0.133</td>
-<td>0.335</td>
-<td>0.372</td>
-<td>0.350</td>
-<td>0.352</td>
-</tr>
-<tr>
-<td class="name-col">Jake Bauers</td>
-<td class="team-col">MIL</td>
-<td>37</td>
-<td>7</td>
-<td>29</td>
-<td>9</td>
-<td>3</td>
-<td>0</td>
-<td>23</td>
-<td>0.217</td>
-<td>2</td>
-<td>0.108</td>
-<td>0.304</td>
-<td>0.271</td>
-<td>0.344</td>
-<td>0.350</td>
-</tr>
-<tr>
-<td class="name-col">Miguel Vargas</td>
-<td class="team-col">CHW</td>
-<td>40</td>
-<td>8</td>
-<td>24</td>
-<td>8</td>
-<td>6</td>
-<td>1</td>
-<td>24</td>
-<td>0.292</td>
-<td>1</td>
-<td>0.170</td>
-<td>0.383</td>
-<td>0.360</td>
-<td>0.360</td>
-<td>0.350</td>
-</tr>
-<tr>
-<td class="name-col">Ozzie Albies</td>
-<td class="team-col">ATL</td>
-<td>46</td>
-<td>12</td>
-<td>33</td>
-<td>7</td>
-<td>3</td>
-<td>0</td>
-<td>34</td>
-<td>0.294</td>
-<td>2</td>
-<td>0.133</td>
-<td>0.335</td>
-<td>0.298</td>
-<td>0.349</td>
-<td>0.350</td>
-</tr>
-<tr>
-<td class="name-col">Elly De La Cruz</td>
-<td class="team-col">CIN</td>
-<td>44</td>
-<td>11</td>
-<td>31</td>
-<td>14</td>
-<td>3</td>
-<td>0</td>
-<td>24</td>
-<td>0.333</td>
-<td>3</td>
-<td>0.156</td>
-<td>0.365</td>
-<td>0.313</td>
-<td>0.350</td>
-<td>0.349</td>
-</tr>
-<tr>
-<td class="name-col">Randy Arozarena</td>
-<td class="team-col">SEA</td>
-<td>47</td>
-<td>11</td>
-<td>26</td>
-<td>5</td>
-<td>8</td>
-<td>2</td>
-<td>32</td>
-<td>0.344</td>
-<td>0</td>
-<td>0.174</td>
-<td>0.388</td>
-<td>0.397</td>
-<td>0.361</td>
-<td>0.347</td>
-</tr>
-<tr>
-<td class="name-col">Brice Turang</td>
-<td class="team-col">MIL</td>
-<td>47</td>
-<td>10</td>
-<td>29</td>
-<td>10</td>
-<td>9</td>
-<td>0</td>
-<td>27</td>
-<td>0.346</td>
-<td>1</td>
-<td>0.186</td>
-<td>0.404</td>
-<td>0.362</td>
-<td>0.354</td>
-<td>0.345</td>
-</tr>
-<tr>
-<td class="name-col">Adolis Garcia</td>
-<td class="team-col">PHI</td>
-<td>41</td>
-<td>10</td>
-<td>27</td>
-<td>9</td>
-<td>2</td>
-<td>1</td>
-<td>27</td>
-<td>0.296</td>
-<td>2</td>
-<td>0.145</td>
-<td>0.351</td>
-<td>0.338</td>
-<td>0.348</td>
-<td>0.345</td>
-</tr>
-<tr>
-<td class="name-col">Alec Bohm</td>
-<td class="team-col">PHI</td>
-<td>44</td>
-<td>8</td>
-<td>32</td>
-<td>5</td>
-<td>4</td>
-<td>1</td>
-<td>33</td>
-<td>0.212</td>
-<td>1</td>
-<td>0.091</td>
-<td>0.282</td>
-<td>0.313</td>
-<td>0.342</td>
-<td>0.345</td>
-</tr>
-<tr>
-<td class="name-col">Carlos Correa</td>
-<td class="team-col">HOU</td>
-<td>48</td>
-<td>11</td>
-<td>34</td>
-<td>6</td>
-<td>6</td>
-<td>0</td>
-<td>35</td>
-<td>0.286</td>
-<td>1</td>
-<td>0.128</td>
-<td>0.329</td>
-<td>0.355</td>
-<td>0.342</td>
-<td>0.342</td>
-</tr>
-<tr>
-<td class="name-col">George Springer</td>
-<td class="team-col">TOR</td>
-<td>46</td>
-<td>6</td>
-<td>34</td>
-<td>13</td>
-<td>6</td>
-<td>0</td>
-<td>25</td>
-<td>0.160</td>
-<td>2</td>
-<td>0.083</td>
-<td>0.271</td>
-<td>0.281</td>
-<td>0.339</td>
-<td>0.340</td>
-</tr>
-<tr>
-<td class="name-col">Bryan Reynolds</td>
-<td class="team-col">PIT</td>
-<td>46</td>
-<td>9</td>
-<td>31</td>
-<td>13</td>
-<td>6</td>
-<td>0</td>
-<td>25</td>
-<td>0.280</td>
-<td>2</td>
-<td>0.129</td>
-<td>0.330</td>
-<td>0.347</td>
-<td>0.344</td>
-<td>0.340</td>
-</tr>
-<tr>
-<td class="name-col">JJ Wetherholt</td>
-<td class="team-col">STL</td>
-<td>44</td>
-<td>10</td>
-<td>26</td>
-<td>9</td>
-<td>6</td>
-<td>1</td>
-<td>27</td>
-<td>0.333</td>
-<td>1</td>
-<td>0.141</td>
-<td>0.346</td>
-<td>0.324</td>
-<td>0.347</td>
-<td>0.337</td>
-</tr>
-<tr>
-<td class="name-col">Nico Hoerner</td>
-<td class="team-col">CHC</td>
-<td>43</td>
-<td>9</td>
-<td>25</td>
-<td>6</td>
-<td>7</td>
-<td>2</td>
-<td>28</td>
-<td>0.321</td>
-<td>0</td>
-<td>0.171</td>
-<td>0.384</td>
-<td>0.383</td>
-<td>0.346</td>
-<td>0.337</td>
-</tr>
-<tr>
-<td class="name-col">Francisco Lindor</td>
-<td class="team-col">NYM</td>
-<td>48</td>
-<td>5</td>
-<td>32</td>
-<td>8</td>
-<td>10</td>
-<td>1</td>
-<td>29</td>
-<td>0.172</td>
-<td>0</td>
-<td>0.095</td>
-<td>0.287</td>
-<td>0.353</td>
-<td>0.339</td>
-<td>0.336</td>
-</tr>
-<tr>
-<td class="name-col">Jose Ramirez</td>
-<td class="team-col">CLE</td>
-<td>46</td>
-<td>6</td>
-<td>35</td>
-<td>6</td>
-<td>5</td>
-<td>0</td>
-<td>34</td>
-<td>0.147</td>
-<td>1</td>
-<td>0.057</td>
-<td>0.238</td>
-<td>0.316</td>
-<td>0.331</td>
-<td>0.335</td>
-</tr>
-<tr>
-<td class="name-col">Steven Kwan</td>
-<td class="team-col">CLE</td>
-<td>47</td>
-<td>10</td>
-<td>32</td>
-<td>6</td>
-<td>4</td>
-<td>1</td>
-<td>35</td>
-<td>0.265</td>
-<td>1</td>
-<td>0.119</td>
-<td>0.317</td>
-<td>0.256</td>
-<td>0.336</td>
-<td>0.335</td>
-</tr>
-<tr>
-<td class="name-col">Ivan Herrera</td>
-<td class="team-col">STL</td>
-<td>45</td>
-<td>7</td>
-<td>29</td>
-<td>6</td>
-<td>8</td>
-<td>1</td>
-<td>30</td>
-<td>0.233</td>
-<td>0</td>
-<td>0.097</td>
-<td>0.290</td>
-<td>0.389</td>
-<td>0.337</td>
-<td>0.334</td>
-</tr>
-<tr>
-<td class="name-col">Brady House</td>
-<td class="team-col">WSN</td>
-<td>40</td>
-<td>12</td>
-<td>25</td>
-<td>12</td>
-<td>4</td>
-<td>0</td>
-<td>22</td>
-<td>0.455</td>
-<td>2</td>
-<td>0.207</td>
-<td>0.431</td>
-<td>0.342</td>
-<td>0.342</td>
-<td>0.334</td>
-</tr>
-<tr>
-<td class="name-col">Nolan Gorman</td>
-<td class="team-col">STL</td>
-<td>37</td>
-<td>6</td>
-<td>27</td>
-<td>11</td>
-<td>3</td>
-<td>0</td>
-<td>21</td>
-<td>0.190</td>
-<td>2</td>
-<td>0.081</td>
-<td>0.269</td>
-<td>0.279</td>
-<td>0.334</td>
-<td>0.334</td>
-</tr>
-<tr>
-<td class="name-col">Trent Grisham</td>
-<td class="team-col">NYY</td>
-<td>38</td>
-<td>5</td>
-<td>25</td>
-<td>7</td>
-<td>9</td>
-<td>0</td>
-<td>22</td>
-<td>0.227</td>
-<td>0</td>
-<td>0.118</td>
-<td>0.316</td>
-<td>0.408</td>
-<td>0.338</td>
-<td>0.334</td>
-</tr>
-<tr>
-<td class="name-col">Chase Meidroth</td>
-<td class="team-col">CHW</td>
-<td>38</td>
-<td>8</td>
-<td>26</td>
-<td>8</td>
-<td>5</td>
-<td>0</td>
-<td>24</td>
-<td>0.292</td>
-<td>1</td>
-<td>0.133</td>
-<td>0.336</td>
-<td>0.269</td>
-<td>0.332</td>
-<td>0.330</td>
-</tr>
-<tr>
-<td class="name-col">Ketel Marte</td>
-<td class="team-col">ARI</td>
-<td>42</td>
-<td>7</td>
-<td>31</td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-<td>31</td>
-<td>0.194</td>
-<td>1</td>
-<td>0.078</td>
-<td>0.265</td>
-<td>0.340</td>
-<td>0.328</td>
-<td>0.330</td>
-</tr>
-<tr>
-<td class="name-col">Jake Meyers</td>
-<td class="team-col">HOU</td>
-<td>40</td>
-<td>9</td>
-<td>27</td>
-<td>8</td>
-<td>4</td>
-<td>1</td>
-<td>26</td>
-<td>0.308</td>
-<td>1</td>
-<td>0.138</td>
-<td>0.342</td>
-<td>0.357</td>
-<td>0.330</td>
-<td>0.329</td>
-</tr>
-<tr>
-<td class="name-col">Luke Keaschall</td>
-<td class="team-col">MIN</td>
-<td>44</td>
-<td>9</td>
-<td>30</td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-<td>33</td>
-<td>0.242</td>
-<td>1</td>
-<td>0.094</td>
-<td>0.286</td>
-<td>0.271</td>
-<td>0.329</td>
-<td>0.328</td>
-</tr>
-<tr>
-<td class="name-col">Colson Montgomery</td>
-<td class="team-col">CHW</td>
-<td>39</td>
-<td>7</td>
-<td>28</td>
-<td>13</td>
-<td>4</td>
-<td>0</td>
-<td>20</td>
-<td>0.250</td>
-<td>2</td>
-<td>0.103</td>
-<td>0.297</td>
-<td>0.278</td>
-<td>0.329</td>
-<td>0.328</td>
-</tr>
-<tr>
-<td class="name-col">Kyle Tucker</td>
-<td class="team-col">LAD</td>
-<td>43</td>
-<td>10</td>
-<td>26</td>
-<td>9</td>
-<td>6</td>
-<td>0</td>
-<td>27</td>
-<td>0.333</td>
-<td>1</td>
-<td>0.141</td>
-<td>0.346</td>
-<td>0.304</td>
-<td>0.336</td>
-<td>0.328</td>
-</tr>
-<tr>
-<td class="name-col">Kerry Carpenter</td>
-<td class="team-col">DET</td>
-<td>37</td>
-<td>6</td>
-<td>25</td>
-<td>15</td>
-<td>5</td>
-<td>0</td>
-<td>15</td>
-<td>0.267</td>
-<td>2</td>
-<td>0.111</td>
-<td>0.307</td>
-<td>0.305</td>
-<td>0.330</td>
-<td>0.326</td>
-</tr>
-<tr>
-<td class="name-col">Xavier Edwards</td>
-<td class="team-col">MIA</td>
-<td>40</td>
-<td>16</td>
-<td>22</td>
-<td>4</td>
-<td>2</td>
-<td>0</td>
-<td>33</td>
-<td>0.469</td>
-<td>1</td>
-<td>0.236</td>
-<td>0.468</td>
-<td>0.377</td>
-<td>0.336</td>
-<td>0.325</td>
-</tr>
-<tr>
-<td class="name-col">Teoscar Hernandez</td>
-<td class="team-col">LAD</td>
-<td>36</td>
-<td>12</td>
-<td>23</td>
-<td>11</td>
-<td>2</td>
-<td>0</td>
-<td>21</td>
-<td>0.476</td>
-<td>2</td>
-<td>0.198</td>
-<td>0.419</td>
-<td>0.299</td>
-<td>0.329</td>
-<td>0.324</td>
-</tr>
-<tr>
-<td class="name-col">Otto Lopez</td>
-<td class="team-col">MIA</td>
-<td>41</td>
-<td>13</td>
-<td>25</td>
-<td>7</td>
-<td>3</td>
-<td>1</td>
-<td>29</td>
-<td>0.414</td>
-<td>1</td>
-<td>0.193</td>
-<td>0.413</td>
-<td>0.330</td>
-<td>0.330</td>
-<td>0.324</td>
-</tr>
-<tr>
-<td class="name-col">Brandon Nimmo</td>
-<td class="team-col">TEX</td>
-<td>45</td>
-<td>14</td>
-<td>25</td>
-<td>10</td>
-<td>5</td>
-<td>1</td>
-<td>28</td>
-<td>0.464</td>
-<td>1</td>
-<td>0.205</td>
-<td>0.428</td>
-<td>0.380</td>
-<td>0.330</td>
-<td>0.321</td>
-</tr>
-<tr>
-<td class="name-col">Luis Garcia Jr.</td>
-<td class="team-col">WSN</td>
-<td>37</td>
-<td>11</td>
-<td>25</td>
-<td>4</td>
-<td>1</td>
-<td>0</td>
-<td>31</td>
-<td>0.323</td>
-<td>1</td>
-<td>0.161</td>
-<td>0.372</td>
-<td>0.371</td>
-<td>0.317</td>
-<td>0.317</td>
-</tr>
-<tr>
-<td class="name-col">Michael Busch</td>
-<td class="team-col">CHC</td>
-<td>42</td>
-<td>6</td>
-<td>28</td>
-<td>6</td>
-<td>7</td>
-<td>0</td>
-<td>29</td>
-<td>0.207</td>
-<td>0</td>
-<td>0.078</td>
-<td>0.265</td>
-<td>0.271</td>
-<td>0.318</td>
-<td>0.316</td>
-</tr>
-<tr>
-<td class="name-col">Cole Young</td>
-<td class="team-col">SEA</td>
-<td>42</td>
-<td>10</td>
-<td>29</td>
-<td>13</td>
-<td>2</td>
-<td>1</td>
-<td>24</td>
-<td>0.333</td>
-<td>2</td>
-<td>0.152</td>
-<td>0.360</td>
-<td>0.307</td>
-<td>0.316</td>
-<td>0.316</td>
-</tr>
-<tr>
-<td class="name-col">Brent Rooker</td>
-<td class="team-col">ATH</td>
-<td>39</td>
-<td>6</td>
-<td>30</td>
-<td>15</td>
-<td>4</td>
-<td>0</td>
-<td>18</td>
-<td>0.222</td>
-<td>2</td>
-<td>0.085</td>
-<td>0.274</td>
-<td>0.286</td>
-<td>0.312</td>
-<td>0.313</td>
-</tr>
-<tr>
-<td class="name-col">Matt Chapman</td>
-<td class="team-col">SFG</td>
-<td>46</td>
-<td>11</td>
-<td>33</td>
-<td>8</td>
-<td>4</td>
-<td>0</td>
-<td>33</td>
-<td>0.303</td>
-<td>1</td>
-<td>0.134</td>
-<td>0.337</td>
-<td>0.251</td>
-<td>0.312</td>
-<td>0.313</td>
-</tr>
-<tr>
-<td class="name-col">Matt Olson</td>
-<td class="team-col">ATL</td>
-<td>47</td>
-<td>12</td>
-<td>30</td>
-<td>16</td>
-<td>5</td>
-<td>0</td>
-<td>24</td>
-<td>0.417</td>
-<td>2</td>
-<td>0.177</td>
-<td>0.392</td>
-<td>0.385</td>
-<td>0.315</td>
-<td>0.312</td>
-</tr>
-<tr>
-<td class="name-col">Yoan Moncada</td>
-<td class="team-col">LAA</td>
-<td>37</td>
-<td>3</td>
-<td>28</td>
-<td>14</td>
-<td>5</td>
-<td>2</td>
-<td>15</td>
-<td>0.133</td>
-<td>1</td>
-<td>0.059</td>
-<td>0.241</td>
-<td>0.280</td>
-<td>0.306</td>
-<td>0.309</td>
-</tr>
-<tr>
-<td class="name-col">Agustin Ramirez</td>
-<td class="team-col">MIA</td>
-<td>38</td>
-<td>7</td>
-<td>23</td>
-<td>9</td>
-<td>7</td>
-<td>1</td>
-<td>21</td>
-<td>0.333</td>
-<td>0</td>
-<td>0.133</td>
-<td>0.336</td>
-<td>0.294</td>
-<td>0.311</td>
-<td>0.308</td>
-</tr>
-<tr>
-<td class="name-col">Marcus Semien</td>
-<td class="team-col">NYM</td>
-<td>41</td>
-<td>9</td>
-<td>27</td>
-<td>11</td>
-<td>4</td>
-<td>1</td>
-<td>24</td>
-<td>0.333</td>
-<td>1</td>
-<td>0.132</td>
-<td>0.334</td>
-<td>0.265</td>
-<td>0.307</td>
-<td>0.307</td>
-</tr>
-<tr>
-<td class="name-col">Kevin McGonigle</td>
-<td class="team-col">DET</td>
-<td>44</td>
-<td>11</td>
-<td>27</td>
-<td>6</td>
-<td>6</td>
-<td>0</td>
-<td>32</td>
-<td>0.344</td>
-<td>0</td>
-<td>0.163</td>
-<td>0.374</td>
-<td>0.408</td>
-<td>0.307</td>
-<td>0.305</td>
-</tr>
-<tr>
-<td class="name-col">Jorge Polanco</td>
-<td class="team-col">NYM</td>
-<td>37</td>
-<td>6</td>
-<td>26</td>
-<td>5</td>
-<td>5</td>
-<td>0</td>
-<td>27</td>
-<td>0.222</td>
-<td>0</td>
-<td>0.085</td>
-<td>0.274</td>
-<td>0.347</td>
-<td>0.304</td>
-<td>0.305</td>
-</tr>
-<tr>
-<td class="name-col">Max Muncy</td>
-<td class="team-col">ATH</td>
-<td>36</td>
-<td>11</td>
-<td>25</td>
-<td>12</td>
-<td>1</td>
-<td>0</td>
-<td>21</td>
-<td>0.429</td>
-<td>2</td>
-<td>0.179</td>
-<td>0.395</td>
-<td>0.334</td>
-<td>0.305</td>
-<td>0.304</td>
-</tr>
-<tr>
-<td class="name-col">Chandler Simpson</td>
-<td class="team-col">TBR</td>
-<td>41</td>
-<td>15</td>
-<td>23</td>
-<td>2</td>
-<td>3</td>
-<td>0</td>
-<td>36</td>
-<td>0.417</td>
-<td>0</td>
-<td>0.184</td>
-<td>0.401</td>
-<td>0.318</td>
-<td>0.306</td>
-<td>0.304</td>
-</tr>
-<tr>
-<td class="name-col">Matt Wallner</td>
-<td class="team-col">MIN</td>
-<td>44</td>
-<td>9</td>
-<td>33</td>
-<td>21</td>
-<td>3</td>
-<td>0</td>
-<td>17</td>
-<td>0.353</td>
-<td>3</td>
-<td>0.124</td>
-<td>0.324</td>
-<td>0.261</td>
-<td>0.303</td>
-<td>0.303</td>
-</tr>
-<tr>
-<td class="name-col">Ronald Acuna Jr.</td>
-<td class="team-col">ATL</td>
-<td>48</td>
-<td>7</td>
-<td>35</td>
-<td>8</td>
-<td>7</td>
-<td>0</td>
-<td>33</td>
-<td>0.212</td>
-<td>0</td>
-<td>0.061</td>
-<td>0.243</td>
-<td>0.355</td>
-<td>0.298</td>
-<td>0.301</td>
-</tr>
-<tr>
-<td class="name-col">Kazuma Okamoto</td>
-<td class="team-col">TOR</td>
-<td>43</td>
-<td>10</td>
-<td>30</td>
-<td>18</td>
-<td>5</td>
-<td>0</td>
-<td>18</td>
-<td>0.444</td>
-<td>2</td>
-<td>0.144</td>
-<td>0.349</td>
-<td>0.341</td>
-<td>0.301</td>
-<td>0.301</td>
-</tr>
-<tr>
-<td class="name-col">Eugenio Suarez</td>
-<td class="team-col">CIN</td>
-<td>40</td>
-<td>8</td>
-<td>30</td>
-<td>14</td>
-<td>2</td>
-<td>0</td>
-<td>22</td>
-<td>0.273</td>
-<td>2</td>
-<td>0.087</td>
-<td>0.277</td>
-<td>0.317</td>
-<td>0.297</td>
-<td>0.299</td>
-</tr>
-<tr>
-<td class="name-col">Xander Bogaerts</td>
-<td class="team-col">SDP</td>
-<td>42</td>
-<td>9</td>
-<td>30</td>
-<td>3</td>
-<td>3</td>
-<td>0</td>
-<td>36</td>
-<td>0.250</td>
-<td>0</td>
-<td>0.076</td>
-<td>0.263</td>
-<td>0.284</td>
-<td>0.293</td>
-<td>0.297</td>
-</tr>
-<tr>
-<td class="name-col">Brandon Marsh</td>
-<td class="team-col">PHI</td>
-<td>40</td>
-<td>11</td>
-<td>27</td>
-<td>8</td>
-<td>2</td>
-<td>0</td>
-<td>29</td>
-<td>0.345</td>
-<td>1</td>
-<td>0.139</td>
-<td>0.343</td>
-<td>0.360</td>
-<td>0.295</td>
-<td>0.296</td>
-</tr>
-<tr>
-<td class="name-col">Dansby Swanson</td>
-<td class="team-col">CHC</td>
-<td>39</td>
-<td>4</td>
-<td>28</td>
-<td>14</td>
-<td>6</td>
-<td>0</td>
-<td>18</td>
-<td>0.167</td>
-<td>1</td>
-<td>0.053</td>
-<td>0.233</td>
-<td>0.272</td>
-<td>0.294</td>
-<td>0.295</td>
-</tr>
-<tr>
-<td class="name-col">Daulton Varsho</td>
-<td class="team-col">TOR</td>
-<td>36</td>
-<td>6</td>
-<td>26</td>
-<td>5</td>
-<td>4</td>
-<td>0</td>
-<td>27</td>
-<td>0.222</td>
-<td>0</td>
-<td>0.057</td>
-<td>0.238</td>
-<td>0.328</td>
-<td>0.291</td>
-<td>0.294</td>
-</tr>
-<tr>
-<td class="name-col">Jake Burger</td>
-<td class="team-col">TEX</td>
-<td>43</td>
-<td>13</td>
-<td>29</td>
-<td>15</td>
-<td>1</td>
-<td>1</td>
-<td>24</td>
-<td>0.458</td>
-<td>2</td>
-<td>0.183</td>
-<td>0.399</td>
-<td>0.322</td>
-<td>0.290</td>
-<td>0.292</td>
-</tr>
-<tr>
-<td class="name-col">Josh Naylor</td>
-<td class="team-col">SEA</td>
-<td>48</td>
-<td>5</td>
-<td>42</td>
-<td>5</td>
-<td>4</td>
-<td>0</td>
-<td>39</td>
-<td>0.128</td>
-<td>0</td>
-<td>-0.019</td>
-<td>0.141</td>
-<td>0.306</td>
-<td>0.287</td>
-<td>0.292</td>
-</tr>
-<tr>
-<td class="name-col">Bobby Witt Jr.</td>
-<td class="team-col">KCR</td>
-<td>44</td>
-<td>10</td>
-<td>30</td>
-<td>8</td>
-<td>6</td>
-<td>0</td>
-<td>30</td>
-<td>0.333</td>
-<td>0</td>
-<td>0.092</td>
-<td>0.283</td>
-<td>0.409</td>
-<td>0.290</td>
-<td>0.292</td>
-</tr>
-<tr>
-<td class="name-col">Riley Greene</td>
-<td class="team-col">DET</td>
-<td>43</td>
-<td>8</td>
-<td>33</td>
-<td>7</td>
-<td>5</td>
-<td>0</td>
-<td>31</td>
-<td>0.258</td>
-<td>0</td>
-<td>0.088</td>
-<td>0.278</td>
-<td>0.373</td>
-<td>0.285</td>
-<td>0.289</td>
-</tr>
-<tr>
-<td class="name-col">Vinnie Pasquantino</td>
-<td class="team-col">KCR</td>
-<td>45</td>
-<td>8</td>
-<td>31</td>
-<td>9</td>
-<td>5</td>
-<td>1</td>
-<td>30</td>
-<td>0.267</td>
-<td>0</td>
-<td>0.077</td>
-<td>0.264</td>
-<td>0.289</td>
-<td>0.282</td>
-<td>0.287</td>
-</tr>
-<tr>
-<td class="name-col">Michael Harris II</td>
-<td class="team-col">ATL</td>
-<td>44</td>
-<td>9</td>
-<td>34</td>
-<td>8</td>
-<td>1</td>
-<td>0</td>
-<td>34</td>
-<td>0.235</td>
-<td>1</td>
-<td>0.056</td>
-<td>0.237</td>
-<td>0.395</td>
-<td>0.282</td>
-<td>0.286</td>
-</tr>
-<tr>
-<td class="name-col">Taylor Ward</td>
-<td class="team-col">BAL</td>
-<td>46</td>
-<td>13</td>
-<td>27</td>
-<td>9</td>
-<td>6</td>
-<td>0</td>
-<td>31</td>
-<td>0.419</td>
-<td>0</td>
-<td>0.176</td>
-<td>0.390</td>
-<td>0.343</td>
-<td>0.282</td>
-<td>0.286</td>
-</tr>
-<tr>
-<td class="name-col">Christian Yelich</td>
-<td class="team-col">MIL</td>
-<td>41</td>
-<td>15</td>
-<td>23</td>
-<td>11</td>
-<td>3</td>
-<td>0</td>
-<td>26</td>
-<td>0.538</td>
-<td>1</td>
-<td>0.217</td>
-<td>0.443</td>
-<td>0.274</td>
-<td>0.282</td>
-<td>0.285</td>
-</tr>
-<tr>
-<td class="name-col">Jung Hoo Lee</td>
-<td class="team-col">SFG</td>
-<td>43</td>
-<td>6</td>
-<td>32</td>
-<td>8</td>
-<td>5</td>
-<td>0</td>
-<td>30</td>
-<td>0.200</td>
-<td>0</td>
-<td>0.055</td>
-<td>0.235</td>
-<td>0.310</td>
-<td>0.278</td>
-<td>0.283</td>
-</tr>
-<tr>
-<td class="name-col">Jo Adell</td>
-<td class="team-col">LAA</td>
-<td>44</td>
-<td>11</td>
-<td>31</td>
-<td>10</td>
-<td>1</td>
-<td>1</td>
-<td>31</td>
-<td>0.323</td>
-<td>1</td>
-<td>0.095</td>
-<td>0.287</td>
-<td>0.195</td>
-<td>0.278</td>
-<td>0.283</td>
-</tr>
-<tr>
-<td class="name-col">Roman Anthony</td>
-<td class="team-col">BOS</td>
-<td>43</td>
-<td>10</td>
-<td>29</td>
-<td>13</td>
-<td>4</td>
-<td>0</td>
-<td>25</td>
-<td>0.360</td>
-<td>1</td>
-<td>0.122</td>
-<td>0.321</td>
-<td>0.294</td>
-<td>0.278</td>
-<td>0.282</td>
-</tr>
-<tr>
-<td class="name-col">Willy Adames</td>
-<td class="team-col">SFG</td>
-<td>46</td>
-<td>9</td>
-<td>34</td>
-<td>13</td>
-<td>4</td>
-<td>0</td>
-<td>28</td>
-<td>0.286</td>
-<td>1</td>
-<td>0.104</td>
-<td>0.298</td>
-<td>0.232</td>
-<td>0.278</td>
-<td>0.282</td>
-</tr>
-<tr>
-<td class="name-col">Pete Alonso</td>
-<td class="team-col">BAL</td>
-<td>43</td>
-<td>8</td>
-<td>32</td>
-<td>13</td>
-<td>4</td>
-<td>0</td>
-<td>25</td>
-<td>0.280</td>
-<td>1</td>
-<td>0.083</td>
-<td>0.271</td>
-<td>0.303</td>
-<td>0.278</td>
-<td>0.282</td>
-</tr>
-<tr>
-<td class="name-col">Rafael Devers</td>
-<td class="team-col">SFG</td>
-<td>46</td>
-<td>8</td>
-<td>36</td>
-<td>13</td>
-<td>4</td>
-<td>0</td>
-<td>28</td>
-<td>0.250</td>
-<td>1</td>
-<td>0.061</td>
-<td>0.243</td>
-<td>0.281</td>
-<td>0.278</td>
-<td>0.282</td>
-</tr>
-<tr>
-<td class="name-col">Nick Kurtz</td>
-<td class="team-col">ATH</td>
-<td>36</td>
-<td>4</td>
-<td>24</td>
-<td>14</td>
-<td>9</td>
-<td>0</td>
-<td>13</td>
-<td>0.308</td>
-<td>0</td>
-<td>0.096</td>
-<td>0.288</td>
-<td>0.364</td>
-<td>0.277</td>
-<td>0.281</td>
-</tr>
-<tr>
-<td class="name-col">Matt McLain</td>
-<td class="team-col">CIN</td>
-<td>45</td>
-<td>8</td>
-<td>30</td>
-<td>13</td>
-<td>7</td>
-<td>1</td>
-<td>24</td>
-<td>0.333</td>
-<td>0</td>
-<td>0.102</td>
-<td>0.296</td>
-<td>0.339</td>
-<td>0.274</td>
-<td>0.280</td>
-</tr>
-<tr>
-<td class="name-col">Luis Arraez</td>
-<td class="team-col">SFG</td>
-<td>47</td>
-<td>13</td>
-<td>31</td>
-<td>3</td>
-<td>1</td>
-<td>0</td>
-<td>43</td>
-<td>0.302</td>
-<td>0</td>
-<td>0.097</td>
-<td>0.289</td>
-<td>0.242</td>
-<td>0.270</td>
-<td>0.278</td>
-</tr>
-<tr>
-<td class="name-col">Yainer Diaz</td>
-<td class="team-col">HOU</td>
-<td>41</td>
-<td>9</td>
-<td>29</td>
-<td>6</td>
-<td>3</td>
-<td>0</td>
-<td>32</td>
-<td>0.281</td>
-<td>0</td>
-<td>0.074</td>
-<td>0.260</td>
-<td>0.243</td>
-<td>0.269</td>
-<td>0.276</td>
-</tr>
-<tr>
-<td class="name-col">TJ Friedl</td>
-<td class="team-col">CIN</td>
-<td>41</td>
-<td>5</td>
-<td>29</td>
-<td>12</td>
-<td>7</td>
-<td>0</td>
-<td>22</td>
-<td>0.227</td>
-<td>0</td>
-<td>0.051</td>
-<td>0.231</td>
-<td>0.253</td>
-<td>0.269</td>
-<td>0.275</td>
-</tr>
-<tr>
-<td class="name-col">Spencer Torkelson</td>
-<td class="team-col">DET</td>
-<td>38</td>
-<td>5</td>
-<td>28</td>
-<td>12</td>
-<td>7</td>
-<td>0</td>
-<td>19</td>
-<td>0.263</td>
-<td>0</td>
-<td>0.082</td>
-<td>0.270</td>
-<td>0.295</td>
-<td>0.269</td>
-<td>0.274</td>
-</tr>
-<tr>
-<td class="name-col">Jorge Soler</td>
-<td class="team-col">LAA</td>
-<td>48</td>
-<td>8</td>
-<td>34</td>
-<td>19</td>
-<td>6</td>
-<td>1</td>
-<td>21</td>
-<td>0.333</td>
-<td>1</td>
-<td>0.096</td>
-<td>0.288</td>
-<td>0.223</td>
-<td>0.268</td>
-<td>0.273</td>
-</tr>
-<tr>
-<td class="name-col">Ernie Clement</td>
-<td class="team-col">TOR</td>
-<td>41</td>
-<td>12</td>
-<td>30</td>
-<td>2</td>
-<td>0</td>
-<td>0</td>
-<td>39</td>
-<td>0.308</td>
-<td>0</td>
-<td>0.100</td>
-<td>0.293</td>
-<td>0.282</td>
-<td>0.266</td>
-<td>0.273</td>
-</tr>
-<tr>
-<td class="name-col">Fernando Tatis Jr.</td>
-<td class="team-col">SDP</td>
-<td>44</td>
-<td>7</td>
-<td>30</td>
-<td>11</td>
-<td>6</td>
-<td>0</td>
-<td>27</td>
-<td>0.259</td>
-<td>0</td>
-<td>0.080</td>
-<td>0.267</td>
-<td>0.354</td>
-<td>0.266</td>
-<td>0.273</td>
-</tr>
-<tr>
-<td class="name-col">Jake Cronenworth</td>
-<td class="team-col">SDP</td>
-<td>39</td>
-<td>6</td>
-<td>30</td>
-<td>8</td>
-<td>4</td>
-<td>0</td>
-<td>27</td>
-<td>0.222</td>
-<td>0</td>
-<td>0.044</td>
-<td>0.222</td>
-<td>0.272</td>
-<td>0.266</td>
-<td>0.271</td>
-</tr>
-<tr>
-<td class="name-col">Mike Yastrzemski</td>
-<td class="team-col">ATL</td>
-<td>38</td>
-<td>8</td>
-<td>27</td>
-<td>8</td>
-<td>4</td>
-<td>0</td>
-<td>26</td>
-<td>0.308</td>
-<td>0</td>
-<td>0.109</td>
-<td>0.305</td>
-<td>0.244</td>
-<td>0.264</td>
-<td>0.271</td>
-</tr>
-<tr>
-<td class="name-col">Austin Riley</td>
-<td class="team-col">ATL</td>
-<td>42</td>
-<td>6</td>
-<td>32</td>
-<td>10</td>
-<td>5</td>
-<td>0</td>
-<td>27</td>
-<td>0.222</td>
-<td>0</td>
-<td>0.045</td>
-<td>0.223</td>
-<td>0.244</td>
-<td>0.263</td>
-<td>0.269</td>
-</tr>
-<tr>
-<td class="name-col">Nick Gonzales</td>
-<td class="team-col">PIT</td>
-<td>36</td>
-<td>10</td>
-<td>23</td>
-<td>7</td>
-<td>3</td>
-<td>0</td>
-<td>26</td>
-<td>0.385</td>
-<td>0</td>
-<td>0.130</td>
-<td>0.332</td>
-<td>0.324</td>
-<td>0.255</td>
-<td>0.266</td>
-</tr>
-<tr>
-<td class="name-col">Cedric Mullins</td>
-<td class="team-col">TBR</td>
-<td>40</td>
-<td>5</td>
-<td>34</td>
-<td>11</td>
-<td>0</td>
-<td>1</td>
-<td>27</td>
-<td>0.148</td>
-<td>1</td>
-<td>0.005</td>
-<td>0.171</td>
-<td>0.151</td>
-<td>0.260</td>
-<td>0.265</td>
-</tr>
-<tr>
-<td class="name-col">Kyle Manzardo</td>
-<td class="team-col">CLE</td>
-<td>38</td>
-<td>2</td>
-<td>33</td>
-<td>12</td>
-<td>4</td>
-<td>2</td>
-<td>20</td>
-<td>0.100</td>
-<td>0</td>
-<td>-0.003</td>
-<td>0.161</td>
-<td>0.308</td>
-<td>0.259</td>
-<td>0.265</td>
-</tr>
-<tr>
-<td class="name-col">Jac Caglianone</td>
-<td class="team-col">KCR</td>
-<td>36</td>
-<td>9</td>
-<td>24</td>
-<td>9</td>
-<td>3</td>
-<td>1</td>
-<td>23</td>
-<td>0.391</td>
-<td>0</td>
-<td>0.126</td>
-<td>0.327</td>
-<td>0.335</td>
-<td>0.251</td>
-<td>0.263</td>
-</tr>
-<tr>
-<td class="name-col">Ezequiel Tovar</td>
-<td class="team-col">COL</td>
-<td>38</td>
-<td>10</td>
-<td>27</td>
-<td>11</td>
-<td>1</td>
-<td>0</td>
-<td>25</td>
-<td>0.360</td>
-<td>1</td>
-<td>0.112</td>
-<td>0.309</td>
-<td>0.336</td>
-<td>0.254</td>
-<td>0.263</td>
-</tr>
-<tr>
-<td class="name-col">Daylen Lile</td>
-<td class="team-col">WSN</td>
-<td>47</td>
-<td>13</td>
-<td>34</td>
-<td>7</td>
-<td>2</td>
-<td>0</td>
-<td>38</td>
-<td>0.342</td>
-<td>0</td>
-<td>0.109</td>
-<td>0.305</td>
-<td>0.292</td>
-<td>0.252</td>
-<td>0.262</td>
-</tr>
-<tr>
-<td class="name-col">Harrison Bader</td>
-<td class="team-col">SFG</td>
-<td>41</td>
-<td>5</td>
-<td>35</td>
-<td>13</td>
-<td>2</td>
-<td>0</td>
-<td>25</td>
-<td>0.160</td>
-<td>1</td>
-<td>0.015</td>
-<td>0.184</td>
-<td>0.294</td>
-<td>0.257</td>
-<td>0.261</td>
-</tr>
-<tr>
-<td class="name-col">Tyler Soderstrom</td>
-<td class="team-col">ATH</td>
-<td>38</td>
-<td>7</td>
-<td>29</td>
-<td>11</td>
-<td>5</td>
-<td>0</td>
-<td>22</td>
-<td>0.318</td>
-<td>0</td>
-<td>0.105</td>
-<td>0.299</td>
-<td>0.297</td>
-<td>0.252</td>
-<td>0.259</td>
-</tr>
-<tr>
-<td class="name-col">Cal Raleigh</td>
-<td class="team-col">SEA</td>
-<td>47</td>
-<td>6</td>
-<td>35</td>
-<td>20</td>
-<td>6</td>
-<td>0</td>
-<td>20</td>
-<td>0.250</td>
-<td>1</td>
-<td>0.065</td>
-<td>0.248</td>
-<td>0.206</td>
-<td>0.250</td>
-<td>0.257</td>
-</tr>
-<tr>
-<td class="name-col">Julio Rodriguez</td>
-<td class="team-col">SEA</td>
-<td>48</td>
-<td>6</td>
-<td>37</td>
-<td>14</td>
-<td>5</td>
-<td>1</td>
-<td>28</td>
-<td>0.214</td>
-<td>0</td>
-<td>0.020</td>
-<td>0.191</td>
-<td>0.249</td>
-<td>0.248</td>
-<td>0.257</td>
-</tr>
-<tr>
-<td class="name-col">Trea Turner</td>
-<td class="team-col">PHI</td>
-<td>46</td>
-<td>12</td>
-<td>33</td>
-<td>10</td>
-<td>3</td>
-<td>0</td>
-<td>33</td>
-<td>0.364</td>
-<td>0</td>
-<td>0.118</td>
-<td>0.316</td>
-<td>0.300</td>
-<td>0.239</td>
-<td>0.252</td>
-</tr>
-<tr>
-<td class="name-col">Jacob Wilson</td>
-<td class="team-col">ATH</td>
-<td>38</td>
-<td>9</td>
-<td>31</td>
-<td>5</td>
-<td>0</td>
-<td>0</td>
-<td>33</td>
-<td>0.273</td>
-<td>0</td>
-<td>0.062</td>
-<td>0.245</td>
-<td>0.207</td>
-<td>0.241</td>
-<td>0.250</td>
-</tr>
-<tr>
-<td class="name-col">Ben Williamson</td>
-<td class="team-col">TBR</td>
-<td>36</td>
-<td>9</td>
-<td>27</td>
-<td>8</td>
-<td>2</td>
-<td>0</td>
-<td>26</td>
-<td>0.346</td>
-<td>0</td>
-<td>0.087</td>
-<td>0.276</td>
-<td>0.287</td>
-<td>0.234</td>
-<td>0.247</td>
-</tr>
-<tr>
-<td class="name-col">Byron Buxton</td>
-<td class="team-col">MIN</td>
-<td>38</td>
-<td>5</td>
-<td>29</td>
-<td>10</td>
-<td>2</td>
-<td>1</td>
-<td>25</td>
-<td>0.200</td>
-<td>0</td>
-<td>0.039</td>
-<td>0.215</td>
-<td>0.190</td>
-<td>0.233</td>
-<td>0.246</td>
-</tr>
-<tr>
-<td class="name-col">Jakob Marsee</td>
-<td class="team-col">MIA</td>
-<td>44</td>
-<td>4</td>
-<td>34</td>
-<td>14</td>
-<td>5</td>
-<td>0</td>
-<td>25</td>
-<td>0.160</td>
-<td>0</td>
-<td>0.018</td>
-<td>0.188</td>
-<td>0.230</td>
-<td>0.232</td>
-<td>0.244</td>
-</tr>
-<tr>
-<td class="name-col">Leo Rivas</td>
-<td class="team-col">SEA</td>
-<td>39</td>
-<td>5</td>
-<td>30</td>
-<td>14</td>
-<td>5</td>
-<td>0</td>
-<td>20</td>
-<td>0.250</td>
-<td>0</td>
-<td>0.047</td>
-<td>0.225</td>
-<td>0.203</td>
-<td>0.225</td>
-<td>0.238</td>
-</tr>
-<tr>
-<td class="name-col">Willi Castro</td>
-<td class="team-col">COL</td>
-<td>40</td>
-<td>7</td>
-<td>30</td>
-<td>13</td>
-<td>4</td>
-<td>0</td>
-<td>23</td>
-<td>0.304</td>
-<td>0</td>
-<td>0.073</td>
-<td>0.258</td>
-<td>0.222</td>
-<td>0.220</td>
-<td>0.236</td>
-</tr>
-<tr>
-<td class="name-col">Hunter Goodman</td>
-<td class="team-col">COL</td>
-<td>43</td>
-<td>10</td>
-<td>32</td>
-<td>17</td>
-<td>2</td>
-<td>0</td>
-<td>23</td>
-<td>0.391</td>
-<td>1</td>
-<td>0.082</td>
-<td>0.270</td>
-<td>0.258</td>
-<td>0.220</td>
-<td>0.236</td>
-</tr>
-<tr>
-<td class="name-col">Bo Bichette</td>
-<td class="team-col">NYM</td>
-<td>48</td>
-<td>9</td>
-<td>37</td>
-<td>12</td>
-<td>2</td>
-<td>0</td>
-<td>34</td>
-<td>0.265</td>
-<td>0</td>
-<td>0.039</td>
-<td>0.215</td>
-<td>0.279</td>
-<td>0.217</td>
-<td>0.233</td>
-</tr>
-<tr>
-<td class="name-col">Pete Crow-Armstrong</td>
-<td class="team-col">CHC</td>
-<td>41</td>
-<td>8</td>
-<td>30</td>
-<td>12</td>
-<td>2</td>
-<td>0</td>
-<td>27</td>
-<td>0.308</td>
-<td>0</td>
-<td>0.048</td>
-<td>0.226</td>
-<td>0.247</td>
-<td>0.199</td>
-<td>0.224</td>
-</tr>
-<tr>
-<td class="name-col">Trevor Story</td>
-<td class="team-col">BOS</td>
-<td>47</td>
-<td>6</td>
-<td>42</td>
-<td>17</td>
-<td>0</td>
-<td>0</td>
-<td>29</td>
-<td>0.172</td>
-<td>1</td>
-<td>-0.012</td>
-<td>0.149</td>
-<td>0.222</td>
-<td>0.215</td>
-<td>0.222</td>
-</tr>
-<tr>
-<td class="name-col">Jazz Chisholm Jr.</td>
-<td class="team-col">NYY</td>
-<td>38</td>
-<td>7</td>
-<td>30</td>
-<td>12</td>
-<td>1</td>
-<td>1</td>
-<td>24</td>
-<td>0.292</td>
-<td>0</td>
-<td>0.055</td>
-<td>0.235</td>
-<td>0.210</td>
-<td>0.199</td>
-<td>0.220</td>
-</tr>
-<tr>
-<td class="name-col">Victor Scott II</td>
-<td class="team-col">STL</td>
-<td>37</td>
-<td>9</td>
-<td>25</td>
-<td>9</td>
-<td>0</td>
-<td>0</td>
-<td>28</td>
-<td>0.391</td>
-<td>0</td>
-<td>0.080</td>
-<td>0.267</td>
-<td>0.254</td>
-<td>0.177</td>
-<td>0.217</td>
-</tr>
-<tr>
-<td class="name-col">Wyatt Langford</td>
-<td class="team-col">TEX</td>
-<td>44</td>
-<td>7</td>
-<td>38</td>
-<td>12</td>
-<td>0</td>
-<td>0</td>
-<td>32</td>
-<td>0.219</td>
-<td>0</td>
-<td>0.023</td>
-<td>0.195</td>
-<td>0.225</td>
-<td>0.193</td>
-<td>0.209</td>
-</tr>
-<tr>
-<td class="name-col">Heliot Ramos</td>
-<td class="team-col">SFG</td>
-<td>45</td>
-<td>9</td>
-<td>34</td>
-<td>17</td>
-<td>2</td>
-<td>0</td>
-<td>26</td>
-<td>0.346</td>
-<td>0</td>
-<td>0.044</td>
-<td>0.221</td>
-<td>0.232</td>
-<td>0.157</td>
-<td>0.197</td>
-</tr>
-</tbody>
+            <div class="table-scroll">
+                <table class="dataframe stats-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name</th>
+      <th>Team</th>
+      <th>PA</th>
+      <th>H</th>
+      <th>Outs</th>
+      <th>SO</th>
+      <th>BB</th>
+      <th>HBP</th>
+      <th>BIP3</th>
+      <th>BABIP</th>
+      <th>HR</th>
+      <th>R/PA</th>
+      <th>wOBA</th>
+      <th>xwOBA</th>
+      <th>fwOBA</th>
+      <th>dwOBA3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Yordan Alvarez</td>
+      <td>HOU</td>
+      <td>72</td>
+      <td>18</td>
+      <td>36</td>
+      <td>8</td>
+      <td>15</td>
+      <td>3</td>
+      <td>40</td>
+      <td>0.300</td>
+      <td>6</td>
+      <td>0.27</td>
+      <td>0.521</td>
+      <td>0.557</td>
+      <td>0.640</td>
+      <td>0.518</td>
+    </tr>
+    <tr>
+      <td>Jordan Walker</td>
+      <td>STL</td>
+      <td>61</td>
+      <td>18</td>
+      <td>37</td>
+      <td>17</td>
+      <td>6</td>
+      <td>0</td>
+      <td>31</td>
+      <td>0.355</td>
+      <td>7</td>
+      <td>0.25</td>
+      <td>0.493</td>
+      <td>0.499</td>
+      <td>0.545</td>
+      <td>0.462</td>
+    </tr>
+    <tr>
+      <td>Brandon Lowe</td>
+      <td>PIT</td>
+      <td>59</td>
+      <td>12</td>
+      <td>37</td>
+      <td>13</td>
+      <td>10</td>
+      <td>0</td>
+      <td>31</td>
+      <td>0.226</td>
+      <td>5</td>
+      <td>0.20</td>
+      <td>0.423</td>
+      <td>0.350</td>
+      <td>0.531</td>
+      <td>0.453</td>
+    </tr>
+    <tr>
+      <td>Chase DeLauter</td>
+      <td>CLE</td>
+      <td>58</td>
+      <td>15</td>
+      <td>38</td>
+      <td>10</td>
+      <td>7</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.278</td>
+      <td>5</td>
+      <td>0.22</td>
+      <td>0.455</td>
+      <td>0.424</td>
+      <td>0.519</td>
+      <td>0.450</td>
+    </tr>
+    <tr>
+      <td>Sal Stewart</td>
+      <td>CIN</td>
+      <td>69</td>
+      <td>17</td>
+      <td>39</td>
+      <td>10</td>
+      <td>13</td>
+      <td>0</td>
+      <td>42</td>
+      <td>0.310</td>
+      <td>4</td>
+      <td>0.22</td>
+      <td>0.449</td>
+      <td>0.444</td>
+      <td>0.527</td>
+      <td>0.434</td>
+    </tr>
+    <tr>
+      <td>Shohei Ohtani</td>
+      <td>LAD</td>
+      <td>73</td>
+      <td>16</td>
+      <td>42</td>
+      <td>18</td>
+      <td>13</td>
+      <td>2</td>
+      <td>35</td>
+      <td>0.314</td>
+      <td>5</td>
+      <td>0.20</td>
+      <td>0.424</td>
+      <td>0.436</td>
+      <td>0.522</td>
+      <td>0.432</td>
+    </tr>
+    <tr>
+      <td>Ben Rice</td>
+      <td>NYY</td>
+      <td>58</td>
+      <td>16</td>
+      <td>29</td>
+      <td>17</td>
+      <td>13</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0.500</td>
+      <td>4</td>
+      <td>0.28</td>
+      <td>0.533</td>
+      <td>0.476</td>
+      <td>0.540</td>
+      <td>0.426</td>
+    </tr>
+    <tr>
+      <td>Gunnar Henderson</td>
+      <td>BAL</td>
+      <td>71</td>
+      <td>15</td>
+      <td>49</td>
+      <td>20</td>
+      <td>8</td>
+      <td>1</td>
+      <td>36</td>
+      <td>0.250</td>
+      <td>6</td>
+      <td>0.18</td>
+      <td>0.404</td>
+      <td>0.344</td>
+      <td>0.481</td>
+      <td>0.418</td>
+    </tr>
+    <tr>
+      <td>CJ Abrams</td>
+      <td>WSN</td>
+      <td>62</td>
+      <td>17</td>
+      <td>39</td>
+      <td>10</td>
+      <td>6</td>
+      <td>2</td>
+      <td>40</td>
+      <td>0.325</td>
+      <td>4</td>
+      <td>0.20</td>
+      <td>0.428</td>
+      <td>0.384</td>
+      <td>0.491</td>
+      <td>0.417</td>
+    </tr>
+    <tr>
+      <td>Drake Baldwin</td>
+      <td>ATL</td>
+      <td>73</td>
+      <td>20</td>
+      <td>49</td>
+      <td>11</td>
+      <td>5</td>
+      <td>2</td>
+      <td>50</td>
+      <td>0.300</td>
+      <td>5</td>
+      <td>0.19</td>
+      <td>0.414</td>
+      <td>0.405</td>
+      <td>0.479</td>
+      <td>0.414</td>
+    </tr>
+    <tr>
+      <td>Zach Neto</td>
+      <td>LAA</td>
+      <td>76</td>
+      <td>16</td>
+      <td>49</td>
+      <td>18</td>
+      <td>12</td>
+      <td>0</td>
+      <td>41</td>
+      <td>0.268</td>
+      <td>5</td>
+      <td>0.18</td>
+      <td>0.396</td>
+      <td>0.356</td>
+      <td>0.481</td>
+      <td>0.409</td>
+    </tr>
+    <tr>
+      <td>Brice Turang</td>
+      <td>MIL</td>
+      <td>60</td>
+      <td>14</td>
+      <td>35</td>
+      <td>12</td>
+      <td>12</td>
+      <td>0</td>
+      <td>33</td>
+      <td>0.344</td>
+      <td>3</td>
+      <td>0.22</td>
+      <td>0.458</td>
+      <td>0.413</td>
+      <td>0.493</td>
+      <td>0.408</td>
+    </tr>
+    <tr>
+      <td>Ryan O'Hearn</td>
+      <td>PIT</td>
+      <td>62</td>
+      <td>17</td>
+      <td>37</td>
+      <td>8</td>
+      <td>9</td>
+      <td>0</td>
+      <td>42</td>
+      <td>0.333</td>
+      <td>3</td>
+      <td>0.19</td>
+      <td>0.420</td>
+      <td>0.414</td>
+      <td>0.483</td>
+      <td>0.403</td>
+    </tr>
+    <tr>
+      <td>Yandy Díaz</td>
+      <td>TBR</td>
+      <td>68</td>
+      <td>21</td>
+      <td>38</td>
+      <td>8</td>
+      <td>6</td>
+      <td>4</td>
+      <td>47</td>
+      <td>0.383</td>
+      <td>3</td>
+      <td>0.22</td>
+      <td>0.455</td>
+      <td>0.373</td>
+      <td>0.487</td>
+      <td>0.401</td>
+    </tr>
+    <tr>
+      <td>James Wood</td>
+      <td>WSN</td>
+      <td>74</td>
+      <td>17</td>
+      <td>46</td>
+      <td>21</td>
+      <td>11</td>
+      <td>1</td>
+      <td>36</td>
+      <td>0.333</td>
+      <td>5</td>
+      <td>0.21</td>
+      <td>0.436</td>
+      <td>0.416</td>
+      <td>0.476</td>
+      <td>0.401</td>
+    </tr>
+    <tr>
+      <td>Bryce Harper</td>
+      <td>PHI</td>
+      <td>64</td>
+      <td>15</td>
+      <td>42</td>
+      <td>8</td>
+      <td>9</td>
+      <td>0</td>
+      <td>44</td>
+      <td>0.273</td>
+      <td>3</td>
+      <td>0.18</td>
+      <td>0.402</td>
+      <td>0.446</td>
+      <td>0.467</td>
+      <td>0.399</td>
+    </tr>
+    <tr>
+      <td>Alec Burleson</td>
+      <td>STL</td>
+      <td>66</td>
+      <td>14</td>
+      <td>43</td>
+      <td>5</td>
+      <td>11</td>
+      <td>0</td>
+      <td>48</td>
+      <td>0.250</td>
+      <td>2</td>
+      <td>0.14</td>
+      <td>0.355</td>
+      <td>0.430</td>
+      <td>0.462</td>
+      <td>0.394</td>
+    </tr>
+    <tr>
+      <td>Willson Contreras</td>
+      <td>BOS</td>
+      <td>67</td>
+      <td>16</td>
+      <td>39</td>
+      <td>16</td>
+      <td>11</td>
+      <td>3</td>
+      <td>34</td>
+      <td>0.382</td>
+      <td>3</td>
+      <td>0.20</td>
+      <td>0.434</td>
+      <td>0.434</td>
+      <td>0.474</td>
+      <td>0.392</td>
+    </tr>
+    <tr>
+      <td>Manny Machado</td>
+      <td>SDP</td>
+      <td>64</td>
+      <td>10</td>
+      <td>39</td>
+      <td>12</td>
+      <td>15</td>
+      <td>0</td>
+      <td>35</td>
+      <td>0.229</td>
+      <td>2</td>
+      <td>0.14</td>
+      <td>0.354</td>
+      <td>0.384</td>
+      <td>0.469</td>
+      <td>0.391</td>
+    </tr>
+    <tr>
+      <td>Ramón Laureano</td>
+      <td>SDP</td>
+      <td>62</td>
+      <td>15</td>
+      <td>42</td>
+      <td>13</td>
+      <td>5</td>
+      <td>1</td>
+      <td>39</td>
+      <td>0.282</td>
+      <td>4</td>
+      <td>0.17</td>
+      <td>0.388</td>
+      <td>0.386</td>
+      <td>0.452</td>
+      <td>0.389</td>
+    </tr>
+    <tr>
+      <td>Munetaka Murakami</td>
+      <td>CHW</td>
+      <td>65</td>
+      <td>8</td>
+      <td>44</td>
+      <td>22</td>
+      <td>13</td>
+      <td>0</td>
+      <td>26</td>
+      <td>0.154</td>
+      <td>4</td>
+      <td>0.12</td>
+      <td>0.318</td>
+      <td>0.338</td>
+      <td>0.455</td>
+      <td>0.389</td>
+    </tr>
+    <tr>
+      <td>Kyle Schwarber</td>
+      <td>PHI</td>
+      <td>66</td>
+      <td>11</td>
+      <td>41</td>
+      <td>24</td>
+      <td>12</td>
+      <td>2</td>
+      <td>24</td>
+      <td>0.292</td>
+      <td>4</td>
+      <td>0.18</td>
+      <td>0.396</td>
+      <td>0.396</td>
+      <td>0.460</td>
+      <td>0.386</td>
+    </tr>
+    <tr>
+      <td>Elly De La Cruz</td>
+      <td>CIN</td>
+      <td>72</td>
+      <td>18</td>
+      <td>47</td>
+      <td>20</td>
+      <td>8</td>
+      <td>0</td>
+      <td>39</td>
+      <td>0.333</td>
+      <td>5</td>
+      <td>0.19</td>
+      <td>0.409</td>
+      <td>0.374</td>
+      <td>0.452</td>
+      <td>0.384</td>
+    </tr>
+    <tr>
+      <td>Mike Trout</td>
+      <td>LAA</td>
+      <td>70</td>
+      <td>11</td>
+      <td>43</td>
+      <td>15</td>
+      <td>15</td>
+      <td>2</td>
+      <td>36</td>
+      <td>0.250</td>
+      <td>2</td>
+      <td>0.15</td>
+      <td>0.363</td>
+      <td>0.423</td>
+      <td>0.457</td>
+      <td>0.383</td>
+    </tr>
+    <tr>
+      <td>Oneil Cruz</td>
+      <td>PIT</td>
+      <td>65</td>
+      <td>20</td>
+      <td>40</td>
+      <td>20</td>
+      <td>5</td>
+      <td>1</td>
+      <td>34</td>
+      <td>0.441</td>
+      <td>5</td>
+      <td>0.22</td>
+      <td>0.455</td>
+      <td>0.406</td>
+      <td>0.455</td>
+      <td>0.382</td>
+    </tr>
+    <tr>
+      <td>Christian Walker</td>
+      <td>HOU</td>
+      <td>64</td>
+      <td>17</td>
+      <td>42</td>
+      <td>9</td>
+      <td>7</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.311</td>
+      <td>3</td>
+      <td>0.19</td>
+      <td>0.409</td>
+      <td>0.355</td>
+      <td>0.447</td>
+      <td>0.382</td>
+    </tr>
+    <tr>
+      <td>Corey Seager</td>
+      <td>TEX</td>
+      <td>65</td>
+      <td>11</td>
+      <td>43</td>
+      <td>18</td>
+      <td>9</td>
+      <td>0</td>
+      <td>34</td>
+      <td>0.206</td>
+      <td>4</td>
+      <td>0.11</td>
+      <td>0.316</td>
+      <td>0.321</td>
+      <td>0.447</td>
+      <td>0.381</td>
+    </tr>
+    <tr>
+      <td>Max Muncy</td>
+      <td>LAD</td>
+      <td>56</td>
+      <td>12</td>
+      <td>38</td>
+      <td>18</td>
+      <td>7</td>
+      <td>0</td>
+      <td>27</td>
+      <td>0.296</td>
+      <td>4</td>
+      <td>0.15</td>
+      <td>0.366</td>
+      <td>0.397</td>
+      <td>0.445</td>
+      <td>0.381</td>
+    </tr>
+    <tr>
+      <td>Aaron Judge</td>
+      <td>NYY</td>
+      <td>65</td>
+      <td>12</td>
+      <td>47</td>
+      <td>19</td>
+      <td>8</td>
+      <td>1</td>
+      <td>33</td>
+      <td>0.250</td>
+      <td>4</td>
+      <td>0.14</td>
+      <td>0.354</td>
+      <td>0.387</td>
+      <td>0.434</td>
+      <td>0.377</td>
+    </tr>
+    <tr>
+      <td>Freddie Freeman</td>
+      <td>LAD</td>
+      <td>67</td>
+      <td>16</td>
+      <td>49</td>
+      <td>7</td>
+      <td>4</td>
+      <td>1</td>
+      <td>52</td>
+      <td>0.250</td>
+      <td>3</td>
+      <td>0.14</td>
+      <td>0.350</td>
+      <td>0.423</td>
+      <td>0.428</td>
+      <td>0.374</td>
+    </tr>
+    <tr>
+      <td>Luis Robert Jr.</td>
+      <td>NYM</td>
+      <td>59</td>
+      <td>15</td>
+      <td>35</td>
+      <td>13</td>
+      <td>12</td>
+      <td>0</td>
+      <td>32</td>
+      <td>0.406</td>
+      <td>2</td>
+      <td>0.19</td>
+      <td>0.418</td>
+      <td>0.390</td>
+      <td>0.450</td>
+      <td>0.374</td>
+    </tr>
+    <tr>
+      <td>Josh Bell</td>
+      <td>MIN</td>
+      <td>63</td>
+      <td>14</td>
+      <td>38</td>
+      <td>17</td>
+      <td>10</td>
+      <td>1</td>
+      <td>32</td>
+      <td>0.344</td>
+      <td>3</td>
+      <td>0.19</td>
+      <td>0.410</td>
+      <td>0.349</td>
+      <td>0.447</td>
+      <td>0.373</td>
+    </tr>
+    <tr>
+      <td>Andy Pages</td>
+      <td>LAD</td>
+      <td>60</td>
+      <td>24</td>
+      <td>33</td>
+      <td>14</td>
+      <td>4</td>
+      <td>0</td>
+      <td>38</td>
+      <td>0.526</td>
+      <td>4</td>
+      <td>0.27</td>
+      <td>0.520</td>
+      <td>0.371</td>
+      <td>0.457</td>
+      <td>0.373</td>
+    </tr>
+    <tr>
+      <td>William Contreras</td>
+      <td>MIL</td>
+      <td>59</td>
+      <td>14</td>
+      <td>36</td>
+      <td>9</td>
+      <td>9</td>
+      <td>0</td>
+      <td>39</td>
+      <td>0.308</td>
+      <td>2</td>
+      <td>0.17</td>
+      <td>0.387</td>
+      <td>0.361</td>
+      <td>0.444</td>
+      <td>0.372</td>
+    </tr>
+    <tr>
+      <td>Ian Happ</td>
+      <td>CHC</td>
+      <td>60</td>
+      <td>10</td>
+      <td>43</td>
+      <td>20</td>
+      <td>8</td>
+      <td>0</td>
+      <td>28</td>
+      <td>0.214</td>
+      <td>4</td>
+      <td>0.13</td>
+      <td>0.335</td>
+      <td>0.335</td>
+      <td>0.430</td>
+      <td>0.372</td>
+    </tr>
+    <tr>
+      <td>Shea Langeliers</td>
+      <td>NaN</td>
+      <td>61</td>
+      <td>17</td>
+      <td>43</td>
+      <td>19</td>
+      <td>3</td>
+      <td>0</td>
+      <td>34</td>
+      <td>0.353</td>
+      <td>5</td>
+      <td>0.18</td>
+      <td>0.403</td>
+      <td>0.364</td>
+      <td>0.430</td>
+      <td>0.372</td>
+    </tr>
+    <tr>
+      <td>Jose Altuve</td>
+      <td>HOU</td>
+      <td>70</td>
+      <td>19</td>
+      <td>41</td>
+      <td>12</td>
+      <td>13</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0.395</td>
+      <td>2</td>
+      <td>0.21</td>
+      <td>0.438</td>
+      <td>0.388</td>
+      <td>0.447</td>
+      <td>0.371</td>
+    </tr>
+    <tr>
+      <td>Vladimir Guerrero Jr.</td>
+      <td>TOR</td>
+      <td>65</td>
+      <td>17</td>
+      <td>36</td>
+      <td>6</td>
+      <td>11</td>
+      <td>1</td>
+      <td>46</td>
+      <td>0.348</td>
+      <td>1</td>
+      <td>0.18</td>
+      <td>0.397</td>
+      <td>0.415</td>
+      <td>0.450</td>
+      <td>0.369</td>
+    </tr>
+    <tr>
+      <td>Matt Olson</td>
+      <td>ATL</td>
+      <td>71</td>
+      <td>18</td>
+      <td>45</td>
+      <td>20</td>
+      <td>9</td>
+      <td>0</td>
+      <td>38</td>
+      <td>0.368</td>
+      <td>4</td>
+      <td>0.20</td>
+      <td>0.431</td>
+      <td>0.377</td>
+      <td>0.433</td>
+      <td>0.365</td>
+    </tr>
+    <tr>
+      <td>Brayan Rocchio</td>
+      <td>CLE</td>
+      <td>58</td>
+      <td>8</td>
+      <td>41</td>
+      <td>6</td>
+      <td>8</td>
+      <td>2</td>
+      <td>41</td>
+      <td>0.175</td>
+      <td>1</td>
+      <td>0.09</td>
+      <td>0.282</td>
+      <td>0.325</td>
+      <td>0.421</td>
+      <td>0.365</td>
+    </tr>
+    <tr>
+      <td>Brandon Nimmo</td>
+      <td>TEX</td>
+      <td>67</td>
+      <td>22</td>
+      <td>39</td>
+      <td>12</td>
+      <td>6</td>
+      <td>1</td>
+      <td>45</td>
+      <td>0.422</td>
+      <td>3</td>
+      <td>0.22</td>
+      <td>0.454</td>
+      <td>0.371</td>
+      <td>0.439</td>
+      <td>0.365</td>
+    </tr>
+    <tr>
+      <td>Jackson Merrill</td>
+      <td>SDP</td>
+      <td>67</td>
+      <td>13</td>
+      <td>51</td>
+      <td>11</td>
+      <td>6</td>
+      <td>0</td>
+      <td>47</td>
+      <td>0.217</td>
+      <td>3</td>
+      <td>0.11</td>
+      <td>0.312</td>
+      <td>0.355</td>
+      <td>0.413</td>
+      <td>0.363</td>
+    </tr>
+    <tr>
+      <td>Jorge Soler</td>
+      <td>LAA</td>
+      <td>69</td>
+      <td>12</td>
+      <td>47</td>
+      <td>23</td>
+      <td>8</td>
+      <td>2</td>
+      <td>32</td>
+      <td>0.250</td>
+      <td>4</td>
+      <td>0.14</td>
+      <td>0.345</td>
+      <td>0.322</td>
+      <td>0.422</td>
+      <td>0.362</td>
+    </tr>
+    <tr>
+      <td>Daulton Varsho</td>
+      <td>TOR</td>
+      <td>58</td>
+      <td>13</td>
+      <td>39</td>
+      <td>7</td>
+      <td>6</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0.256</td>
+      <td>2</td>
+      <td>0.13</td>
+      <td>0.341</td>
+      <td>0.345</td>
+      <td>0.422</td>
+      <td>0.362</td>
+    </tr>
+    <tr>
+      <td>Geraldo Perdomo</td>
+      <td>ARI</td>
+      <td>64</td>
+      <td>8</td>
+      <td>50</td>
+      <td>5</td>
+      <td>10</td>
+      <td>0</td>
+      <td>48</td>
+      <td>0.149</td>
+      <td>1</td>
+      <td>0.07</td>
+      <td>0.260</td>
+      <td>0.310</td>
+      <td>0.410</td>
+      <td>0.362</td>
+    </tr>
+    <tr>
+      <td>Nico Hoerner</td>
+      <td>CHC</td>
+      <td>69</td>
+      <td>18</td>
+      <td>40</td>
+      <td>6</td>
+      <td>9</td>
+      <td>2</td>
+      <td>51</td>
+      <td>0.333</td>
+      <td>1</td>
+      <td>0.19</td>
+      <td>0.409</td>
+      <td>0.372</td>
+      <td>0.431</td>
+      <td>0.359</td>
+    </tr>
+    <tr>
+      <td>Xander Bogaerts</td>
+      <td>SDP</td>
+      <td>65</td>
+      <td>14</td>
+      <td>45</td>
+      <td>6</td>
+      <td>6</td>
+      <td>0</td>
+      <td>51</td>
+      <td>0.235</td>
+      <td>2</td>
+      <td>0.11</td>
+      <td>0.312</td>
+      <td>0.363</td>
+      <td>0.416</td>
+      <td>0.359</td>
+    </tr>
+    <tr>
+      <td>Cam Smith</td>
+      <td>HOU</td>
+      <td>64</td>
+      <td>16</td>
+      <td>40</td>
+      <td>16</td>
+      <td>7</td>
+      <td>1</td>
+      <td>37</td>
+      <td>0.351</td>
+      <td>3</td>
+      <td>0.18</td>
+      <td>0.399</td>
+      <td>0.377</td>
+      <td>0.423</td>
+      <td>0.357</td>
+    </tr>
+    <tr>
+      <td>José Ramírez</td>
+      <td>CLE</td>
+      <td>69</td>
+      <td>11</td>
+      <td>50</td>
+      <td>9</td>
+      <td>8</td>
+      <td>0</td>
+      <td>50</td>
+      <td>0.180</td>
+      <td>2</td>
+      <td>0.09</td>
+      <td>0.280</td>
+      <td>0.362</td>
+      <td>0.408</td>
+      <td>0.354</td>
+    </tr>
+    <tr>
+      <td>Nolan Schanuel</td>
+      <td>LAA</td>
+      <td>65</td>
+      <td>13</td>
+      <td>48</td>
+      <td>10</td>
+      <td>8</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.244</td>
+      <td>2</td>
+      <td>0.12</td>
+      <td>0.319</td>
+      <td>0.328</td>
+      <td>0.406</td>
+      <td>0.354</td>
+    </tr>
+    <tr>
+      <td>Jonathan Aranda</td>
+      <td>TBR</td>
+      <td>70</td>
+      <td>13</td>
+      <td>48</td>
+      <td>15</td>
+      <td>7</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.222</td>
+      <td>3</td>
+      <td>0.11</td>
+      <td>0.310</td>
+      <td>0.360</td>
+      <td>0.406</td>
+      <td>0.349</td>
+    </tr>
+    <tr>
+      <td>Maikel Garcia</td>
+      <td>KCR</td>
+      <td>71</td>
+      <td>19</td>
+      <td>45</td>
+      <td>10</td>
+      <td>8</td>
+      <td>0</td>
+      <td>51</td>
+      <td>0.333</td>
+      <td>2</td>
+      <td>0.17</td>
+      <td>0.386</td>
+      <td>0.398</td>
+      <td>0.411</td>
+      <td>0.348</td>
+    </tr>
+    <tr>
+      <td>Alex Bregman</td>
+      <td>CHC</td>
+      <td>69</td>
+      <td>13</td>
+      <td>50</td>
+      <td>9</td>
+      <td>7</td>
+      <td>0</td>
+      <td>51</td>
+      <td>0.216</td>
+      <td>2</td>
+      <td>0.09</td>
+      <td>0.285</td>
+      <td>0.298</td>
+      <td>0.401</td>
+      <td>0.348</td>
+    </tr>
+    <tr>
+      <td>Randy Arozarena</td>
+      <td>SEA</td>
+      <td>68</td>
+      <td>16</td>
+      <td>39</td>
+      <td>12</td>
+      <td>10</td>
+      <td>3</td>
+      <td>42</td>
+      <td>0.357</td>
+      <td>1</td>
+      <td>0.17</td>
+      <td>0.387</td>
+      <td>0.400</td>
+      <td>0.417</td>
+      <td>0.348</td>
+    </tr>
+    <tr>
+      <td>Otto Lopez</td>
+      <td>MIA</td>
+      <td>61</td>
+      <td>18</td>
+      <td>38</td>
+      <td>8</td>
+      <td>4</td>
+      <td>1</td>
+      <td>46</td>
+      <td>0.348</td>
+      <td>2</td>
+      <td>0.18</td>
+      <td>0.406</td>
+      <td>0.365</td>
+      <td>0.410</td>
+      <td>0.347</td>
+    </tr>
+    <tr>
+      <td>Corbin Carroll</td>
+      <td>ARI</td>
+      <td>58</td>
+      <td>16</td>
+      <td>33</td>
+      <td>13</td>
+      <td>8</td>
+      <td>0</td>
+      <td>35</td>
+      <td>0.400</td>
+      <td>2</td>
+      <td>0.22</td>
+      <td>0.457</td>
+      <td>0.432</td>
+      <td>0.418</td>
+      <td>0.346</td>
+    </tr>
+    <tr>
+      <td>Iván Herrera</td>
+      <td>STL</td>
+      <td>69</td>
+      <td>10</td>
+      <td>44</td>
+      <td>10</td>
+      <td>14</td>
+      <td>2</td>
+      <td>43</td>
+      <td>0.233</td>
+      <td>0</td>
+      <td>0.10</td>
+      <td>0.296</td>
+      <td>0.385</td>
+      <td>0.407</td>
+      <td>0.346</td>
+    </tr>
+    <tr>
+      <td>Dansby Swanson</td>
+      <td>CHC</td>
+      <td>61</td>
+      <td>8</td>
+      <td>41</td>
+      <td>17</td>
+      <td>11</td>
+      <td>0</td>
+      <td>31</td>
+      <td>0.194</td>
+      <td>2</td>
+      <td>0.10</td>
+      <td>0.294</td>
+      <td>0.344</td>
+      <td>0.404</td>
+      <td>0.345</td>
+    </tr>
+    <tr>
+      <td>Colson Montgomery</td>
+      <td>CHW</td>
+      <td>63</td>
+      <td>11</td>
+      <td>44</td>
+      <td>19</td>
+      <td>5</td>
+      <td>3</td>
+      <td>33</td>
+      <td>0.242</td>
+      <td>3</td>
+      <td>0.12</td>
+      <td>0.328</td>
+      <td>0.281</td>
+      <td>0.399</td>
+      <td>0.345</td>
+    </tr>
+    <tr>
+      <td>Ozzie Albies</td>
+      <td>ATL</td>
+      <td>68</td>
+      <td>19</td>
+      <td>46</td>
+      <td>12</td>
+      <td>4</td>
+      <td>0</td>
+      <td>49</td>
+      <td>0.327</td>
+      <td>3</td>
+      <td>0.14</td>
+      <td>0.351</td>
+      <td>0.288</td>
+      <td>0.401</td>
+      <td>0.345</td>
+    </tr>
+    <tr>
+      <td>Bryan Reynolds</td>
+      <td>PIT</td>
+      <td>67</td>
+      <td>15</td>
+      <td>44</td>
+      <td>18</td>
+      <td>8</td>
+      <td>0</td>
+      <td>38</td>
+      <td>0.316</td>
+      <td>3</td>
+      <td>0.14</td>
+      <td>0.350</td>
+      <td>0.368</td>
+      <td>0.405</td>
+      <td>0.345</td>
+    </tr>
+    <tr>
+      <td>Wilyer Abreu</td>
+      <td>BOS</td>
+      <td>63</td>
+      <td>20</td>
+      <td>41</td>
+      <td>13</td>
+      <td>4</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0.395</td>
+      <td>3</td>
+      <td>0.20</td>
+      <td>0.430</td>
+      <td>0.364</td>
+      <td>0.404</td>
+      <td>0.345</td>
+    </tr>
+    <tr>
+      <td>Andrés Giménez</td>
+      <td>TOR</td>
+      <td>59</td>
+      <td>15</td>
+      <td>39</td>
+      <td>8</td>
+      <td>4</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.295</td>
+      <td>2</td>
+      <td>0.14</td>
+      <td>0.347</td>
+      <td>0.297</td>
+      <td>0.399</td>
+      <td>0.342</td>
+    </tr>
+    <tr>
+      <td>Junior Caminero</td>
+      <td>TBR</td>
+      <td>67</td>
+      <td>14</td>
+      <td>44</td>
+      <td>14</td>
+      <td>9</td>
+      <td>0</td>
+      <td>42</td>
+      <td>0.286</td>
+      <td>2</td>
+      <td>0.13</td>
+      <td>0.334</td>
+      <td>0.338</td>
+      <td>0.399</td>
+      <td>0.341</td>
+    </tr>
+    <tr>
+      <td>Kerry Carpenter</td>
+      <td>DET</td>
+      <td>57</td>
+      <td>10</td>
+      <td>38</td>
+      <td>21</td>
+      <td>7</td>
+      <td>1</td>
+      <td>25</td>
+      <td>0.280</td>
+      <td>3</td>
+      <td>0.13</td>
+      <td>0.332</td>
+      <td>0.298</td>
+      <td>0.397</td>
+      <td>0.340</td>
+    </tr>
+    <tr>
+      <td>Kevin McGonigle</td>
+      <td>DET</td>
+      <td>68</td>
+      <td>19</td>
+      <td>40</td>
+      <td>8</td>
+      <td>9</td>
+      <td>0</td>
+      <td>50</td>
+      <td>0.360</td>
+      <td>1</td>
+      <td>0.19</td>
+      <td>0.412</td>
+      <td>0.405</td>
+      <td>0.403</td>
+      <td>0.338</td>
+    </tr>
+    <tr>
+      <td>George Springer</td>
+      <td>TOR</td>
+      <td>62</td>
+      <td>10</td>
+      <td>45</td>
+      <td>14</td>
+      <td>8</td>
+      <td>0</td>
+      <td>38</td>
+      <td>0.211</td>
+      <td>2</td>
+      <td>0.10</td>
+      <td>0.304</td>
+      <td>0.289</td>
+      <td>0.390</td>
+      <td>0.338</td>
+    </tr>
+    <tr>
+      <td>JJ Wetherholt</td>
+      <td>STL</td>
+      <td>68</td>
+      <td>12</td>
+      <td>44</td>
+      <td>12</td>
+      <td>10</td>
+      <td>1</td>
+      <td>44</td>
+      <td>0.250</td>
+      <td>1</td>
+      <td>0.10</td>
+      <td>0.300</td>
+      <td>0.313</td>
+      <td>0.391</td>
+      <td>0.334</td>
+    </tr>
+    <tr>
+      <td>Steven Kwan</td>
+      <td>CLE</td>
+      <td>66</td>
+      <td>14</td>
+      <td>46</td>
+      <td>8</td>
+      <td>7</td>
+      <td>1</td>
+      <td>49</td>
+      <td>0.271</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.315</td>
+      <td>0.290</td>
+      <td>0.386</td>
+      <td>0.334</td>
+    </tr>
+    <tr>
+      <td>Trent Grisham</td>
+      <td>NYY</td>
+      <td>58</td>
+      <td>6</td>
+      <td>40</td>
+      <td>10</td>
+      <td>13</td>
+      <td>0</td>
+      <td>35</td>
+      <td>0.171</td>
+      <td>0</td>
+      <td>0.08</td>
+      <td>0.273</td>
+      <td>0.377</td>
+      <td>0.388</td>
+      <td>0.334</td>
+    </tr>
+    <tr>
+      <td>Cody Bellinger</td>
+      <td>NYY</td>
+      <td>65</td>
+      <td>13</td>
+      <td>42</td>
+      <td>10</td>
+      <td>9</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.267</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.317</td>
+      <td>0.329</td>
+      <td>0.388</td>
+      <td>0.332</td>
+    </tr>
+    <tr>
+      <td>Salvador Perez</td>
+      <td>KCR</td>
+      <td>64</td>
+      <td>9</td>
+      <td>51</td>
+      <td>11</td>
+      <td>4</td>
+      <td>1</td>
+      <td>46</td>
+      <td>0.152</td>
+      <td>2</td>
+      <td>0.05</td>
+      <td>0.227</td>
+      <td>0.285</td>
+      <td>0.375</td>
+      <td>0.331</td>
+    </tr>
+    <tr>
+      <td>Sal Frelick</td>
+      <td>MIL</td>
+      <td>57</td>
+      <td>9</td>
+      <td>41</td>
+      <td>10</td>
+      <td>7</td>
+      <td>1</td>
+      <td>38</td>
+      <td>0.216</td>
+      <td>1</td>
+      <td>0.09</td>
+      <td>0.284</td>
+      <td>0.300</td>
+      <td>0.381</td>
+      <td>0.331</td>
+    </tr>
+    <tr>
+      <td>Carlos Correa</td>
+      <td>HOU</td>
+      <td>57</td>
+      <td>15</td>
+      <td>39</td>
+      <td>7</td>
+      <td>6</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0.326</td>
+      <td>1</td>
+      <td>0.14</td>
+      <td>0.350</td>
+      <td>0.385</td>
+      <td>0.383</td>
+      <td>0.331</td>
+    </tr>
+    <tr>
+      <td>Gleyber Torres</td>
+      <td>DET</td>
+      <td>69</td>
+      <td>12</td>
+      <td>45</td>
+      <td>14</td>
+      <td>12</td>
+      <td>0</td>
+      <td>42</td>
+      <td>0.262</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.305</td>
+      <td>0.325</td>
+      <td>0.387</td>
+      <td>0.331</td>
+    </tr>
+    <tr>
+      <td>TJ Rumfield</td>
+      <td>COL</td>
+      <td>58</td>
+      <td>16</td>
+      <td>37</td>
+      <td>12</td>
+      <td>5</td>
+      <td>0</td>
+      <td>39</td>
+      <td>0.359</td>
+      <td>2</td>
+      <td>0.16</td>
+      <td>0.375</td>
+      <td>0.349</td>
+      <td>0.386</td>
+      <td>0.330</td>
+    </tr>
+    <tr>
+      <td>Miguel Vargas</td>
+      <td>CHW</td>
+      <td>62</td>
+      <td>9</td>
+      <td>41</td>
+      <td>14</td>
+      <td>9</td>
+      <td>2</td>
+      <td>36</td>
+      <td>0.222</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.310</td>
+      <td>0.310</td>
+      <td>0.384</td>
+      <td>0.330</td>
+    </tr>
+    <tr>
+      <td>Cole Young</td>
+      <td>SEA</td>
+      <td>62</td>
+      <td>14</td>
+      <td>41</td>
+      <td>16</td>
+      <td>7</td>
+      <td>1</td>
+      <td>36</td>
+      <td>0.333</td>
+      <td>2</td>
+      <td>0.15</td>
+      <td>0.362</td>
+      <td>0.313</td>
+      <td>0.384</td>
+      <td>0.329</td>
+    </tr>
+    <tr>
+      <td>Ketel Marte</td>
+      <td>ARI</td>
+      <td>67</td>
+      <td>12</td>
+      <td>50</td>
+      <td>13</td>
+      <td>6</td>
+      <td>0</td>
+      <td>46</td>
+      <td>0.217</td>
+      <td>2</td>
+      <td>0.08</td>
+      <td>0.275</td>
+      <td>0.345</td>
+      <td>0.374</td>
+      <td>0.326</td>
+    </tr>
+    <tr>
+      <td>Mauricio Dubón</td>
+      <td>ATL</td>
+      <td>59</td>
+      <td>20</td>
+      <td>39</td>
+      <td>9</td>
+      <td>2</td>
+      <td>0</td>
+      <td>46</td>
+      <td>0.391</td>
+      <td>2</td>
+      <td>0.19</td>
+      <td>0.415</td>
+      <td>0.329</td>
+      <td>0.374</td>
+      <td>0.323</td>
+    </tr>
+    <tr>
+      <td>Ronald Acuña Jr.</td>
+      <td>ATL</td>
+      <td>72</td>
+      <td>15</td>
+      <td>49</td>
+      <td>13</td>
+      <td>8</td>
+      <td>1</td>
+      <td>49</td>
+      <td>0.286</td>
+      <td>1</td>
+      <td>0.12</td>
+      <td>0.328</td>
+      <td>0.413</td>
+      <td>0.364</td>
+      <td>0.316</td>
+    </tr>
+    <tr>
+      <td>Alec Bohm</td>
+      <td>PHI</td>
+      <td>60</td>
+      <td>8</td>
+      <td>47</td>
+      <td>10</td>
+      <td>5</td>
+      <td>1</td>
+      <td>43</td>
+      <td>0.163</td>
+      <td>1</td>
+      <td>0.04</td>
+      <td>0.220</td>
+      <td>0.270</td>
+      <td>0.358</td>
+      <td>0.315</td>
+    </tr>
+    <tr>
+      <td>Jorge Polanco</td>
+      <td>NYM</td>
+      <td>54</td>
+      <td>9</td>
+      <td>40</td>
+      <td>9</td>
+      <td>5</td>
+      <td>0</td>
+      <td>39</td>
+      <td>0.205</td>
+      <td>1</td>
+      <td>0.07</td>
+      <td>0.262</td>
+      <td>0.281</td>
+      <td>0.360</td>
+      <td>0.315</td>
+    </tr>
+    <tr>
+      <td>Xavier Edwards</td>
+      <td>MIA</td>
+      <td>66</td>
+      <td>21</td>
+      <td>40</td>
+      <td>8</td>
+      <td>5</td>
+      <td>0</td>
+      <td>52</td>
+      <td>0.392</td>
+      <td>1</td>
+      <td>0.19</td>
+      <td>0.409</td>
+      <td>0.316</td>
+      <td>0.366</td>
+      <td>0.315</td>
+    </tr>
+    <tr>
+      <td>Jake Cronenworth</td>
+      <td>SDP</td>
+      <td>59</td>
+      <td>8</td>
+      <td>45</td>
+      <td>12</td>
+      <td>7</td>
+      <td>0</td>
+      <td>39</td>
+      <td>0.179</td>
+      <td>1</td>
+      <td>0.05</td>
+      <td>0.235</td>
+      <td>0.323</td>
+      <td>0.356</td>
+      <td>0.312</td>
+    </tr>
+    <tr>
+      <td>Adolis García</td>
+      <td>PHI</td>
+      <td>61</td>
+      <td>11</td>
+      <td>43</td>
+      <td>17</td>
+      <td>4</td>
+      <td>2</td>
+      <td>36</td>
+      <td>0.250</td>
+      <td>2</td>
+      <td>0.09</td>
+      <td>0.288</td>
+      <td>0.314</td>
+      <td>0.357</td>
+      <td>0.312</td>
+    </tr>
+    <tr>
+      <td>Willy Adames</td>
+      <td>SFG</td>
+      <td>67</td>
+      <td>16</td>
+      <td>47</td>
+      <td>15</td>
+      <td>5</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.311</td>
+      <td>2</td>
+      <td>0.15</td>
+      <td>0.360</td>
+      <td>0.321</td>
+      <td>0.358</td>
+      <td>0.311</td>
+    </tr>
+    <tr>
+      <td>Riley Greene</td>
+      <td>DET</td>
+      <td>69</td>
+      <td>15</td>
+      <td>48</td>
+      <td>15</td>
+      <td>9</td>
+      <td>0</td>
+      <td>44</td>
+      <td>0.318</td>
+      <td>1</td>
+      <td>0.13</td>
+      <td>0.331</td>
+      <td>0.381</td>
+      <td>0.354</td>
+      <td>0.308</td>
+    </tr>
+    <tr>
+      <td>Tyler Soderstrom</td>
+      <td>NaN</td>
+      <td>64</td>
+      <td>13</td>
+      <td>49</td>
+      <td>16</td>
+      <td>5</td>
+      <td>0</td>
+      <td>41</td>
+      <td>0.268</td>
+      <td>2</td>
+      <td>0.11</td>
+      <td>0.309</td>
+      <td>0.314</td>
+      <td>0.351</td>
+      <td>0.308</td>
+    </tr>
+    <tr>
+      <td>Victor Caratini</td>
+      <td>MIN</td>
+      <td>55</td>
+      <td>12</td>
+      <td>36</td>
+      <td>7</td>
+      <td>5</td>
+      <td>2</td>
+      <td>41</td>
+      <td>0.293</td>
+      <td>0</td>
+      <td>0.10</td>
+      <td>0.297</td>
+      <td>0.381</td>
+      <td>0.352</td>
+      <td>0.308</td>
+    </tr>
+    <tr>
+      <td>Jung Hoo Lee</td>
+      <td>SFG</td>
+      <td>61</td>
+      <td>10</td>
+      <td>46</td>
+      <td>10</td>
+      <td>5</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0.200</td>
+      <td>1</td>
+      <td>0.07</td>
+      <td>0.253</td>
+      <td>0.292</td>
+      <td>0.350</td>
+      <td>0.307</td>
+    </tr>
+    <tr>
+      <td>Luke Keaschall</td>
+      <td>MIN</td>
+      <td>67</td>
+      <td>13</td>
+      <td>48</td>
+      <td>10</td>
+      <td>5</td>
+      <td>0</td>
+      <td>51</td>
+      <td>0.235</td>
+      <td>1</td>
+      <td>0.07</td>
+      <td>0.254</td>
+      <td>0.290</td>
+      <td>0.349</td>
+      <td>0.306</td>
+    </tr>
+    <tr>
+      <td>Kyle Tucker</td>
+      <td>LAD</td>
+      <td>67</td>
+      <td>14</td>
+      <td>43</td>
+      <td>16</td>
+      <td>9</td>
+      <td>0</td>
+      <td>41</td>
+      <td>0.317</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.310</td>
+      <td>0.292</td>
+      <td>0.351</td>
+      <td>0.305</td>
+    </tr>
+    <tr>
+      <td>Nick Kurtz</td>
+      <td>NaN</td>
+      <td>63</td>
+      <td>10</td>
+      <td>40</td>
+      <td>24</td>
+      <td>14</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0.375</td>
+      <td>1</td>
+      <td>0.13</td>
+      <td>0.334</td>
+      <td>0.372</td>
+      <td>0.350</td>
+      <td>0.302</td>
+    </tr>
+    <tr>
+      <td>Francisco Lindor</td>
+      <td>NYM</td>
+      <td>75</td>
+      <td>12</td>
+      <td>53</td>
+      <td>13</td>
+      <td>10</td>
+      <td>1</td>
+      <td>51</td>
+      <td>0.235</td>
+      <td>0</td>
+      <td>0.08</td>
+      <td>0.275</td>
+      <td>0.331</td>
+      <td>0.344</td>
+      <td>0.302</td>
+    </tr>
+    <tr>
+      <td>Bobby Witt Jr.</td>
+      <td>KCR</td>
+      <td>70</td>
+      <td>16</td>
+      <td>47</td>
+      <td>12</td>
+      <td>10</td>
+      <td>0</td>
+      <td>48</td>
+      <td>0.333</td>
+      <td>0</td>
+      <td>0.11</td>
+      <td>0.315</td>
+      <td>0.392</td>
+      <td>0.343</td>
+      <td>0.300</td>
+    </tr>
+    <tr>
+      <td>Brady House</td>
+      <td>WSN</td>
+      <td>61</td>
+      <td>14</td>
+      <td>44</td>
+      <td>18</td>
+      <td>5</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.333</td>
+      <td>2</td>
+      <td>0.12</td>
+      <td>0.327</td>
+      <td>0.309</td>
+      <td>0.341</td>
+      <td>0.299</td>
+    </tr>
+    <tr>
+      <td>Brandon Marsh</td>
+      <td>PHI</td>
+      <td>55</td>
+      <td>14</td>
+      <td>39</td>
+      <td>14</td>
+      <td>2</td>
+      <td>0</td>
+      <td>37</td>
+      <td>0.324</td>
+      <td>2</td>
+      <td>0.12</td>
+      <td>0.324</td>
+      <td>0.336</td>
+      <td>0.340</td>
+      <td>0.299</td>
+    </tr>
+    <tr>
+      <td>Luis Arraez</td>
+      <td>SFG</td>
+      <td>63</td>
+      <td>17</td>
+      <td>40</td>
+      <td>4</td>
+      <td>4</td>
+      <td>0</td>
+      <td>55</td>
+      <td>0.315</td>
+      <td>0</td>
+      <td>0.12</td>
+      <td>0.326</td>
+      <td>0.301</td>
+      <td>0.339</td>
+      <td>0.298</td>
+    </tr>
+    <tr>
+      <td>Spencer Torkelson</td>
+      <td>DET</td>
+      <td>59</td>
+      <td>10</td>
+      <td>39</td>
+      <td>16</td>
+      <td>11</td>
+      <td>1</td>
+      <td>31</td>
+      <td>0.323</td>
+      <td>0</td>
+      <td>0.11</td>
+      <td>0.312</td>
+      <td>0.372</td>
+      <td>0.340</td>
+      <td>0.297</td>
+    </tr>
+    <tr>
+      <td>Chase Meidroth</td>
+      <td>CHW</td>
+      <td>64</td>
+      <td>11</td>
+      <td>48</td>
+      <td>15</td>
+      <td>7</td>
+      <td>0</td>
+      <td>41</td>
+      <td>0.250</td>
+      <td>1</td>
+      <td>0.08</td>
+      <td>0.276</td>
+      <td>0.286</td>
+      <td>0.337</td>
+      <td>0.297</td>
+    </tr>
+    <tr>
+      <td>Chandler Simpson</td>
+      <td>TBR</td>
+      <td>59</td>
+      <td>23</td>
+      <td>35</td>
+      <td>3</td>
+      <td>3</td>
+      <td>0</td>
+      <td>53</td>
+      <td>0.434</td>
+      <td>0</td>
+      <td>0.19</td>
+      <td>0.416</td>
+      <td>0.305</td>
+      <td>0.337</td>
+      <td>0.297</td>
+    </tr>
+    <tr>
+      <td>Eugenio Suárez</td>
+      <td>CIN</td>
+      <td>64</td>
+      <td>13</td>
+      <td>45</td>
+      <td>20</td>
+      <td>6</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.306</td>
+      <td>2</td>
+      <td>0.10</td>
+      <td>0.296</td>
+      <td>0.293</td>
+      <td>0.338</td>
+      <td>0.296</td>
+    </tr>
+    <tr>
+      <td>Spencer Steer</td>
+      <td>CIN</td>
+      <td>55</td>
+      <td>9</td>
+      <td>42</td>
+      <td>16</td>
+      <td>3</td>
+      <td>0</td>
+      <td>34</td>
+      <td>0.206</td>
+      <td>2</td>
+      <td>0.07</td>
+      <td>0.254</td>
+      <td>0.289</td>
+      <td>0.335</td>
+      <td>0.296</td>
+    </tr>
+    <tr>
+      <td>Marcus Semien</td>
+      <td>NYM</td>
+      <td>64</td>
+      <td>11</td>
+      <td>48</td>
+      <td>13</td>
+      <td>4</td>
+      <td>1</td>
+      <td>45</td>
+      <td>0.222</td>
+      <td>1</td>
+      <td>0.06</td>
+      <td>0.244</td>
+      <td>0.261</td>
+      <td>0.331</td>
+      <td>0.293</td>
+    </tr>
+    <tr>
+      <td>Giancarlo Stanton</td>
+      <td>NYY</td>
+      <td>55</td>
+      <td>15</td>
+      <td>36</td>
+      <td>13</td>
+      <td>5</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.389</td>
+      <td>1</td>
+      <td>0.14</td>
+      <td>0.350</td>
+      <td>0.329</td>
+      <td>0.333</td>
+      <td>0.293</td>
+    </tr>
+    <tr>
+      <td>Matt Chapman</td>
+      <td>SFG</td>
+      <td>67</td>
+      <td>18</td>
+      <td>47</td>
+      <td>13</td>
+      <td>5</td>
+      <td>0</td>
+      <td>48</td>
+      <td>0.354</td>
+      <td>1</td>
+      <td>0.14</td>
+      <td>0.345</td>
+      <td>0.287</td>
+      <td>0.331</td>
+      <td>0.293</td>
+    </tr>
+    <tr>
+      <td>Kazuma Okamoto</td>
+      <td>TOR</td>
+      <td>60</td>
+      <td>11</td>
+      <td>46</td>
+      <td>21</td>
+      <td>6</td>
+      <td>0</td>
+      <td>31</td>
+      <td>0.290</td>
+      <td>2</td>
+      <td>0.09</td>
+      <td>0.286</td>
+      <td>0.295</td>
+      <td>0.332</td>
+      <td>0.292</td>
+    </tr>
+    <tr>
+      <td>Taylor Ward</td>
+      <td>BAL</td>
+      <td>70</td>
+      <td>21</td>
+      <td>39</td>
+      <td>14</td>
+      <td>10</td>
+      <td>0</td>
+      <td>46</td>
+      <td>0.457</td>
+      <td>0</td>
+      <td>0.20</td>
+      <td>0.431</td>
+      <td>0.356</td>
+      <td>0.333</td>
+      <td>0.292</td>
+    </tr>
+    <tr>
+      <td>Cal Raleigh</td>
+      <td>SEA</td>
+      <td>69</td>
+      <td>8</td>
+      <td>53</td>
+      <td>24</td>
+      <td>8</td>
+      <td>0</td>
+      <td>35</td>
+      <td>0.171</td>
+      <td>2</td>
+      <td>0.05</td>
+      <td>0.235</td>
+      <td>0.276</td>
+      <td>0.331</td>
+      <td>0.291</td>
+    </tr>
+    <tr>
+      <td>Hunter Goodman</td>
+      <td>COL</td>
+      <td>61</td>
+      <td>13</td>
+      <td>42</td>
+      <td>23</td>
+      <td>5</td>
+      <td>2</td>
+      <td>29</td>
+      <td>0.379</td>
+      <td>2</td>
+      <td>0.11</td>
+      <td>0.317</td>
+      <td>0.272</td>
+      <td>0.329</td>
+      <td>0.290</td>
+    </tr>
+    <tr>
+      <td>Christian Yelich</td>
+      <td>MIL</td>
+      <td>56</td>
+      <td>16</td>
+      <td>35</td>
+      <td>14</td>
+      <td>5</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.417</td>
+      <td>1</td>
+      <td>0.15</td>
+      <td>0.361</td>
+      <td>0.282</td>
+      <td>0.325</td>
+      <td>0.288</td>
+    </tr>
+    <tr>
+      <td>Rafael Devers</td>
+      <td>SFG</td>
+      <td>67</td>
+      <td>14</td>
+      <td>52</td>
+      <td>19</td>
+      <td>4</td>
+      <td>0</td>
+      <td>42</td>
+      <td>0.286</td>
+      <td>2</td>
+      <td>0.08</td>
+      <td>0.269</td>
+      <td>0.301</td>
+      <td>0.325</td>
+      <td>0.288</td>
+    </tr>
+    <tr>
+      <td>Ernie Clement</td>
+      <td>TOR</td>
+      <td>62</td>
+      <td>19</td>
+      <td>44</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>59</td>
+      <td>0.322</td>
+      <td>0</td>
+      <td>0.12</td>
+      <td>0.322</td>
+      <td>0.301</td>
+      <td>0.322</td>
+      <td>0.287</td>
+    </tr>
+    <tr>
+      <td>Josh Naylor</td>
+      <td>SEA</td>
+      <td>66</td>
+      <td>6</td>
+      <td>56</td>
+      <td>11</td>
+      <td>6</td>
+      <td>1</td>
+      <td>48</td>
+      <td>0.125</td>
+      <td>0</td>
+      <td>-0.01</td>
+      <td>0.150</td>
+      <td>0.282</td>
+      <td>0.323</td>
+      <td>0.287</td>
+    </tr>
+    <tr>
+      <td>Julio Rodríguez</td>
+      <td>SEA</td>
+      <td>70</td>
+      <td>12</td>
+      <td>51</td>
+      <td>19</td>
+      <td>7</td>
+      <td>1</td>
+      <td>42</td>
+      <td>0.262</td>
+      <td>1</td>
+      <td>0.07</td>
+      <td>0.254</td>
+      <td>0.268</td>
+      <td>0.322</td>
+      <td>0.286</td>
+    </tr>
+    <tr>
+      <td>Austin Riley</td>
+      <td>ATL</td>
+      <td>66</td>
+      <td>13</td>
+      <td>45</td>
+      <td>14</td>
+      <td>9</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0.302</td>
+      <td>0</td>
+      <td>0.10</td>
+      <td>0.294</td>
+      <td>0.308</td>
+      <td>0.322</td>
+      <td>0.286</td>
+    </tr>
+    <tr>
+      <td>Jo Adell</td>
+      <td>LAA</td>
+      <td>67</td>
+      <td>19</td>
+      <td>45</td>
+      <td>12</td>
+      <td>1</td>
+      <td>2</td>
+      <td>51</td>
+      <td>0.353</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.310</td>
+      <td>0.301</td>
+      <td>0.319</td>
+      <td>0.285</td>
+    </tr>
+    <tr>
+      <td>Pete Alonso</td>
+      <td>BAL</td>
+      <td>66</td>
+      <td>11</td>
+      <td>49</td>
+      <td>19</td>
+      <td>8</td>
+      <td>0</td>
+      <td>38</td>
+      <td>0.263</td>
+      <td>1</td>
+      <td>0.08</td>
+      <td>0.274</td>
+      <td>0.310</td>
+      <td>0.322</td>
+      <td>0.285</td>
+    </tr>
+    <tr>
+      <td>Matt McLain</td>
+      <td>CIN</td>
+      <td>70</td>
+      <td>13</td>
+      <td>50</td>
+      <td>16</td>
+      <td>8</td>
+      <td>2</td>
+      <td>44</td>
+      <td>0.295</td>
+      <td>0</td>
+      <td>0.09</td>
+      <td>0.288</td>
+      <td>0.325</td>
+      <td>0.319</td>
+      <td>0.285</td>
+    </tr>
+    <tr>
+      <td>Roman Anthony</td>
+      <td>BOS</td>
+      <td>62</td>
+      <td>11</td>
+      <td>44</td>
+      <td>18</td>
+      <td>7</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.278</td>
+      <td>1</td>
+      <td>0.08</td>
+      <td>0.273</td>
+      <td>0.313</td>
+      <td>0.319</td>
+      <td>0.283</td>
+    </tr>
+    <tr>
+      <td>TJ Friedl</td>
+      <td>CIN</td>
+      <td>70</td>
+      <td>9</td>
+      <td>50</td>
+      <td>18</td>
+      <td>10</td>
+      <td>1</td>
+      <td>41</td>
+      <td>0.220</td>
+      <td>0</td>
+      <td>0.05</td>
+      <td>0.229</td>
+      <td>0.226</td>
+      <td>0.316</td>
+      <td>0.282</td>
+    </tr>
+    <tr>
+      <td>Michael Busch</td>
+      <td>CHC</td>
+      <td>60</td>
+      <td>7</td>
+      <td>46</td>
+      <td>12</td>
+      <td>7</td>
+      <td>0</td>
+      <td>41</td>
+      <td>0.171</td>
+      <td>0</td>
+      <td>0.03</td>
+      <td>0.202</td>
+      <td>0.246</td>
+      <td>0.316</td>
+      <td>0.281</td>
+    </tr>
+    <tr>
+      <td>Agustín Ramírez</td>
+      <td>MIA</td>
+      <td>64</td>
+      <td>12</td>
+      <td>46</td>
+      <td>14</td>
+      <td>7</td>
+      <td>1</td>
+      <td>42</td>
+      <td>0.286</td>
+      <td>0</td>
+      <td>0.09</td>
+      <td>0.283</td>
+      <td>0.269</td>
+      <td>0.312</td>
+      <td>0.279</td>
+    </tr>
+    <tr>
+      <td>Cedric Mullins</td>
+      <td>TBR</td>
+      <td>56</td>
+      <td>7</td>
+      <td>45</td>
+      <td>13</td>
+      <td>2</td>
+      <td>1</td>
+      <td>39</td>
+      <td>0.158</td>
+      <td>1</td>
+      <td>0.02</td>
+      <td>0.198</td>
+      <td>0.211</td>
+      <td>0.312</td>
+      <td>0.279</td>
+    </tr>
+    <tr>
+      <td>Matt Wallner</td>
+      <td>MIN</td>
+      <td>64</td>
+      <td>13</td>
+      <td>48</td>
+      <td>29</td>
+      <td>4</td>
+      <td>1</td>
+      <td>27</td>
+      <td>0.370</td>
+      <td>3</td>
+      <td>0.11</td>
+      <td>0.311</td>
+      <td>0.288</td>
+      <td>0.313</td>
+      <td>0.278</td>
+    </tr>
+    <tr>
+      <td>Trea Turner</td>
+      <td>PHI</td>
+      <td>67</td>
+      <td>16</td>
+      <td>49</td>
+      <td>15</td>
+      <td>4</td>
+      <td>0</td>
+      <td>47</td>
+      <td>0.319</td>
+      <td>1</td>
+      <td>0.10</td>
+      <td>0.302</td>
+      <td>0.254</td>
+      <td>0.310</td>
+      <td>0.278</td>
+    </tr>
+    <tr>
+      <td>Daylen Lile</td>
+      <td>WSN</td>
+      <td>70</td>
+      <td>18</td>
+      <td>52</td>
+      <td>9</td>
+      <td>4</td>
+      <td>0</td>
+      <td>57</td>
+      <td>0.316</td>
+      <td>0</td>
+      <td>0.10</td>
+      <td>0.297</td>
+      <td>0.316</td>
+      <td>0.308</td>
+      <td>0.277</td>
+    </tr>
+    <tr>
+      <td>Vinnie Pasquantino</td>
+      <td>KCR</td>
+      <td>69</td>
+      <td>9</td>
+      <td>51</td>
+      <td>16</td>
+      <td>7</td>
+      <td>1</td>
+      <td>45</td>
+      <td>0.200</td>
+      <td>0</td>
+      <td>0.03</td>
+      <td>0.207</td>
+      <td>0.261</td>
+      <td>0.302</td>
+      <td>0.272</td>
+    </tr>
+    <tr>
+      <td>Jake Burger</td>
+      <td>TEX</td>
+      <td>63</td>
+      <td>14</td>
+      <td>50</td>
+      <td>20</td>
+      <td>1</td>
+      <td>1</td>
+      <td>39</td>
+      <td>0.308</td>
+      <td>2</td>
+      <td>0.09</td>
+      <td>0.290</td>
+      <td>0.283</td>
+      <td>0.301</td>
+      <td>0.270</td>
+    </tr>
+    <tr>
+      <td>Bo Bichette</td>
+      <td>NYM</td>
+      <td>74</td>
+      <td>16</td>
+      <td>53</td>
+      <td>19</td>
+      <td>5</td>
+      <td>0</td>
+      <td>49</td>
+      <td>0.306</td>
+      <td>1</td>
+      <td>0.08</td>
+      <td>0.272</td>
+      <td>0.295</td>
+      <td>0.297</td>
+      <td>0.269</td>
+    </tr>
+    <tr>
+      <td>Fernando Tatis Jr.</td>
+      <td>SDP</td>
+      <td>73</td>
+      <td>15</td>
+      <td>48</td>
+      <td>17</td>
+      <td>8</td>
+      <td>0</td>
+      <td>48</td>
+      <td>0.319</td>
+      <td>0</td>
+      <td>0.09</td>
+      <td>0.290</td>
+      <td>0.366</td>
+      <td>0.293</td>
+      <td>0.268</td>
+    </tr>
+    <tr>
+      <td>Mike Yastrzemski</td>
+      <td>ATL</td>
+      <td>58</td>
+      <td>9</td>
+      <td>42</td>
+      <td>16</td>
+      <td>8</td>
+      <td>0</td>
+      <td>34</td>
+      <td>0.265</td>
+      <td>0</td>
+      <td>0.07</td>
+      <td>0.265</td>
+      <td>0.243</td>
+      <td>0.296</td>
+      <td>0.268</td>
+    </tr>
+    <tr>
+      <td>Jakob Marsee</td>
+      <td>MIA</td>
+      <td>72</td>
+      <td>9</td>
+      <td>55</td>
+      <td>19</td>
+      <td>8</td>
+      <td>1</td>
+      <td>44</td>
+      <td>0.205</td>
+      <td>0</td>
+      <td>0.05</td>
+      <td>0.229</td>
+      <td>0.258</td>
+      <td>0.295</td>
+      <td>0.266</td>
+    </tr>
+    <tr>
+      <td>Wyatt Langford</td>
+      <td>TEX</td>
+      <td>54</td>
+      <td>9</td>
+      <td>45</td>
+      <td>13</td>
+      <td>1</td>
+      <td>0</td>
+      <td>39</td>
+      <td>0.205</td>
+      <td>1</td>
+      <td>0.05</td>
+      <td>0.230</td>
+      <td>0.268</td>
+      <td>0.291</td>
+      <td>0.262</td>
+    </tr>
+    <tr>
+      <td>Max Muncy</td>
+      <td>NaN</td>
+      <td>61</td>
+      <td>18</td>
+      <td>42</td>
+      <td>22</td>
+      <td>2</td>
+      <td>0</td>
+      <td>35</td>
+      <td>0.457</td>
+      <td>2</td>
+      <td>0.16</td>
+      <td>0.377</td>
+      <td>0.332</td>
+      <td>0.281</td>
+      <td>0.260</td>
+    </tr>
+    <tr>
+      <td>Pete Crow-Armstrong</td>
+      <td>CHC</td>
+      <td>63</td>
+      <td>12</td>
+      <td>50</td>
+      <td>19</td>
+      <td>3</td>
+      <td>0</td>
+      <td>40</td>
+      <td>0.282</td>
+      <td>1</td>
+      <td>0.05</td>
+      <td>0.229</td>
+      <td>0.233</td>
+      <td>0.275</td>
+      <td>0.252</td>
+    </tr>
+    <tr>
+      <td>Byron Buxton</td>
+      <td>MIN</td>
+      <td>62</td>
+      <td>10</td>
+      <td>45</td>
+      <td>17</td>
+      <td>5</td>
+      <td>1</td>
+      <td>39</td>
+      <td>0.256</td>
+      <td>0</td>
+      <td>0.06</td>
+      <td>0.247</td>
+      <td>0.253</td>
+      <td>0.269</td>
+      <td>0.252</td>
+    </tr>
+    <tr>
+      <td>Ezequiel Tovar</td>
+      <td>COL</td>
+      <td>64</td>
+      <td>16</td>
+      <td>46</td>
+      <td>18</td>
+      <td>1</td>
+      <td>1</td>
+      <td>43</td>
+      <td>0.349</td>
+      <td>1</td>
+      <td>0.11</td>
+      <td>0.313</td>
+      <td>0.341</td>
+      <td>0.266</td>
+      <td>0.251</td>
+    </tr>
+    <tr>
+      <td>Harrison Bader</td>
+      <td>SFG</td>
+      <td>55</td>
+      <td>6</td>
+      <td>48</td>
+      <td>17</td>
+      <td>2</td>
+      <td>0</td>
+      <td>35</td>
+      <td>0.143</td>
+      <td>1</td>
+      <td>-0.01</td>
+      <td>0.155</td>
+      <td>0.261</td>
+      <td>0.276</td>
+      <td>0.249</td>
+    </tr>
+    <tr>
+      <td>Jacob Wilson</td>
+      <td>NaN</td>
+      <td>60</td>
+      <td>15</td>
+      <td>47</td>
+      <td>9</td>
+      <td>0</td>
+      <td>0</td>
+      <td>51</td>
+      <td>0.294</td>
+      <td>0</td>
+      <td>0.06</td>
+      <td>0.247</td>
+      <td>0.254</td>
+      <td>0.264</td>
+      <td>0.247</td>
+    </tr>
+    <tr>
+      <td>Jac Caglianone</td>
+      <td>KCR</td>
+      <td>54</td>
+      <td>11</td>
+      <td>38</td>
+      <td>17</td>
+      <td>4</td>
+      <td>2</td>
+      <td>31</td>
+      <td>0.355</td>
+      <td>0</td>
+      <td>0.10</td>
+      <td>0.295</td>
+      <td>0.305</td>
+      <td>0.257</td>
+      <td>0.246</td>
+    </tr>
+    <tr>
+      <td>Colt Keith</td>
+      <td>DET</td>
+      <td>56</td>
+      <td>18</td>
+      <td>35</td>
+      <td>13</td>
+      <td>3</td>
+      <td>0</td>
+      <td>40</td>
+      <td>0.450</td>
+      <td>0</td>
+      <td>0.16</td>
+      <td>0.380</td>
+      <td>0.356</td>
+      <td>0.245</td>
+      <td>0.245</td>
+    </tr>
+    <tr>
+      <td>Willi Castro</td>
+      <td>COL</td>
+      <td>54</td>
+      <td>11</td>
+      <td>40</td>
+      <td>21</td>
+      <td>4</td>
+      <td>0</td>
+      <td>28</td>
+      <td>0.357</td>
+      <td>1</td>
+      <td>0.09</td>
+      <td>0.283</td>
+      <td>0.250</td>
+      <td>0.256</td>
+      <td>0.242</td>
+    </tr>
+    <tr>
+      <td>Jazz Chisholm Jr.</td>
+      <td>NYY</td>
+      <td>60</td>
+      <td>10</td>
+      <td>47</td>
+      <td>17</td>
+      <td>3</td>
+      <td>1</td>
+      <td>39</td>
+      <td>0.256</td>
+      <td>0</td>
+      <td>0.05</td>
+      <td>0.232</td>
+      <td>0.208</td>
+      <td>0.248</td>
+      <td>0.236</td>
+    </tr>
+    <tr>
+      <td>Trevor Story</td>
+      <td>BOS</td>
+      <td>69</td>
+      <td>12</td>
+      <td>56</td>
+      <td>21</td>
+      <td>1</td>
+      <td>0</td>
+      <td>46</td>
+      <td>0.239</td>
+      <td>1</td>
+      <td>0.03</td>
+      <td>0.204</td>
+      <td>0.251</td>
+      <td>0.249</td>
+      <td>0.235</td>
+    </tr>
+    <tr>
+      <td>Brett Baty</td>
+      <td>NYM</td>
+      <td>54</td>
+      <td>12</td>
+      <td>42</td>
+      <td>16</td>
+      <td>0</td>
+      <td>0</td>
+      <td>38</td>
+      <td>0.316</td>
+      <td>0</td>
+      <td>0.05</td>
+      <td>0.238</td>
+      <td>0.238</td>
+      <td>0.184</td>
+      <td>0.204</td>
+    </tr>
+    <tr>
+      <td>Heliot Ramos</td>
+      <td>SFG</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>22</td>
+      <td>2</td>
+      <td>0</td>
+      <td>36</td>
+      <td>0.389</td>
+      <td>0</td>
+      <td>0.06</td>
+      <td>0.249</td>
+      <td>0.234</td>
+      <td>0.156</td>
+      <td>0.198</td>
+    </tr>
+  </tbody>
 </table>
-        </div>
-        
-        <footer>
-            <a href="https://2Skupz.github.io/index.html">← Back to Index</a>
-        </footer>
-    </div>
-    
-    
+            </div>
+            <p class="footer-note">Higher `dwOBA3` and `fwOBA` indicate stronger 3TO wOBA hitting profiles.</p>
+        </section>
+    </main>
+    <script>
+        (() => {
+            const table = document.querySelector(".stats-table");
+            if (!table) return;
+
+            const headers = Array.from(table.querySelectorAll("thead th"));
+            const body = table.querySelector("tbody");
+            const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
+
+            headers.forEach((header, index) => {
+                const label = header.textContent.trim();
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "sort-button";
+                button.innerHTML = `<span>${label}</span><span class="sort-indicator" aria-hidden="true">↕</span>`;
+
+                header.textContent = "";
+                header.appendChild(button);
+                header.dataset.sortDirection = "desc";
+
+                button.addEventListener("click", () => {
+                    const rows = Array.from(body.querySelectorAll("tr"));
+                    const currentDirection = header.dataset.sortDirection === "asc" ? "asc" : "desc";
+                    const nextDirection = currentDirection === "asc" ? "desc" : "asc";
+
+                    headers.forEach((cell) => {
+                        cell.classList.remove("is-sorted");
+                        cell.dataset.sortDirection = "desc";
+                        const indicator = cell.querySelector(".sort-indicator");
+                        if (indicator) indicator.textContent = "↕";
+                    });
+
+                    const sampleCell = rows.find((row) => row.children[index]?.textContent.trim() !== "")?.children[index];
+                    const isNumeric = sampleCell ? !Number.isNaN(Number(sampleCell.textContent.trim())) : false;
+
+                    rows.sort((rowA, rowB) => {
+                        const valueA = rowA.children[index]?.textContent.trim() ?? "";
+                        const valueB = rowB.children[index]?.textContent.trim() ?? "";
+
+                        if (isNumeric) {
+                            const numA = Number(valueA);
+                            const numB = Number(valueB);
+                            return nextDirection === "asc" ? numA - numB : numB - numA;
+                        }
+
+                        return nextDirection === "asc"
+                            ? collator.compare(valueA, valueB)
+                            : collator.compare(valueB, valueA);
+                    });
+
+                    rows.forEach((row) => body.appendChild(row));
+
+                    header.classList.add("is-sorted");
+                    header.dataset.sortDirection = nextDirection;
+                    const activeIndicator = header.querySelector(".sort-indicator");
+                    if (activeIndicator) activeIndicator.textContent = nextDirection === "asc" ? "↑" : "↓";
+                });
+            });
+        })();
+    </script>
 </body>
 </html>
