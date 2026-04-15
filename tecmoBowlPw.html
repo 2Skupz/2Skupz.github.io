@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tecmo Bowl Password Generator</title>
+  <link rel="stylesheet" href="./tecmoBowlStyle.css">
+</head>
+<body>
+  <main class="page-shell">
+    <section class="app-card" aria-labelledby="app-title">
+      <div class="hero">
+        <p class="eyebrow">NES Utility</p>
+        <h1 id="app-title">Tecmo Bowl Password Generator</h1>
+        <p class="intro">
+          Pick your team, check off your wins, and generate the password instantly.
+        </p>
+      </div>
+
+      <form id="password-form" novalidate>
+        <fieldset class="panel">
+          <legend><span class="legend-kicker">Player Team</span>Which team are you playing as?</legend>
+          <div id="human-team-options" class="team-grid" role="radiogroup" aria-label="Human team"></div>
+        </fieldset>
+
+        <fieldset class="panel panel-wins">
+          <legend><span class="legend-kicker">Season Wins</span>Which teams have you defeated?</legend>
+          <div id="defeated-team-options" class="team-grid" aria-label="Defeated teams"></div>
+        </fieldset>
+
+        <div class="actions">
+          <button type="submit" class="button">Generate Password</button>
+          <button type="button" class="button button-secondary" id="resetButton">Reset</button>
+          <button type="button" class="button button-secondary" id="copyButton" disabled>Copy Password</button>
+        </div>
+      </form>
+
+      <section class="result-card" aria-labelledby="result-title">
+        <div>
+          <p class="result-label" id="result-title">Generated password</p>
+          <p id="statusMessage" class="status-message" aria-live="polite">
+            Choose a team and at least one win to generate a password.
+          </p>
+        </div>
+        <output id="total" class="password-output" aria-live="polite">------</output>
+      </section>
+
+      <noscript>
+        <p class="noscript-message">JavaScript is required to generate passwords on this page.</p>
+      </noscript>
+    </section>
+  </main>
+
+  <script src="./tecmoBowlScript.js"></script>
+</body>
+</html>
