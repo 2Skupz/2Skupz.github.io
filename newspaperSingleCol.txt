@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, April 11
-  Köln                 vs    Werder Bremen
-  Dortmund             vs    Leverkusen
-  RB Leipzig           vs    Gladbach
-  Augsburg             vs    Hoffenheim
-  St. Pauli            vs    Bayern Munich
-  Wolfsburg            vs    Eint Frankfurt
-  Mainz 05             vs    Freiburg
-  Stuttgart            vs    Hamburger SV
-  Heidenheim           vs    Union Berlin
+Saturday, April 18
+  Freiburg             vs    Heidenheim
+  Leverkusen           vs    Augsburg
+  Hoffenheim           vs    Dortmund
+  Werder Bremen        vs    Hamburger SV
+  Eint Frankfurt       vs    RB Leipzig
+  St. Pauli            vs    Köln
+  Gladbach             vs    Mainz 05
+  Union Berlin         vs    Wolfsburg
+  Bayern Munich        vs    Stuttgart
 
 
 Premier League
@@ -121,17 +121,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, April 11
-  Liverpool            vs    Fulham
-  Brentford            vs    Everton
-  Sunderland           vs    Tottenham
-  West Ham             vs    Wolves
-  Crystal Palace       vs    Newcastle Utd
-  Burnley              vs    Brighton
-  Nott'ham Forest      vs    Aston Villa
-  Arsenal              vs    Bournemouth
-  Chelsea              vs    Manchester City
-  Manchester Utd       vs    Leeds United
+Saturday, April 18
+  Brentford            vs    Fulham
+  Crystal Palace       vs    West Ham
+  Leeds United         vs    Wolves
+  Everton              vs    Liverpool
+  Newcastle Utd        vs    Bournemouth
+  Chelsea              vs    Manchester Utd
+  Tottenham            vs    Brighton
+  Nott'ham Forest      vs    Burnley
+  Manchester City      vs    Arsenal
+  Aston Villa          vs    Sunderland
 
 
 Ligue 1
@@ -250,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 04.14.26
+Standings from FBRef.com 04.15.26
