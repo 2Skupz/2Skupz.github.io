@@ -5,7 +5,7 @@ MLB TIEBREAKER WINNERS - 2026
 AMERICAN LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-ATH          -     ATH     ATH     ATH     CLE     ATH     ATH     ATH     ATH     MIN     ATH     ATH     TBR     ATH     TOR
+ATH          -     ATH     ATH     ATH     CLE     ATH     ATH     ATH     LAA     MIN     ATH     ATH     TBR     TEX     TOR
 BAL        ATH       -     BAL     BAL     CLE     DET     HOU     KCR     LAA     BAL     BAL     SEA     TBR     TEX     BAL
 BOS        ATH     BAL       -     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 CHW        ATH     BAL     CHW       -     CLE     CHW     CHW     CHW     LAA     MIN     CHW     SEA     TBR     TEX     CHW
@@ -13,30 +13,30 @@ CLE        CLE     CLE     CLE     CLE       -     CLE     CLE     CLE     CLE  
 DET        ATH     DET     DET     CHW     CLE       -     DET     DET     LAA     MIN     DET     SEA     TBR     TEX     DET
 HOU        ATH     HOU     HOU     CHW     CLE     DET       -     KCR     LAA     MIN     HOU     SEA     TBR     TEX     HOU
 KCR        ATH     KCR     KCR     CHW     CLE     DET     KCR       -     LAA     KCR     KCR     SEA     TBR     TEX     KCR
-LAA        ATH     LAA     LAA     LAA     CLE     LAA     LAA     LAA       -     MIN     NYY     LAA     TBR     TEX     LAA
-MIN        MIN     BAL     MIN     MIN     MIN     MIN     MIN     KCR     MIN       -     MIN     MIN     TBR     MIN     MIN
-NYY        ATH     BAL     NYY     CHW     CLE     DET     HOU     KCR     NYY     MIN       -     NYY     TBR     TEX     TOR
+LAA        LAA     LAA     LAA     LAA     CLE     LAA     LAA     LAA       -     MIN     LAA     LAA     TBR     TEX     LAA
+MIN        MIN     BAL     MIN     MIN     MIN     MIN     MIN     KCR     MIN       -     MIN     MIN     TBR     TEX     MIN
+NYY        ATH     BAL     NYY     CHW     CLE     DET     HOU     KCR     LAA     MIN       -     NYY     TBR     TEX     TOR
 SEA        ATH     SEA     SEA     SEA     CLE     SEA     SEA     SEA     LAA     MIN     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
-TEX        ATH     TEX     TEX     TEX     TEX     TEX     TEX     TEX     TEX     MIN     TEX     TEX     TBR       -     TEX
+TEX        TEX     TEX     TEX     TEX     TEX     TEX     TEX     TEX     TEX     TEX     TEX     TEX     TBR       -     TEX
 TOR        TOR     BAL     TOR     CHW     CLE     DET     HOU     KCR     LAA     MIN     TOR     SEA     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 TBR    14-0 
+TEX    13-1 
 CLE    11-3 
-MIN    11-3 
-TEX    11-3 
-ATH    10-4 
-LAA     8-6 
+LAA    10-4 
+MIN    10-4 
+ATH     8-6 
 SEA     7-7 
 CHW     6-8 
 DET     6-8 
 KCR     6-8 
 BAL     5-9 
 HOU     4-10
-NYY     3-11
 TOR     3-11
+NYY     2-12
 BOS     0-14
 
 NATIONAL LEAGUE
