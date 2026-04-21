@@ -5,38 +5,38 @@ MLB TIEBREAKER WINNERS - 2026
 AMERICAN LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     LAA     MIN     ATH     ATH     TBR     TEX     TOR
-BAL        ATH       -     BAL     BAL     CLE     DET     HOU     KCR     LAA     BAL     BAL     SEA     TBR     TEX     BAL
+ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     MIN     ATH     ATH     TBR     ATH     TOR
+BAL        ATH       -     BAL     BAL     CLE     DET     HOU     BAL     LAA     BAL     BAL     SEA     TBR     TEX     BAL
 BOS        ATH     BAL       -     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 CHW        CHW     BAL     CHW       -     CLE     CHW     CHW     CHW     LAA     MIN     CHW     SEA     TBR     TEX     CHW
-CLE        CLE     CLE     CLE     CLE       -     CLE     CLE     CLE     CLE     MIN     CLE     CLE     TBR     CLE     CLE
+CLE        CLE     CLE     CLE     CLE       -     CLE     HOU     CLE     CLE     MIN     CLE     CLE     TBR     CLE     CLE
 DET        ATH     DET     DET     CHW     CLE       -     DET     DET     LAA     MIN     DET     SEA     TBR     TEX     DET
-HOU        ATH     HOU     HOU     CHW     CLE     DET       -     KCR     LAA     MIN     HOU     SEA     TBR     TEX     HOU
-KCR        ATH     KCR     KCR     CHW     CLE     DET     KCR       -     LAA     KCR     NYY     SEA     TBR     TEX     KCR
-LAA        LAA     LAA     LAA     LAA     CLE     LAA     LAA     LAA       -     MIN     LAA     LAA     TBR     TEX     LAA
+HOU        ATH     HOU     HOU     CHW     HOU     DET       -     KCR     LAA     MIN     HOU     SEA     TBR     TEX     HOU
+KCR        ATH     BAL     KCR     CHW     CLE     DET     KCR       -     LAA     KCR     NYY     SEA     TBR     TEX     KCR
+LAA        ATH     LAA     LAA     LAA     CLE     LAA     LAA     LAA       -     MIN     LAA     LAA     TBR     TEX     TOR
 MIN        MIN     BAL     MIN     MIN     MIN     MIN     MIN     KCR     MIN       -     MIN     MIN     TBR     MIN     MIN
-NYY        ATH     BAL     NYY     CHW     CLE     DET     HOU     NYY     LAA     MIN       -     NYY     TBR     TEX     NYY
+NYY        ATH     BAL     NYY     CHW     CLE     DET     HOU     NYY     LAA     MIN       -     NYY     TBR     TEX     TIE
 SEA        ATH     SEA     SEA     SEA     CLE     SEA     SEA     SEA     LAA     MIN     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
-TEX        TEX     TEX     TEX     TEX     CLE     TEX     TEX     TEX     TEX     MIN     TEX     TEX     TBR       -     TEX
-TOR        TOR     BAL     TOR     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX       -
+TEX        ATH     TEX     TEX     TEX     CLE     TEX     TEX     TEX     TEX     MIN     TEX     TEX     TBR       -     TEX
+TOR        TOR     BAL     TOR     CHW     CLE     DET     HOU     KCR     TOR     MIN     TIE     SEA     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 TBR    14-0 
-CLE    12-2 
+CLE    11-3 
 MIN    11-3 
-TEX    11-3 
-LAA    10-4 
-ATH     7-7 
+TEX    10-4 
+ATH     9-5 
+LAA     8-6 
 CHW     7-7 
 SEA     7-7 
+BAL     6-8 
 DET     6-8 
-BAL     5-9 
-KCR     5-9 
-HOU     4-10
-NYY     4-10
-TOR     2-12
+HOU     5-9 
+KCR     4-10
+NYY     3-10
+TOR     3-10
 BOS     0-14
 
 NATIONAL LEAGUE
@@ -46,14 +46,14 @@ ARI          -     ATL     CHC     CIN     COL     LAD     MIA     ARI     ARI  
 ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
 CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     CHC     CHC     CHC     PIT     SDP     SFG     CHC     WSN
 CIN        CIN     ATL     CHC       -     CIN     LAD     MIA     CIN     CIN     CIN     PIT     SDP     CIN     CIN     CIN
-COL        COL     ATL     CHC     CIN       -     COL     MIA     COL     COL     PHI     PIT     SDP     SFG     COL     WSN
-LAD        LAD     ATL     LAD     LAD     COL       -     LAD     LAD     LAD     LAD     LAD     SDP     LAD     LAD     LAD
+COL        COL     ATL     CHC     CIN       -     LAD     MIA     COL     COL     PHI     PIT     SDP     SFG     COL     WSN
+LAD        LAD     ATL     LAD     LAD     LAD       -     LAD     LAD     LAD     LAD     LAD     LAD     LAD     LAD     LAD
 MIA        MIA     ATL     CHC     MIA     MIA     LAD       -     MIL     MIA     MIA     PIT     SDP     SFG     MIA     MIA
 MIL        ARI     ATL     CHC     CIN     COL     LAD     MIL       -     NYM     PHI     PIT     SDP     SFG     STL     WSN
 NYM        ARI     ATL     CHC     CIN     COL     LAD     MIA     NYM       -     PHI     NYM     SDP     NYM     STL     WSN
 PHI        ARI     ATL     CHC     CIN     PHI     LAD     MIA     PHI     PHI       -     PIT     SDP     SFG     PHI     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PIT       -     SDP     TIE     PIT     PIT
-SDP        SDP     ATL     SDP     SDP     SDP     SDP     SDP     SDP     SDP     SDP     SDP       -     SFG     SDP     SDP
+SDP        SDP     ATL     SDP     SDP     SDP     LAD     SDP     SDP     SDP     SDP     SDP       -     SFG     SDP     SDP
 SFG        SFG     ATL     SFG     CIN     SFG     LAD     SFG     SFG     NYM     SFG     TIE     SFG       -     SFG     SFG
 STL        STL     ATL     CHC     CIN     COL     LAD     MIA     STL     STL     PHI     PIT     SDP     SFG       -     STL
 WSN        WSN     ATL     WSN     CIN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     SDP     SFG     STL       -
@@ -61,16 +61,16 @@ WSN        WSN     ATL     WSN     CIN     WSN     LAD     MIA     WSN     WSN  
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 ATL    14-0 
-SDP    12-2 
-LAD    11-3 
+LAD    13-1 
+SDP    11-3 
 PIT     9-4 
 SFG     9-4 
 CHC     8-6 
 CIN     8-6 
 MIA     7-7 
-COL     5-9 
 PHI     5-9 
 WSN     5-9 
+COL     4-10
 STL     4-10
 ARI     3-11
 NYM     3-11
