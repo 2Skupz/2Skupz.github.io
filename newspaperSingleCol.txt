@@ -83,16 +83,16 @@ Heidenheim          9   1   2   6   5  -9
 
 Bundesliga Fixtures
 -------------------
-Saturday, April 18
-  Freiburg             vs    Heidenheim
-  Leverkusen           vs    Augsburg
-  Hoffenheim           vs    Dortmund
-  Werder Bremen        vs    Hamburger SV
-  Eint Frankfurt       vs    RB Leipzig
-  St. Pauli            vs    Köln
-  Gladbach             vs    Mainz 05
-  Union Berlin         vs    Wolfsburg
-  Bayern Munich        vs    Stuttgart
+Saturday, April 25
+  Köln                 vs    Leverkusen
+  Augsburg             vs    Eint Frankfurt
+  Stuttgart            vs    Werder Bremen
+  Wolfsburg            vs    Gladbach
+  RB Leipzig           vs    Union Berlin
+  Mainz 05             vs    Bayern Munich
+  Heidenheim           vs    St. Pauli
+  Hamburger SV         vs    Hoffenheim
+  Dortmund             vs    Freiburg
 
 
 Premier League
@@ -121,17 +121,17 @@ Wolves             10   0   2   8   2 -15
 
 Premier League Fixtures
 -----------------------
-Saturday, April 18
-  Brentford            vs    Fulham
-  Crystal Palace       vs    West Ham
-  Leeds United         vs    Wolves
-  Everton              vs    Liverpool
-  Newcastle Utd        vs    Bournemouth
-  Chelsea              vs    Manchester Utd
-  Tottenham            vs    Brighton
-  Nott'ham Forest      vs    Burnley
-  Manchester City      vs    Arsenal
-  Aston Villa          vs    Sunderland
+Saturday, April 25
+  Arsenal              vs    Newcastle Utd
+  Fulham               vs    Aston Villa
+  Liverpool            vs    Crystal Palace
+  West Ham             vs    Everton
+  Brighton             vs    Chelsea
+  Wolves               vs    Tottenham
+  Sunderland           vs    Nott'ham Forest
+  Manchester Utd       vs    Brentford
+  Burnley              vs    Manchester City
+  Bournemouth          vs    Leeds United
 
 
 Ligue 1
@@ -250,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 04.21.26
+Standings from FBRef.com 04.22.26
