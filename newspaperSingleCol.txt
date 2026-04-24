@@ -158,16 +158,16 @@ Auxerre            11   2   1   8   7 -10
 
 Ligue 1 Fixtures
 ----------------
-Sunday, April 19
-  Lille                vs    Nice
-  Lorient              vs    Marseille
-  Monaco               vs    Auxerre
-  Strasbourg           vs    Rennes
-  Paris S-G            vs    Lyon
-  Nantes               vs    Brest
-  Metz                 vs    Paris FC
-  Lens                 vs    Toulouse
-  Angers               vs    Le Havre
+Sunday, April 26
+  Brest                vs    Lens
+  Marseille            vs    Nice
+  Toulouse             vs    Monaco
+  Le Havre             vs    Metz
+  Lyon                 vs    Auxerre
+  Lorient              vs    Strasbourg
+  Rennes               vs    Nantes
+  Angers               vs    Paris S-G
+  Paris FC             vs    Lille
 
 
 Serie A
@@ -196,17 +196,17 @@ Genoa               9   0   3   6   3  -9
 
 Serie A Fixtures
 ----------------
-Sunday, April 19
-  Hellas Verona        vs    Milan
-  Juventus             vs    Bologna
-  Roma                 vs    Atalanta
-  Inter                vs    Cagliari
-  Pisa                 vs    Genoa
-  Lecce                vs    Fiorentina
-  Udinese              vs    Parma
-  Sassuolo             vs    Como
-  Napoli               vs    Lazio
-  Cremonese            vs    Torino
+Sunday, April 26
+  Genoa                vs    Como
+  Lazio                vs    Udinese
+  Hellas Verona        vs    Lecce
+  Parma                vs    Pisa
+  Bologna              vs    Roma
+  Torino               vs    Inter
+  Napoli               vs    Cremonese
+  Milan                vs    Juventus
+  Cagliari             vs    Atalanta
+  Fiorentina           vs    Sassuolo
 
 
 Champions League
@@ -250,4 +250,4 @@ pt  Benfica          3   0   0   3   0  -5
 nl  Ajax             3   0   0   3   0 -10
 
 
-Standings from FBRef.com 04.22.26
+Standings from FBRef.com 04.23.26
