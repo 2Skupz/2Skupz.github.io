@@ -84,19 +84,19 @@ Squad              MP   W   D   L  Pt  GD
 IK Sirius           6   5   1   0  16  10
 Hammarby IF         6   3   2   1  11  11
 IF Elfsborg         6   3   2   1  11   3
+Djurgården          6   3   1   2  10   6
 BK Häcken           6   2   4   0  10   3
 Malmö FF            6   3   1   2  10   2
 Mjällby AIF         6   3   1   2  10   1
 Degerfors IF        6   2   2   2   8   0
 AIK                 6   2   2   2   8   0
+IF Brommapojkarna   6   2   2   2   8  -1
 Västerås SK         6   2   2   2   8  -4
-Djurgården          5   2   1   2   7   0
 GAIS                6   1   2   3   5   0
-IF Brommapojkarna   5   1   2   2   5  -3
 Örgryte IS          6   1   2   3   5 -10
 Kalmar FF           6   1   1   4   4  -3
-IFK Göteborg        5   0   3   2   3  -4
-Halmstads BK        5   0   2   3   2  -6
+IFK Göteborg        6   0   3   3   3 -10
+Halmstads BK        6   0   2   4   2  -8
 
 Allsvenskan Fixtures
 --------------------
@@ -109,8 +109,10 @@ Sunday, May 03
   GAIS                 4–0   Örgryte IS
   IF Elfsborg          1–1   AIK
 Monday, May 04
-  Djurgården           vs    IFK Göteborg
-  Halmstads BK         vs    IF Brommapojkarna
+  Djurgården           6–0   IFK Göteborg
+  Halmstads BK         1–3   IF Brommapojkarna
+Friday, May 08
+  IF Elfsborg          vs    IF Brommapojkarna
 
 
 Bundesliga
@@ -148,27 +150,29 @@ Sunday, May 03
   St. Pauli            1–2   Mainz
   Borussia Mönchengl   1–0   Borussia Dortmund
   SC Freiburg          1–1   VfL Wolfsburg
+Friday, May 08
+  Borussia Dortmund    vs    Eintracht Frankfur
 
 
 Premier League
 --------------
 Squad              MP   W   D   L  Pt  GD
 Arsenal            35  23   7   5  76  41
-Manchester City    33  21   7   5  70  37
+Manchester City    34  21   8   5  71  37
 Manchester United  35  18  10   7  64  15
 Liverpool          35  17   7  11  58  12
 Aston Villa        35  17   7  11  58   4
 AFC Bournemouth    35  12  16   7  52   3
 Brentford          35  14   9  12  51   6
 Brighton & Hove Al 35  13  11  11  50   7
-Chelsea            34  13   9  12  48   8
+Chelsea            35  13   9  13  48   6
+Everton            35  13   9  13  48   0
 Fulham             35  14   6  15  48  -5
-Everton            34  13   8  13  47   0
 Sunderland         35  12  11  12  47  -9
 Newcastle United   35  13   6  16  45  -2
 Leeds United       35  10  13  12  43  -5
 Crystal Palace     34  11  10  13  43  -6
-Nottingham Forest  34  10   9  15  39  -4
+Nottingham Forest  35  11   9  15  42  -2
 Tottenham Hotspur  35   9  10  16  37  -9
 West Ham United    35   9   9  17  36 -19
 Burnley            35   4   8  23  20 -36
@@ -176,8 +180,6 @@ Wolverhampton Wand 35   3   9  23  18 -38
 
 Premier League Fixtures
 -----------------------
-Friday, May 01
-  Leeds United         3–1   Burnley
 Saturday, May 02
   Brentford            3–0   West Ham United
   Newcastle United     3–1   Brighton & Hove Al
@@ -188,8 +190,8 @@ Sunday, May 03
   Manchester United    3–2   Liverpool
   Aston Villa          1–2   Tottenham Hotspur
 Monday, May 04
-  Chelsea              0–1   Nottingham Forest
-  Everton              vs    Manchester City
+  Chelsea              1–3   Nottingham Forest
+  Everton              3–3   Manchester City
 
 
 Ligue 1
@@ -227,6 +229,8 @@ Sunday, May 03
   Paris FC             4–0   Brest
   Strasbourg           1–2   Toulouse
   Lyon                 4–2   Stade Rennais
+Friday, May 08
+  Lens                 vs    Nantes
 
 
 Serie A
@@ -236,27 +240,25 @@ Internazionale     35  26   4   5  82  51
 Napoli             35  21   7   7  70  19
 AC Milan           35  19  10   6  67  19
 Juventus           35  18  11   6  65  28
+AS Roma            35  20   4  11  64  23
 Como               35  17  11   7  62  31
-AS Roma            34  19   4  11  61  19
 Atalanta           35  14  13   8  55  15
+Lazio              35  13  12  10  51   5
 Bologna            35  14   7  14  49   1
 Sassuolo           35  14   7  14  49  -1
-Lazio              34  12  12  10  48   4
 Udinese            35  13   8  14  47  -3
 Parma              35  10  12  13  42 -17
 Torino             35  11   8  16  41 -19
 Genoa              35  10  10  15  40  -8
-Fiorentina         34   8  13  13  37  -7
 Cagliari           35   9  10  16  37 -13
+Fiorentina         35   8  13  14  37 -11
 Lecce              35   8   8  19  32 -23
-Cremonese          34   6  10  18  28 -25
+Cremonese          35   6  10  19  28 -26
 Hellas Verona      35   3  11  21  20 -33
 Pisa               35   2  12  21  18 -38
 
 Serie A Fixtures
 ----------------
-Friday, May 01
-  Pisa                 1–2   Lecce
 Saturday, May 02
   Udinese              2–0   Torino
   Como                 0–0   Napoli
@@ -267,8 +269,10 @@ Sunday, May 03
   Juventus             1–1   Hellas Verona
   Internazionale       2–0   Parma
 Monday, May 04
-  Cremonese            vs    Lazio
-  AS Roma              vs    Fiorentina
+  Cremonese            1–2   Lazio
+  AS Roma              4–0   Fiorentina
+Friday, May 08
+  Torino               vs    Sassuolo
 
 
 Champions League
@@ -319,4 +323,4 @@ Wednesday, May 06
   Bayern Munich        vs    Paris S-G
 
 
-Standings from ESPN.com 05.04.26
+Standings from ESPN.com 05.05.26
