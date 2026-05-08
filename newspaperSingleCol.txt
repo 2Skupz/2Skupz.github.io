@@ -19,9 +19,6 @@ Sporting KC        10   1   2   7   5 -18
 
 MLS Fixtures
 ------------
-Sunday, May 03
-  New York City        0–2   DC United
-  Austin               2–0   St. Louis
 Saturday, May 09
   Toronto              vs    Inter Miami
   Chicago              vs    Red Bull New York
@@ -36,6 +33,10 @@ Sunday, May 10
   Portland             vs    Sporting KC
   San Jose             vs    Vancouver Whitecap
   Seattle              vs    San Diego
+  New York City        vs    Columbus
+  Minnesota            vs    Austin
+Monday, May 11
+  LAFC                 vs    Houston
 
 
 MLS East
@@ -59,9 +60,6 @@ Philadelphia       11   1   3   7   6  -8
 
 MLS Fixtures
 ------------
-Sunday, May 03
-  New York City        0–2   DC United
-  Austin               2–0   St. Louis
 Saturday, May 09
   Toronto              vs    Inter Miami
   Chicago              vs    Red Bull New York
@@ -76,6 +74,10 @@ Sunday, May 10
   Portland             vs    Sporting KC
   San Jose             vs    Vancouver Whitecap
   Seattle              vs    San Diego
+  New York City        vs    Columbus
+  Minnesota            vs    Austin
+Monday, May 11
+  LAFC                 vs    Houston
 
 
 Allsvenskan
@@ -100,11 +102,6 @@ Halmstads BK        6   0   2   4   2  -8
 
 Allsvenskan Fixtures
 --------------------
-Sunday, May 03
-  Hammarby IF          3–0   Västerås SK
-  Malmö FF             2–3   Mjällby AIF
-  GAIS                 4–0   Örgryte IS
-  IF Elfsborg          1–1   AIK
 Monday, May 04
   Djurgården           6–0   IFK Göteborg
   Halmstads BK         1–3   IF Brommapojkarna
@@ -114,6 +111,10 @@ Saturday, May 09
   Degerfors IF         vs    Mjällby AIF
   IFK Göteborg         vs    Hammarby IF
   Västerås SK          vs    GAIS
+Sunday, May 10
+  AIK                  vs    Djurgården
+  Kalmar FF            vs    Halmstads BK
+  BK Häcken            vs    Malmö FF
 
 
 Bundesliga
@@ -140,10 +141,6 @@ St. Pauli          32   6   8  18  26 -28
 
 Bundesliga Fixtures
 -------------------
-Sunday, May 03
-  St. Pauli            1–2   Mainz
-  Borussia Mönchengl   1–0   Borussia Dortmund
-  SC Freiburg          1–1   VfL Wolfsburg
 Friday, May 08
   Borussia Dortmund    vs    Eintracht Frankfur
 Saturday, May 09
@@ -152,6 +149,10 @@ Saturday, May 09
   TSG Hoffenheim       vs    Werder Bremen
   VfB Stuttgart        vs    Bayer Leverkusen
   VfL Wolfsburg        vs    Bayern Munich
+Sunday, May 10
+  Hamburg SV           vs    SC Freiburg
+  FC Cologne           vs    1. FC Heidenheim 1
+  Mainz                vs    1. FC Union Berlin
 
 
 Premier League
@@ -180,10 +181,6 @@ Wolverhampton Wand 35   3   9  23  18 -38
 
 Premier League Fixtures
 -----------------------
-Sunday, May 03
-  AFC Bournemouth      3–0   Crystal Palace
-  Manchester United    3–2   Liverpool
-  Aston Villa          1–2   Tottenham Hotspur
 Monday, May 04
   Chelsea              1–3   Nottingham Forest
   Everton              3–3   Manchester City
@@ -193,6 +190,11 @@ Saturday, May 09
   Fulham               vs    AFC Bournemouth
   Sunderland           vs    Manchester United
   Manchester City      vs    Brentford
+Sunday, May 10
+  Burnley              vs    Aston Villa
+  Crystal Palace       vs    Everton
+  Nottingham Forest    vs    Newcastle United
+  West Ham United      vs    Arsenal
 
 
 Ligue 1
@@ -219,14 +221,17 @@ Metz               32   3   7  22  16 -40
 
 Ligue 1 Fixtures
 ----------------
-Sunday, May 03
-  Lille                1–1   Le Havre AC
-  AJ Auxerre           3–1   Angers
-  Paris FC             4–0   Brest
-  Strasbourg           1–2   Toulouse
-  Lyon                 4–2   Stade Rennais
 Friday, May 08
   Lens                 vs    Nantes
+Sunday, May 10
+  AJ Auxerre           vs    Nice
+  Angers               vs    Strasbourg
+  AS Monaco            vs    Lille
+  Le Havre AC          vs    Marseille
+  Metz                 vs    Lorient
+  Paris S-G            vs    Brest
+  Stade Rennais        vs    Paris FC
+  Toulouse             vs    Lyon
 
 
 Serie A
@@ -255,11 +260,6 @@ Pisa               35   2  12  21  18 -38
 
 Serie A Fixtures
 ----------------
-Sunday, May 03
-  Bologna              0–0   Cagliari
-  Sassuolo             2–0   AC Milan
-  Juventus             1–1   Hellas Verona
-  Internazionale       2–0   Parma
 Monday, May 04
   Cremonese            1–2   Lazio
   AS Roma              4–0   Fiorentina
@@ -269,6 +269,12 @@ Saturday, May 09
   Cagliari             vs    Udinese
   Lazio                vs    Internazionale
   Lecce                vs    Juventus
+Sunday, May 10
+  Hellas Verona        vs    Como
+  Cremonese            vs    Pisa
+  Fiorentina           vs    Genoa
+  Parma                vs    AS Roma
+  AC Milan             vs    Atalanta
 
 
 Champions League
@@ -316,7 +322,7 @@ Champions League Fixtures
 Tuesday, May 05
   Arsenal              1–0   Atlético Madrid
 Wednesday, May 06
-  Bayern Munich        vs    Paris S-G
+  Bayern Munich        1–1   Paris S-G
 
 
-Standings from ESPN.com 05.06.26
+Standings from ESPN.com 05.07.26

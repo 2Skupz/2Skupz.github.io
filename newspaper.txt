@@ -18,9 +18,6 @@ Sporting KC        10   1   2   7   8  26 -18   5                   Philadelphia
 
 MLS Fixtures
 ------------
-Sunday, May 03
-  New York City        0–2   DC United
-  Austin               2–0   St. Louis
 Saturday, May 09
   Toronto              vs    Inter Miami
   Chicago              vs    Red Bull New York
@@ -35,6 +32,10 @@ Sunday, May 10
   Portland             vs    Sporting KC
   San Jose             vs    Vancouver
   Seattle              vs    San Diego
+  New York City        vs    Columbus
+  Minnesota            vs    Austin
+Monday, May 11
+  LAFC                 vs    Houston
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -59,20 +60,19 @@ Halmstads BK        6   0   2   4   4  12  -8   2                   VfL Wolfsbur
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Sunday, May 03                                                      Sunday, May 03
-  Hammarby IF          3–0   Västerås SK                              St. Pauli            1–2   Mainz
-  Malmö FF             2–3   Mjällby AIF                              Borussia Mönchengl   1–0   Borussia Dortmund
-  GAIS                 4–0   Örgryte IS                               SC Freiburg          1–1   VfL Wolfsburg
-  IF Elfsborg          1–1   AIK                                    Friday, May 08
-Monday, May 04                                                        Borussia Dortmund    vs    Eintracht Frankfur
-  Djurgården           6–0   IFK Göteborg                           Saturday, May 09
-  Halmstads BK         1–3   IF Brommapojkarna                        FC Augsburg          vs    Borussia Mönchengl
-Friday, May 08                                                        RB Leipzig           vs    St. Pauli
-  IF Elfsborg          vs    IF Brommapojkarna                        TSG Hoffenheim       vs    Werder Bremen
-Saturday, May 09                                                      VfB Stuttgart        vs    Bayer Leverkusen
-  Degerfors IF         vs    Mjällby AIF                              VfL Wolfsburg        vs    Bayern Munich
-  IFK Göteborg         vs    Hammarby IF                            
-  Västerås SK          vs    GAIS                                   
+Monday, May 04                                                      Friday, May 08
+  Djurgården           6–0   IFK Göteborg                             Borussia Dortmund    vs    Eintracht Frankfur
+  Halmstads BK         1–3   IF Brommapojkarna                      Saturday, May 09
+Friday, May 08                                                        FC Augsburg          vs    Borussia Mönchengl
+  IF Elfsborg          vs    IF Brommapojkarna                        RB Leipzig           vs    St. Pauli
+Saturday, May 09                                                      TSG Hoffenheim       vs    Werder Bremen
+  Degerfors IF         vs    Mjällby AIF                              VfB Stuttgart        vs    Bayer Leverkusen
+  IFK Göteborg         vs    Hammarby IF                              VfL Wolfsburg        vs    Bayern Munich
+  Västerås SK          vs    GAIS                                   Sunday, May 10
+Sunday, May 10                                                        Hamburg SV           vs    SC Freiburg
+  AIK                  vs    Djurgården                               FC Cologne           vs    1. FC Heidenheim 1
+  Kalmar FF            vs    Halmstads BK                             Mainz                vs    1. FC Union Berlin
+  BK Häcken            vs    Malmö FF                               
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -99,19 +99,20 @@ Wolverhampton Wand 35   3   9  23  25  63 -38  18
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Sunday, May 03                                                      Sunday, May 03
-  AFC Bournemouth      3–0   Crystal Palace                           Lille                1–1   Le Havre AC
-  Manchester United    3–2   Liverpool                                AJ Auxerre           3–1   Angers
-  Aston Villa          1–2   Tottenham Hotspur                        Paris FC             4–0   Brest
-Monday, May 04                                                        Strasbourg           1–2   Toulouse
-  Chelsea              1–3   Nottingham Forest                        Lyon                 4–2   Stade Rennais
-  Everton              3–3   Manchester City                        Friday, May 08
-Saturday, May 09                                                      Lens                 vs    Nantes
-  Liverpool            vs    Chelsea                                
-  Brighton & Hove Al   vs    Wolverhampton Wand                     
-  Fulham               vs    AFC Bournemouth                        
-  Sunderland           vs    Manchester United                      
-  Manchester City      vs    Brentford                              
+Monday, May 04                                                      Friday, May 08
+  Chelsea              1–3   Nottingham Forest                        Lens                 vs    Nantes
+  Everton              3–3   Manchester City                        Sunday, May 10
+Saturday, May 09                                                      AJ Auxerre           vs    Nice
+  Liverpool            vs    Chelsea                                  Angers               vs    Strasbourg
+  Brighton & Hove Al   vs    Wolverhampton Wand                       AS Monaco            vs    Lille
+  Fulham               vs    AFC Bournemouth                          Le Havre AC          vs    Marseille
+  Sunderland           vs    Manchester United                        Metz                 vs    Lorient
+  Manchester City      vs    Brentford                                Paris S-G            vs    Brest
+Sunday, May 10                                                        Stade Rennais        vs    Paris FC
+  Burnley              vs    Aston Villa                              Toulouse             vs    Lyon
+  Crystal Palace       vs    Everton                                
+  Nottingham Forest    vs    Newcastle United                       
+  West Ham United      vs    Arsenal                                
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -138,11 +139,6 @@ Pisa               35   2  12  21  25  63 -38  18
 
 Serie A Fixtures
 ----------------
-Sunday, May 03
-  Bologna              0–0   Cagliari
-  Sassuolo             2–0   AC Milan
-  Juventus             1–1   Hellas Verona
-  Internazionale       2–0   Parma
 Monday, May 04
   Cremonese            1–2   Lazio
   AS Roma              4–0   Fiorentina
@@ -152,6 +148,12 @@ Saturday, May 09
   Cagliari             vs    Udinese
   Lazio                vs    Internazionale
   Lecce                vs    Juventus
+Sunday, May 10
+  Hellas Verona        vs    Como
+  Cremonese            vs    Pisa
+  Fiorentina           vs    Genoa
+  Parma                vs    AS Roma
+  AC Milan             vs    Atalanta
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -197,6 +199,6 @@ Champions League Fixtures
 Tuesday, May 05
   Arsenal              1–0   Atlético Madrid
 Wednesday, May 06
-  Bayern Munich        vs    Paris S-G
+  Bayern Munich        1–1   Paris S-G
 
-Standings from ESPN.com 05.06.26
+Standings from ESPN.com 05.07.26
