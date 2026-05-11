@@ -1,103 +1,135 @@
 MLS West
 --------
 Squad              MP   W   D   L  Pt  GD
-San Jose           11   9   1   1  28  19
-Vancouver Whitecap 10   8   1   1  25  20
+San Jose           12   9   2   1  29  19
+Vancouver Whitecap 11   8   2   1  26  20
 LAFC               11   6   3   2  21  11
-Seattle             9   6   2   1  20   8
+Seattle            10   6   3   1  21   8
 Minnesota          11   6   2   3  20  -2
-Real Salt Lake     10   6   1   3  19   5
-Dallas             11   4   4   3  16   5
+Real Salt Lake     11   6   1   4  19   3
+Dallas             12   5   4   3  19   7
+Galaxy             12   4   4   4  16   0
 Houston            10   5   0   5  15  -5
-Colorado           11   4   1   6  13   3
-Galaxy             11   3   4   4  13  -1
+Colorado           12   4   1   7  13   2
+Portland           11   4   1   6  13  -2
+San Diego          12   3   4   5  13   0
 Austin             11   3   4   4  13  -3
-San Diego          11   3   3   5  12   0
-Portland           10   3   1   6  10  -8
-St. Louis          10   1   3   6   6  -9
-Sporting KC        10   1   2   7   5 -18
+St. Louis          11   2   3   6   9  -8
+Sporting KC        11   1   2   8   5 -24
 
 MLS Fixtures
 ------------
 Saturday, May 09
-  Toronto              vs    Inter Miami
-  Chicago              vs    Red Bull New York
-  Montreal             vs    Orlando City SC
-  Atlanta              vs    Galaxy
-  Charlotte            vs    Cincinnati
-  New England          vs    Philadelphia
+  Toronto              2–4   Inter Miami
+  Chicago              1–3   Red Bull New York
+  Montreal             2–0   Orlando City SC
+  Atlanta              1–2   Galaxy
+  Charlotte            2–2   Cincinnati
+  New England          2–1   Philadelphia
 Sunday, May 10
-  Dallas               vs    Real Salt Lake
-  Nashville            vs    DC United
-  Colorado             vs    St. Louis
-  Portland             vs    Sporting KC
-  San Jose             vs    Vancouver Whitecap
-  Seattle              vs    San Diego
+  Dallas               3–1   Real Salt Lake
+  Nashville            2–2   DC United
+  Colorado             0–1   St. Louis
+  Portland             6–0   Sporting KC
+  San Jose             1–1   Vancouver Whitecap
+  Seattle              1–1   San Diego
   New York City        vs    Columbus
   Minnesota            vs    Austin
 Monday, May 11
   LAFC                 vs    Houston
+Wednesday, May 13
+  Charlotte            vs    New York City
+  Montreal             vs    Portland
+  DC United            vs    Chicago
+  Cincinnati           vs    Inter Miami
+  New England          vs    Nashville
+  Orlando City SC      vs    Philadelphia
+  Red Bull New York    vs    Columbus
+Thursday, May 14
+  Dallas               vs    Vancouver Whitecap
+  Minnesota            vs    Colorado
+  Sporting KC          vs    Galaxy
+  St. Louis            vs    LAFC
+  Real Salt Lake       vs    Houston
+  San Diego            vs    Austin
+  Seattle              vs    San Jose
 
 
 MLS East
 --------
 Squad              MP   W   D   L  Pt  GD
-Nashville          10   7   2   1  23  15
-New England        10   6   1   3  19   6
-Inter Miami        11   5   4   2  19   3
-Chicago            10   5   2   3  17   8
-DC United          11   4   3   4  15  -2
-Cincinnati         11   4   3   4  15  -3
-Charlotte          11   4   2   5  14  -1
-Toronto            11   3   5   3  14  -2
+Nashville          11   7   3   1  24  15
+New England        11   7   1   3  22   7
+Inter Miami        12   6   4   2  22   5
+Chicago            11   5   2   4  17   6
+DC United          12   4   4   4  16  -2
+Cincinnati         12   4   4   4  16  -3
+Charlotte          12   4   3   5  15  -1
+Red Bull New York  12   4   3   5  15  -9
+Toronto            12   3   5   4  14  -4
+Montreal           11   4   0   7  12  -7
 New York City      11   3   3   5  12   1
 Columbus           11   3   3   5  12   0
-Red Bull New York  11   3   3   5  12 -11
-Atlanta            11   3   1   7  10  -6
-Orlando City SC    11   3   1   7  10 -16
-Montreal           10   3   0   7   9  -9
-Philadelphia       11   1   3   7   6  -8
+Atlanta            12   3   1   8  10  -7
+Orlando City SC    12   3   1   8  10 -18
+Philadelphia       12   1   3   8   6  -9
 
 MLS Fixtures
 ------------
 Saturday, May 09
-  Toronto              vs    Inter Miami
-  Chicago              vs    Red Bull New York
-  Montreal             vs    Orlando City SC
-  Atlanta              vs    Galaxy
-  Charlotte            vs    Cincinnati
-  New England          vs    Philadelphia
+  Toronto              2–4   Inter Miami
+  Chicago              1–3   Red Bull New York
+  Montreal             2–0   Orlando City SC
+  Atlanta              1–2   Galaxy
+  Charlotte            2–2   Cincinnati
+  New England          2–1   Philadelphia
 Sunday, May 10
-  Dallas               vs    Real Salt Lake
-  Nashville            vs    DC United
-  Colorado             vs    St. Louis
-  Portland             vs    Sporting KC
-  San Jose             vs    Vancouver Whitecap
-  Seattle              vs    San Diego
+  Dallas               3–1   Real Salt Lake
+  Nashville            2–2   DC United
+  Colorado             0–1   St. Louis
+  Portland             6–0   Sporting KC
+  San Jose             1–1   Vancouver Whitecap
+  Seattle              1–1   San Diego
   New York City        vs    Columbus
   Minnesota            vs    Austin
 Monday, May 11
   LAFC                 vs    Houston
+Wednesday, May 13
+  Charlotte            vs    New York City
+  Montreal             vs    Portland
+  DC United            vs    Chicago
+  Cincinnati           vs    Inter Miami
+  New England          vs    Nashville
+  Orlando City SC      vs    Philadelphia
+  Red Bull New York    vs    Columbus
+Thursday, May 14
+  Dallas               vs    Vancouver Whitecap
+  Minnesota            vs    Colorado
+  Sporting KC          vs    Galaxy
+  St. Louis            vs    LAFC
+  Real Salt Lake       vs    Houston
+  San Diego            vs    Austin
+  Seattle              vs    San Jose
 
 
 Allsvenskan
 -----------
 Squad              MP   W   D   L  Pt  GD
 IK Sirius           6   5   1   0  16  10
+Hammarby IF         7   4   2   1  14  12
 IF Elfsborg         7   4   2   1  14   5
-Hammarby IF         6   3   2   1  11  11
+Mjällby AIF         7   4   1   2  13   4
 Djurgården          6   3   1   2  10   6
 BK Häcken           6   2   4   0  10   3
 Malmö FF            6   3   1   2  10   2
-Mjällby AIF         6   3   1   2  10   1
-Degerfors IF        6   2   2   2   8   0
+GAIS                7   2   2   3   8   1
 AIK                 6   2   2   2   8   0
 IF Brommapojkarna   7   2   2   3   8  -3
-Västerås SK         6   2   2   2   8  -4
-GAIS                6   1   2   3   5   0
+Degerfors IF        7   2   2   3   8  -3
+Västerås SK         7   2   2   3   8  -5
 Örgryte IS          6   1   2   3   5 -10
 Kalmar FF           6   1   1   4   4  -3
-IFK Göteborg        6   0   3   3   3 -10
+IFK Göteborg        7   0   3   4   3 -11
 Halmstads BK        6   0   2   4   2  -8
 
 Allsvenskan Fixtures
@@ -105,12 +137,12 @@ Allsvenskan Fixtures
 Friday, May 08
   IF Elfsborg          2–0   IF Brommapojkarna
 Saturday, May 09
-  Degerfors IF         1–3   Mjällby AIF
-  IFK Göteborg         0–0   Hammarby IF
-  Västerås SK          0–0   GAIS
+  Degerfors IF         1–4   Mjällby AIF
+  IFK Göteborg         0–1   Hammarby IF
+  Västerås SK          0–1   GAIS
 Sunday, May 10
-  AIK                  vs    Djurgården
-  Kalmar FF            vs    Halmstads BK
+  AIK                  2–4   Djurgården
+  Kalmar FF            2–0   Halmstads BK
   BK Häcken            vs    Malmö FF
 Monday, May 11
   IK Sirius            vs    Örgryte IS
@@ -119,23 +151,23 @@ Monday, May 11
 Bundesliga
 ----------
 Squad              MP   W   D   L  Pt  GD
-Bayern Munich      32  26   5   1  83  81
+Bayern Munich      33  27   5   1  86  82
 Borussia Dortmund  33  21   7   5  70  34
-RB Leipzig         32  19   5   8  62  21
-Bayer Leverkusen   32  17   7   8  58  23
-VfB Stuttgart      32  17   7   8  58  20
-TSG Hoffenheim     32  17   7   8  58  16
+RB Leipzig         33  20   5   8  65  22
+VfB Stuttgart      33  18   7   8  61  22
+TSG Hoffenheim     33  18   7   8  61  17
+Bayer Leverkusen   33  17   7   9  58  21
 SC Freiburg        32  12   8  12  44  -8
 Eintracht Frankfur 33  11  10  12  43  -4
-FC Augsburg        32  11   7  14  40 -14
+FC Augsburg        33  12   7  14  43 -12
 Mainz              32   9  10  13  37  -9
-Borussia Mönchengl 32   8  11  13  35 -13
+Borussia Mönchengl 33   8  11  14  35 -15
 Hamburg SV         32   8  10  14  34 -15
 1. FC Union Berlin 32   8   9  15  33 -20
 FC Cologne         32   7  11  14  32  -8
-Werder Bremen      32   8   8  16  32 -20
-VfL Wolfsburg      32   6   8  18  26 -25
-St. Pauli          32   6   8  18  26 -28
+Werder Bremen      33   8   8  17  32 -21
+VfL Wolfsburg      33   6   8  19  26 -26
+St. Pauli          33   6   8  19  26 -29
 1. FC Heidenheim 1 32   5   8  19  23 -31
 
 Bundesliga Fixtures
@@ -143,13 +175,13 @@ Bundesliga Fixtures
 Friday, May 08
   Borussia Dortmund    3–2   Eintracht Frankfur
 Saturday, May 09
-  FC Augsburg          1–0   Borussia Mönchengl
-  RB Leipzig           0–0   St. Pauli
+  FC Augsburg          3–1   Borussia Mönchengl
+  RB Leipzig           2–1   St. Pauli
   TSG Hoffenheim       1–0   Werder Bremen
-  VfB Stuttgart        1–1   Bayer Leverkusen
-  VfL Wolfsburg        vs    Bayern Munich
+  VfB Stuttgart        3–1   Bayer Leverkusen
+  VfL Wolfsburg        0–1   Bayern Munich
 Sunday, May 10
-  Hamburg SV           vs    SC Freiburg
+  Hamburg SV           1–1   SC Freiburg
   FC Cologne           vs    1. FC Heidenheim 1
   Mainz                vs    1. FC Union Berlin
 
@@ -158,17 +190,17 @@ Premier League
 --------------
 Squad              MP   W   D   L  Pt  GD
 Arsenal            35  23   7   5  76  41
-Manchester City    34  21   8   5  71  37
-Manchester United  35  18  10   7  64  15
+Manchester City    35  22   8   5  74  40
+Manchester United  36  18  11   7  65  15
 Liverpool          36  17   8  11  59  12
 Aston Villa        35  17   7  11  58   4
-AFC Bournemouth    35  12  16   7  52   3
-Brentford          35  14   9  12  51   6
-Brighton & Hove Al 35  13  11  11  50   7
+AFC Bournemouth    36  13  16   7  55   4
+Brighton & Hove Al 36  14  11  11  53  10
+Brentford          36  14   9  13  51   3
 Chelsea            36  13  10  13  49   6
 Everton            35  13   9  13  48   0
-Fulham             35  14   6  15  48  -5
-Sunderland         35  12  11  12  47  -9
+Fulham             36  14   6  16  48  -6
+Sunderland         36  12  12  12  48  -9
 Newcastle United   35  13   6  16  45  -2
 Leeds United       35  10  13  12  43  -5
 Crystal Palace     34  11  10  13  43  -6
@@ -176,23 +208,25 @@ Nottingham Forest  35  11   9  15  42  -2
 Tottenham Hotspur  35   9  10  16  37  -9
 West Ham United    35   9   9  17  36 -19
 Burnley            35   4   8  23  20 -36
-Wolverhampton Wand 35   3   9  23  18 -38
+Wolverhampton Wand 36   3   9  24  18 -41
 
 Premier League Fixtures
 -----------------------
 Saturday, May 09
   Liverpool            1–1   Chelsea
-  Brighton & Hove Al   2–0   Wolverhampton Wand
-  Fulham               0–0   AFC Bournemouth
+  Brighton & Hove Al   3–0   Wolverhampton Wand
+  Fulham               0–1   AFC Bournemouth
   Sunderland           0–0   Manchester United
-  Manchester City      vs    Brentford
+  Manchester City      3–0   Brentford
 Sunday, May 10
-  Burnley              vs    Aston Villa
-  Crystal Palace       vs    Everton
-  Nottingham Forest    vs    Newcastle United
+  Burnley              1–1   Aston Villa
+  Crystal Palace       1–2   Everton
+  Nottingham Forest    0–0   Newcastle United
   West Ham United      vs    Arsenal
 Monday, May 11
   Tottenham Hotspur    vs    Leeds United
+Wednesday, May 13
+  Manchester City      vs    Crystal Palace
 
 
 Ligue 1
@@ -230,30 +264,33 @@ Sunday, May 10
   Paris S-G            vs    Brest
   Stade Rennais        vs    Paris FC
   Toulouse             vs    Lyon
+Wednesday, May 13
+  Brest                vs    Strasbourg
+  Lens                 vs    Paris S-G
 
 
 Serie A
 -------
 Squad              MP   W   D   L  Pt  GD
-Internazionale     35  26   4   5  82  51
+Internazionale     36  27   4   5  85  54
 Napoli             35  21   7   7  70  19
+Juventus           36  19  11   6  68  29
 AC Milan           35  19  10   6  67  19
-Juventus           35  18  11   6  65  28
+Como               36  18  11   7  65  32
 AS Roma            35  20   4  11  64  23
-Como               35  17  11   7  62  31
 Atalanta           35  14  13   8  55  15
-Lazio              35  13  12  10  51   5
+Lazio              36  13  12  11  51   2
+Udinese            36  14   8  14  50  -1
 Bologna            35  14   7  14  49   1
 Sassuolo           36  14   7  15  49  -2
-Udinese            35  13   8  14  47  -3
 Torino             36  12   8  16  44 -18
 Parma              35  10  12  13  42 -17
 Genoa              35  10  10  15  40  -8
-Cagliari           35   9  10  16  37 -13
 Fiorentina         35   8  13  14  37 -11
-Lecce              35   8   8  19  32 -23
+Cagliari           36   9  10  17  37 -15
+Lecce              36   8   8  20  32 -24
 Cremonese          35   6  10  19  28 -26
-Hellas Verona      35   3  11  21  20 -33
+Hellas Verona      36   3  11  22  20 -34
 Pisa               35   2  12  21  18 -38
 
 Serie A Fixtures
@@ -261,13 +298,13 @@ Serie A Fixtures
 Friday, May 08
   Torino               2–1   Sassuolo
 Saturday, May 09
-  Cagliari             0–0   Udinese
-  Lazio                vs    Internazionale
-  Lecce                vs    Juventus
+  Cagliari             0–2   Udinese
+  Lazio                0–3   Internazionale
+  Lecce                0–1   Juventus
 Sunday, May 10
-  Hellas Verona        vs    Como
-  Cremonese            vs    Pisa
-  Fiorentina           vs    Genoa
+  Hellas Verona        0–1   Como
+  Cremonese            2–0   Pisa
+  Fiorentina           0–0   Genoa
   Parma                vs    AS Roma
   AC Milan             vs    Atalanta
 Monday, May 11
@@ -314,10 +351,5 @@ PSV Eindhoven        8   2   2   4   8   0
     Villarreal       8   0   1   7   1 -13
     Kairat Almaty    8   0   1   7   1 -15
 
-Champions League Fixtures
--------------------------
-Wednesday, May 06
-  Bayern Munich        1–1   Paris S-G
 
-
-Standings from ESPN.com 05.09.26
+Standings from ESPN.com 05.10.26

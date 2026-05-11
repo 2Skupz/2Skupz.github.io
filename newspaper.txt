@@ -1,61 +1,77 @@
 MLS West                                                            MLS East
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-San Jose           11   9   1   1  26   7  19  28                   Nashville          10   7   2   1  21   6  15  23
-Vancouver          10   8   1   1  26   6  20  25                   New England        10   6   1   3  18  12   6  19
-LAFC               11   6   3   2  19   8  11  21                   Inter Miami        11   5   4   2  22  19   3  19
-Seattle             9   6   2   1  13   5   8  20                   Chicago            10   5   2   3  19  11   8  17
-Minnesota          11   6   2   3  14  16  -2  20                   DC United          11   4   3   4  13  15  -2  15
-Real Salt Lake     10   6   1   3  19  14   5  19                   Cincinnati         11   4   3   4  22  25  -3  15
-Dallas             11   4   4   3  20  15   5  16                   Charlotte          11   4   2   5  18  19  -1  14
-Houston            10   5   0   5  13  18  -5  15                   Toronto            11   3   5   3  18  20  -2  14
-Colorado           11   4   1   6  22  19   3  13                   New York City      11   3   3   5  19  18   1  12
-Galaxy             11   3   4   4  16  17  -1  13                   Columbus           11   3   3   5  16  16   0  12
-Austin             11   3   4   4  16  19  -3  13                   Red Bull New York  11   3   3   5  16  27 -11  12
-San Diego          11   3   3   5  19  19   0  12                   Atlanta            11   3   1   7  12  18  -6  10
-Portland           10   3   1   6  13  21  -8  10                   Orlando City SC    11   3   1   7  16  32 -16  10
-St. Louis          10   1   3   6   9  18  -9   6                   Montreal           10   3   0   7  14  23  -9   9
-Sporting KC        10   1   2   7   8  26 -18   5                   Philadelphia       11   1   3   7   9  17  -8   6
+San Jose           12   9   2   1  27   8  19  29                   Nashville          11   7   3   1  23   8  15  24
+Vancouver          11   8   2   1  27   7  20  26                   New England        11   7   1   3  20  13   7  22
+LAFC               11   6   3   2  19   8  11  21                   Inter Miami        12   6   4   2  26  21   5  22
+Seattle            10   6   3   1  14   6   8  21                   Chicago            11   5   2   4  20  14   6  17
+Minnesota          11   6   2   3  14  16  -2  20                   DC United          12   4   4   4  15  17  -2  16
+Real Salt Lake     11   6   1   4  20  17   3  19                   Cincinnati         12   4   4   4  24  27  -3  16
+Dallas             12   5   4   3  23  16   7  19                   Charlotte          12   4   3   5  20  21  -1  15
+Galaxy             12   4   4   4  18  18   0  16                   Red Bull New York  12   4   3   5  19  28  -9  15
+Houston            10   5   0   5  13  18  -5  15                   Toronto            12   3   5   4  20  24  -4  14
+Colorado           12   4   1   7  22  20   2  13                   Montreal           11   4   0   7  16  23  -7  12
+Portland           11   4   1   6  19  21  -2  13                   New York City      11   3   3   5  19  18   1  12
+San Diego          12   3   4   5  20  20   0  13                   Columbus           11   3   3   5  16  16   0  12
+Austin             11   3   4   4  16  19  -3  13                   Atlanta            12   3   1   8  13  20  -7  10
+St. Louis          11   2   3   6  10  18  -8   9                   Orlando City SC    12   3   1   8  16  34 -18  10
+Sporting KC        11   1   2   8   8  32 -24   5                   Philadelphia       12   1   3   8  10  19  -9   6
 
 MLS Fixtures
 ------------
 Saturday, May 09
-  Toronto              vs    Inter Miami
-  Chicago              vs    Red Bull New York
-  Montreal             vs    Orlando City SC
-  Atlanta              vs    Galaxy
-  Charlotte            vs    Cincinnati
-  New England          vs    Philadelphia
+  Toronto              2–4   Inter Miami
+  Chicago              1–3   Red Bull New York
+  Montreal             2–0   Orlando City SC
+  Atlanta              1–2   Galaxy
+  Charlotte            2–2   Cincinnati
+  New England          2–1   Philadelphia
 Sunday, May 10
-  Dallas               vs    Real Salt Lake
-  Nashville            vs    DC United
-  Colorado             vs    St. Louis
-  Portland             vs    Sporting KC
-  San Jose             vs    Vancouver
-  Seattle              vs    San Diego
+  Dallas               3–1   Real Salt Lake
+  Nashville            2–2   DC United
+  Colorado             0–1   St. Louis
+  Portland             6–0   Sporting KC
+  San Jose             1–1   Vancouver
+  Seattle              1–1   San Diego
   New York City        vs    Columbus
   Minnesota            vs    Austin
 Monday, May 11
   LAFC                 vs    Houston
+Wednesday, May 13
+  Charlotte            vs    New York City
+  Montreal             vs    Portland
+  DC United            vs    Chicago
+  Cincinnati           vs    Inter Miami
+  New England          vs    Nashville
+  Orlando City SC      vs    Philadelphia
+  Red Bull New York    vs    Columbus
+Thursday, May 14
+  Dallas               vs    Vancouver
+  Minnesota            vs    Colorado
+  Sporting KC          vs    Galaxy
+  St. Louis            vs    LAFC
+  Real Salt Lake       vs    Houston
+  San Diego            vs    Austin
+  Seattle              vs    San Jose
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-IK Sirius           6   5   1   0  17   7  10  16                   Bayern Munich      32  26   5   1 116  35  81  83
-IF Elfsborg         7   4   2   1  11   6   5  14                   Borussia Dortmund  33  21   7   5  68  34  34  70
-Hammarby IF         6   3   2   1  16   5  11  11                   RB Leipzig         32  19   5   8  63  42  21  62
-Djurgården          6   3   1   2  12   6   6  10                   Bayer Leverkusen   32  17   7   8  66  43  23  58
-BK Häcken           6   2   4   0  12   9   3  10                   VfB Stuttgart      32  17   7   8  66  46  20  58
-Malmö FF            6   3   1   2  10   8   2  10                   TSG Hoffenheim     32  17   7   8  64  48  16  58
-Mjällby AIF         6   3   1   2   8   7   1  10                   SC Freiburg        32  12   8  12  45  53  -8  44
-Degerfors IF        6   2   2   2   7   7   0   8                   Eintracht Frankfur 33  11  10  12  59  63  -4  43
-AIK                 6   2   2   2   7   7   0   8                   FC Augsburg        32  11   7  14  42  56 -14  40
+IK Sirius           6   5   1   0  17   7  10  16                   Bayern Munich      33  27   5   1 117  35  82  86
+Hammarby IF         7   4   2   1  17   5  12  14                   Borussia Dortmund  33  21   7   5  68  34  34  70
+IF Elfsborg         7   4   2   1  11   6   5  14                   RB Leipzig         33  20   5   8  65  43  22  65
+Mjällby AIF         7   4   1   2  12   8   4  13                   VfB Stuttgart      33  18   7   8  69  47  22  61
+Djurgården          6   3   1   2  12   6   6  10                   TSG Hoffenheim     33  18   7   8  65  48  17  61
+BK Häcken           6   2   4   0  12   9   3  10                   Bayer Leverkusen   33  17   7   9  67  46  21  58
+Malmö FF            6   3   1   2  10   8   2  10                   SC Freiburg        32  12   8  12  45  53  -8  44
+GAIS                7   2   2   3   9   8   1   8                   Eintracht Frankfur 33  11  10  12  59  63  -4  43
+AIK                 6   2   2   2   7   7   0   8                   FC Augsburg        33  12   7  14  45  57 -12  43
 IF Brommapojkarna   7   2   2   3  10  13  -3   8                   Mainz              32   9  10  13  41  50  -9  37
-Västerås SK         6   2   2   2   9  13  -4   8                   Borussia Mönchengl 32   8  11  13  37  50 -13  35
-GAIS                6   1   2   3   8   8   0   5                   Hamburg SV         32   8  10  14  36  51 -15  34
+Degerfors IF        7   2   2   3   8  11  -3   8                   Borussia Mönchengl 33   8  11  14  38  53 -15  35
+Västerås SK         7   2   2   3   9  14  -5   8                   Hamburg SV         32   8  10  14  36  51 -15  34
 Örgryte IS          6   1   2   3   6  16 -10   5                   1. FC Union Berlin 32   8   9  15  37  57 -20  33
 Kalmar FF           6   1   1   4   7  10  -3   4                   FC Cologne         32   7  11  14  47  55  -8  32
-IFK Göteborg        6   0   3   3   4  14 -10   3                   Werder Bremen      32   8   8  16  37  57 -20  32
-Halmstads BK        6   0   2   4   4  12  -8   2                   VfL Wolfsburg      32   6   8  18  42  67 -25  26
-                                                                    St. Pauli          32   6   8  18  27  55 -28  26
+IFK Göteborg        7   0   3   4   4  15 -11   3                   Werder Bremen      33   8   8  17  37  58 -21  32
+Halmstads BK        6   0   2   4   4  12  -8   2                   VfL Wolfsburg      33   6   8  19  42  68 -26  26
+                                                                    St. Pauli          33   6   8  19  28  57 -29  26
                                                                     1. FC Heidenheim 1 32   5   8  19  38  69 -31  23
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
@@ -63,30 +79,30 @@ Allsvenskan Fixtures                                                Bundesliga F
 Friday, May 08                                                      Friday, May 08
   IF Elfsborg          2–0   IF Brommapojkarna                        Borussia Dortmund    3–2   Eintracht Frankfur
 Saturday, May 09                                                    Saturday, May 09
-  Degerfors IF         1–3   Mjällby AIF                              FC Augsburg          1–0   Borussia Mönchengl
-  IFK Göteborg         0–0   Hammarby IF                              RB Leipzig           0–0   St. Pauli
-  Västerås SK          0–0   GAIS                                     TSG Hoffenheim       1–0   Werder Bremen
-Sunday, May 10                                                        VfB Stuttgart        1–1   Bayer Leverkusen
-  AIK                  vs    Djurgården                               VfL Wolfsburg        vs    Bayern Munich
-  Kalmar FF            vs    Halmstads BK                           Sunday, May 10
-  BK Häcken            vs    Malmö FF                                 Hamburg SV           vs    SC Freiburg
+  Degerfors IF         1–4   Mjällby AIF                              FC Augsburg          3–1   Borussia Mönchengl
+  IFK Göteborg         0–1   Hammarby IF                              RB Leipzig           2–1   St. Pauli
+  Västerås SK          0–1   GAIS                                     TSG Hoffenheim       1–0   Werder Bremen
+Sunday, May 10                                                        VfB Stuttgart        3–1   Bayer Leverkusen
+  AIK                  2–4   Djurgården                               VfL Wolfsburg        0–1   Bayern Munich
+  Kalmar FF            2–0   Halmstads BK                           Sunday, May 10
+  BK Häcken            vs    Malmö FF                                 Hamburg SV           1–1   SC Freiburg
 Monday, May 11                                                        FC Cologne           vs    1. FC Heidenheim 1
   IK Sirius            vs    Örgryte IS                               Mainz                vs    1. FC Union Berlin
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
 Arsenal            35  23   7   5  67  26  41  76                   Paris S-G          31  22   4   5  70  27  43  70
-Manchester City    34  21   8   5  69  32  37  71                   Lens               32  21   4   7  62  33  29  67
-Manchester United  35  18  10   7  63  48  15  64                   Lyon               32  18   6   8  52  34  18  60
+Manchester City    35  22   8   5  72  32  40  74                   Lens               32  21   4   7  62  33  29  67
+Manchester United  36  18  11   7  63  48  15  65                   Lyon               32  18   6   8  52  34  18  60
 Liverpool          36  17   8  11  60  48  12  59                   Lille              32  17   7   8  51  35  16  58
 Aston Villa        35  17   7  11  48  44   4  58                   Stade Rennais      32  16   8   8  56  46  10  56
-AFC Bournemouth    35  12  16   7  55  52   3  52                   AS Monaco          32  16   6  10  56  48   8  54
-Brentford          35  14   9  12  52  46   6  51                   Marseille          32  16   5  11  59  44  15  53
-Brighton & Hove Al 35  13  11  11  49  42   7  50                   Strasbourg         31  13   7  11  50  41   9  46
+AFC Bournemouth    36  13  16   7  56  52   4  55                   AS Monaco          32  16   6  10  56  48   8  54
+Brighton & Hove Al 36  14  11  11  52  42  10  53                   Marseille          32  16   5  11  59  44  15  53
+Brentford          36  14   9  13  52  49   3  51                   Strasbourg         31  13   7  11  50  41   9  46
 Chelsea            36  13  10  13  55  49   6  49                   Lorient            32  10  12  10  44  49  -5  42
 Everton            35  13   9  13  44  44   0  48                   Toulouse           32  11   8  13  45  45   0  41
-Fulham             35  14   6  15  44  49  -5  48                   Paris FC           32  10  11  11  44  47  -3  41
-Sunderland         35  12  11  12  37  46  -9  47                   Brest              31  10   8  13  41  51 -10  38
+Fulham             36  14   6  16  44  50  -6  48                   Paris FC           32  10  11  11  44  47  -3  41
+Sunderland         36  12  12  12  37  46  -9  48                   Brest              31  10   8  13  41  51 -10  38
 Newcastle United   35  13   6  16  49  51  -2  45                   Angers             32   9   7  16  27  46 -19  34
 Leeds United       35  10  13  12  47  52  -5  43                   Le Havre AC        32   6  14  12  30  43 -13  32
 Crystal Palace     34  11  10  13  36  42  -6  43                   Nice               32   7  10  15  36  58 -22  31
@@ -94,45 +110,47 @@ Nottingham Forest  35  11   9  15  44  46  -2  42                   AJ Auxerre  
 Tottenham Hotspur  35   9  10  16  45  54  -9  37                   Nantes             33   5   8  20  29  52 -23  23
 West Ham United    35   9   9  17  42  61 -19  36                   Metz               32   3   7  22  32  72 -40  16
 Burnley            35   4   8  23  35  71 -36  20                   
-Wolverhampton Wand 35   3   9  23  25  63 -38  18                   
+Wolverhampton Wand 36   3   9  24  25  66 -41  18                   
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
 Saturday, May 09                                                    Friday, May 08
   Liverpool            1–1   Chelsea                                  Lens                 1–0   Nantes
-  Brighton & Hove Al   2–0   Wolverhampton Wand                     Sunday, May 10
-  Fulham               0–0   AFC Bournemouth                          AJ Auxerre           vs    Nice
+  Brighton & Hove Al   3–0   Wolverhampton Wand                     Sunday, May 10
+  Fulham               0–1   AFC Bournemouth                          AJ Auxerre           vs    Nice
   Sunderland           0–0   Manchester United                        Angers               vs    Strasbourg
-  Manchester City      vs    Brentford                                AS Monaco            vs    Lille
+  Manchester City      3–0   Brentford                                AS Monaco            vs    Lille
 Sunday, May 10                                                        Le Havre AC          vs    Marseille
-  Burnley              vs    Aston Villa                              Metz                 vs    Lorient
-  Crystal Palace       vs    Everton                                  Paris S-G            vs    Brest
-  Nottingham Forest    vs    Newcastle United                         Stade Rennais        vs    Paris FC
+  Burnley              1–1   Aston Villa                              Metz                 vs    Lorient
+  Crystal Palace       1–2   Everton                                  Paris S-G            vs    Brest
+  Nottingham Forest    0–0   Newcastle United                         Stade Rennais        vs    Paris FC
   West Ham United      vs    Arsenal                                  Toulouse             vs    Lyon
-Monday, May 11                                                      
-  Tottenham Hotspur    vs    Leeds United                           
+Monday, May 11                                                      Wednesday, May 13
+  Tottenham Hotspur    vs    Leeds United                             Brest                vs    Strasbourg
+Wednesday, May 13                                                     Lens                 vs    Paris S-G
+  Manchester City      vs    Crystal Palace                         
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
-Internazionale     35  26   4   5  82  31  51  82                   
+Internazionale     36  27   4   5  85  31  54  85                   
 Napoli             35  21   7   7  52  33  19  70                   
+Juventus           36  19  11   6  59  30  29  68                   
 AC Milan           35  19  10   6  48  29  19  67                   
-Juventus           35  18  11   6  58  30  28  65                   
+Como               36  18  11   7  60  28  32  65                   
 AS Roma            35  20   4  11  52  29  23  64                   
-Como               35  17  11   7  59  28  31  62                   
 Atalanta           35  14  13   8  47  32  15  55                   
-Lazio              35  13  12  10  39  34   5  51                   
+Lazio              36  13  12  11  39  37   2  51                   
+Udinese            36  14   8  14  45  46  -1  50                   
 Bologna            35  14   7  14  42  41   1  49                   
 Sassuolo           36  14   7  15  44  46  -2  49                   
-Udinese            35  13   8  14  43  46  -3  47                   
 Torino             36  12   8  16  41  59 -18  44                   
 Parma              35  10  12  13  25  42 -17  42                   
 Genoa              35  10  10  15  40  48  -8  40                   
-Cagliari           35   9  10  16  36  49 -13  37                   
 Fiorentina         35   8  13  14  38  49 -11  37                   
-Lecce              35   8   8  19  24  47 -23  32                   
+Cagliari           36   9  10  17  36  51 -15  37                   
+Lecce              36   8   8  20  24  48 -24  32                   
 Cremonese          35   6  10  19  27  53 -26  28                   
-Hellas Verona      35   3  11  21  24  57 -33  20                   
+Hellas Verona      36   3  11  22  24  58 -34  20                   
 Pisa               35   2  12  21  25  63 -38  18                   
 
 Serie A Fixtures
@@ -140,13 +158,13 @@ Serie A Fixtures
 Friday, May 08
   Torino               2–1   Sassuolo
 Saturday, May 09
-  Cagliari             0–0   Udinese
-  Lazio                vs    Internazionale
-  Lecce                vs    Juventus
+  Cagliari             0–2   Udinese
+  Lazio                0–3   Internazionale
+  Lecce                0–1   Juventus
 Sunday, May 10
-  Hellas Verona        vs    Como
-  Cremonese            vs    Pisa
-  Fiorentina           vs    Genoa
+  Hellas Verona        0–1   Como
+  Cremonese            2–0   Pisa
+  Fiorentina           0–0   Genoa
   Parma                vs    AS Roma
   AC Milan             vs    Atalanta
 Monday, May 11
@@ -191,9 +209,5 @@ PSV Eindhoven        8   2   2   4  16  16   0   8
     Villarreal       8   0   1   7   5  18 -13   1                  
     Kairat Almaty    8   0   1   7   7  22 -15   1                  
 
-Champions League Fixtures
--------------------------
-Wednesday, May 06
-  Bayern Munich        1–1   Paris S-G
 
-Standings from ESPN.com 05.09.26
+Standings from ESPN.com 05.10.26
