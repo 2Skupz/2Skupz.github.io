@@ -115,7 +115,7 @@ Thursday, May 14
 Allsvenskan
 -----------
 Squad              MP   W   D   L  Pt  GD
-IK Sirius           6   5   1   0  16  10
+IK Sirius           7   6   1   0  19  12
 Hammarby IF         7   4   2   1  14  12
 IF Elfsborg         7   4   2   1  14   5
 Djurgården          7   4   1   2  13   8
@@ -128,14 +128,12 @@ IF Brommapojkarna   7   2   2   3   8  -3
 Degerfors IF        7   2   2   3   8  -3
 Västerås SK         7   2   2   3   8  -5
 Kalmar FF           7   2   1   4   7  -1
-Örgryte IS          6   1   2   3   5 -10
+Örgryte IS          7   1   2   4   5 -12
 IFK Göteborg        7   0   3   4   3 -11
 Halmstads BK        7   0   2   5   2 -10
 
 Allsvenskan Fixtures
 --------------------
-Friday, May 08
-  IF Elfsborg          2–0   IF Brommapojkarna
 Saturday, May 09
   Degerfors IF         1–4   Mjällby AIF
   IFK Göteborg         0–1   Hammarby IF
@@ -145,7 +143,7 @@ Sunday, May 10
   Kalmar FF            2–0   Halmstads BK
   BK Häcken            3–2   Malmö FF
 Monday, May 11
-  IK Sirius            vs    Örgryte IS
+  IK Sirius            2–0   Örgryte IS
 
 
 Bundesliga
@@ -172,8 +170,6 @@ St. Pauli          33   6   8  19  26 -29
 
 Bundesliga Fixtures
 -------------------
-Friday, May 08
-  Borussia Dortmund    3–2   Eintracht Frankfur
 Saturday, May 09
   FC Augsburg          3–1   Borussia Mönchengl
   RB Leipzig           2–1   St. Pauli
@@ -202,10 +198,10 @@ Everton            36  13  10  13  49   0
 Fulham             36  14   6  16  48  -6
 Sunderland         36  12  12  12  48  -9
 Newcastle United   36  13   7  16  46  -2
+Leeds United       36  10  14  12  44  -5
 Crystal Palace     35  11  11  13  44  -6
 Nottingham Forest  36  11  10  15  43  -2
-Leeds United       35  10  13  12  43  -5
-Tottenham Hotspur  35   9  10  16  37  -9
+Tottenham Hotspur  36   9  11  16  38  -9
 West Ham United    36   9   9  18  36 -20
 Burnley            36   4   9  23  21 -36
 Wolverhampton Wand 36   3   9  24  18 -41
@@ -224,9 +220,11 @@ Sunday, May 10
   Nottingham Forest    1–1   Newcastle United
   West Ham United      0–1   Arsenal
 Monday, May 11
-  Tottenham Hotspur    vs    Leeds United
+  Tottenham Hotspur    1–1   Leeds United
 Wednesday, May 13
   Manchester City      vs    Crystal Palace
+Friday, May 15
+  Aston Villa          vs    Liverpool
 
 
 Ligue 1
@@ -253,8 +251,6 @@ Metz               33   3   7  23  16 -44
 
 Ligue 1 Fixtures
 ----------------
-Friday, May 08
-  Lens                 1–0   Nantes
 Sunday, May 10
   AJ Auxerre           2–1   Nice
   Angers               1–1   Strasbourg
@@ -273,15 +269,15 @@ Serie A
 -------
 Squad              MP   W   D   L  Pt  GD
 Internazionale     36  27   4   5  85  54
-Napoli             35  21   7   7  70  19
+Napoli             36  21   7   8  70  18
 Juventus           36  19  11   6  68  29
 AC Milan           36  19  10   7  67  18
 AS Roma            36  21   4  11  67  24
 Como               36  18  11   7  65  32
 Atalanta           36  15  13   8  58  16
+Bologna            36  15   7  14  52   2
 Lazio              36  13  12  11  51   2
 Udinese            36  14   8  14  50  -1
-Bologna            35  14   7  14  49   1
 Sassuolo           36  14   7  15  49  -2
 Torino             36  12   8  16  44 -18
 Parma              36  10  12  14  42 -18
@@ -295,8 +291,6 @@ Pisa               36   2  12  22  18 -41
 
 Serie A Fixtures
 ----------------
-Friday, May 08
-  Torino               2–1   Sassuolo
 Saturday, May 09
   Cagliari             0–2   Udinese
   Lazio                0–3   Internazionale
@@ -308,7 +302,7 @@ Sunday, May 10
   Parma                2–3   AS Roma
   AC Milan             2–3   Atalanta
 Monday, May 11
-  Napoli               vs    Bologna
+  Napoli               2–3   Bologna
 
 
 Champions League
@@ -352,4 +346,4 @@ PSV Eindhoven        8   2   2   4   8   0
     Kairat Almaty    8   0   1   7   1 -15
 
 
-Standings from ESPN.com 05.11.26
+Standings from ESPN.com 05.12.26

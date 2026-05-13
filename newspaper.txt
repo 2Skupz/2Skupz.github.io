@@ -55,7 +55,7 @@ Thursday, May 14
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-IK Sirius           6   5   1   0  17   7  10  16                   Bayern Munich      33  27   5   1 117  35  82  86
+IK Sirius           7   6   1   0  19   7  12  19                   Bayern Munich      33  27   5   1 117  35  82  86
 Hammarby IF         7   4   2   1  17   5  12  14                   Borussia Dortmund  33  21   7   5  68  34  34  70
 IF Elfsborg         7   4   2   1  11   6   5  14                   RB Leipzig         33  20   5   8  65  43  22  65
 Djurgården          7   4   1   2  16   8   8  13                   VfB Stuttgart      33  18   7   8  69  47  22  61
@@ -68,7 +68,7 @@ IF Brommapojkarna   7   2   2   3  10  13  -3   8                   Mainz       
 Degerfors IF        7   2   2   3   8  11  -3   8                   Hamburg SV         33   9  10  14  39  53 -14  37
 Västerås SK         7   2   2   3   9  14  -5   8                   1. FC Union Berlin 33   9   9  15  40  58 -18  36
 Kalmar FF           7   2   1   4   9  10  -1   7                   Borussia Mönchengl 33   8  11  14  38  53 -15  35
-Örgryte IS          6   1   2   3   6  16 -10   5                   FC Cologne         33   7  11  15  48  58 -10  32
+Örgryte IS          7   1   2   4   6  18 -12   5                   FC Cologne         33   7  11  15  48  58 -10  32
 IFK Göteborg        7   0   3   4   4  15 -11   3                   Werder Bremen      33   8   8  17  37  58 -21  32
 Halmstads BK        7   0   2   5   4  14 -10   2                   VfL Wolfsburg      33   6   8  19  42  68 -26  26
                                                                     1. FC Heidenheim 1 33   6   8  19  41  70 -29  26
@@ -76,8 +76,6 @@ Halmstads BK        7   0   2   5   4  14 -10   2                   VfL Wolfsbur
 
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
-Friday, May 08                                                      Friday, May 08
-  IF Elfsborg          2–0   IF Brommapojkarna                        Borussia Dortmund    3–2   Eintracht Frankfur
 Saturday, May 09                                                    Saturday, May 09
   Degerfors IF         1–4   Mjällby AIF                              FC Augsburg          3–1   Borussia Mönchengl
   IFK Göteborg         0–1   Hammarby IF                              RB Leipzig           2–1   St. Pauli
@@ -87,7 +85,7 @@ Sunday, May 10                                                        VfB Stuttg
   Kalmar FF            2–0   Halmstads BK                           Sunday, May 10
   BK Häcken            3–2   Malmö FF                                 Hamburg SV           3–2   SC Freiburg
 Monday, May 11                                                        FC Cologne           1–3   1. FC Heidenheim 1
-  IK Sirius            vs    Örgryte IS                               Mainz                1–3   1. FC Union Berlin
+  IK Sirius            2–0   Örgryte IS                               Mainz                1–3   1. FC Union Berlin
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -104,44 +102,46 @@ Everton            36  13  10  13  46  46   0  49                   Toulouse    
 Fulham             36  14   6  16  44  50  -6  48                   Paris FC           33  10  11  12  45  49  -4  41
 Sunderland         36  12  12  12  37  46  -9  48                   Brest              32  10   8  14  41  52 -11  38
 Newcastle United   36  13   7  16  50  52  -2  46                   Angers             33   9   8  16  28  47 -19  35
-Crystal Palace     35  11  11  13  38  44  -6  44                   Le Havre AC        33   6  14  13  30  44 -14  32
-Nottingham Forest  36  11  10  15  45  47  -2  43                   AJ Auxerre         33   7  10  16  32  44 -12  31
-Leeds United       35  10  13  12  47  52  -5  43                   Nice               33   7  10  16  37  60 -23  31
-Tottenham Hotspur  35   9  10  16  45  54  -9  37                   Nantes             33   5   8  20  29  52 -23  23
+Leeds United       36  10  14  12  48  53  -5  44                   Le Havre AC        33   6  14  13  30  44 -14  32
+Crystal Palace     35  11  11  13  38  44  -6  44                   AJ Auxerre         33   7  10  16  32  44 -12  31
+Nottingham Forest  36  11  10  15  45  47  -2  43                   Nice               33   7  10  16  37  60 -23  31
+Tottenham Hotspur  36   9  11  16  46  55  -9  38                   Nantes             33   5   8  20  29  52 -23  23
 West Ham United    36   9   9  18  42  62 -20  36                   Metz               33   3   7  23  32  76 -44  16
 Burnley            36   4   9  23  37  73 -36  21                   
 Wolverhampton Wand 36   3   9  24  25  66 -41  18                   
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Saturday, May 09                                                    Friday, May 08
-  Liverpool            1–1   Chelsea                                  Lens                 1–0   Nantes
-  Brighton & Hove Al   3–0   Wolverhampton Wand                     Sunday, May 10
-  Fulham               0–1   AFC Bournemouth                          AJ Auxerre           2–1   Nice
-  Sunderland           0–0   Manchester United                        Angers               1–1   Strasbourg
-  Manchester City      3–0   Brentford                                AS Monaco            0–1   Lille
-Sunday, May 10                                                        Le Havre AC          0–1   Marseille
-  Burnley              2–2   Aston Villa                              Metz                 0–4   Lorient
-  Crystal Palace       2–2   Everton                                  Paris S-G            1–0   Brest
-  Nottingham Forest    1–1   Newcastle United                         Stade Rennais        2–1   Paris FC
-  West Ham United      0–1   Arsenal                                  Toulouse             2–1   Lyon
-Monday, May 11                                                      Wednesday, May 13
-  Tottenham Hotspur    vs    Leeds United                             Brest                vs    Strasbourg
-Wednesday, May 13                                                     Lens                 vs    Paris S-G
+Saturday, May 09                                                    Sunday, May 10
+  Liverpool            1–1   Chelsea                                  AJ Auxerre           2–1   Nice
+  Brighton & Hove Al   3–0   Wolverhampton Wand                       Angers               1–1   Strasbourg
+  Fulham               0–1   AFC Bournemouth                          AS Monaco            0–1   Lille
+  Sunderland           0–0   Manchester United                        Le Havre AC          0–1   Marseille
+  Manchester City      3–0   Brentford                                Metz                 0–4   Lorient
+Sunday, May 10                                                        Paris S-G            1–0   Brest
+  Burnley              2–2   Aston Villa                              Stade Rennais        2–1   Paris FC
+  Crystal Palace       2–2   Everton                                  Toulouse             2–1   Lyon
+  Nottingham Forest    1–1   Newcastle United                       Wednesday, May 13
+  West Ham United      0–1   Arsenal                                  Brest                vs    Strasbourg
+Monday, May 11                                                        Lens                 vs    Paris S-G
+  Tottenham Hotspur    1–1   Leeds United                           
+Wednesday, May 13                                                   
   Manchester City      vs    Crystal Palace                         
+Friday, May 15                                                      
+  Aston Villa          vs    Liverpool                              
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
 Internazionale     36  27   4   5  85  31  54  85                   
-Napoli             35  21   7   7  52  33  19  70                   
+Napoli             36  21   7   8  54  36  18  70                   
 Juventus           36  19  11   6  59  30  29  68                   
 AC Milan           36  19  10   7  50  32  18  67                   
 AS Roma            36  21   4  11  55  31  24  67                   
 Como               36  18  11   7  60  28  32  65                   
 Atalanta           36  15  13   8  50  34  16  58                   
+Bologna            36  15   7  14  45  43   2  52                   
 Lazio              36  13  12  11  39  37   2  51                   
 Udinese            36  14   8  14  45  46  -1  50                   
-Bologna            35  14   7  14  42  41   1  49                   
 Sassuolo           36  14   7  15  44  46  -2  49                   
 Torino             36  12   8  16  41  59 -18  44                   
 Parma              36  10  12  14  27  45 -18  42                   
@@ -155,8 +155,6 @@ Pisa               36   2  12  22  25  66 -41  18
 
 Serie A Fixtures
 ----------------
-Friday, May 08
-  Torino               2–1   Sassuolo
 Saturday, May 09
   Cagliari             0–2   Udinese
   Lazio                0–3   Internazionale
@@ -168,7 +166,7 @@ Sunday, May 10
   Parma                2–3   AS Roma
   AC Milan             2–3   Atalanta
 Monday, May 11
-  Napoli               vs    Bologna
+  Napoli               2–3   Bologna
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -210,4 +208,4 @@ PSV Eindhoven        8   2   2   4  16  16   0   8
     Kairat Almaty    8   0   1   7   7  22 -15   1                  
 
 
-Standings from ESPN.com 05.11.26
+Standings from ESPN.com 05.12.26
