@@ -77,15 +77,15 @@ Halmstads BK        7   0   2   5   4  14 -10   2                   VfL Wolfsbur
 Allsvenskan Fixtures                                                Bundesliga Fixtures
 --------------------                                                -------------------
 Saturday, May 16                                                    Saturday, May 16
-  GAIS                 vs    Degerfors IF                             1. FC Heidenheim 1   vs    Mainz
-  Halmstads BK         vs    IF Elfsborg                              1. FC Union Berlin   vs    FC Augsburg
-Sunday, May 17                                                        Bayer Leverkusen     vs    Hamburg SV
-  Hammarby IF          vs    Malmö FF                                 Bayern Munich        vs    FC Cologne
-  IF Brommapojkarna    vs    Kalmar FF                                Borussia Mönchengl   vs    TSG Hoffenheim
-  Mjällby AIF          vs    BK Häcken                                Eintracht Frankfur   vs    VfB Stuttgart
-  Västerås SK          vs    AIK                                      SC Freiburg          vs    RB Leipzig
-Monday, May 18                                                        St. Pauli            vs    VfL Wolfsburg
-  Djurgården           vs    IK Sirius                                Werder Bremen        vs    Borussia Dortmund
+  GAIS                 1–0   Degerfors IF                             1. FC Heidenheim 1   0–1   Mainz
+  Halmstads BK         1–0   IF Elfsborg                              1. FC Union Berlin   1–0   FC Augsburg
+Sunday, May 17                                                        Bayer Leverkusen     0–0   Hamburg SV
+  Hammarby IF          vs    Malmö FF                                 Bayern Munich        3–1   FC Cologne
+  IF Brommapojkarna    vs    Kalmar FF                                Borussia Mönchengl   2–0   TSG Hoffenheim
+  Mjällby AIF          vs    BK Häcken                                Eintracht Frankfur   0–1   VfB Stuttgart
+  Västerås SK          vs    AIK                                      SC Freiburg          2–1   RB Leipzig
+Monday, May 18                                                        St. Pauli            0–0   VfL Wolfsburg
+  Djurgården           vs    IK Sirius                                Werder Bremen        0–0   Borussia Dortmund
   Örgryte IS           vs    IFK Göteborg                           
 
 Premier League                                                      Ligue 1
@@ -93,8 +93,8 @@ Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad       
 Arsenal            36  24   7   5  68  26  42  79                   Paris S-G          33  24   4   5  73  27  46  76
 Manchester City    36  23   8   5  75  32  43  77                   Lens               33  21   4   8  62  35  27  67
 Manchester United  36  18  11   7  63  48  15  65                   Lille              33  18   7   8  52  35  17  61
-Liverpool          36  17   8  11  60  48  12  59                   Lyon               33  18   6   9  53  36  17  60
-Aston Villa        36  17   8  11  50  46   4  59                   Stade Rennais      33  17   8   8  58  47  11  59
+Aston Villa        37  18   8  11  54  48   6  62                   Lyon               33  18   6   9  53  36  17  60
+Liverpool          37  17   8  12  62  52  10  59                   Stade Rennais      33  17   8   8  58  47  11  59
 AFC Bournemouth    36  13  16   7  56  52   4  55                   Marseille          33  17   5  11  60  44  16  56
 Brighton & Hove Al 36  14  11  11  52  42  10  53                   AS Monaco          33  16   6  11  56  49   7  54
 Brentford          36  14   9  13  52  49   3  51                   Strasbourg         33  14   8  11  53  43  10  50
@@ -116,7 +116,7 @@ Premier League Fixtures                                             Ligue 1 Fixt
 Wednesday, May 13                                                   Wednesday, May 13
   Manchester City      3–0   Crystal Palace                           Brest                1–2   Strasbourg
 Friday, May 15                                                        Lens                 0–2   Paris S-G
-  Aston Villa          vs    Liverpool                              Sunday, May 17
+  Aston Villa          4–2   Liverpool                              Sunday, May 17
 Sunday, May 17                                                        Brest                vs    Angers
   Manchester United    vs    Nottingham Forest                        Lille                vs    AJ Auxerre
   Brentford            vs    Crystal Palace                           Lorient              vs    Le Havre AC
@@ -126,6 +126,9 @@ Sunday, May 17                                                        Brest     
   Newcastle United     vs    West Ham United                          Nice                 vs    Metz
 Monday, May 18                                                        Paris FC             vs    Paris S-G
   Arsenal              vs    Burnley                                  Strasbourg           vs    AS Monaco
+Tuesday, May 19                                                     
+  AFC Bournemouth      vs    Manchester City                        
+  Chelsea              vs    Tottenham Hotspur                      
 
 Serie A                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        
@@ -204,4 +207,4 @@ PSV Eindhoven        8   2   2   4  16  16   0   8
     Kairat Almaty    8   0   1   7   7  22 -15   1                  
 
 
-Standings from ESPN.com 05.15.26
+Standings from ESPN.com 05.16.26
