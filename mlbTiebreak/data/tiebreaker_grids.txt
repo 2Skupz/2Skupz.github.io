@@ -10,8 +10,8 @@ BAL        ATH       -     BOS     BAL     CLE     DET     BAL     BAL     LAA  
 BOS        ATH     BOS       -     CHW     CLE     BOS     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     CLE     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     SEA     TBR     CLE     TOR
-DET        ATH     DET     BOS     CHW     CLE       -     DET     DET     LAA     MIN     NYY     SEA     TBR     DET     DET
-HOU        ATH     BAL     HOU     CHW     HOU     DET       -     KCR     LAA     MIN     NYY     SEA     TBR     HOU     HOU
+DET        ATH     DET     BOS     CHW     CLE       -     DET     DET     LAA     MIN     NYY     SEA     TBR     DET     TOR
+HOU        ATH     BAL     HOU     CHW     HOU     DET       -     KCR     LAA     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        ATH     BAL     KCR     CHW     CLE     DET     KCR       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     LAA     TOR
 MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
@@ -19,7 +19,7 @@ NYY        ATH     NYY     NYY     CHW     NYY     NYY     NYY     NYY     NYY  
 SEA        ATH     SEA     SEA     CHW     SEA     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
-TOR        TOR     TOR     TOR     CHW     TOR     DET     HOU     KCR     TOR     MIN     NYY     SEA     TBR     TEX       -
+TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR     MIN     NYY     SEA     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
@@ -30,23 +30,23 @@ ATH     9-5
 MIN     9-5 
 CLE     7-7 
 SEA     7-7 
+TOR     7-7 
 KCR     6-8 
 LAA     6-8 
-DET     5-9 
 TEX     5-9 
-TOR     5-9 
 BAL     4-10
-HOU     4-10
+DET     4-10
+HOU     3-11
 BOS     2-12
 
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
-ARI          -     ATL     CHC     ARI     COL     LAD     MIA     MIL     ARI     ARI     PIT     SDP     SFG     STL     WSN
+ARI          -     ATL     CHC     ARI     ARI     LAD     MIA     MIL     ARI     ARI     PIT     SDP     SFG     STL     WSN
 ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     STL     ATL
 CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     CHC     CHC     CHC     PIT     CHC     CHC     STL     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     NYM     PHI     PIT     SDP     CIN     STL     WSN
-COL        COL     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
+COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     SDP     SFG     STL     LAD
 MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
 MIL        MIL     ATL     CHC     MIL     MIL     LAD     MIL       -     MIL     PHI     PIT     MIL     SFG     STL     WSN
@@ -71,7 +71,7 @@ PIT     7-7
 SFG     7-7 
 MIL     6-8 
 WSN     6-8 
-ARI     3-11
+ARI     4-10
 NYM     3-11
 CIN     2-12
-COL     2-12
+COL     1-13
