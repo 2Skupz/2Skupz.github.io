@@ -39,11 +39,11 @@ Monday, May 18
 
 Allsvenskan                                                         Bundesliga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-IK Sirius           7   6   1   0  19   7  12  19                   Bayern Munich      34  28   5   1 122  36  86  89
+IK Sirius           8   7   1   0  22   9  13  22                   Bayern Munich      34  28   5   1 122  36  86  89
 Hammarby IF         8   5   2   1  21   6  15  17                   Borussia Dortmund  34  22   7   5  70  34  36  73
 BK Häcken           8   4   4   0  16  11   5  16                   RB Leipzig         34  20   5   9  66  47  19  65
 IF Elfsborg         8   4   3   1  12   7   5  15                   VfB Stuttgart      34  18   8   8  71  49  22  62
-Djurgården          7   4   1   2  16   8   8  13                   TSG Hoffenheim     34  18   7   9  65  52  13  61
+Djurgården          8   4   1   3  18  11   7  13                   TSG Hoffenheim     34  18   7   9  65  52  13  61
 Mjällby AIF         8   4   1   3  12   9   3  13                   Bayer Leverkusen   34  17   8   9  68  47  21  59
 IF Brommapojkarna   8   3   2   3  11  13  -2  11                   SC Freiburg        34  13   8  13  51  57  -6  47
 Malmö FF            8   3   1   4  13  15  -2  10                   Eintracht Frankfur 34  11  11  12  61  65  -4  44
@@ -69,16 +69,19 @@ Sunday, May 17                                                        Bayer Leve
   Mjällby AIF          0–1   BK Häcken                                Eintracht Frankfur   2–2   VfB Stuttgart
   Västerås SK          1–1   AIK                                      SC Freiburg          4–1   RB Leipzig
 Monday, May 18                                                        St. Pauli            1–3   VfL Wolfsburg
-  Djurgården           vs    IK Sirius                                Werder Bremen        0–2   Borussia Dortmund
-  Örgryte IS           vs    IFK Göteborg                           
+  Djurgården           2–3   IK Sirius                                Werder Bremen        0–2   Borussia Dortmund
+Tuesday, May 19                                                     
+  Örgryte IS           2–3   IFK Göteborg                           
 Wednesday, May 20                                                   
   GAIS                 vs    Hammarby IF                            
 Thursday, May 21                                                    
   IF Elfsborg          vs    Mjällby AIF                            
+Friday, May 22                                                      
+  Djurgården           vs    IF Brommapojkarna                      
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-Arsenal            36  24   7   5  68  26  42  79                   Paris S-G          34  24   4   6  74  29  45  76
+Arsenal            37  25   7   5  69  26  43  82                   Paris S-G          34  24   4   6  74  29  45  76
 Manchester City    36  23   8   5  75  32  43  77                   Lens               34  22   4   8  66  35  31  70
 Manchester United  37  19  11   7  66  50  16  68                   Lille              34  18   7   9  52  37  15  61
 Aston Villa        37  18   8  11  54  48   6  62                   Lyon               34  18   6  10  53  40  13  60
@@ -96,23 +99,21 @@ Crystal Palace     37  11  12  14  40  49  -9  45                   AJ Auxerre  
 Nottingham Forest  37  11  10  16  47  50  -3  43                   Nice               34   7  11  16  37  60 -23  32
 Tottenham Hotspur  36   9  11  16  46  55  -9  38                   Nantes             33   5   8  20  29  52 -23  23
 West Ham United    37   9   9  19  43  65 -22  36                   Metz               34   3   8  23  32  76 -44  17
-Burnley            36   4   9  23  37  73 -36  21                   
+Burnley            37   4   9  24  37  74 -37  21                   
 Wolverhampton Wand 37   3  10  24  26  67 -41  19                   
 
 Premier League Fixtures                                             Ligue 1 Fixtures
 -----------------------                                             ----------------
-Friday, May 15                                                      Sunday, May 17
-  Aston Villa          4–2   Liverpool                                Brest                1–1   Angers
-Sunday, May 17                                                        Lille                0–2   AJ Auxerre
-  Manchester United    3–2   Nottingham Forest                        Lorient              0–2   Le Havre AC
-  Brentford            2–2   Crystal Palace                           Lyon                 0–4   Lens
-  Everton              1–3   Sunderland                               Marseille            3–1   Stade Rennais
-  Leeds United         1–0   Brighton & Hove Al                       Nantes               0–0   Toulouse
-  Wolverhampton Wand   1–1   Fulham                                   Nice                 0–0   Metz
-  Newcastle United     3–1   West Ham United                          Paris FC             2–1   Paris S-G
-Monday, May 18                                                        Strasbourg           5–4   AS Monaco
-  Arsenal              vs    Burnley                                
-Tuesday, May 19                                                     
+Sunday, May 17                                                      Sunday, May 17
+  Manchester United    3–2   Nottingham Forest                        Brest                1–1   Angers
+  Brentford            2–2   Crystal Palace                           Lille                0–2   AJ Auxerre
+  Everton              1–3   Sunderland                               Lorient              0–2   Le Havre AC
+  Leeds United         1–0   Brighton & Hove Al                       Lyon                 0–4   Lens
+  Wolverhampton Wand   1–1   Fulham                                   Marseille            3–1   Stade Rennais
+  Newcastle United     3–1   West Ham United                          Nantes               0–0   Toulouse
+Monday, May 18                                                        Nice                 0–0   Metz
+  Arsenal              1–0   Burnley                                  Paris FC             2–1   Paris S-G
+Tuesday, May 19                                                       Strasbourg           5–4   AS Monaco
   AFC Bournemouth      vs    Manchester City                        
   Chelsea              vs    Tottenham Hotspur                      
 
@@ -152,6 +153,8 @@ Sunday, May 17
   Cagliari             2–1   Torino
   Sassuolo             2–3   Lecce
   Udinese              0–1   Cremonese
+Friday, May 22
+  Fiorentina           vs    Atalanta
 
 Champions League
 Cty Squad             MP   W   D   L  GF  GA  GD Pts  xGF   xGA
@@ -193,4 +196,4 @@ PSV Eindhoven        8   2   2   4  16  16   0   8
     Kairat Almaty    8   0   1   7   7  22 -15   1                  
 
 
-Standings from ESPN.com 05.18.26
+Standings from ESPN.com 05.19.26
