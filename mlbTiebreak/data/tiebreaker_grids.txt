@@ -11,15 +11,15 @@ BOS        ATH     BOS       -     CHW     CLE     BOS     HOU     BOS     LAA  
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     CLE     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     CLE     TOR
 DET        ATH     DET     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     SEA     TBR     DET     TOR
-HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     KCR     LAA     MIN     NYY     SEA     TBR     HOU     HOU
+HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     KCR     LAA     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        ATH     BAL     BOS     CHW     CLE     DET     KCR       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
-LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     LAA     TOR
+LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     TEX     TOR
 MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
 NYY        ATH     NYY     NYY     CHW     NYY     NYY     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        ATH     SEA     SEA     CHW     CLE     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
-TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
-TOR        TOR     TOR     TOR     CHW     TOR     TOR     HOU     KCR     TOR     MIN     NYY     SEA     TBR     TEX       -
+TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     TEX     MIN     NYY     TEX     TBR       -     TEX
+TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR     MIN     NYY     SEA     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
@@ -29,13 +29,13 @@ NYY    10-4
 ATH     9-5 
 MIN     9-5 
 CLE     8-6 
-LAA     6-8 
+TOR     7-7 
 SEA     6-8 
-TOR     6-8 
-HOU     5-9 
+TEX     6-8 
 KCR     5-9 
-TEX     5-9 
+LAA     5-9 
 BAL     4-10
+HOU     4-10
 BOS     3-11
 DET     3-11
 
@@ -43,35 +43,35 @@ NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
 ARI          -     ATL     CHC     ARI     ARI     LAD     ARI     MIL     ARI     ARI     PIT     SDP     ARI     STL     ARI
-ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     STL     ATL
+ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
 CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
-CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     NYM     PHI     PIT     SDP     CIN     STL     WSN
+CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     NYM     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
-LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     MIL     LAD     LAD     LAD     SDP     SFG     STL     LAD
+LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     MIL     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        ARI     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     MIL     MIL     STL     WSN
 NYM        ARI     ATL     CHC     NYM     COL     LAD     MIA     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
-PHI        ARI     ATL     CHC     PHI     PHI     LAD     PHI     MIL     PHI       -     PHI     SDP     PHI     STL     PHI
+PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     SDP     PHI     STL     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
-SDP        SDP     ATL     CHC     SDP     SDP     SDP     SDP     MIL     SDP     SDP     SDP       -     SDP     STL     SDP
+SDP        SDP     ATL     CHC     SDP     SDP     LAD     SDP     MIL     SDP     SDP     SDP       -     SDP     STL     SDP
 SFG        ARI     ATL     CHC     CIN     SFG     SFG     SFG     MIL     NYM     PHI     SFG     SDP       -     STL     SFG
-STL        STL     STL     STL     STL     STL     STL     MIA     STL     STL     STL     STL     STL     STL       -     STL
+STL        STL     ATL     STL     STL     STL     STL     MIA     STL     STL     STL     STL     STL     STL       -     STL
 WSN        ARI     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     SDP     SFG     STL       -
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-ATL    13-1 
-STL    13-1 
+ATL    14-0 
+STL    12-2 
 MIL    10-4 
-SDP    10-4 
+LAD     9-5 
+SDP     9-5 
 CHC     8-6 
-LAD     8-6 
 ARI     7-7 
-PHI     7-7 
 PIT     7-7 
 MIA     6-8 
+PHI     6-8 
 SFG     5-9 
 WSN     5-9 
+CIN     3-11
 NYM     3-11
-CIN     2-12
 COL     1-13
