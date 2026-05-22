@@ -9,13 +9,13 @@ ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH  
 BAL        ATH       -     BOS     BAL     CLE     DET     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
 BOS        ATH     BOS       -     CHW     CLE     BOS     HOU     BOS     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
-CLE        CLE     CLE     CLE     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     CLE     TOR
+CLE        CLE     CLE     CLE     CHW       -     CLE     HOU     CLE     CLE     MIN     CLE     CLE     TBR     CLE     TOR
 DET        ATH     DET     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     SEA     TBR     DET     TOR
 HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     KCR     LAA     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        ATH     BAL     BOS     CHW     CLE     DET     KCR       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     TEX     TOR
 MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
-NYY        ATH     NYY     NYY     CHW     NYY     NYY     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
+NYY        ATH     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        ATH     SEA     SEA     CHW     CLE     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     TEX     MIN     NYY     TEX     TBR       -     TEX
@@ -25,10 +25,10 @@ AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 TBR    14-0 
 CHW    12-2 
-NYY    10-4 
 ATH     9-5 
+CLE     9-5 
 MIN     9-5 
-CLE     8-6 
+NYY     9-5 
 TOR     7-7 
 SEA     6-8 
 TEX     6-8 
@@ -48,9 +48,9 @@ CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC  
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     NYM     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     MIL     LAD     LAD     LAD     LAD     SFG     STL     LAD
-MIA        ARI     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
+MIA        ARI     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     PHI     PIT     SDP     SFG     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     MIL     MIL     STL     WSN
-NYM        ARI     ATL     CHC     NYM     COL     LAD     MIA     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
+NYM        ARI     ATL     CHC     NYM     COL     LAD     NYM     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
 PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     SDP     PHI     STL     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
 SDP        SDP     ATL     CHC     SDP     SDP     LAD     SDP     MIL     SDP     SDP     SDP       -     SDP     STL     SDP
@@ -68,10 +68,10 @@ SDP     9-5
 CHC     8-6 
 ARI     7-7 
 PIT     7-7 
-MIA     6-8 
 PHI     6-8 
+MIA     5-9 
 SFG     5-9 
 WSN     5-9 
+NYM     4-10
 CIN     3-11
-NYM     3-11
 COL     1-13
