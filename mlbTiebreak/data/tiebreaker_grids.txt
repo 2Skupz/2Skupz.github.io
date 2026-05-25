@@ -47,9 +47,9 @@ ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL  
 CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     NYM     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
-LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     MIL     LAD     LAD     LAD     LAD     SFG     STL     LAD
+LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        ARI     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
-MIL        MIL     ATL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     MIL     MIL     STL     WSN
+MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     STL     WSN
 NYM        ARI     ATL     CHC     NYM     COL     LAD     MIA     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
 PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     SDP     PHI     STL     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
@@ -62,8 +62,8 @@ NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 ATL    14-0 
 STL    12-2 
-MIL    10-4 
-LAD     9-5 
+LAD    10-4 
+MIL     9-5 
 SDP     9-5 
 CHC     8-6 
 ARI     7-7 

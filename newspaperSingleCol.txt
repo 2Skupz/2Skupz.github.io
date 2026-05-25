@@ -1,38 +1,38 @@
 MLS West
 --------
 Squad              MP   W   D   L  Pt  GD
-Vancouver Whitecap 13   9   2   2  29  20
-San Jose           14   9   2   3  29  17
-Real Salt Lake     13   8   1   4  25   7
+Vancouver Whitecap 14  10   2   2  32  22
+San Jose           15  10   2   3  32  19
+Real Salt Lake     14   8   2   4  26   7
+Dallas             15   7   4   4  25   8
 Seattle            12   7   3   2  24   7
-Dallas             14   6   4   4  22   7
-Houston            13   7   0   6  21  -4
+Houston            14   7   1   6  22  -4
+Minnesota          15   6   4   5  22  -4
 LAFC               14   6   3   5  21   6
-Minnesota          14   6   3   5  21  -4
-Galaxy             14   5   4   5  19   0
-San Diego          14   4   5   5  17   5
-Colorado           14   5   1   8  16   2
-Portland           13   4   2   7  14  -4
-Austin             14   3   5   6  14  -9
-St. Louis          13   3   4   6  13  -7
-Sporting KC        13   3   2   8  11 -21
+Galaxy             15   5   5   5  20   0
+San Diego          15   4   5   6  17   3
+Colorado           15   5   1   9  16   1
+St. Louis          14   4   4   6  16  -4
+Portland           14   4   2   8  14  -6
+Austin             15   3   5   7  14 -12
+Sporting KC        14   3   2   9  11 -22
 
 MLS Fixtures
 ------------
 Saturday, May 23
-  St. Louis            vs    Austin
-  Minnesota            vs    Real Salt Lake
-  Charlotte            vs    New England
-  DC United            vs    Montreal
-  Cincinnati           vs    Orlando City SC
+  St. Louis            3–0   Austin
+  Minnesota            1–1   Real Salt Lake
+  Charlotte            1–0   New England
+  DC United            4–4   Montreal
+  Cincinnati           6–2   Orlando City SC
 Sunday, May 24
-  Chicago              vs    Toronto
-  Nashville            vs    New York City
-  Sporting KC          vs    Red Bull New York
-  Colorado             vs    Dallas
-  Portland             vs    San Jose
-  San Diego            vs    Vancouver Whitecap
-  Galaxy               vs    Houston
+  Chicago              2–1   Toronto
+  Nashville            2–1   New York City
+  Sporting KC          1–2   Red Bull New York
+  Colorado             1–2   Dallas
+  Portland             1–3   San Jose
+  San Diego            2–4   Vancouver Whitecap
+  Galaxy               1–1   Houston
   Columbus             vs    Atlanta
   Inter Miami          vs    Philadelphia
 Monday, May 25
@@ -42,18 +42,18 @@ Monday, May 25
 MLS East
 --------
 Squad              MP   W   D   L  Pt  GD
-Nashville          13   9   3   1  30  19
+Nashville          14  10   3   1  33  20
 Inter Miami        14   8   4   2  28   9
-New England        13   8   1   4  25   5
-Chicago            13   7   2   4  23  10
-New York City      14   5   4   5  19   5
-Red Bull New York  14   5   4   5  19  -8
-Charlotte          14   5   3   6  18   0
-DC United          14   4   5   5  17  -4
-Cincinnati         14   4   5   5  17  -5
-Orlando City SC    14   4   2   8  14 -17
-Toronto            13   3   5   5  14  -6
-Montreal           13   4   1   8  13  -9
+Chicago            14   8   2   4  26  11
+New England        14   8   1   5  25   4
+Red Bull New York  15   6   4   5  22  -7
+Charlotte          15   6   3   6  21   1
+Cincinnati         15   5   5   5  20  -1
+New York City      15   5   4   6  19   4
+DC United          15   4   6   5  18  -4
+Montreal           14   4   2   8  14  -9
+Orlando City SC    15   4   2   9  14 -21
+Toronto            14   3   5   6  14  -7
 Columbus           14   3   4   7  13  -4
 Atlanta            13   3   2   8  11  -7
 Philadelphia       14   1   4   9   7 -10
@@ -61,19 +61,19 @@ Philadelphia       14   1   4   9   7 -10
 MLS Fixtures
 ------------
 Saturday, May 23
-  St. Louis            vs    Austin
-  Minnesota            vs    Real Salt Lake
-  Charlotte            vs    New England
-  DC United            vs    Montreal
-  Cincinnati           vs    Orlando City SC
+  St. Louis            3–0   Austin
+  Minnesota            1–1   Real Salt Lake
+  Charlotte            1–0   New England
+  DC United            4–4   Montreal
+  Cincinnati           6–2   Orlando City SC
 Sunday, May 24
-  Chicago              vs    Toronto
-  Nashville            vs    New York City
-  Sporting KC          vs    Red Bull New York
-  Colorado             vs    Dallas
-  Portland             vs    San Jose
-  San Diego            vs    Vancouver Whitecap
-  Galaxy               vs    Houston
+  Chicago              2–1   Toronto
+  Nashville            2–1   New York City
+  Sporting KC          1–2   Red Bull New York
+  Colorado             1–2   Dallas
+  Portland             1–3   San Jose
+  San Diego            2–4   Vancouver Whitecap
+  Galaxy               1–1   Houston
   Columbus             vs    Atlanta
   Inter Miami          vs    Philadelphia
 Monday, May 25
@@ -83,37 +83,35 @@ Monday, May 25
 Allsvenskan
 -----------
 Squad              MP   W   D   L  Pt  GD
-IK Sirius           8   7   1   0  22  13
-Hammarby IF         9   5   2   2  17  13
+IK Sirius           9   8   1   0  25  14
+Hammarby IF        10   5   2   3  17  12
 BK Häcken           8   4   4   0  16   5
 IF Elfsborg         9   4   4   1  16   5
 Mjällby AIF         9   4   2   3  14   3
 IF Brommapojkarna   9   4   2   3  14  -1
 Djurgården          9   4   1   4  13   6
-GAIS                9   3   3   3  12   3
+GAIS               10   3   3   4  12   2
+AIK                 9   3   3   3  12  -1
+Kalmar FF           9   3   1   5  10  -1
 Malmö FF            8   3   1   4  10  -2
-AIK                 8   2   3   3   9  -2
-Degerfors IF        8   2   3   3   9  -3
+Degerfors IF        9   2   3   4   9  -4
 Västerås SK         8   2   3   3   9  -5
-Kalmar FF           8   2   1   5   7  -2
+Halmstads BK        9   1   3   5   6  -8
 IFK Göteborg        8   1   3   4   6 -10
-Örgryte IS          8   1   2   5   5 -13
-Halmstads BK        8   0   3   5   3 -10
+Örgryte IS          9   1   2   6   5 -15
 
 Allsvenskan Fixtures
 --------------------
-Wednesday, May 20
-  GAIS                 2–0   Hammarby IF
 Thursday, May 21
   IF Elfsborg          1–1   Mjällby AIF
 Friday, May 22
   Djurgården           1–2   IF Brommapojkarna
 Saturday, May 23
-  Halmstads BK         1–0   Örgryte IS
-  Kalmar FF            1–0   Degerfors IF
+  Halmstads BK         2–0   Örgryte IS
+  Kalmar FF            2–1   Degerfors IF
 Sunday, May 24
-  Hammarby IF          vs    AIK
-  IK Sirius            vs    GAIS
+  Hammarby IF          1–2   AIK
+  IK Sirius            2–1   GAIS
   Malmö FF             vs    Västerås SK
 Monday, May 25
   IF Elfsborg          vs    BK Häcken
@@ -208,15 +206,15 @@ Metz               34   3   8  23  17 -44
 Serie A
 -------
 Squad              MP   W   D   L  Pt  GD
-Internazionale     37  27   5   5  86  54
+Internazionale     38  27   6   5  87  54
 Napoli             37  22   7   8  73  21
 AC Milan           37  20  10   7  70  19
 AS Roma            37  22   4  11  70  26
 Como               37  19  11   7  68  33
 Juventus           37  19  11   7  68  27
 Atalanta           38  15  14   9  59  15
-Bologna            37  16   7  14  55   3
-Lazio              37  13  12  12  51   0
+Bologna            38  16   8  14  56   3
+Lazio              38  14  12  12  54   1
 Udinese            37  14   8  15  50  -2
 Sassuolo           37  14   7  16  49  -3
 Torino             37  12   8  17  44 -19
@@ -227,17 +225,17 @@ Cagliari           37  10  10  17  40 -14
 Lecce              37   9   8  20  35 -23
 Cremonese          37   8  10  19  34 -22
 Hellas Verona      37   3  12  22  21 -34
-Pisa               37   2  12  23  18 -44
+Pisa               38   2  12  24  18 -45
 
 Serie A Fixtures
 ----------------
 Friday, May 22
   Fiorentina           1–1   Atalanta
 Saturday, May 23
-  Bologna              vs    Internazionale
-  Lazio                vs    Pisa
+  Bologna              3–3   Internazionale
+  Lazio                2–1   Pisa
 Sunday, May 24
-  Parma                vs    Sassuolo
+  Parma                0–0   Sassuolo
   Napoli               vs    Udinese
   AC Milan             vs    Cagliari
   Cremonese            vs    Como
@@ -287,4 +285,4 @@ PSV Eindhoven        8   2   2   4   8   0
     Kairat Almaty    8   0   1   7   1 -15
 
 
-Standings from ESPN.com 05.23.26
+Standings from ESPN.com 05.24.26
