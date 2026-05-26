@@ -42,36 +42,36 @@ DET     2-12
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
-ARI          -     ATL     CHC     ARI     ARI     LAD     ARI     MIL     ARI     ARI     PIT     SDP     ARI     STL     ARI
+ARI          -     ATL     CHC     ARI     ARI     LAD     ARI     MIL     ARI     ARI     PIT     ARI     ARI     ARI     ARI
 ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
-CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
-CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     NYM     CIN     PIT     SDP     CIN     STL     WSN
+CHC        CHC     ATL       -     CHC     CHC     LAD     MIA     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
+CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
-MIA        ARI     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
-MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     STL     WSN
-NYM        ARI     ATL     CHC     NYM     COL     LAD     MIA     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
-PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     SDP     PHI     STL     PHI
+MIA        ARI     ATL     MIA     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
+MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     MIL     WSN
+NYM        ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
+PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     STL     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
-SDP        SDP     ATL     CHC     SDP     SDP     LAD     SDP     MIL     SDP     SDP     SDP       -     SDP     STL     SDP
+SDP        ARI     ATL     CHC     SDP     SDP     LAD     SDP     MIL     SDP     PHI     SDP       -     SDP     SDP     SDP
 SFG        ARI     ATL     CHC     CIN     SFG     SFG     SFG     MIL     NYM     PHI     SFG     SDP       -     STL     SFG
-STL        STL     ATL     STL     STL     STL     STL     MIA     STL     STL     STL     STL     STL     STL       -     STL
+STL        ARI     ATL     STL     STL     STL     STL     MIA     MIL     STL     STL     STL     SDP     STL       -     STL
 WSN        ARI     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     SDP     SFG     STL       -
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 ATL    14-0 
-STL    12-2 
 LAD    10-4 
-MIL     9-5 
-SDP     9-5 
-CHC     8-6 
-ARI     7-7 
+MIL    10-4 
+ARI     9-5 
+STL     9-5 
+SDP     8-6 
+CHC     7-7 
+MIA     7-7 
+PHI     7-7 
 PIT     7-7 
-MIA     6-8 
-PHI     6-8 
 SFG     5-9 
 WSN     5-9 
-CIN     3-11
-NYM     3-11
+CIN     4-10
+NYM     2-12
 COL     1-13
