@@ -85,9 +85,9 @@ Allsvenskan
 Squad              MP   W   D   L  Pt  GD
 IK Sirius           9   8   1   0  25  14
 Hammarby IF        10   5   2   3  17  12
-BK Häcken           8   4   4   0  16   5
-IF Elfsborg         9   4   4   1  16   5
-Mjällby AIF         9   4   2   3  14   3
+BK Häcken           9   4   5   0  17   5
+IF Elfsborg        10   4   5   1  17   5
+Mjällby AIF        10   4   3   3  15   3
 IF Brommapojkarna   9   4   2   3  14  -1
 Djurgården          9   4   1   4  13   6
 GAIS               10   3   3   4  12   2
@@ -96,14 +96,12 @@ Västerås SK         9   3   3   3  12  -4
 Kalmar FF           9   3   1   5  10  -1
 Malmö FF            9   3   1   5  10  -3
 Degerfors IF        9   2   3   4   9  -4
+IFK Göteborg        9   1   4   4   7 -10
 Halmstads BK        9   1   3   5   6  -8
-IFK Göteborg        8   1   3   4   6 -10
 Örgryte IS          9   1   2   6   5 -15
 
 Allsvenskan Fixtures
 --------------------
-Friday, May 22
-  Djurgården           1–2   IF Brommapojkarna
 Saturday, May 23
   Halmstads BK         2–0   Örgryte IS
   Kalmar FF            2–1   Degerfors IF
@@ -112,8 +110,10 @@ Sunday, May 24
   IK Sirius            2–1   GAIS
   Malmö FF             2–3   Västerås SK
 Monday, May 25
-  IF Elfsborg          vs    BK Häcken
-  IFK Göteborg         vs    Mjällby AIF
+  IF Elfsborg          1–1   BK Häcken
+  IFK Göteborg         1–1   Mjällby AIF
+Friday, May 29
+  Örgryte IS           vs    IF Elfsborg
 
 
 Bundesliga
@@ -227,8 +227,6 @@ Pisa               38   2  12  24  18 -45
 
 Serie A Fixtures
 ----------------
-Friday, May 22
-  Fiorentina           1–1   Atalanta
 Saturday, May 23
   Bologna              3–3   Internazionale
   Lazio                2–1   Pisa
@@ -283,4 +281,4 @@ PSV Eindhoven        8   2   2   4   8   0
     Kairat Almaty    8   0   1   7   1 -15
 
 
-Standings from ESPN.com 05.25.26
+Standings from ESPN.com 05.26.26
