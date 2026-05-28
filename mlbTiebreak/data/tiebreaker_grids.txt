@@ -8,13 +8,13 @@ AMERICAN LEAGUE
 ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     MIN     ATH     SEA     TBR     ATH     TOR
 BAL        ATH       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
 BOS        ATH     BOS       -     CHW     CLE     BOS     HOU     BOS     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     MIN     CHW     CHW     TBR     CHW     CHW
+CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     CLE     CHW       -     CLE     HOU     CLE     CLE     MIN     CLE     CLE     TBR     CLE     TOR
 DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     SEA     TBR     DET     TOR
 HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     KCR     LAA     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        ATH     BAL     BOS     CHW     CLE     DET     KCR       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     LAA     TOR
-MIN        MIN     BAL     MIN     MIN     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
+MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
 NYY        ATH     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     SEA     CHW     CLE     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
@@ -24,9 +24,9 @@ TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR  
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 TBR    14-0 
-CHW    11-3 
-MIN    10-4 
+CHW    12-2 
 CLE     9-5 
+MIN     9-5 
 NYY     9-5 
 ATH     8-6 
 SEA     7-7 
@@ -43,13 +43,13 @@ NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
 ARI          -     ATL     CHC     ARI     ARI     LAD     ARI     MIL     ARI     ARI     PIT     ARI     ARI     ARI     ARI
-ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
+ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     MIL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
 CHC        CHC     ATL       -     CHC     CHC     LAD     MIA     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        ARI     ATL     MIA     MIA     MIA     MIA       -     MIL     MIA     PHI     PIT     SDP     SFG     MIA     MIA
-MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     MIL     WSN
+MIL        MIL     MIL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     MIL     WSN
 NYM        ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
 PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     STL     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
@@ -60,9 +60,9 @@ WSN        ARI     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN  
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-ATL    14-0 
+ATL    13-1 
+MIL    11-3 
 LAD    10-4 
-MIL    10-4 
 ARI     9-5 
 STL     9-5 
 SDP     8-6 
