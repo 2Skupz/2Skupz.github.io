@@ -5,7 +5,7 @@ MLB TIEBREAKER WINNERS - 2026
 AMERICAN LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     MIN     NYY     SEA     TBR     ATH     TOR
+ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     MIN     ATH     SEA     TBR     ATH     TOR
 BAL        ATH       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
 BOS        ATH     BOS       -     CHW     CLE     BOS     HOU     BOS     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
@@ -15,7 +15,7 @@ HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA  
 KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     LAA     TOR
 MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     NYY     SEA     TBR     MIN     MIN
-NYY        NYY     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     NYY       -     NYY     TBR     NYY     NYY
+NYY        ATH     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     NYY       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     SEA     CHW     CLE     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TOR
@@ -25,11 +25,11 @@ AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 TBR    14-0 
 CHW    12-2 
-NYY    11-3 
+NYY    10-4 
 CLE     9-5 
 TOR     9-5 
+ATH     8-6 
 MIN     8-6 
-ATH     7-7 
 SEA     7-7 
 LAA     6-8 
 BAL     5-9 
@@ -44,7 +44,7 @@ NATIONAL LEAGUE
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
 ARI          -     ATL     CHC     ARI     ARI     LAD     ARI     MIL     ARI     ARI     PIT     ARI     ARI     ARI     ARI
 ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     MIL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
-CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
+CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     CHC     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
@@ -55,7 +55,7 @@ PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI  
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
 SDP        ARI     ATL     CHC     SDP     SDP     LAD     SDP     MIL     SDP     PHI     SDP       -     SDP     SDP     SDP
 SFG        ARI     ATL     CHC     CIN     COL     SFG     SFG     MIL     NYM     PHI     SFG     SDP       -     STL     SFG
-STL        ARI     ATL     STL     STL     STL     STL     MIA     MIL     STL     STL     STL     SDP     STL       -     STL
+STL        ARI     ATL     CHC     STL     STL     STL     MIA     MIL     STL     STL     STL     SDP     STL       -     STL
 WSN        ARI     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     SDP     SFG     STL       -
 
 NL TIEBREAKER RECORD SUMMARY
@@ -64,9 +64,9 @@ ATL    13-1
 MIL    11-3 
 LAD    10-4 
 ARI     9-5 
-STL     9-5 
-CHC     8-6 
+CHC     9-5 
 SDP     8-6 
+STL     8-6 
 PHI     7-7 
 PIT     7-7 
 MIA     6-8 
