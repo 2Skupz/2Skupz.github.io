@@ -10,25 +10,25 @@ BAL        ATH       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA  
 BOS        ATH     BOS       -     CHW     BOS     BOS     HOU     BOS     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     CLE     CLE     TBR     CLE     TOR
-DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     SEA     TBR     DET     TOR
+DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     SEA     DET     DET     TOR
 HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     LAA     TOR
-MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     NYY     SEA     TBR     MIN     MIN
-NYY        NYY     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     NYY       -     NYY     TBR     NYY     NYY
+MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
+NYY        NYY     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     SEA     CHW     CLE     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
-TBR        TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
+TBR        TBR     TBR     TBR     TBR     TBR     DET     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TOR
 TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     SEA     TBR     TOR       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-TBR    14-0 
+TBR    13-1 
 CHW    12-2 
-NYY    11-3 
+NYY    10-4 
+MIN     9-5 
 TOR     9-5 
 CLE     8-6 
-MIN     8-6 
 ATH     7-7 
 SEA     7-7 
 LAA     6-8 
@@ -36,8 +36,8 @@ BAL     5-9
 HOU     5-9 
 BOS     4-10
 TEX     4-10
+DET     3-11
 KCR     3-11
-DET     2-12
 
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
