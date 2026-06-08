@@ -133,26 +133,26 @@ Metz               34   3   8  23  17 -44
 Serie A
 -------
 Squad              MP   W   D   L  Pt  GD
-Internazionale     38  27   6   5  87  54
-Napoli             38  23   7   8  76  22
-AS Roma            38  23   4  11  73  28
-Como               38  20  11   7  71  36
-AC Milan           38  20  10   8  70  18
-Juventus           38  19  12   7  69  27
-Atalanta           38  15  14   9  59  15
-Bologna            38  16   8  14  56   3
-Lazio              38  14  12  12  54   1
-Udinese            38  14   8  16  50  -3
-Sassuolo           38  14   7  17  49  -4
-Torino             38  12   9  17  45 -19
-Parma              38  11  12  15  45 -18
-Cagliari           38  11  10  17  43 -13
-Fiorentina         38   9  15  14  42  -9
-Genoa              38  10  11  17  41 -10
-Lecce              38  10   8  20  38 -22
-Cremonese          38   8  10  20  34 -25
-Hellas Verona      38   3  12  23  21 -36
-Pisa               38   2  12  24  18 -45
+AC Milan            0   0   0   0   0   0
+Atalanta            0   0   0   0   0   0
+Bologna             0   0   0   0   0   0
+Cagliari            0   0   0   0   0   0
+Como                0   0   0   0   0   0
+Fiorentina          0   0   0   0   0   0
+Frosinone           0   0   0   0   0   0
+Genoa               0   0   0   0   0   0
+Internazionale      0   0   0   0   0   0
+Juventus            0   0   0   0   0   0
+Lazio               0   0   0   0   0   0
+Lecce               0   0   0   0   0   0
+Monza               0   0   0   0   0   0
+Napoli              0   0   0   0   0   0
+Parma               0   0   0   0   0   0
+AS Roma             0   0   0   0   0   0
+Sassuolo            0   0   0   0   0   0
+Torino              0   0   0   0   0   0
+Udinese             0   0   0   0   0   0
+Venezia             0   0   0   0   0   0
 
 
 Champions League
@@ -196,4 +196,4 @@ PSV Eindhoven        8   2   2   4   8   0
     Kairat Almaty    8   0   1   7   1 -15
 
 
-Standings from ESPN.com 06.06.26
+Standings from ESPN.com 06.07.26
