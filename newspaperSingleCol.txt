@@ -110,24 +110,24 @@ Wolverhampton Wand 38   3  11  24  20 -41
 Ligue 1
 -------
 Squad              MP   W   D   L  Pt  GD
-Paris S-G          34  24   4   6  76  45
-Lens               34  22   4   8  70  31
-Lille              34  18   7   9  61  15
-Lyon               34  18   6  10  60  13
-Marseille          34  18   5  11  59  18
-Stade Rennais      34  17   8   9  59   9
-AS Monaco          34  16   6  12  54   6
-Strasbourg         34  15   8  11  53  11
-Lorient            34  11  12  11  45  -3
-Toulouse           33  12   8  13  44   1
-Paris FC           34  11  11  12  44  -3
-Brest              34  10   9  15  39 -12
-Angers             34   9   9  16  36 -19
-Le Havre AC        34   7  14  13  35 -12
-AJ Auxerre         34   8  10  16  34 -10
-Nice               34   7  11  16  32 -23
-Nantes             33   5   8  20  23 -23
-Metz               34   3   8  23  17 -44
+Angers              0   0   0   0   0   0
+AJ Auxerre          0   0   0   0   0   0
+Brest               0   0   0   0   0   0
+Le Havre AC         0   0   0   0   0   0
+Le Mans             0   0   0   0   0   0
+Lens                0   0   0   0   0   0
+Lille               0   0   0   0   0   0
+Lorient             0   0   0   0   0   0
+Lyon                0   0   0   0   0   0
+Marseille           0   0   0   0   0   0
+AS Monaco           0   0   0   0   0   0
+Nice                0   0   0   0   0   0
+Paris FC            0   0   0   0   0   0
+Paris S-G           0   0   0   0   0   0
+Stade Rennais       0   0   0   0   0   0
+Strasbourg          0   0   0   0   0   0
+Toulouse            0   0   0   0   0   0
+Troyes              0   0   0   0   0   0
 
 
 Serie A
@@ -196,4 +196,4 @@ PSV Eindhoven        8   2   2   4   8   0
     Kairat Almaty    8   0   1   7   1 -15
 
 
-Standings from ESPN.com 06.10.26
+Standings from ESPN.com 06.11.26

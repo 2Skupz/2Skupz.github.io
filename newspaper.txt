@@ -43,24 +43,24 @@ Halmstads BK       10   1   3   6   9  20 -11   6                   Werder Breme
 
 Premier League                                                      Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA        Squad              MP   W   D   L  GF  GA  GD Pts  xGF   xGA
-Arsenal            38  26   7   5  71  27  44  85                   Paris S-G          34  24   4   6  74  29  45  76
-Manchester City    38  23   9   6  77  35  42  78                   Lens               34  22   4   8  66  35  31  70
-Manchester United  38  20  11   7  69  50  19  71                   Lille              34  18   7   9  52  37  15  61
-Aston Villa        38  19   8  11  56  49   7  65                   Lyon               34  18   6  10  53  40  13  60
-Liverpool          38  17   9  12  63  53  10  60                   Marseille          34  18   5  11  63  45  18  59
-AFC Bournemouth    38  13  18   7  58  54   4  57                   Stade Rennais      34  17   8   9  59  50   9  59
-Sunderland         38  14  12  12  42  48  -6  54                   AS Monaco          34  16   6  12  60  54   6  54
-Brighton & Hove Al 38  14  11  13  52  46   6  53                   Strasbourg         34  15   8  11  58  47  11  53
-Brentford          38  14  11  13  55  52   3  53                   Lorient            34  11  12  11  48  51  -3  45
-Chelsea            38  14  10  14  58  52   6  52                   Toulouse           33  12   8  13  47  46   1  44
-Fulham             38  15   7  16  47  51  -4  52                   Paris FC           34  11  11  12  47  50  -3  44
-Newcastle United   38  14   7  17  53  55  -2  49                   Brest              34  10   9  15  43  55 -12  39
-Everton            38  13  10  15  47  50  -3  49                   Angers             34   9   9  16  29  48 -19  36
-Leeds United       38  11  14  13  49  56  -7  47                   Le Havre AC        34   7  14  13  32  44 -12  35
-Crystal Palace     38  11  12  15  41  51 -10  45                   AJ Auxerre         34   8  10  16  34  44 -10  34
-Nottingham Forest  38  11  11  16  48  51  -3  44                   Nice               34   7  11  16  37  60 -23  32
-Tottenham Hotspur  38  10  11  17  48  57  -9  41                   Nantes             33   5   8  20  29  52 -23  23
-West Ham United    38  10   9  19  46  65 -19  39                   Metz               34   3   8  23  32  76 -44  17
+Arsenal            38  26   7   5  71  27  44  85                   Angers              0   0   0   0   0   0   0   0
+Manchester City    38  23   9   6  77  35  42  78                   AJ Auxerre          0   0   0   0   0   0   0   0
+Manchester United  38  20  11   7  69  50  19  71                   Brest               0   0   0   0   0   0   0   0
+Aston Villa        38  19   8  11  56  49   7  65                   Le Havre AC         0   0   0   0   0   0   0   0
+Liverpool          38  17   9  12  63  53  10  60                   Le Mans             0   0   0   0   0   0   0   0
+AFC Bournemouth    38  13  18   7  58  54   4  57                   Lens                0   0   0   0   0   0   0   0
+Sunderland         38  14  12  12  42  48  -6  54                   Lille               0   0   0   0   0   0   0   0
+Brighton & Hove Al 38  14  11  13  52  46   6  53                   Lorient             0   0   0   0   0   0   0   0
+Brentford          38  14  11  13  55  52   3  53                   Lyon                0   0   0   0   0   0   0   0
+Chelsea            38  14  10  14  58  52   6  52                   Marseille           0   0   0   0   0   0   0   0
+Fulham             38  15   7  16  47  51  -4  52                   AS Monaco           0   0   0   0   0   0   0   0
+Newcastle United   38  14   7  17  53  55  -2  49                   Nice                0   0   0   0   0   0   0   0
+Everton            38  13  10  15  47  50  -3  49                   Paris FC            0   0   0   0   0   0   0   0
+Leeds United       38  11  14  13  49  56  -7  47                   Paris S-G           0   0   0   0   0   0   0   0
+Crystal Palace     38  11  12  15  41  51 -10  45                   Stade Rennais       0   0   0   0   0   0   0   0
+Nottingham Forest  38  11  11  16  48  51  -3  44                   Strasbourg          0   0   0   0   0   0   0   0
+Tottenham Hotspur  38  10  11  17  48  57  -9  41                   Toulouse            0   0   0   0   0   0   0   0
+West Ham United    38  10   9  19  46  65 -19  39                   Troyes              0   0   0   0   0   0   0   0
 Burnley            38   4  10  24  38  75 -37  22                   
 Wolverhampton Wand 38   3  11  24  27  68 -41  20                   
 
@@ -129,4 +129,4 @@ PSV Eindhoven        8   2   2   4  16  16   0   8
     Kairat Almaty    8   0   1   7   7  22 -15   1                  
 
 
-Standings from ESPN.com 06.10.26
+Standings from ESPN.com 06.11.26
