@@ -5,73 +5,73 @@ MLB TIEBREAKER WINNERS - 2026
 AMERICAN LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     MIN     NYY     SEA     TBR     ATH     TOR
-BAL        ATH       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
-BOS        ATH     BOS       -     CHW     BOS     BOS     HOU     BOS     LAA     MIN     NYY     SEA     TBR     TEX     TOR
+ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     ATH     NYY     SEA     TBR     ATH     TOR
+BAL        ATH       -     BAL     BAL     CLE     BAL     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
+BOS        ATH     BAL       -     CHW     BOS     BOS     HOU     BOS     LAA     MIN     NYY     SEA     TBR     BOS     TOR
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     CHW     CHW     TBR     CHW     CHW
-CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     CLE     CLE     TBR     CLE     TOR
-DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     SEA     DET     DET     TOR
+CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
+DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     DET     DET     DET     TOR
 HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA     MIN     NYY     SEA     TBR     HOU     TOR
-KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
-LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     LAA     TBR     LAA     TOR
-MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
-NYY        NYY     NYY     NYY     CHW     CLE     NYY     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
-SEA        SEA     SEA     SEA     CHW     CLE     SEA     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
+KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
+LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     LAA     LAA     LAA     TBR     LAA     TOR
+MIN        ATH     BAL     MIN     CHW     MIN     MIN     MIN     KCR     LAA       -     NYY     SEA     TBR     MIN     MIN
+NYY        NYY     NYY     NYY     CHW     NYY     NYY     NYY     NYY     LAA     NYY       -     NYY     TBR     NYY     NYY
+SEA        SEA     SEA     SEA     CHW     CLE     DET     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     DET     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
-TEX        ATH     TEX     TEX     CHW     CLE     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TOR
-TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     SEA     TBR     TOR       -
+TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TOR
+TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR     MIN     NYY     SEA     TBR     TOR       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 TBR    13-1 
 CHW    12-2 
-NYY    10-4 
-MIN     9-5 
-TOR     9-5 
-CLE     8-6 
-ATH     7-7 
-SEA     7-7 
-LAA     6-8 
-BAL     5-9 
+NYY    11-3 
+ATH     8-6 
+LAA     8-6 
+TOR     8-6 
+BAL     6-8 
+CLE     6-8 
+MIN     6-8 
+SEA     6-8 
 HOU     5-9 
 BOS     4-10
+DET     4-10
+KCR     4-10
 TEX     4-10
-DET     3-11
-KCR     3-11
 
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
-ARI          -     ATL     CHC     ARI     ARI     LAD     ARI     MIL     ARI     ARI     PIT     ARI     ARI     ARI     ARI
-ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     MIL     ATL     ATL     ATL     ATL     ATL     ATL     ATL
-CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
+ARI          -     ATL     CHC     ARI     ARI     LAD     MIA     MIL     ARI     ARI     PIT     ARI     ARI     ARI     WSN
+ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     MIL     NYM     ATL     ATL     ATL     ATL     ATL     ATL
+CHC        CHC     ATL       -     CHC     COL     LAD     MIA     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     CIN     PIT     SDP     CIN     STL     WSN
-COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
+COL        ARI     ATL     COL     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
-MIA        ARI     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     PHI     PIT     SDP     SFG     MIA     MIA
+MIA        MIA     ATL     MIA     MIA     MIA     MIA       -     MIL     NYM     PHI     MIA     SDP     SFG     MIA     MIA
 MIL        MIL     MIL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     MIL     WSN
-NYM        ARI     ATL     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     SDP     NYM     STL     WSN
-PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     STL     PHI
-PIT        PIT     ATL     PIT     PIT     PIT     LAD     PIT     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
-SDP        ARI     ATL     CHC     SDP     SDP     LAD     SDP     MIL     SDP     PHI     SDP       -     SDP     SDP     WSN
-SFG        ARI     ATL     CHC     CIN     COL     SFG     SFG     MIL     NYM     PHI     SFG     SDP       -     STL     SFG
+NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     NYM     NYM     NYM     NYM     STL     WSN
+PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     NYM       -     PHI     PHI     PHI     STL     PHI
+PIT        PIT     ATL     PIT     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
+SDP        ARI     ATL     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SDP     SDP     WSN
+SFG        ARI     ATL     CHC     CIN     COL     SFG     SFG     MIL     NYM     PHI     SFG     SDP       -     STL     WSN
 STL        ARI     ATL     STL     STL     STL     STL     MIA     MIL     STL     STL     STL     SDP     STL       -     STL
-WSN        ARI     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     WSN     SFG     STL       -
+WSN        WSN     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     WSN     WSN     STL       -
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-ATL    13-1 
+ATL    12-2 
 MIL    11-3 
 LAD    10-4 
-ARI     9-5 
 STL     9-5 
-CHC     8-6 
-PHI     7-7 
-PIT     7-7 
-SDP     7-7 
-WSN     6-8 
-MIA     5-9 
+MIA     8-6 
+WSN     8-6 
+ARI     7-7 
+CHC     6-8 
+NYM     6-8 
+PHI     6-8 
+PIT     6-8 
+SDP     6-8 
 CIN     4-10
-SFG     4-10
-NYM     3-11
-COL     2-12
+COL     3-11
+SFG     3-11
