@@ -8,7 +8,7 @@ AMERICAN LEAGUE
 ATH          -     ATH     ATH     CHW     CLE     ATH     ATH     ATH     ATH     ATH     NYY     SEA     TBR     ATH     TOR
 BAL        ATH       -     BAL     BAL     CLE     BAL     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
 BOS        ATH     BAL       -     CHW     BOS     BOS     HOU     BOS     LAA     MIN     NYY     BOS     TBR     BOS     TOR
-CHW        CHW     BAL     CHW       -     CLE     CHW     CHW     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
+CHW        CHW     BAL     CHW       -     CLE     CHW     CHW     CHW     CHW     CHW     NYY     SEA     TBR     CHW     CHW
 CLE        CLE     CLE     BOS     CLE       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
 DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     DET     DET     DET     TOR
 HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA     MIN     NYY     SEA     TBR     HOU     TOR
@@ -16,7 +16,7 @@ KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR  
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     LAA     NYY     LAA     TBR     LAA     TOR
 MIN        ATH     BAL     MIN     CHW     MIN     MIN     MIN     KCR     LAA       -     NYY     SEA     TBR     MIN     MIN
 NYY        NYY     NYY     NYY     NYY     NYY     NYY     NYY     NYY     NYY     NYY       -     NYY     TBR     NYY     NYY
-SEA        SEA     SEA     BOS     CHW     CLE     DET     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
+SEA        SEA     SEA     BOS     SEA     CLE     DET     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     DET     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TOR
 TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     SEA     TBR     TOR       -
@@ -25,16 +25,16 @@ AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 NYY    13-1 
 TBR    13-1 
-CHW    10-4 
+CHW     9-5 
 TOR     9-5 
 ATH     8-6 
 CLE     7-7 
 LAA     7-7 
 BAL     6-8 
 MIN     6-8 
+SEA     6-8 
 BOS     5-9 
 HOU     5-9 
-SEA     5-9 
 DET     4-10
 TEX     4-10
 KCR     3-11
@@ -46,13 +46,13 @@ ARI          -     ATL     CHC     ARI     ARI     LAD     MIA     MIL     ARI  
 ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     ATL     SFG     ATL     ATL
 CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     CIN     PIT     SDP     CIN     STL     WSN
-COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     COL     SDP     COL     STL     WSN
+COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
 LAD        LAD     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     PHI     MIA     SDP     MIA     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     MIL     WSN
 NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
 PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     STL     PHI
-PIT        PIT     ATL     PIT     PIT     COL     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
+PIT        PIT     ATL     PIT     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
 SDP        ARI     ATL     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SDP     STL     WSN
 SFG        ARI     SFG     CHC     CIN     COL     SFG     MIA     MIL     NYM     PHI     SFG     SDP       -     STL     WSN
 STL        ARI     ATL     STL     STL     STL     STL     MIA     MIL     STL     STL     STL     STL     STL       -     STL
@@ -69,9 +69,9 @@ MIA     8-6
 WSN     8-6 
 ARI     7-7 
 PHI     7-7 
+PIT     6-8 
 NYM     5-9 
-PIT     5-9 
 SDP     5-9 
 CIN     4-10
-COL     3-11
 SFG     3-11
+COL     2-12
