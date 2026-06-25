@@ -11,7 +11,7 @@ BOS        ATH     BAL       -     CHW     BOS     BOS     HOU     BOS     LAA  
 CHW        CHW     BAL     CHW       -     CHW     CHW     CHW     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
 DET        ATH     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     NYY     DET     DET     DET     TOR
-HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA     MIN     NYY     SEA     TBR     HOU     TOR
+HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA     MIN     NYY     SEA     TBR     HOU     HOU
 KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     KCR     TEX     TOR
 LAA        ATH     LAA     LAA     CHW     CLE     LAA     LAA     KCR       -     LAA     NYY     LAA     TBR     LAA     TOR
 MIN        ATH     BAL     MIN     CHW     MIN     MIN     MIN     KCR     LAA       -     NYY     SEA     TBR     MIN     MIN
@@ -19,21 +19,21 @@ NYY        NYY     NYY     NYY     NYY     NYY     NYY     NYY     NYY     NYY  
 SEA        SEA     SEA     BOS     CHW     CLE     DET     SEA     KCR     LAA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     DET     TBR     KCR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TOR
-TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     SEA     TBR     TOR       -
+TOR        TOR     TOR     TOR     CHW     TOR     TOR     HOU     TOR     TOR     MIN     NYY     SEA     TBR     TOR       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 NYY    13-1 
 TBR    12-2 
 CHW    11-3 
-TOR     9-5 
 ATH     8-6 
+TOR     8-6 
 LAA     7-7 
 BAL     6-8 
 CLE     6-8 
+HOU     6-8 
 MIN     6-8 
 BOS     5-9 
-HOU     5-9 
 SEA     5-9 
 DET     4-10
 KCR     4-10
