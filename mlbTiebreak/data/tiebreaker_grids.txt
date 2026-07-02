@@ -42,8 +42,8 @@ KCR     3-11
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
-ARI          -     ARI     CHC     ARI     ARI     LAD     MIA     MIL     ARI     ARI     PIT     ARI     ARI     ARI     WSN
-ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     STL     ATL
+ARI          -     ATL     CHC     ARI     ARI     LAD     MIA     MIL     ARI     ARI     PIT     ARI     ARI     ARI     WSN
+ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     ATL     ATL
 CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     CIN     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
@@ -55,19 +55,19 @@ PHI        ARI     ATL     CHC     CIN     PHI     LAD     PHI     MIL     PHI  
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
 SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SDP     STL     WSN
 SFG        ARI     SFG     CHC     CIN     COL     SFG     MIA     MIL     NYM     PHI     SFG     SDP       -     STL     WSN
-STL        ARI     STL     STL     STL     STL     STL     MIA     MIL     STL     STL     STL     STL     STL       -     STL
+STL        ARI     ATL     STL     STL     STL     STL     MIA     MIL     STL     STL     STL     STL     STL       -     STL
 WSN        WSN     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     WSN     WSN     STL       -
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-STL    11-3 
+ATL    11-3 
 LAD    10-4 
 MIL    10-4 
-ATL     9-5 
+STL    10-4 
 MIA     9-5 
-ARI     8-6 
 CHC     8-6 
 WSN     8-6 
+ARI     7-7 
 PHI     7-7 
 PIT     6-8 
 SDP     6-8 
