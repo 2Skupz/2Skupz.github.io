@@ -46,16 +46,16 @@ BK Häcken          10   5   5   0  20   6
 IF Elfsborg        11   4   6   1  18   5
 Hammarby IF        11   5   2   4  17  11
 Mjällby AIF        11   4   4   3  16   3
+Malmö FF           11   5   1   5  16   1
 GAIS               11   4   3   4  15   5
 IF Brommapojkarna  10   4   3   3  15  -1
+Västerås SK        11   4   3   4  15  -3
+AIK                11   4   3   4  15  -3
 Djurgården          9   4   1   4  13   6
-Malmö FF           10   4   1   5  13   0
-AIK                10   3   3   4  12  -4
-Västerås SK        10   3   3   4  12  -5
-Degerfors IF       10   2   4   4  10  -4
 Kalmar FF          10   3   1   6  10  -4
-IFK Göteborg       10   2   4   4  10  -9
-Halmstads BK       10   1   3   6   6 -11
+Degerfors IF       11   2   4   5  10  -5
+IFK Göteborg       11   2   4   5  10 -10
+Halmstads BK       11   1   3   7   6 -13
 Örgryte IS         10   1   3   6   6 -15
 
 Allsvenskan Fixtures
@@ -64,10 +64,10 @@ Friday, July 03
   IK Sirius            4–4   Mjällby AIF
 Saturday, July 04
   Degerfors IF         0–1   Malmö FF
-  Halmstads BK         1–2   Västerås SK
+  Halmstads BK         1–3   Västerås SK
 Sunday, July 05
-  IFK Göteborg         vs    AIK
-  Kalmar FF            vs    Örgryte IS
+  IFK Göteborg         1–2   AIK
+  Kalmar FF            3–0   Örgryte IS
   IF Elfsborg          vs    Hammarby IF
 Monday, July 06
   BK Häcken            vs    Djurgården
@@ -211,4 +211,4 @@ PSV Eindhoven        8   2   2   4   8   0
     Kairat Almaty    8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.04.26
+Standings from ESPN.com 07.05.26
