@@ -60,16 +60,18 @@ Halmstads BK       11   1   3   7   6 -13
 
 Allsvenskan Fixtures
 --------------------
-Sunday, July 05
-  IFK Göteborg         1–2   AIK
-  Kalmar FF            3–0   Örgryte IS
-  IF Elfsborg          1–2   Hammarby IF
 Monday, July 06
   BK Häcken            2–4   Djurgården
   IF Brommapojkarna    1–1   GAIS
 Saturday, July 11
   Mjällby AIF          vs    AIK
   Örgryte IS           vs    BK Häcken
+Sunday, July 12
+  Hammarby IF          vs    Kalmar FF
+  Malmö FF             vs    IFK Göteborg
+  Västerås SK          vs    Degerfors IF
+  GAIS                 vs    IF Elfsborg
+  IF Brommapojkarna    vs    IK Sirius
 
 
 Bundesliga
@@ -80,7 +82,7 @@ Bayer Leverkusen    0   0   0   0   0   0
 Bayern Munich       0   0   0   0   0   0
 Borussia Dortmund   0   0   0   0   0   0
 Borussia Mönchengl  0   0   0   0   0   0
-Eintracht Frankfur  0   0   0   0   0   0
+E. Frankfurt        0   0   0   0   0   0
 SV Elversberg       0   0   0   0   0   0
 FC Cologne          0   0   0   0   0   0
 SC Freiburg         0   0   0   0   0   0
@@ -168,45 +170,93 @@ Udinese             0   0   0   0   0   0
 Venezia             0   0   0   0   0   0
 
 
+La Liga
+-------
+Squad              MP   W   D   L  Pt  GD
+Alavés              0   0   0   0   0   0
+Athletic Club       0   0   0   0   0   0
+Atlético Madrid     0   0   0   0   0   0
+Barcelona           0   0   0   0   0   0
+Celta Vigo          0   0   0   0   0   0
+Deportivo La Coruñ  0   0   0   0   0   0
+Elche               0   0   0   0   0   0
+Espanyol            0   0   0   0   0   0
+Getafe              0   0   0   0   0   0
+Levante             0   0   0   0   0   0
+Málaga              0   0   0   0   0   0
+Osasuna             0   0   0   0   0   0
+Racing Santander    0   0   0   0   0   0
+Rayo Vallecano      0   0   0   0   0   0
+Real Betis          0   0   0   0   0   0
+Real Madrid         0   0   0   0   0   0
+Real Sociedad       0   0   0   0   0   0
+Sevilla             0   0   0   0   0   0
+Valencia            0   0   0   0   0   0
+Villarreal          0   0   0   0   0   0
+
+
+Liga MX
+-------
+Squad              MP   W   D   L  Pt  GD
+Atlante             0   0   0   0   0   0
+Atlas               0   0   0   0   0   0
+Atlético de San Lu  0   0   0   0   0   0
+América             0   0   0   0   0   0
+Cruz Azul           0   0   0   0   0   0
+Guadalajara         0   0   0   0   0   0
+FC Juarez           0   0   0   0   0   0
+León                0   0   0   0   0   0
+Monterrey           0   0   0   0   0   0
+Necaxa              0   0   0   0   0   0
+Pachuca             0   0   0   0   0   0
+Puebla              0   0   0   0   0   0
+Pumas UNAM          0   0   0   0   0   0
+Querétaro           0   0   0   0   0   0
+Santos              0   0   0   0   0   0
+Tigres UANL         0   0   0   0   0   0
+Tijuana             0   0   0   0   0   0
+Toluca              0   0   0   0   0   0
+
+
 Champions League
 ----------------
-Cty Squad           MP   W   D   L  Pt  GD
-    Arsenal          8   8   0   0  24  19
-    Bayern Munich    8   7   0   1  21  14
-    Liverpool        8   6   0   2  18  12
-    Tottenham Hotsp  8   5   2   1  17  10
-    Barcelona        8   5   1   2  16   8
-    Chelsea          8   5   1   2  16   7
-    Sporting CP      8   5   1   2  16   6
-    Manchester City  8   5   1   2  16   6
-    Real Madrid      8   5   0   3  15   9
-    Internazionale   8   5   0   3  15   8
-    Paris Saint-Ger  8   4   2   2  14  10
-    Newcastle Unite  8   4   2   2  14  10
-    Juventus         8   3   4   1  13   4
-    Atlético Madrid  8   4   1   3  13   2
-    Atalanta         8   4   1   3  13   0
-    Bayer Leverkuse  8   3   3   2  12  -1
-    Borussia Dortmu  8   3   2   3  11   2
-    Olympiacos       8   3   2   3  11  -4
-    Club Brugge      8   3   1   4  10  -2
-    Galatasaray      8   3   1   4  10  -2
-AS  Monaco           8   2   4   2  10  -6
-FK  Qarabag          8   3   1   4  10  -8
-    Bodo/Glimt       8   2   3   3   9  -1
-    Benfica          8   3   0   5   9  -2
-    Marseille        8   3   0   5   9  -3
-    Pafos            8   2   3   3   9  -3
-    Union St.-Gillo  8   3   0   5   9  -9
-PSV Eindhoven        8   2   2   4   8   0
-    Athletic Club    8   2   2   4   8  -5
-    Napoli           8   2   2   4   8  -6
-    F.C. København   8   2   2   4   8  -9
-    Ajax Amsterdam   8   2   0   6   6 -13
-    Eintracht Frank  8   1   1   6   4 -11
-    Slavia Prague    8   0   3   5   3 -14
-    Villarreal       8   0   1   7   1 -13
-    Kairat Almaty    8   0   1   7   1 -15
+Cty Squad              MP   W   D   L  Pt  GD
+ENG Arsenal             8   8   0   0  24  19
+GER Bayern Munich       8   7   0   1  21  14
+ENG Liverpool           8   6   0   2  18  12
+ENG Tottenham Hotspur   8   5   2   1  17  10
+ESP Barcelona           8   5   1   2  16   8
+ENG Chelsea             8   5   1   2  16   7
+POR Sporting CP         8   5   1   2  16   6
+ENG Manchester City     8   5   1   2  16   6
+ESP Real Madrid         8   5   0   3  15   9
+ITA Internazionale      8   5   0   3  15   8
+FRA Paris S-G           8   4   2   2  14  10
+ENG Newcastle United    8   4   2   2  14  10
+ITA Juventus            8   3   4   1  13   4
+ESP Atlético Madrid     8   4   1   3  13   2
+ITA Atalanta            8   4   1   3  13   0
+GER Bayer Leverkusen    8   3   3   2  12  -1
+GER Borussia Dortmund   8   3   2   3  11   2
+GRE Olympiacos          8   3   2   3  11  -4
+BEL Club Brugge         8   3   1   4  10  -2
+TUR Galatasaray         8   3   1   4  10  -2
+FRA AS Monaco           8   2   4   2  10  -6
+AZE FK Qarabag          8   3   1   4  10  -8
+NOR Bodo/Glimt          8   2   3   3   9  -1
+POR Benfica             8   3   0   5   9  -2
+FRA Marseille           8   3   0   5   9  -3
+CYP Pafos               8   2   3   3   9  -3
+BEL Union St.-Gilloise  8   3   0   5   9  -9
+NED PSV Eindhoven       8   2   2   4   8   0
+ESP Athletic Club       8   2   2   4   8  -5
+ITA Napoli              8   2   2   4   8  -6
+DEN F.C. København      8   2   2   4   8  -9
+NED Ajax Amsterdam      8   2   0   6   6 -13
+GER E. Frankfurt        8   1   1   6   4 -11
+CZE Slavia Prague       8   0   3   5   3 -14
+ESP Villarreal          8   0   1   7   1 -13
+KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.08.26
+Standings from ESPN.com 07.09.26
