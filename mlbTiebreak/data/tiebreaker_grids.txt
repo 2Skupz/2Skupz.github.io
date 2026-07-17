@@ -48,9 +48,9 @@ CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC  
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        ARI     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
-MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     MIA     SDP     MIA     MIA     MIA
+MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     PHI     MIA     SDP     MIA     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     MIL     MIL     WSN
-NYM        ARI     NYM     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
+NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
 PHI        ARI     ATL     CHC     PHI     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     PHI     PHI
 PIT        PIT     ATL     PIT     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
 SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SDP     STL     WSN
@@ -65,13 +65,13 @@ STL    10-4
 ARI     9-5 
 ATL     9-5 
 LAD     9-5 
-MIA     9-5 
 PHI     9-5 
 CHC     8-6 
+MIA     8-6 
 WSN     7-7 
 PIT     6-8 
 SDP     6-8 
+NYM     5-9 
 SFG     5-9 
-NYM     4-10
 CIN     3-11
 COL     1-13
