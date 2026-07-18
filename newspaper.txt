@@ -19,11 +19,10 @@ Sporting KC        14   3   2   9  14  36 -22  11                   Philadelphia
 MLS Fixtures
 ------------
 Thursday, July 16
-  Montreal             vs    Toronto
+  Montreal             0–0   Toronto
 Friday, July 17
-  Chicago              vs    Vancouver
-  St. Louis            vs    Sporting KC
-  Seattle              vs    Portland
+  St. Louis            3–2   Sporting KC
+  Seattle              1–5   Portland
 Saturday, July 18
   Nashville            vs    Atlanta
   Galaxy               vs    LAFC
@@ -99,8 +98,6 @@ Troyes              0   0   0   0   0   0   0   0
 
                                                                     Allsvenskan Fixtures
                                                                     --------------------
-                                                                    Monday, July 13
-                                                                      Djurgården           3–0   Halmstads BK
                                                                     Friday, July 17
                                                                       IFK Göteborg         vs    IF Brommapojkarna
                                                                       Mjällby AIF          vs    Västerås SK
@@ -110,10 +107,14 @@ Troyes              0   0   0   0   0   0   0   0
                                                                       Halmstads BK         vs    BK Häcken
                                                                       Hammarby IF          vs    Degerfors IF
                                                                       IF Elfsborg          vs    IK Sirius
+                                                                    Monday, July 20
+                                                                      Kalmar FF            vs    Malmö FF
+                                                                      Örgryte IS           vs    Djurgården
 
 Liga MX                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
-Atlante             0   0   0   0   0   0   0   0                   
+Tijuana             1   1   0   0   3   1   2   3                   
+Necaxa              1   1   0   0   2   1   1   3                   
 Atlas               0   0   0   0   0   0   0   0                   
 Atlético de San Lu  0   0   0   0   0   0   0   0                   
 América             0   0   0   0   0   0   0   0                   
@@ -122,21 +123,20 @@ Guadalajara         0   0   0   0   0   0   0   0
 FC Juarez           0   0   0   0   0   0   0   0                   
 León                0   0   0   0   0   0   0   0                   
 Monterrey           0   0   0   0   0   0   0   0                   
-Necaxa              0   0   0   0   0   0   0   0                   
 Pachuca             0   0   0   0   0   0   0   0                   
 Puebla              0   0   0   0   0   0   0   0                   
 Pumas UNAM          0   0   0   0   0   0   0   0                   
 Querétaro           0   0   0   0   0   0   0   0                   
 Santos              0   0   0   0   0   0   0   0                   
-Tigres UANL         0   0   0   0   0   0   0   0                   
-Tijuana             0   0   0   0   0   0   0   0                   
 Toluca              0   0   0   0   0   0   0   0                   
+Atlante             1   0   0   1   1   2  -1   0                   
+Tigres UANL         1   0   0   1   1   3  -2   0                   
 
 Liga MX Fixtures                                                    
 ----------------                                                    
 Friday, July 17                                                     
-  Necaxa               vs    Atlante                                
-  Tijuana              vs    Tigres UANL                            
+  Necaxa               2–1   Atlante                                
+  Tijuana              3–1   Tigres UANL                            
 Saturday, July 18                                                   
   Atlético de San Lu   vs    Cruz Azul                              
   León                 vs    Atlas                                  
@@ -187,4 +187,4 @@ ESP Villarreal          8   0   1   7   5  18 -13   1
 KAZ Kairat Almaty       8   0   1   7   7  22 -15   1               
 
 
-Standings from ESPN.com 07.16.26
+Standings from ESPN.com 07.17.26
