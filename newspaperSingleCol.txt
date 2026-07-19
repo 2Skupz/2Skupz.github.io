@@ -25,8 +25,8 @@ Friday, July 17
   St. Louis            3–2   Sporting KC
   Seattle              1–5   Portland
 Saturday, July 18
-  Nashville            vs    Atlanta
-  Galaxy               vs    LAFC
+  Nashville            1–0   Atlanta
+  Galaxy               0–3   LAFC
 
 
 MLS East
@@ -56,37 +56,37 @@ Friday, July 17
   St. Louis            3–2   Sporting KC
   Seattle              1–5   Portland
 Saturday, July 18
-  Nashville            vs    Atlanta
-  Galaxy               vs    LAFC
+  Nashville            1–0   Atlanta
+  Galaxy               0–3   LAFC
 
 
 Allsvenskan
 -----------
 Squad              MP   W   D   L  Pt  GD
-IK Sirius          11   9   2   0  29  17
-Hammarby IF        12   6   2   4  20  12
+IK Sirius          12  10   2   0  32  18
+Hammarby IF        13   7   2   4  23  14
 BK Häcken          12   5   5   2  20   3
-IF Elfsborg        12   4   6   2  18   4
+Djurgården         11   6   1   4  19  11
+GAIS               13   5   4   4  19   6
+Malmö FF           12   6   1   5  19   5
+Västerås SK        13   5   4   4  19  -1
+IF Elfsborg        13   4   6   3  18   3
 AIK                12   5   3   4  18  -2
-Djurgården         10   5   1   4  16   8
-GAIS               12   4   4   4  16   5
-Mjällby AIF        12   4   4   4  16   2
-Malmö FF           11   5   1   5  16   1
-IF Brommapojkarna  11   4   4   3  16  -1
-Västerås SK        11   4   3   4  15  -3
-Kalmar FF          11   4   1   6  13  -1
-Degerfors IF       11   2   4   5  10  -5
-IFK Göteborg       11   2   4   5  10 -10
+Mjällby AIF        13   4   5   4  17   2
+IF Brommapojkarna  13   4   4   5  16  -3
+Kalmar FF          12   4   1   7  13  -3
+IFK Göteborg       13   3   4   6  13 -13
+Degerfors IF       12   2   4   6  10  -7
 Örgryte IS         12   2   3   7   9 -17
-Halmstads BK       11   1   3   7   6 -13
+Halmstads BK       12   1   3   8   6 -16
 
 Allsvenskan Fixtures
 --------------------
 Friday, July 17
-  IFK Göteborg         vs    IF Brommapojkarna
-  Mjällby AIF          vs    Västerås SK
+  IFK Göteborg         2–1   IF Brommapojkarna
+  Mjällby AIF          0–0   Västerås SK
 Saturday, July 18
-  AIK                  vs    GAIS
+  AIK                  1–0   GAIS
 Sunday, July 19
   Halmstads BK         vs    BK Häcken
   Hammarby IF          vs    Degerfors IF
@@ -221,22 +221,22 @@ Liga MX
 -------
 Squad              MP   W   D   L  Pt  GD
 Tijuana             1   1   0   0   3   2
+Cruz Azul           1   1   0   0   3   1
+Atlas               1   1   0   0   3   1
 Necaxa              1   1   0   0   3   1
-Atlas               0   0   0   0   0   0
-Atlético de San Lu  0   0   0   0   0   0
+Puebla              1   1   0   0   3   1
 América             0   0   0   0   0   0
-Cruz Azul           0   0   0   0   0   0
 Guadalajara         0   0   0   0   0   0
-FC Juarez           0   0   0   0   0   0
-León                0   0   0   0   0   0
 Monterrey           0   0   0   0   0   0
 Pachuca             0   0   0   0   0   0
-Puebla              0   0   0   0   0   0
 Pumas UNAM          0   0   0   0   0   0
 Querétaro           0   0   0   0   0   0
 Santos              0   0   0   0   0   0
 Toluca              0   0   0   0   0   0
+Atlético de San Lu  1   0   0   1   0  -1
+León                1   0   0   1   0  -1
 Atlante             1   0   0   1   0  -1
+FC Juarez           1   0   0   1   0  -1
 Tigres UANL         1   0   0   1   0  -2
 
 Liga MX Fixtures
@@ -245,14 +245,17 @@ Friday, July 17
   Necaxa               2–1   Atlante
   Tijuana              3–1   Tigres UANL
 Saturday, July 18
-  Atlético de San Lu   vs    Cruz Azul
-  León                 vs    Atlas
-  FC Juarez            vs    Puebla
+  Atlético de San Lu   2–3   Cruz Azul
+  León                 2–3   Atlas
+  FC Juarez            0–1   Puebla
   Pumas UNAM           vs    Pachuca
 Sunday, July 19
   Monterrey            vs    Santos
   Guadalajara          vs    Toluca
   Querétaro            vs    América
+Wednesday, July 22
+  Cruz Azul            vs    Puebla
+  Toluca               vs    Pumas UNAM
 
 
 Champions League
@@ -296,4 +299,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.17.26
+Standings from ESPN.com 07.18.26
