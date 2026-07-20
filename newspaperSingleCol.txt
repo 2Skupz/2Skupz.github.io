@@ -27,12 +27,29 @@ Friday, July 17
 Saturday, July 18
   Nashville            1–0   Atlanta
   Galaxy               0–3   LAFC
+Wednesday, July 22
+  Columbus             vs    New York City
+  Cincinnati           vs    Vancouver Whitecap
+  Inter Miami          vs    Chicago
+  New England          vs    Toronto
+  Philadelphia         vs    Red Bull New York
+Thursday, July 23
+  Charlotte            vs    Atlanta
+  Austin               vs    Seattle
+  Houston              vs    DC United
+  Nashville            vs    Montreal
+  Sporting KC          vs    Minnesota
+  Colorado             vs    San Diego
+  Galaxy               vs    St. Louis
+  LAFC                 vs    Real Salt Lake
+  Portland             vs    Dallas
+  San Jose             vs    Orlando City SC
 
 
 MLS East
 --------
 Squad              MP   W   D   L  Pt  GD
-Nashville          14  10   3   1  33  20
+Nashville          15  11   3   1  36  21
 Inter Miami        15   9   4   2  31  11
 Chicago            14   8   2   4  26  11
 New England        14   8   1   5  25   4
@@ -42,10 +59,10 @@ Cincinnati         15   5   5   5  20  -1
 New York City      15   5   4   6  19   4
 DC United          15   4   6   5  18  -4
 Columbus           15   4   4   7  16  -2
-Montreal           14   4   2   8  14  -9
+Montreal           15   4   3   8  15  -9
+Toronto            15   3   6   6  15  -7
 Orlando City SC    15   4   2   9  14 -21
-Toronto            14   3   5   6  14  -7
-Atlanta            14   3   2   9  11  -9
+Atlanta            15   3   2  10  11 -10
 Philadelphia       15   1   4  10   7 -12
 
 MLS Fixtures
@@ -58,6 +75,23 @@ Friday, July 17
 Saturday, July 18
   Nashville            1–0   Atlanta
   Galaxy               0–3   LAFC
+Wednesday, July 22
+  Columbus             vs    New York City
+  Cincinnati           vs    Vancouver Whitecap
+  Inter Miami          vs    Chicago
+  New England          vs    Toronto
+  Philadelphia         vs    Red Bull New York
+Thursday, July 23
+  Charlotte            vs    Atlanta
+  Austin               vs    Seattle
+  Houston              vs    DC United
+  Nashville            vs    Montreal
+  Sporting KC          vs    Minnesota
+  Colorado             vs    San Diego
+  Galaxy               vs    St. Louis
+  LAFC                 vs    Real Salt Lake
+  Portland             vs    Dallas
+  San Jose             vs    Orlando City SC
 
 
 Allsvenskan
@@ -65,13 +99,13 @@ Allsvenskan
 Squad              MP   W   D   L  Pt  GD
 IK Sirius          12  10   2   0  32  18
 Hammarby IF        13   7   2   4  23  14
+AIK                13   6   3   4  21   0
 BK Häcken          12   5   5   2  20   3
 Djurgården         11   6   1   4  19  11
-GAIS               13   5   4   4  19   6
 Malmö FF           12   6   1   5  19   5
+GAIS               14   5   4   5  19   4
 Västerås SK        13   5   4   4  19  -1
 IF Elfsborg        13   4   6   3  18   3
-AIK                12   5   3   4  18  -2
 Mjällby AIF        13   4   5   4  17   2
 IF Brommapojkarna  13   4   4   5  16  -3
 Kalmar FF          12   4   1   7  13  -3
@@ -86,7 +120,7 @@ Friday, July 17
   IFK Göteborg         2–1   IF Brommapojkarna
   Mjällby AIF          0–0   Västerås SK
 Saturday, July 18
-  AIK                  1–0   GAIS
+  AIK                  2–0   GAIS
 Sunday, July 19
   Halmstads BK         vs    BK Häcken
   Hammarby IF          vs    Degerfors IF
@@ -220,24 +254,24 @@ Villarreal          0   0   0   0   0   0
 Liga MX
 -------
 Squad              MP   W   D   L  Pt  GD
+Pachuca             1   1   0   0   3   3
 Tijuana             1   1   0   0   3   2
+Toluca              1   1   0   0   3   2
 Cruz Azul           1   1   0   0   3   1
 Atlas               1   1   0   0   3   1
+Monterrey           1   1   0   0   3   1
 Necaxa              1   1   0   0   3   1
+América             1   1   0   0   3   1
 Puebla              1   1   0   0   3   1
-América             0   0   0   0   0   0
-Guadalajara         0   0   0   0   0   0
-Monterrey           0   0   0   0   0   0
-Pachuca             0   0   0   0   0   0
-Pumas UNAM          0   0   0   0   0   0
-Querétaro           0   0   0   0   0   0
-Santos              0   0   0   0   0   0
-Toluca              0   0   0   0   0   0
+Santos              1   0   0   1   0  -1
 Atlético de San Lu  1   0   0   1   0  -1
 León                1   0   0   1   0  -1
 Atlante             1   0   0   1   0  -1
 FC Juarez           1   0   0   1   0  -1
+Querétaro           1   0   0   1   0  -1
 Tigres UANL         1   0   0   1   0  -2
+Guadalajara         1   0   0   1   0  -2
+Pumas UNAM          1   0   0   1   0  -3
 
 Liga MX Fixtures
 ----------------
@@ -248,11 +282,11 @@ Saturday, July 18
   Atlético de San Lu   2–3   Cruz Azul
   León                 2–3   Atlas
   FC Juarez            0–1   Puebla
-  Pumas UNAM           vs    Pachuca
+  Pumas UNAM           0–3   Pachuca
 Sunday, July 19
-  Monterrey            vs    Santos
-  Guadalajara          vs    Toluca
-  Querétaro            vs    América
+  Monterrey            3–2   Santos
+  Guadalajara          0–2   Toluca
+  Querétaro            0–1   América
 Wednesday, July 22
   Cruz Azul            vs    Puebla
   Toluca               vs    Pumas UNAM
@@ -299,4 +333,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.18.26
+Standings from ESPN.com 07.19.26
