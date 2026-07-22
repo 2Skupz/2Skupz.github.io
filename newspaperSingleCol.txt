@@ -19,9 +19,6 @@ Sporting KC        14   3   2   9  11 -22
 
 MLS Fixtures
 ------------
-Saturday, July 18
-  Nashville            1–0   Atlanta
-  Galaxy               0–3   LAFC
 Wednesday, July 22
   Columbus             vs    New York City
   Cincinnati           vs    Vancouver Whitecap
@@ -30,10 +27,10 @@ Wednesday, July 22
   Philadelphia         vs    Red Bull New York
 Thursday, July 23
   Charlotte            vs    Atlanta
-  Austin               vs    Seattle
   Houston              vs    DC United
   Nashville            vs    Montreal
   Sporting KC          vs    Minnesota
+  Austin               vs    Seattle
   Colorado             vs    San Diego
   Galaxy               vs    St. Louis
   LAFC                 vs    Real Salt Lake
@@ -62,9 +59,6 @@ Philadelphia       15   1   4  10   7 -12
 
 MLS Fixtures
 ------------
-Saturday, July 18
-  Nashville            1–0   Atlanta
-  Galaxy               0–3   LAFC
 Wednesday, July 22
   Columbus             vs    New York City
   Cincinnati           vs    Vancouver Whitecap
@@ -73,10 +67,10 @@ Wednesday, July 22
   Philadelphia         vs    Red Bull New York
 Thursday, July 23
   Charlotte            vs    Atlanta
-  Austin               vs    Seattle
   Houston              vs    DC United
   Nashville            vs    Montreal
   Sporting KC          vs    Minnesota
+  Austin               vs    Seattle
   Colorado             vs    San Diego
   Galaxy               vs    St. Louis
   LAFC                 vs    Real Salt Lake
@@ -91,24 +85,21 @@ IK Sirius          13  11   2   0  35  20
 Hammarby IF        14   8   2   4  26  18
 BK Häcken          13   6   5   2  23   5
 AIK                13   6   3   4  21   0
-Djurgården         11   6   1   4  19  11
-Malmö FF           12   6   1   5  19   5
+Djurgården         12   6   2   4  20  11
+Malmö FF           13   6   2   5  20   5
 GAIS               14   5   4   5  19   4
 Västerås SK        13   5   4   4  19  -1
 IF Elfsborg        14   4   6   4  18   1
 Mjällby AIF        13   4   5   4  17   2
 IF Brommapojkarna  13   4   4   5  16  -3
-Kalmar FF          12   4   1   7  13  -3
+Kalmar FF          13   4   2   7  14  -3
 IFK Göteborg       13   3   4   6  13 -13
 Degerfors IF       13   2   4   7  10 -11
-Örgryte IS         12   2   3   7   9 -17
+Örgryte IS         13   2   4   7  10 -17
 Halmstads BK       13   1   3   9   6 -18
 
 Allsvenskan Fixtures
 --------------------
-Friday, July 17
-  IFK Göteborg         2–1   IF Brommapojkarna
-  Mjällby AIF          0–0   Västerås SK
 Saturday, July 18
   AIK                  2–0   GAIS
 Sunday, July 19
@@ -116,8 +107,10 @@ Sunday, July 19
   Hammarby IF          4–0   Degerfors IF
   IF Elfsborg          1–3   IK Sirius
 Monday, July 20
-  Kalmar FF            vs    Malmö FF
-  Örgryte IS           vs    Djurgården
+  Kalmar FF            2–2   Malmö FF
+  Örgryte IS           0–0   Djurgården
+Friday, July 24
+  Västerås SK          vs    Örgryte IS
 
 
 Bundesliga
@@ -266,9 +259,6 @@ Pumas UNAM          1   0   0   1   0  -3
 Liga MX Fixtures
 ----------------
 Saturday, July 18
-  Atlético de San Lu   2–3   Cruz Azul
-  León                 2–3   Atlas
-  FC Juarez            0–1   Puebla
   Pumas UNAM           0–3   Pachuca
 Sunday, July 19
   Monterrey            3–2   Santos
@@ -277,6 +267,9 @@ Sunday, July 19
 Wednesday, July 22
   Cruz Azul            vs    Puebla
   Toluca               vs    Pumas UNAM
+Saturday, July 25
+  Atlante              vs    América
+  Tijuana              vs    León
 
 
 Champions League
@@ -320,4 +313,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.20.26
+Standings from ESPN.com 07.21.26

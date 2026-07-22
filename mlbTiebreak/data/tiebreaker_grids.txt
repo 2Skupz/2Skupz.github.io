@@ -5,16 +5,16 @@ MLB TIEBREAKER WINNERS - 2026
 AMERICAN LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-ATH          -     ATH     ATH     CHW     CLE     DET     ATH     ATH     ATH     MIN     NYY     SEA     TBR     ATH     TOR
+ATH          -     ATH     ATH     CHW     CLE     DET     ATH     ATH     ATH     ATH     NYY     SEA     TBR     ATH     TOR
 BAL        ATH       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     BAL     NYY     SEA     TBR     TEX     TOR
 BOS        ATH     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS     MIN     BOS     BOS     TBR     BOS     TOR
 CHW        CHW     BAL     BOS       -     CHW     CHW     CHW     CHW     CHW     CHW     NYY     SEA     TBR     CHW     CHW
-CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
+CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     CLE     NYY     CLE     TBR     TEX     TOR
 DET        DET     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     DET     DET     DET     DET     TOR
 HOU        ATH     BAL     HOU     CHW     HOU     HOU       -     HOU     LAA     MIN     NYY     SEA     HOU     HOU     HOU
 KCR        ATH     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
 LAA        ATH     LAA     BOS     CHW     CLE     LAA     LAA     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
-MIN        MIN     BAL     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
+MIN        ATH     BAL     MIN     CHW     CLE     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
 NYY        NYY     NYY     BOS     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     BOS     SEA     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     TBR     TBR     TBR     TBR     DET     HOU     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
@@ -27,12 +27,12 @@ TBR    12-2
 NYY    10-4 
 BOS     9-5 
 CHW     9-5 
-MIN     9-5 
+ATH     7-7 
+CLE     7-7 
 HOU     7-7 
+MIN     7-7 
 SEA     7-7 
 TOR     7-7 
-ATH     6-8 
-CLE     6-8 
 DET     6-8 
 BAL     5-9 
 TEX     5-9 
