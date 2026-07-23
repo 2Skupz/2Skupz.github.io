@@ -35,6 +35,23 @@ Thursday, July 23
   LAFC                 vs    Real Salt Lake
   Portland             vs    Dallas
   San Jose             vs    Orlando City SC
+Saturday, July 25
+  Red Bull New York    vs    Charlotte
+  Columbus             vs    Cincinnati
+  Montreal             vs    Inter Miami
+  DC United            vs    Toronto
+  New England          vs    Atlanta
+  New York City        vs    Chicago
+  Orlando City SC      vs    Nashville
+  Philadelphia         vs    Seattle
+Sunday, July 26
+  Houston              vs    Austin
+  Minnesota            vs    Vancouver
+  St. Louis            vs    Colorado
+  San Diego            vs    Dallas
+  LAFC                 vs    Sporting KC
+  Portland             vs    Real Salt Lake
+  San Jose             vs    Galaxy
 
 Premier League                                                      La Liga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -107,8 +124,6 @@ Troyes              0   0   0   0   0   0   0   0
 
                                                                     Allsvenskan Fixtures
                                                                     --------------------
-                                                                    Saturday, July 18
-                                                                      AIK                  2–0   GAIS
                                                                     Sunday, July 19
                                                                       Halmstads BK         0–2   BK Häcken
                                                                       Hammarby IF          4–0   Degerfors IF
@@ -118,18 +133,22 @@ Troyes              0   0   0   0   0   0   0   0
                                                                       Örgryte IS           0–0   Djurgården
                                                                     Friday, July 24
                                                                       Västerås SK          vs    Örgryte IS
+                                                                    Saturday, July 25
+                                                                      Degerfors IF         vs    Djurgården
+                                                                      Kalmar FF            vs    Mjällby AIF
 
 Liga MX                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
+Cruz Azul           2   2   0   0   5   3   2   6                   
 Pachuca             1   1   0   0   3   0   3   3                   
 Tijuana             1   1   0   0   3   1   2   3                   
-Toluca              1   1   0   0   2   0   2   3                   
-Cruz Azul           1   1   0   0   3   2   1   3                   
 Atlas               1   1   0   0   3   2   1   3                   
+Toluca              2   1   0   1   3   2   1   3                   
 Monterrey           1   1   0   0   3   2   1   3                   
 Necaxa              1   1   0   0   2   1   1   3                   
 América             1   1   0   0   1   0   1   3                   
-Puebla              1   1   0   0   1   0   1   3                   
+Puebla              2   1   0   1   2   2   0   3                   
+Pumas UNAM          2   1   0   1   2   4  -2   3                   
 Santos              1   0   0   1   2   3  -1   0                   
 Atlético de San Lu  1   0   0   1   2   3  -1   0                   
 León                1   0   0   1   2   3  -1   0                   
@@ -138,22 +157,19 @@ FC Juarez           1   0   0   1   0   1  -1   0
 Querétaro           1   0   0   1   0   1  -1   0                   
 Tigres UANL         1   0   0   1   1   3  -2   0                   
 Guadalajara         1   0   0   1   0   2  -2   0                   
-Pumas UNAM          1   0   0   1   0   3  -3   0                   
 
 Liga MX Fixtures                                                    
 ----------------                                                    
-Saturday, July 18                                                   
-  Pumas UNAM           0–3   Pachuca                                
-Sunday, July 19                                                     
-  Monterrey            3–2   Santos                                 
-  Guadalajara          0–2   Toluca                                 
-  Querétaro            0–1   América                                
 Wednesday, July 22                                                  
-  Cruz Azul            vs    Puebla                                 
-  Toluca               vs    Pumas UNAM                             
+  Cruz Azul            2–1   Puebla                                 
+  Toluca               1–2   Pumas UNAM                             
 Saturday, July 25                                                   
   Atlante              vs    América                                
   Tijuana              vs    León                                   
+  Guadalajara          vs    FC Juarez                              
+Sunday, July 26                                                     
+  Santos               vs    Atlas                                  
+  Tigres UANL          vs    Atlético de San Lu                     
 
 Champions League
 Cty Squad              MP   W   D   L  GF  GA  GD Pts
@@ -195,4 +211,4 @@ ESP Villarreal          8   0   1   7   5  18 -13   1
 KAZ Kairat Almaty       8   0   1   7   7  22 -15   1               
 
 
-Standings from ESPN.com 07.21.26
+Standings from ESPN.com 07.22.26
