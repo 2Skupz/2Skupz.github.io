@@ -1,41 +1,41 @@
 MLS West
 --------
 Squad              MP   W   D   L  Pt  GD
-Vancouver Whitecap 14  10   2   2  32  22
-San Jose           15  10   2   3  32  19
-Real Salt Lake     14   8   2   4  26   7
-Dallas             15   7   4   4  25   8
-LAFC               15   7   3   5  24   7
-Seattle            13   7   3   3  24   6
-Houston            14   7   1   6  22  -4
-Minnesota          15   6   4   5  22  -4
-Galaxy             15   5   5   5  20   0
-San Diego          15   4   5   6  17   3
-Colorado           15   5   1   9  16   1
-St. Louis          14   4   4   6  16  -4
-Portland           14   4   2   8  14  -6
-Austin             15   3   5   7  14 -12
-Sporting KC        14   3   2   9  11 -22
+Vancouver Whitecap 15  10   2   3  32  21
+San Jose           16  10   2   4  32  15
+LAFC               17   9   3   5  30  12
+Real Salt Lake     15   8   2   5  26   5
+Dallas             16   7   5   4  26   8
+Seattle            15   7   3   5  24   0
+Houston            15   7   2   6  23  -4
+St. Louis          16   6   4   6  22  -1
+Minnesota          16   6   4   6  22  -5
+Galaxy             17   5   5   7  20  -5
+Colorado           16   6   1   9  19   2
+Portland           16   5   3   8  18  -2
+San Diego          16   4   5   7  17   2
+Austin             16   4   5   7  17 -10
+Sporting KC        16   4   2  10  14 -22
 
 MLS Fixtures
 ------------
 Wednesday, July 22
-  Columbus             vs    New York City
-  Cincinnati           vs    Vancouver Whitecap
-  Inter Miami          vs    Chicago
-  New England          vs    Toronto
-  Philadelphia         vs    Red Bull New York
+  Columbus             1–2   New York City
+  Cincinnati           4–3   Vancouver Whitecap
+  Inter Miami          3–2   Chicago
+  New England          0–0   Toronto
+  Philadelphia         3–1   Red Bull New York
 Thursday, July 23
-  Charlotte            vs    Atlanta
-  Houston              vs    DC United
-  Nashville            vs    Montreal
-  Sporting KC          vs    Minnesota
-  Austin               vs    Seattle
-  Colorado             vs    San Diego
-  Galaxy               vs    St. Louis
-  LAFC                 vs    Real Salt Lake
-  Portland             vs    Dallas
-  San Jose             vs    Orlando City SC
+  Charlotte            2–2   Atlanta
+  Houston              1–1   DC United
+  Nashville            1–0   Montreal
+  Sporting KC          2–1   Minnesota
+  Austin               3–1   Seattle
+  Colorado             1–0   San Diego
+  Galaxy               1–3   St. Louis
+  LAFC                 3–1   Real Salt Lake
+  Portland             2–2   Dallas
+  San Jose             0–4   Orlando City SC
 Saturday, July 25
   Red Bull New York    vs    Charlotte
   Columbus             vs    Cincinnati
@@ -58,41 +58,41 @@ Sunday, July 26
 MLS East
 --------
 Squad              MP   W   D   L  Pt  GD
-Nashville          15  11   3   1  36  21
-Inter Miami        15   9   4   2  31  11
-Chicago            14   8   2   4  26  11
-New England        14   8   1   5  25   4
-Red Bull New York  15   6   4   5  22  -7
-Charlotte          15   6   3   6  21   1
-Cincinnati         15   5   5   5  20  -1
-New York City      15   5   4   6  19   4
-DC United          15   4   6   5  18  -4
-Columbus           15   4   4   7  16  -2
-Montreal           15   4   3   8  15  -9
-Toronto            15   3   6   6  15  -7
-Orlando City SC    15   4   2   9  14 -21
-Atlanta            15   3   2  10  11 -10
-Philadelphia       15   1   4  10   7 -12
+Nashville          16  12   3   1  39  22
+Inter Miami        16  10   4   2  34  12
+Chicago            15   8   2   5  26  10
+New England        15   8   2   5  26   4
+Cincinnati         16   6   5   5  23   0
+New York City      16   6   4   6  22   5
+Charlotte          16   6   4   6  22   1
+Red Bull New York  16   6   4   6  22  -9
+DC United          16   4   7   5  19  -4
+Orlando City SC    16   5   2   9  17 -17
+Columbus           16   4   4   8  16  -3
+Toronto            16   3   7   6  16  -7
+Montreal           16   4   3   9  15 -10
+Atlanta            16   3   3  10  12 -10
+Philadelphia       16   2   4  10  10 -10
 
 MLS Fixtures
 ------------
 Wednesday, July 22
-  Columbus             vs    New York City
-  Cincinnati           vs    Vancouver Whitecap
-  Inter Miami          vs    Chicago
-  New England          vs    Toronto
-  Philadelphia         vs    Red Bull New York
+  Columbus             1–2   New York City
+  Cincinnati           4–3   Vancouver Whitecap
+  Inter Miami          3–2   Chicago
+  New England          0–0   Toronto
+  Philadelphia         3–1   Red Bull New York
 Thursday, July 23
-  Charlotte            vs    Atlanta
-  Houston              vs    DC United
-  Nashville            vs    Montreal
-  Sporting KC          vs    Minnesota
-  Austin               vs    Seattle
-  Colorado             vs    San Diego
-  Galaxy               vs    St. Louis
-  LAFC                 vs    Real Salt Lake
-  Portland             vs    Dallas
-  San Jose             vs    Orlando City SC
+  Charlotte            2–2   Atlanta
+  Houston              1–1   DC United
+  Nashville            1–0   Montreal
+  Sporting KC          2–1   Minnesota
+  Austin               3–1   Seattle
+  Colorado             1–0   San Diego
+  Galaxy               1–3   St. Louis
+  LAFC                 3–1   Real Salt Lake
+  Portland             2–2   Dallas
+  San Jose             0–4   Orlando City SC
 Saturday, July 25
   Red Bull New York    vs    Charlotte
   Columbus             vs    Cincinnati
@@ -134,10 +134,6 @@ Halmstads BK       13   1   3   9   6 -18
 
 Allsvenskan Fixtures
 --------------------
-Sunday, July 19
-  Halmstads BK         0–2   BK Häcken
-  Hammarby IF          4–0   Degerfors IF
-  IF Elfsborg          1–3   IK Sirius
 Monday, July 20
   Kalmar FF            2–2   Malmö FF
   Örgryte IS           0–0   Djurgården
@@ -146,6 +142,11 @@ Friday, July 24
 Saturday, July 25
   Degerfors IF         vs    Djurgården
   Kalmar FF            vs    Mjällby AIF
+Sunday, July 26
+  IF Brommapojkarna    vs    Hammarby IF
+  IK Sirius            vs    IFK Göteborg
+  GAIS                 vs    Halmstads BK
+  Malmö FF             vs    IF Elfsborg
 
 
 Bundesliga
@@ -303,6 +304,9 @@ Saturday, July 25
 Sunday, July 26
   Santos               vs    Atlas
   Tigres UANL          vs    Atlético de San Lu
+  Necaxa               vs    Monterrey
+Monday, July 27
+  Pachuca              vs    Querétaro
 
 
 Champions League
@@ -346,4 +350,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.22.26
+Standings from ESPN.com 07.23.26
