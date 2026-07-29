@@ -37,6 +37,8 @@ Sunday, July 26
   San Jose             1–1   Galaxy
 Thursday, July 30
   MLS All-Stars        vs    Liga MX All-Stars
+Friday, July 31
+  New York City        vs    Toronto
 
 Premier League                                                      La Liga
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -90,11 +92,11 @@ Ligue 1                                                             Allsvenskan
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
 Angers              0   0   0   0   0   0   0   0                   IK Sirius          14  12   2   0  40  17  23  38
 AJ Auxerre          0   0   0   0   0   0   0   0                   Hammarby IF        15   8   3   4  33  15  18  27
-Brest               0   0   0   0   0   0   0   0                   Djurgården         13   7   2   4  27  15  12  23
-Le Havre AC         0   0   0   0   0   0   0   0                   BK Häcken          13   6   5   2  27  22   5  23
+Brest               0   0   0   0   0   0   0   0                   BK Häcken          14   6   6   2  27  22   5  24
+Le Havre AC         0   0   0   0   0   0   0   0                   Djurgården         13   7   2   4  27  15  12  23
 Le Mans             0   0   0   0   0   0   0   0                   Västerås SK        14   6   4   4  24  23   1  22
-Lens                0   0   0   0   0   0   0   0                   IF Elfsborg        15   5   6   4  20  18   2  21
-Lille               0   0   0   0   0   0   0   0                   AIK                13   6   3   4  18  18   0  21
+Lens                0   0   0   0   0   0   0   0                   AIK                14   6   4   4  18  18   0  22
+Lille               0   0   0   0   0   0   0   0                   IF Elfsborg        15   5   6   4  20  18   2  21
 Lorient             0   0   0   0   0   0   0   0                   Malmö FF           14   6   2   6  28  24   4  20
 Lyon                0   0   0   0   0   0   0   0                   GAIS               15   5   5   5  19  15   4  20
 Marseille           0   0   0   0   0   0   0   0                   Mjällby AIF        14   4   5   5  20  19   1  17
@@ -109,8 +111,6 @@ Troyes              0   0   0   0   0   0   0   0
 
                                                                     Allsvenskan Fixtures
                                                                     --------------------
-                                                                    Friday, July 24
-                                                                      Västerås SK          2–0   Örgryte IS
                                                                     Saturday, July 25
                                                                       Degerfors IF         0–1   Djurgården
                                                                       Kalmar FF            2–1   Mjällby AIF
@@ -120,7 +120,7 @@ Troyes              0   0   0   0   0   0   0   0
                                                                       GAIS                 1–1   Halmstads BK
                                                                       Malmö FF             1–2   IF Elfsborg
                                                                     Monday, July 27
-                                                                      BK Häcken            vs    AIK
+                                                                      BK Häcken            0–0   AIK
 
 Liga MX                                                             
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -146,8 +146,6 @@ FC Juarez           2   0   0   2   0   2  -2   0
 Liga MX Fixtures                                                    
 ----------------                                                    
 Saturday, July 25                                                   
-  Atlante              1–1   América                                
-  Tijuana              1–0   León                                   
   Guadalajara          1–0   FC Juarez                              
 Sunday, July 26                                                     
   Santos               0–1   Atlas                                  
@@ -155,6 +153,10 @@ Sunday, July 26
   Necaxa               2–1   Monterrey                              
 Monday, July 27                                                     
   Pachuca              1–2   Querétaro                              
+Saturday, August 01                                                 
+  Puebla               vs    Guadalajara                            
+  Atlético de San Lu   vs    Tijuana                                
+  FC Juarez            vs    Pumas UNAM                             
 
 Champions League
 Cty Squad              MP   W   D   L  GF  GA  GD Pts
@@ -196,4 +198,4 @@ ESP Villarreal          8   0   1   7   5  18 -13   1
 KAZ Kairat Almaty       8   0   1   7   7  22 -15   1               
 
 
-Standings from ESPN.com 07.27.26
+Standings from ESPN.com 07.28.26
