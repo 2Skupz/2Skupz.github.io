@@ -19,27 +19,26 @@ Sporting KC        17   4   2  11  14 -26
 
 MLS Fixtures
 ------------
-Saturday, July 25
-  Red Bull New York    0–2   Charlotte
-  Columbus             2–1   Cincinnati
-  Montreal             0–1   Inter Miami
-  DC United            2–1   Toronto
-  New England          4–1   Atlanta
-  New York City        3–1   Chicago
-  Philadelphia         1–0   Seattle
-Sunday, July 26
-  Houston              3–0   Austin
-  Minnesota            0–0   Vancouver Whitecap
-  St. Louis            1–0   Colorado
-  Orlando City SC      1–0   Nashville
-  San Diego            1–0   Dallas
-  LAFC                 4–0   Sporting KC
-  Portland             2–1   Real Salt Lake
-  San Jose             1–1   Galaxy
 Thursday, July 30
   MLS All-Stars        vs    Liga MX All-Stars
 Friday, July 31
   New York City        vs    Toronto
+Saturday, August 01
+  Montreal             vs    New England
+  DC United            vs    Nashville
+  Cincinnati           vs    San Jose
+  Inter Miami          vs    Columbus
+  Philadelphia         vs    Atlanta
+  Red Bull New York    vs    Orlando City SC
+  Vancouver Whitecap   vs    LAFC
+Sunday, August 02
+  Chicago              vs    Charlotte
+  Minnesota            vs    San Diego
+  Sporting KC          vs    Houston
+  St. Louis            vs    Real Salt Lake
+  Colorado             vs    Austin
+  Galaxy               vs    Dallas
+  Portland             vs    Seattle
 
 
 MLS East
@@ -84,9 +83,6 @@ Halmstads BK       14   1   4   9   7 -18
 
 Allsvenskan Fixtures
 --------------------
-Saturday, July 25
-  Degerfors IF         0–1   Djurgården
-  Kalmar FF            2–1   Mjällby AIF
 Sunday, July 26
   IF Brommapojkarna    1–1   Hammarby IF
   IK Sirius            4–1   IFK Göteborg
@@ -94,6 +90,8 @@ Sunday, July 26
   Malmö FF             1–2   IF Elfsborg
 Monday, July 27
   BK Häcken            0–0   AIK
+Saturday, August 01
+  BK Häcken            vs    Kalmar FF
 
 
 Bundesliga
@@ -241,11 +239,7 @@ FC Juarez           2   0   0   2   0  -2
 
 Liga MX Fixtures
 ----------------
-Saturday, July 25
-  Guadalajara          1–0   FC Juarez
 Sunday, July 26
-  Santos               0–1   Atlas
-  Tigres UANL          2–2   Atlético de San Lu
   Necaxa               2–1   Monterrey
 Monday, July 27
   Pachuca              1–2   Querétaro
@@ -253,6 +247,11 @@ Saturday, August 01
   Puebla               vs    Guadalajara
   Atlético de San Lu   vs    Tijuana
   FC Juarez            vs    Pumas UNAM
+  Querétaro            vs    Tigres UANL
+Sunday, August 02
+  Atlas                vs    Monterrey
+  León                 vs    Pachuca
+  Cruz Azul            vs    Atlante
 
 
 Champions League
@@ -296,4 +295,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.28.26
+Standings from ESPN.com 07.29.26
