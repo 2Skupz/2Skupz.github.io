@@ -44,34 +44,34 @@ NATIONAL LEAGUE
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
 ARI          -     ARI     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     ARI     ARI     ARI     WSN
 ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     STL     ATL
-CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     PIT     CHC     CHC     STL     WSN
+CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     CHC     CHC     CHC     CHC     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        ARI     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
-MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     MIA     MIA     SDP     MIA     MIA     MIA
+MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     MIA     MIA     SDP     MIA     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     SFG     MIL     WSN
-NYM        ARI     NYM     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
+NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
 PHI        ARI     ATL     CHC     PHI     PHI     LAD     MIA     MIL     PHI       -     PHI     PHI     PHI     PHI     PHI
-PIT        ARI     ATL     PIT     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
-SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SDP     STL     WSN
-SFG        ARI     SFG     CHC     CIN     SFG     SFG     MIA     SFG     NYM     PHI     SFG     SDP       -     STL     SFG
-STL        ARI     STL     STL     STL     STL     STL     MIA     MIL     STL     PHI     STL     STL     STL       -     STL
+PIT        ARI     ATL     CHC     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
+SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SFG     STL     WSN
+SFG        ARI     SFG     CHC     CIN     SFG     SFG     MIA     SFG     NYM     PHI     SFG     SFG       -     STL     SFG
+STL        ARI     STL     CHC     STL     STL     STL     MIA     MIL     STL     PHI     STL     STL     STL       -     STL
 WSN        WSN     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     WSN     SFG     STL       -
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 ARI    10-4 
-MIA    10-4 
-STL    10-4 
+CHC    10-4 
 ATL     9-5 
 LAD     9-5 
+MIA     9-5 
 MIL     9-5 
-CHC     8-6 
+STL     9-5 
 PHI     8-6 
+SFG     7-7 
 WSN     7-7 
-SDP     6-8 
-SFG     6-8 
-PIT     5-9 
-NYM     4-10
+NYM     5-9 
+SDP     5-9 
+PIT     4-10
 CIN     3-11
 COL     1-13

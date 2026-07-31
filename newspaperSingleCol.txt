@@ -20,7 +20,7 @@ Sporting KC        17   4   2  11  14 -26
 MLS Fixtures
 ------------
 Thursday, July 30
-  MLS All-Stars        vs    Liga MX All-Stars
+  MLS All-Stars        4–3   Liga MX All-Stars
 Friday, July 31
   New York City        vs    Toronto
 Saturday, August 01
@@ -83,15 +83,14 @@ Halmstads BK       14   1   4   9   7 -18
 
 Allsvenskan Fixtures
 --------------------
-Sunday, July 26
-  IF Brommapojkarna    1–1   Hammarby IF
-  IK Sirius            4–1   IFK Göteborg
-  GAIS                 1–1   Halmstads BK
-  Malmö FF             1–2   IF Elfsborg
 Monday, July 27
   BK Häcken            0–0   AIK
 Saturday, August 01
   BK Häcken            vs    Kalmar FF
+Sunday, August 02
+  IF Brommapojkarna    vs    Malmö FF
+  IFK Göteborg         vs    Degerfors IF
+  AIK                  vs    Örgryte IS
 
 
 Bundesliga
@@ -239,10 +238,6 @@ FC Juarez           2   0   0   2   0  -2
 
 Liga MX Fixtures
 ----------------
-Sunday, July 26
-  Necaxa               2–1   Monterrey
-Monday, July 27
-  Pachuca              1–2   Querétaro
 Saturday, August 01
   Puebla               vs    Guadalajara
   Atlético de San Lu   vs    Tijuana
@@ -252,6 +247,9 @@ Sunday, August 02
   Atlas                vs    Monterrey
   León                 vs    Pachuca
   Cruz Azul            vs    Atlante
+  América              vs    Santos
+Monday, August 03
+  Toluca               vs    Necaxa
 
 
 Champions League
@@ -295,4 +293,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.29.26
+Standings from ESPN.com 07.30.26
