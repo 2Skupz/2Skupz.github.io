@@ -48,13 +48,13 @@ CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC  
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
 LAD        ARI     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
-MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     MIA     MIA     SDP     MIA     MIA     MIA
+MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     MIA     MIA     SDP     MIA     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     SFG     MIL     WSN
-NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
+NYM        ARI     NYM     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
 PHI        ARI     ATL     CHC     PHI     PHI     LAD     MIA     MIL     PHI       -     PHI     PHI     PHI     PHI     PHI
 PIT        ARI     ATL     CHC     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
-SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SFG     STL     WSN
-SFG        ARI     SFG     CHC     CIN     SFG     SFG     MIA     SFG     NYM     PHI     SFG     SFG       -     STL     SFG
+SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     MIL     NYM     PHI     SDP       -     SDP     STL     WSN
+SFG        ARI     SFG     CHC     CIN     SFG     SFG     MIA     SFG     NYM     PHI     SFG     SDP       -     STL     SFG
 STL        ARI     STL     CHC     STL     STL     STL     MIA     MIL     STL     PHI     STL     STL     STL       -     STL
 WSN        WSN     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN     PHI     PIT     WSN     SFG     STL       -
 
@@ -62,16 +62,16 @@ NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 ARI    10-4 
 CHC    10-4 
+MIA    10-4 
 ATL     9-5 
 LAD     9-5 
-MIA     9-5 
 MIL     9-5 
 STL     9-5 
 PHI     8-6 
-SFG     7-7 
 WSN     7-7 
-NYM     5-9 
-SDP     5-9 
+SDP     6-8 
+SFG     6-8 
+NYM     4-10
 PIT     4-10
 CIN     3-11
 COL     1-13
