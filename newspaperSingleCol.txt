@@ -22,7 +22,7 @@ MLS Fixtures
 Thursday, July 30
   MLS All-Stars        4–3   Liga MX All-Stars
 Friday, July 31
-  New York City        vs    Toronto
+  New York City        1–1   Toronto
 Saturday, August 01
   Montreal             vs    New England
   DC United            vs    Nashville
@@ -48,14 +48,14 @@ Nashville          17  12   3   2  39  21
 Inter Miami        17  11   4   2  37  13
 New England        16   9   2   5  29   7
 Chicago            16   8   2   6  26   8
-New York City      17   7   4   6  25   7
+New York City      18   7   5   6  26   7
 Charlotte          17   7   4   6  25   3
 Cincinnati         17   6   5   6  23  -1
 Red Bull New York  17   6   4   7  22 -11
 DC United          17   5   7   5  22  -3
 Orlando City SC    17   6   2   9  20 -16
 Columbus           17   5   4   8  19  -2
-Toronto            17   3   7   7  16  -8
+Toronto            18   3   8   7  17  -8
 Montreal           17   4   3  10  15 -11
 Philadelphia       17   3   4  10  13  -9
 Atlanta            17   3   3  11  12 -13
@@ -84,7 +84,7 @@ Halmstads BK       14   1   4   9   7 -18
 Allsvenskan Fixtures
 --------------------
 Saturday, August 01
-  BK Häcken            vs    Kalmar FF
+  BK Häcken            1–1   Kalmar FF
 Sunday, August 02
   IF Brommapojkarna    vs    Malmö FF
   IFK Göteborg         vs    Degerfors IF
@@ -215,34 +215,64 @@ Valencia            0   0   0   0   0   0
 Villarreal          0   0   0   0   0   0
 
 
+Scottish Premiership
+--------------------
+Squad              MP   W   D   L  Pt  GD
+St Mirren           1   1   0   0   3   2
+Aberdeen            1   1   0   0   3   1
+Dundee United       1   0   1   0   1   0
+Rangers             1   0   1   0   1   0
+Celtic              0   0   0   0   0   0
+Dundee              0   0   0   0   0   0
+Hibernian           0   0   0   0   0   0
+Kilmarnock          0   0   0   0   0   0
+Motherwell          0   0   0   0   0   0
+St Johnstone        0   0   0   0   0   0
+Heart of Midlothia  1   0   0   1   0  -1
+Falkirk             1   0   0   1   0  -2
+
+Scottish Premiership Fixtures
+-----------------------------
+Friday, July 31
+  Dundee United        1–1   Rangers
+Saturday, August 01
+  Falkirk              0–2   St Mirren
+  Aberdeen             2–1   Heart of Midlothia
+Sunday, August 02
+  St Johnstone         vs    Kilmarnock
+  Hibernian            vs    Motherwell
+Monday, August 03
+  Celtic               vs    Dundee
+
+
 Liga MX
 -------
 Squad              MP   W   D   L  Pt  GD
-Tijuana             2   2   0   0   6   3
+Tijuana             3   2   1   0   7   3
+Pumas UNAM          3   2   0   1   6   2
 Cruz Azul           2   2   0   0   6   2
 Atlas               2   2   0   0   6   2
 Necaxa              2   2   0   0   6   2
 América             2   1   1   0   4   1
+Puebla              3   1   1   1   4   0
+Guadalajara         3   1   1   1   4  -1
 Pachuca             2   1   0   1   3   2
 Toluca              2   1   0   1   3   1
 Monterrey           2   1   0   1   3   0
-Puebla              2   1   0   1   3   0
 Querétaro           2   1   0   1   3   0
-Guadalajara         2   1   0   1   3  -1
-Pumas UNAM          2   1   0   1   3  -2
-Atlético de San Lu  2   0   1   1   1  -1
+Atlético de San Lu  3   0   2   1   2  -1
 Atlante             2   0   1   1   1  -1
 Tigres UANL         2   0   1   1   1  -2
 Santos              2   0   0   2   0  -2
 León                2   0   0   2   0  -2
-FC Juarez           2   0   0   2   0  -2
+FC Juarez           3   0   0   3   0  -6
 
 Liga MX Fixtures
 ----------------
 Saturday, August 01
-  Puebla               vs    Guadalajara
-  Atlético de San Lu   vs    Tijuana
-  FC Juarez            vs    Pumas UNAM
+  Puebla               1–1   Guadalajara
+  Atlético de San Lu   0–0   Tijuana
+  FC Juarez            1–5   Pumas UNAM
   Querétaro            vs    Tigres UANL
 Sunday, August 02
   Atlas                vs    Monterrey
@@ -294,4 +324,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 07.31.26
+Standings from ESPN.com 08.01.26
