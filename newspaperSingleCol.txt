@@ -1,64 +1,62 @@
 MLS West
 --------
 Squad              MP   W   D   L  Pt  GD
-Vancouver Whitecap 16  10   3   3  33  21
-LAFC               18  10   3   5  33  16
-San Jose           17  10   3   4  33  15
-Real Salt Lake     16   8   2   6  26   4
-Houston            16   8   2   6  26  -1
-Dallas             17   7   5   5  26   7
-St. Louis          17   7   4   6  25   0
-Seattle            16   7   3   6  24  -1
-Minnesota          17   6   5   6  23  -5
-Portland           17   6   3   8  21  -1
-Galaxy             18   5   6   7  21  -5
-San Diego          17   5   5   7  20   3
-Colorado           17   6   1  10  19   1
-Austin             17   4   5   8  17 -13
-Sporting KC        17   4   2  11  14 -26
+Vancouver Whitecap 17  10   4   3  34  21
+LAFC               19  10   4   5  34  16
+San Jose           18  10   3   5  33  13
+Houston            17   9   2   6  29   1
+Real Salt Lake     17   8   3   6  27   4
+Dallas             18   7   6   5  27   7
+St. Louis          18   7   5   6  26   0
+Portland           18   7   3   8  24   0
+Seattle            17   7   3   7  24  -2
+Minnesota          18   6   6   6  24  -5
+Colorado           18   7   1  10  22   2
+Galaxy             19   5   7   7  22  -5
+San Diego          18   5   6   7  21   3
+Austin             18   4   5   9  17 -14
+Sporting KC        18   4   2  12  14 -28
 
 MLS Fixtures
 ------------
-Thursday, July 30
-  MLS All-Stars        4–3   Liga MX All-Stars
 Friday, July 31
   New York City        1–1   Toronto
 Saturday, August 01
-  Montreal             vs    New England
-  DC United            vs    Nashville
-  Cincinnati           vs    San Jose
-  Inter Miami          vs    Columbus
-  Philadelphia         vs    Atlanta
-  Red Bull New York    vs    Orlando City SC
-  Vancouver Whitecap   vs    LAFC
+  Montreal             2–2   New England
+  DC United            2–2   Nashville
+  Philadelphia         3–2   Atlanta
+  Red Bull New York    3–2   Orlando City SC
+  Vancouver Whitecap   1–1   LAFC
 Sunday, August 02
-  Chicago              vs    Charlotte
-  Minnesota            vs    San Diego
-  Sporting KC          vs    Houston
-  St. Louis            vs    Real Salt Lake
-  Colorado             vs    Austin
-  Galaxy               vs    Dallas
-  Portland             vs    Seattle
+  Inter Miami          2–2   Columbus
+  Chicago              2–1   Charlotte
+  Minnesota            1–1   San Diego
+  Sporting KC          0–2   Houston
+  St. Louis            1–1   Real Salt Lake
+  Colorado             1–0   Austin
+  Cincinnati           4–2   San Jose
+  Galaxy               0–0   Dallas
+  Portland             2–1   Seattle
 
 
 MLS East
 --------
 Squad              MP   W   D   L  Pt  GD
-Nashville          17  12   3   2  39  21
-Inter Miami        17  11   4   2  37  13
-New England        16   9   2   5  29   7
-Chicago            16   8   2   6  26   8
+Nashville          18  12   4   2  40  21
+Inter Miami        18  11   5   2  38  13
+New England        17   9   3   5  30   7
+Chicago            17   9   2   6  29   9
 New York City      18   7   5   6  26   7
-Charlotte          17   7   4   6  25   3
-Cincinnati         17   6   5   6  23  -1
-Red Bull New York  17   6   4   7  22 -11
-DC United          17   5   7   5  22  -3
-Orlando City SC    17   6   2   9  20 -16
-Columbus           17   5   4   8  19  -2
+Cincinnati         18   7   5   6  26   1
+Charlotte          18   7   4   7  25   2
+Red Bull New York  18   7   4   7  25 -10
+DC United          18   5   8   5  23  -3
+Orlando City SC    18   6   2  10  20 -17
+Columbus           18   5   5   8  20  -2
 Toronto            18   3   8   7  17  -8
-Montreal           17   4   3  10  15 -11
-Philadelphia       17   3   4  10  13  -9
-Atlanta            17   3   3  11  12 -13
+Philadelphia       18   4   4  10  16  -8
+Montreal           18   4   4  10  16 -11
+Atlanta            18   3   3  12  12 -14
 
 
 Allsvenskan
@@ -66,18 +64,18 @@ Allsvenskan
 Squad              MP   W   D   L  Pt  GD
 IK Sirius          14  12   2   0  38  23
 Hammarby IF        15   8   3   4  27  18
-BK Häcken          14   6   6   2  24   5
+BK Häcken          15   6   7   2  25   5
 Djurgården         13   7   2   4  23  12
+Malmö FF           15   7   2   6  23   5
 Västerås SK        14   6   4   4  22   1
 AIK                14   6   4   4  22   0
 IF Elfsborg        15   5   6   4  21   2
-Malmö FF           14   6   2   6  20   4
 GAIS               15   5   5   5  20   4
+Kalmar FF          15   5   3   7  18  -2
 Mjällby AIF        14   4   5   5  17   1
-Kalmar FF          14   5   2   7  17  -2
-IF Brommapojkarna  14   4   5   5  17  -3
-IFK Göteborg       14   3   4   7  13 -16
-Degerfors IF       14   2   4   8  10 -12
+IF Brommapojkarna  15   4   5   6  17  -4
+IFK Göteborg       15   4   4   7  16 -14
+Degerfors IF       15   2   4   9  10 -14
 Örgryte IS         14   2   4   8  10 -19
 Halmstads BK       14   1   4   9   7 -18
 
@@ -86,8 +84,8 @@ Allsvenskan Fixtures
 Saturday, August 01
   BK Häcken            1–1   Kalmar FF
 Sunday, August 02
-  IF Brommapojkarna    vs    Malmö FF
-  IFK Göteborg         vs    Degerfors IF
+  IF Brommapojkarna    1–2   Malmö FF
+  IFK Göteborg         2–0   Degerfors IF
   AIK                  vs    Örgryte IS
 Monday, August 03
   Djurgården           vs    Västerås SK
@@ -239,7 +237,7 @@ Saturday, August 01
   Falkirk              0–2   St Mirren
   Aberdeen             2–1   Heart of Midlothia
 Sunday, August 02
-  St Johnstone         vs    Kilmarnock
+  St Johnstone         2–2   Kilmarnock
   Hibernian            vs    Motherwell
 Monday, August 03
   Celtic               vs    Dundee
@@ -250,21 +248,21 @@ Liga MX
 Squad              MP   W   D   L  Pt  GD
 Tijuana             3   2   1   0   7   3
 Pumas UNAM          3   2   0   1   6   2
-Cruz Azul           2   2   0   0   6   2
-Atlas               2   2   0   0   6   2
+Monterrey           3   2   0   1   6   2
 Necaxa              2   2   0   0   6   2
+Cruz Azul           3   2   0   1   6   1
+Querétaro           3   2   0   1   6   1
+Atlas               3   2   0   1   6   0
 América             2   1   1   0   4   1
+Atlante             3   1   1   1   4   0
 Puebla              3   1   1   1   4   0
 Guadalajara         3   1   1   1   4  -1
-Pachuca             2   1   0   1   3   2
+Pachuca             3   1   0   2   3   1
 Toluca              2   1   0   1   3   1
-Monterrey           2   1   0   1   3   0
-Querétaro           2   1   0   1   3   0
+León                3   1   0   2   3  -1
 Atlético de San Lu  3   0   2   1   2  -1
-Atlante             2   0   1   1   1  -1
-Tigres UANL         2   0   1   1   1  -2
+Tigres UANL         3   0   1   2   1  -3
 Santos              2   0   0   2   0  -2
-León                2   0   0   2   0  -2
 FC Juarez           3   0   0   3   0  -6
 
 Liga MX Fixtures
@@ -273,11 +271,11 @@ Saturday, August 01
   Puebla               1–1   Guadalajara
   Atlético de San Lu   0–0   Tijuana
   FC Juarez            1–5   Pumas UNAM
-  Querétaro            vs    Tigres UANL
+  Querétaro            3–2   Tigres UANL
 Sunday, August 02
-  Atlas                vs    Monterrey
-  León                 vs    Pachuca
-  Cruz Azul            vs    Atlante
+  Atlas                0–2   Monterrey
+  León                 1–0   Pachuca
+  Cruz Azul            2–3   Atlante
   América              vs    Santos
 Monday, August 03
   Toluca               vs    Necaxa
@@ -324,4 +322,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 08.01.26
+Standings from ESPN.com 08.02.26
