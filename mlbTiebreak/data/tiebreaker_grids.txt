@@ -42,12 +42,12 @@ LAA     3-11
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
-ARI          -     ARI     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     ARI     ARI     ARI     WSN
-ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     STL     ATL
-CHC        CHC     ATL       -     CHC     CHC     LAD     CHC     MIL     CHC     CHC     CHC     CHC     CHC     CHC     WSN
+ARI          -     ATL     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     ARI     ARI     ARI     WSN
+ATL        ATL       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     STL     ATL
+CHC        CHC     ATL       -     CHC     CHC     CHC     CHC     MIL     CHC     CHC     CHC     CHC     CHC     CHC     WSN
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     SFG     STL     WSN
-LAD        ARI     ATL     LAD     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
+LAD        ARI     ATL     CHC     LAD     LAD       -     MIA     LAD     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     MIA     MIA     SDP     MIA     MIA     MIA
 MIL        MIL     ATL     MIL     MIL     MIL     LAD     MIL       -     MIL     MIL     PIT     MIL     SFG     MIL     WSN
 NYM        ARI     NYM     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     NYM     NYM     STL     WSN
@@ -60,13 +60,13 @@ WSN        WSN     ATL     WSN     WSN     WSN     LAD     MIA     WSN     WSN  
 
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-ARI    10-4 
-CHC    10-4 
+CHC    11-3 
+ATL    10-4 
 MIA    10-4 
-ATL     9-5 
-LAD     9-5 
+ARI     9-5 
 MIL     9-5 
 STL     9-5 
+LAD     8-6 
 PHI     8-6 
 WSN     7-7 
 SDP     6-8 

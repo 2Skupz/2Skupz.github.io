@@ -19,8 +19,6 @@ Sporting KC        18   4   2  12  14 -28
 
 MLS Fixtures
 ------------
-Friday, July 31
-  New York City        1–1   Toronto
 Saturday, August 01
   Montreal             2–2   New England
   DC United            2–2   Nashville
@@ -62,13 +60,13 @@ Atlanta            18   3   3  12  12 -14
 Allsvenskan
 -----------
 Squad              MP   W   D   L  Pt  GD
-IK Sirius          14  12   2   0  38  23
+IK Sirius          15  13   2   0  41  25
 Hammarby IF        15   8   3   4  27  18
+Djurgården         14   8   2   4  26  18
 BK Häcken          15   6   7   2  25   5
-Djurgården         13   7   2   4  23  12
 Malmö FF           15   7   2   6  23   5
-Västerås SK        14   6   4   4  22   1
 AIK                15   6   4   5  22  -3
+Västerås SK        15   6   4   5  22  -5
 IF Elfsborg        15   5   6   4  21   2
 GAIS               15   5   5   5  20   4
 Kalmar FF          15   5   3   7  18  -2
@@ -77,7 +75,7 @@ IF Brommapojkarna  15   4   5   6  17  -4
 IFK Göteborg       15   4   4   7  16 -14
 Örgryte IS         15   3   4   8  13 -16
 Degerfors IF       15   2   4   9  10 -14
-Halmstads BK       14   1   4   9   7 -18
+Halmstads BK       15   1   4  10   7 -20
 
 Allsvenskan Fixtures
 --------------------
@@ -88,8 +86,8 @@ Sunday, August 02
   IFK Göteborg         2–0   Degerfors IF
   AIK                  0–3   Örgryte IS
 Monday, August 03
-  Djurgården           vs    Västerås SK
-  Halmstads BK         vs    IK Sirius
+  Djurgården           6–0   Västerås SK
+  Halmstads BK         0–2   IK Sirius
 
 
 Bundesliga
@@ -220,19 +218,17 @@ St Mirren           1   1   0   0   3   2
 St Johnstone        1   1   0   0   3   1
 Aberdeen            1   1   0   0   3   1
 Motherwell          1   1   0   0   3   1
+Celtic              1   1   0   0   3   1
 Dundee United       1   0   1   0   1   0
 Rangers             1   0   1   0   1   0
-Celtic              0   0   0   0   0   0
-Dundee              0   0   0   0   0   0
 Kilmarnock          1   0   0   1   0  -1
 Heart of Midlothia  1   0   0   1   0  -1
 Hibernian           1   0   0   1   0  -1
+Dundee              1   0   0   1   0  -1
 Falkirk             1   0   0   1   0  -2
 
 Scottish Premiership Fixtures
 -----------------------------
-Friday, July 31
-  Dundee United        1–1   Rangers
 Saturday, August 01
   Falkirk              0–2   St Mirren
   Aberdeen             2–1   Heart of Midlothia
@@ -240,7 +236,7 @@ Sunday, August 02
   St Johnstone         4–3   Kilmarnock
   Hibernian            1–2   Motherwell
 Monday, August 03
-  Celtic               vs    Dundee
+  Celtic               1–0   Dundee
 
 
 Liga MX
@@ -268,9 +264,6 @@ FC Juarez           3   0   0   3   0  -6
 Liga MX Fixtures
 ----------------
 Saturday, August 01
-  Puebla               1–1   Guadalajara
-  Atlético de San Lu   0–0   Tijuana
-  FC Juarez            1–5   Pumas UNAM
   Querétaro            3–2   Tigres UANL
 Sunday, August 02
   Atlas                0–2   Monterrey
@@ -322,4 +315,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 08.03.26
+Standings from ESPN.com 08.04.26
