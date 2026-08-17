@@ -1,20 +1,20 @@
 MLS West
 --------
 Squad              MP   W   D   L  Pt  GD
+Vancouver Whitecap 18  11   4   3  37  23
 Houston            19  11   2   6  35   4
-Vancouver Whitecap 17  10   4   3  34  21
 LAFC               20  10   4   6  34  15
 San Jose           19  10   3   6  33  11
+Dallas             19   8   6   5  30   8
 St. Louis          19   8   5   6  29   2
 Real Salt Lake     18   8   4   6  28   4
-Dallas             18   7   6   5  27   7
 Colorado           19   8   1  10  25   4
 Minnesota          19   6   7   6  25  -5
-Portland           18   7   3   8  24   0
-Seattle            17   7   3   7  24  -2
+Portland           19   7   3   9  24  -1
+Seattle            18   7   3   8  24  -4
 San Diego          19   6   6   7  24   4
 Galaxy             20   5   7   8  22  -6
-Austin             18   4   5   9  17 -14
+Austin             19   4   5  10  17 -15
 Sporting KC        19   4   2  13  14 -30
 
 MLS Fixtures
@@ -32,11 +32,11 @@ Sunday, August 16
   Real Salt Lake       1–1   Minnesota
   LAFC                 0–1   San Diego
   San Jose             1–3   St. Louis
-  Chicago              vs    Portland
-  New York City        vs    Philadelphia
+  Chicago              2–1   Portland
+  New York City        2–3   Philadelphia
 Monday, August 17
-  Austin               vs    Dallas
-  Seattle              vs    Vancouver Whitecap
+  Austin               1–2   Dallas
+  Seattle              0–2   Vancouver Whitecap
 Wednesday, August 19
   Columbus             vs    Montreal
   DC United            vs    New England
@@ -61,18 +61,18 @@ MLS East
 Squad              MP   W   D   L  Pt  GD
 Nashville          19  13   4   2  43  24
 Inter Miami        19  11   5   3  38  10
+Chicago            18  10   2   6  32  10
 New England        19   9   3   7  30   4
-Chicago            17   9   2   6  29   9
 Charlotte          19   8   4   7  28   4
 Cincinnati         19   7   6   6  27   1
-New York City      18   7   5   6  26   7
+New York City      19   7   5   7  26   6
 Red Bull New York  19   7   4   8  25 -11
 DC United          19   5   9   5  24  -3
 Orlando City SC    19   6   3  10  21 -17
 Columbus           19   5   5   9  20  -4
 Toronto            19   4   8   7  20  -7
+Philadelphia       19   5   4  10  19  -7
 Montreal           19   4   5  10  17 -11
-Philadelphia       18   4   4  10  16  -8
 Atlanta            19   4   3  12  15 -13
 
 
@@ -244,6 +244,8 @@ Monday, August 17
   Deportivo            vs    Elche
 Wednesday, August 19
   Atlético Madrid      vs    Málaga
+Thursday, August 20
+  Rayo Vallecano       vs    Alavés
 
 
 Scottish Premiership
@@ -266,23 +268,23 @@ Kilmarnock          2   0   0   2   0  -5
 Liga MX
 -------
 Squad              MP   W   D   L  Pt  GD
+América             4   3   1   0  10   7
+Tijuana             4   3   1   0  10   4
 Monterrey           4   3   0   1   9   7
 Atlas               4   3   0   1   9   1
-América             3   2   1   0   7   4
 Toluca              4   2   1   1   7   3
-Tijuana             3   2   1   0   7   3
-Pumas UNAM          3   2   0   1   6   2
-Cruz Azul           3   2   0   1   6   1
-Querétaro           3   2   0   1   6   1
+Pumas UNAM          4   2   1   1   7   2
+Querétaro           4   2   1   1   7   1
+Guadalajara         4   2   1   1   7   0
+Cruz Azul           4   2   0   2   6   0
 Necaxa              3   2   0   1   6   0
 Atlante             4   1   2   1   5   0
 Puebla              3   1   1   1   4   0
-Guadalajara         3   1   1   1   4  -1
 Pachuca             3   1   0   2   3   1
 León                3   1   0   2   3  -1
-Atlético de San Lu  3   0   2   1   2  -1
+Atlético de San Lu  4   0   2   2   2  -4
 Tigres UANL         4   0   1   3   1  -4
-Santos              3   0   0   3   0  -5
+Santos              4   0   0   4   0  -6
 FC Juarez           4   0   0   4   0 -11
 
 Liga MX Fixtures
@@ -293,10 +295,10 @@ Sunday, August 16
   Monterrey            6–1   FC Juarez
   Atlas                2–1   Tigres UANL
   Pumas UNAM           0–0   Querétaro
-  América              vs    Atlético de San Lu
+  América              3–0   Atlético de San Lu
 Monday, August 17
-  Santos               vs    Guadalajara
-  Tijuana              vs    Cruz Azul
+  Santos               0–1   Guadalajara
+  Tijuana              2–1   Cruz Azul
 Tuesday, August 18
   Necaxa               vs    León
   Pachuca              vs    Puebla
@@ -343,4 +345,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 08.16.26
+Standings from ESPN.com 08.17.26
