@@ -19,19 +19,7 @@ Sporting KC        19   4   2  13  14 -30
 
 MLS Fixtures
 ------------
-Saturday, August 15
-  Atlanta              2–1   Red Bull New York
-  Montreal             1–1   DC United
-  Charlotte            3–1   Columbus
-  Orlando City SC      1–1   Cincinnati
-  Toronto              2–1   New England
 Sunday, August 16
-  Houston              1–0   Galaxy
-  Nashville            4–1   Inter Miami
-  Colorado             2–0   Sporting KC
-  Real Salt Lake       1–1   Minnesota
-  LAFC                 0–1   San Diego
-  San Jose             1–3   St. Louis
   Chicago              2–1   Portland
   New York City        2–3   Philadelphia
 Monday, August 17
@@ -54,6 +42,21 @@ Thursday, August 20
   Galaxy               vs    San Jose
   Portland             vs    San Diego
   Vancouver Whitecap   vs    Houston
+Saturday, August 22
+  Montreal             vs    Galaxy
+  Charlotte            vs    DC United
+  Cincinnati           vs    Seattle
+  Inter Miami          vs    Toronto
+  Orlando City SC      vs    Real Salt Lake
+  Red Bull New York    vs    Chicago
+Sunday, August 23
+  Austin               vs    Philadelphia
+  Nashville            vs    Columbus
+  St. Louis            vs    Houston
+  Vancouver Whitecap   vs    Dallas
+  LAFC                 vs    Portland
+  San Diego            vs    Colorado
+  San Jose             vs    Minnesota
 
 
 MLS East
@@ -81,11 +84,11 @@ Allsvenskan
 Squad              MP   W   D   L  Pt  GD
 IK Sirius          17  13   3   1  42  24
 Hammarby IF        17  10   3   4  33  25
+BK Häcken          17   7   7   3  28   3
 AIK                17   8   4   5  28   0
 IF Elfsborg        17   7   6   4  27   6
 Djurgården         16   8   2   6  26  15
 Malmö FF           17   8   2   7  26   5
-BK Häcken          16   6   7   3  25   2
 Västerås SK        17   7   4   6  25  -7
 GAIS               17   6   5   6  23   5
 IF Brommapojkarna  17   5   6   6  21  -2
@@ -94,14 +97,10 @@ IFK Göteborg       17   5   4   8  19 -16
 Kalmar FF          17   5   3   9  18  -7
 Degerfors IF       17   4   4   9  16 -10
 Örgryte IS         17   3   4  10  13 -19
-Halmstads BK       16   1   4  11   7 -22
+Halmstads BK       17   1   4  12   7 -23
 
 Allsvenskan Fixtures
 --------------------
-Friday, August 14
-  IF Elfsborg          3–0   Västerås SK
-Saturday, August 15
-  Mjällby AIF          4–3   IK Sirius
 Sunday, August 16
   Degerfors IF         3–0   IFK Göteborg
   Djurgården           1–3   AIK
@@ -109,7 +108,11 @@ Sunday, August 16
   GAIS                 0–1   Malmö FF
   Kalmar FF            0–4   Hammarby IF
 Monday, August 17
-  BK Häcken            vs    Halmstads BK
+  BK Häcken            1–0   Halmstads BK
+Friday, August 21
+  IK Sirius            vs    BK Häcken
+Saturday, August 22
+  Örgryte IS           vs    Halmstads BK
 
 
 Bundesliga
@@ -159,6 +162,17 @@ Nottingham Forest   0   0   0   0   0   0
 Sunderland          0   0   0   0   0   0
 Tottenham Hotspur   0   0   0   0   0   0
 
+Premier League Fixtures
+-----------------------
+Friday, August 21
+  Arsenal              vs    Coventry City
+Saturday, August 22
+  Hull City            vs    Manchester United
+  Everton              vs    Crystal Palace
+  Ipswich Town         vs    Sunderland
+  Nottingham Forest    vs    Leeds United
+  Brentford            vs    Tottenham Hotspur
+
 
 Ligue 1
 -------
@@ -181,6 +195,17 @@ Stade Rennais       0   0   0   0   0   0
 Strasbourg          0   0   0   0   0   0
 Toulouse            0   0   0   0   0   0
 Troyes              0   0   0   0   0   0
+
+Ligue 1 Fixtures
+----------------
+Friday, August 21
+  Marseille            vs    Strasbourg
+Saturday, August 22
+  Lens                 vs    AJ Auxerre
+  Le Mans              vs    Brest
+  Nice                 vs    Lorient
+  Toulouse             vs    Lyon
+  Troyes               vs    Paris FC
 
 
 Serie A
@@ -207,6 +232,14 @@ Torino              0   0   0   0   0   0
 Udinese             0   0   0   0   0   0
 Venezia             0   0   0   0   0   0
 
+Serie A Fixtures
+----------------
+Saturday, August 22
+  Internazionale       vs    Monza
+  Udinese              vs    Como
+  Genoa                vs    Napoli
+  Parma                vs    Cagliari
+
 
 La Liga
 -------
@@ -216,12 +249,12 @@ Alavés              1   1   0   0   3   3
 Sevilla             1   1   0   0   3   1
 Racing Santander    1   0   1   0   1   0
 Villarreal          1   0   1   0   1   0
+Deportivo           1   0   1   0   1   0
+Elche               1   0   1   0   1   0
 Athletic Club       0   0   0   0   0   0
 Atlético Madrid     0   0   0   0   0   0
 Barcelona           0   0   0   0   0   0
 Celta Vigo          0   0   0   0   0   0
-Deportivo           0   0   0   0   0   0
-Elche               0   0   0   0   0   0
 Málaga              0   0   0   0   0   0
 Osasuna             0   0   0   0   0   0
 Real Betis          0   0   0   0   0   0
@@ -234,18 +267,21 @@ Getafe              1   0   0   1   0  -3
 
 La Liga Fixtures
 ----------------
-Saturday, August 15
-  Alavés               3–0   Getafe
-  Sevilla              2–1   Rayo Vallecano
 Sunday, August 16
   Racing Santander     2–2   Villarreal
   Espanyol             3–0   Levante
 Monday, August 17
-  Deportivo            vs    Elche
+  Deportivo            1–1   Elche
 Wednesday, August 19
   Atlético Madrid      vs    Málaga
 Thursday, August 20
   Rayo Vallecano       vs    Alavés
+Friday, August 21
+  Real Betis           vs    Real Sociedad
+Saturday, August 22
+  Athletic Club        vs    Sevilla
+  Valencia             vs    Celta Vigo
+  Espanyol             vs    Real Madrid
 
 
 Scottish Premiership
@@ -264,6 +300,16 @@ Falkirk             2   0   1   1   1  -2
 Dundee United       2   0   1   1   1  -4
 Kilmarnock          2   0   0   2   0  -5
 
+Scottish Premiership Fixtures
+-----------------------------
+Saturday, August 22
+  Falkirk              0–0   Heart of Midlothia
+  Hibernian            0–0   Kilmarnock
+  Motherwell           0–0   Aberdeen
+  Rangers              0–0   St Mirren
+  St Johnstone         0–0   Celtic
+  Dundee United        vs    Dundee
+
 
 Liga MX
 -------
@@ -274,14 +320,14 @@ Monterrey           4   3   0   1   9   7
 Atlas               4   3   0   1   9   1
 Toluca              4   2   1   1   7   3
 Pumas UNAM          4   2   1   1   7   2
+Puebla              4   2   1   1   7   1
 Querétaro           4   2   1   1   7   1
 Guadalajara         4   2   1   1   7   0
 Cruz Azul           4   2   0   2   6   0
-Necaxa              3   2   0   1   6   0
+León                4   2   0   2   6   0
+Necaxa              4   2   0   2   6  -1
 Atlante             4   1   2   1   5   0
-Puebla              3   1   1   1   4   0
-Pachuca             3   1   0   2   3   1
-León                3   1   0   2   3  -1
+Pachuca             4   1   0   3   3   0
 Atlético de San Lu  4   0   2   2   2  -4
 Tigres UANL         4   0   1   3   1  -4
 Santos              4   0   0   4   0  -6
@@ -289,19 +335,24 @@ FC Juarez           4   0   0   4   0 -11
 
 Liga MX Fixtures
 ----------------
-Saturday, August 15
-  Atlante              0–0   Toluca
 Sunday, August 16
-  Monterrey            6–1   FC Juarez
-  Atlas                2–1   Tigres UANL
   Pumas UNAM           0–0   Querétaro
   América              3–0   Atlético de San Lu
 Monday, August 17
   Santos               0–1   Guadalajara
   Tijuana              2–1   Cruz Azul
 Tuesday, August 18
-  Necaxa               vs    León
-  Pachuca              vs    Puebla
+  Necaxa               1–2   León
+  Pachuca              2–3   Puebla
+Saturday, August 22
+  León                 vs    Monterrey
+  Tigres UANL          vs    Atlante
+  FC Juarez            vs    América
+  Querétaro            vs    Toluca
+  Guadalajara          vs    Tijuana
+Sunday, August 23
+  Puebla               vs    Santos
+  Cruz Azul            vs    Atlas
 
 
 Champions League
@@ -345,4 +396,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 08.17.26
+Standings from ESPN.com 08.19.26
