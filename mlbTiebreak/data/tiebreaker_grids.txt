@@ -11,15 +11,15 @@ BOS        BOS     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS  
 CHW        CHW     BAL     BOS       -     CHW     CHW     HOU     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
 DET        DET     BAL     BOS     CHW     CLE       -     HOU     DET     LAA     MIN     DET     DET     DET     DET     TOR
-HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU     MIN     NYY     SEA     HOU     HOU     TOR
+HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU     MIN     NYY     SEA     HOU     HOU     HOU
 KCR        KCR     BAL     BOS     CHW     CLE     DET     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
 LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
 MIN        MIN     MIN     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
-NYY        ATH     NYY     BOS     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     TOR
+NYY        ATH     NYY     BOS     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     BOS     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     BAL     TBR     TBR     TBR     DET     HOU     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
-TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     TOR     SEA     TBR     TEX       -
+TOR        TOR     TOR     TOR     CHW     TOR     TOR     HOU     TOR     TOR     MIN     NYY     SEA     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
@@ -27,9 +27,9 @@ TBR    11-3
 BOS    10-4 
 MIN    10-4 
 CHW     9-5 
-TOR     9-5 
-HOU     8-6 
-NYY     8-6 
+HOU     9-5 
+NYY     9-5 
+TOR     7-7 
 CLE     6-8 
 DET     6-8 
 SEA     6-8 

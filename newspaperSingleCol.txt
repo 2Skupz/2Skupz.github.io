@@ -1,47 +1,41 @@
 MLS West
 --------
 Squad              MP   W   D   L  Pt  GD
-Vancouver Whitecap 18  11   4   3  37  23
-Houston            19  11   2   6  35   4
-LAFC               20  10   4   6  34  15
-San Jose           19  10   3   6  33  11
-Dallas             19   8   6   5  30   8
-St. Louis          19   8   5   6  29   2
-Real Salt Lake     18   8   4   6  28   4
-Colorado           19   8   1  10  25   4
-Minnesota          19   6   7   6  25  -5
-Portland           19   7   3   9  24  -1
-Seattle            18   7   3   8  24  -4
-San Diego          19   6   6   7  24   4
-Galaxy             20   5   7   8  22  -6
-Austin             19   4   5  10  17 -15
-Sporting KC        19   4   2  13  14 -30
+Houston            20  12   2   6  38   5
+Vancouver Whitecap 19  11   4   4  37  22
+LAFC               21  10   4   7  34  14
+San Jose           20  10   3   7  33  10
+Dallas             20   9   6   5  33   9
+St. Louis          20   8   6   6  30   2
+Colorado           20   9   1  10  28   5
+Real Salt Lake     19   8   4   7  28   3
+Portland           20   8   3   9  27   1
+Galaxy             21   6   7   8  25  -5
+Minnesota          20   6   7   7  25  -6
+Seattle            19   7   3   9  24  -5
+San Diego          20   6   6   8  24   2
+Austin             20   5   5  10  20 -14
+Sporting KC        20   4   3  13  15 -30
 
 MLS Fixtures
 ------------
-Sunday, August 16
-  Chicago              2–1   Portland
-  New York City        2–3   Philadelphia
-Monday, August 17
-  Austin               1–2   Dallas
-  Seattle              0–2   Vancouver Whitecap
 Wednesday, August 19
-  Columbus             vs    Montreal
-  DC United            vs    New England
-  Cincinnati           vs    New York City
-  Orlando City SC      vs    Chicago
-  Philadelphia         vs    Inter Miami
-  Red Bull New York    vs    Nashville
-  Toronto              vs    Charlotte
+  Columbus             1–2   Montreal
+  DC United            0–3   New England
+  Cincinnati           2–1   New York City
+  Orlando City SC      1–2   Chicago
+  Philadelphia         2–2   Inter Miami
+  Red Bull New York    0–1   Nashville
+  Toronto              3–3   Charlotte
 Thursday, August 20
-  Sporting KC          vs    St. Louis
-  Minnesota            vs    Atlanta
-  Colorado             vs    LAFC
-  Real Salt Lake       vs    Dallas
-  Seattle              vs    Austin
-  Galaxy               vs    San Jose
-  Portland             vs    San Diego
-  Vancouver Whitecap   vs    Houston
+  Sporting KC          1–1   St. Louis
+  Minnesota            1–2   Atlanta
+  Colorado             1–0   LAFC
+  Real Salt Lake       3–4   Dallas
+  Seattle              1–2   Austin
+  Galaxy               1–0   San Jose
+  Portland             3–1   San Diego
+  Vancouver Whitecap   0–1   Houston
 Saturday, August 22
   Montreal             vs    Galaxy
   Charlotte            vs    DC United
@@ -57,26 +51,28 @@ Sunday, August 23
   LAFC                 vs    Portland
   San Diego            vs    Colorado
   San Jose             vs    Minnesota
+  New England          vs    New York City
+  Atlanta              vs    Sporting KC
 
 
 MLS East
 --------
 Squad              MP   W   D   L  Pt  GD
-Nashville          19  13   4   2  43  24
-Inter Miami        19  11   5   3  38  10
-Chicago            18  10   2   6  32  10
-New England        19   9   3   7  30   4
-Charlotte          19   8   4   7  28   4
-Cincinnati         19   7   6   6  27   1
-New York City      19   7   5   7  26   6
-Red Bull New York  19   7   4   8  25 -11
-DC United          19   5   9   5  24  -3
-Orlando City SC    19   6   3  10  21 -17
-Columbus           19   5   5   9  20  -4
-Toronto            19   4   8   7  20  -7
-Philadelphia       19   5   4  10  19  -7
-Montreal           19   4   5  10  17 -11
-Atlanta            19   4   3  12  15 -13
+Nashville          20  14   4   2  46  25
+Inter Miami        20  11   6   3  39  10
+Chicago            19  11   2   6  35  11
+New England        20  10   3   7  33   7
+Cincinnati         20   8   6   6  30   2
+Charlotte          20   8   5   7  29   4
+New York City      20   7   5   8  26   5
+Red Bull New York  20   7   4   9  25 -12
+DC United          20   5   9   6  24  -6
+Orlando City SC    20   6   3  11  21 -18
+Toronto            20   4   9   7  21  -7
+Columbus           20   5   5  10  20  -5
+Philadelphia       20   5   5  10  20  -7
+Montreal           20   5   5  10  20 -10
+Atlanta            20   5   3  12  18 -12
 
 
 Allsvenskan
@@ -101,18 +97,17 @@ Halmstads BK       17   1   4  12   7 -23
 
 Allsvenskan Fixtures
 --------------------
-Sunday, August 16
-  Degerfors IF         3–0   IFK Göteborg
-  Djurgården           1–3   AIK
-  IF Brommapojkarna    3–1   Örgryte IS
-  GAIS                 0–1   Malmö FF
-  Kalmar FF            0–4   Hammarby IF
 Monday, August 17
   BK Häcken            1–0   Halmstads BK
 Friday, August 21
   IK Sirius            vs    BK Häcken
 Saturday, August 22
   Örgryte IS           vs    Halmstads BK
+Sunday, August 23
+  IFK Göteborg         vs    IF Elfsborg
+  Västerås SK          vs    Kalmar FF
+  Hammarby IF          vs    GAIS
+  IF Brommapojkarna    vs    Degerfors IF
 
 
 Bundesliga
@@ -172,6 +167,10 @@ Saturday, August 22
   Ipswich Town         vs    Sunderland
   Nottingham Forest    vs    Leeds United
   Brentford            vs    Tottenham Hotspur
+Sunday, August 23
+  Brighton & Hove Al   vs    Aston Villa
+  Manchester City      vs    AFC Bournemouth
+  Newcastle United     vs    Liverpool
 
 
 Ligue 1
@@ -206,6 +205,10 @@ Saturday, August 22
   Nice                 vs    Lorient
   Toulouse             vs    Lyon
   Troyes               vs    Paris FC
+Sunday, August 23
+  Angers               vs    Lille
+  Le Havre AC          vs    AS Monaco
+  Paris S-G            vs    Stade Rennais
 
 
 Serie A
@@ -239,6 +242,11 @@ Saturday, August 22
   Udinese              vs    Como
   Genoa                vs    Napoli
   Parma                vs    Cagliari
+Sunday, August 23
+  Frosinone            vs    Juventus
+  Venezia              vs    Lecce
+  Atalanta             vs    Sassuolo
+  Torino               vs    AC Milan
 
 
 La Liga
@@ -246,34 +254,31 @@ La Liga
 Squad              MP   W   D   L  Pt  GD
 Espanyol            1   1   0   0   3   3
 Alavés              1   1   0   0   3   3
+Atlético Madrid     1   1   0   0   3   2
 Sevilla             1   1   0   0   3   1
 Racing Santander    1   0   1   0   1   0
 Villarreal          1   0   1   0   1   0
 Deportivo           1   0   1   0   1   0
 Elche               1   0   1   0   1   0
 Athletic Club       0   0   0   0   0   0
-Atlético Madrid     0   0   0   0   0   0
 Barcelona           0   0   0   0   0   0
 Celta Vigo          0   0   0   0   0   0
-Málaga              0   0   0   0   0   0
 Osasuna             0   0   0   0   0   0
 Real Betis          0   0   0   0   0   0
 Real Madrid         0   0   0   0   0   0
 Real Sociedad       0   0   0   0   0   0
 Valencia            0   0   0   0   0   0
 Rayo Vallecano      1   0   0   1   0  -1
+Málaga              1   0   0   1   0  -2
 Levante             1   0   0   1   0  -3
 Getafe              1   0   0   1   0  -3
 
 La Liga Fixtures
 ----------------
-Sunday, August 16
-  Racing Santander     2–2   Villarreal
-  Espanyol             3–0   Levante
 Monday, August 17
   Deportivo            1–1   Elche
 Wednesday, August 19
-  Atlético Madrid      vs    Málaga
+  Atlético Madrid      2–0   Málaga
 Thursday, August 20
   Rayo Vallecano       vs    Alavés
 Friday, August 21
@@ -282,6 +287,10 @@ Saturday, August 22
   Athletic Club        vs    Sevilla
   Valencia             vs    Celta Vigo
   Espanyol             vs    Real Madrid
+Sunday, August 23
+  Atlético Madrid      vs    Villarreal
+  Getafe               vs    Racing Santander
+  Elche                vs    Barcelona
 
 
 Scottish Premiership
@@ -335,12 +344,6 @@ FC Juarez           4   0   0   4   0 -11
 
 Liga MX Fixtures
 ----------------
-Sunday, August 16
-  Pumas UNAM           0–0   Querétaro
-  América              3–0   Atlético de San Lu
-Monday, August 17
-  Santos               0–1   Guadalajara
-  Tijuana              2–1   Cruz Azul
 Tuesday, August 18
   Necaxa               1–2   León
   Pachuca              2–3   Puebla
@@ -353,6 +356,9 @@ Saturday, August 22
 Sunday, August 23
   Puebla               vs    Santos
   Cruz Azul            vs    Atlas
+  Atlético de San Lu   vs    Pachuca
+Monday, August 24
+  Pumas UNAM           vs    Necaxa
 
 
 Champions League
@@ -396,4 +402,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 08.19.26
+Standings from ESPN.com 08.20.26
