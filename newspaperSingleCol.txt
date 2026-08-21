@@ -97,8 +97,6 @@ Halmstads BK       17   1   4  12   7 -23
 
 Allsvenskan Fixtures
 --------------------
-Monday, August 17
-  BK Häcken            1–0   Halmstads BK
 Friday, August 21
   IK Sirius            vs    BK Häcken
 Saturday, August 22
@@ -108,6 +106,8 @@ Sunday, August 23
   Västerås SK          vs    Kalmar FF
   Hammarby IF          vs    GAIS
   IF Brommapojkarna    vs    Degerfors IF
+Monday, August 24
+  Malmö FF             vs    Djurgården
 
 
 Bundesliga
@@ -171,6 +171,8 @@ Sunday, August 23
   Brighton & Hove Al   vs    Aston Villa
   Manchester City      vs    AFC Bournemouth
   Newcastle United     vs    Liverpool
+Monday, August 24
+  Fulham               vs    Chelsea
 
 
 Ligue 1
@@ -208,7 +210,7 @@ Saturday, August 22
 Sunday, August 23
   Angers               vs    Lille
   Le Havre AC          vs    AS Monaco
-  Paris S-G            vs    Stade Rennais
+  Stade Rennais        vs    Paris S-G
 
 
 Serie A
@@ -247,19 +249,23 @@ Sunday, August 23
   Venezia              vs    Lecce
   Atalanta             vs    Sassuolo
   Torino               vs    AC Milan
+Monday, August 24
+  Bologna              vs    Lazio
+  AS Roma              vs    Fiorentina
 
 
 La Liga
 -------
 Squad              MP   W   D   L  Pt  GD
+Alavés              2   1   1   0   4   3
 Espanyol            1   1   0   0   3   3
-Alavés              1   1   0   0   3   3
 Atlético Madrid     1   1   0   0   3   2
 Sevilla             1   1   0   0   3   1
 Racing Santander    1   0   1   0   1   0
 Villarreal          1   0   1   0   1   0
 Deportivo           1   0   1   0   1   0
 Elche               1   0   1   0   1   0
+Rayo Vallecano      2   0   1   1   1  -1
 Athletic Club       0   0   0   0   0   0
 Barcelona           0   0   0   0   0   0
 Celta Vigo          0   0   0   0   0   0
@@ -268,19 +274,16 @@ Real Betis          0   0   0   0   0   0
 Real Madrid         0   0   0   0   0   0
 Real Sociedad       0   0   0   0   0   0
 Valencia            0   0   0   0   0   0
-Rayo Vallecano      1   0   0   1   0  -1
 Málaga              1   0   0   1   0  -2
 Levante             1   0   0   1   0  -3
 Getafe              1   0   0   1   0  -3
 
 La Liga Fixtures
 ----------------
-Monday, August 17
-  Deportivo            1–1   Elche
 Wednesday, August 19
   Atlético Madrid      2–0   Málaga
 Thursday, August 20
-  Rayo Vallecano       vs    Alavés
+  Rayo Vallecano       1–1   Alavés
 Friday, August 21
   Real Betis           vs    Real Sociedad
 Saturday, August 22
@@ -291,6 +294,9 @@ Sunday, August 23
   Atlético Madrid      vs    Villarreal
   Getafe               vs    Racing Santander
   Elche                vs    Barcelona
+Monday, August 24
+  Osasuna              vs    Levante
+  Málaga               vs    Deportivo
 
 
 Scottish Premiership
@@ -344,9 +350,6 @@ FC Juarez           4   0   0   4   0 -11
 
 Liga MX Fixtures
 ----------------
-Tuesday, August 18
-  Necaxa               1–2   León
-  Pachuca              2–3   Puebla
 Saturday, August 22
   León                 vs    Monterrey
   Tigres UANL          vs    Atlante
@@ -402,4 +405,4 @@ ESP Villarreal          8   0   1   7   1 -13
 KAZ Kairat Almaty       8   0   1   7   1 -15
 
 
-Standings from ESPN.com 08.20.26
+Standings from ESPN.com 08.21.26
