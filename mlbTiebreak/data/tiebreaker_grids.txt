@@ -43,13 +43,13 @@ NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
 ARI          -     ARI     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     ARI     ARI     ARI     WSN
-ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     MIL     NYM     ATL     ATL     SDP     SFG     STL     ATL
+ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     STL     ATL
 CHC        CHC     ATL       -     CHC     CHC     CHC     CHC     MIL     CHC     CHC     CHC     CHC     CHC     STL     CHC
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     CIN     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
 LAD        ARI     ATL     CHC     LAD     LAD       -     MIA     MIL     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     MIA     PHI     MIA     SDP     MIA     MIA     MIA
-MIL        MIL     MIL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     SDP     SFG     MIL     WSN
+MIL        MIL     ATL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     SDP     SFG     MIL     WSN
 NYM        ARI     NYM     CHC     CIN     COL     LAD     MIA     MIL       -     PHI     NYM     NYM     NYM     STL     NYM
 PHI        ARI     ATL     CHC     PHI     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     PHI     PHI
 PIT        ARI     ATL     CHC     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     SFG     STL     PIT
@@ -62,11 +62,11 @@ NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 CHC    11-3 
 ARI    10-4 
-MIL    10-4 
 STL    10-4 
+ATL     9-5 
 MIA     9-5 
+MIL     9-5 
 PHI     9-5 
-ATL     8-6 
 LAD     7-7 
 SDP     7-7 
 NYM     5-9 
