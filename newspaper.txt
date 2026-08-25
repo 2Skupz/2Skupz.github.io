@@ -43,13 +43,13 @@ Arsenal             1   1   0   0   3   0   3   3                   Dundee      
 Brentford           1   1   0   0   3   0   3   3                   St Mirren           2   2   0   0   3   0   3   6
 Everton             1   1   0   0   2   0   2   3                   Motherwell          2   1   1   0   2   1   1   4
 Hull City           1   1   0   0   2   0   2   3                   Heart of Midlothia  2   1   0   1   5   2   3   3
-Ipswich Town        1   1   0   0   2   1   1   3                   St Johnstone        2   1   0   1   4   4   0   3
-Manchester City     1   1   0   0   2   1   1   3                   Hibernian           2   1   0   1   3   3   0   3
-Leeds United        1   1   0   0   1   0   1   3                   Aberdeen            2   1   0   1   2   3  -1   3
-Liverpool           1   0   1   0   2   2   0   1                   Rangers             2   0   1   1   2   3  -1   1
-Newcastle United    1   0   1   0   2   2   0   1                   Falkirk             2   0   1   1   0   2  -2   1
-Chelsea             0   0   0   0   0   0   0   0                   Dundee United       3   0   1   2   1   7  -6   1
-Fulham              0   0   0   0   0   0   0   0                   Kilmarnock          2   0   0   2   4   9  -5   0
+Chelsea             1   1   0   0   3   2   1   3                   St Johnstone        2   1   0   1   4   4   0   3
+Ipswich Town        1   1   0   0   2   1   1   3                   Hibernian           2   1   0   1   3   3   0   3
+Manchester City     1   1   0   0   2   1   1   3                   Aberdeen            2   1   0   1   2   3  -1   3
+Leeds United        1   1   0   0   1   0   1   3                   Rangers             2   0   1   1   2   3  -1   1
+Liverpool           1   0   1   0   2   2   0   1                   Falkirk             2   0   1   1   0   2  -2   1
+Newcastle United    1   0   1   0   2   2   0   1                   Dundee United       3   0   1   2   1   7  -6   1
+Fulham              1   0   0   1   2   3  -1   0                   Kilmarnock          2   0   0   2   4   9  -5   0
 AFC Bournemouth     1   0   0   1   1   2  -1   0                   
 Sunderland          1   0   0   1   1   2  -1   0                   
 Nottingham Forest   1   0   0   1   0   1  -1   0                   
@@ -61,12 +61,10 @@ Aston Villa         1   0   0   1   0   4  -4   0
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Friday, August 21                                                   Saturday, August 22
-  Arsenal              3–0   Coventry City                            Rangers              0–0   St Mirren
-Saturday, August 22                                                   St Johnstone         0–0   Celtic
-  Hull City            2–0   Manchester United                        Dundee United        0–2   Dundee
-  Everton              2–0   Crystal Palace                         
-  Ipswich Town         2–1   Sunderland                             
+Saturday, August 22                                                 Saturday, August 22
+  Hull City            2–0   Manchester United                        Rangers              0–0   St Mirren
+  Everton              2–0   Crystal Palace                           St Johnstone         0–0   Celtic
+  Ipswich Town         2–1   Sunderland                               Dundee United        0–2   Dundee
   Nottingham Forest    0–1   Leeds United                           
   Brentford            3–0   Tottenham Hotspur                      
 Sunday, August 23                                                   
@@ -74,53 +72,56 @@ Sunday, August 23
   Manchester City      2–1   AFC Bournemouth                        
   Newcastle United     2–2   Liverpool                              
 Monday, August 24                                                   
-  Fulham               vs    Chelsea                                
+  Fulham               2–3   Chelsea                                
+Friday, August 28                                                   
+  Crystal Palace       vs    Manchester City                        
 
 La Liga                                                             Serie A
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
-Sevilla             2   2   0   0   5   2   3   6                   Internazionale      1   1   0   0   4   1   3   3
-Alavés              2   1   1   0   4   1   3   4                   Lecce               1   1   0   0   2   0   2   3
-Atlético Madrid     2   1   1   0   4   2   2   4                   Napoli              1   1   0   0   2   0   2   3
-Barcelona           1   1   0   0   5   0   5   3                   AC Milan            1   1   0   0   2   1   1   3
-Espanyol            2   1   0   1   4   2   2   3                   Atalanta            1   1   0   0   2   1   1   3
-Real Madrid         1   1   0   0   2   1   1   3                   Cagliari            1   1   0   0   1   0   1   3
-Real Betis          1   1   0   0   1   0   1   3                   Juventus            1   1   0   0   1   0   1   3
-Getafe              2   1   0   1   1   3  -2   3                   Como                1   0   1   0   1   1   0   1
-Villarreal          2   0   2   0   4   4   0   2                   Udinese             1   0   1   0   1   1   0   1
-Deportivo           1   0   1   0   1   1   0   1                   Bologna             0   0   0   0   0   0   0   0
-Valencia            1   0   1   0   0   0   0   1                   Fiorentina          0   0   0   0   0   0   0   0
-Celta Vigo          1   0   1   0   0   0   0   1                   Lazio               0   0   0   0   0   0   0   0
-Racing Santander    2   0   1   1   2   3  -1   1                   AS Roma             0   0   0   0   0   0   0   0
-Rayo Vallecano      2   0   1   1   2   3  -1   1                   Sassuolo            1   0   0   1   1   2  -1   0
-Elche               2   0   1   1   1   6  -5   1                   Torino              1   0   0   1   1   2  -1   0
-Osasuna             0   0   0   0   0   0   0   0                   Frosinone           1   0   0   1   0   1  -1   0
-Real Sociedad       1   0   0   1   0   1  -1   0                   Parma               1   0   0   1   0   1  -1   0
-Athletic Club       1   0   0   1   1   3  -2   0                   Genoa               1   0   0   1   0   2  -2   0
-Málaga              1   0   0   1   0   2  -2   0                   Venezia             1   0   0   1   0   2  -2   0
-Levante             1   0   0   1   0   3  -3   0                   Monza               1   0   0   1   1   4  -3   0
+Sevilla             2   2   0   0   5   2   3   6                   AS Roma             1   1   0   0   4   0   4   3
+Alavés              2   1   1   0   4   1   3   4                   Internazionale      1   1   0   0   4   1   3   3
+Atlético Madrid     2   1   1   0   4   2   2   4                   Lecce               1   1   0   0   2   0   2   3
+Barcelona           1   1   0   0   5   0   5   3                   Napoli              1   1   0   0   2   0   2   3
+Espanyol            2   1   0   1   4   2   2   3                   AC Milan            1   1   0   0   2   1   1   3
+Real Madrid         1   1   0   0   2   1   1   3                   Atalanta            1   1   0   0   2   1   1   3
+Real Betis          1   1   0   0   1   0   1   3                   Cagliari            1   1   0   0   1   0   1   3
+Getafe              2   1   0   1   1   3  -2   3                   Juventus            1   1   0   0   1   0   1   3
+Villarreal          2   0   2   0   4   4   0   2                   Lazio               1   1   0   0   1   0   1   3
+Deportivo           2   0   2   0   2   2   0   2                   Como                1   0   1   0   1   1   0   1
+Osasuna             1   0   1   0   0   0   0   1                   Udinese             1   0   1   0   1   1   0   1
+Valencia            1   0   1   0   0   0   0   1                   Sassuolo            1   0   0   1   1   2  -1   0
+Celta Vigo          1   0   1   0   0   0   0   1                   Torino              1   0   0   1   1   2  -1   0
+Racing Santander    2   0   1   1   2   3  -1   1                   Bologna             1   0   0   1   0   1  -1   0
+Rayo Vallecano      2   0   1   1   2   3  -1   1                   Frosinone           1   0   0   1   0   1  -1   0
+Málaga              2   0   1   1   1   3  -2   1                   Parma               1   0   0   1   0   1  -1   0
+Levante             2   0   1   1   0   3  -3   1                   Genoa               1   0   0   1   0   2  -2   0
+Elche               2   0   1   1   1   6  -5   1                   Venezia             1   0   0   1   0   2  -2   0
+Real Sociedad       1   0   0   1   0   1  -1   0                   Monza               1   0   0   1   1   4  -3   0
+Athletic Club       1   0   0   1   1   3  -2   0                   Fiorentina          1   0   0   1   0   4  -4   0
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Friday, August 21                                                   Saturday, August 22
-  Real Betis           1–0   Real Sociedad                            Internazionale       4–1   Monza
-Saturday, August 22                                                   Udinese              1–1   Como
-  Athletic Club        1–3   Sevilla                                  Genoa                0–2   Napoli
-  Valencia             0–0   Celta Vigo                               Parma                0–1   Cagliari
-  Espanyol             1–2   Real Madrid                            Sunday, August 23
-Sunday, August 23                                                     Frosinone            0–1   Juventus
-  Atlético Madrid      2–2   Villarreal                               Venezia              0–2   Lecce
-  Getafe               1–0   Racing Santander                         Atalanta             2–1   Sassuolo
-  Elche                0–5   Barcelona                                Torino               1–2   AC Milan
-Monday, August 24                                                   Monday, August 24
-  Osasuna              vs    Levante                                  Bologna              vs    Lazio
-  Málaga               vs    Deportivo                                AS Roma              vs    Fiorentina
-Tuesday, August 25                                                  
-  Valencia             vs    Real Betis                             
-Wednesday, August 26                                                
-  Real Madrid          vs    Real Sociedad                          
+Saturday, August 22                                                 Saturday, August 22
+  Athletic Club        1–3   Sevilla                                  Internazionale       4–1   Monza
+  Valencia             0–0   Celta Vigo                               Udinese              1–1   Como
+  Espanyol             1–2   Real Madrid                              Genoa                0–2   Napoli
+Sunday, August 23                                                     Parma                0–1   Cagliari
+  Atlético Madrid      2–2   Villarreal                             Sunday, August 23
+  Getafe               1–0   Racing Santander                         Frosinone            0–1   Juventus
+  Elche                0–5   Barcelona                                Venezia              0–2   Lecce
+Monday, August 24                                                     Atalanta             2–1   Sassuolo
+  Osasuna              0–0   Levante                                  Torino               1–2   AC Milan
+  Málaga               1–1   Deportivo                              Monday, August 24
+Tuesday, August 25                                                    Bologna              0–1   Lazio
+  Valencia             vs    Real Betis                               AS Roma              4–0   Fiorentina
+Wednesday, August 26                                                Friday, August 28
+  Real Madrid          vs    Real Sociedad                            AC Milan             vs    Venezia
 Thursday, August 27                                                 
   Celta Vigo           vs    Osasuna                                
   Barcelona            vs    Athletic Club                          
+Friday, August 28                                                   
+  Racing Santander     vs    Elche                                  
+  Alavés               vs    Villarreal                             
 
 Bundesliga                                                          Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -143,12 +144,10 @@ VfB Stuttgart       0   0   0   0   0   0   0   0                   Angers      
 1. FC Union Berlin  0   0   0   0   0   0   0   0                   AJ Auxerre          1   0   0   1   2   5  -3   0
 Werder Bremen       0   0   0   0   0   0   0   0                   Strasbourg          1   0   0   1   0   4  -4   0
 
-                                                                    Ligue 1 Fixtures
-                                                                    ----------------
-                                                                    Friday, August 21
-                                                                      Marseille            4–0   Strasbourg
-                                                                    Saturday, August 22
-                                                                      Lens                 5–2   AJ Auxerre
+Bundesliga Fixtures                                                 Ligue 1 Fixtures
+-------------------                                                 ----------------
+Friday, August 28                                                   Saturday, August 22
+  Bayern Munich        vs    VfB Stuttgart                            Lens                 5–2   AJ Auxerre
                                                                       Le Mans              2–2   Brest
                                                                       Nice                 0–0   Lorient
                                                                       Toulouse             0–2   Lyon
@@ -157,16 +156,18 @@ Werder Bremen       0   0   0   0   0   0   0   0                   Strasbourg  
                                                                       Angers               0–2   Lille
                                                                       Le Havre AC          0–1   AS Monaco
                                                                       Stade Rennais        2–2   Paris S-G
+                                                                    Friday, August 28
+                                                                      Lille                vs    Paris S-G
 
 Allsvenskan                                                         Liga MX
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
 IK Sirius          18  13   3   2  47  26  21  42                   América             5   4   1   0  10   2   8  13
 Hammarby IF        18  11   3   4  42  15  27  36                   Atlas               5   4   0   1   8   5   3  12
 BK Häcken          18   8   7   3  32  26   6  31                   Toluca              5   3   1   1   8   4   4  10
-IF Elfsborg        18   7   7   4  25  19   6  28                   Guadalajara         5   3   1   1   8   5   3  10
-AIK                17   8   4   5  25  25   0  28                   Puebla              5   3   1   1   9   7   2  10
-Djurgården         16   8   2   6  34  19  15  26                   Tijuana             5   3   1   1   8   7   1  10
-Malmö FF           17   8   2   7  32  27   5  26                   Monterrey           5   3   0   2  12   7   5   9
+Djurgården         17   9   2   6  37  19  18  29                   Guadalajara         5   3   1   1   8   5   3  10
+IF Elfsborg        18   7   7   4  25  19   6  28                   Puebla              5   3   1   1   9   7   2  10
+AIK                17   8   4   5  25  25   0  28                   Tijuana             5   3   1   1   8   7   1  10
+Malmö FF           18   8   2   8  32  30   2  26                   Monterrey           5   3   0   2  12   7   5   9
 Västerås SK        18   7   5   6  25  32  -7  26                   León                5   3   0   2   7   5   2   9
 IF Brommapojkarna  18   6   6   6  27  27   0  24                   Pumas UNAM          5   2   2   1   8   6   2   8
 GAIS               18   6   5   7  21  18   3  23                   Querétaro           5   2   1   2   6   6   0   7
@@ -181,18 +182,18 @@ Halmstads BK       18   1   5  12  12  35 -23   8                   Atlético de
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Friday, August 21                                                   Saturday, August 22
-  IK Sirius            0–3   BK Häcken                                León                 2–0   Monterrey
-Saturday, August 22                                                   Tigres UANL          2–0   Atlante
-  Örgryte IS           1–1   Halmstads BK                             FC Juarez            1–2   América
-Sunday, August 23                                                     Querétaro            1–2   Toluca
-  IFK Göteborg         1–1   IF Elfsborg                              Guadalajara          5–2   Tijuana
-  Västerås SK          0–0   Kalmar FF                              Sunday, August 23
-  Hammarby IF          2–0   GAIS                                     Puebla               3–2   Santos
-  IF Brommapojkarna    2–0   Degerfors IF                             Cruz Azul            0–2   Atlas
-Monday, August 24                                                     Atlético de San Lu   1–1   Pachuca
-  Malmö FF             vs    Djurgården                             Monday, August 24
-                                                                      Pumas UNAM           1–1   Necaxa
+Saturday, August 22                                                 Saturday, August 22
+  Örgryte IS           1–1   Halmstads BK                             Guadalajara          5–2   Tijuana
+Sunday, August 23                                                   Sunday, August 23
+  IFK Göteborg         1–1   IF Elfsborg                              Puebla               3–2   Santos
+  Västerås SK          0–0   Kalmar FF                                Cruz Azul            0–2   Atlas
+  Hammarby IF          2–0   GAIS                                     Atlético de San Lu   1–1   Pachuca
+  IF Brommapojkarna    2–0   Degerfors IF                           Monday, August 24
+Monday, August 24                                                     Pumas UNAM           1–1   Necaxa
+  Malmö FF             0–3   Djurgården                             Saturday, August 29
+                                                                      Atlante              vs    León
+                                                                      Necaxa               vs    Cruz Azul
+                                                                      Tijuana              vs    Pumas UNAM
 
 
 
@@ -236,4 +237,4 @@ ESP Villarreal          8   0   1   7   5  18 -13   1
 KAZ Kairat Almaty       8   0   1   7   7  22 -15   1               
 
 
-Standings from ESPN.com 08.24.26
+Standings from ESPN.com 08.25.26
