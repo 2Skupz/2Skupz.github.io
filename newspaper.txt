@@ -18,9 +18,6 @@ Sporting KC        21   4   3  14  20  51 -31  15                   Columbus    
 
 MLS Fixtures
 ------------
-Sunday, August 23
-  New England          1–1   New York City
-  Atlanta              2–1   Sporting KC
 Saturday, August 29
   Seattle              vs    Chicago
   Atlanta              vs    Charlotte
@@ -37,6 +34,7 @@ Sunday, August 30
   Colorado             vs    Real Salt Lake
   Portland             vs    Austin
   San Diego            vs    Galaxy
+  St. Louis            vs    Dallas
 
 Premier League                                                      Scottish Premiership
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -63,29 +61,30 @@ Aston Villa         1   0   0   1   0   4  -4   0
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Sunday, August 23                                                   Saturday, August 29
-  Brighton & Hove Al   4–0   Aston Villa                              Celtic               vs    Falkirk
-  Manchester City      2–1   AFC Bournemouth                          Heart of Midlothia   vs    St Johnstone
-  Newcastle United     2–2   Liverpool                                Kilmarnock           vs    Dundee United
-Monday, August 24                                                   
-  Fulham               2–3   Chelsea                                
-Friday, August 28                                                   
-  Crystal Palace       vs    Manchester City                        
-Saturday, August 29                                                 
-  Liverpool            vs    Nottingham Forest                      
-  AFC Bournemouth      vs    Everton                                
-  Coventry City        vs    Hull City                              
+Monday, August 24                                                   Saturday, August 29
+  Fulham               2–3   Chelsea                                  Celtic               vs    Falkirk
+Friday, August 28                                                     Heart of Midlothia   vs    St Johnstone
+  Crystal Palace       vs    Manchester City                          Kilmarnock           vs    Dundee United
+Saturday, August 29                                                 Sunday, August 30
+  Liverpool            vs    Nottingham Forest                        Aberdeen             vs    Rangers
+  AFC Bournemouth      vs    Everton                                  Dundee               vs    Hibernian
+  Coventry City        vs    Hull City                                St Mirren            vs    Motherwell
   Tottenham Hotspur    vs    Newcastle United                       
+Sunday, August 30                                                   
+  Chelsea              vs    Brighton & Hove Al                     
+  Leeds United         vs    Brentford                              
+  Sunderland           vs    Fulham                                 
+  Manchester United    vs    Ipswich Town                           
 
 La Liga                                                             Serie A
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
-Sevilla             2   2   0   0   5   2   3   6                   AS Roma             1   1   0   0   4   0   4   3
-Real Betis          2   2   0   0   2   0   2   6                   Internazionale      1   1   0   0   4   1   3   3
-Alavés              2   1   1   0   4   1   3   4                   Lecce               1   1   0   0   2   0   2   3
-Atlético Madrid     2   1   1   0   4   2   2   4                   Napoli              1   1   0   0   2   0   2   3
-Barcelona           1   1   0   0   5   0   5   3                   AC Milan            1   1   0   0   2   1   1   3
-Espanyol            2   1   0   1   4   2   2   3                   Atalanta            1   1   0   0   2   1   1   3
-Real Madrid         1   1   0   0   2   1   1   3                   Cagliari            1   1   0   0   1   0   1   3
+Real Madrid         2   2   0   0   6   2   4   6                   AS Roma             1   1   0   0   4   0   4   3
+Sevilla             2   2   0   0   5   2   3   6                   Internazionale      1   1   0   0   4   1   3   3
+Real Betis          2   2   0   0   2   0   2   6                   Lecce               1   1   0   0   2   0   2   3
+Alavés              2   1   1   0   4   1   3   4                   Napoli              1   1   0   0   2   0   2   3
+Atlético Madrid     2   1   1   0   4   2   2   4                   AC Milan            1   1   0   0   2   1   1   3
+Barcelona           1   1   0   0   5   0   5   3                   Atalanta            1   1   0   0   2   1   1   3
+Espanyol            2   1   0   1   4   2   2   3                   Cagliari            1   1   0   0   1   0   1   3
 Getafe              2   1   0   1   1   3  -2   3                   Juventus            1   1   0   0   1   0   1   3
 Villarreal          2   0   2   0   4   4   0   2                   Lazio               1   1   0   0   1   0   1   3
 Deportivo           2   0   2   0   2   2   0   2                   Como                1   0   1   0   1   1   0   1
@@ -97,32 +96,32 @@ Valencia            2   0   1   1   0   1  -1   1                   Frosinone   
 Málaga              2   0   1   1   1   3  -2   1                   Parma               1   0   0   1   0   1  -1   0
 Levante             2   0   1   1   0   3  -3   1                   Genoa               1   0   0   1   0   2  -2   0
 Elche               2   0   1   1   1   6  -5   1                   Venezia             1   0   0   1   0   2  -2   0
-Real Sociedad       1   0   0   1   0   1  -1   0                   Monza               1   0   0   1   1   4  -3   0
-Athletic Club       1   0   0   1   1   3  -2   0                   Fiorentina          1   0   0   1   0   4  -4   0
+Athletic Club       1   0   0   1   1   3  -2   0                   Monza               1   0   0   1   1   4  -3   0
+Real Sociedad       2   0   0   2   1   5  -4   0                   Fiorentina          1   0   0   1   0   4  -4   0
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Sunday, August 23                                                   Sunday, August 23
-  Atlético Madrid      2–2   Villarreal                               Frosinone            0–1   Juventus
-  Getafe               1–0   Racing Santander                         Venezia              0–2   Lecce
-  Elche                0–5   Barcelona                                Atalanta             2–1   Sassuolo
-Monday, August 24                                                     Torino               1–2   AC Milan
-  Osasuna              0–0   Levante                                Monday, August 24
-  Málaga               1–1   Deportivo                                Bologna              0–1   Lazio
-Tuesday, August 25                                                    AS Roma              4–0   Fiorentina
-  Valencia             0–1   Real Betis                             Friday, August 28
-Wednesday, August 26                                                  AC Milan             vs    Venezia
-  Real Madrid          vs    Real Sociedad                          Saturday, August 29
-Thursday, August 27                                                   Fiorentina           vs    Frosinone
-  Celta Vigo           vs    Osasuna                                  Monza                vs    Udinese
-  Barcelona            vs    Athletic Club                            Sassuolo             vs    Torino
-Friday, August 28                                                     Juventus             vs    Parma
-  Racing Santander     vs    Elche                                  
-  Alavés               vs    Villarreal                             
-Saturday, August 29                                                 
+Monday, August 24                                                   Monday, August 24
+  Osasuna              0–0   Levante                                  Bologna              0–1   Lazio
+  Málaga               1–1   Deportivo                                AS Roma              4–0   Fiorentina
+Tuesday, August 25                                                  Friday, August 28
+  Valencia             0–1   Real Betis                               AC Milan             vs    Venezia
+Wednesday, August 26                                                Saturday, August 29
+  Real Madrid          4–1   Real Sociedad                            Fiorentina           vs    Frosinone
+Thursday, August 27                                                   Monza                vs    Udinese
+  Celta Vigo           vs    Osasuna                                  Sassuolo             vs    Torino
+  Barcelona            vs    Athletic Club                            Juventus             vs    Parma
+Friday, August 28                                                   Sunday, August 30
+  Racing Santander     vs    Elche                                    Napoli               vs    Como
+  Alavés               vs    Villarreal                               Cagliari             vs    Internazionale
+Saturday, August 29                                                   Lazio                vs    Genoa
   Levante              vs    Real Betis                             
   Real Sociedad        vs    Espanyol                               
   Sevilla              vs    Atlético Madrid                        
+Sunday, August 30                                                   
+  Real Madrid          vs    Málaga                                 
+  Deportivo            vs    Valencia                               
+  Celta Vigo           vs    Athletic Club                          
 
 Bundesliga                                                          Ligue 1
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -132,7 +131,7 @@ Bayern Munich       0   0   0   0   0   0   0   0                   Lille       
 Borussia Dortmund   0   0   0   0   0   0   0   0                   Lyon                1   1   0   0   2   0   2   3
 Borussia Mönchengl  0   0   0   0   0   0   0   0                   AS Monaco           1   1   0   0   1   0   1   3
 E. Frankfurt        0   0   0   0   0   0   0   0                   Brest               1   0   1   0   2   2   0   1
-SV Elversberg       0   0   0   0   0   0   0   0                   Le Mans             1   0   1   0   2   2   0   1
+SV ELVERSBERG       0   0   0   0   0   0   0   0                   Le Mans             1   0   1   0   2   2   0   1
 FC Cologne          0   0   0   0   0   0   0   0                   Paris S-G           1   0   1   0   2   2   0   1
 SC Freiburg         0   0   0   0   0   0   0   0                   Stade Rennais       1   0   1   0   2   2   0   1
 Hamburg SV          0   0   0   0   0   0   0   0                   Lorient             1   0   1   0   0   0   0   1
@@ -147,18 +146,18 @@ Werder Bremen       0   0   0   0   0   0   0   0                   Strasbourg  
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Friday, August 28                                                   Sunday, August 23
-  Bayern Munich        vs    VfB Stuttgart                            Angers               0–2   Lille
-Saturday, August 29                                                   Le Havre AC          0–1   AS Monaco
-  1. FC Union Berlin   vs    E. Frankfurt                             Stade Rennais        2–2   Paris S-G
-  FC Cologne           vs    TSG Hoffenheim                         Friday, August 28
-  Mainz                vs    SC Paderborn 07                          Lille                vs    Paris S-G
-  RB Leipzig           vs    Borussia Mönchengl                     Saturday, August 29
-  SV Elversberg        vs    Bayer Leverkusen                         Strasbourg           vs    Lens
-  Borussia Dortmund    vs    Hamburg SV                               AJ Auxerre           vs    Angers
-                                                                      Brest                vs    Toulouse
-                                                                      Lorient              vs    Troyes
-                                                                      Lyon                 vs    Le Havre AC
+Friday, August 28                                                   Friday, August 28
+  Bayern Munich        vs    VfB Stuttgart                            Lille                vs    Paris S-G
+Saturday, August 29                                                 Saturday, August 29
+  1. FC Union Berlin   vs    E. Frankfurt                             Strasbourg           vs    Lens
+  FC Cologne           vs    TSG Hoffenheim                           AJ Auxerre           vs    Angers
+  Mainz                vs    SC Paderborn 07                          Brest                vs    Toulouse
+  RB Leipzig           vs    Borussia Mönchengl                       Lorient              vs    Troyes
+  SV ELVERSBERG        vs    Bayer Leverkusen                         Lyon                 vs    Le Havre AC
+  Borussia Dortmund    vs    Hamburg SV                             Sunday, August 30
+Sunday, August 30                                                     Paris FC             vs    Nice
+  SC Freiburg          vs    Werder Bremen                            Stade Rennais        vs    Le Mans
+  FC Augsburg          vs    Schalke 04                               AS Monaco            vs    Marseille
 
 Allsvenskan                                                         Liga MX
 Squad              MP   W   D   L  GF  GA  GD Pts                   Squad              MP   W   D   L  GF  GA  GD Pts
@@ -183,19 +182,18 @@ Halmstads BK       18   1   5  12  12  35 -23   8                   Atlético de
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Sunday, August 23                                                   Sunday, August 23
-  IFK Göteborg         1–1   IF Elfsborg                              Atlético de San Lu   1–1   Pachuca
-  Västerås SK          0–0   Kalmar FF                              Monday, August 24
-  Hammarby IF          2–0   GAIS                                     Pumas UNAM           1–1   Necaxa
-  IF Brommapojkarna    2–0   Degerfors IF                           Saturday, August 29
-Monday, August 24                                                     Atlante              vs    León
-  Malmö FF             0–3   Djurgården                               Necaxa               vs    Cruz Azul
-Saturday, August 29                                                   Tijuana              vs    Pumas UNAM
-  BK Häcken            vs    Västerås SK                              Atlas                vs    Querétaro
-  IF Elfsborg          vs    Degerfors IF                             Pachuca              vs    Guadalajara
-  Halmstads BK         vs    Kalmar FF                              Sunday, August 30
-                                                                      América              vs    Puebla
-                                                                      Santos               vs    Tigres UANL
+Monday, August 24                                                   Saturday, August 29
+  Malmö FF             0–3   Djurgården                               Atlante              vs    León
+Saturday, August 29                                                   Necaxa               vs    Cruz Azul
+  BK Häcken            vs    Västerås SK                              Tijuana              vs    Pumas UNAM
+  IF Elfsborg          vs    Degerfors IF                             Atlas                vs    Querétaro
+  Halmstads BK         vs    Kalmar FF                                Pachuca              vs    Guadalajara
+Sunday, August 30                                                   Sunday, August 30
+  AIK                  vs    Hammarby IF                              América              vs    Puebla
+  IFK Göteborg         vs    Örgryte IS                               Santos               vs    Tigres UANL
+                                                                    Monday, August 31
+                                                                      Toluca               vs    FC Juarez
+                                                                      Monterrey            vs    Atlético de San Lu
 
 
 
@@ -239,4 +237,4 @@ ESP Villarreal          8   0   1   7   5  18 -13   1
 KAZ Kairat Almaty       8   0   1   7   7  22 -15   1               
 
 
-Standings from ESPN.com 08.26.26
+Standings from ESPN.com 08.27.26
