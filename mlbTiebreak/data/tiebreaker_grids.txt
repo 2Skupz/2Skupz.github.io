@@ -7,7 +7,7 @@ AMERICAN LEAGUE
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 ATH          -     ATH     BOS     CHW     CLE     DET     ATH     KCR     ATH     ATH     NYY     SEA     TBR     ATH     TOR
 BAL        ATH       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     MIN     NYY     SEA     BAL     TEX     TOR
-BOS        BOS     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS     MIN     BOS     BOS     TBR     BOS     TOR
+BOS        BOS     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS     MIN     NYY     BOS     TBR     BOS     TOR
 CHW        CHW     BAL     BOS       -     CHW     CHW     HOU     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
 DET        DET     BAL     BOS     CHW     CLE       -     HOU     KCR     LAA     MIN     DET     DET     DET     DET     TOR
@@ -15,7 +15,7 @@ HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU  
 KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
 LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
 MIN        ATH     MIN     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
-NYY        NYY     NYY     BOS     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
+NYY        NYY     NYY     NYY     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     BOS     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     SEA
 TBR        TBR     BAL     TBR     TBR     TBR     DET     HOU     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
@@ -23,9 +23,9 @@ TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR  
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
+NYY    11-3 
 TBR    11-3 
-BOS    10-4 
-NYY    10-4 
+BOS     9-5 
 CHW     9-5 
 MIN     9-5 
 HOU     8-6 
