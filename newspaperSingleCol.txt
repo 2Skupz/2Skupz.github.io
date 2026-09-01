@@ -1,419 +1,429 @@
 MLS West
 --------
-Squad              MP   W   D   L  Pt  GD
-Vancouver Whitecap 21  13   4   4  43  30
-Houston            22  12   3   7  39   4
-LAFC               23  10   6   7  36  14
-San Jose           22  10   4   8  34   6
-Dallas             22   9   7   6  34   4
-St. Louis          22   9   7   6  34   3
-Colorado           22  10   1  11  31   3
-San Diego          22   8   6   8  30   7
-Minnesota          22   7   8   7  29  -2
-Real Salt Lake     21   8   4   9  28   1
-Portland           22   8   4  10  28   0
-Seattle            21   7   5   9  26  -5
-Galaxy             23   6   8   9  26  -7
-Austin             22   6   6  10  24 -13
-Sporting KC        22   4   3  15  15 -34
+Squad                  MP   W   D   L  Pt  GD
+Vancouver Whitecaps    21  13   4   4  43  30
+Houston                22  12   3   7  39   4
+LAFC                   23  10   6   7  36  14
+San Jose               22  10   4   8  34   6
+Dallas                 22   9   7   6  34   4
+St. Louis              22   9   7   6  34   3
+Colorado               22  10   1  11  31   3
+San Diego              22   8   6   8  30   7
+Minnesota              22   7   8   7  29  -2
+Real Salt Lake         21   8   4   9  28   1
+Portland               22   8   4  10  28   0
+Seattle                21   7   5   9  26  -5
+Galaxy                 23   6   8   9  26  -7
+Austin                 22   6   6  10  24 -13
+Sporting KC            22   4   3  15  15 -34
 
-MLS Fixtures
-------------
+MLS West Fixtures
+-----------------
 Saturday, August 29
-  Seattle              2–2   Chicago
-  Atlanta              0–2   Charlotte
-  DC United            0–0   LAFC
-  Inter Miami          7–1   Montreal
-  Red Bull New York    1–3   Philadelphia
-  Toronto              1–1   New York City
+  Seattle                2–2   Chicago
+  DC United              0–0   LAFC
 Sunday, August 30
-  Houston              0–0   San Jose
-  Minnesota            3–3   Orlando City SC
-  Nashville            4–0   Cincinnati
-  Sporting KC          0–3   Vancouver Whitecap
-  Colorado             1–0   Real Salt Lake
-  Portland             1–2   Austin
-  San Diego            3–1   Galaxy
-  Columbus             1–3   New England
-  St. Louis            3–3   Dallas
+  Houston                0–0   San Jose
+  Minnesota              3–3   Orlando City SC
+  Sporting KC            0–3   Vancouver Whitecaps
+  Colorado               1–0   Real Salt Lake
+  Portland               1–2   Austin
+  San Diego              3–1   Galaxy
+  St. Louis              3–3   Dallas
 
 
 MLS East
 --------
-Squad              MP   W   D   L  Pt  GD
-Nashville          22  16   4   2  52  30
-Inter Miami        22  12   6   4  42  15
-Chicago            21  11   4   6  37  11
-New England        22  11   4   7  37   9
-Charlotte          22  10   5   7  35   8
-Cincinnati         22   8   7   7  31  -2
-New York City      22   7   7   8  28   5
-Red Bull New York  22   7   5  10  26 -14
-Orlando City SC    22   7   4  11  25 -17
-Toronto            22   5  10   7  25  -6
-DC United          22   5  10   7  25  -8
-Philadelphia       22   6   6  10  24  -5
-Atlanta            22   6   3  13  21 -13
-Montreal           22   5   6  11  21 -16
-Columbus           22   5   5  12  20  -8
+Squad                  MP   W   D   L  Pt  GD
+Nashville              22  16   4   2  52  30
+Inter Miami            22  12   6   4  42  15
+Chicago                21  11   4   6  37  11
+New England            22  11   4   7  37   9
+Charlotte              22  10   5   7  35   8
+Cincinnati             22   8   7   7  31  -2
+New York City          22   7   7   8  28   5
+Red Bull New York      22   7   5  10  26 -14
+Orlando City SC        22   7   4  11  25 -17
+Toronto                22   5  10   7  25  -6
+DC United              22   5  10   7  25  -8
+Philadelphia           22   6   6  10  24  -5
+Atlanta                22   6   3  13  21 -13
+Montreal               22   5   6  11  21 -16
+Columbus               22   5   5  12  20  -8
+
+MLS East Fixtures
+-----------------
+Saturday, August 29
+  Seattle                2–2   Chicago
+  Atlanta                0–2   Charlotte
+  DC United              0–0   LAFC
+  Inter Miami            7–1   Montreal
+  Red Bull New York      1–3   Philadelphia
+  Toronto                1–1   New York City
+Sunday, August 30
+  Minnesota              3–3   Orlando City SC
+  Nashville              4–0   Cincinnati
+  Columbus               1–3   New England
+Friday, September 04
+  New York City          vs    Nashville
 
 
 Allsvenskan
 -----------
-Squad              MP   W   D   L  Pt  GD
-IK Sirius          18  13   3   2  42  21
-Hammarby IF        19  11   3   5  36  26
-IF Elfsborg        19   8   7   4  31   8
-BK Häcken          19   8   7   4  31   4
-AIK                18   9   4   5  31   1
-Djurgården         17   9   2   6  29  18
-Västerås SK        19   8   5   6  29  -5
-Malmö FF           18   8   2   8  26   2
-IF Brommapojkarna  18   6   6   6  24   0
-GAIS               18   6   5   7  23   3
-IFK Göteborg       19   6   5   8  23 -15
-Mjällby AIF        16   5   5   6  20   1
-Kalmar FF          19   5   4  10  19  -8
-Degerfors IF       19   4   4  11  16 -14
-Örgryte IS         19   3   5  11  14 -20
-Halmstads BK       19   2   5  12  11 -22
+Squad                  MP   W   D   L  Pt  GD
+IK Sirius              19  13   3   3  42  20
+Hammarby IF            19  11   3   5  36  26
+Djurgården             18  10   2   6  32  22
+IF Elfsborg            19   8   7   4  31   8
+BK Häcken              19   8   7   4  31   4
+AIK                    18   9   4   5  31   1
+Malmö FF               19   9   2   8  29   3
+Västerås SK            19   8   5   6  29  -5
+GAIS                   19   7   5   7  26   7
+IF Brommapojkarna      19   6   6   7  24  -4
+IFK Göteborg           19   6   5   8  23 -15
+Mjällby AIF            17   5   5   7  20  -3
+Kalmar FF              19   5   4  10  19  -8
+Degerfors IF           19   4   4  11  16 -14
+Örgryte IS             19   3   5  11  14 -20
+Halmstads BK           19   2   5  12  11 -22
 
 Allsvenskan Fixtures
 --------------------
 Saturday, August 29
-  BK Häcken            1–3   Västerås SK
-  IF Elfsborg          2–0   Degerfors IF
-  Halmstads BK         1–0   Kalmar FF
+  BK Häcken              1–3   Västerås SK
+  IF Elfsborg            2–0   Degerfors IF
+  Halmstads BK           1–0   Kalmar FF
 Sunday, August 30
-  AIK                  3–2   Hammarby IF
-  IFK Göteborg         1–0   Örgryte IS
+  AIK                    3–2   Hammarby IF
+  IFK Göteborg           1–0   Örgryte IS
 Monday, August 31
-  Djurgården           vs    Mjällby AIF
-  GAIS                 vs    IF Brommapojkarna
-  IK Sirius            vs    Malmö FF
+  Djurgården             4–0   Mjällby AIF
+  GAIS                   4–0   IF Brommapojkarna
+  IK Sirius              0–1   Malmö FF
 Thursday, September 03
-  Mjällby AIF          vs    Djurgården
+  Mjällby AIF            vs    Djurgården
 
 
 Bundesliga
 ----------
-Squad              MP   W   D   L  Pt  GD
-Bayern Munich       1   1   0   0   3   4
-SC Freiburg         1   1   0   0   3   3
-FC Augsburg         1   1   0   0   3   3
-RB Leipzig          1   1   0   0   3   3
-Borussia Dortmund   1   1   0   0   3   2
-SV Elversberg       1   1   0   0   3   1
-FC Cologne          1   1   0   0   3   1
-E. Frankfurt        1   0   1   0   1   0
-1. FC Union Berlin  1   0   1   0   1   0
-Mainz               1   0   1   0   1   0
-SC Paderborn 07     1   0   1   0   1   0
-Bayer Leverkusen    1   0   0   1   0  -1
-TSG Hoffenheim      1   0   0   1   0  -1
-Hamburg SV          1   0   0   1   0  -2
-Werder Bremen       1   0   0   1   0  -3
-Borussia Mönchengl  1   0   0   1   0  -3
-Schalke 04          1   0   0   1   0  -3
-VfB Stuttgart       1   0   0   1   0  -4
+Squad                  MP   W   D   L  Pt  GD
+Bayern Munich           1   1   0   0   3   4
+SC Freiburg             1   1   0   0   3   3
+FC Augsburg             1   1   0   0   3   3
+RB Leipzig              1   1   0   0   3   3
+Borussia Dortmund       1   1   0   0   3   2
+SV Elversberg           1   1   0   0   3   1
+FC Cologne              1   1   0   0   3   1
+E. Frankfurt            1   0   1   0   1   0
+1. FC Union Berlin      1   0   1   0   1   0
+Mainz                   1   0   1   0   1   0
+SC Paderborn 07         1   0   1   0   1   0
+Bayer Leverkusen        1   0   0   1   0  -1
+TSG Hoffenheim          1   0   0   1   0  -1
+Hamburg SV              1   0   0   1   0  -2
+Werder Bremen           1   0   0   1   0  -3
+M'gladbach              1   0   0   1   0  -3
+Schalke 04              1   0   0   1   0  -3
+VfB Stuttgart           1   0   0   1   0  -4
 
 Bundesliga Fixtures
 -------------------
-Friday, August 28
-  Bayern Munich        5–1   VfB Stuttgart
 Saturday, August 29
-  1. FC Union Berlin   3–3   E. Frankfurt
-  FC Cologne           3–2   TSG Hoffenheim
-  Mainz                0–0   SC Paderborn 07
-  RB Leipzig           3–0   Borussia Mönchengl
-  SV Elversberg        3–2   Bayer Leverkusen
-  Borussia Dortmund    2–0   Hamburg SV
+  1. FC Union Berlin     3–3   E. Frankfurt
+  FC Cologne             3–2   TSG Hoffenheim
+  Mainz                  0–0   SC Paderborn 07
+  RB Leipzig             3–0   M'gladbach
+  SV Elversberg          3–2   Bayer Leverkusen
+  Borussia Dortmund      2–0   Hamburg SV
 Sunday, August 30
-  SC Freiburg          4–1   Werder Bremen
-  FC Augsburg          3–0   Schalke 04
+  SC Freiburg            4–1   Werder Bremen
+  FC Augsburg            3–0   Schalke 04
+Friday, September 04
+  VfB Stuttgart          vs    FC Cologne
 
 
 Premier League
 --------------
-Squad              MP   W   D   L  Pt  GD
-Manchester City     2   2   0   0   6   4
-Hull City           2   2   0   0   6   3
-Chelsea             2   2   0   0   6   2
-Brentford           2   1   1   0   4   3
-Newcastle United    2   1   1   0   4   2
-Everton             2   1   1   0   4   2
-Leeds United        2   1   1   0   4   1
-Brighton & Hove Al  2   1   0   1   3   3
-Arsenal             1   1   0   0   3   3
-Manchester United   2   1   0   1   3   1
-Sunderland          2   1   0   1   3   0
-Ipswich Town        2   1   0   1   3  -2
-Liverpool           2   0   2   0   2   0
-AFC Bournemouth     2   0   1   1   1  -1
-Nottingham Forest   2   0   1   1   1  -1
-Fulham              2   0   0   2   0  -2
-Aston Villa         1   0   0   1   0  -4
-Coventry City       2   0   0   2   0  -4
-Crystal Palace      2   0   0   2   0  -5
-Tottenham Hotspur   2   0   0   2   0  -5
+Squad                  MP   W   D   L  Pt  GD
+Manchester City         2   2   0   0   6   4
+Arsenal                 2   2   0   0   6   4
+Hull City               2   2   0   0   6   3
+Chelsea                 2   2   0   0   6   2
+Brentford               2   1   1   0   4   3
+Newcastle United        2   1   1   0   4   2
+Everton                 2   1   1   0   4   2
+Leeds United            2   1   1   0   4   1
+Brighton & Hove Albion  2   1   0   1   3   3
+Manchester United       2   1   0   1   3   1
+Sunderland              2   1   0   1   3   0
+Ipswich Town            2   1   0   1   3  -2
+Liverpool               2   0   2   0   2   0
+AFC Bournemouth         2   0   1   1   1  -1
+Nottingham Forest       2   0   1   1   1  -1
+Fulham                  2   0   0   2   0  -2
+Coventry City           2   0   0   2   0  -4
+Crystal Palace          2   0   0   2   0  -5
+Aston Villa             2   0   0   2   0  -5
+Tottenham Hotspur       2   0   0   2   0  -5
 
 Premier League Fixtures
 -----------------------
-Friday, August 28
-  Crystal Palace       1–4   Manchester City
 Saturday, August 29
-  Liverpool            2–2   Nottingham Forest
-  AFC Bournemouth      1–1   Everton
-  Coventry City        0–1   Hull City
-  Tottenham Hotspur    0–2   Newcastle United
+  Liverpool              2–2   Nottingham Forest
+  AFC Bournemouth        1–1   Everton
+  Coventry City          0–1   Hull City
+  Tottenham Hotspur      0–2   Newcastle United
 Sunday, August 30
-  Chelsea              4–3   Brighton & Hove Al
-  Leeds United         1–1   Brentford
-  Sunderland           1–0   Fulham
-  Manchester United    5–2   Ipswich Town
+  Chelsea                4–3   Brighton & Hove Albion
+  Leeds United           1–1   Brentford
+  Sunderland             1–0   Fulham
+  Manchester United      5–2   Ipswich Town
 Monday, August 31
-  Aston Villa          vs    Arsenal
+  Aston Villa            0–1   Arsenal
+Friday, September 04
+  Ipswich Town           vs    Liverpool
 
 
 Ligue 1
 -------
-Squad              MP   W   D   L  Pt  GD
-AS Monaco           2   2   0   0   6   3
-Paris FC            2   1   1   0   4   3
-Lille               2   1   1   0   4   2
-Lyon                2   1   1   0   4   2
-Stade Rennais       2   1   1   0   4   1
-Troyes              2   1   1   0   4   1
-Lens                2   1   0   1   3   2
-Marseille           2   1   0   1   3   2
-Angers              2   1   0   1   3   0
-Strasbourg          2   1   0   1   3  -3
-Brest               2   0   2   0   2   0
-Paris S-G           2   0   2   0   2   0
-Le Mans             2   0   1   1   1  -1
-Lorient             2   0   1   1   1  -1
-Le Havre AC         2   0   1   1   1  -1
-Toulouse            2   0   1   1   1  -2
-Nice                2   0   1   1   1  -3
-AJ Auxerre          2   0   0   2   0  -5
+Squad                  MP   W   D   L  Pt  GD
+AS Monaco               2   2   0   0   6   3
+Paris FC                2   1   1   0   4   3
+Lille                   2   1   1   0   4   2
+Lyon                    2   1   1   0   4   2
+Stade Rennais           2   1   1   0   4   1
+Troyes                  2   1   1   0   4   1
+Lens                    2   1   0   1   3   2
+Marseille               2   1   0   1   3   2
+Angers                  2   1   0   1   3   0
+Strasbourg              2   1   0   1   3  -3
+Brest                   2   0   2   0   2   0
+Paris S-G               2   0   2   0   2   0
+Le Mans                 2   0   1   1   1  -1
+Lorient                 2   0   1   1   1  -1
+Le Havre AC             2   0   1   1   1  -1
+Toulouse                2   0   1   1   1  -2
+Nice                    2   0   1   1   1  -3
+AJ Auxerre              2   0   0   2   0  -5
 
 Ligue 1 Fixtures
 ----------------
-Friday, August 28
-  Lille                2–2   Paris S-G
 Saturday, August 29
-  Strasbourg           2–1   Lens
-  AJ Auxerre           1–3   Angers
-  Brest                2–2   Toulouse
-  Lorient              1–2   Troyes
-  Lyon                 1–1   Le Havre AC
+  Strasbourg             2–1   Lens
+  AJ Auxerre             1–3   Angers
+  Brest                  2–2   Toulouse
+  Lorient                1–2   Troyes
+  Lyon                   1–1   Le Havre AC
 Sunday, August 30
-  Paris FC             3–0   Nice
-  Stade Rennais        3–2   Le Mans
-  AS Monaco            2–0   Marseille
+  Paris FC               3–0   Nice
+  Stade Rennais          3–2   Le Mans
+  AS Monaco              2–0   Marseille
 Thursday, September 03
-  Toulouse             vs    Lille
+  Toulouse               vs    Lille
+Friday, September 04
+  Lyon                   vs    AJ Auxerre
+  Paris S-G              vs    AS Monaco
 
 
 Serie A
 -------
-Squad              MP   W   D   L  Pt  GD
-Internazionale      2   2   0   0   6   4
-AC Milan            2   2   0   0   6   3
-Juventus            2   2   0   0   6   3
-Lazio               2   2   0   0   6   2
-Udinese             2   1   1   0   4   1
-Como                2   1   1   0   4   1
-AS Roma             1   1   0   0   3   4
-Lecce               1   1   0   0   3   2
-Atalanta            1   1   0   0   3   1
-Frosinone           2   1   0   1   3   2
-Napoli              2   1   0   1   3   1
-Sassuolo            2   1   0   1   3   0
-Cagliari            2   1   0   1   3   0
-Bologna             1   0   0   1   0  -1
-Torino              2   0   0   2   0  -2
-Genoa               2   0   0   2   0  -3
-Parma               2   0   0   2   0  -3
-Monza               2   0   0   2   0  -4
-Venezia             2   0   0   2   0  -4
-Fiorentina          2   0   0   2   0  -7
+Squad                  MP   W   D   L  Pt  GD
+AS Roma                 2   2   0   0   6   8
+Internazionale          2   2   0   0   6   4
+AC Milan                2   2   0   0   6   3
+Juventus                2   2   0   0   6   3
+Atalanta                2   2   0   0   6   2
+Lazio                   2   2   0   0   6   2
+Udinese                 2   1   1   0   4   1
+Como                    2   1   1   0   4   1
+Frosinone               2   1   0   1   3   2
+Napoli                  2   1   0   1   3   1
+Sassuolo                2   1   0   1   3   0
+Cagliari                2   1   0   1   3   0
+Lecce                   2   1   0   1   3  -2
+Torino                  2   0   0   2   0  -2
+Bologna                 2   0   0   2   0  -2
+Genoa                   2   0   0   2   0  -3
+Parma                   2   0   0   2   0  -3
+Monza                   2   0   0   2   0  -4
+Venezia                 2   0   0   2   0  -4
+Fiorentina              2   0   0   2   0  -7
 
 Serie A Fixtures
 ----------------
-Friday, August 28
-  AC Milan             2–0   Venezia
 Saturday, August 29
-  Fiorentina           0–3   Frosinone
-  Monza                2–3   Udinese
-  Sassuolo             2–1   Torino
-  Juventus             2–0   Parma
+  Fiorentina             0–3   Frosinone
+  Monza                  2–3   Udinese
+  Sassuolo               2–1   Torino
+  Juventus               2–0   Parma
 Sunday, August 30
-  Napoli               1–2   Como
-  Cagliari             0–1   Internazionale
-  Lazio                1–0   Genoa
+  Napoli                 1–2   Como
+  Cagliari               0–1   Internazionale
+  Lazio                  1–0   Genoa
 Monday, August 31
-  Lecce                vs    AS Roma
-  Atalanta             vs    Bologna
+  Lecce                  0–4   AS Roma
+  Atalanta               1–0   Bologna
+Friday, September 04
+  Genoa                  vs    Como
 
 
 La Liga
 -------
-Squad              MP   W   D   L  Pt  GD
-Real Madrid         3   3   0   0   9   8
-Atlético Madrid     3   2   1   0   7   4
-Alavés              3   2   1   0   7   4
-Barcelona           2   2   0   0   6   7
-Sevilla             3   2   0   1   6   1
-Real Betis          3   2   0   1   6  -1
-Deportivo           3   1   2   0   5   2
-Osasuna             2   1   1   0   4   1
-Levante             3   1   1   1   4   0
-Racing Santander    3   1   1   1   4   0
-Espanyol            3   1   0   2   3   1
-Athletic Club       3   1   0   2   3  -2
-Getafe              2   1   0   1   3  -2
-Real Sociedad       3   1   0   2   3  -3
-Villarreal          3   0   2   1   2  -1
-Rayo Vallecano      2   0   1   1   1  -1
-Valencia            3   0   1   2   1  -3
-Celta Vigo          3   0   1   2   1  -3
-Elche               3   0   1   2   1  -6
-Málaga              3   0   1   2   1  -6
+Squad                  MP   W   D   L  Pt  GD
+Barcelona               3   3   0   0   9  10
+Real Madrid             3   3   0   0   9   8
+Atlético Madrid         3   2   1   0   7   4
+Alavés                  3   2   1   0   7   4
+Osasuna                 3   2   1   0   7   2
+Sevilla                 3   2   0   1   6   1
+Real Betis              3   2   0   1   6  -1
+Deportivo               3   1   2   0   5   2
+Levante                 3   1   1   1   4   0
+Racing Santander        3   1   1   1   4   0
+Espanyol                3   1   0   2   3   1
+Athletic Club           3   1   0   2   3  -2
+Real Sociedad           3   1   0   2   3  -3
+Getafe                  3   1   0   2   3  -3
+Villarreal              3   0   2   1   2  -1
+Valencia                3   0   1   2   1  -3
+Celta Vigo              3   0   1   2   1  -3
+Rayo Vallecano          3   0   1   2   1  -4
+Elche                   3   0   1   2   1  -6
+Málaga                  3   0   1   2   1  -6
 
 La Liga Fixtures
 ----------------
-Friday, August 28
-  Racing Santander     3–2   Elche
-  Alavés               1–0   Villarreal
 Saturday, August 29
-  Levante              5–2   Real Betis
-  Real Sociedad        2–1   Espanyol
-  Sevilla              1–3   Atlético Madrid
+  Levante                5–2   Real Betis
+  Real Sociedad          2–1   Espanyol
+  Sevilla                1–3   Atlético Madrid
 Sunday, August 30
-  Real Madrid          4–0   Málaga
-  Deportivo            3–1   Valencia
-  Celta Vigo           0–2   Athletic Club
+  Real Madrid            4–0   Málaga
+  Deportivo              3–1   Valencia
+  Celta Vigo             0–2   Athletic Club
 Monday, August 31
-  Osasuna              vs    Getafe
-  Barcelona            vs    Rayo Vallecano
+  Osasuna                1–0   Getafe
+  Barcelona              5–2   Rayo Vallecano
 Thursday, September 03
-  Real Sociedad        vs    Celta Vigo
+  Real Sociedad          vs    Celta Vigo
+Friday, September 04
+  Real Betis             vs    Real Madrid
 
 
 Scottish Premiership
 --------------------
-Squad              MP   W   D   L  Pt  GD
-Celtic              3   3   0   0   9   6
-St Mirren           3   2   1   0   7   3
-Heart of Midlothia  3   2   0   1   6   4
-Dundee              4   2   0   2   6   2
-Hibernian           3   2   0   1   6   1
-Motherwell          3   1   2   0   5   1
-Rangers             3   1   1   1   4   0
-Dundee United       4   1   1   2   4  -2
-St Johnstone        3   1   0   2   3  -1
-Aberdeen            3   1   0   2   3  -2
-Falkirk             3   0   1   2   1  -3
-Kilmarnock          3   0   0   3   0  -9
+Squad                  MP   W   D   L  Pt  GD
+Celtic                  3   3   0   0   9   6
+St Mirren               3   2   1   0   7   3
+Heart of Midlothian     3   2   0   1   6   4
+Dundee                  4   2   0   2   6   2
+Hibernian               3   2   0   1   6   1
+Motherwell              3   1   2   0   5   1
+Rangers                 3   1   1   1   4   0
+Dundee United           4   1   1   2   4  -2
+St Johnstone            3   1   0   2   3  -1
+Aberdeen                3   1   0   2   3  -2
+Falkirk                 3   0   1   2   1  -3
+Kilmarnock              3   0   0   3   0  -9
 
 Scottish Premiership Fixtures
 -----------------------------
 Saturday, August 29
-  Celtic               2–1   Falkirk
-  Heart of Midlothia   2–1   St Johnstone
-  Kilmarnock           0–4   Dundee United
+  Celtic                 2–1   Falkirk
+  Heart of Midlothian    2–1   St Johnstone
+  Kilmarnock             0–4   Dundee United
 Sunday, August 30
-  Aberdeen             0–1   Rangers
-  Dundee               1–2   Hibernian
-  St Mirren            3–3   Motherwell
+  Aberdeen               0–1   Rangers
+  Dundee                 1–2   Hibernian
+  St Mirren              3–3   Motherwell
 Wednesday, September 02
-  Celtic               vs    Aberdeen
-  Dundee               vs    St Johnstone
-  Kilmarnock           vs    St Mirren
-  Motherwell           vs    Dundee United
-  Falkirk              vs    Rangers
+  Celtic                 vs    Aberdeen
+  Dundee                 vs    St Johnstone
+  Kilmarnock             vs    St Mirren
+  Motherwell             vs    Dundee United
+  Falkirk                vs    Rangers
 Thursday, September 03
-  Hibernian            vs    Heart of Midlothia
+  Hibernian              vs    Heart of Midlothian
 
 
 Liga MX
 -------
-Squad              MP   W   D   L  Pt  GD
-América             6   5   1   0  16  10
-Tijuana             6   4   1   1  13   3
-Atlas               6   4   0   2  12   1
-Guadalajara         6   3   2   1  11   3
-Toluca              5   3   1   1  10   4
-Querétaro           6   3   1   2  10   2
-León                6   3   1   2  10   2
-Puebla              6   3   1   2  10   0
-Monterrey           5   3   0   2   9   5
-Cruz Azul           6   3   0   3   9   0
-Pumas UNAM          6   2   2   2   8   0
-Necaxa              6   2   1   3   7  -3
-Atlante             6   1   3   2   6  -2
-Pachuca             6   1   2   3   5   0
-Tigres UANL         6   1   2   3   5  -2
-Atlético de San Lu  5   0   3   2   3  -4
-Santos              6   0   1   5   1  -7
-FC Juarez           5   0   0   5   0 -12
+Squad                  MP   W   D   L  Pt  GD
+América                 6   5   1   0  16  10
+Toluca                  6   4   1   1  13   8
+Tijuana                 6   4   1   1  13   3
+Atlas                   6   4   0   2  12   1
+Guadalajara             6   3   2   1  11   3
+Querétaro               6   3   1   2  10   2
+León                    6   3   1   2  10   2
+Puebla                  6   3   1   2  10   0
+Monterrey               6   3   0   3   9   3
+Cruz Azul               6   3   0   3   9   0
+Pumas UNAM              6   2   2   2   8   0
+Necaxa                  6   2   1   3   7  -3
+Atlético San Luis       6   1   3   2   6  -2
+Atlante                 6   1   3   2   6  -2
+Pachuca                 6   1   2   3   5   0
+Tigres UANL             6   1   2   3   5  -2
+Santos                  6   0   1   5   1  -7
+FC Juarez               6   0   0   6   0 -16
 
 Liga MX Fixtures
 ----------------
 Saturday, August 29
-  Atlante              1–1   León
-  Necaxa               1–3   Cruz Azul
-  Tijuana              2–0   Pumas UNAM
-  Atlas                1–3   Querétaro
-  Pachuca              1–1   Guadalajara
+  Atlas                  1–3   Querétaro
+  Pachuca                1–1   Guadalajara
 Sunday, August 30
-  América              2–0   Puebla
-  Santos               0–0   Tigres UANL
+  América                2–0   Puebla
+  Santos                 0–0   Tigres UANL
 Monday, August 31
-  Toluca               4–0   FC Juarez
-  Monterrey            1–3   Atlético de San Lu
+  Toluca                 4–0   FC Juarez
+  Monterrey              1–3   Atlético San Luis
+Saturday, September 05
+  Puebla                 vs    Toluca
+  FC Juarez              vs    Pachuca
 
 
 Champions League
 ----------------
-Cty Squad              MP   W   D   L  Pt  GD
-nan AEK Athens          0   0   0   0   0   0
-ENG Arsenal             0   0   0   0   0   0
-nan Aston Villa         0   0   0   0   0   0
-ESP Atlético Madrid     0   0   0   0   0   0
-ESP Barcelona           0   0   0   0   0   0
-GER Bayern Munich       0   0   0   0   0   0
-NOR Bodo/Glimt          0   0   0   0   0   0
-GER Borussia Dortmund   0   0   0   0   0   0
-BEL Club Brugge         0   0   0   0   0   0
-nan Como                0   0   0   0   0   0
-nan Fenerbahce          0   0   0   0   0   0
-nan Feyenoord Rotterda  0   0   0   0   0   0
-TUR Galatasaray         0   0   0   0   0   0
-ITA Internazionale      0   0   0   0   0   0
-nan LASK Linz           0   0   0   0   0   0
-nan Lens                0   0   0   0   0   0
-nan Lille               0   0   0   0   0   0
-ENG Liverpool           0   0   0   0   0   0
-ENG Manchester City     0   0   0   0   0   0
-nan Manchester United   0   0   0   0   0   0
-ITA Napoli              0   0   0   0   0   0
-NED PSV Eindhoven       0   0   0   0   0   0
-FRA Paris S-G           0   0   0   0   0   0
-nan FC Porto            0   0   0   0   0   0
-nan RB Leipzig          0   0   0   0   0   0
-nan Real Betis          0   0   0   0   0   0
-ESP Real Madrid         0   0   0   0   0   0
-nan AS Roma             0   0   0   0   0   0
-nan Sabah FK            0   0   0   0   0   0
-nan Shakhtar Donetsk    0   0   0   0   0   0
-CZE Slavia Prague       0   0   0   0   0   0
-nan Slovan Bratislava   0   0   0   0   0   0
-POR Sporting CP         0   0   0   0   0   0
-nan VfB Stuttgart       0   0   0   0   0   0
-nan Viking FK           0   0   0   0   0   0
-ESP Villarreal          0   0   0   0   0   0
+Cty Squad                  MP   W   D   L  Pt  GD
+GRE AEK Athens              0   0   0   0   0   0
+ENG Arsenal                 0   0   0   0   0   0
+ENG Aston Villa             0   0   0   0   0   0
+ESP Atlético Madrid         0   0   0   0   0   0
+ESP Barcelona               0   0   0   0   0   0
+GER Bayern Munich           0   0   0   0   0   0
+NOR Bodo/Glimt              0   0   0   0   0   0
+GER Borussia Dortmund       0   0   0   0   0   0
+BEL Club Brugge             0   0   0   0   0   0
+ITA Como                    0   0   0   0   0   0
+TUR Fenerbahce              0   0   0   0   0   0
+NED Feyenoord Rotterdam     0   0   0   0   0   0
+TUR Galatasaray             0   0   0   0   0   0
+ITA Internazionale          0   0   0   0   0   0
+AUT LASK Linz               0   0   0   0   0   0
+FRA Lens                    0   0   0   0   0   0
+FRA Lille                   0   0   0   0   0   0
+ENG Liverpool               0   0   0   0   0   0
+ENG Manchester City         0   0   0   0   0   0
+ENG Manchester United       0   0   0   0   0   0
+ITA Napoli                  0   0   0   0   0   0
+NED PSV Eindhoven           0   0   0   0   0   0
+FRA Paris S-G               0   0   0   0   0   0
+POR FC Porto                0   0   0   0   0   0
+GER RB Leipzig              0   0   0   0   0   0
+ESP Real Betis              0   0   0   0   0   0
+ESP Real Madrid             0   0   0   0   0   0
+ITA AS Roma                 0   0   0   0   0   0
+AZE Sabah FK                0   0   0   0   0   0
+UKR Shakhtar Donetsk        0   0   0   0   0   0
+CZE Slavia Prague           0   0   0   0   0   0
+SVK Slovan Bratislava       0   0   0   0   0   0
+POR Sporting CP             0   0   0   0   0   0
+GER VfB Stuttgart           0   0   0   0   0   0
+NOR Viking FK               0   0   0   0   0   0
+ESP Villarreal              0   0   0   0   0   0
 
 
-Standings from ESPN.com 08.31.26
+Standings from ESPN.com 09.01.26

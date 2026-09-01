@@ -13,9 +13,9 @@ CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE  
 DET        DET     BAL     BOS     CHW     CLE       -     HOU     KCR     LAA     MIN     DET     DET     DET     DET     TOR
 HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU     MIN     NYY     SEA     HOU     HOU     TOR
 KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
-LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
+LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     LAA     SEA     TBR     LAA     TOR
 MIN        ATH     MIN     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
-NYY        NYY     NYY     NYY     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
+NYY        NYY     NYY     NYY     NYY     NYY     DET     NYY     NYY     LAA     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     BOS     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     TOR
 TBR        TBR     BAL     TBR     TBR     TBR     DET     HOU     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
@@ -23,8 +23,8 @@ TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR  
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
-NYY    11-3 
 TBR    11-3 
+NYY    10-4 
 BOS     9-5 
 CHW     9-5 
 MIN     9-5 
@@ -37,7 +37,7 @@ DET     5-9
 SEA     5-9 
 TEX     5-9 
 ATH     4-10
-LAA     3-11
+LAA     4-10
 
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
