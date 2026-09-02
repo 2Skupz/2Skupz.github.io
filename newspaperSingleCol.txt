@@ -19,17 +19,20 @@ Sporting KC            22   4   3  15  15 -34
 
 MLS West Fixtures
 -----------------
-Saturday, August 29
-  Seattle                2–2   Chicago
-  DC United              0–0   LAFC
 Sunday, August 30
-  Houston                0–0   San Jose
-  Minnesota              3–3   Orlando City SC
-  Sporting KC            0–3   Vancouver Whitecaps
-  Colorado               1–0   Real Salt Lake
-  Portland               1–2   Austin
-  San Diego              3–1   Galaxy
   St. Louis              3–3   Dallas
+Saturday, September 05
+  Charlotte              vs    Houston
+  Columbus               vs    Colorado
+  Orlando City SC        vs    San Diego
+Sunday, September 06
+  Austin                 vs    San Jose
+  Dallas                 vs    Sporting KC
+  Seattle                vs    Red Bull New York
+  Galaxy                 vs    New England
+  Real Salt Lake         vs    LAFC
+  Portland               vs    Minnesota
+  Vancouver Whitecaps    vs    St. Louis
 
 
 MLS East
@@ -53,19 +56,21 @@ Columbus               22   5   5  12  20  -8
 
 MLS East Fixtures
 -----------------
-Saturday, August 29
-  Seattle                2–2   Chicago
-  Atlanta                0–2   Charlotte
-  DC United              0–0   LAFC
-  Inter Miami            7–1   Montreal
-  Red Bull New York      1–3   Philadelphia
-  Toronto                1–1   New York City
 Sunday, August 30
-  Minnesota              3–3   Orlando City SC
-  Nashville              4–0   Cincinnati
   Columbus               1–3   New England
 Friday, September 04
   New York City          vs    Nashville
+Saturday, September 05
+  Charlotte              vs    Houston
+  Columbus               vs    Colorado
+  Cincinnati             vs    DC United
+  Inter Miami            vs    Atlanta
+  Orlando City SC        vs    San Diego
+  Philadelphia           vs    Montreal
+  Toronto                vs    Chicago
+Sunday, September 06
+  Seattle                vs    Red Bull New York
+  Galaxy                 vs    New England
 
 
 Allsvenskan
@@ -90,10 +95,6 @@ Halmstads BK           19   2   5  12  11 -22
 
 Allsvenskan Fixtures
 --------------------
-Saturday, August 29
-  BK Häcken              1–3   Västerås SK
-  IF Elfsborg            2–0   Degerfors IF
-  Halmstads BK           1–0   Kalmar FF
 Sunday, August 30
   AIK                    3–2   Hammarby IF
   IFK Göteborg           1–0   Örgryte IS
@@ -103,6 +104,10 @@ Monday, August 31
   IK Sirius              0–1   Malmö FF
 Thursday, September 03
   Mjällby AIF            vs    Djurgården
+Saturday, September 05
+  Degerfors IF           vs    Halmstads BK
+  GAIS                   vs    BK Häcken
+  Västerås SK            vs    IK Sirius
 
 
 Bundesliga
@@ -129,18 +134,18 @@ VfB Stuttgart           1   0   0   1   0  -4
 
 Bundesliga Fixtures
 -------------------
-Saturday, August 29
-  1. FC Union Berlin     3–3   E. Frankfurt
-  FC Cologne             3–2   TSG Hoffenheim
-  Mainz                  0–0   SC Paderborn 07
-  RB Leipzig             3–0   M'gladbach
-  SV Elversberg          3–2   Bayer Leverkusen
-  Borussia Dortmund      2–0   Hamburg SV
 Sunday, August 30
   SC Freiburg            4–1   Werder Bremen
   FC Augsburg            3–0   Schalke 04
 Friday, September 04
   VfB Stuttgart          vs    FC Cologne
+Saturday, September 05
+  Bayer Leverkusen       vs    1. FC Union Berlin
+  M'gladbach             vs    SV Elversberg
+  SC Paderborn 07        vs    SC Freiburg
+  TSG Hoffenheim         vs    Borussia Dortmund
+  Werder Bremen          vs    RB Leipzig
+  Schalke 04             vs    Bayern Munich
 
 
 Premier League
@@ -169,11 +174,6 @@ Tottenham Hotspur       2   0   0   2   0  -5
 
 Premier League Fixtures
 -----------------------
-Saturday, August 29
-  Liverpool              2–2   Nottingham Forest
-  AFC Bournemouth        1–1   Everton
-  Coventry City          0–1   Hull City
-  Tottenham Hotspur      0–2   Newcastle United
 Sunday, August 30
   Chelsea                4–3   Brighton & Hove Albion
   Leeds United           1–1   Brentford
@@ -183,6 +183,14 @@ Monday, August 31
   Aston Villa            0–1   Arsenal
 Friday, September 04
   Ipswich Town           vs    Liverpool
+Saturday, September 05
+  Newcastle United       vs    AFC Bournemouth
+  Brentford              vs    Sunderland
+  Brighton & Hove Albion vs    Leeds United
+  Fulham                 vs    Crystal Palace
+  Manchester City        vs    Coventry City
+  Nottingham Forest      vs    Tottenham Hotspur
+  Hull City              vs    Aston Villa
 
 
 Ligue 1
@@ -209,12 +217,6 @@ AJ Auxerre              2   0   0   2   0  -5
 
 Ligue 1 Fixtures
 ----------------
-Saturday, August 29
-  Strasbourg             2–1   Lens
-  AJ Auxerre             1–3   Angers
-  Brest                  2–2   Toulouse
-  Lorient                1–2   Troyes
-  Lyon                   1–1   Le Havre AC
 Sunday, August 30
   Paris FC               3–0   Nice
   Stade Rennais          3–2   Le Mans
@@ -224,6 +226,10 @@ Thursday, September 03
 Friday, September 04
   Lyon                   vs    AJ Auxerre
   Paris S-G              vs    AS Monaco
+Saturday, September 05
+  Lens                   vs    Lorient
+  Le Havre AC            vs    Brest
+  Nice                   vs    Le Mans
 
 
 Serie A
@@ -252,11 +258,6 @@ Fiorentina              2   0   0   2   0  -7
 
 Serie A Fixtures
 ----------------
-Saturday, August 29
-  Fiorentina             0–3   Frosinone
-  Monza                  2–3   Udinese
-  Sassuolo               2–1   Torino
-  Juventus               2–0   Parma
 Sunday, August 30
   Napoli                 1–2   Como
   Cagliari               0–1   Internazionale
@@ -266,6 +267,10 @@ Monday, August 31
   Atalanta               1–0   Bologna
 Friday, September 04
   Genoa                  vs    Como
+Saturday, September 05
+  Fiorentina             vs    Torino
+  Internazionale         vs    Napoli
+  AS Roma                vs    Atalanta
 
 
 La Liga
@@ -294,10 +299,6 @@ Málaga                  3   0   1   2   1  -6
 
 La Liga Fixtures
 ----------------
-Saturday, August 29
-  Levante                5–2   Real Betis
-  Real Sociedad          2–1   Espanyol
-  Sevilla                1–3   Atlético Madrid
 Sunday, August 30
   Real Madrid            4–0   Málaga
   Deportivo              3–1   Valencia
@@ -309,6 +310,10 @@ Thursday, September 03
   Real Sociedad          vs    Celta Vigo
 Friday, September 04
   Real Betis             vs    Real Madrid
+Saturday, September 05
+  Athletic Club          vs    Atlético Madrid
+  Rayo Vallecano         vs    Racing Santander
+  Villarreal             vs    Deportivo
 
 
 Scottish Premiership
@@ -329,10 +334,6 @@ Kilmarnock              3   0   0   3   0  -9
 
 Scottish Premiership Fixtures
 -----------------------------
-Saturday, August 29
-  Celtic                 2–1   Falkirk
-  Heart of Midlothian    2–1   St Johnstone
-  Kilmarnock             0–4   Dundee United
 Sunday, August 30
   Aberdeen               0–1   Rangers
   Dundee                 1–2   Hibernian
@@ -345,6 +346,11 @@ Wednesday, September 02
   Falkirk                vs    Rangers
 Thursday, September 03
   Hibernian              vs    Heart of Midlothian
+Saturday, September 05
+  Aberdeen               vs    Kilmarnock
+  Dundee United          vs    Falkirk
+  Rangers                vs    Motherwell
+  St Mirren              vs    Celtic
 
 
 Liga MX
@@ -371,18 +377,18 @@ FC Juarez               6   0   0   6   0 -16
 
 Liga MX Fixtures
 ----------------
-Saturday, August 29
-  Atlas                  1–3   Querétaro
-  Pachuca                1–1   Guadalajara
-Sunday, August 30
-  América                2–0   Puebla
-  Santos                 0–0   Tigres UANL
 Monday, August 31
   Toluca                 4–0   FC Juarez
   Monterrey              1–3   Atlético San Luis
 Saturday, September 05
   Puebla                 vs    Toluca
   FC Juarez              vs    Pachuca
+  Atlético San Luis      vs    Guadalajara
+  Querétaro              vs    Monterrey
+Sunday, September 06
+  América                vs    Tijuana
+  Tigres UANL            vs    Necaxa
+  Atlas                  vs    Atlante
 
 
 Champions League
@@ -426,4 +432,4 @@ NOR Viking FK               0   0   0   0   0   0
 ESP Villarreal              0   0   0   0   0   0
 
 
-Standings from ESPN.com 09.01.26
+Standings from ESPN.com 09.02.26
