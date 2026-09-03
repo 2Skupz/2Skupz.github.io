@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLB Standings</title>
+    <link rel="stylesheet" href="mlbTiebreak.css">
+    <link rel="stylesheet" href="standings.css">
+</head>
+<body>
+    <div class="container">
+        <h1>MLB Standings</h1>
+        <p class="subtitle" id="seasonLabel">2026 Season</p>
+        <p class="subtitle">
+            <a href="../../PairwiseStandings/pairwiseStandings.html">Pairwise Standings</a> &middot;
+            <a href="mlbTiebreak.html">Matchup &amp; Grid</a>
+        </p>
+
+        <!-- League Selector -->
+        <div class="league-selector">
+            <button id="leagueAL" class="league-btn active" onclick="switchLeague('AL')">
+                American League
+            </button>
+            <button id="leagueNL" class="league-btn" onclick="switchLeague('NL')">
+                National League
+            </button>
+        </div>
+
+        <div id="standingsRoot"></div>
+    </div>
+
+    <script src="standings.js"></script>
+</body>
+</html>
