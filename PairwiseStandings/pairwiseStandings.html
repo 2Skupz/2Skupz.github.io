@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLB Pairwise Standings</title>
+    <link rel="stylesheet" href="../mlbTiebreak/web/mlbTiebreak.css">
+    <link rel="stylesheet" href="../mlbTiebreak/web/standings.css">
+    <link rel="stylesheet" href="pairwiseStandings.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pairwise Standings</h1>
+        <p class="subtitle" id="seasonLabel">2026 Season</p>
+        <p class="subtitle">Each team's tiebreak record vs. the entire league. Ties are broken head-to-head, just like real standings.</p>
+        <p class="subtitle">
+            <a href="../mlbTiebreak/web/standings.html">Real Standings</a> &middot;
+            <a href="../mlbTiebreak/web/mlbTiebreak.html">Matchup &amp; Grid</a>
+        </p>
+
+        <!-- League Selector -->
+        <div class="league-selector">
+            <button id="leagueAL" class="league-btn active" onclick="switchLeague('AL')">
+                American League
+            </button>
+            <button id="leagueNL" class="league-btn" onclick="switchLeague('NL')">
+                National League
+            </button>
+        </div>
+
+        <div id="standingsRoot"></div>
+
+        <p class="refresh-note">
+            To refresh: <code>./PairwiseStandings/refresh.sh</code>
+        </p>
+    </div>
+
+    <script src="pairwiseStandings.js"></script>
+</body>
+</html>
