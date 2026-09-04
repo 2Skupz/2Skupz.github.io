@@ -1,31 +1,43 @@
-.refresh-note {
-    text-align: center;
-    margin-top: 24px;
-    color: #94a3b8;
-    font-size: 0.85rem;
+.pairwise-leagues {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    align-items: start;
 }
 
-.refresh-note code {
-    background: #f1f5f9;
-    border: 1px solid #e2e8f0;
-    border-radius: 4px;
-    padding: 2px 6px;
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    color: #475569;
+.league-column {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.league-heading {
+    text-align: center;
+    font-size: 1.3rem;
+    color: #2563eb;
+    margin: 4px 0 -4px;
+}
+
+.league-heading.nl {
+    color: #dc2626;
 }
 
 .tb-row {
-    grid-template-columns: minmax(160px, 2.4fr) repeat(4, 0.8fr);
+    grid-template-columns: minmax(160px, 2.4fr) repeat(3, 0.8fr);
 }
 
 @media (max-width: 900px) {
+    .pairwise-leagues {
+        grid-template-columns: 1fr;
+    }
+
     .tb-row {
-        grid-template-columns: minmax(120px, 2fr) repeat(4, 0.8fr);
+        grid-template-columns: minmax(140px, 2.4fr) repeat(3, 0.8fr);
     }
 }
 
 @media (max-width: 600px) {
     .tb-row {
-        grid-template-columns: minmax(90px, 1.6fr) repeat(4, 0.7fr);
+        grid-template-columns: minmax(110px, 1.6fr) repeat(3, 0.7fr);
     }
 }

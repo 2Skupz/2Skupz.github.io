@@ -74,7 +74,7 @@ Allsvenskan
 Squad                  MP   W   D   L  Pt  GD
 IK Sirius              19  13   3   3  42  20
 Hammarby IF            19  11   3   5  36  26
-Djurgården             18  10   2   6  32  22
+Djurgården             19  11   2   6  35  24
 IF Elfsborg            19   8   7   4  31   8
 BK Häcken              19   8   7   4  31   4
 AIK                    18   9   4   5  31   1
@@ -83,7 +83,7 @@ Västerås SK            19   8   5   6  29  -5
 GAIS                   19   7   5   7  26   7
 IF Brommapojkarna      19   6   6   7  24  -4
 IFK Göteborg           19   6   5   8  23 -15
-Mjällby AIF            17   5   5   7  20  -3
+Mjällby AIF            18   5   5   8  20  -5
 Kalmar FF              19   5   4  10  19  -8
 Degerfors IF           19   4   4  11  16 -14
 Örgryte IS             19   3   5  11  14 -20
@@ -91,12 +91,8 @@ Halmstads BK           19   2   5  12  11 -22
 
 Allsvenskan Fixtures
 --------------------
-Monday, August 31
-  Djurgården             4–0   Mjällby AIF
-  GAIS                   4–0   IF Brommapojkarna
-  IK Sirius              0–1   Malmö FF
 Thursday, September 03
-  Mjällby AIF            vs    Djurgården
+  Mjällby AIF            0–2   Djurgården
 Saturday, September 05
   Degerfors IF           vs    Halmstads BK
   GAIS                   vs    BK Häcken
@@ -104,6 +100,10 @@ Saturday, September 05
 Sunday, September 06
   Örgryte IS             vs    Hammarby IF
   IF Brommapojkarna      vs    IF Elfsborg
+Monday, September 07
+  Kalmar FF              vs    Djurgården
+  Malmö FF               vs    AIK
+  Mjällby AIF            vs    IFK Göteborg
 
 
 Bundesliga
@@ -170,8 +170,6 @@ Tottenham Hotspur       2   0   0   2   0  -5
 
 Premier League Fixtures
 -----------------------
-Monday, August 31
-  Aston Villa            0–1   Arsenal
 Friday, September 04
   Ipswich Town           vs    Liverpool
 Saturday, September 05
@@ -190,9 +188,9 @@ Sunday, September 06
 Ligue 1
 -------
 Squad                  MP   W   D   L  Pt  GD
+Lille                   3   2   1   0   7   3
 AS Monaco               2   2   0   0   6   3
 Paris FC                2   1   1   0   4   3
-Lille                   2   1   1   0   4   2
 Lyon                    2   1   1   0   4   2
 Stade Rennais           2   1   1   0   4   1
 Troyes                  2   1   1   0   4   1
@@ -205,14 +203,14 @@ Paris S-G               2   0   2   0   2   0
 Le Mans                 2   0   1   1   1  -1
 Lorient                 2   0   1   1   1  -1
 Le Havre AC             2   0   1   1   1  -1
-Toulouse                2   0   1   1   1  -2
+Toulouse                3   0   1   2   1  -3
 Nice                    2   0   1   1   1  -3
 AJ Auxerre              2   0   0   2   0  -5
 
 Ligue 1 Fixtures
 ----------------
 Thursday, September 03
-  Toulouse               vs    Lille
+  Toulouse               0–1   Lille
 Friday, September 04
   Lyon                   vs    AJ Auxerre
   Paris S-G              vs    AS Monaco
@@ -252,9 +250,6 @@ Fiorentina              2   0   0   2   0  -7
 
 Serie A Fixtures
 ----------------
-Monday, August 31
-  Lecce                  0–4   AS Roma
-  Atalanta               1–0   Bologna
 Friday, September 04
   Genoa                  vs    Como
 Saturday, September 05
@@ -266,6 +261,9 @@ Sunday, September 06
   Parma                  vs    Monza
   Bologna                vs    Sassuolo
   Juventus               vs    AC Milan
+Monday, September 07
+  Cagliari               vs    Lecce
+  Udinese                vs    Lazio
 
 
 La Liga
@@ -281,24 +279,21 @@ Real Betis              3   2   0   1   6  -1
 Deportivo               3   1   2   0   5   2
 Levante                 3   1   1   1   4   0
 Racing Santander        3   1   1   1   4   0
+Real Sociedad           4   1   1   2   4  -3
 Espanyol                3   1   0   2   3   1
 Athletic Club           3   1   0   2   3  -2
-Real Sociedad           3   1   0   2   3  -3
 Getafe                  3   1   0   2   3  -3
 Villarreal              3   0   2   1   2  -1
+Celta Vigo              4   0   2   2   2  -3
 Valencia                3   0   1   2   1  -3
-Celta Vigo              3   0   1   2   1  -3
 Rayo Vallecano          3   0   1   2   1  -4
 Elche                   3   0   1   2   1  -6
 Málaga                  3   0   1   2   1  -6
 
 La Liga Fixtures
 ----------------
-Monday, August 31
-  Osasuna                1–0   Getafe
-  Barcelona              5–2   Rayo Vallecano
 Thursday, September 03
-  Real Sociedad          vs    Celta Vigo
+  Real Sociedad          0–0   Celta Vigo
 Friday, September 04
   Real Betis             vs    Real Madrid
 Saturday, September 05
@@ -310,6 +305,9 @@ Sunday, September 06
   Alavés                 vs    Osasuna
   Málaga                 vs    Levante
   Espanyol               vs    Sevilla
+Monday, September 07
+  Getafe                 vs    Celta Vigo
+  Elche                  vs    Real Sociedad
 
 
 Scottish Premiership
@@ -317,11 +315,11 @@ Scottish Premiership
 Squad                  MP   W   D   L  Pt  GD
 Celtic                  4   4   0   0  12   9
 St Mirren               4   3   1   0  10   4
+Heart of Midlothian     4   3   0   1   9   6
 Motherwell              4   2   2   0   8   4
 Dundee                  5   2   1   2   7   2
 Rangers                 4   2   1   1   7   1
-Heart of Midlothian     3   2   0   1   6   4
-Hibernian               3   2   0   1   6   1
+Hibernian               4   2   0   2   6  -1
 St Johnstone            4   1   1   2   4  -1
 Dundee United           5   1   1   3   4  -5
 Aberdeen                4   1   0   3   3  -5
@@ -337,7 +335,7 @@ Wednesday, September 02
   Motherwell             3–0   Dundee United
   Falkirk                1–2   Rangers
 Thursday, September 03
-  Hibernian              vs    Heart of Midlothian
+  Hibernian              1–3   Heart of Midlothian
 Saturday, September 05
   Aberdeen               vs    Kilmarnock
   Dundee United          vs    Falkirk
@@ -423,4 +421,4 @@ NOR Viking FK               0   0   0   0   0   0
 ESP Villarreal              0   0   0   0   0   0
 
 
-Standings from ESPN.com 09.03.26
+Standings from ESPN.com 09.04.26
