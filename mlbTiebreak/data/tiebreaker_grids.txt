@@ -12,14 +12,14 @@ CHW        CHW     BAL     BOS       -     CHW     CHW     HOU     CHW     CHW  
 CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
 DET        DET     BAL     BOS     CHW     CLE       -     HOU     KCR     LAA     MIN     DET     DET     DET     DET     TOR
 HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU     MIN     NYY     SEA     HOU     HOU     TOR
-KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     KCR
+KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
 LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
 MIN        ATH     MIN     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
 NYY        NYY     NYY     NYY     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
 SEA        SEA     SEA     SEA     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     TOR
 TBR        TBR     BAL     TBR     TBR     TBR     DET     HOU     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
-TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     KCR     TOR     MIN     NYY     TOR     TBR     TEX       -
+TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     TOR     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
@@ -27,14 +27,14 @@ NYY    11-3
 TBR    11-3 
 CHW     9-5 
 MIN     9-5 
+TOR     9-5 
 BOS     8-6 
 HOU     8-6 
-TOR     8-6 
 BAL     6-8 
 CLE     6-8 
-KCR     6-8 
 SEA     6-8 
 DET     5-9 
+KCR     5-9 
 TEX     5-9 
 ATH     4-10
 LAA     3-11
