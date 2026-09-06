@@ -1,104 +1,122 @@
 MLS West
 --------
 Squad                  MP   W   D   L  Pt  GD
-Vancouver Whitecaps    21  13   4   4  43  30
-Houston                22  12   3   7  39   4
-LAFC                   23  10   6   7  36  14
-San Jose               22  10   4   8  34   6
-Dallas                 22   9   7   6  34   4
-St. Louis              22   9   7   6  34   3
-Colorado               22  10   1  11  31   3
-San Diego              22   8   6   8  30   7
-Minnesota              22   7   8   7  29  -2
-Real Salt Lake         21   8   4   9  28   1
-Portland               22   8   4  10  28   0
-Seattle                21   7   5   9  26  -5
-Galaxy                 23   6   8   9  26  -7
-Austin                 22   6   6  10  24 -13
-Sporting KC            22   4   3  15  15 -34
+Vancouver Whitecaps    22  13   4   5  43  28
+Houston                23  12   4   7  40   4
+LAFC                   24  10   7   7  37  14
+Dallas                 23  10   7   6  37   5
+St. Louis              23  10   7   6  37   5
+San Jose               23  10   5   8  35   6
+Colorado               23  10   1  12  31   0
+Portland               23   9   4  10  31   1
+San Diego              23   8   6   9  30   6
+Real Salt Lake         22   8   5   9  29   1
+Minnesota              23   7   8   8  29  -3
+Galaxy                 24   7   8   9  29  -6
+Seattle                22   7   6   9  27  -5
+Austin                 23   6   7  10  25 -13
+Sporting KC            23   4   3  16  15 -35
 
 MLS West Fixtures
 -----------------
 Saturday, September 05
-  Charlotte              vs    Houston
-  Columbus               vs    Colorado
-  Orlando City SC        vs    San Diego
+  Charlotte              0–0   Houston
+  Columbus               3–0   Colorado
+  Orlando City SC        1–0   San Diego
 Sunday, September 06
-  Austin                 vs    San Jose
-  Dallas                 vs    Sporting KC
-  Seattle                vs    Red Bull New York
-  Galaxy                 vs    New England
-  Real Salt Lake         vs    LAFC
-  Portland               vs    Minnesota
-  Vancouver Whitecaps    vs    St. Louis
+  Austin                 1–1   San Jose
+  Dallas                 4–3   Sporting KC
+  Seattle                0–0   Red Bull New York
+  Galaxy                 2–1   New England
+  Real Salt Lake         2–2   LAFC
+  Portland               5–4   Minnesota
+  Vancouver Whitecaps    1–3   St. Louis
+Thursday, September 10
+  Austin                 vs    Colorado
+  Houston                vs    Real Salt Lake
+  Minnesota              vs    Dallas
+  LAFC                   vs    Red Bull New York
+  Portland               vs    St. Louis
+  San Diego              vs    San Jose
+  Vancouver Whitecaps    vs    Galaxy
 
 
 MLS East
 --------
 Squad                  MP   W   D   L  Pt  GD
 Nashville              23  16   5   2  53  30
-Inter Miami            22  12   6   4  42  15
-Chicago                21  11   4   6  37  11
-New England            22  11   4   7  37   9
-Charlotte              22  10   5   7  35   8
+Inter Miami            23  12   7   4  43  15
+Chicago                22  11   5   6  38  11
+New England            23  11   4   8  37   8
+Charlotte              23  10   6   7  36   8
 Cincinnati             22   8   7   7  31  -2
 New York City          23   7   8   8  29   5
-Red Bull New York      22   7   5  10  26 -14
-Orlando City SC        22   7   4  11  25 -17
-Toronto                22   5  10   7  25  -6
+Orlando City SC        23   8   4  11  28 -16
+Philadelphia           23   7   6  10  27  -3
+Red Bull New York      23   7   6  10  27 -14
+Toronto                23   5  11   7  26  -6
 DC United              22   5  10   7  25  -8
-Philadelphia           22   6   6  10  24  -5
-Atlanta                22   6   3  13  21 -13
-Montreal               22   5   6  11  21 -16
-Columbus               22   5   5  12  20  -8
+Columbus               23   6   5  12  23  -5
+Atlanta                23   6   4  13  22 -13
+Montreal               23   5   6  12  21 -18
 
 MLS East Fixtures
 -----------------
 Friday, September 04
   New York City          0–0   Nashville
 Saturday, September 05
-  Charlotte              vs    Houston
-  Columbus               vs    Colorado
-  Cincinnati             vs    DC United
-  Inter Miami            vs    Atlanta
-  Orlando City SC        vs    San Diego
-  Philadelphia           vs    Montreal
-  Toronto                vs    Chicago
+  Charlotte              0–0   Houston
+  Columbus               3–0   Colorado
+  Orlando City SC        1–0   San Diego
+  Philadelphia           2–0   Montreal
+  Toronto                4–4   Chicago
 Sunday, September 06
-  Seattle                vs    Red Bull New York
-  Galaxy                 vs    New England
+  Seattle                0–0   Red Bull New York
+  Inter Miami            2–2   Atlanta
+  Galaxy                 2–1   New England
+  Cincinnati             0–0   DC United
+Wednesday, September 09
+  Atlanta                vs    Orlando City SC
+  Montreal               vs    Charlotte
+  DC United              vs    Columbus
+  Philadelphia           vs    Cincinnati
+  Toronto                vs    Nashville
+Thursday, September 10
+  New York City          vs    New England
+  Chicago                vs    Inter Miami
+  LAFC                   vs    Red Bull New York
 
 
 Allsvenskan
 -----------
 Squad                  MP   W   D   L  Pt  GD
-IK Sirius              19  13   3   3  42  20
+IK Sirius              20  14   3   3  45  21
 Hammarby IF            19  11   3   5  36  26
 Djurgården             19  11   2   6  35  24
+BK Häcken              20   8   8   4  32   4
 IF Elfsborg            19   8   7   4  31   8
-BK Häcken              19   8   7   4  31   4
 AIK                    18   9   4   5  31   1
 Malmö FF               19   9   2   8  29   3
-Västerås SK            19   8   5   6  29  -5
-GAIS                   19   7   5   7  26   7
+Västerås SK            20   8   5   7  29  -6
+GAIS                   20   7   6   7  27   7
 IF Brommapojkarna      19   6   6   7  24  -4
 IFK Göteborg           19   6   5   8  23 -15
 Mjällby AIF            18   5   5   8  20  -5
 Kalmar FF              19   5   4  10  19  -8
-Degerfors IF           19   4   4  11  16 -14
+Degerfors IF           20   5   4  11  19 -12
 Örgryte IS             19   3   5  11  14 -20
-Halmstads BK           19   2   5  12  11 -22
+Halmstads BK           20   2   5  13  11 -24
 
 Allsvenskan Fixtures
 --------------------
 Thursday, September 03
   Mjällby AIF            0–2   Djurgården
 Saturday, September 05
-  Degerfors IF           vs    Halmstads BK
-  GAIS                   vs    BK Häcken
-  Västerås SK            vs    IK Sirius
+  Degerfors IF           2–0   Halmstads BK
+  GAIS                   0–0   BK Häcken
+  Västerås SK            0–1   IK Sirius
 Sunday, September 06
-  Örgryte IS             vs    Hammarby IF
+  Örgryte IS             0–0   Hammarby IF
   IF Brommapojkarna      vs    IF Elfsborg
 Monday, September 07
   Kalmar FF              vs    Djurgården
@@ -109,36 +127,36 @@ Monday, September 07
 Bundesliga
 ----------
 Squad                  MP   W   D   L  Pt  GD
-Bayern Munich           1   1   0   0   3   4
-SC Freiburg             1   1   0   0   3   3
+SC Freiburg             2   2   0   0   6   4
+Borussia Dortmund       2   2   0   0   6   3
+SV Elversberg           2   2   0   0   6   2
+Bayern Munich           2   1   1   0   4   4
+Bayer Leverkusen        2   1   0   1   3   3
 FC Augsburg             1   1   0   0   3   3
-RB Leipzig              1   1   0   0   3   3
-Borussia Dortmund       1   1   0   0   3   2
-SV Elversberg           1   1   0   0   3   1
+RB Leipzig              2   1   0   1   3   1
 VfB Stuttgart           2   1   0   1   3  -1
+Werder Bremen           2   1   0   1   3  -1
 FC Cologne              2   1   0   1   3  -2
 E. Frankfurt            1   0   1   0   1   0
-1. FC Union Berlin      1   0   1   0   1   0
 Mainz                   1   0   1   0   1   0
-SC Paderborn 07         1   0   1   0   1   0
-Bayer Leverkusen        1   0   0   1   0  -1
-TSG Hoffenheim          1   0   0   1   0  -1
+SC Paderborn 07         2   0   1   1   1  -1
+Schalke 04              2   0   1   1   1  -3
+1. FC Union Berlin      2   0   1   1   1  -4
+TSG Hoffenheim          2   0   0   2   0  -2
 Hamburg SV              1   0   0   1   0  -2
-Werder Bremen           1   0   0   1   0  -3
-M'gladbach              1   0   0   1   0  -3
-Schalke 04              1   0   0   1   0  -3
+M'gladbach              2   0   0   2   0  -4
 
 Bundesliga Fixtures
 -------------------
 Friday, September 04
   VfB Stuttgart          4–1   FC Cologne
 Saturday, September 05
-  Bayer Leverkusen       vs    1. FC Union Berlin
-  M'gladbach             vs    SV Elversberg
-  SC Paderborn 07        vs    SC Freiburg
-  TSG Hoffenheim         vs    Borussia Dortmund
-  Werder Bremen          vs    RB Leipzig
-  Schalke 04             vs    Bayern Munich
+  Bayer Leverkusen       4–0   1. FC Union Berlin
+  M'gladbach             3–4   SV Elversberg
+  SC Paderborn 07        0–1   SC Freiburg
+  TSG Hoffenheim         2–3   Borussia Dortmund
+  Werder Bremen          3–1   RB Leipzig
+  Schalke 04             0–0   Bayern Munich
 Sunday, September 06
   Hamburg SV             vs    Mainz
   E. Frankfurt           vs    FC Augsburg
@@ -147,39 +165,39 @@ Sunday, September 06
 Premier League
 --------------
 Squad                  MP   W   D   L  Pt  GD
-Manchester City         2   2   0   0   6   4
+Manchester City         3   3   0   0   9   5
+Hull City               3   2   1   0   7   3
 Arsenal                 2   2   0   0   6   4
-Hull City               2   2   0   0   6   3
 Chelsea                 2   2   0   0   6   2
+Brentford               3   1   2   0   5   3
 Liverpool               3   1   2   0   5   2
-Brentford               2   1   1   0   4   3
-Newcastle United        2   1   1   0   4   2
+Newcastle United        3   1   2   0   5   2
+Leeds United            3   1   2   0   5   1
+Brighton & Hove Albion  3   1   1   1   4   3
 Everton                 2   1   1   0   4   2
-Leeds United            2   1   1   0   4   1
-Brighton & Hove Albion  2   1   0   1   3   3
+Sunderland              3   1   1   1   4   0
 Manchester United       2   1   0   1   3   1
-Sunderland              2   1   0   1   3   0
+Crystal Palace          3   1   0   2   3  -4
 Ipswich Town            3   1   0   2   3  -4
-AFC Bournemouth         2   0   1   1   1  -1
-Nottingham Forest       2   0   1   1   1  -1
-Fulham                  2   0   0   2   0  -2
-Coventry City           2   0   0   2   0  -4
-Crystal Palace          2   0   0   2   0  -5
-Aston Villa             2   0   0   2   0  -5
-Tottenham Hotspur       2   0   0   2   0  -5
+AFC Bournemouth         3   0   2   1   2  -1
+Nottingham Forest       3   0   2   1   2  -1
+Aston Villa             3   0   1   2   1  -5
+Tottenham Hotspur       3   0   1   2   1  -5
+Fulham                  3   0   0   3   0  -3
+Coventry City           3   0   0   3   0  -5
 
 Premier League Fixtures
 -----------------------
 Friday, September 04
   Ipswich Town           0–2   Liverpool
 Saturday, September 05
-  Newcastle United       0–1   AFC Bournemouth
-  Brentford              vs    Sunderland
-  Brighton & Hove Albion vs    Leeds United
-  Fulham                 vs    Crystal Palace
-  Manchester City        vs    Coventry City
-  Nottingham Forest      vs    Tottenham Hotspur
-  Hull City              vs    Aston Villa
+  Newcastle United       2–2   AFC Bournemouth
+  Brentford              1–1   Sunderland
+  Brighton & Hove Albion 1–1   Leeds United
+  Fulham                 2–3   Crystal Palace
+  Manchester City        1–0   Coventry City
+  Nottingham Forest      0–0   Tottenham Hotspur
+  Hull City              0–0   Aston Villa
 Sunday, September 06
   Everton                vs    Manchester United
   Arsenal                vs    Chelsea
@@ -191,20 +209,20 @@ Squad                  MP   W   D   L  Pt  GD
 AS Monaco               3   3   0   0   9   4
 Lyon                    3   2   1   0   7   4
 Lille                   3   2   1   0   7   3
+Brest                   3   1   2   0   5   1
 Paris FC                2   1   1   0   4   3
 Stade Rennais           2   1   1   0   4   1
 Troyes                  2   1   1   0   4   1
-Lens                    2   1   0   1   3   2
+Lorient                 3   1   1   1   4   0
 Marseille               2   1   0   1   3   2
+Lens                    3   1   0   2   3   1
 Angers                  2   1   0   1   3   0
 Strasbourg              2   1   0   1   3  -3
-Brest                   2   0   2   0   2   0
 Paris S-G               3   0   2   1   2  -1
-Le Mans                 2   0   1   1   1  -1
-Lorient                 2   0   1   1   1  -1
-Le Havre AC             2   0   1   1   1  -1
+Le Mans                 3   0   2   1   2  -1
+Nice                    3   0   2   1   2  -3
+Le Havre AC             3   0   1   2   1  -2
 Toulouse                3   0   1   2   1  -3
-Nice                    2   0   1   1   1  -3
 AJ Auxerre              3   0   0   3   0  -7
 
 Ligue 1 Fixtures
@@ -215,9 +233,9 @@ Friday, September 04
   Lyon                   3–1   AJ Auxerre
   Paris S-G              1–2   AS Monaco
 Saturday, September 05
-  Lens                   vs    Lorient
-  Le Havre AC            vs    Brest
-  Nice                   vs    Le Mans
+  Lens                   0–1   Lorient
+  Le Havre AC            1–2   Brest
+  Nice                   1–1   Le Mans
 Sunday, September 06
   Troyes                 vs    Strasbourg
   Angers                 vs    Stade Rennais
@@ -227,35 +245,35 @@ Sunday, September 06
 Serie A
 -------
 Squad                  MP   W   D   L  Pt  GD
+AS Roma                 3   3   0   0   9   9
+Internazionale          3   3   0   0   9   5
 Como                    3   2   1   0   7   4
-AS Roma                 2   2   0   0   6   8
-Internazionale          2   2   0   0   6   4
 AC Milan                2   2   0   0   6   3
 Juventus                2   2   0   0   6   3
-Atalanta                2   2   0   0   6   2
 Lazio                   2   2   0   0   6   2
+Atalanta                3   2   0   1   6   1
 Udinese                 2   1   1   0   4   1
 Frosinone               2   1   0   1   3   2
-Napoli                  2   1   0   1   3   1
 Sassuolo                2   1   0   1   3   0
 Cagliari                2   1   0   1   3   0
 Lecce                   2   1   0   1   3  -2
-Torino                  2   0   0   2   0  -2
+Napoli                  3   1   0   2   3   0
+Torino                  3   1   0   2   3  -1
 Bologna                 2   0   0   2   0  -2
 Parma                   2   0   0   2   0  -3
 Monza                   2   0   0   2   0  -4
 Venezia                 2   0   0   2   0  -4
-Fiorentina              2   0   0   2   0  -7
 Genoa                   3   0   0   3   0  -6
+Fiorentina              3   0   0   3   0  -8
 
 Serie A Fixtures
 ----------------
 Friday, September 04
   Genoa                  1–4   Como
 Saturday, September 05
-  Fiorentina             vs    Torino
-  Internazionale         vs    Napoli
-  AS Roma                vs    Atalanta
+  Fiorentina             1–2   Torino
+  Internazionale         3–2   Napoli
+  AS Roma                2–1   Atalanta
 Sunday, September 06
   Frosinone              vs    Venezia
   Parma                  vs    Monza
@@ -272,21 +290,21 @@ Squad                  MP   W   D   L  Pt  GD
 Barcelona               3   3   0   0   9  10
 Real Madrid             4   3   0   1   9   7
 Real Betis              4   3   0   1   9   0
-Atlético Madrid         3   2   1   0   7   4
+Deportivo               4   2   2   0   8   3
 Alavés                  3   2   1   0   7   4
 Osasuna                 3   2   1   0   7   2
+Atlético Madrid         4   2   1   1   7   1
+Athletic Club           4   2   0   2   6   1
 Sevilla                 3   2   0   1   6   1
-Deportivo               3   1   2   0   5   2
 Levante                 3   1   1   1   4   0
-Racing Santander        3   1   1   1   4   0
+Racing Santander        4   1   1   2   4  -1
+Rayo Vallecano          4   1   1   2   4  -3
 Real Sociedad           4   1   1   2   4  -3
 Espanyol                3   1   0   2   3   1
-Athletic Club           3   1   0   2   3  -2
 Getafe                  3   1   0   2   3  -3
-Villarreal              3   0   2   1   2  -1
+Villarreal              4   0   2   2   2  -2
 Celta Vigo              4   0   2   2   2  -3
 Valencia                3   0   1   2   1  -3
-Rayo Vallecano          3   0   1   2   1  -4
 Elche                   3   0   1   2   1  -6
 Málaga                  3   0   1   2   1  -6
 
@@ -297,9 +315,9 @@ Thursday, September 03
 Friday, September 04
   Real Betis             1–0   Real Madrid
 Saturday, September 05
-  Athletic Club          vs    Atlético Madrid
-  Rayo Vallecano         vs    Racing Santander
-  Villarreal             vs    Deportivo
+  Athletic Club          3–0   Atlético Madrid
+  Rayo Vallecano         3–2   Racing Santander
+  Villarreal             2–3   Deportivo
 Sunday, September 06
   Valencia               vs    Barcelona
   Alavés                 vs    Osasuna
@@ -313,47 +331,44 @@ Monday, September 07
 Scottish Premiership
 --------------------
 Squad                  MP   W   D   L  Pt  GD
-Celtic                  4   4   0   0  12   9
-St Mirren               4   3   1   0  10   4
+Celtic                  5   5   0   0  15  10
+St Mirren               5   3   1   1  10   3
+Rangers                 5   3   1   1  10   2
 Heart of Midlothian     4   3   0   1   9   6
-Motherwell              4   2   2   0   8   4
+Motherwell              5   2   2   1   8   3
 Dundee                  5   2   1   2   7   2
-Rangers                 4   2   1   1   7   1
 Hibernian               4   2   0   2   6  -1
+Dundee United           6   1   2   3   5  -5
 St Johnstone            4   1   1   2   4  -1
-Dundee United           5   1   1   3   4  -5
-Aberdeen                4   1   0   3   3  -5
-Falkirk                 4   0   1   3   1  -4
-Kilmarnock              4   0   0   4   0 -10
+Aberdeen                5   1   1   3   4  -5
+Falkirk                 5   0   2   3   2  -4
+Kilmarnock              5   0   1   4   1 -10
 
 Scottish Premiership Fixtures
 -----------------------------
-Wednesday, September 02
-  Celtic                 3–0   Aberdeen
-  Dundee                 1–1   St Johnstone
-  Kilmarnock             0–1   St Mirren
-  Motherwell             3–0   Dundee United
-  Falkirk                1–2   Rangers
 Thursday, September 03
   Hibernian              1–3   Heart of Midlothian
 Saturday, September 05
-  Aberdeen               vs    Kilmarnock
-  Dundee United          vs    Falkirk
-  Rangers                vs    Motherwell
-  St Mirren              vs    Celtic
+  Aberdeen               0–0   Kilmarnock
+  Dundee United          1–1   Falkirk
+  Rangers                1–0   Motherwell
+  St Mirren              1–2   Celtic
 Sunday, September 06
   Heart of Midlothian    vs    Dundee
   St Johnstone           vs    Hibernian
+Wednesday, September 09
+  Rangers                vs    St Mirren
+  St Johnstone           vs    Celtic
 
 
 Liga MX
 -------
 Squad                  MP   W   D   L  Pt  GD
 América                 6   5   1   0  16  10
+Guadalajara             7   4   2   1  14   6
 Toluca                  6   4   1   1  13   8
 Tijuana                 6   4   1   1  13   3
-Atlas                   6   4   0   2  12   1
-Guadalajara             6   3   2   1  11   3
+Atlas                   7   4   1   2  13   1
 Querétaro               6   3   1   2  10   2
 León                    6   3   1   2  10   2
 Puebla                  6   3   1   2  10   0
@@ -361,10 +376,10 @@ Monterrey               6   3   0   3   9   3
 Cruz Azul               6   3   0   3   9   0
 Pachuca                 7   2   2   3   8   2
 Pumas UNAM              6   2   2   2   8   0
-Necaxa                  6   2   1   3   7  -3
-Atlético San Luis       6   1   3   2   6  -2
-Atlante                 6   1   3   2   6  -2
-Tigres UANL             6   1   2   3   5  -2
+Necaxa                  7   2   2   3   8  -3
+Atlante                 7   1   4   2   7  -2
+Tigres UANL             7   1   3   3   6  -2
+Atlético San Luis       7   1   3   3   6  -5
 Santos                  6   0   1   5   1  -7
 FC Juarez               7   0   0   7   0 -18
 
@@ -372,10 +387,10 @@ Liga MX Fixtures
 ----------------
 Saturday, September 05
   FC Juarez              0–2   Pachuca
-  Atlético San Luis      vs    Guadalajara
+  Atlético San Luis      0–3   Guadalajara
 Sunday, September 06
-  Tigres UANL            vs    Necaxa
-  Atlas                  vs    Atlante
+  Tigres UANL            1–1   Necaxa
+  Atlas                  1–1   Atlante
   Cruz Azul              vs    Santos
 
 
@@ -428,6 +443,13 @@ Tuesday, September 08
   FC Porto               vs    Manchester City
   Lille                  vs    Real Betis
   Real Madrid            vs    Internazionale
+Wednesday, September 09
+  Barcelona              vs    Feyenoord Rotterdam
+  VfB Stuttgart          vs    Viking FK
+  Liverpool              vs    Atlético Madrid
+  Napoli                 vs    Arsenal
+  Paris S-G              vs    Slovan Bratislava
+  Sporting CP            vs    Galatasaray
 
 
-Standings from ESPN.com 09.05.26
+Standings from ESPN.com 09.06.26

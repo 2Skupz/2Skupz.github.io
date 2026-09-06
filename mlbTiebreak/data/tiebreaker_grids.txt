@@ -5,7 +5,7 @@ MLB TIEBREAKER WINNERS - 2026
 AMERICAN LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
-ATH          -     BAL     BOS     CHW     CLE     DET     ATH     KCR     ATH     ATH     NYY     SEA     TBR     ATH     TOR
+ATH          -     BAL     BOS     CHW     CLE     DET     ATH     KCR     ATH     ATH     NYY     ATH     TBR     ATH     TOR
 BAL        BAL       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     MIN     NYY     SEA     BAL     TEX     TOR
 BOS        BOS     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS     MIN     NYY     SEA     TBR     BOS     TOR
 CHW        CHW     BAL     BOS       -     CHW     CHW     HOU     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
@@ -16,7 +16,7 @@ KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR  
 LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
 MIN        ATH     MIN     MIN     CHW     MIN     MIN     MIN     KCR     MIN       -     MIN     SEA     TBR     MIN     MIN
 NYY        NYY     NYY     NYY     NYY     NYY     DET     NYY     NYY     NYY     MIN       -     NYY     TBR     NYY     NYY
-SEA        SEA     SEA     SEA     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     TOR
+SEA        ATH     SEA     SEA     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     TOR
 TBR        TBR     BAL     TBR     TBR     TBR     DET     HOU     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
 TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     TOR     TBR     TEX       -
@@ -32,11 +32,11 @@ BOS     8-6
 HOU     8-6 
 BAL     6-8 
 CLE     6-8 
-SEA     6-8 
+ATH     5-9 
 DET     5-9 
 KCR     5-9 
+SEA     5-9 
 TEX     5-9 
-ATH     4-10
 LAA     3-11
 
 NATIONAL LEAGUE
