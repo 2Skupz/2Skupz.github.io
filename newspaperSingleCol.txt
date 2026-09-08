@@ -62,8 +62,6 @@ Montreal               23   5   6  12  21 -18
 
 MLS East Fixtures
 -----------------
-Friday, September 04
-  New York City          0–0   Nashville
 Saturday, September 05
   Charlotte              0–0   Houston
   Columbus               3–0   Colorado
@@ -79,8 +77,8 @@ Wednesday, September 09
   Atlanta                vs    Orlando City SC
   Montreal               vs    Charlotte
   DC United              vs    Columbus
-  Philadelphia           vs    Cincinnati
   Toronto                vs    Nashville
+  Philadelphia           vs    Cincinnati
 Thursday, September 10
   New York City          vs    New England
   Chicago                vs    Inter Miami
@@ -91,18 +89,18 @@ Allsvenskan
 -----------
 Squad                  MP   W   D   L  Pt  GD
 IK Sirius              20  14   3   3  45  21
+Djurgården             20  12   2   6  38  25
 Hammarby IF            20  11   4   5  37  26
-Djurgården             19  11   2   6  35  24
 BK Häcken              20   8   8   4  32   4
+AIK                    19   9   5   5  32   1
 IF Elfsborg            20   8   7   5  31   7
-AIK                    18   9   4   5  31   1
-Malmö FF               19   9   2   8  29   3
+Malmö FF               20   9   3   8  30   3
 Västerås SK            20   8   5   7  29  -6
 GAIS                   20   7   6   7  27   7
 IF Brommapojkarna      20   7   6   7  27  -3
-IFK Göteborg           19   6   5   8  23 -15
-Mjällby AIF            18   5   5   8  20  -5
-Kalmar FF              19   5   4  10  19  -8
+IFK Göteborg           20   7   5   8  26 -12
+Mjällby AIF            19   5   5   9  20  -8
+Kalmar FF              20   5   4  11  19  -9
 Degerfors IF           20   5   4  11  19 -12
 Örgryte IS             20   3   6  11  15 -20
 Halmstads BK           20   2   5  13  11 -24
@@ -117,9 +115,11 @@ Sunday, September 06
   Örgryte IS             1–1   Hammarby IF
   IF Brommapojkarna      2–1   IF Elfsborg
 Monday, September 07
-  Kalmar FF              vs    Djurgården
-  Malmö FF               vs    AIK
-  Mjällby AIF            vs    IFK Göteborg
+  Kalmar FF              0–1   Djurgården
+  Malmö FF               0–0   AIK
+  Mjällby AIF            1–4   IFK Göteborg
+Friday, September 11
+  BK Häcken              vs    Mjällby AIF
 
 
 Bundesliga
@@ -146,8 +146,6 @@ Hamburg SV              2   0   0   2   0  -7
 
 Bundesliga Fixtures
 -------------------
-Friday, September 04
-  VfB Stuttgart          4–1   FC Cologne
 Saturday, September 05
   Bayer Leverkusen       4–0   1. FC Union Berlin
   M'gladbach             3–4   SV Elversberg
@@ -158,6 +156,8 @@ Saturday, September 05
 Sunday, September 06
   Hamburg SV             0–5   Mainz
   E. Frankfurt           1–4   FC Augsburg
+Friday, September 11
+  1. FC Union Berlin     vs    Schalke 04
 
 
 Premier League
@@ -186,8 +186,6 @@ Coventry City           3   0   0   3   0  -5
 
 Premier League Fixtures
 -----------------------
-Friday, September 04
-  Ipswich Town           0–2   Liverpool
 Saturday, September 05
   Newcastle United       2–2   AFC Bournemouth
   Brentford              1–1   Sunderland
@@ -225,9 +223,6 @@ AJ Auxerre              3   0   0   3   0  -7
 
 Ligue 1 Fixtures
 ----------------
-Friday, September 04
-  Lyon                   3–1   AJ Auxerre
-  Paris S-G              1–2   AS Monaco
 Saturday, September 05
   Lens                   0–1   Lorient
   Le Havre AC            1–2   Brest
@@ -236,6 +231,8 @@ Sunday, September 06
   Troyes                 2–6   Strasbourg
   Angers                 1–2   Stade Rennais
   Marseille              2–3   Paris FC
+Friday, September 11
+  Stade Rennais          vs    Marseille
 
 
 Serie A
@@ -243,18 +240,18 @@ Serie A
 Squad                  MP   W   D   L  Pt  GD
 AS Roma                 3   3   0   0   9   9
 Internazionale          3   3   0   0   9   5
+Lazio                   3   3   0   0   9   3
 Como                    3   2   1   0   7   4
 AC Milan                3   2   1   0   7   3
 Juventus                3   2   1   0   7   3
-Lazio                   2   2   0   0   6   2
 Frosinone               3   2   0   1   6   3
 Atalanta                3   2   0   1   6   1
-Udinese                 2   1   1   0   4   1
+Cagliari                3   2   0   1   6   1
 Sassuolo                3   1   1   1   4   0
-Cagliari                2   1   0   1   3   0
-Lecce                   2   1   0   1   3  -2
+Udinese                 3   1   1   1   4   0
 Napoli                  3   1   0   2   3   0
 Torino                  3   1   0   2   3  -1
+Lecce                   3   1   0   2   3  -3
 Bologna                 3   0   1   2   1  -2
 Parma                   3   0   1   2   1  -3
 Monza                   3   0   1   2   1  -4
@@ -264,8 +261,6 @@ Fiorentina              3   0   0   3   0  -8
 
 Serie A Fixtures
 ----------------
-Friday, September 04
-  Genoa                  1–4   Como
 Saturday, September 05
   Fiorentina             1–2   Torino
   Internazionale         3–2   Napoli
@@ -276,8 +271,10 @@ Sunday, September 06
   Bologna                2–2   Sassuolo
   Juventus               1–1   AC Milan
 Monday, September 07
-  Cagliari               vs    Lecce
-  Udinese                vs    Lazio
+  Cagliari               1–0   Lecce
+  Udinese                1–2   Lazio
+Friday, September 11
+  Venezia                vs    Fiorentina
 
 
 La Liga
@@ -291,23 +288,21 @@ Deportivo               4   2   2   0   8   3
 Atlético Madrid         4   2   1   1   7   1
 Sevilla                 4   2   1   1   7   1
 Osasuna                 4   2   1   1   7  -1
+Real Sociedad           5   2   1   2   7  -2
 Athletic Club           4   2   0   2   6   1
 Levante                 4   1   2   1   5   0
 Espanyol                4   1   1   2   4   1
 Racing Santander        4   1   1   2   4  -1
 Rayo Vallecano          4   1   1   2   4  -3
-Real Sociedad           4   1   1   2   4  -3
-Getafe                  3   1   0   2   3  -3
+Getafe                  4   1   1   2   4  -3
+Celta Vigo              5   0   3   2   3  -3
 Villarreal              4   0   2   2   2  -2
-Celta Vigo              4   0   2   2   2  -3
 Málaga                  4   0   2   2   2  -6
-Elche                   3   0   1   2   1  -6
+Elche                   4   0   1   3   1  -7
 Valencia                4   0   1   3   1  -8
 
 La Liga Fixtures
 ----------------
-Friday, September 04
-  Real Betis             1–0   Real Madrid
 Saturday, September 05
   Athletic Club          3–0   Atlético Madrid
   Rayo Vallecano         3–2   Racing Santander
@@ -318,8 +313,10 @@ Sunday, September 06
   Málaga                 0–0   Levante
   Espanyol               1–1   Sevilla
 Monday, September 07
-  Getafe                 vs    Celta Vigo
-  Elche                  vs    Real Sociedad
+  Getafe                 1–1   Celta Vigo
+  Elche                  2–3   Real Sociedad
+Friday, September 11
+  Sevilla                vs    Valencia
 
 
 Scottish Premiership
@@ -378,7 +375,6 @@ FC Juarez               7   0   0   7   0 -18
 Liga MX Fixtures
 ----------------
 Saturday, September 05
-  FC Juarez              0–2   Pachuca
   Atlético San Luis      0–3   Guadalajara
 Sunday, September 06
   Tigres UANL            1–1   Necaxa
@@ -386,6 +382,10 @@ Sunday, September 06
   Cruz Azul              1–0   Santos
 Friday, September 11
   Pumas UNAM             vs    León
+Saturday, September 12
+  Necaxa                 vs    Puebla
+  Atlante                vs    Pachuca
+  Tijuana                vs    Querétaro
 
 
 Champions League
@@ -453,4 +453,4 @@ Thursday, September 10
   Slavia Prague          vs    Lens
 
 
-Standings from ESPN.com 09.07.26
+Standings from ESPN.com 09.08.26
