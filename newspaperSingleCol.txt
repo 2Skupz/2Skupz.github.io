@@ -19,18 +19,6 @@ Sporting KC            23   4   3  16  15 -35
 
 MLS West Fixtures
 -----------------
-Saturday, September 05
-  Charlotte              0–0   Houston
-  Columbus               3–0   Colorado
-  Orlando City SC        1–0   San Diego
-Sunday, September 06
-  Austin                 1–1   San Jose
-  Dallas                 4–3   Sporting KC
-  Seattle                0–0   Red Bull New York
-  Galaxy                 2–1   New England
-  Real Salt Lake         2–2   LAFC
-  Portland               5–4   Minnesota
-  Vancouver Whitecaps    1–3   St. Louis
 Thursday, September 10
   Austin                 vs    Colorado
   Houston                vs    Real Salt Lake
@@ -39,6 +27,14 @@ Thursday, September 10
   Portland               vs    St. Louis
   San Diego              vs    San Jose
   Vancouver Whitecaps    vs    Galaxy
+Sunday, September 13
+  Dallas                 vs    Portland
+  Sporting KC            vs    LAFC
+  St. Louis              vs    Minnesota
+  Colorado               vs    Montreal
+  Real Salt Lake         vs    New York City
+  Galaxy                 vs    Seattle
+  San Jose               vs    Houston
 
 
 MLS East
@@ -62,17 +58,6 @@ Montreal               23   5   6  12  21 -18
 
 MLS East Fixtures
 -----------------
-Saturday, September 05
-  Charlotte              0–0   Houston
-  Columbus               3–0   Colorado
-  Orlando City SC        1–0   San Diego
-  Philadelphia           2–0   Montreal
-  Toronto                4–4   Chicago
-Sunday, September 06
-  Seattle                0–0   Red Bull New York
-  Inter Miami            2–2   Atlanta
-  Galaxy                 2–1   New England
-  Cincinnati             0–0   DC United
 Wednesday, September 09
   Atlanta                vs    Orlando City SC
   Montreal               vs    Charlotte
@@ -83,6 +68,15 @@ Thursday, September 10
   New York City          vs    New England
   Chicago                vs    Inter Miami
   LAFC                   vs    Red Bull New York
+Saturday, September 12
+  Columbus               vs    Red Bull New York
+  DC United              vs    Atlanta
+  Cincinnati             vs    Charlotte
+  Inter Miami            vs    Nashville
+  Orlando City SC        vs    Toronto
+Sunday, September 13
+  Colorado               vs    Montreal
+  Real Salt Lake         vs    New York City
 
 
 Allsvenskan
@@ -107,10 +101,6 @@ Halmstads BK           20   2   5  13  11 -24
 
 Allsvenskan Fixtures
 --------------------
-Saturday, September 05
-  Degerfors IF           2–0   Halmstads BK
-  GAIS                   0–0   BK Häcken
-  Västerås SK            0–1   IK Sirius
 Sunday, September 06
   Örgryte IS             1–1   Hammarby IF
   IF Brommapojkarna      2–1   IF Elfsborg
@@ -120,6 +110,9 @@ Monday, September 07
   Mjällby AIF            1–4   IFK Göteborg
 Friday, September 11
   BK Häcken              vs    Mjällby AIF
+Saturday, September 12
+  AIK                    vs    Västerås SK
+  IFK Göteborg           vs    Halmstads BK
 
 
 Bundesliga
@@ -146,18 +139,18 @@ Hamburg SV              2   0   0   2   0  -7
 
 Bundesliga Fixtures
 -------------------
-Saturday, September 05
-  Bayer Leverkusen       4–0   1. FC Union Berlin
-  M'gladbach             3–4   SV Elversberg
-  SC Paderborn 07        0–1   SC Freiburg
-  TSG Hoffenheim         2–3   Borussia Dortmund
-  Werder Bremen          3–1   RB Leipzig
-  Schalke 04             0–0   Bayern Munich
 Sunday, September 06
   Hamburg SV             0–5   Mainz
   E. Frankfurt           1–4   FC Augsburg
 Friday, September 11
   1. FC Union Berlin     vs    Schalke 04
+Saturday, September 12
+  Borussia Dortmund      vs    SC Paderborn 07
+  FC Augsburg            vs    Bayer Leverkusen
+  Mainz                  vs    E. Frankfurt
+  SC Freiburg            vs    M'gladbach
+  TSG Hoffenheim         vs    VfB Stuttgart
+  FC Cologne             vs    Werder Bremen
 
 
 Premier League
@@ -186,17 +179,17 @@ Coventry City           3   0   0   3   0  -5
 
 Premier League Fixtures
 -----------------------
-Saturday, September 05
-  Newcastle United       2–2   AFC Bournemouth
-  Brentford              1–1   Sunderland
-  Brighton & Hove Albion 1–1   Leeds United
-  Fulham                 2–3   Crystal Palace
-  Manchester City        1–0   Coventry City
-  Nottingham Forest      0–0   Tottenham Hotspur
-  Hull City              0–0   Aston Villa
 Sunday, September 06
   Everton                2–2   Manchester United
   Arsenal                2–1   Chelsea
+Saturday, September 12
+  AFC Bournemouth        vs    Brentford
+  Aston Villa            vs    Nottingham Forest
+  Chelsea                vs    Hull City
+  Crystal Palace         vs    Ipswich Town
+  Liverpool              vs    Fulham
+  Tottenham Hotspur      vs    Everton
+  Sunderland             vs    Arsenal
 
 
 Ligue 1
@@ -223,16 +216,18 @@ AJ Auxerre              3   0   0   3   0  -7
 
 Ligue 1 Fixtures
 ----------------
-Saturday, September 05
-  Lens                   0–1   Lorient
-  Le Havre AC            1–2   Brest
-  Nice                   1–1   Le Mans
 Sunday, September 06
   Troyes                 2–6   Strasbourg
   Angers                 1–2   Stade Rennais
   Marseille              2–3   Paris FC
 Friday, September 11
   Stade Rennais          vs    Marseille
+Saturday, September 12
+  Strasbourg             vs    AS Monaco
+  AJ Auxerre             vs    Nice
+  Le Havre AC            vs    Angers
+  Lorient                vs    Toulouse
+  Paris FC               vs    Lyon
 
 
 Serie A
@@ -261,10 +256,6 @@ Fiorentina              3   0   0   3   0  -8
 
 Serie A Fixtures
 ----------------
-Saturday, September 05
-  Fiorentina             1–2   Torino
-  Internazionale         3–2   Napoli
-  AS Roma                2–1   Atalanta
 Sunday, September 06
   Frosinone              3–2   Venezia
   Parma                  1–1   Monza
@@ -275,6 +266,10 @@ Monday, September 07
   Udinese                1–2   Lazio
 Friday, September 11
   Venezia                vs    Fiorentina
+Saturday, September 12
+  Genoa                  vs    Frosinone
+  Lazio                  vs    AC Milan
+  Atalanta               vs    Cagliari
 
 
 La Liga
@@ -303,10 +298,6 @@ Valencia                4   0   1   3   1  -8
 
 La Liga Fixtures
 ----------------
-Saturday, September 05
-  Athletic Club          3–0   Atlético Madrid
-  Rayo Vallecano         3–2   Racing Santander
-  Villarreal             2–3   Deportivo
 Sunday, September 06
   Valencia               0–5   Barcelona
   Alavés                 5–2   Osasuna
@@ -317,6 +308,11 @@ Monday, September 07
   Elche                  2–3   Real Sociedad
 Friday, September 11
   Sevilla                vs    Valencia
+Saturday, September 12
+  Racing Santander       vs    Alavés
+  Osasuna                vs    Espanyol
+  Athletic Club          vs    Elche
+  Real Madrid            vs    Rayo Vallecano
 
 
 Scottish Premiership
@@ -337,11 +333,6 @@ Kilmarnock              5   0   1   4   1 -10
 
 Scottish Premiership Fixtures
 -----------------------------
-Saturday, September 05
-  Aberdeen               0–0   Kilmarnock
-  Dundee United          1–1   Falkirk
-  Rangers                1–0   Motherwell
-  St Mirren              1–2   Celtic
 Sunday, September 06
   Heart of Midlothian    2–1   Dundee
   St Johnstone           2–1   Hibernian
@@ -374,11 +365,7 @@ FC Juarez               7   0   0   7   0 -18
 
 Liga MX Fixtures
 ----------------
-Saturday, September 05
-  Atlético San Luis      0–3   Guadalajara
 Sunday, September 06
-  Tigres UANL            1–1   Necaxa
-  Atlas                  1–1   Atlante
   Cruz Azul              1–0   Santos
 Friday, September 11
   Pumas UNAM             vs    León
@@ -386,38 +373,37 @@ Saturday, September 12
   Necaxa                 vs    Puebla
   Atlante                vs    Pachuca
   Tijuana                vs    Querétaro
+  Toluca                 vs    Atlas
+Sunday, September 13
+  Monterrey              vs    Tigres UANL
+  Cruz Azul              vs    América
 
 
 Champions League
 ----------------
 Cty Squad                  MP   W   D   L  Pt  GD
-GRE AEK Athens              0   0   0   0   0   0
+ENG Manchester City         1   1   0   0   3   2
+ENG Aston Villa             1   1   0   0   3   1
+ESP Real Betis              1   1   0   0   3   1
+GER Borussia Dortmund       1   1   0   0   3   1
+ESP Real Madrid             1   1   0   0   3   1
+GRE AEK Athens              1   1   0   0   3   1
 ENG Arsenal                 0   0   0   0   0   0
-ENG Aston Villa             0   0   0   0   0   0
 ESP Atlético Madrid         0   0   0   0   0   0
 ESP Barcelona               0   0   0   0   0   0
 GER Bayern Munich           0   0   0   0   0   0
 NOR Bodo/Glimt              0   0   0   0   0   0
-GER Borussia Dortmund       0   0   0   0   0   0
-BEL Club Brugge             0   0   0   0   0   0
 ITA Como                    0   0   0   0   0   0
 TUR Fenerbahce              0   0   0   0   0   0
 NED Feyenoord Rotterdam     0   0   0   0   0   0
 TUR Galatasaray             0   0   0   0   0   0
-ITA Internazionale          0   0   0   0   0   0
-AUT LASK Linz               0   0   0   0   0   0
 FRA Lens                    0   0   0   0   0   0
-FRA Lille                   0   0   0   0   0   0
 ENG Liverpool               0   0   0   0   0   0
-ENG Manchester City         0   0   0   0   0   0
 ENG Manchester United       0   0   0   0   0   0
 ITA Napoli                  0   0   0   0   0   0
 NED PSV Eindhoven           0   0   0   0   0   0
 FRA Paris S-G               0   0   0   0   0   0
-POR FC Porto                0   0   0   0   0   0
 GER RB Leipzig              0   0   0   0   0   0
-ESP Real Betis              0   0   0   0   0   0
-ESP Real Madrid             0   0   0   0   0   0
 ITA AS Roma                 0   0   0   0   0   0
 AZE Sabah FK                0   0   0   0   0   0
 UKR Shakhtar Donetsk        0   0   0   0   0   0
@@ -426,17 +412,22 @@ SVK Slovan Bratislava       0   0   0   0   0   0
 POR Sporting CP             0   0   0   0   0   0
 GER VfB Stuttgart           0   0   0   0   0   0
 NOR Viking FK               0   0   0   0   0   0
-ESP Villarreal              0   0   0   0   0   0
+ESP Villarreal              1   0   0   1   0  -1
+BEL Club Brugge             1   0   0   1   0  -1
+FRA Lille                   1   0   0   1   0  -1
+ITA Internazionale          1   0   0   1   0  -1
+AUT LASK Linz               1   0   0   1   0  -1
+POR FC Porto                1   0   0   1   0  -2
 
 Champions League Fixtures
 -------------------------
 Tuesday, September 08
   AEK Athens             1–0   LASK Linz
   Club Brugge            2–3   Aston Villa
-  Borussia Dortmund      0–0   Villarreal
-  FC Porto               0–0   Manchester City
-  Lille                  1–1   Real Betis
-  Real Madrid            2–0   Internazionale
+  Borussia Dortmund      3–2   Villarreal
+  FC Porto               0–2   Manchester City
+  Lille                  2–3   Real Betis
+  Real Madrid            2–1   Internazionale
 Wednesday, September 09
   Barcelona              vs    Feyenoord Rotterdam
   VfB Stuttgart          vs    Viking FK
@@ -494,4 +485,4 @@ BEL Union St.-Gilloise      0   0   0   0   0   0
 CZE Viktoria Plzen          0   0   0   0   0   0
 
 
-Standings from ESPN.com 09.08.26
+Standings from ESPN.com 09.09.26
