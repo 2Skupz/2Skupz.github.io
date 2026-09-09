@@ -27,28 +27,6 @@ const COLDEF = {
     return String(v);
   }
 
-  function renderStats(){
-    const rows = rowsFor(TABS[0]);
-    const total = rows.length;
-    const played = rows.filter(r=>r.wl.split("-").some(p=>Number(p)>0)).length;
-    const unbeaten = rows.filter(r=>{
-      const parts = r.wl.split("-");
-      return Number(parts[0])>0 && Number(parts[parts.length-1])===0;
-    }).length;
-    const topRank = rows.length ? Math.min(...rows.map(r=>r.rank)) : null;
-    const leaders = rows.filter(r=>r.rank===topRank).map(r=>r.name).join(" & ");
-
-    const items = [
-      {label:"Teams Tracked", value: total},
-      {label:"Games Played", value: played},
-      {label:"Unbeaten", value: unbeaten, accent:true},
-      {label:"Top Ranked", value: leaders || "&mdash;", accent:true}
-    ];
-    document.getElementById("stats").innerHTML = items.map(i=>
-      `<div class="stat"><span class="stat-label">${i.label}</span><span class="stat-value${i.accent?" accent":""}">${i.value}</span></div>`
-    ).join("");
-  }
-
   function renderTabs(){
     const wrap = document.getElementById("tabs");
     if(TABS.length < 2){
@@ -77,7 +55,9 @@ const COLDEF = {
     const def = COLDEF[key];
     const v = row[key];
     if(def.type==="rank") return `<td class="rank">${v}</td>`;
-    if(def.type==="team") return `<td class="team">${v}</td>`;
+    if(def.type==="team"){
+      return row.href ? `<td class="team"><a href="${row.href}">${v}</a></td>` : `<td class="team">${v}</td>`;
+    }
     if(def.type==="wl"){
       const parts = v.split("-");
       const w = parts[0], l = parts[parts.length-1];
@@ -149,6 +129,5 @@ const COLDEF = {
     renderBody();
   });
 
-  renderStats();
   renderAll();
 })();

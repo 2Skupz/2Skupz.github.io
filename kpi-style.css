@@ -142,43 +142,11 @@ h1{
   font-size:12.5px;
 }
 
-.stats{
-  display:flex;
-  flex-wrap:wrap;
-  border:1px solid var(--line);
-  border-radius:10px;
-  background:var(--surface);
-  overflow:hidden;
-  margin:14px 0 0;
-  box-shadow:var(--shadow);
-}
-.stat{
-  flex:1 1 auto;
-  min-width:110px;
-  padding:7px 14px;
-  display:flex;
-  flex-direction:column;
-  gap:1px;
-  border-right:1px solid var(--line);
-}
-.stat:last-child{border-right:none;}
-.stat-label{
-  font-family:"IBM Plex Mono",monospace;
-  font-size:9.5px;
-  letter-spacing:.07em;
-  text-transform:uppercase;
+.summary-line{
+  margin:14px 2px 0;
+  font-size:12px;
   color:var(--ink-faint);
 }
-.stat-value{
-  font-family:"Oswald",sans-serif;
-  font-size:15px;
-  font-weight:600;
-  color:var(--ink);
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
-}
-.stat-value.accent{color:var(--accent-strong);}
 
 .controls{
   display:flex;
@@ -295,9 +263,14 @@ tbody tr:last-child td{border-bottom:none;}
 
 td.rank{font-family:"Oswald",sans-serif;font-weight:500;font-size:14px;color:var(--ink-dim);}
 td.team{font-weight:600;color:var(--ink);}
+td.team a{color:inherit;text-decoration:none;border-bottom:1px solid transparent;}
+td.team a:hover{border-color:var(--ink-dim);}
 td.wl b.w{color:var(--good);font-weight:600;}
 td.wl b.l{color:var(--bad);font-weight:600;}
 td.wl{font-family:"IBM Plex Mono",monospace;}
+td.pos{color:var(--good);}
+td.neg{color:var(--bad);}
+table.schedule thead th{cursor:default;}
 
 .empty-row td{
   text-align:center;
@@ -321,7 +294,6 @@ footer a{color:var(--ink-dim);text-decoration:none;border-bottom:1px solid var(-
 footer a:hover{color:var(--ink);}
 
 @media (max-width:640px){
-  .stat{min-width:45%;}
   .controls{flex-direction:column;align-items:stretch;}
   .search-wrap{max-width:none;}
   /* Narrow screens need horizontal scroll to fit every column, which costs
