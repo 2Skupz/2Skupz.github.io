@@ -15,7 +15,8 @@
             "w": 11,
             "l": 3,
             "rank": 1,
-            "gb": "-"
+            "gb": "-",
+            "tie_number": 1
           },
           {
             "abbr": "NYY",
@@ -29,7 +30,8 @@
             "w": 11,
             "l": 3,
             "rank": 2,
-            "gb": "-"
+            "gb": "-",
+            "tie_number": 1
           },
           {
             "abbr": "TOR",
@@ -87,7 +89,8 @@
             "w": 9,
             "l": 5,
             "rank": 1,
-            "gb": "-"
+            "gb": "-",
+            "tie_number": 2
           },
           {
             "abbr": "MIN",
@@ -101,7 +104,8 @@
             "w": 9,
             "l": 5,
             "rank": 2,
-            "gb": "-"
+            "gb": "-",
+            "tie_number": 2
           },
           {
             "abbr": "CLE",
@@ -129,7 +133,8 @@
             "w": 5,
             "l": 9,
             "rank": 4,
-            "gb": "4"
+            "gb": "4",
+            "tie_number": 3
           },
           {
             "abbr": "DET",
@@ -143,7 +148,8 @@
             "w": 5,
             "l": 9,
             "rank": 5,
-            "gb": "4"
+            "gb": "4",
+            "tie_number": 3
           }
         ],
         "WEST": [
@@ -219,37 +225,6 @@
           }
         ]
       },
-      "division_ties": {
-        "EAST": [
-          {
-            "teams": [
-              "TBR",
-              "NYY"
-            ],
-            "record": "11-3",
-            "note": "TBR over NYY on head-to-head (6-3)"
-          }
-        ],
-        "CENTRAL": [
-          {
-            "teams": [
-              "CHW",
-              "MIN"
-            ],
-            "record": "9-5",
-            "note": "CHW over MIN on head-to-head (8-5)"
-          },
-          {
-            "teams": [
-              "KCR",
-              "DET"
-            ],
-            "record": "5-9",
-            "note": "KCR over DET on head-to-head (7-6)"
-          }
-        ],
-        "WEST": []
-      },
       "wildcard": [
         {
           "abbr": "NYY",
@@ -279,7 +254,8 @@
           "l": 5,
           "wc_rank": 2,
           "wcgb": "2",
-          "in_wc": true
+          "in_wc": true,
+          "tie_number": 4
         },
         {
           "abbr": "TOR",
@@ -294,7 +270,8 @@
           "l": 5,
           "wc_rank": 3,
           "wcgb": "2",
-          "in_wc": true
+          "in_wc": true,
+          "tie_number": 4
         },
         {
           "abbr": "BOS",
@@ -324,7 +301,8 @@
           "l": 8,
           "wc_rank": 5,
           "wcgb": "5",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 5
         },
         {
           "abbr": "SEA",
@@ -339,7 +317,8 @@
           "l": 8,
           "wc_rank": 6,
           "wcgb": "5",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 5
         },
         {
           "abbr": "BAL",
@@ -354,7 +333,8 @@
           "l": 8,
           "wc_rank": 7,
           "wcgb": "5",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 5
         },
         {
           "abbr": "TEX",
@@ -369,22 +349,8 @@
           "l": 9,
           "wc_rank": 8,
           "wcgb": "6",
-          "in_wc": false
-        },
-        {
-          "abbr": "DET",
-          "name": "Detroit Tigers",
-          "city": "Detroit",
-          "nickname": "Tigers",
-          "division": "CENTRAL",
-          "tb_w": 5,
-          "tb_l": 9,
-          "tb_pct": ".357",
-          "w": 5,
-          "l": 9,
-          "wc_rank": 9,
-          "wcgb": "6",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 6
         },
         {
           "abbr": "KCR",
@@ -397,9 +363,26 @@
           "tb_pct": ".357",
           "w": 5,
           "l": 9,
+          "wc_rank": 9,
+          "wcgb": "6",
+          "in_wc": false,
+          "tie_number": 6
+        },
+        {
+          "abbr": "DET",
+          "name": "Detroit Tigers",
+          "city": "Detroit",
+          "nickname": "Tigers",
+          "division": "CENTRAL",
+          "tb_w": 5,
+          "tb_l": 9,
+          "tb_pct": ".357",
+          "w": 5,
+          "l": 9,
           "wc_rank": 10,
           "wcgb": "6",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 6
         },
         {
           "abbr": "ATH",
@@ -432,14 +415,54 @@
           "in_wc": false
         }
       ],
-      "wildcard_ties": [
+      "ties": [
+        {
+          "teams": [
+            "TBR",
+            "NYY"
+          ],
+          "record": "11-3",
+          "steps": [
+            "TBR over NYY on head-to-head (6-3)"
+          ],
+          "number": 1,
+          "label": "AL East"
+        },
+        {
+          "teams": [
+            "CHW",
+            "MIN"
+          ],
+          "record": "9-5",
+          "steps": [
+            "CHW over MIN on head-to-head (8-5)"
+          ],
+          "number": 2,
+          "label": "AL Central"
+        },
+        {
+          "teams": [
+            "KCR",
+            "DET"
+          ],
+          "record": "5-9",
+          "steps": [
+            "KCR over DET on head-to-head (7-6)"
+          ],
+          "number": 3,
+          "label": "AL Central"
+        },
         {
           "teams": [
             "MIN",
             "TOR"
           ],
           "record": "9-5",
-          "note": "MIN over TOR on head-to-head (4-3)"
+          "steps": [
+            "MIN over TOR on head-to-head (4-3)"
+          ],
+          "number": 4,
+          "label": "AL Wild Card"
         },
         {
           "teams": [
@@ -448,16 +471,26 @@
             "BAL"
           ],
           "record": "6-8",
-          "note": "CLE beat both others head-to-head; SEA over BAL on head-to-head (4-3)"
+          "steps": [
+            "CLE beat both others head-to-head",
+            "SEA over BAL on head-to-head (4-3)"
+          ],
+          "number": 5,
+          "label": "AL Wild Card"
         },
         {
           "teams": [
             "TEX",
-            "DET",
-            "KCR"
+            "KCR",
+            "DET"
           ],
           "record": "5-9",
-          "note": "ranked by combined head-to-head record among the three"
+          "steps": [
+            "Central: KCR over DET on head-to-head (7-6)",
+            "Wild Card: TEX over KCR on head-to-head (5-1)"
+          ],
+          "number": 6,
+          "label": "AL Wild Card"
         }
       ]
     },
@@ -476,7 +509,8 @@
             "w": 9,
             "l": 5,
             "rank": 1,
-            "gb": "-"
+            "gb": "-",
+            "tie_number": 1
           },
           {
             "abbr": "PHI",
@@ -490,7 +524,8 @@
             "w": 9,
             "l": 5,
             "rank": 2,
-            "gb": "-"
+            "gb": "-",
+            "tie_number": 1
           },
           {
             "abbr": "MIA",
@@ -562,7 +597,8 @@
             "w": 9,
             "l": 5,
             "rank": 2,
-            "gb": "1"
+            "gb": "1",
+            "tie_number": 2
           },
           {
             "abbr": "STL",
@@ -576,7 +612,8 @@
             "w": 9,
             "l": 5,
             "rank": 3,
-            "gb": "1"
+            "gb": "1",
+            "tie_number": 2
           },
           {
             "abbr": "PIT",
@@ -680,29 +717,6 @@
           }
         ]
       },
-      "division_ties": {
-        "EAST": [
-          {
-            "teams": [
-              "ATL",
-              "PHI"
-            ],
-            "record": "9-5",
-            "note": "ATL over PHI on head-to-head (7-3)"
-          }
-        ],
-        "CENTRAL": [
-          {
-            "teams": [
-              "MIL",
-              "STL"
-            ],
-            "record": "9-5",
-            "note": "MIL over STL on head-to-head (8-2)"
-          }
-        ],
-        "WEST": []
-      },
       "wildcard": [
         {
           "abbr": "MIL",
@@ -717,22 +731,8 @@
           "l": 5,
           "wc_rank": 1,
           "wcgb": "-",
-          "in_wc": true
-        },
-        {
-          "abbr": "PHI",
-          "name": "Philadelphia Phillies",
-          "city": "Philadelphia",
-          "nickname": "Phillies",
-          "division": "EAST",
-          "tb_w": 9,
-          "tb_l": 5,
-          "tb_pct": ".643",
-          "w": 9,
-          "l": 5,
-          "wc_rank": 2,
-          "wcgb": "-",
-          "in_wc": true
+          "in_wc": true,
+          "tie_number": 3
         },
         {
           "abbr": "STL",
@@ -745,9 +745,26 @@
           "tb_pct": ".643",
           "w": 9,
           "l": 5,
+          "wc_rank": 2,
+          "wcgb": "-",
+          "in_wc": true,
+          "tie_number": 3
+        },
+        {
+          "abbr": "PHI",
+          "name": "Philadelphia Phillies",
+          "city": "Philadelphia",
+          "nickname": "Phillies",
+          "division": "EAST",
+          "tb_w": 9,
+          "tb_l": 5,
+          "tb_pct": ".643",
+          "w": 9,
+          "l": 5,
           "wc_rank": 3,
           "wcgb": "-",
-          "in_wc": true
+          "in_wc": true,
+          "tie_number": 3
         },
         {
           "abbr": "SDP",
@@ -762,7 +779,8 @@
           "l": 6,
           "wc_rank": 4,
           "wcgb": "1",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 4
         },
         {
           "abbr": "MIA",
@@ -777,7 +795,8 @@
           "l": 6,
           "wc_rank": 5,
           "wcgb": "1",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 4
         },
         {
           "abbr": "LAD",
@@ -807,7 +826,8 @@
           "l": 8,
           "wc_rank": 7,
           "wcgb": "3",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 5
         },
         {
           "abbr": "PIT",
@@ -822,7 +842,8 @@
           "l": 8,
           "wc_rank": 8,
           "wcgb": "3",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 5
         },
         {
           "abbr": "SFG",
@@ -837,7 +858,8 @@
           "l": 8,
           "wc_rank": 9,
           "wcgb": "3",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 5
         },
         {
           "abbr": "WSN",
@@ -867,7 +889,8 @@
           "l": 12,
           "wc_rank": 11,
           "wcgb": "7",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 6
         },
         {
           "abbr": "COL",
@@ -882,18 +905,48 @@
           "l": 12,
           "wc_rank": 12,
           "wcgb": "7",
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 6
         }
       ],
-      "wildcard_ties": [
+      "ties": [
+        {
+          "teams": [
+            "ATL",
+            "PHI"
+          ],
+          "record": "9-5",
+          "steps": [
+            "ATL over PHI on head-to-head (7-3)"
+          ],
+          "number": 1,
+          "label": "NL East"
+        },
         {
           "teams": [
             "MIL",
-            "PHI",
             "STL"
           ],
           "record": "9-5",
-          "note": "MIL beat both others head-to-head; PHI over STL on head-to-head (4-2)"
+          "steps": [
+            "MIL over STL on head-to-head (8-2)"
+          ],
+          "number": 2,
+          "label": "NL Central"
+        },
+        {
+          "teams": [
+            "MIL",
+            "STL",
+            "PHI"
+          ],
+          "record": "9-5",
+          "steps": [
+            "Central: MIL over STL on head-to-head (8-2)",
+            "Wild Card: MIL over PHI on head-to-head (2-1)"
+          ],
+          "number": 3,
+          "label": "NL Wild Card"
         },
         {
           "teams": [
@@ -901,7 +954,11 @@
             "MIA"
           ],
           "record": "8-6",
-          "note": "SDP over MIA on head-to-head (3-0)"
+          "steps": [
+            "SDP over MIA on head-to-head (3-0)"
+          ],
+          "number": 4,
+          "label": "NL Wild Card"
         },
         {
           "teams": [
@@ -910,7 +967,12 @@
             "SFG"
           ],
           "record": "6-8",
-          "note": "NYM beat both others head-to-head; PIT over SFG on intradivision record"
+          "steps": [
+            "NYM beat both others head-to-head",
+            "PIT over SFG on intradivision record"
+          ],
+          "number": 5,
+          "label": "NL Wild Card"
         },
         {
           "teams": [
@@ -918,7 +980,11 @@
             "COL"
           ],
           "record": "2-12",
-          "note": "CIN over COL on head-to-head (4-2)"
+          "steps": [
+            "CIN over COL on head-to-head (4-2)"
+          ],
+          "number": 6,
+          "label": "NL Wild Card"
         }
       ]
     }

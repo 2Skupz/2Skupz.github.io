@@ -4,11 +4,12 @@
 # "if every team in this league ended the season tied, who wins the tiebreaker
 # chain against whom." Each team's record is its tiebreak record against the
 # ENTIRE league (all other teams), same number as
-# mlbTiebreak/scripts/generateTiebreakGrid.py's summary. Division and wild
-# card tables just group/order that same record - when several teams share a
-# tiebreak record, they're ordered using the two/three/four-team cascade in
-# mlbTiebreak/README.md (see tiebreakRules.py), and a plain-language note
-# explaining the resolution is attached to the group.
+# mlbTiebreak/scripts/generateTiebreakGrid.py's summary. Division tables order
+# ties with the two/three/four-team cascade in mlbTiebreak/README.md; the wild
+# card table breaks same-division teams against each other first, NFL-style,
+# before comparing across divisions (see tiebreakRules.py). Every tie is
+# numbered sequentially within its league and gets a plain-language,
+# step-by-step explanation for the page's footnotes.
 #
 # This is a standalone sibling project: it reads mlbTiebreak's already-
 # generated data/tiebreakers.json and data/teamFiles/{season}teams.csv
@@ -18,15 +19,13 @@ import csv
 import json
 import os
 
-from tiebreakRules import build_stats, resolve_group, pct as calc_pct
+from tiebreakRules import DIVISION_ORDER, build_stats, resolve_group, resolve_wildcard_group, pct as calc_pct
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 MLB_TIEBREAK_DATA_DIR = os.path.join(THIS_DIR, '..', 'mlbTiebreak', 'data')
 TIEBREAKERS_FILE = os.path.join(MLB_TIEBREAK_DATA_DIR, 'tiebreakers.json')
 TEAM_FILES_DIR = os.path.join(MLB_TIEBREAK_DATA_DIR, 'teamFiles')
 OUTPUT_FILE = os.path.join(THIS_DIR, 'pairwiseStandings.json')
-
-DIVISION_ORDER = ['EAST', 'CENTRAL', 'WEST']
 
 
 def load_tiebreakers():
@@ -101,10 +100,10 @@ def build_team_entry(abbr, teams, record):
     }
 
 
-def rank_and_resolve_ties(entries, h2h, div_stats, league_stats):
-    """Sort by tiebreak record, then resolve any group sharing a record with
-    the two/three/four-team cascade. Returns (ordered_entries, ties) where
-    ties is a list of {teams, record, note} for every group of 2+."""
+def rank_and_resolve_ties(entries, resolver):
+    """Sort by tiebreak record, then resolve any group sharing a record via
+    `resolver(abbrs) -> (ordered_abbrs, steps)`. Returns (ordered_entries, ties)
+    where ties is a list of {teams, record, steps} for every group of 2+."""
     by_abbr = {e['abbr']: e for e in entries}
     entries_sorted = sorted(entries, key=lambda e: (-e['tb_w'], e['tb_l']))
 
@@ -122,12 +121,12 @@ def rank_and_resolve_ties(entries, h2h, div_stats, league_stats):
         if len(abbrs) == 1:
             ordered.append(group[0])
             continue
-        resolved_abbrs, note = resolve_group(abbrs, h2h, div_stats, league_stats)
+        resolved_abbrs, steps = resolver(abbrs)
         ordered.extend(by_abbr[a] for a in resolved_abbrs)
         ties.append({
             'teams': resolved_abbrs,
             'record': f"{group[0]['tb_w']}-{group[0]['tb_l']}",
-            'note': note,
+            'steps': steps,
         })
 
     leader = ordered[0]
@@ -136,6 +135,29 @@ def rank_and_resolve_ties(entries, h2h, div_stats, league_stats):
         team['gb'] = fmt_gb(leader, team) if i > 0 else '-'
 
     return ordered, ties
+
+
+def number_ties(league, division_ties, wildcard_ties):
+    """Assign a running tie number across a league: divisions in EAST/CENTRAL/
+    WEST order first, then wild card ties in rank order. Also attaches a
+    human label to each tie for the page's footnote headers."""
+    counter = 1
+    for division in DIVISION_ORDER:
+        for tie in division_ties.get(division, []):
+            tie['number'] = counter
+            tie['label'] = f"{league} {division.capitalize()}"
+            counter += 1
+    for tie in wildcard_ties:
+        tie['number'] = counter
+        tie['label'] = f"{league} Wild Card"
+        counter += 1
+
+
+def stamp_tie_numbers(table, ties):
+    by_abbr = {e['abbr']: e for e in table}
+    for tie in ties:
+        for abbr in tie['teams']:
+            by_abbr[abbr]['tie_number'] = tie['number']
 
 
 def generate_pairwise_standings():
@@ -149,6 +171,13 @@ def generate_pairwise_standings():
         h2h, div_stats, league_stats = build_stats(matchups)
         league_teams = {a: t for a, t in teams.items() if t['league'] == league}
         league_record = tally_vs_league(list(league_teams.keys()), winner_lookup)
+        team_division = {a: t['division'] for a, t in league_teams.items()}
+
+        def division_resolver(abbrs):
+            return resolve_group(abbrs, h2h, div_stats, league_stats)
+
+        def wildcard_resolver(abbrs):
+            return resolve_wildcard_group(abbrs, team_division, h2h, div_stats, league_stats)
 
         divisions_out = {}
         division_ties = {}
@@ -158,7 +187,7 @@ def generate_pairwise_standings():
             if not abbrs:
                 continue
             entries = [build_team_entry(a, teams, league_record[a]) for a in abbrs]
-            div_table, ties = rank_and_resolve_ties(entries, h2h, div_stats, league_stats)
+            div_table, ties = rank_and_resolve_ties(entries, division_resolver)
             divisions_out[division] = div_table
             division_ties[division] = ties
 
@@ -166,17 +195,27 @@ def generate_pairwise_standings():
             wc_pool.extend(team['abbr'] for team in div_table[1:])
 
         wc_entries = [build_team_entry(a, teams, league_record[a]) for a in wc_pool]
-        wc_ordered, wc_ties = rank_and_resolve_ties(wc_entries, h2h, div_stats, league_stats)
+        wc_ordered, wc_ties = rank_and_resolve_ties(wc_entries, wildcard_resolver)
         for i, team in enumerate(wc_ordered):
             team['wc_rank'] = team.pop('rank')
             team['wcgb'] = team.pop('gb')
             team['in_wc'] = i < 3
 
+        number_ties(league, division_ties, wc_ties)
+        for division in DIVISION_ORDER:
+            if division in divisions_out:
+                stamp_tie_numbers(divisions_out[division], division_ties[division])
+        stamp_tie_numbers(wc_ordered, wc_ties)
+
+        all_ties = []
+        for division in DIVISION_ORDER:
+            all_ties.extend(division_ties.get(division, []))
+        all_ties.extend(wc_ties)
+
         result[league] = {
             'divisions': divisions_out,
-            'division_ties': division_ties,
             'wildcard': wc_ordered,
-            'wildcard_ties': wc_ties,
+            'ties': all_ties,
         }
 
     return season, result

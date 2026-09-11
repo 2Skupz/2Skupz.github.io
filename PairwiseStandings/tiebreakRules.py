@@ -14,6 +14,18 @@
 # Ties of 5+ teams aren't covered by the documented rules at all; they're
 # ordered by combined record among the group as a reasonable stand-in, and
 # flagged as such.
+#
+# Every resolve_* function returns (ordered_abbrs, steps) where `steps` is an
+# ordered list of short strings, each describing one deciding step - so a
+# multi-team tie can be explained as a numbered sequence rather than one
+# run-on sentence.
+#
+# Wild card ties get one more layer on top: resolve_wildcard_group() breaks
+# same-division teams against each other FIRST (NFL-style - division
+# tiebreakers apply before any cross-division/wild-card comparison), then
+# runs the normal cascade between each division's surviving representative.
+
+DIVISION_ORDER = ['EAST', 'CENTRAL', 'WEST']
 
 
 def parse_record(record_str):
@@ -59,26 +71,24 @@ def resolve_two(a, b, h2h, div_stats, league_stats):
     if wa != la:
         winner, loser = (a, b) if wa > la else (b, a)
         w, l = (wa, la) if wa > la else (la, wa)
-        return [winner, loser], f"{winner} over {loser} on head-to-head ({w}-{l})"
+        return [winner, loser], [f"{winner} over {loser} on head-to-head ({w}-{l})"]
 
     da, db = div_stats[a], div_stats[b]
     pa, pb = pct(*da), pct(*db)
     if pa != pb:
         winner, loser = (a, b) if pa > pb else (b, a)
-        return [winner, loser], f"{winner} over {loser} on intradivision record"
+        return [winner, loser], [f"{winner} over {loser} on intradivision record"]
 
     ea, eb = league_stats[a], league_stats[b]
     qa, qb = pct(*ea), pct(*eb)
     if qa != qb:
         winner, loser = (a, b) if qa > qb else (b, a)
-        return [winner, loser], f"{winner} over {loser} on intraleague record"
+        return [winner, loser], [f"{winner} over {loser} on intraleague record"]
 
-    return [a, b], f"{a}/{b} unresolved (tied on head-to-head, division, and league record)"
+    return [a, b], [f"{a}/{b} unresolved (tied on head-to-head, division, and league record)"]
 
 
 def resolve_three(teams, h2h, div_stats, league_stats):
-    a, b, c = teams
-
     def combined(x):
         others = [t for t in teams if t != x]
         w = sum(h2h[(x, o)][0] for o in others)
@@ -89,7 +99,7 @@ def resolve_three(teams, h2h, div_stats, league_stats):
 
     if len(set(combined_pct.values())) == 1:
         order, method = _order_by_division_then_league(teams, div_stats, league_stats)
-        return order, f"identical head-to-head among the three - ranked by {method}"
+        return order, [f"identical head-to-head among the three - ranked by {method}"]
 
     def beats(x, y):
         w, l = h2h[(x, y)]
@@ -99,8 +109,8 @@ def resolve_three(teams, h2h, div_stats, league_stats):
     if len(dominant) == 1:
         leader = dominant[0]
         rest = [t for t in teams if t != leader]
-        rest_order, rest_note = resolve_two(rest[0], rest[1], h2h, div_stats, league_stats)
-        return [leader] + rest_order, f"{leader} beat both others head-to-head; {rest_note}"
+        rest_order, rest_steps = resolve_two(rest[0], rest[1], h2h, div_stats, league_stats)
+        return [leader] + rest_order, [f"{leader} beat both others head-to-head"] + rest_steps
 
     distinct_vals = sorted(set(combined_pct.values()), reverse=True)
     groups_by_val = {}
@@ -108,20 +118,17 @@ def resolve_three(teams, h2h, div_stats, league_stats):
         groups_by_val.setdefault(combined_pct[t], []).append(t)
 
     order = []
-    notes = []
+    steps = ["ranked by combined head-to-head record among the three"]
     for val in distinct_vals:
         members = groups_by_val[val]
         if len(members) == 1:
             order.extend(members)
         else:
-            sub_order, sub_note = resolve_two(members[0], members[1], h2h, div_stats, league_stats)
+            sub_order, sub_steps = resolve_two(members[0], members[1], h2h, div_stats, league_stats)
             order.extend(sub_order)
-            notes.append(sub_note)
+            steps.extend(sub_steps)
 
-    note = "ranked by combined head-to-head record among the three"
-    if notes:
-        note += "; " + "; ".join(notes)
-    return order, note
+    return order, steps
 
 
 def resolve_four(teams, h2h, div_stats, league_stats):
@@ -133,8 +140,8 @@ def resolve_four(teams, h2h, div_stats, league_stats):
     if len(dominant) == 1:
         leader = dominant[0]
         rest = [t for t in teams if t != leader]
-        rest_order, rest_note = resolve_three(rest, h2h, div_stats, league_stats)
-        return [leader] + rest_order, f"{leader} beat all three others head-to-head; {rest_note}"
+        rest_order, rest_steps = resolve_three(rest, h2h, div_stats, league_stats)
+        return [leader] + rest_order, [f"{leader} beat all three others head-to-head"] + rest_steps
 
     def combined(x):
         others = [t for t in teams if t != x]
@@ -147,31 +154,28 @@ def resolve_four(teams, h2h, div_stats, league_stats):
 
     if len(distinct_vals) == 1:
         order, method = _order_by_division_then_league(teams, div_stats, league_stats)
-        return order, f"identical combined record among the four - ranked by {method}"
+        return order, [f"identical combined record among the four - ranked by {method}"]
 
     groups_by_val = {}
     for t in teams:
         groups_by_val.setdefault(combined_pct[t], []).append(t)
 
     order = []
-    notes = []
+    steps = ["ranked by combined head-to-head record among the four"]
     for val in distinct_vals:
         members = groups_by_val[val]
         if len(members) == 1:
             order.extend(members)
         elif len(members) == 2:
-            sub_order, sub_note = resolve_two(members[0], members[1], h2h, div_stats, league_stats)
+            sub_order, sub_steps = resolve_two(members[0], members[1], h2h, div_stats, league_stats)
             order.extend(sub_order)
-            notes.append(sub_note)
+            steps.extend(sub_steps)
         else:
-            sub_order, sub_note = resolve_three(members, h2h, div_stats, league_stats)
+            sub_order, sub_steps = resolve_three(members, h2h, div_stats, league_stats)
             order.extend(sub_order)
-            notes.append(sub_note)
+            steps.extend(sub_steps)
 
-    note = "ranked by combined head-to-head record among the four"
-    if notes:
-        note += "; " + "; ".join(notes)
-    return order, note
+    return order, steps
 
 
 def resolve_many(teams, h2h, div_stats, league_stats):
@@ -191,26 +195,23 @@ def resolve_many(teams, h2h, div_stats, league_stats):
         groups_by_val.setdefault(combined_pct[t], []).append(t)
 
     order = []
-    notes = []
+    steps = [f"{len(teams)}-way tie isn't covered by the documented rules - ranked by combined record among the group"]
     for val in distinct_vals:
         members = groups_by_val[val]
         if len(members) > 1:
-            sub_order, sub_note = resolve_group(members, h2h, div_stats, league_stats)
+            sub_order, sub_steps = resolve_group(members, h2h, div_stats, league_stats)
             order.extend(sub_order)
-            notes.append(sub_note)
+            steps.extend(sub_steps)
         else:
             order.extend(members)
 
-    note = f"{len(teams)}-way tie isn't covered by the documented rules - ranked by combined record among the group"
-    if notes:
-        note += "; " + "; ".join(notes)
-    return order, note
+    return order, steps
 
 
 def resolve_group(abbrs, h2h, div_stats, league_stats):
     n = len(abbrs)
     if n <= 1:
-        return abbrs, None
+        return abbrs, []
     if n == 2:
         return resolve_two(abbrs[0], abbrs[1], h2h, div_stats, league_stats)
     if n == 3:
@@ -218,3 +219,45 @@ def resolve_group(abbrs, h2h, div_stats, league_stats):
     if n == 4:
         return resolve_four(abbrs, h2h, div_stats, league_stats)
     return resolve_many(abbrs, h2h, div_stats, league_stats)
+
+
+def resolve_wildcard_group(abbrs, team_division, h2h, div_stats, league_stats):
+    """NFL-style: eliminate same-division teams against each other first,
+    then run the normal cascade between each division's surviving team."""
+    by_division = {}
+    for t in abbrs:
+        by_division.setdefault(team_division[t], []).append(t)
+
+    representatives = []
+    full_order_by_division = {}
+    steps = []
+    any_division_phase = False
+
+    for division in DIVISION_ORDER:
+        members = by_division.get(division)
+        if not members:
+            continue
+        if len(members) == 1:
+            representatives.append(members[0])
+            full_order_by_division[division] = members
+            continue
+
+        any_division_phase = True
+        order, sub_steps = resolve_group(members, h2h, div_stats, league_stats)
+        representatives.append(order[0])
+        full_order_by_division[division] = order
+        label = division.capitalize()
+        steps.extend(f"{label}: {s}" for s in sub_steps)
+
+    if len(representatives) == 1:
+        only_division = next(iter(full_order_by_division))
+        return full_order_by_division[only_division], steps
+
+    rep_order, wc_steps = resolve_group(representatives, h2h, div_stats, league_stats)
+    steps.extend(f"Wild Card: {s}" if any_division_phase else s for s in wc_steps)
+
+    order = []
+    for rep in rep_order:
+        order.extend(full_order_by_division[team_division[rep]])
+
+    return order, steps

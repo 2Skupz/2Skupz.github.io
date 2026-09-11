@@ -20,6 +20,7 @@ __all__ = [
     'PROJECT_ROOT',
     'DATA_DIR',
     'WEB_DIR',
+    'SPORTS_REPO_DIR',
     'GAMES_DIR',
     'TEAMS_DIR',
     'REPORTS_DIR',

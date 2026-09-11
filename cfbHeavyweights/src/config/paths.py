@@ -9,9 +9,12 @@ PROJECT_ROOT = Path(__file__).parent.parent.parent  # config -> src -> project r
 DATA_DIR = PROJECT_ROOT / 'data'
 WEB_DIR = PROJECT_ROOT / 'web'
 
+# Shared sports data lives alongside this project, fed by the KPI project
+SPORTS_REPO_DIR = PROJECT_ROOT.parent / 'sportsRepo'
+
 # Data subdirectories
-GAMES_DIR = DATA_DIR / 'games'
-TEAMS_DIR = DATA_DIR / 'teams'
+GAMES_DIR = SPORTS_REPO_DIR / 'cfb' / 'games'
+TEAMS_DIR = SPORTS_REPO_DIR / 'cfb' / 'teams'
 REPORTS_DIR = DATA_DIR / 'reports'
 
 # Web subdirectories

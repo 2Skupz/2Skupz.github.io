@@ -5,7 +5,6 @@ from collections import Counter
 
 from ..models.heavyweightClasses import Team, Game
 from ..utils.helpers import findTeam, getCurrentSeason
-from ..data_loaders import getGames
 from ..config import (
     START_YEAR, SKIPPED_YEARS, TOP_N_ACTIVE,
     get_games_file, get_teams_file,
@@ -19,11 +18,7 @@ def createMasterFile():
     boutList = []
     champ = None
     lastYear = getCurrentSeason()
-    
-    # Update file if needed
-    if updateMostRecentGames(lastYear):
-        getGamesAndTeams(lastYear)
-    
+
     # Create master files
     for season in range(START_YEAR, lastYear + 1):
         if season in SKIPPED_YEARS:
@@ -86,18 +81,6 @@ def updateTeamTitles(champList, teamList):
         champ = findTeam(teamList, season[1])
         if champ:
             champ.addNationalTitle(season[0])
-
-def updateMostRecentGames(year):
-    """Check if games need to be updated (currently disabled)."""
-    return False
-
-def getGamesAndTeams(year):
-    """Fetch games and teams from the web."""
-    gameList = getGames.readGamesFromWeb(year)
-    getGames.writePlayedGamesFile(get_games_file(year), gameList)
-    if not os.path.exists(get_teams_file(year)):
-        teamList = getGames.readTeamsFromWeb(year)
-        getGames.writeTeamFile(get_teams_file(year), teamList)
 
 def dropInactiveTeamsWithNoHistory(active, historical):
     """Remove inactive teams that never participated in a bout."""

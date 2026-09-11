@@ -10,10 +10,10 @@ Oklahoma                 6         1953, 1954, 1955, 1956, 1967, 2013
 Army                     5         1927, 1945, 1946, 1948, 1949
 Ohio State               5         1958, 1968, 1981, 2002, 2018
 Auburn                   4         1937, 1942, 1983, 2010
+Notre Dame               4         1930, 1936, 1973, 2025
 Pennsylvania             4         1894, 1895, 1897, 1905
 Florida                  3         2006, 2008, 2024
 Michigan                 3         1918, 1980, 2023
-Notre Dame               3         1930, 1936, 1973
 Syracuse                 3         1917, 1923, 1959
 Texas                    3         1963, 1998, 2005
 UCLA                     3         1975, 1984, 1992
@@ -209,3 +209,4 @@ Wyoming                  1         1994
 2022 Washington
 2023 Michigan
 2024 Florida
+2025 Notre Dame

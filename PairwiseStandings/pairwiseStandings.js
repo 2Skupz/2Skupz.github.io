@@ -54,14 +54,15 @@ function renderLeagueColumn(league) {
     if (!leagueData) return '';
 
     const divisionsHtml = Object.entries(leagueData.divisions)
-        .map(([division, teams]) => renderDivisionTable(league, division, teams, leagueData.division_ties?.[division]))
+        .map(([division, teams]) => renderDivisionTable(league, division, teams))
         .join('');
 
     return `
-        <div class="league-column">
+        <div class="league-column ${league === 'NL' ? 'nl' : ''}">
             <h2 class="league-heading ${league === 'NL' ? 'nl' : ''}">${LEAGUE_LABELS[league]}</h2>
             ${divisionsHtml}
-            ${renderWildcardTable(league, leagueData.wildcard, leagueData.wildcard_ties)}
+            ${renderWildcardTable(league, leagueData.wildcard)}
+            ${renderTieExplainer(leagueData.ties)}
         </div>
     `;
 }
@@ -78,13 +79,14 @@ function renderHeaderRow() {
 }
 
 function renderTeamRow(team, extraClass) {
+    const marker = team.tie_number ? `<sup class="tie-marker">${team.tie_number}</sup>` : '';
     return `
         <div class="standings-row tb-row ${extraClass || ''}">
             <div class="col-team">
                 <span class="rank">${team.wc_rank || team.rank}</span>
                 <img class="team-logo-sm" src="${getLogoPath(team)}" alt="${team.name}">
-                <span class="team-name">${team.name}</span>
-                <span class="team-abbr">${team.abbr}</span>
+                <span class="team-name">${team.name}${marker}</span>
+                <span class="team-abbr">${team.abbr}${marker}</span>
             </div>
             <div class="col-num">${team.tb_w}</div>
             <div class="col-num">${team.tb_l}</div>
@@ -93,17 +95,7 @@ function renderTeamRow(team, extraClass) {
     `;
 }
 
-function renderTieNotes(ties) {
-    if (!ties || !ties.length) return '';
-
-    const items = ties
-        .map(tie => `<div class="tie-note">${tie.teams.join(', ')} tied at ${tie.record} &mdash; ${tie.note}</div>`)
-        .join('');
-
-    return `<div class="tie-notes">${items}</div>`;
-}
-
-function renderDivisionTable(league, division, teams, ties) {
+function renderDivisionTable(league, division, teams) {
     const label = DIVISION_LABELS[division] || division;
     const rows = teams
         .map(team => renderTeamRow(team, team.rank === 1 ? 'row-leader' : ''))
@@ -114,12 +106,11 @@ function renderDivisionTable(league, division, teams, ties) {
             <div class="standings-title">${league} ${label}</div>
             ${renderHeaderRow()}
             ${rows}
-            ${renderTieNotes(ties)}
         </div>
     `;
 }
 
-function renderWildcardTable(league, teams, ties) {
+function renderWildcardTable(league, teams) {
     if (!teams || !teams.length) return '';
 
     const rows = teams.map((team, i) => {
@@ -133,7 +124,30 @@ function renderWildcardTable(league, teams, ties) {
             <div class="standings-title">${league} Wild Card</div>
             ${renderHeaderRow()}
             ${rows}
-            ${renderTieNotes(ties)}
+        </div>
+    `;
+}
+
+function renderTieExplainer(ties) {
+    if (!ties || !ties.length) return '';
+
+    const items = ties.map(tie => `
+        <div class="tie-entry">
+            <div class="tie-entry-header">
+                <span class="tie-entry-number">${tie.number}</span>
+                ${tie.label}: ${tie.teams.join('/')}
+                <span class="tie-entry-record">(${tie.record})</span>
+            </div>
+            <div class="tie-entry-steps">
+                ${tie.steps.map(step => `<div class="tie-entry-step">${step}</div>`).join('')}
+            </div>
+        </div>
+    `).join('');
+
+    return `
+        <div class="tie-explainer">
+            <div class="tie-explainer-title">Tiebreakers</div>
+            ${items}
         </div>
     `;
 }
