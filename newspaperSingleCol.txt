@@ -17,6 +17,28 @@ Seattle                22   7   6   9  27  -5
 Austin                 24   6   8  10  26 -13
 Sporting KC            23   4   3  16  15 -35
 
+MLS West Fixtures
+-----------------
+Thursday, September 10
+  Austin                 1–1   Colorado
+  Houston                2–1   Real Salt Lake
+  Minnesota              1–2   Dallas
+  LAFC                   2–0   Red Bull New York
+  Portland               2–2   St. Louis
+  San Diego              2–3   San Jose
+  Vancouver Whitecaps    3–0   Galaxy
+Sunday, September 13
+  Dallas                 vs    Portland
+  Sporting KC            vs    LAFC
+  St. Louis              vs    Minnesota
+  Colorado               vs    Montreal
+  Real Salt Lake         vs    New York City
+  Galaxy                 vs    Seattle
+  San Jose               vs    Houston
+  Vancouver Whitecaps    vs    Austin
+Monday, September 14
+  San Diego              vs    Philadelphia
+
 
 MLS East
 --------
@@ -36,6 +58,31 @@ Red Bull New York      24   7   6  11  27 -16
 Columbus               24   6   5  13  23  -6
 Atlanta                24   6   4  14  22 -14
 Montreal               24   5   6  13  21 -19
+
+MLS East Fixtures
+-----------------
+Wednesday, September 09
+  Atlanta                2–3   Orlando City SC
+  Montreal               1–2   Charlotte
+  DC United              2–1   Columbus
+  Toronto                2–1   Nashville
+  Philadelphia           5–0   Cincinnati
+Thursday, September 10
+  New York City          1–2   New England
+  Chicago                1–1   Inter Miami
+  LAFC                   2–0   Red Bull New York
+Saturday, September 12
+  Columbus               vs    Red Bull New York
+  DC United              vs    Atlanta
+  Cincinnati             vs    Charlotte
+  Inter Miami            vs    Nashville
+  Orlando City SC        vs    Toronto
+Sunday, September 13
+  Colorado               vs    Montreal
+  Real Salt Lake         vs    New York City
+  Chicago                vs    New England
+Monday, September 14
+  San Diego              vs    Philadelphia
 
 
 Allsvenskan
@@ -57,6 +104,21 @@ Kalmar FF              20   5   4  11  19  -9
 Degerfors IF           20   5   4  11  19 -12
 Örgryte IS             20   3   6  11  15 -20
 Halmstads BK           20   2   5  13  11 -24
+
+Allsvenskan Fixtures
+--------------------
+Friday, September 11
+  BK Häcken              vs    Mjällby AIF
+Saturday, September 12
+  AIK                    vs    Västerås SK
+  IFK Göteborg           vs    Halmstads BK
+Sunday, September 13
+  Hammarby IF            vs    IF Brommapojkarna
+  IF Elfsborg            vs    Kalmar FF
+  Malmö FF               vs    Örgryte IS
+Monday, September 14
+  Djurgården             vs    GAIS
+  IK Sirius              vs    Degerfors IF
 
 
 Bundesliga
@@ -134,6 +196,8 @@ Saturday, September 12
 Sunday, September 13
   Coventry City          vs    Brighton & Hove Albion
   Manchester United      vs    Manchester City
+Monday, September 14
+  Leeds United           vs    Newcastle United
 
 
 Ligue 1
@@ -200,9 +264,6 @@ Fiorentina              3   0   0   3   0  -8
 
 Serie A Fixtures
 ----------------
-Monday, September 07
-  Cagliari               1–0   Lecce
-  Udinese                1–2   Lazio
 Friday, September 11
   Venezia                vs    Fiorentina
 Saturday, September 12
@@ -213,6 +274,10 @@ Sunday, September 13
   Lecce                  vs    Monza
   Napoli                 vs    Bologna
   Sassuolo               vs    Juventus
+Monday, September 14
+  Como                   vs    Parma
+  Torino                 vs    AS Roma
+  Internazionale         vs    Udinese
 
 
 La Liga
@@ -241,9 +306,6 @@ Valencia                4   0   1   3   1  -8
 
 La Liga Fixtures
 ----------------
-Monday, September 07
-  Getafe                 1–1   Celta Vigo
-  Elche                  2–3   Real Sociedad
 Friday, September 11
   Sevilla                vs    Valencia
 Saturday, September 12
@@ -256,6 +318,8 @@ Sunday, September 13
   Levante                vs    Barcelona
   Getafe                 vs    Deportivo
   Real Sociedad          vs    Atlético Madrid
+Monday, September 14
+  Villarreal             vs    Real Betis
 
 
 Scottish Premiership
@@ -290,12 +354,12 @@ Toluca                  6   4   1   1  13   8
 Tijuana                 6   4   1   1  13   3
 Atlas                   7   4   1   2  13   1
 Cruz Azul               7   4   0   3  12   1
+Pumas UNAM              7   3   2   2  11   2
 Querétaro               6   3   1   2  10   2
-León                    6   3   1   2  10   2
 Puebla                  6   3   1   2  10   0
+León                    7   3   1   3  10   0
 Monterrey               6   3   0   3   9   3
 Pachuca                 7   2   2   3   8   2
-Pumas UNAM              6   2   2   2   8   0
 Necaxa                  7   2   2   3   8  -3
 Atlante                 7   1   4   2   7  -2
 Tigres UANL             7   1   3   3   6  -2
@@ -306,7 +370,7 @@ FC Juarez               7   0   0   7   0 -18
 Liga MX Fixtures
 ----------------
 Friday, September 11
-  Pumas UNAM             vs    León
+  Pumas UNAM             3–1   León
 Saturday, September 12
   Necaxa                 vs    Puebla
   Atlante                vs    Pachuca
@@ -318,38 +382,37 @@ Sunday, September 13
 Monday, September 14
   Santos                 vs    FC Juarez
   Guadalajara            vs    Pumas UNAM
+Tuesday, September 15
+  León                   vs    Atlético San Luis
 
 
 Champions League
 ----------------
 Cty Squad                  MP   W   D   L  Pt  GD
 FRA Paris S-G               1   1   0   0   3   5
+GER Bayern Munich           1   1   0   0   3   5
 ESP Barcelona               1   1   0   0   3   4
+ENG Manchester United       1   1   0   0   3   4
+ITA Como                    1   1   0   0   3   3
 POR Sporting CP             1   1   0   0   3   2
 GER VfB Stuttgart           1   1   0   0   3   2
 ENG Manchester City         1   1   0   0   3   2
 ENG Aston Villa             1   1   0   0   3   1
+FRA Lens                    1   1   0   0   3   1
 ESP Real Betis              1   1   0   0   3   1
 GER Borussia Dortmund       1   1   0   0   3   1
 ENG Liverpool               1   1   0   0   3   1
 ESP Real Madrid             1   1   0   0   3   1
 ENG Arsenal                 1   1   0   0   3   1
 GRE AEK Athens              1   1   0   0   3   1
-GER Bayern Munich           0   0   0   0   0   0
-NOR Bodo/Glimt              0   0   0   0   0   0
-ITA Como                    0   0   0   0   0   0
-TUR Fenerbahce              0   0   0   0   0   0
-FRA Lens                    0   0   0   0   0   0
-ENG Manchester United       0   0   0   0   0   0
-NED PSV Eindhoven           0   0   0   0   0   0
-GER RB Leipzig              0   0   0   0   0   0
-ITA AS Roma                 0   0   0   0   0   0
-AZE Sabah FK                0   0   0   0   0   0
-UKR Shakhtar Donetsk        0   0   0   0   0   0
-CZE Slavia Prague           0   0   0   0   0   0
+ITA AS Roma                 1   0   1   0   1   0
+UKR Shakhtar Donetsk        1   0   1   0   1   0
+TUR Fenerbahce              1   0   1   0   1   0
+NED PSV Eindhoven           1   0   1   0   1   0
 ESP Villarreal              1   0   0   1   0  -1
 BEL Club Brugge             1   0   0   1   0  -1
 FRA Lille                   1   0   0   1   0  -1
+CZE Slavia Prague           1   0   0   1   0  -1
 ESP Atlético Madrid         1   0   0   1   0  -1
 ITA Internazionale          1   0   0   1   0  -1
 AUT LASK Linz               1   0   0   1   0  -1
@@ -357,8 +420,11 @@ ITA Napoli                  1   0   0   1   0  -1
 TUR Galatasaray             1   0   0   1   0  -2
 NOR Viking FK               1   0   0   1   0  -2
 POR FC Porto                1   0   0   1   0  -2
+GER RB Leipzig              1   0   0   1   0  -3
 NED Feyenoord Rotterdam     1   0   0   1   0  -4
+AZE Sabah FK                1   0   0   1   0  -4
 SVK Slovan Bratislava       1   0   0   1   0  -5
+NOR Bodo/Glimt              1   0   0   1   0  -5
 
 Champions League Fixtures
 -------------------------
@@ -377,12 +443,12 @@ Wednesday, September 09
   Paris S-G              6–1   Slovan Bratislava
   Sporting CP            3–1   Galatasaray
 Thursday, September 10
-  Fenerbahce             vs    AS Roma
-  PSV Eindhoven          vs    Shakhtar Donetsk
-  Bayern Munich          vs    Bodo/Glimt
-  Como                   vs    RB Leipzig
-  Manchester United      vs    Sabah FK
-  Slavia Prague          vs    Lens
+  Fenerbahce             1–1   AS Roma
+  PSV Eindhoven          1–1   Shakhtar Donetsk
+  Bayern Munich          5–0   Bodo/Glimt
+  Como                   4–1   RB Leipzig
+  Manchester United      4–0   Sabah FK
+  Slavia Prague          2–3   Lens
 
 
 Europa League
@@ -426,4 +492,4 @@ BEL Union St.-Gilloise      0   0   0   0   0   0
 CZE Viktoria Plzen          0   0   0   0   0   0
 
 
-Standings from ESPN.com 09.10.26
+Standings from ESPN.com 09.11.26
