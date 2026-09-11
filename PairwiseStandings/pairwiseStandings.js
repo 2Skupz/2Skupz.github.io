@@ -54,14 +54,14 @@ function renderLeagueColumn(league) {
     if (!leagueData) return '';
 
     const divisionsHtml = Object.entries(leagueData.divisions)
-        .map(([division, teams]) => renderDivisionTable(league, division, teams))
+        .map(([division, teams]) => renderDivisionTable(league, division, teams, leagueData.division_ties?.[division]))
         .join('');
 
     return `
         <div class="league-column">
             <h2 class="league-heading ${league === 'NL' ? 'nl' : ''}">${LEAGUE_LABELS[league]}</h2>
             ${divisionsHtml}
-            ${renderWildcardTable(league, leagueData.wildcard)}
+            ${renderWildcardTable(league, leagueData.wildcard, leagueData.wildcard_ties)}
         </div>
     `;
 }
@@ -93,7 +93,17 @@ function renderTeamRow(team, extraClass) {
     `;
 }
 
-function renderDivisionTable(league, division, teams) {
+function renderTieNotes(ties) {
+    if (!ties || !ties.length) return '';
+
+    const items = ties
+        .map(tie => `<div class="tie-note">${tie.teams.join(', ')} tied at ${tie.record} &mdash; ${tie.note}</div>`)
+        .join('');
+
+    return `<div class="tie-notes">${items}</div>`;
+}
+
+function renderDivisionTable(league, division, teams, ties) {
     const label = DIVISION_LABELS[division] || division;
     const rows = teams
         .map(team => renderTeamRow(team, team.rank === 1 ? 'row-leader' : ''))
@@ -104,11 +114,12 @@ function renderDivisionTable(league, division, teams) {
             <div class="standings-title">${league} ${label}</div>
             ${renderHeaderRow()}
             ${rows}
+            ${renderTieNotes(ties)}
         </div>
     `;
 }
 
-function renderWildcardTable(league, teams) {
+function renderWildcardTable(league, teams, ties) {
     if (!teams || !teams.length) return '';
 
     const rows = teams.map((team, i) => {
@@ -122,6 +133,7 @@ function renderWildcardTable(league, teams) {
             <div class="standings-title">${league} Wild Card</div>
             ${renderHeaderRow()}
             ${rows}
+            ${renderTieNotes(ties)}
         </div>
     `;
 }

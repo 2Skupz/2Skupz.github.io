@@ -5,23 +5,20 @@
 # chain against whom." Each team's record is its tiebreak record against the
 # ENTIRE league (all other teams), same number as
 # mlbTiebreak/scripts/generateTiebreakGrid.py's summary. Division and wild
-# card tables just group/order that same record - when two teams share a
-# tiebreak record, whichever one directly owns the head-to-head (or
-# division/league fallback) tiebreaker over the other is ranked ahead, exactly
-# like real MLB standings order a head-to-head tie.
+# card tables just group/order that same record - when several teams share a
+# tiebreak record, they're ordered using the two/three/four-team cascade in
+# mlbTiebreak/README.md (see tiebreakRules.py), and a plain-language note
+# explaining the resolution is attached to the group.
 #
 # This is a standalone sibling project: it reads mlbTiebreak's already-
 # generated data/tiebreakers.json and data/teamFiles/{season}teams.csv
 # directly (no shared Python code), so run mlbTiebreak/main.py first to
 # refresh those before running this.
-#
-# Note: this uses a simple pairwise comparator, so a 3-way (or 4-way) cycle
-# among equally-tied teams isn't resolved with the full multi-team rules in
-# mlbTiebreak/mlbTiebreakFileTree.txt - only the two-team head-to-head chain.
 import csv
 import json
 import os
-from functools import cmp_to_key
+
+from tiebreakRules import build_stats, resolve_group, pct as calc_pct
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 MLB_TIEBREAK_DATA_DIR = os.path.join(THIS_DIR, '..', 'mlbTiebreak', 'data')
@@ -55,11 +52,10 @@ def load_teams(season):
 
 
 def fmt_pct(w, l):
-    gp = w + l
-    if gp == 0:
+    if w + l == 0:
         return '.000'
-    pct = w / gp
-    return f"{pct:.3f}".lstrip('0') if pct < 1 else '1.000'
+    p = calc_pct(w, l)
+    return f"{p:.3f}".lstrip('0') if p < 1 else '1.000'
 
 
 def fmt_gb(leader, team):
@@ -105,27 +101,41 @@ def build_team_entry(abbr, teams, record):
     }
 
 
-def make_comparator(winner_lookup):
-    """Rank by tiebreak wins; break ties with the direct pairwise tiebreak winner."""
-    def compare(a, b):
-        if a['tb_w'] != b['tb_w']:
-            return b['tb_w'] - a['tb_w']
-        winner = winner_lookup.get((a['abbr'], b['abbr']))
-        if winner == a['abbr']:
-            return -1
-        if winner == b['abbr']:
-            return 1
-        return 0
-    return compare
+def rank_and_resolve_ties(entries, h2h, div_stats, league_stats):
+    """Sort by tiebreak record, then resolve any group sharing a record with
+    the two/three/four-team cascade. Returns (ordered_entries, ties) where
+    ties is a list of {teams, record, note} for every group of 2+."""
+    by_abbr = {e['abbr']: e for e in entries}
+    entries_sorted = sorted(entries, key=lambda e: (-e['tb_w'], e['tb_l']))
 
+    groups = []
+    for entry in entries_sorted:
+        if groups and groups[-1][0]['tb_w'] == entry['tb_w'] and groups[-1][0]['tb_l'] == entry['tb_l']:
+            groups[-1].append(entry)
+        else:
+            groups.append([entry])
 
-def rank_group(entries, comparator):
-    ordered = sorted(entries, key=cmp_to_key(comparator))
+    ordered = []
+    ties = []
+    for group in groups:
+        abbrs = [e['abbr'] for e in group]
+        if len(abbrs) == 1:
+            ordered.append(group[0])
+            continue
+        resolved_abbrs, note = resolve_group(abbrs, h2h, div_stats, league_stats)
+        ordered.extend(by_abbr[a] for a in resolved_abbrs)
+        ties.append({
+            'teams': resolved_abbrs,
+            'record': f"{group[0]['tb_w']}-{group[0]['tb_l']}",
+            'note': note,
+        })
+
     leader = ordered[0]
     for i, team in enumerate(ordered):
         team['rank'] = i + 1
         team['gb'] = fmt_gb(leader, team) if i > 0 else '-'
-    return ordered
+
+    return ordered, ties
 
 
 def generate_pairwise_standings():
@@ -134,26 +144,29 @@ def generate_pairwise_standings():
 
     result = {}
     for league in ('AL', 'NL'):
-        winner_lookup = build_winner_lookup(tiebreak_data[league])
-        comparator = make_comparator(winner_lookup)
+        matchups = tiebreak_data[league]
+        winner_lookup = build_winner_lookup(matchups)
+        h2h, div_stats, league_stats = build_stats(matchups)
         league_teams = {a: t for a, t in teams.items() if t['league'] == league}
         league_record = tally_vs_league(list(league_teams.keys()), winner_lookup)
 
         divisions_out = {}
+        division_ties = {}
         wc_pool = []
         for division in DIVISION_ORDER:
             abbrs = [a for a, t in league_teams.items() if t['division'] == division]
             if not abbrs:
                 continue
             entries = [build_team_entry(a, teams, league_record[a]) for a in abbrs]
-            div_table = rank_group(entries, comparator)
+            div_table, ties = rank_and_resolve_ties(entries, h2h, div_stats, league_stats)
             divisions_out[division] = div_table
+            division_ties[division] = ties
 
             # everyone except that division's own tiebreak-standings leader
             wc_pool.extend(team['abbr'] for team in div_table[1:])
 
         wc_entries = [build_team_entry(a, teams, league_record[a]) for a in wc_pool]
-        wc_ordered = rank_group(wc_entries, comparator)
+        wc_ordered, wc_ties = rank_and_resolve_ties(wc_entries, h2h, div_stats, league_stats)
         for i, team in enumerate(wc_ordered):
             team['wc_rank'] = team.pop('rank')
             team['wcgb'] = team.pop('gb')
@@ -161,7 +174,9 @@ def generate_pairwise_standings():
 
         result[league] = {
             'divisions': divisions_out,
+            'division_ties': division_ties,
             'wildcard': wc_ordered,
+            'wildcard_ties': wc_ties,
         }
 
     return season, result
