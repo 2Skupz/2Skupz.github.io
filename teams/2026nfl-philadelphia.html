@@ -49,7 +49,11 @@
   function position(dot){
     var dotBox = dot.getBoundingClientRect();
     var cardBox = card.getBoundingClientRect();
-    tooltip.style.left = (dotBox.left - cardBox.left + dotBox.width / 2) + "px";
+    var tipBox = tooltip.getBoundingClientRect();
+    var halfWidth = tipBox.width / 2;
+    var x = dotBox.left - cardBox.left + dotBox.width / 2;
+    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
+    tooltip.style.left = x + "px";
     tooltip.style.top = (dotBox.top - cardBox.top) + "px";
   }
 
@@ -62,8 +66,8 @@
         : result;
       tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
         + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      tooltip.classList.add("visible");
       position(dot);
+      tooltip.classList.add("visible");
     });
     dot.addEventListener("mouseleave", function(){
       dot.setAttribute("r", 4);

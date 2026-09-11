@@ -23,7 +23,7 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><line x1="44" y1="30.8" x2="864" y2="30.8" class="chart-zero" /><text x="36" y="30.8" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+0.7</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-7.2</text><polyline points="44.0,179.2 208.0,106.3 372.0,152.1 536.0,147.2 700.0,164.4 864.0,172.0" class="chart-line" fill="none" /><circle cx="44.0" cy="179.2" r="4" class="chart-dot-l"><title>Aug 28 vs USC Upstate: -6.53 (#319)</title></circle><circle cx="208.0" cy="106.3" r="4" class="chart-dot-w"><title>Aug 29 vs Elon: -3.33 (#275)</title></circle><circle cx="372.0" cy="152.1" r="4" class="chart-dot-l"><title>Sep 01 vs Old Dominion: -5.34 (#305)</title></circle><circle cx="536.0" cy="147.2" r="4" class="chart-dot-w"><title>Sep 02 vs Hampton: -5.12 (#301)</title></circle><circle cx="700.0" cy="164.4" r="4" class="chart-dot-l"><title>Sep 08 vs William &amp; Mary: -5.88 (#313)</title></circle><circle cx="864.0" cy="172.0" r="4" class="chart-dot-l"><title>Sep 11 vs UNCW: -6.22 (#317)</title></circle><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 28</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 11</text></svg></div>
+  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="30.8" x2="864" y2="30.8" class="chart-zero" /><text x="36" y="30.8" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+0.7</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-7.2</text><polygon points="44.0,194.0 44.0,179.2 208.0,106.3 372.0,152.1 536.0,147.2 700.0,164.4 864.0,172.0 864.0,194.0" class="chart-area" /><polyline points="44.0,179.2 208.0,106.3 372.0,152.1 536.0,147.2 700.0,164.4 864.0,172.0" class="chart-line" fill="none" /><circle cx="44.0" cy="179.2" r="4" class="chart-dot chart-dot-l" data-date="Aug 28" data-result="L" data-score="1&amp;ndash;3" data-opp="USC Upstate" /><circle cx="208.0" cy="106.3" r="4" class="chart-dot chart-dot-w" data-date="Aug 29" data-result="W" data-score="3&amp;ndash;1" data-opp="Elon" /><circle cx="372.0" cy="152.1" r="4" class="chart-dot chart-dot-l" data-date="Sep 01" data-result="L" data-score="0&amp;ndash;3" data-opp="Old Dominion" /><circle cx="536.0" cy="147.2" r="4" class="chart-dot chart-dot-w" data-date="Sep 02" data-result="W" data-score="3&amp;ndash;2" data-opp="Hampton" /><circle cx="700.0" cy="164.4" r="4" class="chart-dot chart-dot-l" data-date="Sep 08" data-result="L" data-score="0&amp;ndash;3" data-opp="William &amp; Mary" /><circle cx="864.0" cy="172.0" r="4" class="chart-dot chart-dot-l" data-date="Sep 11" data-result="L" data-score="1&amp;ndash;3" data-opp="UNCW" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 28</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 11</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,5 +35,46 @@
 
   <p class="summary-line">Game Rating uses margin per set played, not raw points, so a 3-set sweep and a five-set grind are judged on equal footing; Opp Rating and Opp WRS are that opponent's points- and win-based ratings. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
+<script>
+(function(){
+  var card = document.querySelector(".chart-card");
+  if(!card) return;
+  var dots = card.querySelectorAll(".chart-dot");
+  if(!dots.length) return;
+
+  var tooltip = document.createElement("div");
+  tooltip.className = "chart-tooltip";
+  card.appendChild(tooltip);
+
+  function position(dot){
+    var dotBox = dot.getBoundingClientRect();
+    var cardBox = card.getBoundingClientRect();
+    var tipBox = tooltip.getBoundingClientRect();
+    var halfWidth = tipBox.width / 2;
+    var x = dotBox.left - cardBox.left + dotBox.width / 2;
+    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
+    tooltip.style.left = x + "px";
+    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
+  }
+
+  dots.forEach(function(dot){
+    dot.addEventListener("mouseenter", function(){
+      dot.setAttribute("r", 6);
+      var result = dot.dataset.result;
+      var resultHtml = (result === "W" || result === "L")
+        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
+        : result;
+      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
+        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
+      position(dot);
+      tooltip.classList.add("visible");
+    });
+    dot.addEventListener("mouseleave", function(){
+      dot.setAttribute("r", 4);
+      tooltip.classList.remove("visible");
+    });
+  });
+})();
+</script>
 </body>
 </html>

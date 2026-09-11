@@ -28,12 +28,53 @@
     <div class="table-scroll">
       <table class="schedule">
         <thead><tr><th>Date</th><th>Opponent</th><th>Rank</th><th>Result</th><th>Margin</th><th>Opp Rating</th><th>Opp WRS</th><th>Game Rating</th><th>Running Avg</th></tr></thead>
-        <tbody><tr><td>Sep 05</td><td class="team"><a href="2026cfbDFBS-ulm.html">ULM</a></td><td class="rank">#133</td><td class="wl"><b class="w">W</b> 62&ndash;13</td><td class="pos">+49</td><td>-24.50</td><td>0.38</td><td class="pos">+24.50</td><td class="pos">+24.50 (7)</td></tr></tbody>
+        <tbody><tr><td>Sep 05</td><td class="team"><a href="2026cfbDFBS-louisiana-monroe.html">Louisiana-Monroe</a></td><td class="rank">#133</td><td class="wl"><b class="w">W</b> 62&ndash;13</td><td class="pos">+49</td><td>-24.50</td><td>0.38</td><td class="pos">+24.50</td><td class="pos">+24.50 (7)</td></tr></tbody>
       </table>
     </div>
   </div>
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
+<script>
+(function(){
+  var card = document.querySelector(".chart-card");
+  if(!card) return;
+  var dots = card.querySelectorAll(".chart-dot");
+  if(!dots.length) return;
+
+  var tooltip = document.createElement("div");
+  tooltip.className = "chart-tooltip";
+  card.appendChild(tooltip);
+
+  function position(dot){
+    var dotBox = dot.getBoundingClientRect();
+    var cardBox = card.getBoundingClientRect();
+    var tipBox = tooltip.getBoundingClientRect();
+    var halfWidth = tipBox.width / 2;
+    var x = dotBox.left - cardBox.left + dotBox.width / 2;
+    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
+    tooltip.style.left = x + "px";
+    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
+  }
+
+  dots.forEach(function(dot){
+    dot.addEventListener("mouseenter", function(){
+      dot.setAttribute("r", 6);
+      var result = dot.dataset.result;
+      var resultHtml = (result === "W" || result === "L")
+        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
+        : result;
+      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
+        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
+      position(dot);
+      tooltip.classList.add("visible");
+    });
+    dot.addEventListener("mouseleave", function(){
+      dot.setAttribute("r", 4);
+      tooltip.classList.remove("visible");
+    });
+  });
+})();
+</script>
 </body>
 </html>

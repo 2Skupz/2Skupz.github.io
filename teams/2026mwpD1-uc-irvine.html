@@ -23,7 +23,7 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><line x1="44" y1="179.2" x2="864" y2="179.2" class="chart-zero" /><text x="36" y="179.2" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+11.0</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-1.0</text><polyline points="44.0,103.9 161.1,30.8 278.3,61.2 395.4,65.8 512.6,67.5 629.7,77.3 746.9,77.7 864.0,77.7" class="chart-line" fill="none" /><circle cx="44.0" cy="103.9" r="4" class="chart-dot-l"><title>Aug 31 vs Stanford: +5.09 (#15)</title></circle><circle cx="161.1" cy="30.8" r="4" class="chart-dot-w"><title>Aug 31 vs Chapman: +10.03 (#8)</title></circle><circle cx="278.3" cy="61.2" r="4" class="chart-dot-w"><title>Aug 31 vs George Washington: +7.98 (#11)</title></circle><circle cx="395.4" cy="65.8" r="4" class="chart-dot-w"><title>Aug 31 vs Concordia: +7.67 (#11)</title></circle><circle cx="512.6" cy="67.5" r="4" class="chart-dot-w"><title>Sep 07 vs Redlands: +7.55 (#11)</title></circle><circle cx="629.7" cy="77.3" r="4" class="chart-dot-w"><title>Sep 07 vs Cal Lutheran: +6.89 (#12)</title></circle><circle cx="746.9" cy="77.7" r="4" class="chart-dot-w"><title>Sep 07 vs Claremont Mudd Scripps: +6.86 (#13)</title></circle><circle cx="864.0" cy="77.7" r="4" class="chart-dot-w"><title>Sep 07 vs Pomona-Pitzer: +6.86 (#13)</title></circle><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 31</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 07</text></svg></div>
+  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="179.2" x2="864" y2="179.2" class="chart-zero" /><text x="36" y="179.2" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+11.0</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-1.0</text><polygon points="44.0,194.0 44.0,103.9 161.1,30.8 278.3,61.2 395.4,65.8 512.6,67.5 629.7,77.3 746.9,77.7 864.0,77.7 864.0,194.0" class="chart-area" /><polyline points="44.0,103.9 161.1,30.8 278.3,61.2 395.4,65.8 512.6,67.5 629.7,77.3 746.9,77.7 864.0,77.7" class="chart-line" fill="none" /><circle cx="44.0" cy="103.9" r="4" class="chart-dot chart-dot-l" data-date="Aug 31" data-result="L" data-score="12&amp;ndash;22" data-opp="Stanford" /><circle cx="161.1" cy="30.8" r="4" class="chart-dot chart-dot-w" data-date="Aug 31" data-result="W" data-score="29&amp;ndash;4" data-opp="Chapman" /><circle cx="278.3" cy="61.2" r="4" class="chart-dot chart-dot-w" data-date="Aug 31" data-result="W" data-score="13&amp;ndash;9" data-opp="George Washington" /><circle cx="395.4" cy="65.8" r="4" class="chart-dot chart-dot-w" data-date="Aug 31" data-result="W" data-score="16&amp;ndash;9" data-opp="Concordia" /><circle cx="512.6" cy="67.5" r="4" class="chart-dot chart-dot-w" data-date="Sep 07" data-result="W" data-score="16&amp;ndash;6" data-opp="Redlands" /><circle cx="629.7" cy="77.3" r="4" class="chart-dot chart-dot-w" data-date="Sep 07" data-result="W" data-score="19&amp;ndash;8" data-opp="Cal Lutheran" /><circle cx="746.9" cy="77.7" r="4" class="chart-dot chart-dot-w" data-date="Sep 07" data-result="W" data-score="12&amp;ndash;5" data-opp="Claremont Mudd Scripps" /><circle cx="864.0" cy="77.7" r="4" class="chart-dot chart-dot-w" data-date="Sep 07" data-result="W" data-score="12&amp;ndash;8" data-opp="Pomona-Pitzer" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 31</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 07</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,5 +35,46 @@
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
+<script>
+(function(){
+  var card = document.querySelector(".chart-card");
+  if(!card) return;
+  var dots = card.querySelectorAll(".chart-dot");
+  if(!dots.length) return;
+
+  var tooltip = document.createElement("div");
+  tooltip.className = "chart-tooltip";
+  card.appendChild(tooltip);
+
+  function position(dot){
+    var dotBox = dot.getBoundingClientRect();
+    var cardBox = card.getBoundingClientRect();
+    var tipBox = tooltip.getBoundingClientRect();
+    var halfWidth = tipBox.width / 2;
+    var x = dotBox.left - cardBox.left + dotBox.width / 2;
+    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
+    tooltip.style.left = x + "px";
+    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
+  }
+
+  dots.forEach(function(dot){
+    dot.addEventListener("mouseenter", function(){
+      dot.setAttribute("r", 6);
+      var result = dot.dataset.result;
+      var resultHtml = (result === "W" || result === "L")
+        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
+        : result;
+      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
+        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
+      position(dot);
+      tooltip.classList.add("visible");
+    });
+    dot.addEventListener("mouseleave", function(){
+      dot.setAttribute("r", 4);
+      tooltip.classList.remove("visible");
+    });
+  });
+})();
+</script>
 </body>
 </html>

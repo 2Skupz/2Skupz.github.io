@@ -23,7 +23,7 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><line x1="44" y1="179.2" x2="864" y2="179.2" class="chart-zero" /><text x="36" y="179.2" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+4.3</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-0.4</text><polyline points="44.0,85.4 161.1,30.8 278.3,38.2 395.4,73.4 512.6,35.1 629.7,56.9 746.9,54.5 864.0,44.5" class="chart-line" fill="none" /><circle cx="44.0" cy="85.4" r="4" class="chart-dot-l"><title>Aug 27 vs Flagler: +2.49 (#107)</title></circle><circle cx="161.1" cy="30.8" r="4" class="chart-dot-w"><title>Aug 28 vs Rockhurst: +3.94 (#74)</title></circle><circle cx="278.3" cy="38.2" r="4" class="chart-dot-l"><title>Aug 28 vs Northern St: +3.74 (#76)</title></circle><circle cx="395.4" cy="73.4" r="4" class="chart-dot-l"><title>Aug 29 vs Cal Poly Humboldt: +2.81 (#94)</title></circle><circle cx="512.6" cy="35.1" r="4" class="chart-dot-w"><title>Sep 03 vs Michigan Tech: +3.83 (#75)</title></circle><circle cx="629.7" cy="56.9" r="4" class="chart-dot-l"><title>Sep 04 vs South Dakota Mines: +3.25 (#88)</title></circle><circle cx="746.9" cy="54.5" r="4" class="chart-dot-w"><title>Sep 04 vs Midwestern St: +3.31 (#87)</title></circle><circle cx="864.0" cy="44.5" r="4" class="chart-dot-w"><title>Sep 05 vs St Edward's: +3.58 (#80)</title></circle><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 27</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 05</text></svg></div>
+  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="179.2" x2="864" y2="179.2" class="chart-zero" /><text x="36" y="179.2" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+4.3</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-0.4</text><polygon points="44.0,194.0 44.0,85.4 161.1,30.8 278.3,38.2 395.4,73.4 512.6,35.1 629.7,56.9 746.9,54.5 864.0,44.5 864.0,194.0" class="chart-area" /><polyline points="44.0,85.4 161.1,30.8 278.3,38.2 395.4,73.4 512.6,35.1 629.7,56.9 746.9,54.5 864.0,44.5" class="chart-line" fill="none" /><circle cx="44.0" cy="85.4" r="4" class="chart-dot chart-dot-l" data-date="Aug 27" data-result="L" data-score="1&amp;ndash;3" data-opp="Flagler" /><circle cx="161.1" cy="30.8" r="4" class="chart-dot chart-dot-w" data-date="Aug 28" data-result="W" data-score="3&amp;ndash;2" data-opp="Rockhurst" /><circle cx="278.3" cy="38.2" r="4" class="chart-dot chart-dot-l" data-date="Aug 28" data-result="L" data-score="1&amp;ndash;3" data-opp="Northern St" /><circle cx="395.4" cy="73.4" r="4" class="chart-dot chart-dot-l" data-date="Aug 29" data-result="L" data-score="0&amp;ndash;3" data-opp="Cal Poly Humboldt" /><circle cx="512.6" cy="35.1" r="4" class="chart-dot chart-dot-w" data-date="Sep 03" data-result="W" data-score="3&amp;ndash;2" data-opp="Michigan Tech" /><circle cx="629.7" cy="56.9" r="4" class="chart-dot chart-dot-l" data-date="Sep 04" data-result="L" data-score="0&amp;ndash;3" data-opp="South Dakota Mines" /><circle cx="746.9" cy="54.5" r="4" class="chart-dot chart-dot-w" data-date="Sep 04" data-result="W" data-score="3&amp;ndash;1" data-opp="Midwestern St" /><circle cx="864.0" cy="44.5" r="4" class="chart-dot chart-dot-w" data-date="Sep 05" data-result="W" data-score="3&amp;ndash;1" data-opp="St Edward's" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 27</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 05</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,5 +35,46 @@
 
   <p class="summary-line">Game Rating uses margin per set played, not raw points, so a 3-set sweep and a five-set grind are judged on equal footing; Opp Rating and Opp WRS are that opponent's points- and win-based ratings. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
+<script>
+(function(){
+  var card = document.querySelector(".chart-card");
+  if(!card) return;
+  var dots = card.querySelectorAll(".chart-dot");
+  if(!dots.length) return;
+
+  var tooltip = document.createElement("div");
+  tooltip.className = "chart-tooltip";
+  card.appendChild(tooltip);
+
+  function position(dot){
+    var dotBox = dot.getBoundingClientRect();
+    var cardBox = card.getBoundingClientRect();
+    var tipBox = tooltip.getBoundingClientRect();
+    var halfWidth = tipBox.width / 2;
+    var x = dotBox.left - cardBox.left + dotBox.width / 2;
+    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
+    tooltip.style.left = x + "px";
+    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
+  }
+
+  dots.forEach(function(dot){
+    dot.addEventListener("mouseenter", function(){
+      dot.setAttribute("r", 6);
+      var result = dot.dataset.result;
+      var resultHtml = (result === "W" || result === "L")
+        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
+        : result;
+      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
+        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
+      position(dot);
+      tooltip.classList.add("visible");
+    });
+    dot.addEventListener("mouseleave", function(){
+      dot.setAttribute("r", 4);
+      tooltip.classList.remove("visible");
+    });
+  });
+})();
+</script>
 </body>
 </html>
