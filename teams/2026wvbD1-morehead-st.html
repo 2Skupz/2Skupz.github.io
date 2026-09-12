@@ -23,7 +23,6 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="105.0" x2="864" y2="105.0" class="chart-zero" /><text x="36" y="105.0" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+20.0</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-20.0</text><polygon points="44.0,194.0 44.0,87.0 180.7,92.9 317.3,100.4 454.0,97.7 590.7,99.9 727.3,102.0 864.0,102.9 864.0,194.0" class="chart-area" /><polyline points="44.0,87.0 180.7,92.9 317.3,100.4 454.0,97.7 590.7,99.9 727.3,102.0 864.0,102.9" class="chart-line" fill="none" /><circle cx="44.0" cy="87.0" r="4" class="chart-dot chart-dot-w" data-date="Aug 28" data-result="W" data-score="3&amp;ndash;2" data-opp="Fairfield" /><circle cx="180.7" cy="92.9" r="4" class="chart-dot chart-dot-l" data-date="Aug 29" data-result="L" data-score="0&amp;ndash;3" data-opp="Tennessee" /><circle cx="317.3" cy="100.4" r="4" class="chart-dot chart-dot-l" data-date="Aug 30" data-result="L" data-score="2&amp;ndash;3" data-opp="Colgate" /><circle cx="454.0" cy="97.7" r="4" class="chart-dot chart-dot-w" data-date="Sep 04" data-result="W" data-score="3&amp;ndash;0" data-opp="Mercyhurst" /><circle cx="590.7" cy="99.9" r="4" class="chart-dot chart-dot-w" data-date="Sep 04" data-result="W" data-score="3&amp;ndash;1" data-opp="Cleveland St" /><circle cx="727.3" cy="102.0" r="4" class="chart-dot chart-dot-w" data-date="Sep 05" data-result="W" data-score="3&amp;ndash;1" data-opp="Siena" /><circle cx="864.0" cy="102.9" r="4" class="chart-dot chart-dot-l" data-date="Sep 10" data-result="L" data-score="0&amp;ndash;3" data-opp="Cincinnati" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 28</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 10</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,46 +34,5 @@
 
   <p class="summary-line">Game Rating uses margin per set played, not raw points, so a 3-set sweep and a five-set grind are judged on equal footing; Opp Rating and Opp WRS are that opponent's points- and win-based ratings. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
-<script>
-(function(){
-  var card = document.querySelector(".chart-card");
-  if(!card) return;
-  var dots = card.querySelectorAll(".chart-dot");
-  if(!dots.length) return;
-
-  var tooltip = document.createElement("div");
-  tooltip.className = "chart-tooltip";
-  card.appendChild(tooltip);
-
-  function position(dot){
-    var dotBox = dot.getBoundingClientRect();
-    var cardBox = card.getBoundingClientRect();
-    var tipBox = tooltip.getBoundingClientRect();
-    var halfWidth = tipBox.width / 2;
-    var x = dotBox.left - cardBox.left + dotBox.width / 2;
-    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
-    tooltip.style.left = x + "px";
-    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
-  }
-
-  dots.forEach(function(dot){
-    dot.addEventListener("mouseenter", function(){
-      dot.setAttribute("r", 6);
-      var result = dot.dataset.result;
-      var resultHtml = (result === "W" || result === "L")
-        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
-        : result;
-      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
-        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      position(dot);
-      tooltip.classList.add("visible");
-    });
-    dot.addEventListener("mouseleave", function(){
-      dot.setAttribute("r", 4);
-      tooltip.classList.remove("visible");
-    });
-  });
-})();
-</script>
 </body>
 </html>

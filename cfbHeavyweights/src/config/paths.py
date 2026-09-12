@@ -17,6 +17,7 @@ SPORTS_REPO_DIR = PROJECT_ROOT.parent / 'sportsRepo' / 'data'
 GAMES_DIR = SPORTS_REPO_DIR / 'cfb' / 'games'
 TEAMS_DIR = SPORTS_REPO_DIR / 'cfb' / 'teams'
 REPORTS_DIR = DATA_DIR / 'reports'
+SCHOOL_REPORTS_DIR = REPORTS_DIR / 'schools'
 
 # Web subdirectories
 ASSETS_DIR = WEB_DIR / 'assets'
@@ -45,5 +46,5 @@ def get_teams_file(year):
 # Ensure directories exist
 def ensure_directories():
     """Create all necessary directories if they don't exist."""
-    for directory in [DATA_DIR, GAMES_DIR, TEAMS_DIR, REPORTS_DIR, WEB_DIR, ASSETS_DIR]:
+    for directory in [DATA_DIR, GAMES_DIR, TEAMS_DIR, REPORTS_DIR, SCHOOL_REPORTS_DIR, WEB_DIR, ASSETS_DIR]:
         directory.mkdir(parents=True, exist_ok=True)

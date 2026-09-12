@@ -23,7 +23,6 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="60.5" x2="864" y2="60.5" class="chart-zero" /><text x="36" y="60.5" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+10.0</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-30.0</text><polygon points="44.0,194.0 44.0,49.2 180.7,45.2 317.3,45.7 454.0,42.8 590.7,44.9 727.3,47.1 864.0,47.3 864.0,194.0" class="chart-area" /><polyline points="44.0,49.2 180.7,45.2 317.3,45.7 454.0,42.8 590.7,44.9 727.3,47.1 864.0,47.3" class="chart-line" fill="none" /><circle cx="44.0" cy="49.2" r="4" class="chart-dot chart-dot-w" data-date="Aug 17" data-result="W" data-score="5&amp;ndash;2" data-opp="Kent St" /><circle cx="180.7" cy="45.2" r="4" class="chart-dot chart-dot-w" data-date="Aug 20" data-result="W" data-score="5&amp;ndash;0" data-opp="Dayton" /><circle cx="317.3" cy="45.7" r="4" class="chart-dot chart-dot-l" data-date="Aug 27" data-result="L" data-score="1&amp;ndash;2" data-opp="Ohio State" /><circle cx="454.0" cy="42.8" r="4" class="chart-dot chart-dot-w" data-date="Aug 30" data-result="W" data-score="9&amp;ndash;1" data-opp="Wright St" /><circle cx="590.7" cy="44.9" r="4" class="chart-dot chart-dot-l" data-date="Sep 03" data-result="L" data-score="1&amp;ndash;2" data-opp="Louisville" /><circle cx="727.3" cy="47.1" r="4" class="chart-dot chart-dot-l" data-date="Sep 06" data-result="L" data-score="1&amp;ndash;2" data-opp="Bowling Green" /><circle cx="864.0" cy="47.3" r="4" class="chart-dot chart-dot-w" data-date="Sep 11" data-result="W" data-score="3&amp;ndash;2" data-opp="Texas A&amp;M" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Aug 17</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Sep 11</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,46 +34,5 @@
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
-<script>
-(function(){
-  var card = document.querySelector(".chart-card");
-  if(!card) return;
-  var dots = card.querySelectorAll(".chart-dot");
-  if(!dots.length) return;
-
-  var tooltip = document.createElement("div");
-  tooltip.className = "chart-tooltip";
-  card.appendChild(tooltip);
-
-  function position(dot){
-    var dotBox = dot.getBoundingClientRect();
-    var cardBox = card.getBoundingClientRect();
-    var tipBox = tooltip.getBoundingClientRect();
-    var halfWidth = tipBox.width / 2;
-    var x = dotBox.left - cardBox.left + dotBox.width / 2;
-    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
-    tooltip.style.left = x + "px";
-    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
-  }
-
-  dots.forEach(function(dot){
-    dot.addEventListener("mouseenter", function(){
-      dot.setAttribute("r", 6);
-      var result = dot.dataset.result;
-      var resultHtml = (result === "W" || result === "L")
-        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
-        : result;
-      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
-        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      position(dot);
-      tooltip.classList.add("visible");
-    });
-    dot.addEventListener("mouseleave", function(){
-      dot.setAttribute("r", 4);
-      tooltip.classList.remove("visible");
-    });
-  });
-})();
-</script>
 </body>
 </html>

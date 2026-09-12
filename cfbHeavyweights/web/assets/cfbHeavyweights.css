@@ -143,6 +143,18 @@ body {
     text-align: center;
 }
 
+/* Links to a school's detail page — inherit surrounding color, underline on hover */
+.school-link {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px dotted var(--muted);
+}
+
+.school-link:hover {
+    color: var(--gold);
+    border-bottom-color: var(--gold);
+}
+
 /* Bout results — team in question is always listed first */
 .bout-date {
     display: inline-block;
@@ -239,6 +251,29 @@ body {
     font-size: 1em;
 }
 
+.filter-row {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.filter-row .report-filter {
+    margin: 0;
+    flex: 1 1 auto;
+}
+
+.report-school-filter {
+    flex: 0 0 auto;
+    min-width: 200px;
+    box-sizing: border-box;
+    padding: 8px 10px;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 1em;
+    background-color: #fff;
+}
+
 .sortable-table {
     border-collapse: collapse;
     width: 100%;
@@ -270,6 +305,17 @@ body {
 
 .sortable-table tr:nth-child(even) {
     background-color: #fbf7ec;
+}
+
+.sortable-table td a {
+    color: var(--leather-light);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.sortable-table td a:hover {
+    color: var(--gold);
+    text-decoration: underline;
 }
 
 /* Belt lineage timeline */
@@ -306,4 +352,11 @@ body {
 
 .timeline-detail {
     color: var(--muted);
+}
+
+.timeline-note {
+    color: var(--muted);
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 2px;
 }

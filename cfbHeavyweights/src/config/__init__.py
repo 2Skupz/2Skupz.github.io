@@ -24,6 +24,7 @@ __all__ = [
     'GAMES_DIR',
     'TEAMS_DIR',
     'REPORTS_DIR',
+    'SCHOOL_REPORTS_DIR',
     'ASSETS_DIR',
     'HTML_FILE',
     'ALL_TIME_RANKINGS_FILE',

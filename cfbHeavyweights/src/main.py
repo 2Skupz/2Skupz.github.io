@@ -7,6 +7,7 @@ from datetime import datetime
 
 from .models.heavyweightClasses import Team, Game, Reign
 from .utils.helpers import findTeam, getCurrentSeason, findNth
+from .utils.htmlReport import formatBoutHTML, schoolLink
 from .analysis.heavyweightTracker import (
     createMasterFile, updateTeams, yearlyNationalChamps,
     dropInactiveTeamsWithNoHistory, createOtherLinks,
@@ -123,7 +124,7 @@ def writeChampInfo(webpage, beltTeam):
         # School name
         file.write("                    <tr>\n")
         file.write("                        <th>School</th>\n")
-        file.write(f"                        <td>{beltTeam.getName()}</td>\n")
+        file.write(f"                        <td>{schoolLink(beltTeam.name, 'web')}</td>\n")
         file.write("                    </tr>\n")
         
         # Number of reigns
@@ -162,29 +163,6 @@ def writeChampInfo(webpage, beltTeam):
         file.write("        </div>\n")
 
 
-def formatBoutHTML(game, teamName):
-    """
-    Format a bout as an HTML list item with `teamName` written first and the
-    line color-coded by result (win/loss/tie).
-    """
-    if game.teamA == teamName:
-        team, opponent, teamScore, oppScore = game.teamA, game.teamB, game.scoreA, game.scoreB
-    else:
-        team, opponent, teamScore, oppScore = game.teamB, game.teamA, game.scoreB, game.scoreA
-
-    if teamScore > oppScore:
-        resultClass = "result-win"
-    elif teamScore < oppScore:
-        resultClass = "result-loss"
-    else:
-        resultClass = "result-tie"
-
-    return (
-        f'<li class="{resultClass}"><span class="bout-date">{game.date}</span> '
-        f'<span class="bout-team">{team}</span> {teamScore}:{oppScore} {opponent}</li>'
-    )
-
-
 def writeCurrentReign(webpage, beltTeam):
     """
     Write the current reign section.
@@ -203,7 +181,7 @@ def writeCurrentReign(webpage, beltTeam):
         file.write(f"    <p>{reignLength} {gs}</p>\n")
         file.write("    <ul>\n")
         for game in currentReign.games:
-            file.write(f"        {formatBoutHTML(game, beltTeam.name)}\n")
+            file.write(f"        {formatBoutHTML(game, beltTeam.name, fromDir='web')}\n")
         file.write("    </ul>\n")
         file.write("</div>\n\n")
 
@@ -232,7 +210,7 @@ def writePreviousReigns(webpage, beltTeam):
             file.write(f"    <h4>Reign #{numReigns}</h4>\n")
             file.write("    <ul>\n")
             for game in reignGames:
-                file.write(f"        {formatBoutHTML(game, beltTeam.name)}\n")
+                file.write(f"        {formatBoutHTML(game, beltTeam.name, fromDir='web')}\n")
             file.write("    </ul>\n")
             numReigns -= 1
         
@@ -255,11 +233,11 @@ def writeChallenges(webpage, beltTeam):
     with open(webpage, 'a') as file:
         file.write("<div class=\"content-section\">\n")
         file.write("    <h3>Challenges:</h3>\n")
-        file.write(f"    <p>{beltTeam.getName()} has challenged {numChall} {gs}, winning {numWins}:</p>\n")
+        file.write(f"    <p>{schoolLink(beltTeam.name, 'web')} has challenged {numChall} {gs}, winning {numWins}:</p>\n")
         file.write("    <ul>\n")
 
         for game in challenges:
-            file.write(f"        {formatBoutHTML(game, beltTeam.name)}\n")
+            file.write(f"        {formatBoutHTML(game, beltTeam.name, fromDir='web')}\n")
 
         file.write("    </ul>\n")
         file.write("</div>\n\n")
