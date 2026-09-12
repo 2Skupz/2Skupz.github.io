@@ -5,8 +5,9 @@ from .teamNameMap import toHeavyweightsName
 from ..config import get_games_file, get_teams_file, ensure_directories, SPORTS_REPO_DIR
 from ..utils.helpers import getCurrentSeason
 
-# KPI publishes its daily Massey-sourced FBS fetch here (see KPI/sports_repo_publish.py)
-# so this project never needs to know about KPI's own internal data layout.
+# sportsRepo/fetcher publishes its daily Massey-sourced FBS fetch here
+# (see sportsRepo/fetcher/main.py) so this project never needs to know
+# about KPI's or fetcher's own internal data layout.
 RAW_CFB_DIR = SPORTS_REPO_DIR / 'cfb' / 'raw'
 
 

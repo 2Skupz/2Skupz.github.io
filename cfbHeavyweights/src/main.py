@@ -273,14 +273,15 @@ def writeReportsSection(webpage):
         webpage: Path to HTML file
     """
     column1_links = [
-        ('All-Time Rankings', '../data/reports/allTimeRankings.txt'),
-        ('School Reports', '../data/reports/schoolBySchool.txt'),
-        ('Longest Reigns', '../data/reports/longestReigns.txt')
+        ('All-Time Rankings', '../data/reports/allTimeRankings.html'),
+        ('School Reports', '../data/reports/schoolBySchool.html'),
+        ('Longest Reigns', '../data/reports/longestReigns.html'),
+        ('Belt Lineage', '../data/reports/beltLineage.html'),
     ]
     column2_links = [
-        ('Top 25 (Active FBS)', '../data/reports/top25Active.txt'),
-        ('Yearly National Champions', '../data/reports/yearlyBeltWinners.txt'),
-        ('All Bouts', '../data/reports/allBouts.txt')
+        ('Top 25 (Active FBS)', '../data/reports/top25Active.html'),
+        ('Yearly National Champions', '../data/reports/yearlyBeltWinners.html'),
+        ('All Bouts', '../data/reports/allBouts.html'),
     ]
     
     with open(webpage, 'a') as file:

@@ -32,6 +32,7 @@ __all__ = [
     'LONGEST_REIGNS_FILE',
     'SCHOOL_BY_SCHOOL_FILE',
     'YEARLY_BELT_WINNERS_FILE',
+    'BELT_LINEAGE_FILE',
     'get_games_file',
     'get_teams_file',
     'ensure_directories',

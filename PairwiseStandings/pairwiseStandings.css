@@ -29,7 +29,8 @@
 .tie-marker {
     color: #2563eb;
     font-weight: 700;
-    margin-left: 2px;
+    font-size: 0.6em;
+    margin-left: 1px;
 }
 
 .nl .tie-marker {

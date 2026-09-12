@@ -137,16 +137,21 @@ def rank_and_resolve_ties(entries, resolver):
     return ordered, ties
 
 
-def number_ties(league, division_ties, wildcard_ties):
+def number_ties(league, division_ties, leaders_ties, wildcard_ties):
     """Assign a running tie number across a league: divisions in EAST/CENTRAL/
-    WEST order first, then wild card ties in rank order. Also attaches a
-    human label to each tie for the page's footnote headers."""
+    WEST order first, then the division-leaders seeding, then wild card ties
+    in rank order. Also attaches a human label to each tie for the page's
+    footnote headers."""
     counter = 1
     for division in DIVISION_ORDER:
         for tie in division_ties.get(division, []):
             tie['number'] = counter
             tie['label'] = f"{league} {division.capitalize()}"
             counter += 1
+    for tie in leaders_ties:
+        tie['number'] = counter
+        tie['label'] = f"{league} Leaders"
+        counter += 1
     for tie in wildcard_ties:
         tie['number'] = counter
         tie['label'] = f"{league} Wild Card"
@@ -194,6 +199,12 @@ def generate_pairwise_standings():
             # everyone except that division's own tiebreak-standings leader
             wc_pool.extend(team['abbr'] for team in div_table[1:])
 
+        leader_abbrs = [div_table[0]['abbr'] for div_table in divisions_out.values()]
+        leaders_entries = [build_team_entry(a, teams, league_record[a]) for a in leader_abbrs]
+        leaders_ordered, leaders_ties = rank_and_resolve_ties(leaders_entries, division_resolver)
+        for team in leaders_ordered:
+            team.pop('gb')
+
         wc_entries = [build_team_entry(a, teams, league_record[a]) for a in wc_pool]
         wc_ordered, wc_ties = rank_and_resolve_ties(wc_entries, wildcard_resolver)
         for i, team in enumerate(wc_ordered):
@@ -201,19 +212,22 @@ def generate_pairwise_standings():
             team['wcgb'] = team.pop('gb')
             team['in_wc'] = i < 3
 
-        number_ties(league, division_ties, wc_ties)
+        number_ties(league, division_ties, leaders_ties, wc_ties)
         for division in DIVISION_ORDER:
             if division in divisions_out:
                 stamp_tie_numbers(divisions_out[division], division_ties[division])
+        stamp_tie_numbers(leaders_ordered, leaders_ties)
         stamp_tie_numbers(wc_ordered, wc_ties)
 
         all_ties = []
         for division in DIVISION_ORDER:
             all_ties.extend(division_ties.get(division, []))
+        all_ties.extend(leaders_ties)
         all_ties.extend(wc_ties)
 
         result[league] = {
             'divisions': divisions_out,
+            'division_leaders': leaders_ordered,
             'wildcard': wc_ordered,
             'ties': all_ties,
         }

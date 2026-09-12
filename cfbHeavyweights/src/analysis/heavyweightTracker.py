@@ -5,11 +5,13 @@ from collections import Counter
 
 from ..models.heavyweightClasses import Team, Game
 from ..utils.helpers import findTeam, getCurrentSeason
+from ..utils.htmlReport import writeHtmlReportPage, dateSortKey
 from ..config import (
     START_YEAR, SKIPPED_YEARS, TOP_N_ACTIVE,
     get_games_file, get_teams_file,
     ALL_TIME_RANKINGS_FILE, TOP_25_ACTIVE_FILE, ALL_BOUTS_FILE,
-    LONGEST_REIGNS_FILE, SCHOOL_BY_SCHOOL_FILE, YEARLY_BELT_WINNERS_FILE
+    LONGEST_REIGNS_FILE, SCHOOL_BY_SCHOOL_FILE, YEARLY_BELT_WINNERS_FILE,
+    BELT_LINEAGE_FILE
 )
 
 def createMasterFile():
@@ -91,16 +93,18 @@ def dropInactiveTeamsWithNoHistory(active, historical):
 
 def createOtherLinks(boutList, activeTeamList, historyTeamList, champList):
     """Create various report files."""
-    topN(historyTeamList, len(historyTeamList), ALL_TIME_RANKINGS_FILE)
-    topN(activeTeamList, TOP_N_ACTIVE, TOP_25_ACTIVE_FILE)
+    topN(historyTeamList, len(historyTeamList), ALL_TIME_RANKINGS_FILE, "All-Time Heavyweight Rankings")
+    topN(activeTeamList, TOP_N_ACTIVE, TOP_25_ACTIVE_FILE, "Top 25 Active FBS Teams")
     printAllBouts(boutList, ALL_BOUTS_FILE)
     longestReigns(historyTeamList, LONGEST_REIGNS_FILE)
     writeSchoolBySchool(SCHOOL_BY_SCHOOL_FILE, historyTeamList)
     writeYearlyBeltWinners(champList, YEARLY_BELT_WINNERS_FILE)
+    writeBeltLineage(boutList, BELT_LINEAGE_FILE)
 
 def writeSchoolBySchool(page, teamList):
     """Write school-by-school belt history."""
     data = ""
+    rows = []
     for team in teamList:
         cW, cL, cT, dW, dL, dT, numReigns, titles = team.records()
         data += "*******\n"
@@ -115,39 +119,84 @@ def writeSchoolBySchool(page, teamList):
         data += f"\t\tAs Belt Holder: {dW}-{dL}-{dT}\n"
         data += f"\t\tAs Challenger : {cW}-{cL}-{cT}\n"
         data += "\n\n"
+
+        titlesStr = f"{titles} ({team.getTitleString()})" if titles else "0"
+        rows.append((
+            team.name, numReigns, titlesStr,
+            f"{cW+dW}-{cL+dL}-{cT+dT}", f"{dW}-{dL}-{dT}", f"{cW}-{cL}-{cT}",
+        ))
     printFile(data, page)
+
+    writeHtmlReportPage(
+        page.with_suffix('.html'),
+        "School-by-School Belt History",
+        [{
+            'headers': ['School', 'Reigns', 'National Titles', 'Overall Record',
+                        'As Belt Holder', 'As Challenger'],
+            'rows': rows,
+            'numericCols': {1},
+        }],
+    )
 
 def writeYearlyBeltWinners(champList, outputFile):
     """Write yearly belt winners to file with summary and year-by-year listing."""
     # Count titles per team
     title_counts = Counter(champ for year, champ in champList)
-    
+
     # Sort by titles (descending), then alphabetically
     sorted_teams = sorted(title_counts.items(), key=lambda x: (-x[1], x[0]))
-    
+
     # Build the output
     data = "The team that ends the season with the belt becomes the National Champion. "
     data += "Sometimes, like Michigan in 2023, the belt winner wins the real National Championship. "
     data += "Sometimes, like in 1994 when 6-6 Wyoming won the championship, the winning team doesn't even play in a Bowl Game. "
     data += "Below is the all time list of Champions. First by most titles, then the year-by-year titles.\n\n"
-    
+
     # Header for team summary
     data += f"{'Team':<25}{'Titles':<10}Years\n"
-    
+
     # Write each team's summary
+    summaryRows = []
     for team, count in sorted_teams:
         # Get all years for this team
         years = [str(year) for year, champ in champList if champ == team]
         years_str = ", ".join(years)
         data += f"{team:<25}{count:<10}{years_str}\n"
-    
+        summaryRows.append((team, count, years_str))
+
     data += "\n"
-    
+
     # Write year-by-year listing
+    yearRows = []
     for year, champ in champList:
         data += f"{year} {champ}\n"
-    
+        yearRows.append((year, champ))
+
     printFile(data, outputFile)
+
+    writeHtmlReportPage(
+        outputFile.with_suffix('.html'),
+        "Yearly National Champions",
+        [
+            {
+                'heading': 'Titles by Team',
+                'headers': ['Team', 'Titles', 'Years'],
+                'rows': summaryRows,
+                'numericCols': {1},
+            },
+            {
+                'heading': 'Year by Year',
+                'headers': ['Year', 'Champion'],
+                'rows': yearRows,
+                'numericCols': {0},
+            },
+        ],
+        description=(
+            "The team that ends the season with the belt becomes the National Champion. "
+            "Sometimes the belt winner also wins the real National Championship; sometimes "
+            "(like 6-6 Wyoming in 1994) the winning team doesn't even play in a Bowl Game."
+        ),
+    )
 
 def longestReigns(teamList, outputFile=None):
     """Generate report of longest reigns."""
@@ -159,6 +208,22 @@ def longestReigns(teamList, outputFile=None):
         data += f"{r[0]:<7}{r[1]:<22}{r[2]:<16}{r[3]:<12}\n"
     printFile(data, outputFile)
 
+    if outputFile:
+        rows = [
+            (games, team, (start, dateSortKey(start)), (end, dateSortKey(end)))
+            for games, team, start, end in sortedReignList
+        ]
+        writeHtmlReportPage(
+            outputFile.with_suffix('.html'),
+            "Longest Championship Reigns",
+            [{
+                'headers': ['Games', 'Team', 'Start', 'End'],
+                'rows': rows,
+                'numericCols': {0, 2, 3},
+            }],
+            description="Reigns of 10 or more games, longest first.",
+        )
+
 def createReignList(teamList):
     """Create a list of all reigns."""
     reignList = []
@@ -169,13 +234,29 @@ def createReignList(teamList):
             reignList.append(reign.quickSum())
     return reignList
 
-def topN(historyTeamList, num=25, outputFile=None):
+def topN(historyTeamList, num=25, outputFile=None, htmlTitle=None):
     """Generate top N rankings."""
     tableStr = f"All-Time Heavyweight Rankings\n"
     historyTeamList.sort(key=lambda x: x.rankingPoints, reverse=True)
+    rows = []
     for i in range(min(num, len(historyTeamList))):
-        tableStr += historyTeamList[i].rankSummary(i) + "\n"
+        team = historyTeamList[i]
+        tableStr += team.rankSummary(i) + "\n"
+        team.overallWLT()
+        record = f"{team.w}-{team.l}-{team.t}" if team.t else f"{team.w}-{team.l}"
+        rows.append((i + 1, team.name, team.numReigns, record))
     printFile(tableStr, outputFile)
+
+    if outputFile:
+        writeHtmlReportPage(
+            outputFile.with_suffix('.html'),
+            htmlTitle or "Rankings",
+            [{
+                'headers': ['Rank', 'Team', 'Reigns', 'Record'],
+                'rows': rows,
+                'numericCols': {0, 2},
+            }],
+        )
 
 def printFile(data, outputFile):
     """Print data to file or console."""
@@ -189,9 +270,105 @@ def printFile(data, outputFile):
 def printAllBouts(boutList, outputFile=None):
     """Print all bouts to file."""
     data = "Date            Defending           Challenger              Score      Beltholder\n"
+    rows = []
     for game in boutList:
         data += game.beltSum() + "\n"
+        rows.append(boutRow(game))
     printFile(data, outputFile)
+
+    if outputFile:
+        writeHtmlReportPage(
+            outputFile.with_suffix('.html'),
+            "All Bouts",
+            [{
+                'headers': ['Date', 'Defending', 'Challenger', 'Score', 'Beltholder'],
+                'rows': rows,
+                'numericCols': {0},
+            }],
+        )
+
+def boutRow(game):
+    """Build a (date, defending, challenger, score, beltholder) row for a bout."""
+    if not game.checkTie():
+        winner, _ = game.getWinnerLoser()
+    if game.defending is None:
+        defending, challenger = game.teamA, game.teamB
+        score = f"{game.scoreA}-{game.scoreB}"
+        beltholder = winner
+    elif game.checkTie():
+        if game.defending == game.teamA:
+            defending, challenger, score = game.teamA, game.teamB, f"{game.scoreA}-{game.scoreB}"
+        else:
+            defending, challenger, score = game.teamB, game.teamA, f"{game.scoreB}-{game.scoreA}"
+        beltholder = game.defending
+    else:
+        defending, challenger = game.defending, game.challenger
+        score = f"{game.scoreA}-{game.scoreB}" if game.defending == game.teamA else f"{game.scoreB}-{game.scoreA}"
+        beltholder = winner
+    return ((game.date, dateSortKey(game.date)), defending, challenger, score, beltholder)
+
+def computeBeltLineage(boutList):
+    """Walk all bouts and record every moment the belt changed hands."""
+    lineage = []
+    champ = None
+    for game in boutList:
+        if game.checkTie():
+            continue  # champion retains the belt on a tie; no lineage change
+        winner, loser = game.getWinnerLoser()
+        if winner == champ:
+            continue  # successful defense; no lineage change
+        score = (game.scoreA, game.scoreB) if game.teamA == winner else (game.scoreB, game.scoreA)
+        lineage.append({
+            'date': game.date,
+            'champ': winner,
+            'previous': champ,
+            'opponent': loser,
+            'score': score,
+        })
+        champ = winner
+    return lineage
+
+def writeBeltLineage(boutList, outputFile):
+    """Write the full belt-lineage timeline: every moment the title changed hands."""
+    lineage = computeBeltLineage(boutList)
+
+    entries_html = []
+    for i, event in enumerate(lineage):
+        champ = event['champ']
+        opponent = event['opponent']
+        scoreFor, scoreAgainst = event['score']
+        if event['previous'] is None:
+            detail = f"defeated {opponent} {scoreFor}-{scoreAgainst} to claim the vacant belt"
+        else:
+            detail = f"defeated {event['previous']} {scoreFor}-{scoreAgainst} to take the belt"
+        entries_html.append(
+            f'            <div class="timeline-entry">'
+            f'<div class="timeline-year">#{i + 1} — {event["date"]}</div>'
+            f'<div class="timeline-detail"><strong>{champ}</strong> {detail}</div></div>\n'
+        )
+
+    content = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belt Lineage</title>
+    <link rel="stylesheet" href="../../web/assets/cfbHeavyweights.css">
+</head>
+<body>
+    <div class="report-page">
+        <a class="back-link" href="../../web/cfbHeavyweights.html">&larr; Back to Championship Page</a>
+        <h1>Belt Lineage</h1>
+        <p class="description">Every moment the College Football Heavyweight Championship changed hands — {len(lineage)} title changes across over 150 years.</p>
+        <div class="timeline">
+{''.join(entries_html)}        </div>
+    </div>
+</body>
+</html>
+"""
+    outputFile.parent.mkdir(parents=True, exist_ok=True)
+    with open(outputFile, 'w') as f:
+        f.write(content)
 
 def processBouts(boutList, historyTeamList):
     """Process all bouts and update team records."""

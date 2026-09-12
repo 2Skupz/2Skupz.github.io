@@ -61,6 +61,7 @@ function renderLeagueColumn(league) {
         <div class="league-column ${league === 'NL' ? 'nl' : ''}">
             <h2 class="league-heading ${league === 'NL' ? 'nl' : ''}">${LEAGUE_LABELS[league]}</h2>
             ${divisionsHtml}
+            ${renderLeadersTable(league, leagueData.division_leaders)}
             ${renderWildcardTable(league, leagueData.wildcard)}
             ${renderTieExplainer(leagueData.ties)}
         </div>
@@ -104,6 +105,22 @@ function renderDivisionTable(league, division, teams) {
     return `
         <div class="standings-table">
             <div class="standings-title">${league} ${label}</div>
+            ${renderHeaderRow()}
+            ${rows}
+        </div>
+    `;
+}
+
+function renderLeadersTable(league, teams) {
+    if (!teams || !teams.length) return '';
+
+    const rows = teams
+        .map(team => renderTeamRow(team, team.rank === 1 ? 'row-leader' : ''))
+        .join('');
+
+    return `
+        <div class="standings-table">
+            <div class="standings-title">${league} Leaders</div>
             ${renderHeaderRow()}
             ${rows}
         </div>

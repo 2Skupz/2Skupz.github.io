@@ -9,8 +9,9 @@ PROJECT_ROOT = Path(__file__).parent.parent.parent  # config -> src -> project r
 DATA_DIR = PROJECT_ROOT / 'data'
 WEB_DIR = PROJECT_ROOT / 'web'
 
-# Shared sports data lives alongside this project, fed by the KPI project
-SPORTS_REPO_DIR = PROJECT_ROOT.parent / 'sportsRepo'
+# Shared sports data lives alongside this project, fed by the sportsRepo/fetcher
+# project. sportsRepo has one folder for code (fetcher/) and one for data (data/).
+SPORTS_REPO_DIR = PROJECT_ROOT.parent / 'sportsRepo' / 'data'
 
 # Data subdirectories
 GAMES_DIR = SPORTS_REPO_DIR / 'cfb' / 'games'
@@ -30,6 +31,7 @@ ALL_BOUTS_FILE = REPORTS_DIR / 'allBouts.txt'
 LONGEST_REIGNS_FILE = REPORTS_DIR / 'longestReigns.txt'
 SCHOOL_BY_SCHOOL_FILE = REPORTS_DIR / 'schoolBySchool.txt'
 YEARLY_BELT_WINNERS_FILE = REPORTS_DIR / 'yearlyBeltWinners.txt'
+BELT_LINEAGE_FILE = REPORTS_DIR / 'beltLineage.html'
 
 # Helper functions
 def get_games_file(year):
