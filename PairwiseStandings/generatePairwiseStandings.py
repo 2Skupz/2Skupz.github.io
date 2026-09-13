@@ -9,7 +9,9 @@
 # card table breaks same-division teams against each other first, NFL-style,
 # before comparing across divisions (see tiebreakRules.py). Every tie is
 # numbered sequentially within its league and gets a plain-language,
-# step-by-step explanation for the page's footnotes.
+# step-by-step explanation for the page's footnotes. build_bracket() extends
+# the same idea into a simulated postseason: each series is "won" by whoever
+# holds the two-team tiebreaker.
 #
 # This is a standalone sibling project: it reads mlbTiebreak's already-
 # generated data/tiebreakers.json and data/teamFiles/{season}teams.csv
@@ -19,7 +21,7 @@ import csv
 import json
 import os
 
-from tiebreakRules import DIVISION_ORDER, build_stats, resolve_group, resolve_wildcard_group, pct as calc_pct
+from tiebreakRules import DIVISION_ORDER, build_stats, resolve_group, resolve_wildcard_group, resolve_two, pct as calc_pct
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 MLB_TIEBREAK_DATA_DIR = os.path.join(THIS_DIR, '..', 'mlbTiebreak', 'data')
@@ -165,6 +167,52 @@ def stamp_tie_numbers(table, ties):
             by_abbr[abbr]['tie_number'] = tie['number']
 
 
+def seed_team(abbr, teams, seed):
+    info = teams[abbr]
+    return {'abbr': abbr, 'name': info['name'], 'city': info['city'], 'nickname': info['nickname'], 'seed': seed}
+
+
+def play_series(team_a, team_b, h2h, div_stats, league_stats):
+    """A hypothetical playoff series decided by who'd hold the tiebreaker
+    between the two teams - same head-to-head/division/league cascade used
+    everywhere else on this page."""
+    order, steps = resolve_two(team_a['abbr'], team_b['abbr'], h2h, div_stats, league_stats)
+    winner = team_a if order[0] == team_a['abbr'] else team_b
+    return {'teams': [team_a, team_b], 'winner': winner, 'note': steps[0]}
+
+
+def build_bracket(leaders_ordered, wc_ordered, teams, h2h, div_stats, league_stats):
+    """Simulated postseason bracket, current MLB format: the top two division
+    winners get byes; #3 division winner plays the #3 wild card, and the #1
+    and #2 wild cards play each other; those two winners feed fixed Division
+    Series slots (no dynamic re-seeding), and the two Division Series winners
+    meet for the pennant."""
+    seed1 = seed_team(leaders_ordered[0]['abbr'], teams, 1)
+    seed2 = seed_team(leaders_ordered[1]['abbr'], teams, 2)
+    seed3 = seed_team(leaders_ordered[2]['abbr'], teams, 3)
+    seed4 = seed_team(wc_ordered[0]['abbr'], teams, 4)
+    seed5 = seed_team(wc_ordered[1]['abbr'], teams, 5)
+    seed6 = seed_team(wc_ordered[2]['abbr'], teams, 6)
+
+    wc_a = play_series(seed3, seed6, h2h, div_stats, league_stats)
+    wc_b = play_series(seed4, seed5, h2h, div_stats, league_stats)
+
+    lds1 = play_series(seed1, wc_b['winner'], h2h, div_stats, league_stats)
+    lds2 = play_series(seed2, wc_a['winner'], h2h, div_stats, league_stats)
+
+    pennant = play_series(lds1['winner'], lds2['winner'], h2h, div_stats, league_stats)
+
+    return {
+        # ordered so row N on the Wild Card column feeds row N on the
+        # Division Series column: wc_b (4v5) feeds lds1 (1 vs winner), wc_a
+        # (3v6) feeds lds2 (2 vs winner)
+        'wild_card': [wc_b, wc_a],
+        'division_series': [lds1, lds2],
+        'championship': [pennant],
+        'champion': pennant['winner'],
+    }
+
+
 def generate_pairwise_standings():
     season, tiebreak_data = load_tiebreakers()
     teams = load_teams(season)
@@ -225,11 +273,14 @@ def generate_pairwise_standings():
         all_ties.extend(leaders_ties)
         all_ties.extend(wc_ties)
 
+        playoffs = build_bracket(leaders_ordered, wc_ordered, teams, h2h, div_stats, league_stats)
+
         result[league] = {
             'divisions': divisions_out,
             'division_leaders': leaders_ordered,
             'wildcard': wc_ordered,
             'ties': all_ties,
+            'playoffs': playoffs,
         }
 
     return season, result

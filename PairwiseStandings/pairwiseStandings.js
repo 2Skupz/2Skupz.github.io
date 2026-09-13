@@ -64,6 +64,7 @@ function renderLeagueColumn(league) {
             ${renderLeadersTable(league, leagueData.division_leaders)}
             ${renderWildcardTable(league, leagueData.wildcard)}
             ${renderTieExplainer(leagueData.ties)}
+            ${renderBracket(league, leagueData.playoffs)}
         </div>
     `;
 }
@@ -141,6 +142,52 @@ function renderWildcardTable(league, teams) {
             <div class="standings-title">${league} Wild Card</div>
             ${renderHeaderRow()}
             ${rows}
+        </div>
+    `;
+}
+
+function renderBracketTeam(team, winnerAbbr) {
+    const isWinner = team.abbr === winnerAbbr;
+    return `
+        <div class="bracket-team ${isWinner ? 'winner' : 'loser'}">
+            <span class="bracket-seed">${team.seed}</span>
+            <img class="bracket-logo" src="${getLogoPath(team)}" alt="${team.name}">
+            <span class="bracket-team-name">${team.abbr}</span>
+        </div>
+    `;
+}
+
+function renderBracketGame(game) {
+    return `
+        <div class="bracket-game">
+            ${renderBracketTeam(game.teams[0], game.winner.abbr)}
+            ${renderBracketTeam(game.teams[1], game.winner.abbr)}
+            <div class="bracket-note">${game.note}</div>
+        </div>
+    `;
+}
+
+function renderBracket(league, playoffs) {
+    if (!playoffs) return '';
+
+    return `
+        <div class="standings-table bracket-card">
+            <div class="standings-title">${league} Simulated Playoffs</div>
+            <div class="bracket">
+                <div class="bracket-round">
+                    <div class="bracket-round-title">Wild Card</div>
+                    ${playoffs.wild_card.map(renderBracketGame).join('')}
+                </div>
+                <div class="bracket-round">
+                    <div class="bracket-round-title">Division Series</div>
+                    ${playoffs.division_series.map(renderBracketGame).join('')}
+                </div>
+                <div class="bracket-round">
+                    <div class="bracket-round-title">${league === 'AL' ? 'ALCS' : 'NLCS'}</div>
+                    ${playoffs.championship.map(renderBracketGame).join('')}
+                </div>
+            </div>
+            <div class="bracket-champion">${league} Pennant: ${playoffs.champion.name}</div>
         </div>
     `;
 }

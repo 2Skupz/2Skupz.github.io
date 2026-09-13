@@ -99,6 +99,111 @@
     color: #475569;
 }
 
+.bracket-card {
+    padding-bottom: 4px;
+}
+
+.bracket {
+    display: flex;
+    gap: 12px;
+    padding: 18px 16px 6px;
+}
+
+.bracket-round {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 16px;
+}
+
+.bracket-round-title {
+    text-align: center;
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+    margin-bottom: 2px;
+}
+
+.bracket-game {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #f8fafc;
+}
+
+.bracket-team {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 8px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #cbd5e1;
+}
+
+.bracket-team.winner {
+    color: #1e293b;
+    background: white;
+}
+
+.bracket-team + .bracket-team {
+    border-top: 1px solid #e2e8f0;
+}
+
+.bracket-seed {
+    font-size: 0.65rem;
+    color: #cbd5e1;
+    width: 10px;
+    flex-shrink: 0;
+}
+
+.bracket-logo {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    flex-shrink: 0;
+    opacity: 0.4;
+}
+
+.bracket-team.winner .bracket-logo {
+    opacity: 1;
+}
+
+.bracket-team-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.bracket-note {
+    font-size: 0.66rem;
+    line-height: 1.4;
+    color: #94a3b8;
+    padding: 5px 8px;
+    background: #f1f5f9;
+    border-top: 1px solid #e2e8f0;
+}
+
+.bracket-champion {
+    text-align: center;
+    margin: 10px 16px 16px;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    background: #eff6ff;
+    color: #2563eb;
+}
+
+.nl .bracket-champion {
+    background: #fef2f2;
+    color: #dc2626;
+}
+
 @media (max-width: 900px) {
     .pairwise-leagues {
         grid-template-columns: 1fr;
@@ -112,5 +217,20 @@
 @media (max-width: 600px) {
     .tb-row {
         grid-template-columns: minmax(110px, 1.6fr) repeat(3, 0.7fr);
+    }
+
+    .bracket {
+        flex-direction: column;
+    }
+
+    .bracket-round {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .bracket-game {
+        flex: 1;
+        min-width: 130px;
     }
 }

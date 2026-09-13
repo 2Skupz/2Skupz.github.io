@@ -553,7 +553,152 @@
           "number": 7,
           "label": "AL Wild Card"
         }
-      ]
+      ],
+      "playoffs": {
+        "wild_card": [
+          {
+            "teams": [
+              {
+                "abbr": "NYY",
+                "name": "New York Yankees",
+                "city": "New York",
+                "nickname": "Yankees",
+                "seed": 4
+              },
+              {
+                "abbr": "MIN",
+                "name": "Minnesota Twins",
+                "city": "Minnesota",
+                "nickname": "Twins",
+                "seed": 5
+              }
+            ],
+            "winner": {
+              "abbr": "MIN",
+              "name": "Minnesota Twins",
+              "city": "Minnesota",
+              "nickname": "Twins",
+              "seed": 5
+            },
+            "note": "MIN over NYY on head-to-head (2-1)"
+          },
+          {
+            "teams": [
+              {
+                "abbr": "HOU",
+                "name": "Houston Astros",
+                "city": "Houston",
+                "nickname": "Astros",
+                "seed": 3
+              },
+              {
+                "abbr": "TOR",
+                "name": "Toronto Blue Jays",
+                "city": "Toronto",
+                "nickname": "Blue Jays",
+                "seed": 6
+              }
+            ],
+            "winner": {
+              "abbr": "TOR",
+              "name": "Toronto Blue Jays",
+              "city": "Toronto",
+              "nickname": "Blue Jays",
+              "seed": 6
+            },
+            "note": "TOR over HOU on intradivision record"
+          }
+        ],
+        "division_series": [
+          {
+            "teams": [
+              {
+                "abbr": "TBR",
+                "name": "Tampa Bay Rays",
+                "city": "Tampa Bay",
+                "nickname": "Rays",
+                "seed": 1
+              },
+              {
+                "abbr": "MIN",
+                "name": "Minnesota Twins",
+                "city": "Minnesota",
+                "nickname": "Twins",
+                "seed": 5
+              }
+            ],
+            "winner": {
+              "abbr": "TBR",
+              "name": "Tampa Bay Rays",
+              "city": "Tampa Bay",
+              "nickname": "Rays",
+              "seed": 1
+            },
+            "note": "TBR over MIN on head-to-head (5-1)"
+          },
+          {
+            "teams": [
+              {
+                "abbr": "CHW",
+                "name": "Chicago White Sox",
+                "city": "Chicago",
+                "nickname": "White Sox",
+                "seed": 2
+              },
+              {
+                "abbr": "TOR",
+                "name": "Toronto Blue Jays",
+                "city": "Toronto",
+                "nickname": "Blue Jays",
+                "seed": 6
+              }
+            ],
+            "winner": {
+              "abbr": "CHW",
+              "name": "Chicago White Sox",
+              "city": "Chicago",
+              "nickname": "White Sox",
+              "seed": 2
+            },
+            "note": "CHW over TOR on head-to-head (5-1)"
+          }
+        ],
+        "championship": [
+          {
+            "teams": [
+              {
+                "abbr": "TBR",
+                "name": "Tampa Bay Rays",
+                "city": "Tampa Bay",
+                "nickname": "Rays",
+                "seed": 1
+              },
+              {
+                "abbr": "CHW",
+                "name": "Chicago White Sox",
+                "city": "Chicago",
+                "nickname": "White Sox",
+                "seed": 2
+              }
+            ],
+            "winner": {
+              "abbr": "TBR",
+              "name": "Tampa Bay Rays",
+              "city": "Tampa Bay",
+              "nickname": "Rays",
+              "seed": 1
+            },
+            "note": "TBR over CHW on head-to-head (4-2)"
+          }
+        ],
+        "champion": {
+          "abbr": "TBR",
+          "name": "Tampa Bay Rays",
+          "city": "Tampa Bay",
+          "nickname": "Rays",
+          "seed": 1
+        }
+      }
     },
     "NL": {
       "divisions": {
@@ -1099,7 +1244,152 @@
           "number": 7,
           "label": "NL Wild Card"
         }
-      ]
+      ],
+      "playoffs": {
+        "wild_card": [
+          {
+            "teams": [
+              {
+                "abbr": "MIL",
+                "name": "Milwaukee Brewers",
+                "city": "Milwaukee",
+                "nickname": "Brewers",
+                "seed": 4
+              },
+              {
+                "abbr": "STL",
+                "name": "St. Louis Cardinals",
+                "city": "St. Louis",
+                "nickname": "Cardinals",
+                "seed": 5
+              }
+            ],
+            "winner": {
+              "abbr": "MIL",
+              "name": "Milwaukee Brewers",
+              "city": "Milwaukee",
+              "nickname": "Brewers",
+              "seed": 4
+            },
+            "note": "MIL over STL on head-to-head (8-2)"
+          },
+          {
+            "teams": [
+              {
+                "abbr": "ATL",
+                "name": "Atlanta Braves",
+                "city": "Atlanta",
+                "nickname": "Braves",
+                "seed": 3
+              },
+              {
+                "abbr": "PHI",
+                "name": "Philadelphia Phillies",
+                "city": "Philadelphia",
+                "nickname": "Phillies",
+                "seed": 6
+              }
+            ],
+            "winner": {
+              "abbr": "ATL",
+              "name": "Atlanta Braves",
+              "city": "Atlanta",
+              "nickname": "Braves",
+              "seed": 3
+            },
+            "note": "ATL over PHI on head-to-head (8-3)"
+          }
+        ],
+        "division_series": [
+          {
+            "teams": [
+              {
+                "abbr": "CHC",
+                "name": "Chicago Cubs",
+                "city": "Chicago",
+                "nickname": "Cubs",
+                "seed": 1
+              },
+              {
+                "abbr": "MIL",
+                "name": "Milwaukee Brewers",
+                "city": "Milwaukee",
+                "nickname": "Brewers",
+                "seed": 4
+              }
+            ],
+            "winner": {
+              "abbr": "MIL",
+              "name": "Milwaukee Brewers",
+              "city": "Milwaukee",
+              "nickname": "Brewers",
+              "seed": 4
+            },
+            "note": "MIL over CHC on head-to-head (9-4)"
+          },
+          {
+            "teams": [
+              {
+                "abbr": "ARI",
+                "name": "Arizona Diamondbacks",
+                "city": "Arizona",
+                "nickname": "Diamondbacks",
+                "seed": 2
+              },
+              {
+                "abbr": "ATL",
+                "name": "Atlanta Braves",
+                "city": "Atlanta",
+                "nickname": "Braves",
+                "seed": 3
+              }
+            ],
+            "winner": {
+              "abbr": "ARI",
+              "name": "Arizona Diamondbacks",
+              "city": "Arizona",
+              "nickname": "Diamondbacks",
+              "seed": 2
+            },
+            "note": "ARI over ATL on head-to-head (4-3)"
+          }
+        ],
+        "championship": [
+          {
+            "teams": [
+              {
+                "abbr": "MIL",
+                "name": "Milwaukee Brewers",
+                "city": "Milwaukee",
+                "nickname": "Brewers",
+                "seed": 4
+              },
+              {
+                "abbr": "ARI",
+                "name": "Arizona Diamondbacks",
+                "city": "Arizona",
+                "nickname": "Diamondbacks",
+                "seed": 2
+              }
+            ],
+            "winner": {
+              "abbr": "MIL",
+              "name": "Milwaukee Brewers",
+              "city": "Milwaukee",
+              "nickname": "Brewers",
+              "seed": 4
+            },
+            "note": "MIL over ARI on head-to-head (4-2)"
+          }
+        ],
+        "champion": {
+          "abbr": "MIL",
+          "name": "Milwaukee Brewers",
+          "city": "Milwaukee",
+          "nickname": "Brewers",
+          "seed": 4
+        }
+      }
     }
   }
 }
