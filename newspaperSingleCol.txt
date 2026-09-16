@@ -17,20 +17,6 @@ Austin                 25   7   8  10  29 -12
 Seattle                23   7   7   9  28  -5
 Sporting KC            24   5   3  16  18 -33
 
-MLS West Fixtures
------------------
-Sunday, September 13
-  Dallas                 2–1   Portland
-  Sporting KC            3–1   LAFC
-  St. Louis              4–2   Minnesota
-  Colorado               1–0   Montreal
-  Real Salt Lake         0–2   New York City
-  Galaxy                 1–1   Seattle
-  San Jose               1–0   Houston
-  Vancouver Whitecaps    1–2   Austin
-Monday, September 14
-  San Diego              0–5   Philadelphia
-
 
 MLS East
 --------
@@ -50,23 +36,6 @@ Toronto                25   6  11   8  29  -8
 Columbus               25   6   5  14  23  -7
 Atlanta                25   6   5  14  23 -14
 Montreal               25   5   6  14  21 -20
-
-MLS East Fixtures
------------------
-Saturday, September 12
-  Columbus               0–1   Red Bull New York
-  DC United              0–0   Atlanta
-  Cincinnati             3–3   Charlotte
-  Inter Miami            2–2   Nashville
-  Orlando City SC        3–0   Toronto
-Sunday, September 13
-  Colorado               1–0   Montreal
-  Real Salt Lake         0–2   New York City
-  Chicago                1–2   New England
-Monday, September 14
-  San Diego              0–5   Philadelphia
-Friday, September 18
-  New York City          vs    Red Bull New York
 
 
 Allsvenskan
@@ -88,21 +57,6 @@ Kalmar FF              21   5   4  12  19 -10
 Degerfors IF           21   5   4  12  19 -14
 Örgryte IS             21   3   6  12  15 -23
 Halmstads BK           21   2   5  14  11 -25
-
-Allsvenskan Fixtures
---------------------
-Saturday, September 12
-  AIK                    1–4   Västerås SK
-  IFK Göteborg           2–1   Halmstads BK
-Sunday, September 13
-  Hammarby IF            3–1   IF Brommapojkarna
-  IF Elfsborg            1–0   Kalmar FF
-  Malmö FF               4–1   Örgryte IS
-Monday, September 14
-  Djurgården             2–0   GAIS
-  IK Sirius              2–0   Degerfors IF
-Wednesday, September 16
-  AIK                    vs    Mjällby AIF
 
 
 Bundesliga
@@ -126,21 +80,6 @@ SC Paderborn 07         3   0   1   2   1  -4
 1. FC Union Berlin      3   0   1   2   1  -6
 M'gladbach              3   0   0   3   0  -9
 Hamburg SV              3   0   0   3   0 -12
-
-Bundesliga Fixtures
--------------------
-Saturday, September 12
-  Borussia Dortmund      3–0   SC Paderborn 07
-  FC Augsburg            2–2   Bayer Leverkusen
-  Mainz                  1–3   E. Frankfurt
-  SC Freiburg            5–0   M'gladbach
-  TSG Hoffenheim         2–1   VfB Stuttgart
-  FC Cologne             1–1   Werder Bremen
-Sunday, September 13
-  RB Leipzig             5–0   Hamburg SV
-  SV Elversberg          1–2   Bayern Munich
-Friday, September 18
-  Bayern Munich          vs    1. FC Union Berlin
 
 
 Premier League
@@ -167,24 +106,6 @@ Fulham                  4   0   1   3   1  -3
 Aston Villa             4   0   1   3   1  -6
 Coventry City           4   0   0   4   0 -10
 
-Premier League Fixtures
------------------------
-Saturday, September 12
-  AFC Bournemouth        2–2   Brentford
-  Aston Villa            1–2   Nottingham Forest
-  Chelsea                2–2   Hull City
-  Crystal Palace         2–3   Ipswich Town
-  Liverpool              0–0   Fulham
-  Tottenham Hotspur      0–0   Everton
-  Sunderland             0–2   Arsenal
-Sunday, September 13
-  Coventry City          0–5   Brighton & Hove Albion
-  Manchester United      0–1   Manchester City
-Monday, September 14
-  Leeds United           4–1   Newcastle United
-Friday, September 18
-  Brentford              vs    Chelsea
-
 
 Ligue 1
 -------
@@ -207,21 +128,6 @@ AJ Auxerre              4   1   0   3   3  -6
 Le Havre AC             4   0   2   2   2  -2
 Toulouse                4   0   2   2   2  -3
 Nice                    4   0   2   2   2  -4
-
-Ligue 1 Fixtures
-----------------
-Saturday, September 12
-  Strasbourg             1–1   AS Monaco
-  AJ Auxerre             1–0   Nice
-  Le Havre AC            0–0   Angers
-  Lorient                2–2   Toulouse
-  Paris FC               0–0   Lyon
-Sunday, September 13
-  Lille                  2–0   Troyes
-  Le Mans                2–2   Lens
-  Brest                  0–1   Paris S-G
-Friday, September 18
-  AS Monaco              vs    Lens
 
 
 Serie A
@@ -248,76 +154,30 @@ Monza                   4   0   1   3   1  -5
 Genoa                   4   0   1   3   1  -6
 Venezia                 4   0   0   4   0  -7
 
-Serie A Fixtures
-----------------
-Saturday, September 12
-  Genoa                  1–1   Frosinone
-  Lazio                  2–2   AC Milan
-  Atalanta               1–2   Cagliari
-Sunday, September 13
-  Lecce                  3–2   Monza
-  Napoli                 1–0   Bologna
-  Sassuolo               3–2   Juventus
-Monday, September 14
-  Como                   2–1   Parma
-  Torino                 0–2   AS Roma
-  Internazionale         5–3   Udinese
-Friday, September 18
-  Monza                  vs    Sassuolo
-
 
 La Liga
 -------
 Squad                  MP   W   D   L  Pt  GD
 Barcelona               5   5   0   0  15  17
-Real Madrid             5   4   0   1  12  10
+Real Madrid             6   5   0   1  15  11
 Real Betis              5   4   0   1  12   1
-Alavés                  5   3   1   1  10   6
+Alavés                  6   3   1   2  10   5
 Atlético Madrid         5   3   1   1  10   4
 Sevilla                 5   3   1   1  10   2
 Deportivo               5   2   3   0   9   3
-Espanyol                5   2   1   2   7   3
+Espanyol                6   2   1   3   7   2
 Athletic Club           5   2   1   2   7   1
 Racing Santander        5   2   1   2   7   0
 Osasuna                 5   2   1   2   7  -3
+Rayo Vallecano          6   2   1   3   7  -5
 Real Sociedad           6   2   1   3   7  -5
 Levante                 5   1   2   2   5  -2
 Getafe                  5   1   2   2   5  -3
 Celta Vigo              6   0   4   2   4  -3
-Rayo Vallecano          5   1   1   3   4  -6
+Valencia                6   1   1   4   4  -8
 Málaga                  5   0   3   2   3  -6
 Villarreal              5   0   2   3   2  -3
-Elche                   5   0   2   3   2  -7
-Valencia                5   0   1   4   1  -9
-
-La Liga Fixtures
-----------------
-Saturday, September 12
-  Racing Santander       2–1   Alavés
-  Osasuna                0–2   Espanyol
-  Athletic Club          1–1   Elche
-  Real Madrid            4–1   Rayo Vallecano
-Sunday, September 13
-  Celta Vigo             1–1   Málaga
-  Levante                2–4   Barcelona
-  Getafe                 1–1   Deportivo
-  Real Sociedad          0–3   Atlético Madrid
-Monday, September 14
-  Villarreal             1–2   Real Betis
-Tuesday, September 15
-  Rayo Vallecano         vs    Espanyol
-  Alavés                 vs    Valencia
-  Elche                  vs    Real Madrid
-Wednesday, September 16
-  Atlético Madrid        vs    Osasuna
-  Deportivo              vs    Sevilla
-  Barcelona              vs    Racing Santander
-  Levante                vs    Athletic Club
-Thursday, September 17
-  Real Betis             vs    Getafe
-  Málaga                 vs    Villarreal
-Friday, September 18
-  Espanyol               vs    Elche
+Elche                   6   0   2   4   2  -8
 
 
 Scottish Premiership
@@ -325,36 +185,29 @@ Scottish Premiership
 Squad                  MP   W   D   L  Pt  GD
 Celtic                  6   6   0   0  18  11
 Rangers                 6   4   1   1  13   3
-Heart of Midlothian     5   4   0   1  12   7
+Heart of Midlothian     6   4   0   2  12   6
 St Mirren               6   3   1   2  10   2
-Motherwell              5   2   2   1   8   3
+Motherwell              6   2   2   2   8  -1
 Dundee                  6   2   1   3   7   1
 St Johnstone            6   2   1   3   7  -1
-Hibernian               5   2   0   3   6  -2
+Aberdeen                6   2   1   3   7  -1
+Hibernian               6   2   0   4   6  -3
+Falkirk                 6   1   2   3   5  -3
 Dundee United           6   1   2   3   5  -5
-Aberdeen                5   1   1   3   4  -5
-Falkirk                 5   0   2   3   2  -4
-Kilmarnock              5   0   1   4   1 -10
-
-Scottish Premiership Fixtures
------------------------------
-Tuesday, September 15
-  Falkirk                vs    Heart of Midlothian
-  Hibernian              vs    Kilmarnock
-  Motherwell             vs    Aberdeen
+Kilmarnock              6   1   1   4   4  -9
 
 
 Liga MX
 -------
 Squad                  MP   W   D   L  Pt  GD
+Toluca                  8   6   1   1  19  12
 Guadalajara             8   5   2   1  17   9
-Toluca                  7   5   1   1  16  11
 América                 7   5   1   1  16   9
 Cruz Azul               8   5   0   3  15   2
 Querétaro               7   4   1   2  13   3
 León                    8   4   1   3  13   2
 Tijuana                 7   4   1   2  13   2
-Puebla                  7   4   1   2  13   1
+Puebla                  8   4   1   3  13   0
 Atlas                   8   4   1   3  13  -2
 Pachuca                 8   3   2   3  11   5
 Pumas UNAM              8   3   2   3  11  -1
@@ -365,24 +218,6 @@ Atlante                 8   1   4   3   7  -5
 Atlético San Luis       8   1   3   4   6  -7
 Santos                  8   1   1   6   4  -7
 FC Juarez               8   0   0   8   0 -19
-
-Liga MX Fixtures
-----------------
-Saturday, September 12
-  Toluca                 5–2   Atlas
-Sunday, September 13
-  Monterrey              0–0   Tigres UANL
-  Cruz Azul              4–3   América
-Monday, September 14
-  Santos                 2–1   FC Juarez
-  Guadalajara            3–0   Pumas UNAM
-Tuesday, September 15
-  León                   2–0   Atlético San Luis
-Wednesday, September 16
-  Puebla                 vs    Toluca
-Saturday, September 19
-  Puebla                 vs    Atlante
-  FC Juarez              vs    Tigres UANL
 
 
 Champions League
@@ -466,28 +301,5 @@ POR Torreense               0   0   0   0   0   0
 BEL Union St.-Gilloise      0   0   0   0   0   0
 CZE Viktoria Plzen          0   0   0   0   0   0
 
-Europa League Fixtures
-----------------------
-Wednesday, September 16
-  Ararat-Armenia         vs    Sparta Prague
-  Omonia Nicosia         vs    Celta Vigo
-  AC Milan               vs    Benfica
-  Anderlecht             vs    Lyon
-  Bayer Leverkusen       vs    NK Celje
-  Hapoel Be'er           vs    Dinamo Zagreb
-  Olympiacos             vs    Jagiellonia Bialystok
-  SK Sturm Graz          vs    Stade Rennais
-  Sunderland             vs    AZ Alkmaar
-Thursday, September 17
-  Levski Sofia           vs    RB Salzburg
-  OFI Crete              vs    TSG Hoffenheim
-  Besiktas               vs    Marseille
-  Celtic                 vs    Ferencvaros
-  Crystal Palace         vs    Lech Poznan
-  Juventus               vs    NEC Nijmegen
-  Lillestrom             vs    Torreense
-  Real Sociedad          vs    AFC Bournemouth
-  Viktoria Plzen         vs    Union St.-Gilloise
 
-
-Standings from ESPN.com 09.15.26
+Standings from ESPN.com 09.16.26

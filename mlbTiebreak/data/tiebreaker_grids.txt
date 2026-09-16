@@ -10,7 +10,7 @@ BAL        BAL       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA  
 BOS        BOS     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS     MIN     NYY     SEA     TBR     BOS     TOR
 CHW        CHW     BAL     BOS       -     CHW     CHW     HOU     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
 CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
-DET        DET     BAL     BOS     CHW     CLE       -     HOU     KCR     LAA     MIN     DET     DET     DET     DET     TOR
+DET        DET     BAL     BOS     CHW     CLE       -     HOU     KCR     LAA     MIN     DET     DET     DET     DET     DET
 HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
 LAA        ATH     LAA     BOS     CHW     CLE     LAA     HOU     KCR       -     MIN     NYY     SEA     TBR     LAA     TOR
@@ -19,21 +19,21 @@ NYY        NYY     NYY     NYY     NYY     NYY     DET     NYY     NYY     NYY  
 SEA        ATH     SEA     SEA     CHW     CLE     DET     SEA     KCR     SEA     SEA     NYY       -     TBR     TEX     TOR
 TBR        TBR     BAL     TBR     TBR     TBR     DET     TBR     TBR     TBR     TBR     TBR     TBR       -     TBR     TBR
 TEX        ATH     TEX     BOS     CHW     TEX     DET     HOU     TEX     LAA     MIN     NYY     TEX     TBR       -     TEX
-TOR        TOR     TOR     TOR     CHW     TOR     TOR     TOR     TOR     TOR     MIN     NYY     TOR     TBR     TEX       -
+TOR        TOR     TOR     TOR     CHW     TOR     DET     TOR     TOR     TOR     MIN     NYY     TOR     TBR     TEX       -
 
 AL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 NYY    12-2 
 TBR    12-2 
 CHW     9-5 
-TOR     9-5 
 BOS     8-6 
 MIN     8-6 
+TOR     8-6 
 HOU     7-7 
 BAL     6-8 
 CLE     6-8 
+DET     6-8 
 ATH     5-9 
-DET     5-9 
 KCR     5-9 
 SEA     5-9 
 TEX     5-9 
@@ -43,13 +43,13 @@ NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
 ARI          -     ARI     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     ARI     ARI     ARI     WSN
-ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     ATL     NYM     ATL     ATL     SDP     SFG     STL     ATL
+ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     MIL     NYM     ATL     ATL     SDP     SFG     STL     ATL
 CHC        CHC     ATL       -     CHC     CHC     CHC     CHC     MIL     CHC     CHC     CHC     CHC     CHC     STL     CHC
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     SFG     STL     WSN
 COL        ARI     ATL     CHC     CIN       -     LAD     MIA     MIL     COL     PHI     PIT     SDP     COL     STL     WSN
 LAD        ARI     ATL     CHC     LAD     LAD       -     MIA     MIL     LAD     LAD     LAD     LAD     SFG     STL     LAD
 MIA        MIA     ATL     CHC     MIA     MIA     MIA       -     MIL     NYM     PHI     MIA     SDP     MIA     MIA     MIA
-MIL        MIL     ATL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     SDP     SFG     MIL     WSN
+MIL        MIL     MIL     MIL     MIL     MIL     MIL     MIL       -     MIL     MIL     PIT     SDP     SFG     MIL     WSN
 NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     NYM     NYM     STL     NYM
 PHI        ARI     ATL     CHC     PHI     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     PHI     PHI
 PIT        ARI     ATL     CHC     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     PIT     STL     PIT
@@ -62,10 +62,10 @@ NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 CHC    11-3 
 ARI    10-4 
-ATL     9-5 
-MIL     9-5 
+MIL    10-4 
 PHI     9-5 
 STL     9-5 
+ATL     8-6 
 MIA     8-6 
 SDP     8-6 
 LAD     7-7 
