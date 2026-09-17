@@ -47,12 +47,12 @@ Hammarby IF            21  12   4   5  40  28
 IF Elfsborg            21   9   7   5  34   8
 Malmö FF               21  10   3   8  33   6
 BK Häcken              21   8   9   4  33   4
-AIK                    20   9   5   6  32  -2
+AIK                    21   9   6   6  33  -2
 Västerås SK            21   9   5   7  32  -3
 IFK Göteborg           21   8   5   8  29 -11
 GAIS                   21   7   6   8  27   5
 IF Brommapojkarna      21   7   6   8  27  -5
-Mjällby AIF            20   5   6   9  21  -8
+Mjällby AIF            21   5   7   9  22  -8
 Kalmar FF              21   5   4  12  19 -10
 Degerfors IF           21   5   4  12  19 -14
 Örgryte IS             21   3   6  12  15 -23
@@ -158,19 +158,19 @@ Venezia                 4   0   0   4   0  -7
 La Liga
 -------
 Squad                  MP   W   D   L  Pt  GD
-Barcelona               5   5   0   0  15  17
+Barcelona               6   6   0   0  18  22
 Real Madrid             6   5   0   1  15  11
+Atlético Madrid         6   4   1   1  13   8
+Sevilla                 6   4   1   1  13   3
 Real Betis              5   4   0   1  12   1
 Alavés                  6   3   1   2  10   5
-Atlético Madrid         5   3   1   1  10   4
-Sevilla                 5   3   1   1  10   2
-Deportivo               5   2   3   0   9   3
+Deportivo               6   2   3   1   9   2
 Espanyol                6   2   1   3   7   2
 Athletic Club           5   2   1   2   7   1
-Racing Santander        5   2   1   2   7   0
-Osasuna                 5   2   1   2   7  -3
+Racing Santander        6   2   1   3   7  -5
 Rayo Vallecano          6   2   1   3   7  -5
 Real Sociedad           6   2   1   3   7  -5
+Osasuna                 6   2   1   3   7  -7
 Levante                 5   1   2   2   5  -2
 Getafe                  5   1   2   2   5  -3
 Celta Vigo              6   0   4   2   4  -3
@@ -264,42 +264,42 @@ NOR Bodo/Glimt              1   0   0   1   0  -5
 Europa League
 -------------
 Cty Squad                  MP   W   D   L  Pt  GD
-ITA AC Milan                0   0   0   0   0   0
-NED AZ Alkmaar              0   0   0   0   0   0
-BEL Anderlecht              0   0   0   0   0   0
-ARM Ararat-Armenia          0   0   0   0   0   0
-GER Bayer Leverkusen        0   0   0   0   0   0
-POR Benfica                 0   0   0   0   0   0
+CZE Sparta Prague           1   1   0   0   3   3
+POR Benfica                 1   1   0   0   3   2
+GER Bayer Leverkusen        1   1   0   0   3   2
+FRA Lyon                    1   1   0   0   3   1
+GRE Olympiacos              1   1   0   0   3   1
+CYP Omonia Nicosia          1   1   0   0   3   1
+ENG Sunderland              1   1   0   0   3   1
+CRO Dinamo Zagreb           1   0   1   0   1   0
+ISR Hapoel Be'er            1   0   1   0   1   0
+FRA Stade Rennais           1   0   1   0   1   0
+AUT SK Sturm Graz           1   0   1   0   1   0
 TUR Besiktas                0   0   0   0   0   0
 ENG AFC Bournemouth         0   0   0   0   0   0
-SVN NK Celje                0   0   0   0   0   0
-ESP Celta Vigo              0   0   0   0   0   0
 SCO Celtic                  0   0   0   0   0   0
 ENG Crystal Palace          0   0   0   0   0   0
-CRO Dinamo Zagreb           0   0   0   0   0   0
 HUN Ferencvaros             0   0   0   0   0   0
-ISR Hapoel Be'er            0   0   0   0   0   0
 GER TSG Hoffenheim          0   0   0   0   0   0
-POL Jagiellonia Bialystok   0   0   0   0   0   0
 ITA Juventus                0   0   0   0   0   0
 POL Lech Poznan             0   0   0   0   0   0
 BUL Levski Sofia            0   0   0   0   0   0
 NOR Lillestrom              0   0   0   0   0   0
-FRA Lyon                    0   0   0   0   0   0
 FRA Marseille               0   0   0   0   0   0
 NED NEC Nijmegen            0   0   0   0   0   0
 GRE OFI Crete               0   0   0   0   0   0
-GRE Olympiacos              0   0   0   0   0   0
-CYP Omonia Nicosia          0   0   0   0   0   0
 ESP Real Sociedad           0   0   0   0   0   0
-FRA Stade Rennais           0   0   0   0   0   0
 AUT RB Salzburg             0   0   0   0   0   0
-CZE Sparta Prague           0   0   0   0   0   0
-AUT SK Sturm Graz           0   0   0   0   0   0
-ENG Sunderland              0   0   0   0   0   0
 POR Torreense               0   0   0   0   0   0
 BEL Union St.-Gilloise      0   0   0   0   0   0
 CZE Viktoria Plzen          0   0   0   0   0   0
+POL Jagiellonia Bialystok   1   0   0   1   0  -1
+BEL Anderlecht              1   0   0   1   0  -1
+NED AZ Alkmaar              1   0   0   1   0  -1
+ESP Celta Vigo              1   0   0   1   0  -1
+ITA AC Milan                1   0   0   1   0  -2
+SVN NK Celje                1   0   0   1   0  -2
+ARM Ararat-Armenia          1   0   0   1   0  -3
 
 
-Standings from ESPN.com 09.16.26
+Standings from ESPN.com 09.17.26
