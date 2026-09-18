@@ -160,9 +160,9 @@ La Liga
 Squad                  MP   W   D   L  Pt  GD
 Barcelona               6   6   0   0  18  22
 Real Madrid             6   5   0   1  15  11
+Real Betis              6   5   0   1  15   2
 Atlético Madrid         6   4   1   1  13   8
 Sevilla                 6   4   1   1  13   3
-Real Betis              5   4   0   1  12   1
 Alavés                  6   3   1   2  10   5
 Deportivo               6   2   3   1   9   2
 Espanyol                6   2   1   3   7   2
@@ -171,12 +171,12 @@ Racing Santander        6   2   1   3   7  -5
 Rayo Vallecano          6   2   1   3   7  -5
 Real Sociedad           6   2   1   3   7  -5
 Osasuna                 6   2   1   3   7  -7
+Villarreal              6   1   2   3   5  -1
 Levante                 5   1   2   2   5  -2
-Getafe                  5   1   2   2   5  -3
+Getafe                  6   1   2   3   5  -4
 Celta Vigo              6   0   4   2   4  -3
 Valencia                6   1   1   4   4  -8
-Málaga                  5   0   3   2   3  -6
-Villarreal              5   0   2   3   2  -3
+Málaga                  6   0   3   3   3  -8
 Elche                   6   0   2   4   2  -8
 
 
@@ -264,42 +264,42 @@ NOR Bodo/Glimt              1   0   0   1   0  -5
 Europa League
 -------------
 Cty Squad                  MP   W   D   L  Pt  GD
+ITA Juventus                1   1   0   0   3   5
+ENG Crystal Palace          1   1   0   0   3   4
 CZE Sparta Prague           1   1   0   0   3   3
+TUR Besiktas                1   1   0   0   3   3
+BEL Union St.-Gilloise      1   1   0   0   3   3
+HUN Ferencvaros             1   1   0   0   3   2
 POR Benfica                 1   1   0   0   3   2
 GER Bayer Leverkusen        1   1   0   0   3   2
+GRE OFI CRETE               1   1   0   0   3   2
+ENG AFC Bournemouth         1   1   0   0   3   1
 FRA Lyon                    1   1   0   0   3   1
+POR Torreense               1   1   0   0   3   1
 GRE Olympiacos              1   1   0   0   3   1
+AUT RB Salzburg             1   1   0   0   3   1
 CYP Omonia Nicosia          1   1   0   0   3   1
 ENG Sunderland              1   1   0   0   3   1
 CRO Dinamo Zagreb           1   0   1   0   1   0
 ISR Hapoel Be'er            1   0   1   0   1   0
 FRA Stade Rennais           1   0   1   0   1   0
 AUT SK Sturm Graz           1   0   1   0   1   0
-TUR Besiktas                0   0   0   0   0   0
-ENG AFC Bournemouth         0   0   0   0   0   0
-SCO Celtic                  0   0   0   0   0   0
-ENG Crystal Palace          0   0   0   0   0   0
-HUN Ferencvaros             0   0   0   0   0   0
-GER TSG Hoffenheim          0   0   0   0   0   0
-ITA Juventus                0   0   0   0   0   0
-POL Lech Poznan             0   0   0   0   0   0
-BUL Levski Sofia            0   0   0   0   0   0
-NOR Lillestrom              0   0   0   0   0   0
-FRA Marseille               0   0   0   0   0   0
-NED NEC Nijmegen            0   0   0   0   0   0
-GRE OFI Crete               0   0   0   0   0   0
-ESP Real Sociedad           0   0   0   0   0   0
-AUT RB Salzburg             0   0   0   0   0   0
-POR Torreense               0   0   0   0   0   0
-BEL Union St.-Gilloise      0   0   0   0   0   0
-CZE Viktoria Plzen          0   0   0   0   0   0
 POL Jagiellonia Bialystok   1   0   0   1   0  -1
 BEL Anderlecht              1   0   0   1   0  -1
+NOR Lillestrom              1   0   0   1   0  -1
+ESP Real Sociedad           1   0   0   1   0  -1
 NED AZ Alkmaar              1   0   0   1   0  -1
 ESP Celta Vigo              1   0   0   1   0  -1
+BUL Levski Sofia            1   0   0   1   0  -1
+SCO Celtic                  1   0   0   1   0  -2
 ITA AC Milan                1   0   0   1   0  -2
 SVN NK Celje                1   0   0   1   0  -2
-ARM Ararat-Armenia          1   0   0   1   0  -3
+GER TSG Hoffenheim          1   0   0   1   0  -2
+FRA Marseille               1   0   0   1   0  -3
+nan ARARAT-ARMENIA          1   0   0   1   0  -3
+CZE Viktoria Plzen          1   0   0   1   0  -3
+POL Lech Poznan             1   0   0   1   0  -4
+NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 09.17.26
+Standings from ESPN.com 09.18.26
