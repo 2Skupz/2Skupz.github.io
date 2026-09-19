@@ -28,9 +28,9 @@ Charlotte              25  11   7   7  40   9
 Chicago                24  11   6   7  39  10
 Orlando City SC        25  10   4  11  34 -12
 Philadelphia           25   9   6  10  33   7
-New York City          25   8   8   9  32   6
+Red Bull New York      26   9   6  11  33 -14
+New York City          26   8   8  10  32   5
 Cincinnati             24   8   8   8  32  -7
-Red Bull New York      25   8   6  11  30 -15
 DC United              24   6  11   7  29  -7
 Toronto                25   6  11   8  29  -8
 Columbus               25   6   5  14  23  -7
@@ -62,10 +62,10 @@ Halmstads BK           21   2   5  14  11 -25
 Bundesliga
 ----------
 Squad                  MP   W   D   L  Pt  GD
+Bayern Munich           4   3   1   0  10  12
 SC Freiburg             3   3   0   0   9   9
 Borussia Dortmund       3   3   0   0   9   6
 FC Augsburg             3   2   1   0   7   6
-Bayern Munich           3   2   1   0   7   5
 RB Leipzig              3   2   0   1   6   6
 SV Elversberg           3   2   0   1   6   1
 Bayer Leverkusen        3   1   1   1   4   3
@@ -77,7 +77,7 @@ FC Cologne              3   1   1   1   4  -2
 TSG Hoffenheim          3   1   0   2   3  -1
 VfB Stuttgart           3   1   0   2   3  -2
 SC Paderborn 07         3   0   1   2   1  -4
-1. FC Union Berlin      3   0   1   2   1  -6
+1. FC Union Berlin      4   0   1   3   1 -13
 M'gladbach              3   0   0   3   0  -9
 Hamburg SV              3   0   0   3   0 -12
 
@@ -87,11 +87,11 @@ Premier League
 Squad                  MP   W   D   L  Pt  GD
 Arsenal                 4   4   0   0  12   7
 Manchester City         4   4   0   0  12   6
+Brentford               5   2   3   0   9   6
 Leeds United            4   2   2   0   8   4
 Hull City               4   2   2   0   8   3
 Brighton & Hove Albion  4   2   1   1   7   8
-Chelsea                 4   2   1   1   7   1
-Brentford               4   1   3   0   6   3
+Chelsea                 5   2   1   2   7  -2
 Liverpool               4   1   3   0   6   2
 Everton                 4   1   3   0   6   2
 Ipswich Town            4   2   0   2   6  -3
@@ -110,8 +110,8 @@ Coventry City           4   0   0   4   0 -10
 Ligue 1
 -------
 Squad                  MP   W   D   L  Pt  GD
+AS Monaco               5   4   1   0  13   5
 Lille                   4   3   1   0  10   5
-AS Monaco               4   3   1   0  10   4
 Stade Rennais           4   3   1   0  10   3
 Lyon                    4   2   2   0   8   4
 Paris FC                4   2   2   0   8   4
@@ -119,7 +119,7 @@ Strasbourg              4   2   1   1   7   1
 Brest                   4   1   2   1   5   0
 Paris S-G               4   1   2   1   5   0
 Lorient                 4   1   2   1   5   0
-Lens                    4   1   1   2   4   1
+Lens                    5   1   1   3   4   0
 Angers                  4   1   1   2   4  -1
 Troyes                  4   1   1   2   4  -5
 Marseille               4   1   0   3   3   0
@@ -141,16 +141,16 @@ Cagliari                4   3   0   1   9   2
 AC Milan                4   2   2   0   8   3
 Frosinone               4   2   1   1   7   3
 Juventus                4   2   1   1   7   2
-Sassuolo                4   2   1   1   7   1
+Sassuolo                5   2   1   2   7   0
 Napoli                  4   2   0   2   6   1
 Atalanta                4   2   0   2   6   0
 Lecce                   4   2   0   2   6  -2
 Udinese                 4   1   1   2   4  -2
+Monza                   5   1   1   3   4  -4
 Torino                  4   1   0   3   3  -3
 Fiorentina              4   1   0   3   3  -6
 Bologna                 4   0   1   3   1  -3
 Parma                   4   0   1   3   1  -4
-Monza                   4   0   1   3   1  -5
 Genoa                   4   0   1   3   1  -6
 Venezia                 4   0   0   4   0  -7
 
@@ -165,8 +165,8 @@ Atlético Madrid         6   4   1   1  13   8
 Sevilla                 6   4   1   1  13   3
 Alavés                  6   3   1   2  10   5
 Deportivo               6   2   3   1   9   2
-Espanyol                6   2   1   3   7   2
 Athletic Club           5   2   1   2   7   1
+Espanyol                7   2   1   4   7   0
 Racing Santander        6   2   1   3   7  -5
 Rayo Vallecano          6   2   1   3   7  -5
 Real Sociedad           6   2   1   3   7  -5
@@ -174,10 +174,10 @@ Osasuna                 6   2   1   3   7  -7
 Villarreal              6   1   2   3   5  -1
 Levante                 5   1   2   2   5  -2
 Getafe                  6   1   2   3   5  -4
+Elche                   7   1   2   4   5  -6
 Celta Vigo              6   0   4   2   4  -3
 Valencia                6   1   1   4   4  -8
 Málaga                  6   0   3   3   3  -8
-Elche                   6   0   2   4   2  -8
 
 
 Scottish Premiership
@@ -204,20 +204,20 @@ Toluca                  8   6   1   1  19  12
 Guadalajara             8   5   2   1  17   9
 América                 7   5   1   1  16   9
 Cruz Azul               8   5   0   3  15   2
+Puebla                  9   4   2   3  14   0
 Querétaro               7   4   1   2  13   3
 León                    8   4   1   3  13   2
 Tijuana                 7   4   1   2  13   2
-Puebla                  8   4   1   3  13   0
 Atlas                   8   4   1   3  13  -2
 Pachuca                 8   3   2   3  11   5
 Pumas UNAM              8   3   2   3  11  -1
 Monterrey               7   3   1   3  10   3
 Necaxa                  8   2   2   4   8  -4
-Tigres UANL             8   1   4   3   7  -2
-Atlante                 8   1   4   3   7  -5
+Atlante                 9   1   5   3   8  -5
+Tigres UANL             9   1   4   4   7  -4
 Atlético San Luis       8   1   3   4   6  -7
 Santos                  8   1   1   6   4  -7
-FC Juarez               8   0   0   8   0 -19
+FC Juarez               9   1   0   8   3 -17
 
 
 Champions League
@@ -302,4 +302,4 @@ POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 09.18.26
+Standings from ESPN.com 09.19.26
