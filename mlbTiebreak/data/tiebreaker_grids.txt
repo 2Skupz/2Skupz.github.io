@@ -7,9 +7,9 @@ AMERICAN LEAGUE
 -          ATH     BAL     BOS     CHW     CLE     DET     HOU     KCR     LAA     MIN     NYY     SEA     TBR     TEX     TOR
 ATH          -     BAL     BOS     CHW     CLE     DET     ATH     KCR     ATH     ATH     NYY     ATH     TBR     ATH     TOR
 BAL        BAL       -     BOS     BAL     CLE     BAL     BAL     BAL     LAA     MIN     NYY     SEA     BAL     TEX     TOR
-BOS        BOS     BOS       -     BOS     BOS     BOS     HOU     BOS     BOS     MIN     NYY     SEA     TBR     BOS     TOR
+BOS        BOS     BOS       -     BOS     CLE     BOS     HOU     BOS     BOS     MIN     NYY     SEA     TBR     BOS     TOR
 CHW        CHW     BAL     BOS       -     CHW     CHW     HOU     CHW     CHW     CHW     NYY     CHW     TBR     CHW     CHW
-CLE        CLE     CLE     BOS     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
+CLE        CLE     CLE     CLE     CHW       -     CLE     HOU     CLE     CLE     MIN     NYY     CLE     TBR     TEX     TOR
 DET        DET     BAL     BOS     CHW     CLE       -     HOU     KCR     LAA     MIN     DET     DET     DET     DET     TOR
 HOU        ATH     BAL     HOU     HOU     HOU     HOU       -     HOU     HOU     MIN     NYY     SEA     TBR     HOU     TOR
 KCR        KCR     BAL     BOS     CHW     CLE     KCR     HOU       -     KCR     KCR     NYY     KCR     TBR     TEX     TOR
@@ -27,11 +27,11 @@ NYY    12-2
 TBR    12-2 
 CHW     9-5 
 TOR     9-5 
-BOS     8-6 
 MIN     8-6 
+BOS     7-7 
+CLE     7-7 
 HOU     7-7 
 BAL     6-8 
-CLE     6-8 
 ATH     5-9 
 DET     5-9 
 KCR     5-9 
@@ -42,7 +42,7 @@ LAA     3-11
 NATIONAL LEAGUE
 ----------------------------------------------------------------------------------------------------------------------------------
 -          ARI     ATL     CHC     CIN     COL     LAD     MIA     MIL     NYM     PHI     PIT     SDP     SFG     STL     WSN
-ARI          -     ARI     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     TIE     ARI     ARI     WSN
+ARI          -     ARI     CHC     ARI     ARI     ARI     MIA     MIL     ARI     ARI     ARI     ARI     ARI     ARI     WSN
 ATL        ARI       -     ATL     ATL     ATL     ATL     ATL     MIL     NYM     ATL     ATL     SDP     SFG     STL     ATL
 CHC        CHC     ATL       -     CHC     CHC     CHC     CHC     MIL     CHC     CHC     CHC     CHC     CHC     STL     CHC
 CIN        ARI     ATL     CHC       -     CIN     LAD     MIA     MIL     CIN     PHI     PIT     SDP     CIN     STL     WSN
@@ -53,7 +53,7 @@ MIL        MIL     MIL     MIL     MIL     MIL     MIL     MIL       -     MIL  
 NYM        ARI     NYM     CHC     CIN     COL     LAD     NYM     MIL       -     PHI     NYM     NYM     NYM     STL     NYM
 PHI        ARI     ATL     CHC     PHI     PHI     LAD     PHI     MIL     PHI       -     PHI     PHI     PHI     PHI     PHI
 PIT        ARI     ATL     CHC     PIT     PIT     LAD     MIA     PIT     NYM     PHI       -     SDP     PIT     STL     PIT
-SDP        TIE     SDP     CHC     SDP     SDP     LAD     SDP     SDP     NYM     PHI     SDP       -     SDP     STL     SDP
+SDP        ARI     SDP     CHC     SDP     SDP     LAD     SDP     SDP     NYM     PHI     SDP       -     SDP     STL     SDP
 SFG        ARI     SFG     CHC     CIN     COL     LAD     MIA     SFG     NYM     PHI     PIT     SDP       -     SFG     SFG
 STL        ARI     STL     STL     STL     STL     STL     MIA     MIL     STL     PHI     STL     STL     SFG       -     STL
 WSN        WSN     ATL     CHC     WSN     WSN     LAD     MIA     WSN     NYM     PHI     PIT     SDP     SFG     STL       -
@@ -61,14 +61,14 @@ WSN        WSN     ATL     CHC     WSN     WSN     LAD     MIA     WSN     NYM  
 NL TIEBREAKER RECORD SUMMARY
 ----------------------------------------
 CHC    11-3 
+ARI    10-4 
 MIL    10-4 
-ARI     9-4 
 PHI     9-5 
 STL     9-5 
-SDP     8-5 
 ATL     8-6 
 LAD     8-6 
 MIA     8-6 
+SDP     8-6 
 NYM     6-8 
 PIT     5-9 
 SFG     4-10
