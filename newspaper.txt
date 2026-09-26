@@ -16,6 +16,21 @@ Real Salt Lake         26   8   5  13  37  44  -7  29               Columbus    
 Minnesota              26   7   8  11  39  46  -7  29               Atlanta                26   7   5  14  30  43 -13  26
 Sporting KC            25   5   3  17  29  63 -34  18               Montreal               26   5   6  15  31  53 -22  21
 
+MLS West Fixtures                                                   MLS East Fixtures
+-----------------                                                   -----------------
+Thursday, September 24                                              Saturday, September 26
+  Seattle                2–0   Real Salt Lake                         Atlanta                vs    New York City
+Saturday, September 26                                                Montreal               vs    Cincinnati
+  Red Bull New York      vs    St. Louis                              Charlotte              vs    Chicago
+Sunday, September 27                                                  Philadelphia           vs    Orlando City SC
+  Austin                 vs    San Diego                              Red Bull New York      vs    St. Louis
+  Dallas                 vs    LAFC                                 Sunday, September 27
+  Houston                vs    Sporting KC                            Nashville              vs    Toronto
+  Seattle                vs    Minnesota                              Real Salt Lake         vs    New England
+  Real Salt Lake         vs    New England                            Vancouver              vs    DC United
+  Galaxy                 vs    Colorado                               Columbus               vs    Inter Miami
+  San Jose               vs    Portland                             
+  Vancouver              vs    DC United                            
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -92,22 +107,36 @@ Squad                  MP   W   D   L  GF  GA  GD Pts               Squad       
 IK Sirius              22  16   3   3  52  28  24  51               Toluca                  9   6   1   2  20   9  11  19
 Hammarby IF            22  13   4   5  49  20  29  43               Guadalajara             9   5   3   1  17   8   9  18
 Djurgården             22  13   2   7  47  21  26  41               América                 8   5   2   1  17   8   9  17
-IF Elfsborg            22  10   7   5  31  22   9  37               Cruz Azul               9   5   0   4  16  15   1  15
-BK Häcken              22   9   9   4  39  30   9  36               Querétaro               8   4   2   2  11   8   3  14
-Västerås SK            22  10   5   7  34  35  -1  35               León                    9   4   2   3  12  10   2  14
-Malmö FF               22  10   3   9  37  33   4  33               Tijuana                 8   4   2   2  12  10   2  14
-AIK                    22   9   6   7  31  34  -3  33               Puebla                  9   4   2   3  11  11   0  14
-IFK Göteborg           22   9   5   8  31  41 -10  32               Atlas                   9   4   2   3  13  15  -2  14
-GAIS                   22   8   6   8  28  20   8  30               Monterrey               8   4   1   3  14  10   4  13
+IF Elfsborg            22  10   7   5  31  22   9  37               Atlas                  10   5   2   3  16  17  -1  17
+BK Häcken              22   9   9   4  39  30   9  36               Cruz Azul               9   5   0   4  16  15   1  15
+Västerås SK            22  10   5   7  34  35  -1  35               Querétaro               8   4   2   2  11   8   3  14
+Malmö FF               22  10   3   9  37  33   4  33               León                    9   4   2   3  12  10   2  14
+AIK                    22   9   6   7  31  34  -3  33               Tijuana                 9   4   2   3  14  13   1  14
+IFK Göteborg           22   9   5   8  31  41 -10  32               Puebla                  9   4   2   3  11  11   0  14
+GAIS                   22   8   6   8  28  20   8  30               Monterrey               9   4   1   4  16  14   2  13
 IF Brommapojkarna      22   7   6   9  30  36  -6  27               Pachuca                 9   3   3   3  15  10   5  12
 Mjällby AIF            22   5   7  10  27  38 -11  22               Pumas UNAM              9   3   3   3  12  13  -1  12
-Kalmar FF              22   5   4  13  21  36 -15  19               Atlético San Luis       9   2   3   4  11  16  -5   9
-Degerfors IF           22   5   4  13  19  34 -15  19               Atlante                 9   1   5   3   8  13  -5   8
+Kalmar FF              22   5   4  13  21  36 -15  19               Atlante                10   2   5   3  12  15  -3  11
+Degerfors IF           22   5   4  13  19  34 -15  19               Atlético San Luis       9   2   3   4  11  16  -5   9
 Örgryte IS             22   3   6  13  25  49 -24  15               Necaxa                  9   2   2   5  10  16  -6   8
 Halmstads BK           22   3   5  14  16  40 -24  14               Tigres UANL             9   1   4   4   9  13  -4   7
                                                                     Santos                  9   2   1   6   9  15  -6   7
                                                                     FC Juarez               9   1   0   8   6  23 -17   3
 
+                                                                    Liga MX Fixtures
+                                                                    ----------------
+                                                                    Saturday, September 26
+                                                                      Atlante                4–2   Monterrey
+                                                                      Tijuana                2–3   Atlas
+                                                                      Cruz Azul              vs    Toluca
+                                                                      Guadalajara            vs    Querétaro
+                                                                    Sunday, September 27
+                                                                      Santos                 vs    Pachuca
+                                                                      Tigres UANL            vs    Puebla
+                                                                      Pumas UNAM             vs    Atlético San Luis
+                                                                    Monday, September 28
+                                                                      León                   vs    FC Juarez
+                                                                      Necaxa                 vs    América
 
 
 
@@ -145,10 +174,10 @@ TUR Galatasaray             1   0   0   1   1   3  -2   0           ITA AC Milan
 NOR Viking FK               1   0   0   1   1   3  -2   0           SVN NK Celje                1   0   0   1   0   2  -2   0
 POR FC Porto                1   0   0   1   0   2  -2   0           GER TSG Hoffenheim          1   0   0   1   0   2  -2   0
 GER RB Leipzig              1   0   0   1   1   4  -3   0           FRA Marseille               1   0   0   1   1   4  -3   0
-NED Feyenoord Rotterdam     1   0   0   1   1   5  -4   0           nan ARARAT-ARMENIA          1   0   0   1   1   4  -3   0
+NED Feyenoord Rotterdam     1   0   0   1   1   5  -4   0           ARM ARARAT-ARMENIA          1   0   0   1   1   4  -3   0
 AZE Sabah FK                1   0   0   1   0   4  -4   0           CZE Viktoria Plzen          1   0   0   1   0   3  -3   0
 SVK Slovan Bratislava       1   0   0   1   1   6  -5   0           POL Lech Poznan             1   0   0   1   0   4  -4   0
 NOR Bodo/Glimt              1   0   0   1   0   5  -5   0           NED NEC Nijmegen            1   0   0   1   0   5  -5   0
 
 
-Standings from ESPN.com 09.25.26
+Standings from ESPN.com 09.26.26

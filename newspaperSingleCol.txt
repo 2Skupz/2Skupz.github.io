@@ -17,6 +17,22 @@ Real Salt Lake         26   8   5  13  29  -7
 Minnesota              26   7   8  11  29  -7
 Sporting KC            25   5   3  17  18 -34
 
+MLS West Fixtures
+-----------------
+Thursday, September 24
+  Seattle                2–0   Real Salt Lake
+Saturday, September 26
+  Red Bull New York      vs    St. Louis
+Sunday, September 27
+  Austin                 vs    San Diego
+  Dallas                 vs    LAFC
+  Houston                vs    Sporting KC
+  Seattle                vs    Minnesota
+  Real Salt Lake         vs    New England
+  Galaxy                 vs    Colorado
+  San Jose               vs    Portland
+  Vancouver Whitecaps    vs    DC United
+
 
 MLS East
 --------
@@ -36,6 +52,20 @@ Toronto                26   6  11   9  29 -10
 Columbus               26   7   5  14  26  -5
 Atlanta                26   7   5  14  26 -13
 Montreal               26   5   6  15  21 -22
+
+MLS East Fixtures
+-----------------
+Saturday, September 26
+  Atlanta                vs    New York City
+  Montreal               vs    Cincinnati
+  Charlotte              vs    Chicago
+  Philadelphia           vs    Orlando City SC
+  Red Bull New York      vs    St. Louis
+Sunday, September 27
+  Nashville              vs    Toronto
+  Real Salt Lake         vs    New England
+  Vancouver Whitecaps    vs    DC United
+  Columbus               vs    Inter Miami
 
 
 Allsvenskan
@@ -203,21 +233,36 @@ Squad                  MP   W   D   L  Pt  GD
 Toluca                  9   6   1   2  19  11
 Guadalajara             9   5   3   1  18   9
 América                 8   5   2   1  17   9
+Atlas                  10   5   2   3  17  -1
 Cruz Azul               9   5   0   4  15   1
 Querétaro               8   4   2   2  14   3
 León                    9   4   2   3  14   2
-Tijuana                 8   4   2   2  14   2
+Tijuana                 9   4   2   3  14   1
 Puebla                  9   4   2   3  14   0
-Atlas                   9   4   2   3  14  -2
-Monterrey               8   4   1   3  13   4
+Monterrey               9   4   1   4  13   2
 Pachuca                 9   3   3   3  12   5
 Pumas UNAM              9   3   3   3  12  -1
+Atlante                10   2   5   3  11  -3
 Atlético San Luis       9   2   3   4   9  -5
-Atlante                 9   1   5   3   8  -5
 Necaxa                  9   2   2   5   8  -6
 Tigres UANL             9   1   4   4   7  -4
 Santos                  9   2   1   6   7  -6
 FC Juarez               9   1   0   8   3 -17
+
+Liga MX Fixtures
+----------------
+Saturday, September 26
+  Atlante                4–2   Monterrey
+  Tijuana                2–3   Atlas
+  Cruz Azul              vs    Toluca
+  Guadalajara            vs    Querétaro
+Sunday, September 27
+  Santos                 vs    Pachuca
+  Tigres UANL            vs    Puebla
+  Pumas UNAM             vs    Atlético San Luis
+Monday, September 28
+  León                   vs    FC Juarez
+  Necaxa                 vs    América
 
 
 Champions League
@@ -296,10 +341,10 @@ ITA AC Milan                1   0   0   1   0  -2
 SVN NK Celje                1   0   0   1   0  -2
 GER TSG Hoffenheim          1   0   0   1   0  -2
 FRA Marseille               1   0   0   1   0  -3
-nan ARARAT-ARMENIA          1   0   0   1   0  -3
+ARM ARARAT-ARMENIA          1   0   0   1   0  -3
 CZE Viktoria Plzen          1   0   0   1   0  -3
 POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 09.25.26
+Standings from ESPN.com 09.26.26
