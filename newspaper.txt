@@ -1,36 +1,35 @@
 MLS West                                                            MLS East
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
-Vancouver              25  15   4   6  56  23  33  49               Nashville              26  17   6   3  53  21  32  57
-Houston                26  13   5   8  34  30   4  44               New England            26  14   4   8  45  33  12  46
-St. Louis              26  12   8   6  45  36   9  44               Inter Miami            26  12  10   4  63  48  15  46
-Dallas                 26  12   8   6  49  42   7  44               Charlotte              26  12   7   7  47  37  10  43
-San Jose               26  12   6   8  46  38   8  42               Chicago                25  11   6   8  45  38   7  39
-LAFC                   27  11   8   8  43  29  14  41               Philadelphia           26  10   6  10  50  42   8  36
-Colorado               26  11   3  12  36  35   1  36               Orlando City SC        26  10   4  12  46  60 -14  34
-Galaxy                 27   8   9  10  34  42  -8  33               Red Bull New York      26   9   6  11  34  48 -14  33
-Portland               26   9   5  12  47  48  -1  32               Cincinnati             25   8   9   8  54  61  -7  33
-Seattle                25   8   8   9  30  33  -3  32               New York City          26   8   8  10  39  34   5  32
-San Diego              26   8   7  11  44  44   0  31               DC United              25   6  11   8  31  39  -8  29
-Austin                 26   7   9  10  32  44 -12  30               Toronto                26   6  11   9  39  49 -10  29
-Real Salt Lake         26   8   5  13  37  44  -7  29               Columbus               26   7   5  14  37  42  -5  26
-Minnesota              26   7   8  11  39  46  -7  29               Atlanta                26   7   5  14  30  43 -13  26
-Sporting KC            25   5   3  17  29  63 -34  18               Montreal               26   5   6  15  31  53 -22  21
+Vancouver              26  15   5   6  59  26  33  50               Nashville              27  18   6   3  55  21  34  60
+Dallas                 27  13   8   6  50  42   8  47               New England            27  14   4   9  45  36   9  46
+San Jose               27  13   6   8  49  39  10  45               Inter Miami            26  12  10   4  63  48  15  46
+Houston                27  13   5   9  34  32   2  44               Charlotte              27  12   7   8  47  38   9  43
+St. Louis              26  12   8   6  45  36   9  44               Chicago                26  12   6   8  46  38   8  42
+LAFC                   28  11   8   9  43  30  13  41               Philadelphia           27  11   6  10  54  44  10  39
+Colorado               27  11   3  13  38  38   0  36               Orlando City SC        27  10   4  13  48  64 -16  34
+Galaxy                 28   9   9  10  37  44  -7  36               Red Bull New York      26   9   6  11  34  48 -14  33
+Seattle                26   9   8   9  33  34  -1  35               New York City          27   8   9  10  41  36   5  33
+Portland               27   9   5  13  48  51  -3  32               Cincinnati             26   8   9   9  55  64  -9  33
+Real Salt Lake         27   9   5  13  40  44  -4  32               DC United              26   6  12   8  34  42  -8  30
+San Diego              27   8   8  11  47  47   0  32               Toronto                27   6  11  10  39  51 -12  29
+Austin                 27   7  10  10  35  47 -12  31               Atlanta                27   7   6  14  32  45 -13  27
+Minnesota              27   7   8  12  40  49  -9  29               Columbus               26   7   5  14  37  42  -5  26
+Sporting KC            26   6   3  17  31  63 -32  21               Montreal               27   6   6  15  34  54 -20  24
 
 MLS West Fixtures                                                   MLS East Fixtures
 -----------------                                                   -----------------
-Thursday, September 24                                              Saturday, September 26
-  Seattle                2–0   Real Salt Lake                         Atlanta                vs    New York City
-Saturday, September 26                                                Montreal               vs    Cincinnati
-  Red Bull New York      vs    St. Louis                              Charlotte              vs    Chicago
-Sunday, September 27                                                  Philadelphia           vs    Orlando City SC
-  Austin                 vs    San Diego                              Red Bull New York      vs    St. Louis
-  Dallas                 vs    LAFC                                 Sunday, September 27
-  Houston                vs    Sporting KC                            Nashville              vs    Toronto
-  Seattle                vs    Minnesota                              Real Salt Lake         vs    New England
-  Real Salt Lake         vs    New England                            Vancouver              vs    DC United
-  Galaxy                 vs    Colorado                               Columbus               vs    Inter Miami
-  San Jose               vs    Portland                             
-  Vancouver              vs    DC United                            
+Sunday, September 27                                                Saturday, September 26
+  Austin                 3–3   San Diego                              Atlanta                2–2   New York City
+  Dallas                 1–0   LAFC                                   Montreal               3–1   Cincinnati
+  Houston                0–2   Sporting KC                            Charlotte              0–1   Chicago
+  Seattle                3–1   Minnesota                              Philadelphia           4–2   Orlando City SC
+  Real Salt Lake         3–0   New England                          Sunday, September 27
+  Galaxy                 3–2   Colorado                               Nashville              2–0   Toronto
+  San Jose               3–1   Portland                               Real Salt Lake         3–0   New England
+  Vancouver              3–3   DC United                              Vancouver              3–3   DC United
+Wednesday, September 30                                               Columbus               vs    Inter Miami
+  Red Bull New York      vs    St. Louis                            Wednesday, September 30
+                                                                      Red Bull New York      vs    St. Louis
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -104,23 +103,23 @@ M'gladbach              4   0   0   4   6  16 -10   0               Le Havre AC 
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
-IK Sirius              22  16   3   3  52  28  24  51               Toluca                  9   6   1   2  20   9  11  19
-Hammarby IF            22  13   4   5  49  20  29  43               Guadalajara             9   5   3   1  17   8   9  18
+IK Sirius              22  16   3   3  52  28  24  51               Toluca                 10   6   2   2  23  12  11  20
+Hammarby IF            22  13   4   5  49  20  29  43               Guadalajara            10   5   3   2  17  10   7  18
 Djurgården             22  13   2   7  47  21  26  41               América                 8   5   2   1  17   8   9  17
-IF Elfsborg            22  10   7   5  31  22   9  37               Atlas                  10   5   2   3  16  17  -1  17
-BK Häcken              22   9   9   4  39  30   9  36               Cruz Azul               9   5   0   4  16  15   1  15
-Västerås SK            22  10   5   7  34  35  -1  35               Querétaro               8   4   2   2  11   8   3  14
+IF Elfsborg            22  10   7   5  31  22   9  37               Querétaro               9   5   2   2  13   8   5  17
+BK Häcken              22   9   9   4  39  30   9  36               Atlas                  10   5   2   3  16  17  -1  17
+Västerås SK            22  10   5   7  34  35  -1  35               Cruz Azul              10   5   1   4  19  18   1  16
 Malmö FF               22  10   3   9  37  33   4  33               León                    9   4   2   3  12  10   2  14
 AIK                    22   9   6   7  31  34  -3  33               Tijuana                 9   4   2   3  14  13   1  14
-IFK Göteborg           22   9   5   8  31  41 -10  32               Puebla                  9   4   2   3  11  11   0  14
+IFK Göteborg           22   9   5   8  31  41 -10  32               Puebla                 10   4   2   4  11  12  -1  14
 GAIS                   22   8   6   8  28  20   8  30               Monterrey               9   4   1   4  16  14   2  13
-IF Brommapojkarna      22   7   6   9  30  36  -6  27               Pachuca                 9   3   3   3  15  10   5  12
+IF Brommapojkarna      22   7   6   9  30  36  -6  27               Pachuca                10   3   3   4  15  11   4  12
 Mjällby AIF            22   5   7  10  27  38 -11  22               Pumas UNAM              9   3   3   3  12  13  -1  12
 Kalmar FF              22   5   4  13  21  36 -15  19               Atlante                10   2   5   3  12  15  -3  11
-Degerfors IF           22   5   4  13  19  34 -15  19               Atlético San Luis       9   2   3   4  11  16  -5   9
-Örgryte IS             22   3   6  13  25  49 -24  15               Necaxa                  9   2   2   5  10  16  -6   8
-Halmstads BK           22   3   5  14  16  40 -24  14               Tigres UANL             9   1   4   4   9  13  -4   7
-                                                                    Santos                  9   2   1   6   9  15  -6   7
+Degerfors IF           22   5   4  13  19  34 -15  19               Tigres UANL            10   2   4   4  10  13  -3  10
+Örgryte IS             22   3   6  13  25  49 -24  15               Santos                 10   3   1   6  10  15  -5  10
+Halmstads BK           22   3   5  14  16  40 -24  14               Atlético San Luis       9   2   3   4  11  16  -5   9
+                                                                    Necaxa                  9   2   2   5  10  16  -6   8
                                                                     FC Juarez               9   1   0   8   6  23 -17   3
 
                                                                     Liga MX Fixtures
@@ -128,11 +127,11 @@ Halmstads BK           22   3   5  14  16  40 -24  14               Tigres UANL 
                                                                     Saturday, September 26
                                                                       Atlante                4–2   Monterrey
                                                                       Tijuana                2–3   Atlas
-                                                                      Cruz Azul              vs    Toluca
-                                                                      Guadalajara            vs    Querétaro
+                                                                      Cruz Azul              3–3   Toluca
+                                                                      Guadalajara            0–2   Querétaro
                                                                     Sunday, September 27
-                                                                      Santos                 vs    Pachuca
-                                                                      Tigres UANL            vs    Puebla
+                                                                      Santos                 1–0   Pachuca
+                                                                      Tigres UANL            1–0   Puebla
                                                                       Pumas UNAM             vs    Atlético San Luis
                                                                     Monday, September 28
                                                                       León                   vs    FC Juarez
@@ -180,4 +179,4 @@ SVK Slovan Bratislava       1   0   0   1   1   6  -5   0           POL Lech Poz
 NOR Bodo/Glimt              1   0   0   1   0   5  -5   0           NED NEC Nijmegen            1   0   0   1   0   5  -5   0
 
 
-Standings from ESPN.com 09.26.26
+Standings from ESPN.com 09.27.26
