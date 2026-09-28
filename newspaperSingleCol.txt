@@ -37,7 +37,7 @@ MLS East
 Squad                  MP   W   D   L  Pt  GD
 Nashville              27  18   6   3  60  34
 New England            27  14   4   9  46   9
-Inter Miami            26  12  10   4  46  15
+Inter Miami            27  12  10   5  46  14
 Charlotte              27  12   7   8  43   9
 Chicago                26  12   6   8  42   8
 Philadelphia           27  11   6  10  39  10
@@ -46,9 +46,9 @@ Red Bull New York      26   9   6  11  33 -14
 New York City          27   8   9  10  33   5
 Cincinnati             26   8   9   9  33  -9
 DC United              26   6  12   8  30  -8
+Columbus               27   8   5  14  29  -4
 Toronto                27   6  11  10  29 -12
 Atlanta                27   7   6  14  27 -13
-Columbus               26   7   5  14  26  -5
 Montreal               27   6   6  15  24 -20
 
 MLS East Fixtures
@@ -62,7 +62,7 @@ Sunday, September 27
   Nashville              2–0   Toronto
   Real Salt Lake         3–0   New England
   Vancouver Whitecaps    3–3   DC United
-  Columbus               vs    Inter Miami
+  Columbus               2–1   Inter Miami
 Wednesday, September 30
   Red Bull New York      vs    St. Louis
 
@@ -230,23 +230,23 @@ Liga MX
 -------
 Squad                  MP   W   D   L  Pt  GD
 Toluca                 10   6   2   2  20  11
+América                 9   6   2   1  20  11
 Guadalajara            10   5   3   2  18   7
-América                 8   5   2   1  17   9
 Querétaro               9   5   2   2  17   5
+León                   10   5   2   3  17   3
 Atlas                  10   5   2   3  17  -1
 Cruz Azul              10   5   1   4  16   1
-León                    9   4   2   3  14   2
 Tijuana                 9   4   2   3  14   1
 Puebla                 10   4   2   4  14  -1
 Monterrey               9   4   1   4  13   2
 Pachuca                10   3   3   4  12   4
-Pumas UNAM              9   3   3   3  12  -1
+Pumas UNAM             10   3   3   4  12  -2
+Atlético San Luis      10   3   3   4  12  -4
 Atlante                10   2   5   3  11  -3
 Tigres UANL            10   2   4   4  10  -3
 Santos                 10   3   1   6  10  -5
-Atlético San Luis       9   2   3   4   9  -5
-Necaxa                  9   2   2   5   8  -6
-FC Juarez               9   1   0   8   3 -17
+Necaxa                 10   2   2   6   8  -8
+FC Juarez              10   1   0   9   3 -18
 
 Liga MX Fixtures
 ----------------
@@ -258,10 +258,10 @@ Saturday, September 26
 Sunday, September 27
   Santos                 1–0   Pachuca
   Tigres UANL            1–0   Puebla
-  Pumas UNAM             vs    Atlético San Luis
+  Pumas UNAM             2–3   Atlético San Luis
 Monday, September 28
-  León                   vs    FC Juarez
-  Necaxa                 vs    América
+  León                   2–1   FC Juarez
+  Necaxa                 2–4   América
 
 
 Champions League
@@ -346,4 +346,4 @@ POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 09.27.26
+Standings from ESPN.com 09.28.26
