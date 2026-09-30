@@ -19,15 +19,6 @@ Sporting KC            26   6   3  17  21 -32
 
 MLS West Fixtures
 -----------------
-Sunday, September 27
-  Austin                 3–3   San Diego
-  Dallas                 1–0   LAFC
-  Houston                0–2   Sporting KC
-  Seattle                3–1   Minnesota
-  Real Salt Lake         3–0   New England
-  Galaxy                 3–2   Colorado
-  San Jose               3–1   Portland
-  Vancouver Whitecaps    3–3   DC United
 Wednesday, September 30
   Red Bull New York      vs    St. Louis
 Friday, October 02
@@ -55,15 +46,7 @@ Montreal               27   6   6  15  24 -20
 
 MLS East Fixtures
 -----------------
-Saturday, September 26
-  Atlanta                2–2   New York City
-  Montreal               3–1   Cincinnati
-  Charlotte              0–1   Chicago
-  Philadelphia           4–2   Orlando City SC
 Sunday, September 27
-  Nashville              2–0   Toronto
-  Real Salt Lake         3–0   New England
-  Vancouver Whitecaps    3–3   DC United
   Columbus               2–1   Inter Miami
 Wednesday, September 30
   Red Bull New York      vs    St. Louis
@@ -248,19 +231,14 @@ Atlante                10   2   5   3  11  -3
 Tigres UANL            10   2   4   4  10  -3
 Santos                 10   3   1   6  10  -5
 Necaxa                 10   2   2   6   8  -8
-FC Juarez              10   1   0   9   3 -18
+FC Juárez              10   1   0   9   3 -18
 
 Liga MX Fixtures
 ----------------
-Saturday, September 26
-  Cruz Azul              3–3   Toluca
-  Guadalajara            0–2   Querétaro
 Sunday, September 27
-  Santos                 1–0   Pachuca
-  Tigres UANL            1–0   Puebla
   Pumas UNAM             2–3   Atlético San Luis
 Monday, September 28
-  León                   2–1   FC Juarez
+  León                   2–1   FC Juárez
   Necaxa                 2–4   América
 
 
@@ -316,7 +294,7 @@ BEL Union St.-Gilloise      1   1   0   0   3   3
 HUN Ferencvaros             1   1   0   0   3   2
 POR Benfica                 1   1   0   0   3   2
 GER Bayer Leverkusen        1   1   0   0   3   2
-GRE OFI CRETE               1   1   0   0   3   2
+GRE OFI Crete               1   1   0   0   3   2
 ENG AFC Bournemouth         1   1   0   0   3   1
 FRA Lyon                    1   1   0   0   3   1
 POR Torreense               1   1   0   0   3   1
@@ -346,4 +324,4 @@ POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 09.29.26
+Standings from ESPN.com 09.30.26
