@@ -1,13 +1,13 @@
 MLS West                                                            MLS East
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
 Vancouver              26  15   5   6  59  26  33  50               Nashville              27  18   6   3  55  21  34  60
-Dallas                 27  13   8   6  50  42   8  47               New England            27  14   4   9  45  36   9  46
-San Jose               27  13   6   8  49  39  10  45               Inter Miami            27  12  10   5  64  50  14  46
-Houston                27  13   5   9  34  32   2  44               Charlotte              27  12   7   8  47  38   9  43
-St. Louis              26  12   8   6  45  36   9  44               Chicago                26  12   6   8  46  38   8  42
+St. Louis              27  13   8   6  48  36  12  47               New England            27  14   4   9  45  36   9  46
+Dallas                 27  13   8   6  50  42   8  47               Inter Miami            27  12  10   5  64  50  14  46
+San Jose               27  13   6   8  49  39  10  45               Charlotte              27  12   7   8  47  38   9  43
+Houston                27  13   5   9  34  32   2  44               Chicago                26  12   6   8  46  38   8  42
 LAFC                   28  11   8   9  43  30  13  41               Philadelphia           27  11   6  10  54  44  10  39
 Colorado               27  11   3  13  38  38   0  36               Orlando City SC        27  10   4  13  48  64 -16  34
-Galaxy                 28   9   9  10  37  44  -7  36               Red Bull New York      26   9   6  11  34  48 -14  33
+Galaxy                 28   9   9  10  37  44  -7  36               Red Bull New York      27   9   6  12  34  51 -17  33
 Seattle                26   9   8   9  33  34  -1  35               New York City          27   8   9  10  41  36   5  33
 Portland               27   9   5  13  48  51  -3  32               Cincinnati             26   8   9   9  55  64  -9  33
 Real Salt Lake         27   9   5  13  40  44  -4  32               DC United              26   6  12   8  34  42  -8  30
@@ -18,10 +18,10 @@ Sporting KC            26   6   3  17  31  63 -32  21               Montreal    
 
 MLS West Fixtures                                                   MLS East Fixtures
 -----------------                                                   -----------------
-Wednesday, September 30                                             Sunday, September 27
-  Red Bull New York      vs    St. Louis                              Columbus               2–1   Inter Miami
-Friday, October 02                                                  Wednesday, September 30
-  Seattle                vs    Sporting KC                            Red Bull New York      vs    St. Louis
+Wednesday, September 30                                             Wednesday, September 30
+  Red Bull New York      0–3   St. Louis                              Red Bull New York      0–3   St. Louis
+Friday, October 02                                                  
+  Seattle                vs    Sporting KC                          
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -114,13 +114,6 @@ Halmstads BK           22   3   5  14  16  40 -24  14               Santos      
                                                                     Necaxa                 10   2   2   6  12  20  -8   8
                                                                     FC Juárez              10   1   0   9   7  25 -18   3
 
-                                                                    Liga MX Fixtures
-                                                                    ----------------
-                                                                    Sunday, September 27
-                                                                      Pumas UNAM             2–3   Atlético San Luis
-                                                                    Monday, September 28
-                                                                      León                   2–1   FC Juárez
-                                                                      Necaxa                 2–4   América
 
 
 
@@ -164,4 +157,4 @@ SVK Slovan Bratislava       1   0   0   1   1   6  -5   0           POL Lech Poz
 NOR Bodo/Glimt              1   0   0   1   0   5  -5   0           NED NEC Nijmegen            1   0   0   1   0   5  -5   0
 
 
-Standings from ESPN.com 09.30.26
+Standings from ESPN.com 10.01.26

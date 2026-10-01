@@ -2,10 +2,10 @@ MLS West
 --------
 Squad                  MP   W   D   L  Pt  GD
 Vancouver Whitecaps    26  15   5   6  50  33
+St. Louis              27  13   8   6  47  12
 Dallas                 27  13   8   6  47   8
 San Jose               27  13   6   8  45  10
 Houston                27  13   5   9  44   2
-St. Louis              26  12   8   6  44   9
 LAFC                   28  11   8   9  41  13
 Colorado               27  11   3  13  36   0
 Galaxy                 28   9   9  10  36  -7
@@ -20,7 +20,7 @@ Sporting KC            26   6   3  17  21 -32
 MLS West Fixtures
 -----------------
 Wednesday, September 30
-  Red Bull New York      vs    St. Louis
+  Red Bull New York      0–3   St. Louis
 Friday, October 02
   Seattle                vs    Sporting KC
 
@@ -35,7 +35,7 @@ Charlotte              27  12   7   8  43   9
 Chicago                26  12   6   8  42   8
 Philadelphia           27  11   6  10  39  10
 Orlando City SC        27  10   4  13  34 -16
-Red Bull New York      26   9   6  11  33 -14
+Red Bull New York      27   9   6  12  33 -17
 New York City          27   8   9  10  33   5
 Cincinnati             26   8   9   9  33  -9
 DC United              26   6  12   8  30  -8
@@ -46,10 +46,8 @@ Montreal               27   6   6  15  24 -20
 
 MLS East Fixtures
 -----------------
-Sunday, September 27
-  Columbus               2–1   Inter Miami
 Wednesday, September 30
-  Red Bull New York      vs    St. Louis
+  Red Bull New York      0–3   St. Louis
 
 
 Allsvenskan
@@ -233,14 +231,6 @@ Santos                 10   3   1   6  10  -5
 Necaxa                 10   2   2   6   8  -8
 FC Juárez              10   1   0   9   3 -18
 
-Liga MX Fixtures
-----------------
-Sunday, September 27
-  Pumas UNAM             2–3   Atlético San Luis
-Monday, September 28
-  León                   2–1   FC Juárez
-  Necaxa                 2–4   América
-
 
 Champions League
 ----------------
@@ -324,4 +314,4 @@ POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 09.30.26
+Standings from ESPN.com 10.01.26
