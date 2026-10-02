@@ -23,7 +23,6 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="67.1" x2="864" y2="67.1" class="chart-zero" /><text x="36" y="67.1" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+2.7</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-6.6</text><polygon points="44.0,194.0 44.0,179.2 107.1,118.2 170.2,94.7 233.2,84.6 296.3,68.9 359.4,49.4 422.5,30.8 485.5,47.3 548.6,39.3 611.7,37.5 674.8,37.8 737.8,49.1 800.9,39.2 864.0,39.2 864.0,194.0" class="chart-area" /><polyline points="44.0,179.2 107.1,118.2 170.2,94.7 233.2,84.6 296.3,68.9 359.4,49.4 422.5,30.8 485.5,47.3 548.6,39.3 611.7,37.5 674.8,37.8 737.8,49.1 800.9,39.2 864.0,39.2" class="chart-line" fill="none" /><circle cx="44.0" cy="179.2" r="4" class="chart-dot chart-dot-l" data-date="Feb 06" data-result="L" data-score="6&amp;ndash;17" data-opp="Calvin" /><circle cx="107.1" cy="118.2" r="4" class="chart-dot chart-dot-l" data-date="Feb 15" data-result="L" data-score="8&amp;ndash;18" data-opp="Sewanee" /><circle cx="170.2" cy="94.7" r="4" class="chart-dot chart-dot-w" data-date="Mar 11" data-result="W" data-score="18&amp;ndash;10" data-opp="Wisconsin-Stout" /><circle cx="233.2" cy="84.6" r="4" class="chart-dot chart-dot-w" data-date="Mar 20" data-result="W" data-score="22&amp;ndash;12" data-opp="Augustana (IL)" /><circle cx="296.3" cy="68.9" r="4" class="chart-dot chart-dot-w" data-date="Mar 21" data-result="W" data-score="16&amp;ndash;10" data-opp="Aurora" /><circle cx="359.4" cy="49.4" r="4" class="chart-dot chart-dot-w" data-date="Mar 25" data-result="W" data-score="16&amp;ndash;8" data-opp="Hamline" /><circle cx="422.5" cy="30.8" r="4" class="chart-dot chart-dot-w" data-date="Apr 01" data-result="W" data-score="12&amp;ndash;10" data-opp="Saint Benedict" /><circle cx="485.5" cy="47.3" r="4" class="chart-dot chart-dot-l" data-date="Apr 08" data-result="L" data-score="3&amp;ndash;18" data-opp="Wisconsin-River Falls" /><circle cx="548.6" cy="39.3" r="4" class="chart-dot chart-dot-w" data-date="Apr 15" data-result="W" data-score="18&amp;ndash;4" data-opp="Wisconsin-Stevens Point" /><circle cx="611.7" cy="37.5" r="4" class="chart-dot chart-dot-w" data-date="Apr 18" data-result="W" data-score="26&amp;ndash;2" data-opp="Augsburg" /><circle cx="674.8" cy="37.8" r="4" class="chart-dot chart-dot-l" data-date="Apr 22" data-result="L" data-score="9&amp;ndash;12" data-opp="Wisconsin-La Crosse" /><circle cx="737.8" cy="49.1" r="4" class="chart-dot chart-dot-l" data-date="Apr 25" data-result="L" data-score="2&amp;ndash;22" data-opp="Colorado College" /><circle cx="800.9" cy="39.2" r="4" class="chart-dot chart-dot-w" data-date="Apr 29" data-result="W" data-score="15&amp;ndash;13" data-opp="Saint Benedict" /><circle cx="864.0" cy="39.2" r="4" class="chart-dot chart-dot-l" data-date="May 01" data-result="L" data-score="5&amp;ndash;18" data-opp="Colorado College" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Feb 06</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">May 01</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,46 +34,5 @@
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
-<script>
-(function(){
-  var card = document.querySelector(".chart-card");
-  if(!card) return;
-  var dots = card.querySelectorAll(".chart-dot");
-  if(!dots.length) return;
-
-  var tooltip = document.createElement("div");
-  tooltip.className = "chart-tooltip";
-  card.appendChild(tooltip);
-
-  function position(dot){
-    var dotBox = dot.getBoundingClientRect();
-    var cardBox = card.getBoundingClientRect();
-    var tipBox = tooltip.getBoundingClientRect();
-    var halfWidth = tipBox.width / 2;
-    var x = dotBox.left - cardBox.left + dotBox.width / 2;
-    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
-    tooltip.style.left = x + "px";
-    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
-  }
-
-  dots.forEach(function(dot){
-    dot.addEventListener("mouseenter", function(){
-      dot.setAttribute("r", 6);
-      var result = dot.dataset.result;
-      var resultHtml = (result === "W" || result === "L")
-        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
-        : result;
-      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
-        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      position(dot);
-      tooltip.classList.add("visible");
-    });
-    dot.addEventListener("mouseleave", function(){
-      dot.setAttribute("r", 4);
-      tooltip.classList.remove("visible");
-    });
-  });
-})();
-</script>
 </body>
 </html>

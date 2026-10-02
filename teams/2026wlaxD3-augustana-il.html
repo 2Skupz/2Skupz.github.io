@@ -23,7 +23,6 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="30.8" x2="864" y2="30.8" class="chart-zero" /><text x="36" y="30.8" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+1.1</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-11.8</text><polygon points="44.0,194.0 44.0,179.2 95.2,179.2 146.5,165.5 197.8,173.3 249.0,143.2 300.2,156.5 351.5,168.8 402.8,148.7 454.0,148.7 505.2,137.2 556.5,139.8 607.8,143.7 659.0,148.1 710.2,151.6 761.5,148.1 812.8,156.2 864.0,159.6 864.0,194.0" class="chart-area" /><polyline points="44.0,179.2 95.2,179.2 146.5,165.5 197.8,173.3 249.0,143.2 300.2,156.5 351.5,168.8 402.8,148.7 454.0,148.7 505.2,137.2 556.5,139.8 607.8,143.7 659.0,148.1 710.2,151.6 761.5,148.1 812.8,156.2 864.0,159.6" class="chart-line" fill="none" /><circle cx="44.0" cy="179.2" r="4" class="chart-dot chart-dot-w" data-date="Feb 14" data-result="W" data-score="11&amp;ndash;4" data-opp="Hanover" /><circle cx="95.2" cy="179.2" r="4" class="chart-dot chart-dot-w" data-date="Feb 21" data-result="W" data-score="9&amp;ndash;6" data-opp="CulverStockton" /><circle cx="146.5" cy="165.5" r="4" class="chart-dot chart-dot-w" data-date="Feb 24" data-result="W" data-score="11&amp;ndash;10" data-opp="Cornell College" /><circle cx="197.8" cy="173.3" r="4" class="chart-dot chart-dot-l" data-date="Feb 28" data-result="L" data-score="7&amp;ndash;11" data-opp="Edgewood" /><circle cx="249.0" cy="143.2" r="4" class="chart-dot chart-dot-w" data-date="Mar 06" data-result="W" data-score="23&amp;ndash;3" data-opp="Augsburg" /><circle cx="300.2" cy="156.5" r="4" class="chart-dot chart-dot-l" data-date="Mar 07" data-result="L" data-score="5&amp;ndash;16" data-opp="Hamline" /><circle cx="351.5" cy="168.8" r="4" class="chart-dot chart-dot-w" data-date="Mar 11" data-result="W" data-score="14&amp;ndash;4" data-opp="Beloit" /><circle cx="402.8" cy="148.7" r="4" class="chart-dot chart-dot-w" data-date="Mar 14" data-result="W" data-score="18&amp;ndash;3" data-opp="Marian (WI)" /><circle cx="454.0" cy="148.7" r="4" class="chart-dot chart-dot-l" data-date="Mar 20" data-result="L" data-score="12&amp;ndash;22" data-opp="Wisconsin-Eau Claire" /><circle cx="505.2" cy="137.2" r="4" class="chart-dot chart-dot-w" data-date="Mar 23" data-result="W" data-score="17&amp;ndash;8" data-opp="Albion" /><circle cx="556.5" cy="139.8" r="4" class="chart-dot chart-dot-l" data-date="Mar 25" data-result="L" data-score="9&amp;ndash;24" data-opp="Adrian" /><circle cx="607.8" cy="143.7" r="4" class="chart-dot chart-dot-l" data-date="Apr 04" data-result="L" data-score="0&amp;ndash;18" data-opp="Carthage" /><circle cx="659.0" cy="148.1" r="4" class="chart-dot chart-dot-w" data-date="Apr 11" data-result="W" data-score="6&amp;ndash;4" data-opp="Elmhurst" /><circle cx="710.2" cy="151.6" r="4" class="chart-dot chart-dot-l" data-date="Apr 18" data-result="L" data-score="4&amp;ndash;22" data-opp="Carroll (WI)" /><circle cx="761.5" cy="148.1" r="4" class="chart-dot chart-dot-w" data-date="Apr 22" data-result="W" data-score="15&amp;ndash;8" data-opp="Illinois Wesleyan" /><circle cx="812.8" cy="156.2" r="4" class="chart-dot chart-dot-l" data-date="Apr 25" data-result="L" data-score="9&amp;ndash;14" data-opp="North Central (IL)" /><circle cx="864.0" cy="159.6" r="4" class="chart-dot chart-dot-l" data-date="Apr 29" data-result="L" data-score="1&amp;ndash;21" data-opp="Carthage" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Feb 14</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Apr 29</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,46 +34,5 @@
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
-<script>
-(function(){
-  var card = document.querySelector(".chart-card");
-  if(!card) return;
-  var dots = card.querySelectorAll(".chart-dot");
-  if(!dots.length) return;
-
-  var tooltip = document.createElement("div");
-  tooltip.className = "chart-tooltip";
-  card.appendChild(tooltip);
-
-  function position(dot){
-    var dotBox = dot.getBoundingClientRect();
-    var cardBox = card.getBoundingClientRect();
-    var tipBox = tooltip.getBoundingClientRect();
-    var halfWidth = tipBox.width / 2;
-    var x = dotBox.left - cardBox.left + dotBox.width / 2;
-    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
-    tooltip.style.left = x + "px";
-    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
-  }
-
-  dots.forEach(function(dot){
-    dot.addEventListener("mouseenter", function(){
-      dot.setAttribute("r", 6);
-      var result = dot.dataset.result;
-      var resultHtml = (result === "W" || result === "L")
-        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
-        : result;
-      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
-        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      position(dot);
-      tooltip.classList.add("visible");
-    });
-    dot.addEventListener("mouseleave", function(){
-      dot.setAttribute("r", 4);
-      tooltip.classList.remove("visible");
-    });
-  });
-})();
-</script>
 </body>
 </html>

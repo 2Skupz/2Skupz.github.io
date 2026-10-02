@@ -23,7 +23,6 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="179.2" x2="864" y2="179.2" class="chart-zero" /><text x="36" y="179.2" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+5.1</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-0.5</text><polygon points="44.0,194.0 44.0,178.2 95.2,73.1 146.5,37.1 197.8,67.6 249.0,73.3 300.2,30.8 351.5,62.1 402.8,55.7 454.0,70.1 505.2,92.7 556.5,94.2 607.8,95.0 659.0,93.4 710.2,85.4 761.5,93.8 812.8,89.3 864.0,92.1 864.0,194.0" class="chart-area" /><polyline points="44.0,178.2 95.2,73.1 146.5,37.1 197.8,67.6 249.0,73.3 300.2,30.8 351.5,62.1 402.8,55.7 454.0,70.1 505.2,92.7 556.5,94.2 607.8,95.0 659.0,93.4 710.2,85.4 761.5,93.8 812.8,89.3 864.0,92.1" class="chart-line" fill="none" /><circle cx="44.0" cy="178.2" r="4" class="chart-dot chart-dot-l" data-date="Feb 06" data-result="L" data-score="11&amp;ndash;12" data-opp="Drexel" /><circle cx="95.2" cy="73.1" r="4" class="chart-dot chart-dot-w" data-date="Feb 11" data-result="W" data-score="10&amp;ndash;6" data-opp="Fairfield" /><circle cx="146.5" cy="37.1" r="4" class="chart-dot chart-dot-l" data-date="Feb 14" data-result="L" data-score="11&amp;ndash;13" data-opp="James Madison" /><circle cx="197.8" cy="67.6" r="4" class="chart-dot chart-dot-l" data-date="Feb 24" data-result="L" data-score="5&amp;ndash;16" data-opp="Stony Brook" /><circle cx="249.0" cy="73.3" r="4" class="chart-dot chart-dot-w" data-date="Feb 28" data-result="W" data-score="12&amp;ndash;11" data-opp="UAlbany" /><circle cx="300.2" cy="30.8" r="4" class="chart-dot chart-dot-w" data-date="Mar 07" data-result="W" data-score="12&amp;ndash;8" data-opp="Massachusetts" /><circle cx="351.5" cy="62.1" r="4" class="chart-dot chart-dot-l" data-date="Mar 14" data-result="L" data-score="5&amp;ndash;17" data-opp="Yale" /><circle cx="402.8" cy="55.7" r="4" class="chart-dot chart-dot-l" data-date="Mar 18" data-result="L" data-score="5&amp;ndash;11" data-opp="Colorado" /><circle cx="454.0" cy="70.1" r="4" class="chart-dot chart-dot-l" data-date="Mar 22" data-result="L" data-score="4&amp;ndash;15" data-opp="Denver" /><circle cx="505.2" cy="92.7" r="4" class="chart-dot chart-dot-l" data-date="Mar 28" data-result="L" data-score="7&amp;ndash;18" data-opp="Georgetown" /><circle cx="556.5" cy="94.2" r="4" class="chart-dot chart-dot-l" data-date="Apr 01" data-result="L" data-score="8&amp;ndash;10" data-opp="Villanova" /><circle cx="607.8" cy="95.0" r="4" class="chart-dot chart-dot-w" data-date="Apr 04" data-result="W" data-score="15&amp;ndash;4" data-opp="Butler" /><circle cx="659.0" cy="93.4" r="4" class="chart-dot chart-dot-w" data-date="Apr 11" data-result="W" data-score="15&amp;ndash;6" data-opp="Xavier" /><circle cx="710.2" cy="85.4" r="4" class="chart-dot chart-dot-w" data-date="Apr 14" data-result="W" data-score="20&amp;ndash;7" data-opp="New Hampshire" /><circle cx="761.5" cy="93.8" r="4" class="chart-dot chart-dot-l" data-date="Apr 21" data-result="L" data-score="12&amp;ndash;19" data-opp="Harvard" /><circle cx="812.8" cy="89.3" r="4" class="chart-dot chart-dot-w" data-date="Apr 25" data-result="W" data-score="12&amp;ndash;10" data-opp="Marquette" /><circle cx="864.0" cy="92.1" r="4" class="chart-dot chart-dot-l" data-date="Apr 30" data-result="L" data-score="6&amp;ndash;12" data-opp="Georgetown" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Feb 06</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Apr 30</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,46 +34,5 @@
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
-<script>
-(function(){
-  var card = document.querySelector(".chart-card");
-  if(!card) return;
-  var dots = card.querySelectorAll(".chart-dot");
-  if(!dots.length) return;
-
-  var tooltip = document.createElement("div");
-  tooltip.className = "chart-tooltip";
-  card.appendChild(tooltip);
-
-  function position(dot){
-    var dotBox = dot.getBoundingClientRect();
-    var cardBox = card.getBoundingClientRect();
-    var tipBox = tooltip.getBoundingClientRect();
-    var halfWidth = tipBox.width / 2;
-    var x = dotBox.left - cardBox.left + dotBox.width / 2;
-    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
-    tooltip.style.left = x + "px";
-    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
-  }
-
-  dots.forEach(function(dot){
-    dot.addEventListener("mouseenter", function(){
-      dot.setAttribute("r", 6);
-      var result = dot.dataset.result;
-      var resultHtml = (result === "W" || result === "L")
-        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
-        : result;
-      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
-        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      position(dot);
-      tooltip.classList.add("visible");
-    });
-    dot.addEventListener("mouseleave", function(){
-      dot.setAttribute("r", 4);
-      tooltip.classList.remove("visible");
-    });
-  });
-})();
-</script>
 </body>
 </html>

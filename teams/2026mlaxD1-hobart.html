@@ -23,7 +23,6 @@
 <div class="yardline" aria-hidden="true"></div>
 
 <div class="page">
-  <div class="chart-card"><p class="chart-title">Rating Trend</p><svg viewBox="0 0 880 220" class="progress-chart" role="img" aria-label="Running average rating by game"><defs><linearGradient id="chartFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" class="chart-gradient-start" /><stop offset="100%" class="chart-gradient-end" /></linearGradient></defs><line x1="44" y1="16.0" x2="864" y2="16.0" class="chart-grid" /><line x1="44" y1="194.0" x2="864" y2="194.0" class="chart-grid" /><line x1="44" y1="30.8" x2="864" y2="30.8" class="chart-zero" /><text x="36" y="30.8" class="chart-axis-label" text-anchor="end" dominant-baseline="middle">0</text><text x="36" y="20" class="chart-axis-label" text-anchor="end">+0.4</text><text x="36" y="194" class="chart-axis-label" text-anchor="end">-4.4</text><polygon points="44.0,194.0 44.0,166.1 112.3,95.9 180.7,97.6 249.0,110.2 317.3,108.7 385.7,113.2 454.0,122.7 522.3,140.2 590.7,154.2 659.0,172.9 727.3,179.2 795.7,167.2 864.0,173.1 864.0,194.0" class="chart-area" /><polyline points="44.0,166.1 112.3,95.9 180.7,97.6 249.0,110.2 317.3,108.7 385.7,113.2 454.0,122.7 522.3,140.2 590.7,154.2 659.0,172.9 727.3,179.2 795.7,167.2 864.0,173.1" class="chart-line" fill="none" /><circle cx="44.0" cy="166.1" r="4" class="chart-dot chart-dot-w" data-date="Feb 07" data-result="W" data-score="13&amp;ndash;8" data-opp="Canisius" /><circle cx="112.3" cy="95.9" r="4" class="chart-dot chart-dot-l" data-date="Feb 14" data-result="L" data-score="6&amp;ndash;7" data-opp="Colgate" /><circle cx="180.7" cy="97.6" r="4" class="chart-dot chart-dot-l" data-date="Feb 21" data-result="L" data-score="10&amp;ndash;12" data-opp="Bucknell" /><circle cx="249.0" cy="110.2" r="4" class="chart-dot chart-dot-l" data-date="Feb 24" data-result="L" data-score="8&amp;ndash;19" data-opp="Cornell" /><circle cx="317.3" cy="108.7" r="4" class="chart-dot chart-dot-l" data-date="Feb 28" data-result="L" data-score="7&amp;ndash;8" data-opp="Robert Morris" /><circle cx="385.7" cy="113.2" r="4" class="chart-dot chart-dot-l" data-date="Mar 07" data-result="L" data-score="10&amp;ndash;14" data-opp="UAlbany" /><circle cx="454.0" cy="122.7" r="4" class="chart-dot chart-dot-w" data-date="Mar 10" data-result="W" data-score="12&amp;ndash;7" data-opp="Le Moyne" /><circle cx="522.3" cy="140.2" r="4" class="chart-dot chart-dot-l" data-date="Mar 21" data-result="L" data-score="7&amp;ndash;17" data-opp="Saint Joseph's" /><circle cx="590.7" cy="154.2" r="4" class="chart-dot chart-dot-l" data-date="Mar 28" data-result="L" data-score="8&amp;ndash;24" data-opp="Richmond" /><circle cx="659.0" cy="172.9" r="4" class="chart-dot chart-dot-l" data-date="Apr 04" data-result="L" data-score="6&amp;ndash;12" data-opp="Delaware" /><circle cx="727.3" cy="179.2" r="4" class="chart-dot chart-dot-l" data-date="Apr 11" data-result="L" data-score="8&amp;ndash;15" data-opp="High Point" /><circle cx="795.7" cy="167.2" r="4" class="chart-dot chart-dot-l" data-date="Apr 18" data-result="L" data-score="12&amp;ndash;13" data-opp="Massachusetts" /><circle cx="864.0" cy="173.1" r="4" class="chart-dot chart-dot-w" data-date="Apr 24" data-result="W" data-score="13&amp;ndash;12" data-opp="St Bonaventure" /><text x="44" y="214" class="chart-axis-label" text-anchor="start">Feb 07</text><text x="864" y="214" class="chart-axis-label" text-anchor="end">Apr 24</text></svg></div>
   <div class="table-card">
     <div class="table-scroll">
       <table class="schedule">
@@ -35,46 +34,5 @@
 
   <p class="summary-line">Opp Rating and Game Rating are points-based (opponent's rating plus this team's margin in a win, or minus its deficit in a loss &mdash; how many points above or below average that game was); Opp WRS is that opponent's win-based rating instead. Running Avg is the average Game Rating through that date, with its rank against today's full field in parentheses.</p>
 </div>
-<script>
-(function(){
-  var card = document.querySelector(".chart-card");
-  if(!card) return;
-  var dots = card.querySelectorAll(".chart-dot");
-  if(!dots.length) return;
-
-  var tooltip = document.createElement("div");
-  tooltip.className = "chart-tooltip";
-  card.appendChild(tooltip);
-
-  function position(dot){
-    var dotBox = dot.getBoundingClientRect();
-    var cardBox = card.getBoundingClientRect();
-    var tipBox = tooltip.getBoundingClientRect();
-    var halfWidth = tipBox.width / 2;
-    var x = dotBox.left - cardBox.left + dotBox.width / 2;
-    x = Math.max(halfWidth + 4, Math.min(cardBox.width - halfWidth - 4, x));
-    tooltip.style.left = x + "px";
-    tooltip.style.top = (dotBox.top - cardBox.top) + "px";
-  }
-
-  dots.forEach(function(dot){
-    dot.addEventListener("mouseenter", function(){
-      dot.setAttribute("r", 6);
-      var result = dot.dataset.result;
-      var resultHtml = (result === "W" || result === "L")
-        ? '<b class="' + result.toLowerCase() + '">' + result + "</b>"
-        : result;
-      tooltip.innerHTML = '<div class="tt-date">' + dot.dataset.date + '</div><div>'
-        + resultHtml + " " + dot.dataset.score + " vs " + dot.dataset.opp + "</div>";
-      position(dot);
-      tooltip.classList.add("visible");
-    });
-    dot.addEventListener("mouseleave", function(){
-      dot.setAttribute("r", 4);
-      tooltip.classList.remove("visible");
-    });
-  });
-})();
-</script>
 </body>
 </html>
