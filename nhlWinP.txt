@@ -4,11 +4,11 @@ NHL Standings - Win Percentage
 --------------------------------------------------------------------------------
 Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-San Jose                2    2    0    1.000    --
 Anaheim                 2    2    0    1.000    --
 SEATTLE                 3    2    1     .667   0.5
 Edmonton                3    2    1     .667   0.5
 Vegas                   3    2    1     .667   0.5
+San Jose                3    2    1     .667   0.5
 Vancouver               4    2    2     .500   1.0
 Los Angeles             2    0    2     .000   2.0
 Calgary                 3    0    3     .000   2.5
@@ -19,33 +19,33 @@ Central                GP    W    L     WinP    GB
 Colorado                2    2    0    1.000    --
 Minnesota               2    2    0    1.000    --
 Utah                    3    2    1     .667   0.5
-Winnipeg                2    1    1     .500   1.0
+Winnipeg                3    2    1     .667   0.5
 St. Louis               2    1    1     .500   1.0
 Nashville               2    1    1     .500   1.0
-Dallas                  2    0    2     .000   2.0
+Dallas                  3    1    2     .333   1.5
 Chicago                 3    0    3     .000   2.5
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Pittsburgh              2    2    0    1.000    --
 NY Rangers              4    3    1     .750    --
+Pittsburgh              3    2    1     .667   0.5
 NY Islanders            2    1    1     .500   1.0
 Washington              2    1    1     .500   1.0
 Columbus                2    1    1     .500   1.0
 New Jersey              2    1    1     .500   1.0
 Carolina                3    1    2     .333   1.5
-Philadelphia            3    0    3     .000   2.5
+Philadelphia            4    0    4     .000   3.0
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Ottawa                  1    1    0    1.000    --
-Boston                  3    2    1     .667    --
-Montreal                2    1    1     .500   0.5
-Buffalo                 2    1    1     .500   0.5
-Tampa Bay               2    1    1     .500   0.5
-Florida                 3    1    2     .333   1.0
-Toronto                 3    1    2     .333   1.0
-Detroit                 2    0    2     .000   1.5
+Ottawa                  2    2    0    1.000    --
+Tampa Bay               3    2    1     .667   0.5
+Montreal                2    1    1     .500   1.0
+Buffalo                 2    1    1     .500   1.0
+Boston                  4    2    2     .500   1.0
+Florida                 3    1    2     .333   1.5
+Toronto                 3    1    2     .333   1.5
+Detroit                 2    0    2     .000   2.0
 
