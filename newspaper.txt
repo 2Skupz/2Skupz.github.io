@@ -1,10 +1,10 @@
 MLS West                                                            MLS East
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
-Vancouver              26  15   5   6  59  26  33  50               Nashville              27  18   6   3  55  21  34  60
+Vancouver              27  15   5   7  60  29  31  50               Nashville              27  18   6   3  55  21  34  60
 St. Louis              27  13   8   6  48  36  12  47               New England            27  14   4   9  45  36   9  46
 Dallas                 27  13   8   6  50  42   8  47               Inter Miami            27  12  10   5  64  50  14  46
-San Jose               27  13   6   8  49  39  10  45               Charlotte              27  12   7   8  47  38   9  43
-Houston                27  13   5   9  34  32   2  44               Chicago                26  12   6   8  46  38   8  42
+San Jose               27  13   6   8  49  39  10  45               Chicago                27  13   6   8  49  39  10  45
+Houston                27  13   5   9  34  32   2  44               Charlotte              27  12   7   8  47  38   9  43
 LAFC                   28  11   8   9  43  30  13  41               Philadelphia           27  11   6  10  54  44  10  39
 Seattle                27  10   8   9  35  35   0  38               Orlando City SC        27  10   4  13  48  64 -16  34
 Colorado               27  11   3  13  38  38   0  36               Red Bull New York      27   9   6  12  34  51 -17  33
@@ -19,7 +19,17 @@ Sporting KC            27   6   3  18  32  65 -33  21               Montreal    
 MLS West Fixtures                                                   MLS East Fixtures
 -----------------                                                   -----------------
 Wednesday, October 07                                               Wednesday, October 07
-  Chicago                vs    Vancouver                              Chicago                vs    Vancouver
+  Chicago                3–1   Vancouver                              Chicago                3–1   Vancouver
+Saturday, October 10                                                Saturday, October 10
+  Charlotte              vs    Dallas                                 Toronto                vs    Montreal
+  New England            vs    Seattle                                Chicago                vs    New York City
+  Philadelphia           vs    Real Salt Lake                         Atlanta                vs    Cincinnati
+  Red Bull New York      vs    San Diego                              Charlotte              vs    Dallas
+                                                                      Inter Miami            vs    DC United
+                                                                      New England            vs    Seattle
+                                                                      Orlando City SC        vs    Columbus
+                                                                      Philadelphia           vs    Real Salt Lake
+                                                                      Red Bull New York      vs    San Diego
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -44,6 +54,15 @@ Coventry City           5   1   0   4   1  10  -9   3
 Fulham                  5   0   2   3   5   8  -3   2               
 Tottenham Hotspur       5   0   2   3   2   8  -6   2               
 
+Premier League Fixtures                                             Scottish Premiership Fixtures
+-----------------------                                             -----------------------------
+Saturday, October 10                                                Saturday, October 10
+  Arsenal                vs    Leeds United                           Dundee United          vs    Hibernian
+  Aston Villa            vs    Brentford                              Falkirk                vs    Dundee
+  Chelsea                vs    AFC Bournemouth                        Heart of Midlothian    vs    St Mirren
+  Ipswich Town           vs    Fulham                                 Rangers                vs    Kilmarnock
+  Sunderland             vs    Brighton & Hove Albion               
+  Manchester United      vs    Tottenham Hotspur                    
 
 La Liga                                                             Serie A
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -68,10 +87,15 @@ Elche                   7   1   2   4  11  17  -6   5               Bologna     
 Valencia                7   1   1   5   4  13  -9   4               Genoa                   5   0   1   4   3  10  -7   1
 Málaga                  7   0   3   4   3  12  -9   3               Venezia                 5   0   0   5   4  13  -9   0
 
-La Liga Fixtures                                                    
-----------------                                                    
-Friday, October 09                                                  
-  Málaga                 vs    Espanyol                             
+La Liga Fixtures                                                    Serie A Fixtures
+----------------                                                    ----------------
+Friday, October 09                                                  Saturday, October 10
+  Málaga                 vs    Espanyol                               Genoa                  vs    Fiorentina
+Saturday, October 10                                                  Internazionale         vs    Parma
+  Rayo Vallecano         vs    Athletic Club                          Napoli                 vs    Frosinone
+  Alavés                 vs    Atlético Madrid                      
+  Barcelona              vs    Getafe                               
+  Real Madrid            vs    Villarreal                           
 
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -98,6 +122,13 @@ Bundesliga Fixtures                                                 Ligue 1 Fixt
 -------------------                                                 ----------------
 Friday, October 09                                                  Friday, October 09
   Borussia Dortmund      vs    Werder Bremen                          Lens                   vs    Lyon
+Saturday, October 10                                                Saturday, October 10
+  1. FC Union Berlin     vs    SV Elversberg                          Lille                  vs    Le Havre AC
+  FC Augsburg            vs    Bayern Munich                          AS Monaco              vs    Toulouse
+  Mainz                  vs    Bayer Leverkusen                       Brest                  vs    Angers
+  SC Paderborn 07        vs    VfB Stuttgart                          Lorient                vs    Paris FC
+  TSG Hoffenheim         vs    Hamburg SV                             Paris S-G              vs    Le Mans
+  RB Leipzig             vs    E. Frankfurt                         
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -120,10 +151,14 @@ Halmstads BK           22   3   5  14  16  40 -24  14               Santos      
                                                                     Necaxa                 10   2   2   6  12  20  -8   8
                                                                     FC Juárez              10   1   0   9   7  25 -18   3
 
-Allsvenskan Fixtures                                                
---------------------                                                
-Friday, October 09                                                  
-  IFK Göteborg           vs    Västerås SK                          
+Allsvenskan Fixtures                                                Liga MX Fixtures
+--------------------                                                ----------------
+Friday, October 09                                                  Saturday, October 10
+  IFK Göteborg           vs    Västerås SK                            Puebla                 vs    León
+Saturday, October 10                                                  Tigres UANL            vs    Toluca
+  AIK                    vs    IF Brommapojkarna                      FC Juárez              vs    Tijuana
+  GAIS                   vs    IK Sirius                              Querétaro              vs    Atlante
+  Mjällby AIF            vs    Degerfors IF                         
 
 
 
@@ -167,4 +202,4 @@ SVK Slovan Bratislava       1   0   0   1   1   6  -5   0           POL Lech Poz
 NOR Bodo/Glimt              1   0   0   1   0   5  -5   0           NED NEC Nijmegen            1   0   0   1   0   5  -5   0
 
 
-Standings from ESPN.com 10.06.26
+Standings from ESPN.com 10.07.26

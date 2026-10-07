@@ -1,7 +1,7 @@
 MLS West
 --------
 Squad                  MP   W   D   L  Pt  GD
-Vancouver Whitecaps    26  15   5   6  50  33
+Vancouver Whitecaps    27  15   5   7  50  31
 St. Louis              27  13   8   6  47  12
 Dallas                 27  13   8   6  47   8
 San Jose               27  13   6   8  45  10
@@ -20,7 +20,12 @@ Sporting KC            27   6   3  18  21 -33
 MLS West Fixtures
 -----------------
 Wednesday, October 07
-  Chicago                vs    Vancouver Whitecaps
+  Chicago                3–1   Vancouver Whitecaps
+Saturday, October 10
+  Charlotte              vs    Dallas
+  New England            vs    Seattle
+  Philadelphia           vs    Real Salt Lake
+  Red Bull New York      vs    San Diego
 
 
 MLS East
@@ -29,8 +34,8 @@ Squad                  MP   W   D   L  Pt  GD
 Nashville              27  18   6   3  60  34
 New England            27  14   4   9  46   9
 Inter Miami            27  12  10   5  46  14
+Chicago                27  13   6   8  45  10
 Charlotte              27  12   7   8  43   9
-Chicago                26  12   6   8  42   8
 Philadelphia           27  11   6  10  39  10
 Orlando City SC        27  10   4  13  34 -16
 Red Bull New York      27   9   6  12  33 -17
@@ -45,7 +50,17 @@ Montreal               27   6   6  15  24 -20
 MLS East Fixtures
 -----------------
 Wednesday, October 07
-  Chicago                vs    Vancouver Whitecaps
+  Chicago                3–1   Vancouver Whitecaps
+Saturday, October 10
+  Toronto                vs    Montreal
+  Chicago                vs    New York City
+  Atlanta                vs    Cincinnati
+  Charlotte              vs    Dallas
+  Inter Miami            vs    DC United
+  New England            vs    Seattle
+  Orlando City SC        vs    Columbus
+  Philadelphia           vs    Real Salt Lake
+  Red Bull New York      vs    San Diego
 
 
 Allsvenskan
@@ -72,6 +87,10 @@ Allsvenskan Fixtures
 --------------------
 Friday, October 09
   IFK Göteborg           vs    Västerås SK
+Saturday, October 10
+  AIK                    vs    IF Brommapojkarna
+  GAIS                   vs    IK Sirius
+  Mjällby AIF            vs    Degerfors IF
 
 
 Bundesliga
@@ -100,6 +119,13 @@ Bundesliga Fixtures
 -------------------
 Friday, October 09
   Borussia Dortmund      vs    Werder Bremen
+Saturday, October 10
+  1. FC Union Berlin     vs    SV Elversberg
+  FC Augsburg            vs    Bayern Munich
+  Mainz                  vs    Bayer Leverkusen
+  SC Paderborn 07        vs    VfB Stuttgart
+  TSG Hoffenheim         vs    Hamburg SV
+  RB Leipzig             vs    E. Frankfurt
 
 
 Premier League
@@ -125,6 +151,16 @@ AFC Bournemouth         5   0   3   2   3  -2
 Coventry City           5   1   0   4   3  -9
 Fulham                  5   0   2   3   2  -3
 Tottenham Hotspur       5   0   2   3   2  -6
+
+Premier League Fixtures
+-----------------------
+Saturday, October 10
+  Arsenal                vs    Leeds United
+  Aston Villa            vs    Brentford
+  Chelsea                vs    AFC Bournemouth
+  Ipswich Town           vs    Fulham
+  Sunderland             vs    Brighton & Hove Albion
+  Manchester United      vs    Tottenham Hotspur
 
 
 Ligue 1
@@ -153,6 +189,12 @@ Ligue 1 Fixtures
 ----------------
 Friday, October 09
   Lens                   vs    Lyon
+Saturday, October 10
+  Lille                  vs    Le Havre AC
+  AS Monaco              vs    Toulouse
+  Brest                  vs    Angers
+  Lorient                vs    Paris FC
+  Paris S-G              vs    Le Mans
 
 
 Serie A
@@ -178,6 +220,13 @@ Fiorentina              5   1   1   3   4  -6
 Bologna                 5   0   2   3   2  -3
 Genoa                   5   0   1   4   1  -7
 Venezia                 5   0   0   5   0  -9
+
+Serie A Fixtures
+----------------
+Saturday, October 10
+  Genoa                  vs    Fiorentina
+  Internazionale         vs    Parma
+  Napoli                 vs    Frosinone
 
 
 La Liga
@@ -208,6 +257,11 @@ La Liga Fixtures
 ----------------
 Friday, October 09
   Málaga                 vs    Espanyol
+Saturday, October 10
+  Rayo Vallecano         vs    Athletic Club
+  Alavés                 vs    Atlético Madrid
+  Barcelona              vs    Getafe
+  Real Madrid            vs    Villarreal
 
 
 Scottish Premiership
@@ -225,6 +279,14 @@ Dundee United           7   2   2   3   8  -2
 Hibernian               7   2   1   4   7  -3
 Falkirk                 7   1   3   3   6  -3
 Kilmarnock              7   1   2   4   5  -9
+
+Scottish Premiership Fixtures
+-----------------------------
+Saturday, October 10
+  Dundee United          vs    Hibernian
+  Falkirk                vs    Dundee
+  Heart of Midlothian    vs    St Mirren
+  Rangers                vs    Kilmarnock
 
 
 Liga MX
@@ -248,6 +310,14 @@ Tigres UANL            10   2   4   4  10  -3
 Santos                 10   3   1   6  10  -5
 Necaxa                 10   2   2   6   8  -8
 FC Juárez              10   1   0   9   3 -18
+
+Liga MX Fixtures
+----------------
+Saturday, October 10
+  Puebla                 vs    León
+  Tigres UANL            vs    Toluca
+  FC Juárez              vs    Tijuana
+  Querétaro              vs    Atlante
 
 
 Champions League
@@ -332,4 +402,4 @@ POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 10.06.26
+Standings from ESPN.com 10.07.26
