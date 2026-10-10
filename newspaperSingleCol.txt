@@ -19,8 +19,6 @@ Sporting KC            27   6   3  18  21 -33
 
 MLS West Fixtures
 -----------------
-Wednesday, October 07
-  Chicago                3–1   Vancouver Whitecaps
 Saturday, October 10
   Charlotte              vs    Dallas
   New England            vs    Seattle
@@ -56,8 +54,6 @@ Montreal               27   6   6  15  24 -20
 
 MLS East Fixtures
 -----------------
-Wednesday, October 07
-  Chicago                3–1   Vancouver Whitecaps
 Saturday, October 10
   Toronto                vs    Montreal
   Chicago                vs    New York City
@@ -80,10 +76,10 @@ Hammarby IF            22  13   4   5  43  29
 Djurgården             22  13   2   7  41  26
 IF Elfsborg            22  10   7   5  37   9
 BK Häcken              22   9   9   4  36   9
-Västerås SK            22  10   5   7  35  -1
+Västerås SK            23  10   5   8  35  -2
+IFK Göteborg           23  10   5   8  35  -9
 Malmö FF               22  10   3   9  33   4
 AIK                    22   9   6   7  33  -3
-IFK Göteborg           22   9   5   8  32 -10
 GAIS                   22   8   6   8  30   8
 IF Brommapojkarna      22   7   6   9  27  -6
 Mjällby AIF            22   5   7  10  22 -11
@@ -95,7 +91,7 @@ Halmstads BK           22   3   5  14  14 -24
 Allsvenskan Fixtures
 --------------------
 Friday, October 09
-  IFK Göteborg           vs    Västerås SK
+  IFK Göteborg           1–0   Västerås SK
 Saturday, October 10
   AIK                    vs    IF Brommapojkarna
   GAIS                   vs    IK Sirius
@@ -111,14 +107,14 @@ Monday, October 12
 Bundesliga
 ----------
 Squad                  MP   W   D   L  Pt  GD
-Borussia Dortmund       4   4   0   0  12   7
+Borussia Dortmund       5   4   1   0  13   7
 Bayern Munich           4   3   1   0  10  12
 SC Freiburg             4   3   1   0  10   9
+Werder Bremen           5   2   2   1   8   0
 FC Augsburg             4   2   1   1   7   5
 Bayer Leverkusen        4   2   1   1   7   5
 Mainz                   4   2   1   1   7   4
 SV Elversberg           4   2   1   1   7   1
-Werder Bremen           4   2   1   1   7   0
 RB Leipzig              4   2   0   2   6   4
 E. Frankfurt            4   1   2   1   5  -1
 Schalke 04              4   1   2   1   5  -1
@@ -133,7 +129,7 @@ M'gladbach              4   0   0   4   0 -10
 Bundesliga Fixtures
 -------------------
 Friday, October 09
-  Borussia Dortmund      vs    Werder Bremen
+  Borussia Dortmund      2–2   Werder Bremen
 Saturday, October 10
   1. FC Union Berlin     vs    SV Elversberg
   FC Augsburg            vs    Bayern Munich
@@ -173,7 +169,7 @@ Tottenham Hotspur       5   0   2   3   2  -6
 Premier League Fixtures
 -----------------------
 Saturday, October 10
-  Arsenal                vs    Leeds United
+  Arsenal                0–0   Leeds United
   Aston Villa            vs    Brentford
   Chelsea                vs    AFC Bournemouth
   Ipswich Town           vs    Fulham
@@ -191,11 +187,12 @@ Ligue 1
 -------
 Squad                  MP   W   D   L  Pt  GD
 AS Monaco               5   4   1   0  13   5
-Lyon                    5   3   2   0  11   8
+Lyon                    6   3   2   1  11   7
 Paris FC                5   3   2   0  11   5
 Lille                   5   3   1   1  10   4
 Stade Rennais           5   3   1   1  10  -1
 Paris S-G               5   2   2   1   8   1
+Lens                    6   2   1   3   7   1
 Angers                  5   2   1   2   7   1
 Strasbourg              5   2   1   2   7   0
 Le Mans                 5   1   3   1   6   0
@@ -204,7 +201,6 @@ Brest                   5   1   2   2   5  -1
 Lorient                 5   1   2   2   5  -1
 Toulouse                5   1   2   2   5  -2
 Nice                    5   1   2   2   5  -3
-Lens                    5   1   1   3   4   0
 Troyes                  5   1   1   3   4  -7
 Marseille               5   1   0   4   3  -1
 Le Havre AC             5   0   2   3   2  -3
@@ -212,7 +208,7 @@ Le Havre AC             5   0   2   3   2  -3
 Ligue 1 Fixtures
 ----------------
 Friday, October 09
-  Lens                   vs    Lyon
+  Lens                   2–1   Lyon
 Saturday, October 10
   Lille                  vs    Le Havre AC
   AS Monaco              vs    Toulouse
@@ -279,23 +275,23 @@ Deportivo               7   2   4   1  10   2
 Real Sociedad           7   3   1   3  10  -4
 Villarreal              7   2   2   3   8   1
 Athletic Club           6   2   2   2   8   1
+Espanyol                8   2   2   4   8   0
 Getafe                  7   2   2   3   8  -3
 Rayo Vallecano          7   2   2   3   8  -5
 Osasuna                 7   2   2   3   8  -7
 Celta Vigo              7   1   4   2   7   2
-Espanyol                7   2   1   4   7   0
 Racing Santander        7   2   1   4   7 -10
 Levante                 6   1   2   3   5  -4
 Elche                   7   1   2   4   5  -6
 Valencia                7   1   1   5   4  -9
-Málaga                  7   0   3   4   3  -9
+Málaga                  8   0   4   4   4  -9
 
 La Liga Fixtures
 ----------------
 Friday, October 09
-  Málaga                 vs    Espanyol
+  Málaga                 1–1   Espanyol
 Saturday, October 10
-  Rayo Vallecano         vs    Athletic Club
+  Rayo Vallecano         0–0   Athletic Club
   Alavés                 vs    Atlético Madrid
   Barcelona              vs    Getafe
   Real Madrid            vs    Villarreal
@@ -339,21 +335,21 @@ Sunday, October 11
 Liga MX
 -------
 Squad                  MP   W   D   L  Pt  GD
-Toluca                 10   6   2   2  20  11
 América                 9   6   2   1  20  11
+Toluca                 11   6   2   3  20  10
 Guadalajara            10   5   3   2  18   7
+León                   11   5   3   3  18   3
 Querétaro               9   5   2   2  17   5
-León                   10   5   2   3  17   3
 Atlas                  10   5   2   3  17  -1
 Cruz Azul              10   5   1   4  16   1
+Puebla                 11   4   3   4  15  -1
 Tijuana                 9   4   2   3  14   1
-Puebla                 10   4   2   4  14  -1
 Monterrey               9   4   1   4  13   2
+Tigres UANL            11   3   4   4  13  -2
 Pachuca                10   3   3   4  12   4
 Pumas UNAM             10   3   3   4  12  -2
 Atlético San Luis      10   3   3   4  12  -4
 Atlante                10   2   5   3  11  -3
-Tigres UANL            10   2   4   4  10  -3
 Santos                 10   3   1   6  10  -5
 Necaxa                 10   2   2   6   8  -8
 FC Juárez              10   1   0   9   3 -18
@@ -361,8 +357,8 @@ FC Juárez              10   1   0   9   3 -18
 Liga MX Fixtures
 ----------------
 Saturday, October 10
-  Puebla                 vs    León
-  Tigres UANL            vs    Toluca
+  Puebla                 1–1   León
+  Tigres UANL            3–2   Toluca
   FC Juárez              vs    Tijuana
   Querétaro              vs    Atlante
 Sunday, October 11
@@ -414,6 +410,19 @@ AZE Sabah FK                1   0   0   1   0  -4
 SVK Slovan Bratislava       1   0   0   1   0  -5
 NOR Bodo/Glimt              1   0   0   1   0  -5
 
+Champions League Fixtures
+-------------------------
+Tuesday, October 13
+  Lens                   vs    Sporting CP
+  Sabah FK               vs    Slavia Prague
+  Arsenal                vs    Lille
+  Atlético Madrid        vs    Manchester United
+  Galatasaray            vs    Barcelona
+  Internazionale         vs    Club Brugge
+  RB Leipzig             vs    PSV Eindhoven
+  Viking FK              vs    Bayern Munich
+  Villarreal             vs    Napoli
+
 
 Europa League
 -------------
@@ -456,4 +465,4 @@ POL Lech Poznan             1   0   0   1   0  -4
 NED NEC Nijmegen            1   0   0   1   0  -5
 
 
-Standings from ESPN.com 10.09.26
+Standings from ESPN.com 10.10.26
