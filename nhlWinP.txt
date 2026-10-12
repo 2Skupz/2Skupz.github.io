@@ -7,9 +7,9 @@ Pacific                GP    W    L     WinP    GB
 Vegas                   6    5    1     .833    --
 Edmonton                5    4    1     .800   0.5
 Anaheim                 5    4    1     .800   0.5
-SEATTLE                 5    3    2     .600   1.5
+SEATTLE                 6    4    2     .667   1.0
 San Jose                5    3    2     .600   1.5
-Vancouver               6    2    4     .333   3.0
+Vancouver               7    2    5     .286   3.5
 Los Angeles             4    0    4     .000   4.0
 Calgary                 5    0    5     .000   4.5
 
@@ -28,14 +28,14 @@ Chicago                 6    1    5     .167   3.0
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Washington              4    3    1     .750    --
-Carolina                6    4    2     .667    --
-NY Rangers              6    4    2     .667    --
-Columbus                4    2    2     .500   1.0
-New Jersey              4    2    2     .500   1.0
-Pittsburgh              6    3    3     .500   1.0
-NY Islanders            5    2    3     .400   1.5
-Philadelphia            6    0    6     .000   4.0
+Carolina                7    5    2     .714    --
+NY Rangers              7    5    2     .714    --
+Washington              5    3    2     .600   1.0
+Columbus                4    2    2     .500   1.5
+New Jersey              4    2    2     .500   1.5
+Pittsburgh              6    3    3     .500   1.5
+NY Islanders            5    2    3     .400   2.0
+Philadelphia            7    0    7     .000   5.0
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
