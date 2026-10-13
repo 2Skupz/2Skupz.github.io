@@ -53,15 +53,15 @@ Leeds United            6   2   3   1   8   5   3   9               St Mirren   
 Hull City               6   2   3   1   8   6   2   9               Aberdeen                8   2   2   4   7   9  -2   8
 Liverpool               6   2   3   1   7   7   0   9               Motherwell              8   2   2   4   9  13  -4   8
 Ipswich Town            6   3   0   3   9  12  -3   9               Hibernian               8   2   1   5   8  12  -4   7
-Newcastle United        5   2   2   1   9   9   0   8               Falkirk                 8   1   3   4   7  11  -4   6
+Newcastle United        6   2   2   2  10  13  -3   8               Falkirk                 8   1   3   4   7  11  -4   6
 Crystal Palace          6   2   1   3   9  12  -3   7               Kilmarnock              8   1   2   5   7  18 -11   5
 Manchester United       6   1   3   2   9   9   0   6               
+Coventry City           6   2   0   4   5  11  -6   6               
 Nottingham Forest       6   1   2   3   5   8  -3   5               
 Aston Villa             6   1   2   3   6  11  -5   5               
 Sunderland              6   1   1   4   6  12  -6   4               
 AFC Bournemouth         6   0   3   3   7  13  -6   3               
 Tottenham Hotspur       6   0   3   3   3   9  -6   3               
-Coventry City           5   1   0   4   1  10  -9   3               
 Fulham                  6   0   2   4   6  10  -4   2               
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
@@ -78,7 +78,7 @@ Sunday, October 11                                                    Aberdeen  
   Hull City              2–2   Everton                              
   Liverpool              0–3   Manchester City                      
 Monday, October 12                                                  
-  Coventry City          vs    Newcastle United                     
+  Coventry City          4–1   Newcastle United                     
 
 La Liga                                                             Serie A
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -86,39 +86,40 @@ Barcelona               8   8   0   0  34   7  27  24               Internaziona
 Atlético Madrid         8   6   1   1  18   8  10  19               Lazio                   6   5   1   0  11   4   7  16
 Real Betis              8   6   1   1  14   9   5  19               AS Roma                 6   4   2   0  14   3  11  14
 Real Madrid             8   6   0   2  19   8  11  18               Cagliari                6   4   1   1   6   3   3  13
-Sevilla                 7   4   1   2  10   9   1  13               AC Milan                6   3   3   0  11   5   6  12
+Sevilla                 8   4   2   2  13  12   1  14               AC Milan                6   3   3   0  11   5   6  12
 Real Sociedad           8   4   1   3  12  15  -3  13               Juventus                6   3   2   1   9   5   4  11
 Alavés                  8   3   2   3  12   8   4  11               Como                    6   3   2   1   9   6   3  11
 Deportivo               8   2   4   2  12  11   1  10               Napoli                  6   3   1   2  10   6   4  10
 Celta Vigo              8   1   5   2   8   6   2   8               Frosinone               6   3   1   2   9   7   2  10
-Athletic Club           6   2   2   2   7   6   1   8               Sassuolo                6   2   2   2  10  10   0   8
-Villarreal              8   2   2   4  13  13   0   8               Atalanta                5   2   0   3   5   7  -2   6
-Espanyol                8   2   2   4  11  11   0   8               Lecce                   6   2   0   4   6  12  -6   6
-Rayo Vallecano          7   2   2   3  11  16  -5   8               Bologna                 6   1   2   3   5   7  -2   5
-Getafe                  8   2   2   4   4  10  -6   8               Udinese                 5   1   1   3   8  11  -3   4
-Racing Santander        8   2   2   4  13  23 -10   8               Torino                  5   1   1   3   5   8  -3   4
+Athletic Club           6   2   2   2   7   6   1   8               Atalanta                6   3   0   3   8   8   0   9
+Villarreal              8   2   2   4  13  13   0   8               Sassuolo                6   2   2   2  10  10   0   8
+Espanyol                8   2   2   4  11  11   0   8               Torino                  6   2   1   3   7   9  -2   7
+Rayo Vallecano          7   2   2   3  11  16  -5   8               Lecce                   6   2   0   4   6  12  -6   6
+Getafe                  8   2   2   4   4  10  -6   8               Bologna                 6   1   2   3   5   7  -2   5
+Racing Santander        8   2   2   4  13  23 -10   8               Udinese                 6   1   1   4   9  13  -4   4
 Osasuna                 8   2   2   4   8  18 -10   8               Monza                   6   1   1   4   9  15  -6   4
-Elche                   8   1   3   4  11  17  -6   6               Genoa                   6   1   1   4   5  11  -6   4
-Levante                 6   1   2   3   8  12  -4   5               Parma                   6   1   1   4   4  10  -6   4
+Levante                 7   1   3   3  11  15  -4   6               Genoa                   6   1   1   4   5  11  -6   4
+Elche                   8   1   3   4  11  17  -6   6               Parma                   6   1   1   4   4  10  -6   4
 Valencia                8   1   2   5   6  15  -9   5               Fiorentina              6   1   1   4   7  14  -7   4
-Málaga                  8   0   4   4   4  13  -9   4               Venezia                 5   0   0   5   4  13  -9   0
+Málaga                  8   0   4   4   4  13  -9   4               Venezia                 6   0   0   6   5  16 -11   0
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Friday, October 09                                                  Saturday, October 10
-  Málaga                 1–1   Espanyol                               Genoa                  2–1   Fiorentina
-Saturday, October 10                                                  Internazionale         3–0   Parma
-  Rayo Vallecano         0–0   Athletic Club                          Napoli                 3–0   Frosinone
-  Alavés                 1–2   Atlético Madrid                      Sunday, October 11
-  Barcelona              3–0   Getafe                                 Como                   0–0   AS Roma
-  Real Madrid            1–0   Villarreal                             Lazio                  3–1   Monza
-Sunday, October 11                                                    Lecce                  1–2   Bologna
-  Elche                  0–0   Celta Vigo                             Sassuolo               1–1   AC Milan
-  Real Sociedad          3–2   Deportivo                              Cagliari               1–1   Juventus
-  Real Betis             5–2   Osasuna                              Monday, October 12
-  Racing Santander       2–2   Valencia                               Atalanta               vs    Venezia
-Monday, October 12                                                    Torino                 vs    Udinese
-  Levante                vs    Sevilla                              
+Saturday, October 10                                                Saturday, October 10
+  Rayo Vallecano         0–0   Athletic Club                          Genoa                  2–1   Fiorentina
+  Alavés                 1–2   Atlético Madrid                        Internazionale         3–0   Parma
+  Barcelona              3–0   Getafe                                 Napoli                 3–0   Frosinone
+  Real Madrid            1–0   Villarreal                           Sunday, October 11
+Sunday, October 11                                                    Como                   0–0   AS Roma
+  Elche                  0–0   Celta Vigo                             Lazio                  3–1   Monza
+  Real Sociedad          3–2   Deportivo                              Lecce                  1–2   Bologna
+  Real Betis             5–2   Osasuna                                Sassuolo               1–1   AC Milan
+  Racing Santander       2–2   Valencia                               Cagliari               1–1   Juventus
+Monday, October 12                                                  Monday, October 12
+  Levante                3–3   Sevilla                                Atalanta               3–1   Venezia
+Friday, October 16                                                    Torino                 2–1   Udinese
+  Deportivo              vs    Levante                              Friday, October 16
+                                                                      Frosinone              vs    Sassuolo
 
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -143,8 +144,6 @@ M'gladbach              5   0   0   5   7  18 -11   0               Le Havre AC 
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Friday, October 09                                                  Friday, October 09
-  Borussia Dortmund      2–2   Werder Bremen                          Lens                   2–1   Lyon
 Saturday, October 10                                                Saturday, October 10
   1. FC Union Berlin     1–0   SV Elversberg                          Lille                  1–0   Le Havre AC
   FC Augsburg            2–2   Bayern Munich                          AS Monaco              2–2   Toulouse
@@ -155,33 +154,33 @@ Saturday, October 10                                                Saturday, Oc
 Sunday, October 11                                                    Nice                   2–1   Strasbourg
   FC Cologne             2–1   M'gladbach                             Stade Rennais          4–1   AJ Auxerre
   SC Freiburg            2–1   Schalke 04                             Troyes                 0–2   Marseille
+Friday, October 16                                                  Friday, October 16
+  E. Frankfurt           vs    FC Cologne                             Le Mans                vs    Toulouse
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
 IK Sirius              23  17   3   3  53  28  25  54               América                10   6   3   1  22  11  11  21
 Djurgården             23  14   2   7  48  21  27  44               Toluca                 11   6   2   3  25  15  10  20
 Hammarby IF            23  13   4   6  49  21  28  43               Querétaro              10   6   2   2  15   8   7  20
-BK Häcken              23  10   9   4  42  30  12  39               Guadalajara            11   5   4   2  18  11   7  19
-IF Elfsborg            22  10   7   5  31  22   9  37               León                   11   5   3   3  15  12   3  18
-Västerås SK            23  10   5   8  34  36  -2  35               Atlas                  11   5   3   3  17  18  -1  18
-IFK Göteborg           23  10   5   8  32  41  -9  35               Cruz Azul              11   5   2   4  22  21   1  17
-Malmö FF               22  10   3   9  37  33   4  33               Tijuana                10   4   3   3  15  14   1  15
+IF Elfsborg            23  11   7   5  35  22  13  40               Guadalajara            11   5   4   2  18  11   7  19
+BK Häcken              23  10   9   4  42  30  12  39               León                   11   5   3   3  15  12   3  18
+Malmö FF               23  11   3   9  38  33   5  36               Atlas                  11   5   3   3  17  18  -1  18
+Västerås SK            23  10   5   8  34  36  -2  35               Cruz Azul              11   5   2   4  22  21   1  17
+IFK Göteborg           23  10   5   8  32  41  -9  35               Tijuana                10   4   3   3  15  14   1  15
 AIK                    23   9   6   8  36  40  -4  33               Puebla                 11   4   3   4  12  13  -1  15
 GAIS                   23   8   6   9  28  21   7  30               Monterrey              10   4   2   4  17  15   2  14
 IF Brommapojkarna      23   8   6   9  36  41  -5  30               Pachuca                11   3   4   4  18  14   4  13
 Mjällby AIF            23   5   8  10  28  39 -11  23               Pumas UNAM             11   3   4   4  17  19  -2  13
 Degerfors IF           23   5   5  13  20  35 -15  20               Tigres UANL            11   3   4   4  13  15  -2  13
-Kalmar FF              22   5   4  13  21  36 -15  19               Santos                 11   4   1   6  12  16  -4  13
+Kalmar FF              23   5   4  14  21  37 -16  19               Santos                 11   4   1   6  12  16  -4  13
 Örgryte IS             23   3   6  14  25  52 -27  15               Atlético San Luis      11   3   3   5  15  20  -5  12
-Halmstads BK           22   3   5  14  16  40 -24  14               Atlante                11   2   5   4  12  17  -5  11
+Halmstads BK           23   3   5  15  16  44 -28  14               Atlante                11   2   5   4  12  17  -5  11
                                                                     Necaxa                 11   2   3   6  15  23  -8   9
                                                                     FC Juárez              11   1   1   9   8  26 -18   4
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Friday, October 09                                                  Saturday, October 10
-  IFK Göteborg           1–0   Västerås SK                            Puebla                 1–1   León
-Saturday, October 10                                                  Tigres UANL            3–2   Toluca
+Saturday, October 10                                                Saturday, October 10
   AIK                    5–6   IF Brommapojkarna                      FC Juárez              1–1   Tijuana
   GAIS                   0–1   IK Sirius                              Querétaro              2–0   Atlante
   Mjällby AIF            1–1   Degerfors IF                         Sunday, October 11
@@ -189,8 +188,10 @@ Sunday, October 11                                                    Atlas     
   Hammarby IF            0–1   Djurgården                             América                1–1   Monterrey
   BK Häcken              3–0   Örgryte IS                             Atlético San Luis      1–2   Santos
 Monday, October 12                                                    Pachuca                3–3   Necaxa
-  IF Elfsborg            vs    Halmstads BK                         Monday, October 12
-  Malmö FF               vs    Kalmar FF                              Pumas UNAM             3–3   Cruz Azul
+  IF Elfsborg            4–0   Halmstads BK                         Monday, October 12
+  Malmö FF               1–0   Kalmar FF                              Pumas UNAM             3–3   Cruz Azul
+Friday, October 16                                                  
+  IF Brommapojkarna      vs    Djurgården                           
 
 
 
@@ -256,4 +257,4 @@ Wednesday, October 14                                                 Benfica   
   Shakhtar Donetsk       vs    AEK Athens                             TSG Hoffenheim         vs    Besiktas
   Slovan Bratislava      vs    VfB Stuttgart                        
 
-Standings from ESPN.com 10.12.26
+Standings from ESPN.com 10.13.26
