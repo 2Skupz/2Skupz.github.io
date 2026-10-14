@@ -4,48 +4,48 @@ NHL Standings - Win Percentage
 --------------------------------------------------------------------------------
 Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Edmonton                5    4    1     .800    --
-Anaheim                 5    4    1     .800    --
-Vegas                   7    5    2     .714    --
-SEATTLE                 6    4    2     .667   0.5
-San Jose                5    3    2     .600   1.0
-Vancouver               7    2    5     .286   3.0
-Los Angeles             4    0    4     .000   3.5
-Calgary                 5    0    5     .000   4.0
+Edmonton                6    5    1     .833    --
+Vegas                   8    6    2     .750    --
+SEATTLE                 7    5    2     .714   0.5
+Anaheim                 6    4    2     .667   1.0
+San Jose                6    3    3     .500   2.0
+Vancouver               8    2    6     .250   4.0
+Calgary                 6    1    5     .167   4.0
+Los Angeles             5    0    5     .000   4.5
 
 --------------------------------------------------------------------------------
 Central                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Minnesota               6    4    2     .667    --
-Utah                    6    4    2     .667    --
-Colorado                5    3    2     .600   0.5
-Winnipeg                5    3    2     .600   0.5
-Dallas                  5    2    3     .400   1.5
-Nashville               5    2    3     .400   1.5
-St. Louis               5    2    3     .400   1.5
-Chicago                 6    1    5     .167   3.0
+Utah                    7    5    2     .714    --
+Colorado                6    4    2     .667   0.5
+Winnipeg                6    4    2     .667   0.5
+Minnesota               7    4    3     .571   1.0
+St. Louis               6    3    3     .500   1.5
+Dallas                  6    2    4     .333   2.5
+Nashville               6    2    4     .333   2.5
+Chicago                 7    2    5     .286   3.0
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Carolina                7    5    2     .714    --
-NY Rangers              7    5    2     .714    --
-Washington              5    3    2     .600   1.0
-Columbus                4    2    2     .500   1.5
-Pittsburgh              6    3    3     .500   1.5
-NY Islanders            5    2    3     .400   2.0
-New Jersey              5    2    3     .400   2.0
-Philadelphia            7    0    7     .000   5.0
+NY Rangers              8    6    2     .750    --
+Carolina                8    6    2     .750    --
+NY Islanders            6    3    3     .500   2.0
+Washington              6    3    3     .500   2.0
+New Jersey              6    3    3     .500   2.0
+Pittsburgh              7    3    4     .429   2.5
+Columbus                5    2    3     .400   2.5
+Philadelphia            8    0    8     .000   6.0
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Ottawa                  6    5    1     .833    --
-Tampa Bay               5    4    1     .800   0.5
-Boston                  6    4    2     .667   1.0
-Toronto                 6    3    3     .500   2.0
-Buffalo                 6    3    3     .500   2.0
-Montreal                5    2    3     .400   2.5
-Florida                 6    2    4     .333   3.0
-Detroit                 5    1    4     .200   3.5
+Boston                  7    5    2     .714    --
+Ottawa                  7    5    2     .714    --
+Tampa Bay               6    4    2     .667   0.5
+Montreal                6    3    3     .500   1.5
+Toronto                 7    3    4     .429   2.0
+Florida                 7    3    4     .429   2.0
+Buffalo                 7    3    4     .429   2.0
+Detroit                 6    1    5     .167   3.5
 

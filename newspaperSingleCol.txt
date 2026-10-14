@@ -19,17 +19,7 @@ Sporting KC            28   6   4  18  22 -33
 
 MLS West Fixtures
 -----------------
-Saturday, October 10
-  Charlotte              3–2   Dallas
-  New England            0–3   Seattle
-  Philadelphia           2–1   Real Salt Lake
-  Red Bull New York      4–1   San Diego
 Sunday, October 11
-  Austin                 1–4   Nashville
-  Minnesota              2–2   Houston
-  Sporting KC            3–3   Portland
-  Colorado               1–1   San Jose
-  LAFC                   1–1   Vancouver Whitecaps
   St. Louis              6–2   Galaxy
 Thursday, October 15
   Dallas                 vs    Seattle
@@ -40,6 +30,9 @@ Thursday, October 15
   Galaxy                 vs    Portland
   LAFC                   vs    Austin
   San Diego              vs    Houston
+Saturday, October 17
+  Minnesota              vs    St. Louis
+  New York City          vs    LAFC
 
 
 MLS East
@@ -63,18 +56,6 @@ Montreal               28   6   6  16  24 -21
 
 MLS East Fixtures
 -----------------
-Saturday, October 10
-  Toronto                2–1   Montreal
-  Chicago                2–1   New York City
-  Atlanta                1–3   Cincinnati
-  Charlotte              3–2   Dallas
-  Inter Miami            4–0   DC United
-  New England            0–3   Seattle
-  Orlando City SC        3–2   Columbus
-  Philadelphia           2–1   Real Salt Lake
-  Red Bull New York      4–1   San Diego
-Sunday, October 11
-  Austin                 1–4   Nashville
 Wednesday, October 14
   Montreal               vs    Atlanta
   Columbus               vs    Charlotte
@@ -85,6 +66,13 @@ Wednesday, October 14
 Thursday, October 15
   Chicago                vs    Philadelphia
   Nashville              vs    Sporting KC
+Saturday, October 17
+  Philadelphia           vs    Charlotte
+  Atlanta                vs    Inter Miami
+  New England            vs    Chicago
+  New York City          vs    LAFC
+  Orlando City SC        vs    DC United
+  Red Bull New York      vs    Toronto
 
 
 Allsvenskan
@@ -109,10 +97,6 @@ Halmstads BK           23   3   5  15  14 -28
 
 Allsvenskan Fixtures
 --------------------
-Saturday, October 10
-  AIK                    5–6   IF Brommapojkarna
-  GAIS                   0–1   IK Sirius
-  Mjällby AIF            1–1   Degerfors IF
 Sunday, October 11
   Hammarby IF            0–1   Djurgården
   BK Häcken              3–0   Örgryte IS
@@ -121,6 +105,8 @@ Monday, October 12
   Malmö FF               1–0   Kalmar FF
 Friday, October 16
   IF Brommapojkarna      vs    Djurgården
+Saturday, October 17
+  AIK                    vs    IFK Göteborg
 
 
 Bundesliga
@@ -147,18 +133,18 @@ M'gladbach              5   0   0   5   0 -11
 
 Bundesliga Fixtures
 -------------------
-Saturday, October 10
-  1. FC Union Berlin     1–0   SV Elversberg
-  FC Augsburg            2–2   Bayern Munich
-  Mainz                  3–4   Bayer Leverkusen
-  SC Paderborn 07        0–2   VfB Stuttgart
-  TSG Hoffenheim         2–3   Hamburg SV
-  RB Leipzig             6–0   E. Frankfurt
 Sunday, October 11
   FC Cologne             2–1   M'gladbach
   SC Freiburg            2–1   Schalke 04
 Friday, October 16
   E. Frankfurt           vs    FC Cologne
+Saturday, October 17
+  1. FC Union Berlin     vs    Borussia Dortmund
+  Hamburg SV             vs    VfB Stuttgart
+  Schalke 04             vs    Mainz
+  SV Elversberg          vs    FC Augsburg
+  Werder Bremen          vs    SC Paderborn 07
+  Bayern Munich          vs    RB Leipzig
 
 
 Premier League
@@ -187,19 +173,18 @@ Fulham                  6   0   2   4   2  -4
 
 Premier League Fixtures
 -----------------------
-Saturday, October 10
-  Arsenal                2–1   Leeds United
-  Aston Villa            2–2   Brentford
-  Chelsea                5–1   AFC Bournemouth
-  Ipswich Town           2–1   Fulham
-  Sunderland             0–2   Brighton & Hove Albion
-  Manchester United      1–1   Tottenham Hotspur
 Sunday, October 11
   Crystal Palace         3–1   Nottingham Forest
   Hull City              2–2   Everton
   Liverpool              0–3   Manchester City
 Monday, October 12
   Coventry City          4–1   Newcastle United
+Saturday, October 17
+  Everton                vs    Chelsea
+  Brentford              vs    Liverpool
+  Fulham                 vs    Hull City
+  Manchester City        vs    Ipswich Town
+  Newcastle United       vs    Aston Villa
 
 
 Ligue 1
@@ -226,18 +211,16 @@ Le Havre AC             6   0   2   4   2  -4
 
 Ligue 1 Fixtures
 ----------------
-Saturday, October 10
-  Lille                  1–0   Le Havre AC
-  AS Monaco              2–2   Toulouse
-  Brest                  5–1   Angers
-  Lorient                1–0   Paris FC
-  Paris S-G              3–1   Le Mans
 Sunday, October 11
   Nice                   2–1   Strasbourg
   Stade Rennais          4–1   AJ Auxerre
   Troyes                 0–2   Marseille
 Friday, October 16
   Le Mans                vs    Toulouse
+Saturday, October 17
+  Strasbourg             vs    Paris S-G
+  Lille                  vs    Brest
+  Troyes                 vs    Lens
 
 
 Serie A
@@ -266,10 +249,6 @@ Venezia                 6   0   0   6   0 -11
 
 Serie A Fixtures
 ----------------
-Saturday, October 10
-  Genoa                  2–1   Fiorentina
-  Internazionale         3–0   Parma
-  Napoli                 3–0   Frosinone
 Sunday, October 11
   Como                   0–0   AS Roma
   Lazio                  3–1   Monza
@@ -281,6 +260,10 @@ Monday, October 12
   Torino                 2–1   Udinese
 Friday, October 16
   Frosinone              vs    Sassuolo
+Saturday, October 17
+  Venezia                vs    Napoli
+  Bologna                vs    Internazionale
+  AS Roma                vs    Genoa
 
 
 La Liga
@@ -309,11 +292,6 @@ Málaga                  8   0   4   4   4  -9
 
 La Liga Fixtures
 ----------------
-Saturday, October 10
-  Rayo Vallecano         0–0   Athletic Club
-  Alavés                 1–2   Atlético Madrid
-  Barcelona              3–0   Getafe
-  Real Madrid            1–0   Villarreal
 Sunday, October 11
   Elche                  0–0   Celta Vigo
   Real Sociedad          3–2   Deportivo
@@ -323,6 +301,11 @@ Monday, October 12
   Levante                3–3   Sevilla
 Friday, October 16
   Deportivo              vs    Levante
+Saturday, October 17
+  Espanyol               vs    Atlético Madrid
+  Villarreal             vs    Elche
+  Real Betis             vs    Barcelona
+  Valencia               vs    Athletic Club
 
 
 Scottish Premiership
@@ -343,14 +326,15 @@ Kilmarnock              8   1   2   5   5 -11
 
 Scottish Premiership Fixtures
 -----------------------------
-Saturday, October 10
-  Dundee United          1–0   Hibernian
-  Falkirk                1–2   Dundee
-  Heart of Midlothian    5–0   St Mirren
-  Rangers                3–1   Kilmarnock
 Sunday, October 11
   Motherwell             0–2   Celtic
   Aberdeen               0–1   St Johnstone
+Saturday, October 17
+  Aberdeen               vs    St Mirren
+  Hibernian              vs    Falkirk
+  Kilmarnock             vs    Motherwell
+  St Johnstone           vs    Dundee United
+  Dundee                 vs    Rangers
 
 
 Liga MX
@@ -377,70 +361,71 @@ FC Juárez              11   1   1   9   4 -18
 
 Liga MX Fixtures
 ----------------
-Saturday, October 10
-  FC Juárez              1–1   Tijuana
-  Querétaro              2–0   Atlante
 Sunday, October 11
-  Atlas                  1–1   Guadalajara
-  América                1–1   Monterrey
   Atlético San Luis      1–2   Santos
   Pachuca                3–3   Necaxa
 Monday, October 12
   Pumas UNAM             3–3   Cruz Azul
+Saturday, October 17
+  Necaxa                 vs    Atlas
+  Atlante                vs    Pumas UNAM
+  Tijuana                vs    Puebla
+  Santos                 vs    Querétaro
+  Guadalajara            vs    Tigres UANL
 
 
 Champions League
 ----------------
 Cty Squad                  MP   W   D   L  Pt  GD
+ESP Barcelona               2   2   0   0   6   7
+POR Sporting CP             2   2   0   0   6   4
+ENG Arsenal                 2   2   0   0   6   4
+GER Bayern Munich           2   1   1   0   4   5
 FRA Paris S-G               1   1   0   0   3   5
-GER Bayern Munich           1   1   0   0   3   5
-ESP Barcelona               1   1   0   0   3   4
-ENG Manchester United       1   1   0   0   3   4
 ITA Como                    1   1   0   0   3   3
-POR Sporting CP             1   1   0   0   3   2
+ENG Manchester United       2   1   0   1   3   2
 GER VfB Stuttgart           1   1   0   0   3   2
 ENG Manchester City         1   1   0   0   3   2
+ESP Villarreal              2   1   0   1   3   1
 ENG Aston Villa             1   1   0   0   3   1
-FRA Lens                    1   1   0   0   3   1
 ESP Real Betis              1   1   0   0   3   1
+ESP Atlético Madrid         2   1   0   1   3   1
 GER Borussia Dortmund       1   1   0   0   3   1
 ENG Liverpool               1   1   0   0   3   1
 ESP Real Madrid             1   1   0   0   3   1
-ENG Arsenal                 1   1   0   0   3   1
 GRE AEK Athens              1   1   0   0   3   1
+BEL Club Brugge             2   1   0   1   3   0
+FRA Lens                    2   1   0   1   3  -1
+GER RB Leipzig              2   1   0   1   3  -2
+AZE Sabah FK                2   1   0   1   3  -2
 ITA AS Roma                 1   0   1   0   1   0
 UKR Shakhtar Donetsk        1   0   1   0   1   0
 TUR Fenerbahce              1   0   1   0   1   0
-NED PSV Eindhoven           1   0   1   0   1   0
-ESP Villarreal              1   0   0   1   0  -1
-BEL Club Brugge             1   0   0   1   0  -1
-FRA Lille                   1   0   0   1   0  -1
-CZE Slavia Prague           1   0   0   1   0  -1
-ESP Atlético Madrid         1   0   0   1   0  -1
-ITA Internazionale          1   0   0   1   0  -1
+NED PSV Eindhoven           2   0   1   1   1  -1
+NOR Viking FK               2   0   1   1   1  -2
 AUT LASK Linz               1   0   0   1   0  -1
-ITA Napoli                  1   0   0   1   0  -1
-TUR Galatasaray             1   0   0   1   0  -2
-NOR Viking FK               1   0   0   1   0  -2
+ITA Internazionale          2   0   0   2   0  -2
 POR FC Porto                1   0   0   1   0  -2
-GER RB Leipzig              1   0   0   1   0  -3
+CZE Slavia Prague           2   0   0   2   0  -3
+ITA Napoli                  2   0   0   2   0  -3
+FRA Lille                   2   0   0   2   0  -4
 NED Feyenoord Rotterdam     1   0   0   1   0  -4
-AZE Sabah FK                1   0   0   1   0  -4
+TUR Galatasaray             2   0   0   2   0  -5
 SVK Slovan Bratislava       1   0   0   1   0  -5
 NOR Bodo/Glimt              1   0   0   1   0  -5
 
 Champions League Fixtures
 -------------------------
 Tuesday, October 13
-  Lens                   vs    Sporting CP
-  Sabah FK               vs    Slavia Prague
-  Arsenal                vs    Lille
-  Atlético Madrid        vs    Manchester United
-  Galatasaray            vs    Barcelona
-  Internazionale         vs    Club Brugge
-  RB Leipzig             vs    PSV Eindhoven
-  Viking FK              vs    Bayern Munich
-  Villarreal             vs    Napoli
+  Lens                   0–2   Sporting CP
+  Sabah FK               2–0   Slavia Prague
+  Arsenal                3–0   Lille
+  Atlético Madrid        2–0   Manchester United
+  Galatasaray            1–4   Barcelona
+  Internazionale         3–4   Club Brugge
+  RB Leipzig             1–0   PSV Eindhoven
+  Viking FK              3–3   Bayern Munich
+  Villarreal             3–1   Napoli
 Wednesday, October 14
   Feyenoord Rotterdam    vs    Como
   LASK Linz              vs    Liverpool
@@ -516,4 +501,4 @@ Thursday, October 15
   TSG Hoffenheim         vs    Besiktas
 
 
-Standings from ESPN.com 10.13.26
+Standings from ESPN.com 10.14.26
