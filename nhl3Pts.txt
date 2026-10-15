@@ -18,11 +18,11 @@ Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Utah                    7    5    0    0    2     8    15
 Winnipeg                6    4    0    1    1     1    13
+Colorado                7    4    0    1    2     9    13
 Minnesota               7    4    0    1    2     5    13
-Colorado                6    4    0    0    2    10    12
 St. Louis               6    3    0    1    2     3    10
+Dallas                  7    2    1    1    3     3     9
 Nashville               6    2    0    2    2    -3     8
-Dallas                  6    2    0    1    3     2     7
 Chicago                 7    2    0    0    5   -12     6
 
 --------------------------------------------------------------------------------
@@ -30,8 +30,8 @@ Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 NY Rangers              8    6    0    0    2    13    18
 Carolina                8    5    1    1    1    12    18
+Washington              7    4    0    0    3     2    12
 NY Islanders            6    3    0    0    3     4     9
-Washington              6    3    0    0    3     1     9
 Pittsburgh              7    1    2    1    3     3     8
 New Jersey              6    1    2    0    3    -6     7
 Columbus                5    1    1    0    3    -5     5
@@ -46,6 +46,6 @@ Tampa Bay               6    4    0    0    2     1    12
 Florida                 7    2    1    2    2    -1    10
 Toronto                 7    2    1    1    3     1     9
 Buffalo                 7    2    1    1    3    -7     9
-Montreal                6    1    2    1    2    -3     8
+Montreal                7    1    2    1    3    -4     8
 Detroit                 6    1    0    2    3    -6     5
 
