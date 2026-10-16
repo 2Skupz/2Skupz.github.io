@@ -4,48 +4,48 @@ NHL Standings - 3 Points
 --------------------------------------------------------------------------------
 Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Edmonton                6    5    0    1    0    11    16
-Vegas                   8    4    2    0    2    10    16
-SEATTLE                 7    4    1    0    2    10    14
+Vegas                   9    5    2    0    2    14    19
+Edmonton                7    5    0    1    1     9    16
+SEATTLE                 8    4    1    1    2     9    15
 Anaheim                 6    3    1    0    2     3    11
-San Jose                6    0    3    0    3    -7     6
-Vancouver               8    1    1    0    6   -12     5
-Calgary                 6    1    0    0    5   -17     3
+San Jose                7    0    4    0    3    -6     8
+Vancouver               9    1    1    1    6   -13     6
+Calgary                 7    1    0    0    6   -21     3
 Los Angeles             5    0    0    2    3   -10     2
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Utah                    7    5    0    0    2     8    15
-Winnipeg                6    4    0    1    1     1    13
+Utah                    8    6    0    0    2    10    18
+Minnesota               8    5    0    1    2     6    16
+Winnipeg                7    4    0    2    1     0    14
 Colorado                7    4    0    1    2     9    13
-Minnesota               7    4    0    1    2     5    13
-St. Louis               6    3    0    1    2     3    10
+St. Louis               7    3    0    1    3     2    10
 Dallas                  7    2    1    1    3     3     9
-Nashville               6    2    0    2    2    -3     8
-Chicago                 7    2    0    0    5   -12     6
+Nashville               7    2    0    3    2    -4     9
+Chicago                 8    2    1    0    5   -11     8
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-NY Rangers              8    6    0    0    2    13    18
 Carolina                8    5    1    1    1    12    18
+NY Rangers              9    6    0    0    3     7    18
 Washington              7    4    0    0    3     2    12
-NY Islanders            6    3    0    0    3     4     9
+NY Islanders            7    3    0    1    3     3    10
+New Jersey              7    2    2    0    3     0    10
 Pittsburgh              7    1    2    1    3     3     8
-New Jersey              6    1    2    0    3    -6     7
 Columbus                5    1    1    0    3    -5     5
-Philadelphia            8    0    0    3    5   -21     3
+Philadelphia            9    0    0    3    6   -22     3
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
+Ottawa                  8    4    2    0    2     3    16
 Boston                  7    4    1    0    2    10    14
-Ottawa                  7    4    1    0    2     2    14
-Tampa Bay               6    4    0    0    2     1    12
-Florida                 7    2    1    2    2    -1    10
-Toronto                 7    2    1    1    3     1     9
-Buffalo                 7    2    1    1    3    -7     9
+Tampa Bay               7    4    1    0    2     2    14
+Florida                 8    2    2    2    2     0    12
+Buffalo                 8    2    2    1    3    -6    11
+Toronto                 8    2    1    2    3     0    10
+Detroit                 7    2    0    2    3    -5     8
 Montreal                7    1    2    1    3    -4     8
-Detroit                 6    1    0    2    3    -6     5
 
