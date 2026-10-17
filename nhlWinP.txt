@@ -6,8 +6,8 @@ Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Vegas                   9    7    2     .778    --
 Edmonton                7    5    2     .714   1.0
-Anaheim                 6    4    2     .667   1.5
 SEATTLE                 8    5    3     .625   1.5
+Anaheim                 7    4    3     .571   2.0
 San Jose                7    4    3     .571   2.0
 Vancouver               9    2    7     .222   5.0
 Calgary                 7    1    6     .143   5.0
@@ -17,8 +17,8 @@ Los Angeles             5    0    5     .000   5.0
 Central                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Utah                    8    6    2     .750    --
+Colorado                8    5    3     .625   1.0
 Minnesota               8    5    3     .625   1.0
-Colorado                7    4    3     .571   1.5
 Winnipeg                7    4    3     .571   1.5
 Dallas                  7    3    4     .429   2.5
 St. Louis               7    3    4     .429   2.5
@@ -32,16 +32,16 @@ Carolina                8    6    2     .750    --
 NY Rangers              9    6    3     .667   0.5
 Washington              7    4    3     .571   1.5
 New Jersey              7    4    3     .571   1.5
-Pittsburgh              7    3    4     .429   2.5
 NY Islanders            7    3    4     .429   2.5
 Columbus                5    2    3     .400   2.5
+Pittsburgh              8    3    5     .375   3.0
 Philadelphia            9    0    9     .000   6.5
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
+Boston                  8    6    2     .750    --
 Ottawa                  8    6    2     .750    --
-Boston                  7    5    2     .714   0.5
 Tampa Bay               7    5    2     .714   0.5
 Florida                 8    4    4     .500   2.0
 Buffalo                 8    4    4     .500   2.0

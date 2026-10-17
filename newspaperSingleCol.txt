@@ -89,7 +89,7 @@ Allsvenskan
 -----------
 Squad                  MP   W   D   L  Pt  GD
 IK Sirius              23  17   3   3  54  25
-Djurgården             23  14   2   7  44  27
+Djurgården             24  15   2   7  47  29
 Hammarby IF            23  13   4   6  43  28
 IF Elfsborg            23  11   7   5  40  13
 BK Häcken              23  10   9   4  39  12
@@ -98,7 +98,7 @@ Västerås SK            23  10   5   8  35  -2
 IFK Göteborg           23  10   5   8  35  -9
 AIK                    23   9   6   8  33  -4
 GAIS                   23   8   6   9  30   7
-IF Brommapojkarna      23   8   6   9  30  -5
+IF Brommapojkarna      24   8   6  10  30  -7
 Mjällby AIF            23   5   8  10  23 -11
 Degerfors IF           23   5   5  13  20 -15
 Kalmar FF              23   5   4  14  19 -16
@@ -108,7 +108,7 @@ Halmstads BK           23   3   5  15  14 -28
 Allsvenskan Fixtures
 --------------------
 Friday, October 16
-  IF Brommapojkarna      vs    Djurgården
+  IF Brommapojkarna      0–2   Djurgården
 Saturday, October 17
   AIK                    vs    IFK Göteborg
 Sunday, October 18
@@ -131,13 +131,13 @@ Bayer Leverkusen        5   3   1   1  10   6
 RB Leipzig              5   3   0   2   9  10
 FC Augsburg             5   2   2   1   8   5
 Werder Bremen           5   2   2   1   8   0
+E. Frankfurt            6   2   2   2   8  -6
 Mainz                   5   2   1   2   7   3
 SV Elversberg           5   2   1   2   7   0
-FC Cologne              5   2   1   2   7  -2
+FC Cologne              6   2   1   3   7  -3
 VfB Stuttgart           5   2   0   3   6  -1
 Hamburg SV              5   2   0   3   6 -10
 Schalke 04              5   1   2   2   5  -2
-E. Frankfurt            5   1   2   2   5  -7
 SC Paderborn 07         5   1   1   3   4  -4
 1. FC Union Berlin      5   1   1   3   4 -12
 TSG Hoffenheim          5   1   0   4   3  -4
@@ -146,7 +146,7 @@ M'gladbach              5   0   0   5   0 -11
 Bundesliga Fixtures
 -------------------
 Friday, October 16
-  E. Frankfurt           vs    FC Cologne
+  E. Frankfurt           1–0   FC Cologne
 Saturday, October 17
   1. FC Union Berlin     vs    Borussia Dortmund
   Hamburg SV             vs    VfB Stuttgart
@@ -186,7 +186,7 @@ Fulham                  6   0   2   4   2  -4
 Premier League Fixtures
 -----------------------
 Saturday, October 17
-  Everton                vs    Chelsea
+  Everton                0–0   Chelsea
   Brentford              vs    Liverpool
   Fulham                 vs    Hull City
   Manchester City        vs    Ipswich Town
@@ -209,6 +209,7 @@ Stade Rennais           6   4   1   1  13   2
 Lyon                    6   3   2   1  11   7
 Paris FC                6   3   2   1  11   4
 Paris S-G               6   3   2   1  11   3
+Toulouse                7   2   3   2   9   1
 Brest                   6   2   2   2   8   3
 Lorient                 6   2   2   2   8   0
 Nice                    6   2   2   2   8  -2
@@ -216,8 +217,7 @@ Lens                    6   2   1   3   7   1
 Strasbourg              6   2   1   3   7  -1
 Angers                  6   2   1   3   7  -3
 Marseille               6   2   0   4   6   1
-Le Mans                 6   1   3   2   6  -2
-Toulouse                6   1   3   2   6  -2
+Le Mans                 7   1   3   3   6  -5
 AJ Auxerre              6   2   0   4   6  -8
 Troyes                  6   1   1   4   4  -9
 Le Havre AC             6   0   2   4   2  -4
@@ -225,7 +225,7 @@ Le Havre AC             6   0   2   4   2  -4
 Ligue 1 Fixtures
 ----------------
 Friday, October 16
-  Le Mans                vs    Toulouse
+  Le Mans                0–3   Toulouse
 Saturday, October 17
   Strasbourg             vs    Paris S-G
   Lille                  vs    Brest
@@ -245,13 +245,13 @@ Internazionale          6   5   1   0  16  10
 Lazio                   6   5   1   0  16   7
 AS Roma                 6   4   2   0  14  11
 Cagliari                6   4   1   1  13   3
+Frosinone               7   4   1   2  13   4
 AC Milan                6   3   3   0  12   6
 Juventus                6   3   2   1  11   4
 Como                    6   3   2   1  11   3
 Napoli                  6   3   1   2  10   4
-Frosinone               6   3   1   2  10   2
 Atalanta                6   3   0   3   9   0
-Sassuolo                6   2   2   2   8   0
+Sassuolo                7   2   2   3   8  -2
 Torino                  6   2   1   3   7  -2
 Lecce                   6   2   0   4   6  -6
 Bologna                 6   1   2   3   5  -2
@@ -265,7 +265,7 @@ Venezia                 6   0   0   6   0 -11
 Serie A Fixtures
 ----------------
 Friday, October 16
-  Frosinone              vs    Sassuolo
+  Frosinone              4–2   Sassuolo
 Saturday, October 17
   Venezia                vs    Napoli
   Bologna                vs    Internazionale
@@ -290,7 +290,7 @@ Real Madrid             8   6   0   2  18  11
 Sevilla                 8   4   2   2  14   1
 Real Sociedad           8   4   1   3  13  -3
 Alavés                  8   3   2   3  11   4
-Deportivo               8   2   4   2  10   1
+Deportivo               9   2   5   2  11   1
 Celta Vigo              8   1   5   2   8   2
 Athletic Club           6   2   2   2   8   1
 Villarreal              8   2   2   4   8   0
@@ -299,7 +299,7 @@ Rayo Vallecano          7   2   2   3   8  -5
 Getafe                  8   2   2   4   8  -6
 Racing Santander        8   2   2   4   8 -10
 Osasuna                 8   2   2   4   8 -10
-Levante                 7   1   3   3   6  -4
+Levante                 8   1   4   3   7  -4
 Elche                   8   1   3   4   6  -6
 Valencia                8   1   2   5   5  -9
 Málaga                  8   0   4   4   4  -9
@@ -307,9 +307,9 @@ Málaga                  8   0   4   4   4  -9
 La Liga Fixtures
 ----------------
 Friday, October 16
-  Deportivo              vs    Levante
+  Deportivo              1–1   Levante
 Saturday, October 17
-  Espanyol               vs    Atlético Madrid
+  Espanyol               0–0   Atlético Madrid
   Villarreal             vs    Elche
   Real Betis             vs    Barcelona
   Valencia               vs    Athletic Club
@@ -354,30 +354,30 @@ Liga MX
 -------
 Squad                  MP   W   D   L  Pt  GD
 América                10   6   3   1  21  11
+Atlas                  12   6   3   3  21   1
 Toluca                 11   6   2   3  20  10
 Querétaro              10   6   2   2  20   7
 Guadalajara            11   5   4   2  19   7
 León                   11   5   3   3  18   3
-Atlas                  11   5   3   3  18  -1
 Cruz Azul              11   5   2   4  17   1
-Tijuana                10   4   3   3  15   1
-Puebla                 11   4   3   4  15  -1
+Tijuana                11   4   4   3  16   1
+Pumas UNAM             12   4   4   4  16  -1
+Puebla                 12   4   4   4  16  -1
 Monterrey              10   4   2   4  14   2
 Pachuca                11   3   4   4  13   4
-Pumas UNAM             11   3   4   4  13  -2
 Tigres UANL            11   3   4   4  13  -2
 Santos                 11   4   1   6  13  -4
 Atlético San Luis      11   3   3   5  12  -5
-Atlante                11   2   5   4  11  -5
-Necaxa                 11   2   3   6   9  -8
+Atlante                12   2   5   5  11  -6
+Necaxa                 12   2   3   7   9 -10
 FC Juárez              11   1   1   9   4 -18
 
 Liga MX Fixtures
 ----------------
 Saturday, October 17
-  Necaxa                 vs    Atlas
-  Atlante                vs    Pumas UNAM
-  Tijuana                vs    Puebla
+  Necaxa                 0–2   Atlas
+  Atlante                1–2   Pumas UNAM
+  Tijuana                0–0   Puebla
   Santos                 vs    Querétaro
   Guadalajara            vs    Tigres UANL
 Sunday, October 18
@@ -430,16 +430,6 @@ SVK Slovan Bratislava       2   0   0   2   0  -8
 
 Champions League Fixtures
 -------------------------
-Tuesday, October 13
-  Lens                   0–2   Sporting CP
-  Sabah FK               2–0   Slavia Prague
-  Arsenal                3–0   Lille
-  Atlético Madrid        2–0   Manchester United
-  Galatasaray            1–4   Barcelona
-  Internazionale         3–4   Club Brugge
-  RB Leipzig             1–0   PSV Eindhoven
-  VIKING FK              3–3   Bayern Munich
-  Villarreal             3–1   Napoli
 Wednesday, October 14
   Feyenoord Rotterdam    3–2   Como
   LASK Linz              3–6   Liverpool
@@ -450,6 +440,16 @@ Wednesday, October 14
   Real Betis             3–2   FC Porto
   Shakhtar Donetsk       3–1   AEK Athens
   Slovan Bratislava      0–3   VfB Stuttgart
+Tuesday, October 20
+  Fenerbahce             vs    Slavia Prague
+  Sabah FK               vs    Borussia Dortmund
+  AS Roma                vs    Slovan Bratislava
+  FC Porto               vs    PSV Eindhoven
+  Liverpool              vs    Villarreal
+  Manchester City        vs    AEK Athens
+  Napoli                 vs    Bodo/Glimt
+  Paris S-G              vs    Barcelona
+  VfB Stuttgart          vs    Atlético Madrid
 
 
 Europa League
@@ -515,4 +515,4 @@ Thursday, October 15
   TSG Hoffenheim         2–3   Besiktas
 
 
-Standings from ESPN.com 10.16.26
+Standings from ESPN.com 10.17.26
