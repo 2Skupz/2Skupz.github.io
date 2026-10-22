@@ -7,29 +7,29 @@ San Jose               30  13   9   8  52  42  10  48               Chicago     
 Houston                30  13   8   9  41  39   2  47               Charlotte              30  13   8   9  53  45   8  47
 LAFC                   31  12  10   9  48  33  15  46               Philadelphia           30  13   7  10  61  48  13  46
 Seattle                30  11   9  10  39  37   2  42               Orlando City SC        30  12   5  13  58  70 -12  41
-Galaxy                 31  10  10  11  43  52  -9  40               Red Bull New York      30  10   6  14  39  56 -17  36
-Colorado               30  11   6  13  41  41   0  39               Cincinnati             29   9   9  11  60  70 -10  36
+Galaxy                 31  10  10  11  43  52  -9  40               Cincinnati             30  10   9  11  62  71  -9  39
+Colorado               30  11   6  13  41  41   0  39               Red Bull New York      30  10   6  14  39  56 -17  36
 Real Salt Lake         30  10   6  14  45  48  -3  36               Toronto                30   8  12  10  46  55  -9  36
 Portland               30   9   7  14  51  56  -5  34               Columbus               30  10   5  15  46  47  -1  35
 San Diego              30   8  10  12  53  56  -3  34               New York City          30   8  10  12  43  41   2  34
-Minnesota              30   8  10  12  47  55  -8  34               DC United              29   7  12  10  37  51 -14  33
+Minnesota              30   8  10  12  47  55  -8  34               DC United              30   7  12  11  38  53 -15  33
 Austin                 30   7  10  13  38  56 -18  31               Atlanta                30   8   6  16  37  51 -14  30
 Sporting KC            30   6   4  20  36  75 -39  22               Montreal               30   6   7  17  36  60 -24  25
 
 MLS West Fixtures                                                   MLS East Fixtures
 -----------------                                                   -----------------
-                                                                    Sunday, October 18
-                                                                      Cincinnati             0–2   Columbus
-                                                                    Wednesday, October 21
-                                                                      Cincinnati             vs    DC United
-                                                                    Saturday, October 24
-                                                                      Montreal               vs    Nashville
-                                                                      Columbus               vs    Toronto
-                                                                      Red Bull New York      vs    Inter Miami
-                                                                      Atlanta                vs    Chicago
-                                                                      DC United              vs    Cincinnati
+Sunday, October 25                                                  Wednesday, October 21
+  Colorado               vs    Vancouver                              Cincinnati             2–1   DC United
+  Dallas                 vs    San Jose                             Saturday, October 24
+  Houston                vs    Minnesota                              Montreal               vs    Nashville
+  Real Salt Lake         vs    St. Louis                              Columbus               vs    Toronto
+  Sporting KC            vs    Austin                                 Red Bull New York      vs    Inter Miami
+  Portland               vs    Charlotte                              Atlanta                vs    Chicago
+  San Diego              vs    Seattle                                DC United              vs    Cincinnati
                                                                       Orlando City SC        vs    New York City
                                                                       Philadelphia           vs    New England
+                                                                    Sunday, October 25
+                                                                      Portland               vs    Charlotte
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -56,20 +56,21 @@ Sunderland              7   1   1   5   6  14  -8   4
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Sunday, October 18                                                  Sunday, October 18
-  AFC Bournemouth        2–0   Sunderland                             Celtic                 7–1   Heart of Midlothian
-  Brighton & Hove Albion 5–0   Crystal Palace                       Saturday, October 24
-  Leeds United           1–1   Manchester United                      Dundee United          vs    Aberdeen
-  Nottingham Forest      0–1   Arsenal                                Falkirk                vs    Kilmarnock
-Monday, October 19                                                    Rangers                vs    St Johnstone
-  Tottenham Hotspur      3–1   Coventry City                          St Mirren              vs    Dundee
-Friday, October 23                                                  
-  Ipswich Town           vs    Nottingham Forest                    
-Saturday, October 24                                                
-  Aston Villa            vs    Manchester City                      
-  Arsenal                vs    Everton                              
-  Coventry City          vs    Fulham                               
+Monday, October 19                                                  Saturday, October 24
+  Tottenham Hotspur      3–1   Coventry City                          Dundee United          vs    Aberdeen
+Friday, October 23                                                    Falkirk                vs    Kilmarnock
+  Ipswich Town           vs    Nottingham Forest                      Rangers                vs    St Johnstone
+Saturday, October 24                                                  St Mirren              vs    Dundee
+  Aston Villa            vs    Manchester City                      Sunday, October 25
+  Arsenal                vs    Everton                                Hibernian              vs    Celtic
+  Coventry City          vs    Fulham                                 Motherwell             vs    Heart of Midlothian
   Chelsea                vs    Tottenham Hotspur                    
+Sunday, October 25                                                  
+  Crystal Palace         vs    Newcastle United                     
+  Hull City              vs    Brentford                            
+  Liverpool              vs    Brighton & Hove Albion               
+  Manchester United      vs    AFC Bournemouth                      
+  Sunderland             vs    Leeds United                         
 
 La Liga                                                             Serie A
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -83,35 +84,35 @@ Alavés                  9   3   2   4  13  10   3  11               Cagliari   
 Celta Vigo              9   2   5   2  10   7   3  11               Juventus                7   3   2   2   9   8   1  11
 Deportivo               9   2   5   2  13  12   1  11               Napoli                  7   3   1   3  10   7   3  10
 Osasuna                 9   3   2   4  10  18  -8  11               Torino                  7   3   1   3  10   9   1  10
-Athletic Club           7   2   3   2   7   6   1   9               Atalanta                7   3   0   4  10  11  -1   9
+Levante                 9   2   4   3  15  17  -2  10               Atalanta                7   3   0   4  10  11  -1   9
 Villarreal              9   2   3   4  13  13   0   9               Lecce                   7   3   0   4   9  12  -3   9
-Rayo Vallecano          8   2   3   3  12  17  -5   9               Sassuolo                7   2   2   3  12  14  -2   8
-Getafe                  9   2   3   4   5  11  -6   9               Monza                   7   2   1   4  13  15  -2   7
-Espanyol                9   2   2   5  11  12  -1   8               Bologna                 7   1   2   4   6  10  -4   5
-Racing Santander        9   2   2   5  13  25 -12   8               Udinese                 7   1   1   5   9  16  -7   4
-Levante                 8   1   4   3  12  16  -4   7               Genoa                   7   1   1   5   5  13  -8   4
+Athletic Club           8   2   3   3   8   9  -1   9               Sassuolo                7   2   2   3  12  14  -2   8
+Rayo Vallecano          8   2   3   3  12  17  -5   9               Monza                   7   2   1   4  13  15  -2   7
+Getafe                  9   2   3   4   5  11  -6   9               Bologna                 7   1   2   4   6  10  -4   5
+Espanyol                9   2   2   5  11  12  -1   8               Udinese                 7   1   1   5   9  16  -7   4
+Racing Santander        9   2   2   5  13  25 -12   8               Genoa                   7   1   1   5   5  13  -8   4
 Elche                   9   1   4   4  11  17  -6   7               Fiorentina              7   1   1   5   8  17  -9   4
 Valencia                9   1   3   5   6  15  -9   6               Parma                   7   1   1   5   4  13  -9   4
 Málaga                  9   0   4   5   6  18 -12   4               Venezia                 7   1   0   6   6  16 -10   3
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Sunday, October 18                                                  Sunday, October 18
-  Osasuna                2–0   Racing Santander                       Udinese                0–3   Lecce
-  Celta Vigo             2–1   Alavés                                 Fiorentina             1–3   Como
-  Málaga                 2–5   Real Sociedad                          AC Milan               3–2   Atalanta
-  Real Madrid            4–1   Sevilla                                Juventus               0–3   Lazio
 Monday, October 19                                                  Monday, October 19
   Getafe                 1–1   Rayo Vallecano                         Monza                  4–0   Cagliari
 Wednesday, October 21                                                 Parma                  0–3   Torino
-  Levante                vs    Athletic Club                        Friday, October 23
+  Levante                3–1   Athletic Club                        Friday, October 23
 Friday, October 23                                                    Torino                 vs    Monza
   Alavés                 vs    Málaga                               Saturday, October 24
 Saturday, October 24                                                  Cagliari               vs    Bologna
   Rayo Vallecano         vs    Elche                                  Como                   vs    Sassuolo
   Racing Santander       vs    Espanyol                               Napoli                 vs    AS Roma
   Valencia               vs    Villarreal                             Lazio                  vs    Parma
-  Atlético Madrid        vs    Deportivo                            
+  Atlético Madrid        vs    Deportivo                            Sunday, October 25
+Sunday, October 25                                                    Internazionale         vs    Fiorentina
+  Athletic Club          vs    Getafe                                 Atalanta               vs    Frosinone
+  Celta Vigo             vs    Real Betis                             Genoa                  vs    Venezia
+  Real Sociedad          vs    Levante                                Lecce                  vs    Juventus
+  Barcelona              vs    Real Madrid                            Udinese                vs    AC Milan
 
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -136,99 +137,101 @@ M'gladbach              6   0   0   6   8  20 -12   0               Le Havre AC 
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Sunday, October 18                                                  Sunday, October 18
-  Bayer Leverkusen       2–1   SC Freiburg                            Angers                 2–5   Marseille
-  M'gladbach             1–2   TSG Hoffenheim                         Le Havre AC            1–3   AJ Auxerre
-Friday, October 23                                                    Lorient                1–0   AS Monaco
-  VfB Stuttgart          vs    M'gladbach                             Paris FC               4–3   Stade Rennais
-Saturday, October 24                                                  Lyon                   2–1   Nice
-  FC Augsburg            vs    1. FC Union Berlin                   Friday, October 23
-  FC Cologne             vs    Schalke 04                             Brest                  vs    Nice
-  Mainz                  vs    Werder Bremen                        Saturday, October 24
-  RB Leipzig             vs    SV Elversberg                          Lens                   vs    Paris FC
-  SC Paderborn 07        vs    Hamburg SV                           
-  Borussia Dortmund      vs    E. Frankfurt                         
+Friday, October 23                                                  Friday, October 23
+  VfB Stuttgart          vs    M'gladbach                             Brest                  vs    Nice
+Saturday, October 24                                                Saturday, October 24
+  FC Augsburg            vs    1. FC Union Berlin                     Lens                   vs    Paris FC
+  FC Cologne             vs    Schalke 04                           Sunday, October 25
+  Mainz                  vs    Werder Bremen                          AS Monaco              vs    Lille
+  RB Leipzig             vs    SV Elversberg                          AJ Auxerre             vs    Le Mans
+  SC Paderborn 07        vs    Hamburg SV                             Angers                 vs    Lorient
+  Borussia Dortmund      vs    E. Frankfurt                           Marseille              vs    Le Havre AC
+Sunday, October 25                                                    Stade Rennais          vs    Strasbourg
+  TSG Hoffenheim         vs    Bayer Leverkusen                       Toulouse               vs    Troyes
+  SC Freiburg            vs    Bayern Munich                          Paris S-G              vs    Lyon
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
-IK Sirius              24  17   4   3  55  30  25  55               América                11   7   3   1  27  14  13  24
+IK Sirius              24  17   4   3  55  30  25  55               América                12   8   3   1  32  16  16  27
 Djurgården             24  15   2   7  50  21  29  47               Guadalajara            13   6   5   2  20  12   8  23
-Hammarby IF            24  14   4   6  50  21  29  46               Toluca                 12   6   3   3  26  16  10  21
-BK Häcken              24  11   9   4  43  30  13  42               León                   13   6   3   4  20  17   3  21
-IF Elfsborg            24  11   8   5  37  24  13  41               Atlas                  12   6   3   3  19  18   1  21
-Västerås SK            24  11   5   8  35  36  -1  38               Cruz Azul              12   6   2   4  27  21   6  20
-Malmö FF               24  11   3  10  38  34   4  36               Querétaro              12   6   2   4  16  15   1  20
-IFK Göteborg           24  10   6   8  34  43  -9  36               Monterrey              11   5   2   4  19  16   3  17
-AIK                    24   9   7   8  38  42  -4  34               Santos                 12   5   1   6  17  16   1  16
-GAIS                   24   8   6  10  30  25   5  30               Tijuana                11   4   4   3  15  14   1  16
-IF Brommapojkarna      24   8   6  10  36  43  -7  30               Pumas UNAM             12   4   4   4  19  20  -1  16
-Mjällby AIF            24   5   8  11  28  40 -12  23               Puebla                 12   4   4   4  12  13  -1  16
-Kalmar FF              24   6   4  14  23  38 -15  22               Atlético San Luis      13   4   4   5  18  22  -4  16
+Hammarby IF            24  14   4   6  50  21  29  46               Cruz Azul              13   7   2   4  29  22   7  23
+BK Häcken              24  11   9   4  43  30  13  42               Toluca                 13   6   4   3  28  18  10  22
+IF Elfsborg            24  11   8   5  37  24  13  41               León                   13   6   3   4  20  17   3  21
+Västerås SK            24  11   5   8  35  36  -1  38               Atlas                  13   6   3   4  21  23  -2  21
+Malmö FF               24  11   3  10  38  34   4  36               Monterrey              12   6   2   4  23  17   6  20
+IFK Göteborg           24  10   6   8  34  43  -9  36               Querétaro              12   6   2   4  16  15   1  20
+AIK                    24   9   7   8  38  42  -4  34               Santos                 13   6   1   6  19  16   3  19
+GAIS                   24   8   6  10  30  25   5  30               Tijuana                12   4   5   3  17  16   1  17
+IF Brommapojkarna      24   8   6  10  36  43  -7  30               Pumas UNAM             13   4   4   5  19  22  -3  16
+Mjällby AIF            24   5   8  11  28  40 -12  23               Atlético San Luis      13   4   4   5  18  22  -4  16
+Kalmar FF              24   6   4  14  23  38 -15  22               Puebla                 13   4   4   5  13  17  -4  16
 Degerfors IF           24   5   5  14  21  37 -16  20               Tigres UANL            13   3   5   5  14  18  -4  14
 Örgryte IS             24   4   6  14  29  54 -25  18               Atlante                13   3   5   5  14  19  -5  14
-Halmstads BK           24   3   5  16  16  45 -29  14               Pachuca                12   3   4   5  19  16   3  13
+Halmstads BK           24   3   5  16  16  45 -29  14               Pachuca                13   3   4   6  20  18   2  13
                                                                     Necaxa                 13   2   3   8  15  26 -11   9
                                                                     FC Juárez              13   1   1  11   8  32 -24   4
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Sunday, October 18                                                  Monday, October 19
-  IK Sirius              2–2   IF Elfsborg                            Monterrey              2–1   Pachuca
-  Västerås SK            1–0   Mjällby AIF                          Wednesday, October 21
-  Halmstads BK           0–1   Hammarby IF                            Guadalajara            1–0   Necaxa
-  Malmö FF               0–1   BK Häcken                              Atlético San Luis      2–1   Querétaro
-  Örgryte IS             4–2   GAIS                                   FC Juárez              0–1   Atlante
-Monday, October 19                                                    Tigres UANL            0–2   León
-  Degerfors IF           1–2   Kalmar FF                            Thursday, October 22
-Friday, October 23                                                    Atlas                  vs    América
-  IF Elfsborg            vs    Malmö FF                               Puebla                 vs    Monterrey
-  Västerås SK            vs    Halmstads BK                           Toluca                 vs    Tijuana
-Saturday, October 24                                                  Pachuca                vs    Cruz Azul
-  BK Häcken              vs    Degerfors IF                           Santos                 vs    Pumas UNAM
-  IK Sirius              vs    AIK                                  Saturday, October 24
-  Djurgården             vs    Örgryte IS                             Necaxa                 vs    FC Juárez
-  Kalmar FF              vs    IF Brommapojkarna                      Atlante                vs    Atlético San Luis
+Monday, October 19                                                  Wednesday, October 21
+  Degerfors IF           1–2   Kalmar FF                              Guadalajara            1–0   Necaxa
+Friday, October 23                                                    Atlético San Luis      2–1   Querétaro
+  IF Elfsborg            vs    Malmö FF                               FC Juárez              0–1   Atlante
+  Västerås SK            vs    Halmstads BK                           Tigres UANL            0–2   León
+Saturday, October 24                                                Thursday, October 22
+  BK Häcken              vs    Degerfors IF                           Atlas                  2–5   América
+  IK Sirius              vs    AIK                                    Puebla                 1–4   Monterrey
+  Djurgården             vs    Örgryte IS                             Toluca                 2–2   Tijuana
+  Kalmar FF              vs    IF Brommapojkarna                      Pachuca                1–2   Cruz Azul
+Sunday, October 25                                                    Santos                 2–0   Pumas UNAM
+  GAIS                   vs    IFK Göteborg                         Saturday, October 24
+  Mjällby AIF            vs    Hammarby IF                            Necaxa                 vs    FC Juárez
+                                                                      Atlante                vs    Atlético San Luis
                                                                       León                   vs    Toluca
+                                                                    Sunday, October 25
+                                                                      Monterrey              vs    Guadalajara
+                                                                      Pumas UNAM             vs    Tigres UANL
+                                                                      Atlas                  vs    Puebla
 
 
 
 Champions League                                                    Europa League
 Cty Squad                  MP   W   D   L  GF  GA  GD Pts           Cty Squad                  MP   W   D   L  GF  GA  GD Pts
 FRA Paris S-G               3   3   0   0  14   5   9   9           ITA Juventus                2   2   0   0   7   1   6   6
-ENG Liverpool               3   3   0   0  12   7   5   9           GER Bayer Leverkusen        2   2   0   0   6   0   6   6
-GER VfB Stuttgart           3   2   1   0   7   2   5   7           POR Benfica                 2   2   0   0   6   1   5   6
-ENG Aston Villa             2   2   0   0   9   2   7   6           TUR Besiktas                2   2   0   0   7   3   4   6
-ESP Barcelona               3   2   0   1  11   6   5   6           ENG AFC Bournemouth         2   2   0   0   5   1   4   6
-ENG Manchester City         3   2   0   1   9   5   4   6           CYP Omonia Nicosia          2   2   0   0   4   0   4   6
-POR Sporting CP             2   2   0   0   5   1   4   6           HUN Ferencvaros             2   2   0   0   5   2   3   6
-ENG Arsenal                 2   2   0   0   4   0   4   6           FRA Lyon                    2   2   0   0   5   3   2   6
-ESP Real Madrid             2   2   0   0   6   4   2   6           ENG Sunderland              2   2   0   0   3   1   2   6
-ESP Real Betis              2   2   0   0   6   4   2   6           GRE Olympiacos              2   2   0   0   3   1   2   6
-GER Borussia Dortmund       3   2   0   1   5   4   1   6           CZE Sparta Prague           2   1   1   0   5   2   3   4
-GER Bayern Munich           2   1   1   0   8   3   5   4           BEL Union St.-Gilloise      2   1   1   0   4   1   3   4
-ITA AS Roma                 3   1   1   1   8   5   3   4           FRA Stade Rennais           2   1   1   0   2   1   1   4
-UKR Shakhtar Donetsk        2   1   1   0   4   2   2   4           CRO Dinamo Zagreb           2   1   1   0   1   0   1   4
-ESP Atlético Madrid         3   1   1   1   4   3   1   4           ENG Crystal Palace          2   1   0   1   6   3   3   3
-NED PSV Eindhoven           3   1   1   1   2   2   0   4           ITA AC Milan                2   1   0   1   4   2   2   3
-ITA Como                    2   1   0   1   6   4   2   3           POL Jagiellonia Bialystok   2   1   0   1   4   3   1   3
-ENG Manchester United       2   1   0   1   4   2   2   3           GRE OFI Crete               2   1   0   1   3   2   1   3
+ENG Aston Villa             3   3   0   0  12   3   9   9           GER Bayer Leverkusen        2   2   0   0   6   0   6   6
+ENG Liverpool               3   3   0   0  12   7   5   9           POR Benfica                 2   2   0   0   6   1   5   6
+ESP Real Madrid             3   3   0   0  10   5   5   9           TUR Besiktas                2   2   0   0   7   3   4   6
+ESP Real Betis              3   3   0   0   7   4   3   9           ENG AFC Bournemouth         2   2   0   0   5   1   4   6
+GER VfB Stuttgart           3   2   1   0   7   2   5   7           CYP Omonia Nicosia          2   2   0   0   4   0   4   6
+ENG Arsenal                 3   2   1   0   6   2   4   7           HUN Ferencvaros             2   2   0   0   5   2   3   6
+ESP Barcelona               3   2   0   1  11   6   5   6           FRA Lyon                    2   2   0   0   5   3   2   6
+ITA Como                    3   2   0   1  10   5   5   6           ENG Sunderland              2   2   0   0   3   1   2   6
+ENG Manchester City         3   2   0   1   9   5   4   6           GRE Olympiacos              2   2   0   0   3   1   2   6
+BEL Club Brugge             3   2   0   1   9   6   3   6           CZE Sparta Prague           2   1   1   0   5   2   3   4
+POR Sporting CP             3   2   0   1   7   4   3   6           BEL Union St.-Gilloise      2   1   1   0   4   1   3   4
+GER Borussia Dortmund       3   2   0   1   5   4   1   6           FRA Stade Rennais           2   1   1   0   2   1   1   4
+GER Bayern Munich           3   1   2   0  10   5   5   5           CRO Dinamo Zagreb           2   1   1   0   1   0   1   4
+ITA AS Roma                 3   1   1   1   8   5   3   4           ENG Crystal Palace          2   1   0   1   6   3   3   3
+ESP Atlético Madrid         3   1   1   1   4   3   1   4           ITA AC Milan                2   1   0   1   4   2   2   3
+UKR Shakhtar Donetsk        3   1   1   1   4   3   1   4           POL Jagiellonia Bialystok   2   1   0   1   4   3   1   3
+NED PSV Eindhoven           3   1   1   1   2   2   0   4           GRE OFI Crete               2   1   0   1   3   2   1   3
 ESP Villarreal              3   1   0   2   8   8   0   3           POR Torreense               2   1   0   1   3   3   0   3
-BEL Club Brugge             2   1   0   1   6   6   0   3           NED AZ Alkmaar              2   1   0   1   2   2   0   3
-FRA Lens                    2   1   0   1   3   4  -1   3           AUT RB Salzburg             2   1   0   1   1   4  -3   3
+ITA Internazionale          3   1   0   2   5   6  -1   3           NED AZ Alkmaar              2   1   0   1   2   2   0   3
+ENG Manchester United       3   1   0   2   5   6  -1   3           AUT RB Salzburg             2   1   0   1   1   4  -3   3
 ITA Napoli                  3   1   0   2   5   7  -2   3           NOR Lillestrom              2   0   1   1   2   3  -1   1
-GER RB Leipzig              2   1   0   1   2   4  -2   3           ESP Real Sociedad           2   0   1   1   2   3  -1   1
-NED Feyenoord Rotterdam     2   1   0   1   4   7  -3   3           ISR Hapoel Be'er            2   0   1   1   1   2  -1   1
+TUR Galatasaray             3   1   0   2   6   9  -3   3           ESP Real Sociedad           2   0   1   1   2   3  -1   1
+AUT LASK Linz               3   1   0   2   6   9  -3   3           ISR Hapoel Be'er            2   0   1   1   1   2  -1   1
 AZE Sabah FK                3   1   0   2   3   6  -3   3           BUL Levski Sofia            2   0   1   1   1   2  -1   1
-NOR Bodo/Glimt              3   1   0   2   4   9  -5   3           AUT SK Sturm Graz           2   0   1   1   0   3  -3   1
-GRE AEK Athens              3   1   0   2   3   8  -5   3           NED NEC Nijmegen            2   0   1   1   1   6  -5   1
-TUR Fenerbahce              3   0   2   1   3   9  -6   2           BEL Anderlecht              2   0   0   2   1   3  -2   0
-NOR Viking FK               2   0   1   1   4   6  -2   1           ESP Celta Vigo              2   0   0   2   1   3  -2   0
-CZE Slavia Prague           3   0   1   2   4   7  -3   1           GER TSG Hoffenheim          2   0   0   2   2   5  -3   0
-ITA Internazionale          2   0   0   2   4   6  -2   0           FRA Marseille               2   0   0   2   1   5  -4   0
-AUT LASK Linz               2   0   0   2   3   7  -4   0           CZE Viktoria Plzen          2   0   0   2   1   5  -4   0
-POR FC Porto                3   0   0   3   2   6  -4   0           ARM Ararat-Armenia          2   0   0   2   2   7  -5   0
-FRA Lille                   2   0   0   2   2   6  -4   0           SCO Celtic                  2   0   0   2   2   7  -5   0
-TUR Galatasaray             2   0   0   2   2   7  -5   0           SVN NK Celje                2   0   0   2   0   5  -5   0
+NED Feyenoord Rotterdam     3   1   0   2   4   8  -4   3           AUT SK Sturm Graz           2   0   1   1   0   3  -3   1
+FRA Lens                    3   1   0   2   3   7  -4   3           NED NEC Nijmegen            2   0   1   1   1   6  -5   1
+NOR Bodo/Glimt              3   1   0   2   4   9  -5   3           BEL Anderlecht              2   0   0   2   1   3  -2   0
+GRE AEK Athens              3   1   0   2   3   8  -5   3           ESP Celta Vigo              2   0   0   2   1   3  -2   0
+GER RB Leipzig              3   1   0   2   3   8  -5   3           GER TSG Hoffenheim          2   0   0   2   2   5  -3   0
+TUR Fenerbahce              3   0   2   1   3   9  -6   2           FRA Marseille               2   0   0   2   1   5  -4   0
+CZE Slavia Prague           3   0   1   2   4   7  -3   1           CZE Viktoria Plzen          2   0   0   2   1   5  -4   0
+NOR Viking FK               3   0   1   2   5   9  -4   1           ARM Ararat-Armenia          2   0   0   2   2   7  -5   0
+POR FC Porto                3   0   0   3   2   6  -4   0           SCO Celtic                  2   0   0   2   2   7  -5   0
+FRA Lille                   3   0   0   3   4  10  -6   0           SVN NK Celje                2   0   0   2   0   5  -5   0
 SVK Slovan Bratislava       3   0   0   3   1  13 -12   0           POL Lech Poznan             2   0   0   2   0   8  -8   0
 
 Champions League Fixtures                                           Europa League Fixtures
@@ -244,14 +247,14 @@ Tuesday, October 20                                                 Thursday, Oc
   Paris S-G              4–2   Barcelona                              Union St.-Gilloise     vs    Hapoel Be'er
   VfB Stuttgart          1–1   Atlético Madrid                        AFC Bournemouth        vs    AC Milan
 Wednesday, October 21                                                 Besiktas               vs    Crystal Palace
-  Como                   vs    Manchester United                      Celtic                 vs    Celta Vigo
-  Lille                  vs    Galatasaray                            Jagiellonia Bialystok  vs    Anderlecht
-  Aston Villa            vs    Viking FK                              Lillestrom             vs    Real Sociedad
-  Bayern Munich          vs    Arsenal                                NK Celje               vs    RB Salzburg
-  Club Brugge            vs    Lens                                   Olympiacos             vs    Sparta Prague
-  Internazionale         vs    Shakhtar Donetsk                       Omonia Nicosia         vs    Benfica
-  Real Betis             vs    Feyenoord Rotterdam                    TSG Hoffenheim         vs    Lyon
-  Real Madrid            vs    RB Leipzig                             Viktoria Plzen         vs    Levski Sofia
-  Sporting CP            vs    LASK Linz                            
+  Como                   4–1   Manchester United                      Celtic                 vs    Celta Vigo
+  Lille                  2–4   Galatasaray                            Jagiellonia Bialystok  vs    Anderlecht
+  Aston Villa            3–1   Viking FK                              Lillestrom             vs    Real Sociedad
+  Bayern Munich          2–2   Arsenal                                NK Celje               vs    RB Salzburg
+  Club Brugge            3–0   Lens                                   Olympiacos             vs    Sparta Prague
+  Internazionale         1–0   Shakhtar Donetsk                       Omonia Nicosia         vs    Benfica
+  Real Betis             1–0   Feyenoord Rotterdam                    TSG Hoffenheim         vs    Lyon
+  Real Madrid            4–1   RB Leipzig                             Viktoria Plzen         vs    Levski Sofia
+  Sporting CP            2–3   LASK Linz                            
 
-Standings from ESPN.com 10.21.26
+Standings from ESPN.com 10.22.26
