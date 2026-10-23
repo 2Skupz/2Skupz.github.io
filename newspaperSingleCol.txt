@@ -20,13 +20,15 @@ Sporting KC            30   6   4  20  22 -39
 MLS West Fixtures
 -----------------
 Sunday, October 25
-  Colorado               vs    Vancouver Whitecaps
   Dallas                 vs    San Jose
   Houston                vs    Minnesota
-  Real Salt Lake         vs    St. Louis
   Sporting KC            vs    Austin
+  Colorado               vs    Vancouver Whitecaps
+  Real Salt Lake         vs    St. Louis
   Portland               vs    Charlotte
   San Diego              vs    Seattle
+Monday, October 26
+  LAFC                   vs    Galaxy
 
 
 MLS East
@@ -86,8 +88,6 @@ Halmstads BK           24   3   5  16  14 -29
 
 Allsvenskan Fixtures
 --------------------
-Monday, October 19
-  Degerfors IF           1–2   Kalmar FF
 Friday, October 23
   IF Elfsborg            vs    Malmö FF
   Västerås SK            vs    Halmstads BK
@@ -165,8 +165,6 @@ Sunderland              7   1   1   5   4  -8
 
 Premier League Fixtures
 -----------------------
-Monday, October 19
-  Tottenham Hotspur      3–1   Coventry City
 Friday, October 23
   Ipswich Town           vs    Nottingham Forest
 Saturday, October 24
@@ -246,9 +244,6 @@ Venezia                 7   1   0   6   3 -10
 
 Serie A Fixtures
 ----------------
-Monday, October 19
-  Monza                  4–0   Cagliari
-  Parma                  0–3   Torino
 Friday, October 23
   Torino                 vs    Monza
 Saturday, October 24
@@ -290,8 +285,6 @@ Málaga                  9   0   4   5   4 -12
 
 La Liga Fixtures
 ----------------
-Monday, October 19
-  Getafe                 1–1   Rayo Vallecano
 Wednesday, October 21
   Levante                3–1   Athletic Club
 Friday, October 23
@@ -306,6 +299,8 @@ Sunday, October 25
   Celta Vigo             vs    Real Betis
   Real Sociedad          vs    Levante
   Barcelona              vs    Real Madrid
+Monday, October 26
+  Sevilla                vs    Osasuna
 
 
 Scottish Premiership
@@ -379,6 +374,10 @@ Sunday, October 25
   Monterrey              vs    Guadalajara
   Pumas UNAM             vs    Tigres UANL
   Atlas                  vs    Puebla
+Monday, October 26
+  Querétaro              vs    Cruz Azul
+  América                vs    Pachuca
+  Tijuana                vs    Santos
 
 
 Champions League
@@ -448,64 +447,64 @@ Wednesday, October 21
 Europa League
 -------------
 Cty Squad                  MP   W   D   L  Pt  GD
-ITA Juventus                2   2   0   0   6   6
-GER Bayer Leverkusen        2   2   0   0   6   6
-POR Benfica                 2   2   0   0   6   5
-TUR Besiktas                2   2   0   0   6   4
-ENG AFC Bournemouth         2   2   0   0   6   4
-CYP Omonia Nicosia          2   2   0   0   6   4
-HUN Ferencvaros             2   2   0   0   6   3
-FRA Lyon                    2   2   0   0   6   2
-ENG Sunderland              2   2   0   0   6   2
-GRE Olympiacos              2   2   0   0   6   2
-CZE Sparta Prague           2   1   1   0   4   3
-BEL Union St.-Gilloise      2   1   1   0   4   3
-FRA Stade Rennais           2   1   1   0   4   1
-CRO Dinamo Zagreb           2   1   1   0   4   1
-ENG Crystal Palace          2   1   0   1   3   3
-ITA AC Milan                2   1   0   1   3   2
-POL Jagiellonia Bialystok   2   1   0   1   3   1
-GRE OFI Crete               2   1   0   1   3   1
-POR Torreense               2   1   0   1   3   0
-NED AZ Alkmaar              2   1   0   1   3   0
-AUT RB Salzburg             2   1   0   1   3  -3
-NOR Lillestrom              2   0   1   1   1  -1
-ESP Real Sociedad           2   0   1   1   1  -1
-ISR Hapoel Be'er            2   0   1   1   1  -1
-BUL Levski Sofia            2   0   1   1   1  -1
-AUT SK Sturm Graz           2   0   1   1   1  -3
-NED NEC Nijmegen            2   0   1   1   1  -5
-BEL Anderlecht              2   0   0   2   0  -2
-ESP Celta Vigo              2   0   0   2   0  -2
-GER TSG Hoffenheim          2   0   0   2   0  -3
-FRA Marseille               2   0   0   2   0  -4
-CZE Viktoria Plzen          2   0   0   2   0  -4
-ARM Ararat-Armenia          2   0   0   2   0  -5
-SCO Celtic                  2   0   0   2   0  -5
-SVN NK Celje                2   0   0   2   0  -5
-POL Lech Poznan             2   0   0   2   0  -8
+POR Benfica                 3   3   0   0   9   8
+GER Bayer Leverkusen        3   3   0   0   9   8
+ENG AFC Bournemouth         3   3   0   0   9   7
+HUN Ferencvaros             3   3   0   0   9   6
+GRE Olympiacos              3   3   0   0   9   3
+BEL Union St.-Gilloise      3   2   1   0   7   7
+ITA Juventus                3   2   1   0   7   6
+TUR Besiktas                3   2   1   0   7   4
+ENG Sunderland              3   2   1   0   7   2
+NED AZ Alkmaar              3   2   0   1   6   4
+CYP Omonia Nicosia          3   2   0   1   6   1
+FRA Lyon                    3   2   0   1   6  -1
+FRA Stade Rennais           3   1   2   0   5   1
+ESP Real Sociedad           3   1   1   1   4   5
+ENG Crystal Palace          3   1   1   1   4   3
+CZE Sparta Prague           3   1   1   1   4   2
+BUL Levski Sofia            3   1   1   1   4   0
+CRO Dinamo Zagreb           3   1   1   1   4  -1
+AUT SK Sturm Graz           3   1   1   1   4  -2
+NED NEC Nijmegen            3   1   1   1   4  -3
+AUT RB Salzburg             3   1   1   1   4  -3
+BEL Anderlecht              3   1   0   2   3   1
+GER TSG Hoffenheim          3   1   0   2   3   0
+ITA AC Milan                3   1   0   2   3  -1
+ESP Celta Vigo              3   1   0   2   3  -1
+GRE OFI Crete               3   1   0   2   3  -1
+POL Jagiellonia Bialystok   3   1   0   2   3  -2
+POR Torreense               3   1   0   2   3  -3
+SVN NK Celje                3   0   1   2   1  -5
+ISR Hapoel Be'er            3   0   1   2   1  -5
+NOR Lillestrom              3   0   1   2   1  -7
+POL Lech Poznan             3   0   1   2   1  -8
+CZE Viktoria Plzen          3   0   0   3   0  -5
+FRA Marseille               3   0   0   3   0  -5
+SCO Celtic                  3   0   0   3   0  -6
+ARM Ararat-Armenia          3   0   0   3   0  -9
 
 Europa League Fixtures
 ----------------------
 Thursday, October 22
-  Ararat-Armenia         vs    AZ Alkmaar
-  Dinamo Zagreb          vs    NEC Nijmegen
-  Ferencvaros            vs    Torreense
-  Juventus               vs    Stade Rennais
-  Lech Poznan            vs    Sunderland
-  OFI Crete              vs    Bayer Leverkusen
-  SK Sturm Graz          vs    Marseille
-  Union St.-Gilloise     vs    Hapoel Be'er
-  AFC Bournemouth        vs    AC Milan
-  Besiktas               vs    Crystal Palace
-  Celtic                 vs    Celta Vigo
-  Jagiellonia Bialystok  vs    Anderlecht
-  Lillestrom             vs    Real Sociedad
-  NK Celje               vs    RB Salzburg
-  Olympiacos             vs    Sparta Prague
-  Omonia Nicosia         vs    Benfica
-  TSG Hoffenheim         vs    Lyon
-  Viktoria Plzen         vs    Levski Sofia
+  Ararat-Armenia         0–4   AZ Alkmaar
+  Dinamo Zagreb          2–4   NEC Nijmegen
+  Ferencvaros            4–1   Torreense
+  Juventus               2–2   Stade Rennais
+  Lech Poznan            1–1   Sunderland
+  OFI Crete              0–2   Bayer Leverkusen
+  SK Sturm Graz          1–0   Marseille
+  Union St.-Gilloise     4–0   Hapoel Be'er
+  AFC Bournemouth        3–0   AC Milan
+  Besiktas               2–2   Crystal Palace
+  Celtic                 1–2   Celta Vigo
+  Jagiellonia Bialystok  0–3   Anderlecht
+  Lillestrom             0–6   Real Sociedad
+  NK Celje               2–2   RB Salzburg
+  Olympiacos             1–0   Sparta Prague
+  Omonia Nicosia         1–4   Benfica
+  TSG Hoffenheim         3–0   Lyon
+  Viktoria Plzen         1–2   Levski Sofia
 
 
-Standings from ESPN.com 10.22.26
+Standings from ESPN.com 10.23.26
