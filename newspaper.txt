@@ -64,19 +64,19 @@ Sunderland              8   1   2   5   6  14  -8   5
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Friday, October 23                                                  Saturday, October 24
-  Ipswich Town           1–1   Nottingham Forest                      Dundee United          3–2   Aberdeen
-Saturday, October 24                                                  Falkirk                3–0   Kilmarnock
-  Aston Villa            2–1   Manchester City                        Rangers                4–0   St Johnstone
-  Arsenal                2–0   Everton                                St Mirren              2–1   Dundee
-  Coventry City          0–1   Fulham                               Sunday, October 25
-  Chelsea                0–2   Tottenham Hotspur                      Hibernian              1–2   Celtic
-Sunday, October 25                                                    Motherwell             0–2   Heart of Midlothian
-  Crystal Palace         0–2   Newcastle United                     Wednesday, October 28
-  Hull City              1–1   Brentford                              Aberdeen               vs    Falkirk
-  Liverpool              2–0   Brighton & Hove Albion                 Celtic                 vs    Dundee United
-  Manchester United      0–3   AFC Bournemouth                        Dundee                 vs    Kilmarnock
-  Sunderland             0–0   Leeds United                           St Johnstone           vs    Motherwell
+Saturday, October 24                                                Saturday, October 24
+  Aston Villa            2–1   Manchester City                        Dundee United          3–2   Aberdeen
+  Arsenal                2–0   Everton                                Falkirk                3–0   Kilmarnock
+  Coventry City          0–1   Fulham                                 Rangers                4–0   St Johnstone
+  Chelsea                0–2   Tottenham Hotspur                      St Mirren              2–1   Dundee
+Sunday, October 25                                                  Sunday, October 25
+  Crystal Palace         0–2   Newcastle United                       Hibernian              1–2   Celtic
+  Hull City              1–1   Brentford                              Motherwell             0–2   Heart of Midlothian
+  Liverpool              2–0   Brighton & Hove Albion               Wednesday, October 28
+  Manchester United      0–3   AFC Bournemouth                        Aberdeen               vs    Falkirk
+  Sunderland             0–0   Leeds United                           Celtic                 vs    Dundee United
+                                                                      Dundee                 vs    Kilmarnock
+                                                                      St Johnstone           vs    Motherwell
                                                                       St Mirren              vs    Hibernian
                                                                       Heart of Midlothian    vs    Rangers
 
@@ -87,13 +87,13 @@ Atlético Madrid        10   8   1   1  20   8  12  25               Lazio      
 Real Madrid            10   8   0   2  25  10  15  24               AS Roma                 8   5   3   0  19   6  13  18
 Real Betis             10   6   2   2  16  14   2  20               AC Milan                8   5   3   0  16   7   9  18
 Real Sociedad          10   6   1   3  19  18   1  19               Como                    8   5   2   1  14   7   7  17
-Sevilla                 9   4   2   3  14  16  -2  14               Frosinone               8   4   2   2  17  13   4  14
+Sevilla                10   5   2   3  16  16   0  17               Frosinone               8   4   2   2  17  13   4  14
 Alavés                 10   3   3   4  14  11   3  12               Juventus                8   4   2   2  11   8   3  14
 Athletic Club           9   3   3   3  12   9   3  12               Torino                  8   4   1   3  13  11   2  13
 Celta Vigo             10   2   6   2  10   7   3  12               Cagliari                8   4   1   3   6   9  -3  13
 Villarreal             10   3   3   4  15  14   1  12               Napoli                  8   3   2   3  13  10   3  11
 Deportivo              10   2   5   3  13  13   0  11               Atalanta                8   3   1   4  14  15  -1  10
-Osasuna                 9   3   2   4  10  18  -8  11               Lecce                   8   3   0   5   9  14  -5   9
+Osasuna                10   3   2   5  10  20 -10  11               Lecce                   8   3   0   5   9  14  -5   9
 Racing Santander       10   3   2   5  15  26 -11  11               Bologna                 8   2   2   4   8  10  -2   8
 Levante                10   2   4   4  16  19  -3  10               Sassuolo                8   2   2   4  12  16  -4   8
 Elche                  10   2   4   4  14  17  -3  10               Monza                   8   2   1   5  15  18  -3   7
@@ -105,8 +105,6 @@ Málaga                 10   0   5   5   7  19 -12   5               Venezia    
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Friday, October 23                                                  Friday, October 23
-  Alavés                 1–1   Málaga                                 Torino                 3–2   Monza
 Saturday, October 24                                                Saturday, October 24
   Rayo Vallecano         0–3   Elche                                  Cagliari               0–2   Bologna
   Racing Santander       2–1   Espanyol                               Como                   2–0   Sassuolo
@@ -118,9 +116,9 @@ Sunday, October 25                                                  Sunday, Octo
   Real Sociedad          2–1   Levante                                Genoa                  1–0   Venezia
   Barcelona              1–2   Real Madrid                            Lecce                  0–2   Juventus
 Monday, October 26                                                    Udinese                0–2   AC Milan
-  Sevilla                vs    Osasuna                              Tuesday, October 27
-                                                                      Sassuolo               vs    Lazio
-                                                                      AS Roma                vs    Cagliari
+  Sevilla                2–0   Osasuna                              Tuesday, October 27
+Friday, October 30                                                    Sassuolo               vs    Lazio
+  Villarreal             vs    Espanyol                               AS Roma                vs    Cagliari
                                                                       Torino                 vs    Como
                                                                     Wednesday, October 28
                                                                       AC Milan               vs    Bologna
@@ -134,11 +132,11 @@ Monday, October 26                                                    Udinese   
 
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
-Bayern Munich           7   5   2   0  25   6  19  17               Stade Rennais           8   5   1   2  18  14   4  16
-Borussia Dortmund       7   5   2   0  12   4   8  17               Lille                   8   4   3   1  11   6   5  15
-SC Freiburg             7   4   1   2  16   9   7  13               AS Monaco               8   4   3   1  11   7   4  15
-Bayer Leverkusen        7   4   1   2  16  12   4  13               Lyon                    7   4   2   1  13   5   8  14
-RB Leipzig              7   4   0   3  20  11   9  12               Paris S-G               7   4   2   1  14   9   5  14
+Bayern Munich           7   5   2   0  25   6  19  17               Paris S-G               8   5   2   1  16   9   7  17
+Borussia Dortmund       7   5   2   0  12   4   8  17               Stade Rennais           8   5   1   2  18  14   4  16
+SC Freiburg             7   4   1   2  16   9   7  13               Lille                   8   4   3   1  11   6   5  15
+Bayer Leverkusen        7   4   1   2  16  12   4  13               AS Monaco               8   4   3   1  11   7   4  15
+RB Leipzig              7   4   0   3  20  11   9  12               Lyon                    8   4   2   2  13   7   6  14
 Werder Bremen           7   3   3   1  15  14   1  12               Paris FC                8   4   2   2  13   9   4  14
 Mainz                   7   3   1   3  16  13   3  10               Lens                    8   4   1   3  16  12   4  13
 SV Elversberg           7   3   1   3  12  15  -3  10               Marseille               8   4   0   4  18  13   5  12
@@ -155,8 +153,6 @@ M'gladbach              7   1   0   6  11  22 -11   3               Le Havre AC 
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Friday, October 23                                                  Friday, October 23
-  VfB Stuttgart          2–3   M'gladbach                             Brest                  1–2   Nice
 Saturday, October 24                                                Saturday, October 24
   FC Augsburg            1–1   1. FC Union Berlin                     Lens                   2–1   Paris FC
   FC Cologne             0–0   Schalke 04                           Sunday, October 25
@@ -167,7 +163,11 @@ Saturday, October 24                                                Saturday, Oc
 Sunday, October 25                                                    Stade Rennais          3–0   Strasbourg
   TSG Hoffenheim         3–0   Bayer Leverkusen                       Toulouse               0–0   Troyes
   SC Freiburg            1–3   Bayern Munich                        Monday, October 26
-                                                                      Paris S-G              vs    Lyon
+Friday, October 30                                                    Paris S-G              2–0   Lyon
+  SV Elversberg          vs    Mainz                                Friday, October 30
+                                                                      Le Havre AC            vs    Paris S-G
+                                                                      Nice                   vs    Stade Rennais
+                                                                      Lille                  vs    Lens
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -192,21 +192,18 @@ Halmstads BK           25   4   5  16  18  46 -28  17               Atlante     
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Friday, October 23                                                  Saturday, October 24
-  IF Elfsborg            0–0   Malmö FF                               Necaxa                 1–1   FC Juárez
-  Västerås SK            1–2   Halmstads BK                           Atlante                0–1   Atlético San Luis
-Saturday, October 24                                                  León                   1–1   Toluca
-  BK Häcken              4–0   Degerfors IF                         Sunday, October 25
-  IK Sirius              1–2   AIK                                    Monterrey              0–1   Guadalajara
-  Djurgården             2–2   Örgryte IS                             Pumas UNAM             1–1   Tigres UANL
-  Kalmar FF              0–3   IF Brommapojkarna                      Atlas                  4–3   Puebla
-Sunday, October 25                                                  Monday, October 26
-  GAIS                   1–1   IFK Göteborg                           Querétaro              1–3   Cruz Azul
-  Mjällby AIF            0–2   Hammarby IF                            América                1–2   Pachuca
-Tuesday, October 27                                                   Tijuana                4–1   Santos
-  AIK                    vs    IF Elfsborg                          Thursday, October 29
-Wednesday, October 28                                                 América                vs    Tijuana
-  Degerfors IF           vs    Västerås SK                          
+Saturday, October 24                                                Saturday, October 24
+  BK Häcken              4–0   Degerfors IF                           León                   1–1   Toluca
+  IK Sirius              1–2   AIK                                  Sunday, October 25
+  Djurgården             2–2   Örgryte IS                             Monterrey              0–1   Guadalajara
+  Kalmar FF              0–3   IF Brommapojkarna                      Pumas UNAM             1–1   Tigres UANL
+Sunday, October 25                                                    Atlas                  4–3   Puebla
+  GAIS                   1–1   IFK Göteborg                         Monday, October 26
+  Mjällby AIF            0–2   Hammarby IF                            Querétaro              1–3   Cruz Azul
+Tuesday, October 27                                                   América                1–2   Pachuca
+  AIK                    vs    IF Elfsborg                            Tijuana                4–1   Santos
+Wednesday, October 28                                               Thursday, October 29
+  Degerfors IF           vs    Västerås SK                            América                vs    Tijuana
   Halmstads BK           vs    Malmö FF                             
   IF Brommapojkarna      vs    BK Häcken                            
   IFK Göteborg           vs    Djurgården                           
@@ -257,4 +254,4 @@ FRA Lille                   3   0   0   3   4  10  -6   0           SCO Celtic  
 SVK Slovan Bratislava       3   0   0   3   1  13 -12   0           ARM Ararat-Armenia          3   0   0   3   2  11  -9   0
 
 
-Standings from ESPN.com 10.26.26
+Standings from ESPN.com 10.27.26
