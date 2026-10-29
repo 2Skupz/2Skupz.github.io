@@ -4,10 +4,10 @@ NHL Standings - 2 Points
 --------------------------------------------------------------------------------
 Pacific                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
+Edmonton               13    7    2    4    13    18
 Vegas                  14    7    4    3    12    17
-Edmonton               12    6    2    4     9    16
-SEATTLE                12    5    4    3     3    13
-Calgary                11    5    6    0   -13    10
+SEATTLE                13    6    4    3     4    15
+Calgary                12    5    7    0   -17    10
 Anaheim                12    4    6    2    -6    10
 San Jose               13    1    6    6    -8     8
 Los Angeles            11    2    6    3    -9     7
@@ -17,8 +17,8 @@ Vancouver              14    1   10    3   -22     5
 Central                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Minnesota              14    9    3    2    13    20
+Colorado               13    7    5    1    12    15
 Utah                   13    7    5    1     4    15
-Colorado               12    6    5    1     9    13
 Nashville              12    4    3    5    -5    13
 Dallas                 12    4    4    4     8    12
 St. Louis              12    5    6    1    -2    11
@@ -30,10 +30,10 @@ Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               14    9    2    3    19    21
 NY Rangers             14    7    6    1     2    15
-New Jersey             12    6    4    2     8    14
+New Jersey             13    6    5    2     5    14
+Washington             11    6    4    1     5    13
 NY Islanders           12    5    4    3     4    13
-Washington             10    5    4    1     2    11
-Philadelphia           14    3    7    4   -19    10
+Philadelphia           15    3    8    4   -22    10
 Pittsburgh             12    2    6    4     0     8
 Columbus               10    1    5    4    -7     6
 
@@ -41,7 +41,7 @@ Columbus               10    1    5    4    -7     6
 Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Boston                 13    8    3    2    21    18
-Toronto                14    6    5    3     6    15
+Toronto                15    6    6    3     5    15
 Tampa Bay              11    6    3    2     4    14
 Ottawa                 13    6    5    2     1    14
 Florida                13    5    4    4     2    14
