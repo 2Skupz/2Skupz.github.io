@@ -8,44 +8,44 @@ Edmonton               13    7    2    4    13    18
 Vegas                  14    7    4    3    12    17
 SEATTLE                13    6    4    3     4    15
 Calgary                12    5    7    0   -17    10
-Anaheim                12    4    6    2    -6    10
-San Jose               13    1    6    6    -8     8
-Los Angeles            11    2    6    3    -9     7
-Vancouver              14    1   10    3   -22     5
+Anaheim                13    4    7    2    -7    10
+San Jose               14    2    6    6    -7    10
+Los Angeles            12    2    6    4    -8     8
+Vancouver              15    1   11    3   -23     5
 
 --------------------------------------------------------------------------------
 Central                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Minnesota              14    9    3    2    13    20
+Minnesota              15    9    3    3    12    21
+Utah                   14    7    5    2     5    16
 Colorado               13    7    5    1    12    15
-Utah                   13    7    5    1     4    15
-Nashville              12    4    3    5    -5    13
-Dallas                 12    4    4    4     8    12
-St. Louis              12    5    6    1    -2    11
-Winnipeg               12    4    5    3    -8    11
-Chicago                12    3    8    1   -18     7
+St. Louis              13    6    6    1     1    13
+Nashville              13    4    4    5    -6    13
+Dallas                 13    4    5    4     5    12
+Winnipeg               13    4    6    3   -10    11
+Chicago                13    3    9    1   -21     7
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Carolina               14    9    2    3    19    21
+Carolina               15   10    2    3    20    23
+Washington             12    7    4    1     6    15
 NY Rangers             14    7    6    1     2    15
 New Jersey             13    6    5    2     5    14
-Washington             11    6    4    1     5    13
-NY Islanders           12    5    4    3     4    13
+NY Islanders           13    5    4    4     5    14
 Philadelphia           15    3    8    4   -22    10
-Pittsburgh             12    2    6    4     0     8
-Columbus               10    1    5    4    -7     6
+Pittsburgh             13    2    6    5    -1     9
+Columbus               11    1    6    4    -8     6
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Boston                 13    8    3    2    21    18
+Boston                 14    8    4    2    18    18
+Tampa Bay              12    7    3    2     6    16
+Montreal               13    5    3    5     5    15
+Ottawa                 14    6    5    3     0    15
 Toronto                15    6    6    3     5    15
-Tampa Bay              11    6    3    2     4    14
-Ottawa                 13    6    5    2     1    14
 Florida                13    5    4    4     2    14
-Montreal               12    4    3    5     2    13
-Detroit                12    3    4    5    -4    11
-Buffalo                12    3    4    5    -8    11
+Detroit                13    4    4    5    -1    13
+Buffalo                13    4    4    5    -7    13
 
