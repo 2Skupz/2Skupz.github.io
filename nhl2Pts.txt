@@ -5,9 +5,9 @@ NHL Standings - 2 Points
 Pacific                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Edmonton               13    7    2    4    13    18
-Vegas                  14    7    4    3    12    17
-SEATTLE                13    6    4    3     4    15
-Calgary                12    5    7    0   -17    10
+Vegas                  15    7    5    3     9    17
+SEATTLE                14    6    5    3     0    15
+Calgary                13    6    7    0   -13    12
 Anaheim                13    4    7    2    -7    10
 San Jose               14    2    6    6    -7    10
 Los Angeles            12    2    6    4    -8     8
@@ -22,16 +22,16 @@ Colorado               13    7    5    1    12    15
 St. Louis              13    6    6    1     1    13
 Nashville              13    4    4    5    -6    13
 Dallas                 13    4    5    4     5    12
-Winnipeg               13    4    6    3   -10    11
+Winnipeg               14    4    7    3   -13    11
 Chicago                13    3    9    1   -21     7
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               15   10    2    3    20    23
+New Jersey             14    7    5    2     8    16
 Washington             12    7    4    1     6    15
 NY Rangers             14    7    6    1     2    15
-New Jersey             13    6    5    2     5    14
 NY Islanders           13    5    4    4     5    14
 Philadelphia           15    3    8    4   -22    10
 Pittsburgh             13    2    6    5    -1     9
@@ -42,10 +42,10 @@ Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Boston                 14    8    4    2    18    18
 Tampa Bay              12    7    3    2     6    16
+Florida                14    6    4    4     5    16
 Montreal               13    5    3    5     5    15
 Ottawa                 14    6    5    3     0    15
 Toronto                15    6    6    3     5    15
-Florida                13    5    4    4     2    14
 Detroit                13    4    4    5    -1    13
 Buffalo                13    4    4    5    -7    13
 

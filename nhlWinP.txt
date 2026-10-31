@@ -5,10 +5,10 @@ NHL Standings - Win Percentage
 Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Edmonton               13    9    4     .692    --
-Vegas                  14    9    5     .643   0.5
-SEATTLE                13    8    5     .615   1.0
+Vegas                  15    9    6     .600   1.0
+SEATTLE                14    8    6     .571   1.5
 San Jose               14    7    7     .500   2.5
-Calgary                12    5    7     .417   3.5
+Calgary                13    6    7     .462   3.0
 Anaheim                13    5    8     .385   4.0
 Los Angeles            12    4    8     .333   4.5
 Vancouver              15    3   12     .200   7.0
@@ -22,15 +22,15 @@ Colorado               13    7    6     .538   1.5
 Dallas                 13    7    6     .538   1.5
 St. Louis              13    6    7     .462   2.5
 Nashville              13    4    9     .308   4.5
-Winnipeg               13    4    9     .308   4.5
 Chicago                13    4    9     .308   4.5
+Winnipeg               14    4   10     .286   5.0
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Carolina               15   11    4     .733    --
 Washington             12    8    4     .667   1.5
-New Jersey             13    8    5     .615   2.0
+New Jersey             14    9    5     .643   1.5
 NY Islanders           13    7    6     .538   3.0
 NY Rangers             14    7    7     .500   3.5
 Columbus               11    5    6     .455   4.0
@@ -43,8 +43,8 @@ Atlantic               GP    W    L     WinP    GB
 Tampa Bay              12    8    4     .667    --
 Boston                 14    9    5     .643    --
 Montreal               13    8    5     .615   0.5
+Florida                14    8    6     .571   1.0
 Ottawa                 14    8    6     .571   1.0
-Florida                13    7    6     .538   1.5
 Toronto                15    7    8     .467   2.5
 Detroit                13    6    7     .462   2.5
 Buffalo                13    6    7     .462   2.5
