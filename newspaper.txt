@@ -38,14 +38,14 @@ Brighton & Hove Albion  9   6   1   2  24   7  17  19               Heart of Mid
 Chelsea                 9   5   1   3  19  15   4  16               Falkirk                12   5   3   4  15  12   3  18
 Liverpool               9   4   3   2  11   9   2  15               Dundee                 11   5   2   4  17  13   4  17
 Brentford               9   3   5   1  16   9   7  14               Dundee United          11   4   4   3  16  16   0  16
-AFC Bournemouth         9   3   3   3  14  13   1  12               St Johnstone           12   3   5   4  15  19  -4  14
-Tottenham Hotspur       9   3   3   3  10  10   0  12               St Mirren              12   4   2   6  12  20  -8  14
-Aston Villa             9   3   3   3  10  13  -3  12               Motherwell             12   3   3   6  14  20  -6  12
-Hull City               9   2   5   2  11  10   1  11               Aberdeen               11   3   2   6  12  14  -2  11
-Leeds United            9   2   5   2   9   8   1  11               Kilmarnock             12   2   3   7  13  28 -15   9
-Newcastle United        8   3   2   3  12  14  -2  11               Hibernian              11   2   2   7  11  17  -6   8
+Everton                 9   3   4   2   9   9   0  13               St Johnstone           12   3   5   4  15  19  -4  14
+AFC Bournemouth         9   3   3   3  14  13   1  12               St Mirren              12   4   2   6  12  20  -8  14
+Tottenham Hotspur       9   3   3   3  10  10   0  12               Motherwell             12   3   3   6  14  20  -6  12
+Aston Villa             9   3   3   3  10  13  -3  12               Aberdeen               11   3   2   6  12  14  -2  11
+Hull City               9   2   5   2  11  10   1  11               Kilmarnock             12   2   3   7  13  28 -15   9
+Leeds United            9   2   5   2   9   8   1  11               Hibernian              11   2   2   7  11  17  -6   8
+Newcastle United        9   3   2   4  12  15  -3  11               
 Ipswich Town            9   3   2   4  14  18  -4  11               
-Everton                 8   2   4   2   8   9  -1  10               
 Fulham                  9   2   3   4   9  11  -2   9               
 Coventry City           9   3   0   6   9  16  -7   9               
 Manchester United       9   1   4   4  10  15  -5   7               
@@ -67,7 +67,9 @@ Saturday, October 31                                                Saturday, Oc
 Sunday, November 01                                                 
   Liverpool              0–1   Arsenal                              
 Monday, November 02                                                 
-  Newcastle United       vs    Everton                              
+  Newcastle United       0–1   Everton                              
+Friday, November 06                                                 
+  Everton                vs    Coventry City                        
 
 La Liga                                                             Serie A
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -78,36 +80,37 @@ Real Betis             11   7   2   2  18  15   3  23               Como        
 Real Sociedad          11   6   1   4  20  20   0  19               AC Milan               10   6   3   1  21  12   9  21
 Sevilla                11   5   2   4  17  19  -2  17               Frosinone              10   6   2   2  24  14  10  20
 Athletic Club          10   4   3   3  14  10   4  15               Juventus               10   5   2   3  13  10   3  17
-Villarreal             11   3   3   5  15  15   0  12               Napoli                 10   4   2   4  17  13   4  14
-Celta Vigo             11   2   6   3  10  10   0  12               Bologna                10   4   2   4  14  13   1  14
-Alavés                 11   3   3   5  15  17  -2  12               Torino                 10   4   1   5  14  16  -2  13
-Rayo Vallecano         10   3   3   4  15  20  -5  12               Genoa                  10   4   1   5  10  14  -4  13
-Getafe                 11   3   3   5   8  16  -8  12               Cagliari               10   4   1   5   9  15  -6  13
-Deportivo              10   2   5   3  13  13   0  11               Atalanta                9   3   2   4  16  17  -1  11
+Deportivo              11   3   5   3  15  14   1  14               Napoli                 10   4   2   4  17  13   4  14
+Villarreal             11   3   3   5  15  15   0  12               Bologna                10   4   2   4  14  13   1  14
+Celta Vigo             11   2   6   3  10  10   0  12               Torino                 10   4   1   5  14  16  -2  13
+Alavés                 11   3   3   5  15  17  -2  12               Genoa                  10   4   1   5  10  14  -4  13
+Rayo Vallecano         10   3   3   4  15  20  -5  12               Cagliari               10   4   1   5   9  15  -6  13
+Getafe                 11   3   3   5   8  16  -8  12               Atalanta               10   3   2   5  16  20  -4  11
 Espanyol               11   3   2   6  13  14  -1  11               Lecce                  10   3   0   7  11  21 -10   9
-Osasuna                10   3   2   5  10  20 -10  11               Sassuolo                9   2   2   5  14  22  -8   8
-Racing Santander       11   3   2   6  15  29 -14  11               Monza                  10   2   1   7  17  24  -7   7
-Elche                  11   2   4   5  14  18  -4  10               Fiorentina              9   1   2   6  11  21 -10   5
-Levante                11   2   4   5  16  21  -5  10               Parma                   9   1   2   6   5  15 -10   5
+Osasuna                11   3   2   6  11  22 -11  11               Parma                  10   2   2   6   8  15  -7   8
+Racing Santander       11   3   2   6  15  29 -14  11               Fiorentina             10   2   2   6  15  23  -8   8
+Elche                  11   2   4   5  14  18  -4  10               Sassuolo               10   2   2   6  16  26 -10   8
+Levante                11   2   4   5  16  21  -5  10               Monza                  10   2   1   7  17  24  -7   7
 Valencia               11   2   3   6   8  17  -9   9               Udinese                10   1   2   7  11  23 -12   5
 Málaga                 11   0   5   6   8  21 -13   5               Venezia                10   1   0   9   6  20 -14   3
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Friday, October 30                                                  Saturday, October 31
-  Villarreal             0–1   Espanyol                               Bologna                2–1   Monza
-Saturday, October 31                                                  Udinese                2–5   AS Roma
-  Levante                0–2   Atlético Madrid                        AC Milan               3–1   Internazionale
-  Rayo Vallecano         3–0   Celta Vigo                           Sunday, November 01
-  Real Betis             2–1   Málaga                                 Como                   1–0   Venezia
-  Barcelona              6–1   Alavés                                 Frosinone              2–0   Torino
-Sunday, November 01                                                   Lazio                  2–1   Cagliari
-  Getafe                 3–1   Sevilla                                Lecce                  1–2   Genoa
-  Racing Santander       0–3   Real Madrid                            Juventus               2–0   Napoli
-  Elche                  0–1   Valencia                             Monday, November 02
-  Athletic Club          2–1   Real Sociedad                          Sassuolo               vs    Fiorentina
-Monday, November 02                                                   Atalanta               vs    Parma
-  Deportivo              vs    Osasuna                              
+Saturday, October 31                                                Saturday, October 31
+  Levante                0–2   Atlético Madrid                        Bologna                2–1   Monza
+  Rayo Vallecano         3–0   Celta Vigo                             Udinese                2–5   AS Roma
+  Real Betis             2–1   Málaga                                 AC Milan               3–1   Internazionale
+  Barcelona              6–1   Alavés                               Sunday, November 01
+Sunday, November 01                                                   Como                   1–0   Venezia
+  Getafe                 3–1   Sevilla                                Frosinone              2–0   Torino
+  Racing Santander       0–3   Real Madrid                            Lazio                  2–1   Cagliari
+  Elche                  0–1   Valencia                               Lecce                  1–2   Genoa
+  Athletic Club          2–1   Real Sociedad                          Juventus               2–0   Napoli
+Monday, November 02                                                 Monday, November 02
+  Deportivo              2–1   Osasuna                                Sassuolo               2–4   Fiorentina
+Friday, November 06                                                   Atalanta               0–3   Parma
+  Sevilla                vs    Alavés                               Friday, November 06
+                                                                      Venezia                vs    Udinese
 
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -120,11 +123,11 @@ Bayer Leverkusen        8   4   1   3  18  16   2  13               Marseille   
 SV Elversberg           8   4   1   3  16  16   0  13               AS Monaco               9   4   3   2  12  10   2  15
 E. Frankfurt            8   3   2   3  13  18  -5  11               Nice                    9   4   2   3  13  12   1  14
 Mainz                   8   3   1   4  17  17   0  10               Lens                    9   4   1   4  16  13   3  13
-FC Augsburg             8   2   3   3  18  15   3   9               Lorient                 8   3   3   2   7   6   1  12
-VfB Stuttgart           8   3   0   5  14  15  -1   9               Toulouse                9   2   4   3  12  13  -1  10
-TSG Hoffenheim          8   3   0   5  14  16  -2   9               Strasbourg              9   3   1   5  17  19  -2  10
-FC Cologne              8   2   3   3   9  12  -3   9               AJ Auxerre              9   3   1   5  13  23 -10  10
-SC Paderborn 07         8   2   3   3   6   9  -3   9               Brest                   8   2   3   3  14  12   2   9
+FC Augsburg             8   2   3   3  18  15   3   9               Brest                   9   3   3   3  16  12   4  12
+VfB Stuttgart           8   3   0   5  14  15  -1   9               Lorient                 9   3   3   3   7   8  -1  12
+TSG Hoffenheim          8   3   0   5  14  16  -2   9               Toulouse                9   2   4   3  12  13  -1  10
+FC Cologne              8   2   3   3   9  12  -3   9               Strasbourg              9   3   1   5  17  19  -2  10
+SC Paderborn 07         8   2   3   3   6   9  -3   9               AJ Auxerre              9   3   1   5  13  23 -10  10
 Hamburg SV              8   3   0   5   7  19 -12   9               Angers                  9   2   2   5   9  17  -8   8
 1. FC Union Berlin      8   1   4   3   7  19 -12   7               Troyes                  9   2   2   5   7  16  -9   8
 Schalke 04              8   1   3   4   4   9  -5   6               Le Mans                 9   1   4   4  11  18  -7   7
@@ -132,19 +135,18 @@ M'gladbach              8   1   1   6  11  22 -11   4               Le Havre AC 
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Friday, October 30                                                  Friday, October 30
-  SV Elversberg          4–1   Mainz                                  Le Havre AC            1–5   Paris S-G
-Saturday, October 31                                                  Nice                   5–2   Stade Rennais
-  Bayer Leverkusen       2–4   VfB Stuttgart                          Lille                  1–0   Lens
-  M'gladbach             0–0   SC Paderborn 07                      Saturday, October 31
-  FC Augsburg            1–2   SC Freiburg                            Troyes                 2–0   Le Mans
-  Schalke 04             0–2   RB Leipzig                           Sunday, November 01
-  Werder Bremen          2–0   TSG Hoffenheim                         Strasbourg             5–1   AJ Auxerre
-  Bayern Munich          2–2   Borussia Dortmund                      Lyon                   2–0   Angers
-Sunday, November 01                                                   Paris FC               3–1   AS Monaco
-  1. FC Union Berlin     1–1   FC Cologne                             Marseille              2–0   Toulouse
-  E. Frankfurt           3–1   Hamburg SV                           Monday, November 02
-                                                                      Lorient                vs    Brest
+Saturday, October 31                                                Saturday, October 31
+  Bayer Leverkusen       2–4   VfB Stuttgart                          Troyes                 2–0   Le Mans
+  M'gladbach             0–0   SC Paderborn 07                      Sunday, November 01
+  FC Augsburg            1–2   SC Freiburg                            Strasbourg             5–1   AJ Auxerre
+  Schalke 04             0–2   RB Leipzig                             Lyon                   2–0   Angers
+  Werder Bremen          2–0   TSG Hoffenheim                         Paris FC               3–1   AS Monaco
+  Bayern Munich          2–2   Borussia Dortmund                      Marseille              2–0   Toulouse
+Sunday, November 01                                                 Monday, November 02
+  1. FC Union Berlin     1–1   FC Cologne                             Lorient                0–2   Brest
+  E. Frankfurt           3–1   Hamburg SV                           Friday, November 06
+Friday, November 06                                                   Toulouse               vs    Strasbourg
+  Hamburg SV             vs    M'gladbach                           
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -155,12 +157,12 @@ BK Häcken              27  13  10   4  48  30  18  49               Atlas      
 IF Elfsborg            27  12  10   5  41  27  14  46               Toluca                 15   6   6   3  31  21  10  24
 Västerås SK            27  13   5   9  40  38   2  44               Tijuana                15   5   7   3  25  21   4  22
 Malmö FF               27  12   4  11  42  36   6  40               León                   15   6   4   5  22  20   2  22
-AIK                    26  10   8   8  42  45  -3  38               Santos                 15   7   1   7  21  20   1  22
+AIK                    27  10   8   9  43  47  -4  38               Santos                 15   7   1   7  21  20   1  22
 IFK Göteborg           27  10   8   9  36  46 -10  38               Monterrey              14   6   3   5  26  21   5  21
-GAIS                   26   9   7  10  32  26   6  34               Pumas UNAM             15   5   5   5  22  24  -2  20
+GAIS                   27  10   7  10  34  27   7  37               Pumas UNAM             15   5   5   5  22  24  -2  20
 IF Brommapojkarna      27   9   7  11  39  44  -5  34               Querétaro              14   6   2   6  18  21  -3  20
-Mjällby AIF            26   6   8  12  30  43 -13  26               Pachuca                15   5   4   6  25  19   6  19
-Kalmar FF              26   6   4  16  23  42 -19  22               Atlético San Luis      15   5   4   6  19  23  -4  19
+Mjällby AIF            27   6   9  12  30  43 -13  27               Pachuca                15   5   4   6  25  19   6  19
+Kalmar FF              27   6   5  16  23  42 -19  23               Atlético San Luis      15   5   4   6  19  23  -4  19
 Degerfors IF           27   5   5  17  22  46 -24  20               Puebla                 15   4   4   7  17  23  -6  16
 Örgryte IS             27   4   7  16  33  60 -27  19               Tigres UANL            15   3   6   6  15  22  -7  15
 Halmstads BK           26   4   5  17  18  49 -31  17               Atlante                15   3   5   7  16  24  -8  14
@@ -170,17 +172,18 @@ Halmstads BK           26   4   5  17  18  49 -31  17               Atlante     
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
 Sunday, November 01                                                 Saturday, October 31
-  Djurgården             2–1   Degerfors IF                           Atlético San Luis      0–1   Atlas
-  Malmö FF               1–2   Hammarby IF                            FC Juárez              3–1   Querétaro
-  BK Häcken              1–0   IFK Göteborg                           Puebla                 1–2   Pumas UNAM
-  IF Elfsborg            2–1   Örgryte IS                             Pachuca                3–0   Tigres UANL
-  Västerås SK            1–0   IF Brommapojkarna                    Sunday, November 01
-Monday, November 02                                                   Monterrey              3–3   Tijuana
-  GAIS                   vs    AIK                                    Guadalajara            4–2   Atlante
-  Mjällby AIF            vs    Kalmar FF                              América                2–2   Toluca
-Tuesday, November 03                                                  Santos                 1–0   Necaxa
-  IK Sirius              vs    Halmstads BK                         Monday, November 02
-                                                                      Cruz Azul              2–1   León
+  Djurgården             2–1   Degerfors IF                           Pachuca                3–0   Tigres UANL
+  Malmö FF               1–2   Hammarby IF                          Sunday, November 01
+  BK Häcken              1–0   IFK Göteborg                           Monterrey              3–3   Tijuana
+  IF Elfsborg            2–1   Örgryte IS                             Guadalajara            4–2   Atlante
+  Västerås SK            1–0   IF Brommapojkarna                      América                2–2   Toluca
+Monday, November 02                                                   Santos                 1–0   Necaxa
+  GAIS                   2–1   AIK                                  Monday, November 02
+  Mjällby AIF            0–0   Kalmar FF                              Cruz Azul              2–1   León
+Tuesday, November 03                                                
+  IK Sirius              vs    Halmstads BK                         
+Friday, November 06                                                 
+  Hammarby IF            vs    IF Elfsborg                          
 
 
 
@@ -246,4 +249,4 @@ Wednesday, November 04                                                Sparta Pra
   Slavia Prague          vs    Arsenal                                Sunderland             vs    Dinamo Zagreb
   Viking FK              vs    Sabah FK                               Torreense              vs    Ararat-Armenia
 
-Standings from ESPN.com 11.02.26
+Standings from ESPN.com 11.03.26

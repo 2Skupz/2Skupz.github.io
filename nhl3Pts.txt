@@ -5,11 +5,11 @@ NHL Standings - 3 Points
 Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Edmonton               15    9    2    2    2    20    33
-Vegas                  15    7    2    1    5     9    26
+Vegas                  16    7    2    2    5     8    27
 SEATTLE                14    6    2    1    5     0    23
-Calgary                14    6    0    0    8   -16    18
+Calgary                15    7    0    0    8   -15    21
 Anaheim                14    5    1    1    7    -4    18
-San Jose               15    2    5    1    7   -11    17
+San Jose               16    2    5    1    8   -12    17
 Los Angeles            13    2    2    2    7    -9    12
 Vancouver              16    1    2    1   12   -25     8
 
@@ -17,13 +17,13 @@ Vancouver              16    1    2    1   12   -25     8
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Minnesota              16   10    0    3    3    16    33
-Colorado               14    8    0    1    5    15    25
+Colorado               15    9    0    1    5    18    28
 Utah                   15    7    2    0    6     2    25
 St. Louis              14    7    0    1    6     2    22
 Dallas                 14    5    3    1    5     7    22
 Nashville              14    4    1    5    4    -5    19
 Winnipeg               15    4    0    3    8   -20    15
-Chicago                14    3    1    1    9   -22    12
+Chicago                15    3    1    1   10   -25    12
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
@@ -40,12 +40,12 @@ Columbus               12    1    4    0    7   -10    11
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Boston                 15    8    2    1    4    19    29
+Boston                 16    8    3    1    4    20    31
 Montreal               14    6    3    2    3     6    26
 Ottawa                 16    7    2    1    6     1    26
 Tampa Bay              13    7    1    2    3     5    25
 Toronto                16    7    1    2    6     7    25
-Florida                14    6    2    2    4     5    24
+Florida                15    6    2    2    5     3    24
 Buffalo                14    5    2    3    4    -6    22
-Detroit                14    4    2    3    5    -2    19
+Detroit                15    5    2    3    5     0    22
 
