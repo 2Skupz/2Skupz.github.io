@@ -85,9 +85,6 @@ Halmstads BK           27   4   5  18  17 -33
 
 Allsvenskan Fixtures
 --------------------
-Monday, November 02
-  GAIS                   2–1   AIK
-  Mjällby AIF            0–0   Kalmar FF
 Tuesday, November 03
   IK Sirius              2–0   Halmstads BK
 Friday, November 06
@@ -167,8 +164,6 @@ Sunderland              9   1   2   6   5 -10
 
 Premier League Fixtures
 -----------------------
-Monday, November 02
-  Newcastle United       0–1   Everton
 Friday, November 06
   Everton                vs    Coventry City
 Saturday, November 07
@@ -208,8 +203,6 @@ Le Havre AC             9   0   2   7   2 -11
 
 Ligue 1 Fixtures
 ----------------
-Monday, November 02
-  Lorient                0–2   Brest
 Friday, November 06
   Toulouse               vs    Strasbourg
 Saturday, November 07
@@ -250,9 +243,6 @@ Venezia                10   1   0   9   3 -14
 
 Serie A Fixtures
 ----------------
-Monday, November 02
-  Sassuolo               2–4   Fiorentina
-  Atalanta               0–3   Parma
 Friday, November 06
   Venezia                vs    Udinese
 Saturday, November 07
@@ -294,8 +284,6 @@ Málaga                 11   0   5   6   5 -13
 
 La Liga Fixtures
 ----------------
-Monday, November 02
-  Deportivo              2–1   Osasuna
 Friday, November 06
   Sevilla                vs    Alavés
 Saturday, November 07
@@ -372,6 +360,9 @@ Sunday, November 08
   Tigres UANL            vs    Cruz Azul
   Toluca                 vs    Monterrey
   Pumas UNAM             vs    América
+Monday, November 09
+  Querétaro              vs    Puebla
+  León                   vs    Guadalajara
 
 
 Champions League
@@ -441,65 +432,65 @@ Wednesday, November 04
 Europa League
 -------------
 Cty Squad                  MP   W   D   L  Pt  GD
+POR Benfica                 4   4   0   0  12  10
+ENG AFC Bournemouth         4   4   0   0  12   9
+HUN Ferencvaros             4   4   0   0  12   8
+BEL Union St.-Gilloise      4   3   1   0  10   8
+ITA Juventus                4   3   1   0  10   7
 GRE Olympiacos              4   3   1   0  10   3
-POR Benfica                 3   3   0   0   9   8
-GER Bayer Leverkusen        3   3   0   0   9   8
-ENG AFC Bournemouth         3   3   0   0   9   7
-HUN Ferencvaros             3   3   0   0   9   6
-BEL Union St.-Gilloise      3   2   1   0   7   7
-ITA Juventus                3   2   1   0   7   6
-TUR Besiktas                3   2   1   0   7   4
-ENG Sunderland              3   2   1   0   7   2
-NED AZ Alkmaar              3   2   0   1   6   4
-CYP Omonia Nicosia          3   2   0   1   6   1
+GER Bayer Leverkusen        4   3   0   1   9   7
+TUR Besiktas                4   2   1   1   7   3
+CRO Dinamo Zagreb           4   2   1   1   7   1
+BUL Levski Sofia            4   2   1   1   7   1
+ENG Sunderland              4   2   1   1   7   0
+NED NEC Nijmegen            4   2   1   1   7  -1
+FRA Lyon                    4   2   1   1   7  -1
+NED AZ Alkmaar              4   2   0   2   6   3
+BEL Anderlecht              4   2   0   2   6   3
+GRE OFI Crete               4   2   0   2   6   1
 FRA Stade Rennais           4   1   3   0   6   1
-FRA Lyon                    3   2   0   1   6  -1
-ESP Real Sociedad           3   1   1   1   4   5
-ENG Crystal Palace          3   1   1   1   4   3
-CZE Sparta Prague           3   1   1   1   4   2
-BUL Levski Sofia            3   1   1   1   4   0
-CRO Dinamo Zagreb           3   1   1   1   4  -1
-AUT SK Sturm Graz           3   1   1   1   4  -2
-NED NEC Nijmegen            3   1   1   1   4  -3
-AUT RB Salzburg             3   1   1   1   4  -3
-BEL Anderlecht              3   1   0   2   3   1
-GER TSG Hoffenheim          3   1   0   2   3   0
-ITA AC Milan                3   1   0   2   3  -1
-ESP Celta Vigo              3   1   0   2   3  -1
-GRE OFI Crete               3   1   0   2   3  -1
-POL Jagiellonia Bialystok   3   1   0   2   3  -2
-POR Torreense               3   1   0   2   3  -3
-SVN NK Celje                3   0   1   2   1  -5
-ISR Hapoel Be'er            3   0   1   2   1  -5
-NOR Lillestrom              3   0   1   2   1  -7
-POL Lech Poznan             3   0   1   2   1  -8
-CZE Viktoria Plzen          3   0   0   3   0  -5
-FRA Marseille               3   0   0   3   0  -5
-SCO Celtic                  3   0   0   3   0  -6
-ARM Ararat-Armenia          3   0   0   3   0  -9
+CYP Omonia Nicosia          4   2   0   2   6  -1
+POR Torreense               4   2   0   2   6  -2
+ESP Real Sociedad           4   1   2   1   5   5
+ENG Crystal Palace          4   1   2   1   5   3
+CZE Sparta Prague           4   1   1   2   4   0
+GER TSG Hoffenheim          4   1   1   2   4   0
+AUT SK Sturm Graz           4   1   1   2   4  -3
+SVN NK Celje                4   1   1   2   4  -4
+AUT RB Salzburg             4   1   1   2   4  -5
+ESP Celta Vigo              4   1   0   3   3  -2
+ITA AC Milan                4   1   0   3   3  -3
+POL Jagiellonia Bialystok   4   1   0   3   3  -3
+CZE Viktoria Plzen          4   1   0   3   3  -4
+FRA Marseille               4   1   0   3   3  -4
+SCO Celtic                  4   1   0   3   3  -5
+ISR Hapoel Be'er            4   0   1   3   1  -7
+NOR Lillestrom              4   0   1   3   1  -8
+POL Lech Poznan             4   0   1   3   1 -10
+ARM Ararat-Armenia          4   0   0   4   0 -10
 
 Europa League Fixtures
 ----------------------
 Wednesday, November 04
   Stade Rennais          0–0   Olympiacos
 Thursday, November 05
-  AC Milan               vs    Ferencvaros
-  Anderlecht             vs    RB Salzburg
-  Crystal Palace         vs    TSG Hoffenheim
-  Levski Sofia           vs    Jagiellonia Bialystok
-  Lillestrom             vs    Viktoria Plzen
-  NEC Nijmegen           vs    Omonia Nicosia
-  Real Sociedad          vs    Lyon
-  Sparta Prague          vs    AFC Bournemouth
-  AZ Alkmaar             vs    Juventus
-  Bayer Leverkusen       vs    Marseille
-  Benfica                vs    Lech Poznan
-  Celta Vigo             vs    Union St.-Gilloise
-  Celtic                 vs    Besiktas
-  Hapoel Be'er           vs    OFI Crete
-  SK Sturm Graz          vs    NK Celje
-  Sunderland             vs    Dinamo Zagreb
-  Torreense              vs    Ararat-Armenia
+  AC Milan               0–2   Ferencvaros
+  Anderlecht             2–0   RB Salzburg
+  Crystal Palace         1–1   TSG Hoffenheim
+  Levski Sofia           1–0   Jagiellonia Bialystok
+  Lillestrom             0–1   Viktoria Plzen
+  NEC Nijmegen           3–1   Omonia Nicosia
+  Real Sociedad          1–1   Lyon
+  Sparta Prague          1–3   AFC Bournemouth
+  AZ Alkmaar             1–2   Juventus
+  Bayer Leverkusen       0–1   Marseille
+  Benfica                3–1   Lech Poznan
+  Celta Vigo             1–2   Union St.-Gilloise
+  Celtic                 3–2   Besiktas
+  Hapoel Be'er           0–2   OFI Crete
+  SK Sturm Graz          2–3   NK Celje
+  Sunderland             0–2   Dinamo Zagreb
+  Torreense              3–2   Ararat-Armenia
 
 
-Standings from ESPN.com 11.05.26
+Standings from ESPN.com 11.06.26
