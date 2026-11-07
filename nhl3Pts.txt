@@ -6,17 +6,17 @@ Pacific                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Edmonton               17    9    2    3    3    18    34
 Vegas                  18    9    2    2    5    10    33
+Anaheim                17    8    1    1    7     0    27
 SEATTLE                15    6    3    1    5     1    25
-Anaheim                16    7    1    1    7    -2    24
-Calgary                16    7    0    1    8   -16    22
-San Jose               17    2    5    1    9   -17    17
+Calgary                17    7    0    1    9   -18    22
+San Jose               18    2    5    1   10   -20    17
 Los Angeles            14    3    2    2    7    -4    15
 Vancouver              18    1    2    1   14   -30     8
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Minnesota              17   11    0    3    3    18    36
+Minnesota              18   12    0    3    3    21    39
 Colorado               17    9    0    2    6    12    29
 Utah                   17    8    2    1    6     2    29
 Dallas                 16    6    3    2    5     7    26
@@ -33,7 +33,7 @@ New Jersey             16    7    4    0    5    10    29
 NY Rangers             17    9    0    1    7     2    28
 Washington             14    7    1    0    6     1    23
 NY Islanders           15    5    2    2    6    -1    21
-Columbus               14    2    5    0    7    -4    16
+Columbus               15    2    5    0    8    -7    16
 Philadelphia           18    4    0    4   10   -22    16
 Pittsburgh             16    2    3    2    9    -7    14
 
@@ -45,7 +45,7 @@ Tampa Bay              15    9    1    2    3    10    31
 Montreal               16    6    4    3    3     6    29
 Ottawa                 17    8    2    1    6     2    29
 Florida                16    7    2    2    5     5    27
+Buffalo                16    6    2    3    5    -4    25
 Toronto                17    7    1    2    7     6    25
-Buffalo                15    5    2    3    5    -7    22
 Detroit                17    5    2    3    7    -3    22
 
