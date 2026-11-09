@@ -5,10 +5,10 @@ NHL Standings - Win Percentage
 Pacific                GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Edmonton               18   12    6     .667    --
-Vegas                  18   11    7     .611   1.0
+Vegas                  19   12    7     .632   0.5
 SEATTLE                16    9    7     .562   2.0
-Anaheim                17    9    8     .529   2.5
-Calgary                17    7   10     .412   4.5
+Anaheim                18   10    8     .556   2.0
+Calgary                18    8   10     .444   4.0
 San Jose               19    7   12     .368   5.5
 Los Angeles            15    5   10     .333   5.5
 Vancouver              19    3   16     .158   9.5
@@ -22,30 +22,30 @@ Colorado               18   10    8     .556   1.5
 Utah                   18   10    8     .556   1.5
 Nashville              17    8    9     .471   3.0
 St. Louis              17    7   10     .412   4.0
-Winnipeg               17    6   11     .353   5.0
+Winnipeg               18    7   11     .389   4.5
 Chicago                18    4   14     .222   7.5
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Carolina               19   14    5     .737    --
-New Jersey             17   12    5     .706   1.0
+New Jersey             18   13    5     .722   0.5
 Washington             15    9    6     .600   3.0
 NY Rangers             18   10    8     .556   3.5
 Columbus               15    7    8     .467   5.0
 NY Islanders           16    7    9     .438   5.5
-Pittsburgh             17    6   11     .353   7.0
-Philadelphia           18    4   14     .222   9.5
+Pittsburgh             18    6   12     .333   7.5
+Philadelphia           19    4   15     .211  10.0
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
-Boston                 17   12    5     .706    --
-Tampa Bay              16   11    5     .688   0.5
-Montreal               17   11    6     .647   1.0
-Ottawa                 18   11    7     .611   1.5
-Florida                17    9    8     .529   3.0
-Buffalo                16    8    8     .500   3.5
-Toronto                18    8   10     .444   4.5
-Detroit                18    7   11     .389   5.5
+Boston                 18   13    5     .722    --
+Tampa Bay              17   11    6     .647   1.5
+Montreal               17   11    6     .647   1.5
+Ottawa                 18   11    7     .611   2.0
+Florida                18    9    9     .500   4.0
+Buffalo                17    8    9     .471   4.5
+Toronto                19    8   11     .421   5.5
+Detroit                18    7   11     .389   6.0
 
