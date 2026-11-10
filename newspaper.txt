@@ -54,16 +54,14 @@ Crystal Palace         10   2   1   7  10  24 -14   7
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Friday, November 06                                                 Saturday, November 07
-  Everton                3–1   Coventry City                          Dundee United          1–1   Motherwell
-Saturday, November 07                                                 St Johnstone           2–1   Dundee
-  Leeds United           1–0   Tottenham Hotspur                      Aberdeen               0–4   Hibernian
-  Arsenal                1–0   Hull City                              St Mirren              0–2   Rangers
-  Fulham                 1–1   Newcastle United                     Sunday, November 08
-  Nottingham Forest      3–1   Manchester City                        Heart of Midlothian    2–5   Falkirk
-Sunday, November 08                                                   Celtic                 1–0   Kilmarnock
-  Brighton & Hove Albion 2–0   Brentford                            
-  Crystal Palace         1–3   Liverpool                            
+Saturday, November 07                                               Saturday, November 07
+  Leeds United           1–0   Tottenham Hotspur                      Dundee United          1–1   Motherwell
+  Arsenal                1–0   Hull City                              St Johnstone           2–1   Dundee
+  Fulham                 1–1   Newcastle United                       Aberdeen               0–4   Hibernian
+  Nottingham Forest      3–1   Manchester City                        St Mirren              0–2   Rangers
+Sunday, November 08                                                 Sunday, November 08
+  Brighton & Hove Albion 2–0   Brentford                              Heart of Midlothian    2–5   Falkirk
+  Crystal Palace         1–3   Liverpool                              Celtic                 1–0   Kilmarnock
   Ipswich Town           1–2   AFC Bournemouth                      
   Sunderland             1–0   Chelsea                              
   Manchester United      4–4   Aston Villa                          
@@ -93,8 +91,6 @@ Málaga                 12   0   5   7   9  23 -14   5               Udinese    
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Friday, November 06                                                 Friday, November 06
-  Sevilla                0–0   Alavés                                 Venezia                2–1   Udinese
 Saturday, November 07                                               Saturday, November 07
   Málaga                 1–2   Racing Santander                       Cagliari               1–0   Frosinone
   Espanyol               0–0   Deportivo                              Torino                 1–1   Lecce
@@ -130,8 +126,6 @@ M'gladbach              9   1   1   7  12  25 -13   4               Le Havre AC 
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Friday, November 06                                                 Friday, November 06
-  Hamburg SV             3–1   M'gladbach                             Toulouse               3–1   Strasbourg
 Saturday, November 07                                               Saturday, November 07
   Borussia Dortmund      2–1   SV Elversberg                          AJ Auxerre             0–1   Paris FC
   Mainz                  1–2   Bayern Munich                          Paris S-G              1–0   Troyes
@@ -166,18 +160,15 @@ Halmstads BK           28   5   5  18  20  52 -32  20               Atlante     
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Friday, November 06                                                 Saturday, November 07
-  Hammarby IF            4–1   IF Elfsborg                            Atlético San Luis      0–1   FC Juárez
-Saturday, November 07                                                 Necaxa                 1–0   Tijuana
-  Degerfors IF           1–2   GAIS                                   Atlante                0–2   Santos
-  Örgryte IS             0–0   Västerås SK                            Atlas                  1–4   Pachuca
-Sunday, November 08                                                 Sunday, November 08
-  Halmstads BK           2–1   Djurgården                             Tigres UANL            2–3   Cruz Azul
-  IFK Göteborg           0–0   Malmö FF                               Toluca                 4–0   Monterrey
-  AIK                    3–2   BK Häcken                              Pumas UNAM             2–2   América
-  IF Brommapojkarna      0–0   Mjällby AIF                          Monday, November 09
-  Kalmar FF              1–0   IK Sirius                              Querétaro              0–2   Puebla
-                                                                      León                   1–1   Guadalajara
+Saturday, November 07                                               Saturday, November 07
+  Degerfors IF           1–2   GAIS                                   Atlas                  1–4   Pachuca
+  Örgryte IS             0–0   Västerås SK                          Sunday, November 08
+Sunday, November 08                                                   Tigres UANL            2–3   Cruz Azul
+  Halmstads BK           2–1   Djurgården                             Toluca                 4–0   Monterrey
+  IFK Göteborg           0–0   Malmö FF                               Pumas UNAM             2–2   América
+  AIK                    3–2   BK Häcken                            Monday, November 09
+  IF Brommapojkarna      0–0   Mjällby AIF                            Querétaro              0–2   Puebla
+  Kalmar FF              1–0   IK Sirius                              León                   1–1   Guadalajara
 
 
 
@@ -221,4 +212,4 @@ FRA Lille                   4   0   1   3   4  10  -6   1           POL Lech Poz
 SVK Slovan Bratislava       4   0   0   4   1  17 -16   0           ARM Ararat-Armenia          4   0   0   4   4  14 -10   0
 
 
-Standings from ESPN.com 11.09.26
+Standings from ESPN.com 11.10.26
