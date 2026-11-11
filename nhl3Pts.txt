@@ -10,42 +10,42 @@ Anaheim                18    9    1    1    7     3    30
 SEATTLE                16    6    3    1    6     0    25
 Calgary                18    7    1    1    9   -17    24
 San Jose               20    2    6    1   11   -20    19
-Los Angeles            15    3    2    2    8    -7    15
+Los Angeles            16    3    2    2    9   -10    15
 Vancouver              20    1    2    1   16   -34     8
 
 --------------------------------------------------------------------------------
 Central                GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
-Minnesota              19   12    0    4    3    20    40
-Colorado               18   10    0    2    6    16    32
+Minnesota              20   12    1    4    3    21    42
+Colorado               19   11    0    2    6    19    35
+Nashville              18    7    2    5    4     4    30
 Dallas                 17    7    3    2    5     8    29
 Utah                   18    8    2    1    7     0    29
-Nashville              17    6    2    5    4     1    27
-St. Louis              17    7    0    2    8    -3    23
-Winnipeg               18    6    1    3    8   -14    23
+St. Louis              18    8    0    2    8    -2    26
+Winnipeg               19    7    1    3    8   -12    26
 Chicago                18    3    1    1   13   -37    12
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               19   13    1    2    3    33    43
-New Jersey             18    8    5    0    5    15    34
+New Jersey             19    8    5    0    6    13    34
 NY Rangers             19   10    0    1    8     1    31
-Washington             15    8    1    0    6     2    26
+Washington             16    8    2    0    6     3    28
 NY Islanders           17    5    2    4    6    -3    23
 Philadelphia           20    5    0    5   10   -21    20
 Pittsburgh             18    3    3    2   10    -7    17
-Columbus               15    2    5    0    8    -7    16
+Columbus               16    2    5    0    9   -10    16
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W   OW   OL    L    GD   Pts
 --------------------------------------------------------------------------------
 Boston                 18   10    3    1    4    27    37
 Tampa Bay              17    9    2    2    4    10    33
-Montreal               17    7    4    3    3     8    32
-Ottawa                 18    9    2    1    6     4    32
-Florida                18    7    2    2    7     1    27
+Montreal               18    7    4    4    3     7    33
+Ottawa                 19    9    2    2    6     3    33
+Florida                19    8    2    2    7     4    30
 Buffalo                17    6    2    3    6    -7    25
-Toronto                19    7    1    2    9     0    25
-Detroit                18    5    2    3    8    -7    22
+Toronto                20    7    1    2   10    -3    25
+Detroit                19    5    2    3    9    -8    22
 

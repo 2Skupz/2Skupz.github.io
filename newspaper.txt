@@ -16,18 +16,6 @@ San Diego              34   9  11  14  57  63  -6  38               Atlanta     
 Austin                 34   8  10  16  42  65 -23  34               DC United              34   7  12  15  39  61 -22  33
 Sporting KC            34   7   5  22  40  81 -41  26               Montreal               34   6   8  20  37  69 -32  26
 
-MLS West Fixtures                                                   MLS East Fixtures
------------------                                                   -----------------
-Saturday, November 07                                               Saturday, November 07
-  Montreal               0–2   Vancouver                              Montreal               0–2   Vancouver
-Sunday, November 08                                                   Chicago                3–4   Columbus
-  Austin                 0–2   Portland                               DC United              0–1   New York City
-  Dallas                 3–1   Colorado                               Cincinnati             0–2   Nashville
-  Houston                0–1   St. Louis                              Inter Miami            3–3   Charlotte
-  Minnesota              3–1   San Jose                               Orlando City SC        1–0   New England
-  Real Salt Lake         2–1   Galaxy                                 Philadelphia           4–1   Toronto
-  San Diego              0–1   Sporting KC                            Red Bull New York      3–0   Atlanta
-  Seattle                2–1   LAFC                                 
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -54,11 +42,6 @@ Crystal Palace         10   2   1   7  10  24 -14   7
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Saturday, November 07                                               Saturday, November 07
-  Leeds United           1–0   Tottenham Hotspur                      Dundee United          1–1   Motherwell
-  Arsenal                1–0   Hull City                              St Johnstone           2–1   Dundee
-  Fulham                 1–1   Newcastle United                       Aberdeen               0–4   Hibernian
-  Nottingham Forest      3–1   Manchester City                        St Mirren              0–2   Rangers
 Sunday, November 08                                                 Sunday, November 08
   Brighton & Hove Albion 2–0   Brentford                              Heart of Midlothian    2–5   Falkirk
   Crystal Palace         1–3   Liverpool                              Celtic                 1–0   Kilmarnock
@@ -91,11 +74,6 @@ Málaga                 12   0   5   7   9  23 -14   5               Udinese    
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
-Saturday, November 07                                               Saturday, November 07
-  Málaga                 1–2   Racing Santander                       Cagliari               1–0   Frosinone
-  Espanyol               0–0   Deportivo                              Torino                 1–1   Lecce
-  Osasuna                1–1   Athletic Club                          Parma                  1–2   Bologna
-  Valencia               0–3   Real Madrid                            AS Roma                3–0   Sassuolo
 Sunday, November 08                                                 Sunday, November 08
   Elche                  0–2   Real Betis                             Napoli                 1–1   Lazio
   Real Sociedad          1–0   Rayo Vallecano                         Genoa                  1–2   AC Milan
@@ -126,16 +104,13 @@ M'gladbach              9   1   1   7  12  25 -13   4               Le Havre AC 
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
-Saturday, November 07                                               Saturday, November 07
-  Borussia Dortmund      2–1   SV Elversberg                          AJ Auxerre             0–1   Paris FC
-  Mainz                  1–2   Bayern Munich                          Paris S-G              1–0   Troyes
-  RB Leipzig             5–2   FC Augsburg                          Sunday, November 08
-  SC Paderborn 07        2–2   E. Frankfurt                           Stade Rennais          1–2   Lille
-  VfB Stuttgart          1–0   Werder Bremen                          Angers                 0–2   Nice
-Sunday, November 08                                                   Brest                  2–0   Lyon
-  FC Cologne             1–2   Bayer Leverkusen                       Le Havre AC            0–2   Lorient
-  SC Freiburg            2–0   1. FC Union Berlin                     Le Mans                1–1   AS Monaco
-  TSG Hoffenheim         2–1   Schalke 04                             Lens                   1–2   Marseille
+Sunday, November 08                                                 Sunday, November 08
+  FC Cologne             1–2   Bayer Leverkusen                       Stade Rennais          1–2   Lille
+  SC Freiburg            2–0   1. FC Union Berlin                     Angers                 0–2   Nice
+  TSG Hoffenheim         2–1   Schalke 04                             Brest                  2–0   Lyon
+                                                                      Le Havre AC            0–2   Lorient
+                                                                      Le Mans                1–1   AS Monaco
+                                                                      Lens                   1–2   Marseille
 
 Allsvenskan                                                         Liga MX
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -160,15 +135,12 @@ Halmstads BK           28   5   5  18  20  52 -32  20               Atlante     
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
-Saturday, November 07                                               Saturday, November 07
-  Degerfors IF           1–2   GAIS                                   Atlas                  1–4   Pachuca
-  Örgryte IS             0–0   Västerås SK                          Sunday, November 08
-Sunday, November 08                                                   Tigres UANL            2–3   Cruz Azul
-  Halmstads BK           2–1   Djurgården                             Toluca                 4–0   Monterrey
-  IFK Göteborg           0–0   Malmö FF                               Pumas UNAM             2–2   América
-  AIK                    3–2   BK Häcken                            Monday, November 09
-  IF Brommapojkarna      0–0   Mjällby AIF                            Querétaro              0–2   Puebla
-  Kalmar FF              1–0   IK Sirius                              León                   1–1   Guadalajara
+Sunday, November 08                                                 Monday, November 09
+  Halmstads BK           2–1   Djurgården                             Querétaro              0–2   Puebla
+  IFK Göteborg           0–0   Malmö FF                               León                   1–1   Guadalajara
+  AIK                    3–2   BK Häcken                            Saturday, November 14
+  IF Brommapojkarna      0–0   Mjällby AIF                            Querétaro              vs    Monterrey
+  Kalmar FF              1–0   IK Sirius                            
 
 
 
@@ -212,4 +184,4 @@ FRA Lille                   4   0   1   3   4  10  -6   1           POL Lech Poz
 SVK Slovan Bratislava       4   0   0   4   1  17 -16   0           ARM Ararat-Armenia          4   0   0   4   4  14 -10   0
 
 
-Standings from ESPN.com 11.10.26
+Standings from ESPN.com 11.11.26
