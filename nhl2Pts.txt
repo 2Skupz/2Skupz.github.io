@@ -4,12 +4,12 @@ NHL Standings - 2 Points
 --------------------------------------------------------------------------------
 Pacific                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Edmonton               19   11    3    5    22    27
-Vegas                  19   10    5    4    13    24
-Anaheim                18    9    7    2     3    20
+Edmonton               20   11    3    6    23    28
+Vegas                  20   11    5    4    15    26
+Anaheim                19    9    8    2     1    20
 SEATTLE                16    6    6    4     0    16
-Calgary                18    7    9    2   -17    16
-San Jose               20    2   11    7   -20    11
+Calgary                19    7   10    2   -19    16
+San Jose               21    2   11    8   -21    12
 Los Angeles            16    3    9    4   -10    10
 Vancouver              20    1   16    3   -34     5
 
@@ -18,9 +18,9 @@ Central                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Minnesota              20   12    3    5    21    29
 Colorado               19   11    6    2    19    24
-Nashville              18    7    4    7     4    21
+Nashville              19    8    4    7     6    23
 Dallas                 17    7    5    5     8    19
-Utah                   18    8    7    3     0    19
+Utah                   19    8    8    3    -2    19
 St. Louis              18    8    8    2    -2    18
 Winnipeg               19    7    8    4   -12    18
 Chicago                18    3   13    2   -37     8
@@ -29,23 +29,23 @@ Chicago                18    3   13    2   -37     8
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               19   13    3    3    33    29
-NY Rangers             19   10    8    1     1    21
+NY Rangers             20   11    8    1     3    23
 New Jersey             19    8    6    5    13    21
 Washington             16    8    6    2     3    18
 NY Islanders           17    5    6    6    -3    16
-Philadelphia           20    5   10    5   -21    15
-Pittsburgh             18    3   10    5    -7    11
+Philadelphia           21    5   10    6   -22    16
+Pittsburgh             19    3   10    6    -6    12
 Columbus               16    2    9    5   -10     9
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Boston                 18   10    4    4    27    24
-Tampa Bay              17    9    4    4    10    22
+Tampa Bay              18   10    4    4    15    24
 Montreal               18    7    3    8     7    22
 Ottawa                 19    9    6    4     3    22
 Florida                19    8    7    4     4    20
-Buffalo                17    6    6    5    -7    17
+Buffalo                18    6    7    5   -12    17
 Toronto                20    7   10    3    -3    17
 Detroit                19    5    9    5    -8    15
 
