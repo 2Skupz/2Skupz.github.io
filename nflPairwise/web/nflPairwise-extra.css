@@ -1,0 +1,192 @@
+/* NFL-specific additions on top of nflPairwise.css (copied from mlbTiebreak) */
+
+/* NFC button uses the red active style, same as NL in mlbTiebreak */
+.league-btn.active.nfc {
+    background: linear-gradient(to right, #dc2626, #b91c1c);
+    border-color: #b91c1c;
+}
+
+.team-record {
+    font-size: 0.85rem !important;
+    margin-top: 4px;
+}
+
+.matchup-type {
+    text-align: center;
+    color: #64748b;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin: -20px 0 24px;
+}
+
+/* Criteria rows hold more text than the MLB three-row layout, so shrink values */
+.tiebreaker-row .record {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.tiebreaker-row .record.winner {
+    font-size: 1.35rem;
+}
+
+.tiebreaker-row .label {
+    line-height: 1.4;
+    padding: 0 8px;
+}
+
+.tiebreaker-row.step-na {
+    opacity: 0.55;
+}
+
+.step-note {
+    display: block;
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
+    color: #94a3b8;
+    margin-top: 2px;
+}
+
+.record .step-note {
+    font-size: 0.7rem;
+}
+
+/* Tiebreaker grid: 17 columns for a 16-team conference */
+.tiebreaker-matrix .matrix-cell {
+    min-height: 44px;
+    padding: 4px;
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+.tiebreaker-matrix .matrix-team-header span,
+.tiebreaker-matrix .matrix-side-header span {
+    font-size: 0.68rem;
+}
+
+.matrix-winner-cell.row-wins {
+    background: #f0fdf4;
+    border-color: #86efac;
+    color: #166534;
+}
+
+.matrix-winner-cell.col-wins {
+    background: #fef2f2;
+    border-color: #fecaca;
+    color: #991b1b;
+}
+
+.matrix-winner-cell.tie {
+    background: #fefce8;
+    border-color: #fde68a;
+    color: #854d0e;
+}
+
+.matrix-cell.matrix-team-header,
+.matrix-cell.matrix-side-header {
+    font-size: 0.68rem;
+    font-weight: 700;
+}
+
+/* Team logos (data/logos/{ABBR}.png, 500x500 PNGs) */
+.team-logo {
+    display: block;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: 0 auto 12px;
+}
+
+.matrix-cell .matrix-logo {
+    width: 24px;
+    height: 24px;
+}
+
+.summary-team {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+}
+
+.summary-logo {
+    width: 26px;
+    height: 26px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* Pairwise summary */
+.summary-table {
+    display: flex;
+    flex-direction: column;
+}
+
+.summary-row {
+    display: grid;
+    grid-template-columns: 40px minmax(0, 1fr) 110px;
+    align-items: center;
+    padding: 10px 6px;
+    border-bottom: 1px solid #f1f5f9;
+    font-size: 0.95rem;
+}
+
+.summary-row:last-child {
+    border-bottom: none;
+}
+
+.summary-header {
+    color: #64748b;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.summary-rank {
+    color: #94a3b8;
+    font-weight: 700;
+}
+
+.summary-name {
+    color: #64748b;
+}
+
+.summary-rec {
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+}
+
+.footnote {
+    text-align: center;
+    color: #64748b;
+    font-size: 0.8rem;
+    margin-top: 24px;
+    line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+    .team-logo {
+        width: 72px;
+        height: 72px;
+    }
+
+    .tiebreaker-row .record {
+        font-size: 1rem;
+    }
+
+    .tiebreaker-row .record.winner {
+        font-size: 1.1rem;
+    }
+
+    .summary-row {
+        grid-template-columns: 28px minmax(0, 1fr) 80px;
+        font-size: 0.85rem;
+    }
+
+    .summary-name {
+        display: none;
+    }
+}

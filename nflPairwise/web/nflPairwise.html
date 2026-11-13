@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Pairwise Tiebreakers</title>
+    <link rel="stylesheet" href="nflPairwise.css">
+    <link rel="stylesheet" href="nflPairwise-extra.css">
+</head>
+<body>
+    <div class="container">
+        <h1>NFL Pairwise Tiebreakers</h1>
+        <p class="subtitle" id="seasonLabel">2026 Season</p>
+        <p class="subtitle">
+            <a href="nflStandings.html">Real Standings</a> &middot;
+            <a href="pairwiseStandings.html">Pairwise Standings</a>
+        </p>
+
+        <!-- Conference Selector -->
+        <div class="league-selector">
+            <button id="leagueAFC" class="league-btn active" onclick="switchConference('AFC')">
+                AFC
+            </button>
+            <button id="leagueNFC" class="league-btn" onclick="switchConference('NFC')">
+                NFC
+            </button>
+        </div>
+
+        <!-- Team Selectors -->
+        <div class="selectors">
+            <div class="selector-group">
+                <label for="team1">Team 1</label>
+                <select id="team1"></select>
+            </div>
+            <div class="selector-group">
+                <label for="team2">Team 2</label>
+                <select id="team2"></select>
+            </div>
+        </div>
+
+        <!-- Compare Button -->
+        <button id="compareBtn" class="compare-btn" onclick="showMatchup()">
+            Compare Tiebreakers
+        </button>
+
+        <!-- Results -->
+        <div id="results" class="results hidden">
+            <div class="team-headers">
+                <div class="team-header">
+                    <img id="team1Logo" src="" alt="" class="team-logo">
+                    <h2 id="team1Name"></h2>
+                    <p id="team1Abbr"></p>
+                    <p id="team1Record" class="team-record"></p>
+                </div>
+                <div></div>
+                <div class="team-header">
+                    <img id="team2Logo" src="" alt="" class="team-logo">
+                    <h2 id="team2Name"></h2>
+                    <p id="team2Abbr"></p>
+                    <p id="team2Record" class="team-record"></p>
+                </div>
+            </div>
+
+            <p id="matchupType" class="matchup-type"></p>
+
+            <!-- Criteria rows, in the order they were evaluated -->
+            <div id="stepRows"></div>
+
+            <!-- Winner -->
+            <div class="winner-box">
+                <p id="winnerLabel" class="winner-label">Tiebreaker Winner</p>
+                <p id="winnerName" class="winner-name"></p>
+                <p id="winnerMethod" class="winner-method"></p>
+            </div>
+        </div>
+
+        <section class="matrix-section">
+            <div class="matrix-header">
+                <h2>Tiebreaker Grid</h2>
+                <p>Each cell shows which team owns the tiebreaker in that pairing. Hover a cell to see the criterion that decided it.</p>
+            </div>
+            <div class="matrix-wrapper">
+                <div id="tiebreakerMatrix" class="tiebreaker-matrix"></div>
+            </div>
+        </section>
+
+
+        <p class="footnote" id="footnote"></p>
+
+    </div>
+
+    <script src="../data/tiebreakers.js"></script>
+    <script src="nflPairwise.js"></script>
+</body>
+</html>

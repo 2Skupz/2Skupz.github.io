@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Pairwise Standings</title>
+    <link rel="stylesheet" href="nflPairwise.css">
+    <link rel="stylesheet" href="standings.css">
+    <link rel="stylesheet" href="pairwiseStandings.css">
+    <link rel="stylesheet" href="nflPairwise-extra.css">
+    <link rel="stylesheet" href="pairwiseStandings-extra.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pairwise Standings</h1>
+        <p class="subtitle" id="seasonLabel">2026 Season</p>
+        <p class="subtitle">Each team's tiebreak record vs. the entire conference. Ties are broken with the NFL tiebreaker rules, just like real standings.</p>
+        <p class="subtitle">
+            <a href="nflStandings.html">Real Standings</a> &middot;
+            <a href="nflPairwise.html">Matchup &amp; Grid</a> &middot;
+            <a href="#" id="rulesLink">Tiebreaker rules</a>
+        </p>
+
+        <div id="standingsRoot"></div>
+        <p class="footnote" id="footnote"></p>
+
+    </div>
+
+    <dialog id="rulesDialog" class="rules-dialog">
+        <div class="rules-dialog-head">
+            <h2>Tiebreaker Rules</h2>
+            <button id="rulesClose" class="rules-close" type="button" aria-label="Close">&times;</button>
+        </div>
+        <p>Each matchup is decided by the first criterion that separates the two teams. Same-division pairs use the divisional list; all other pairs use the conference list. A matchup still level after net points is a tie.</p>
+            <div class="rules-grid">
+                <div>
+                    <h3>Divisional</h3>
+                    <ol>
+                        <li>Head-to-head</li>
+                        <li>Division record</li>
+                        <li>Common games</li>
+                        <li>Conference record</li>
+                        <li>Strength of victory</li>
+                        <li>Strength of schedule</li>
+                        <li>Combined points rank (conference)</li>
+                        <li>Combined points rank (all teams)</li>
+                        <li>Net points in common games</li>
+                        <li>Net points in all games</li>
+                        <li>Net touchdowns in all games</li>
+                    </ol>
+                </div>
+                <div>
+                    <h3>Conference</h3>
+                    <ol>
+                        <li>Head-to-head</li>
+                        <li>Conference record</li>
+                        <li>Common games (minimum 4)</li>
+                        <li>Strength of victory</li>
+                        <li>Strength of schedule</li>
+                        <li>Combined points rank (conference)</li>
+                        <li>Combined points rank (all teams)</li>
+                        <li>Net points in conference games</li>
+                        <li>Net points in all games</li>
+                        <li>Net touchdowns in all games</li>
+                    </ol>
+                </div>
+            </div>
+            <p class="rules-note">Net touchdowns are not in the games data, so a matchup that reaches that step is a tie.</p>
+    </dialog>
+
+    <script src="../data/pairwiseStandings.js"></script>
+    <script src="pairwiseStandings.js"></script>
+</body>
+</html>

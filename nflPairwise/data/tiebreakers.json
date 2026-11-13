@@ -1,0 +1,6639 @@
+{
+  "season": 2026,
+  "generated": "2026-11-13 15:12",
+  "games_counted": 137,
+  "conferences": {
+    "AFC": {
+      "teams": [
+        {
+          "abbr": "BAL",
+          "name": "Baltimore Ravens",
+          "division": "North",
+          "record": "4-5",
+          "pf": 189,
+          "pa": 236
+        },
+        {
+          "abbr": "BUF",
+          "name": "Buffalo Bills",
+          "division": "East",
+          "record": "7-1",
+          "pf": 256,
+          "pa": 187
+        },
+        {
+          "abbr": "CIN",
+          "name": "Cincinnati Bengals",
+          "division": "North",
+          "record": "6-2",
+          "pf": 240,
+          "pa": 175
+        },
+        {
+          "abbr": "CLE",
+          "name": "Cleveland Browns",
+          "division": "North",
+          "record": "5-4",
+          "pf": 161,
+          "pa": 196
+        },
+        {
+          "abbr": "DEN",
+          "name": "Denver Broncos",
+          "division": "West",
+          "record": "7-2",
+          "pf": 198,
+          "pa": 186
+        },
+        {
+          "abbr": "HOU",
+          "name": "Houston Texans",
+          "division": "South",
+          "record": "3-5",
+          "pf": 209,
+          "pa": 192
+        },
+        {
+          "abbr": "IND",
+          "name": "Indianapolis Colts",
+          "division": "South",
+          "record": "2-7",
+          "pf": 184,
+          "pa": 249
+        },
+        {
+          "abbr": "JAX",
+          "name": "Jacksonville Jaguars",
+          "division": "South",
+          "record": "6-2",
+          "pf": 229,
+          "pa": 121
+        },
+        {
+          "abbr": "KC",
+          "name": "Kansas City Chiefs",
+          "division": "West",
+          "record": "6-2",
+          "pf": 202,
+          "pa": 143
+        },
+        {
+          "abbr": "LAC",
+          "name": "Los Angeles Chargers",
+          "division": "West",
+          "record": "0-8",
+          "pf": 121,
+          "pa": 219
+        },
+        {
+          "abbr": "LV",
+          "name": "Las Vegas Raiders",
+          "division": "West",
+          "record": "4-5",
+          "pf": 238,
+          "pa": 268
+        },
+        {
+          "abbr": "MIA",
+          "name": "Miami Dolphins",
+          "division": "East",
+          "record": "1-7",
+          "pf": 126,
+          "pa": 200
+        },
+        {
+          "abbr": "NE",
+          "name": "New England Patriots",
+          "division": "East",
+          "record": "5-4",
+          "pf": 211,
+          "pa": 207
+        },
+        {
+          "abbr": "NYJ",
+          "name": "New York Jets",
+          "division": "East",
+          "record": "2-7",
+          "pf": 182,
+          "pa": 223
+        },
+        {
+          "abbr": "PIT",
+          "name": "Pittsburgh Steelers",
+          "division": "North",
+          "record": "6-2",
+          "pf": 180,
+          "pa": 144
+        },
+        {
+          "abbr": "TEN",
+          "name": "Tennessee Titans",
+          "division": "South",
+          "record": "1-7",
+          "pf": 144,
+          "pa": 199
+        }
+      ],
+      "summary": {
+        "BAL": {
+          "wins": 4,
+          "losses": 11,
+          "ties": 0
+        },
+        "BUF": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0
+        },
+        "CIN": {
+          "wins": 8,
+          "losses": 7,
+          "ties": 0
+        },
+        "CLE": {
+          "wins": 8,
+          "losses": 7,
+          "ties": 0
+        },
+        "DEN": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0
+        },
+        "HOU": {
+          "wins": 7,
+          "losses": 8,
+          "ties": 0
+        },
+        "IND": {
+          "wins": 2,
+          "losses": 13,
+          "ties": 0
+        },
+        "JAX": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0
+        },
+        "KC": {
+          "wins": 15,
+          "losses": 0,
+          "ties": 0
+        },
+        "LAC": {
+          "wins": 0,
+          "losses": 15,
+          "ties": 0
+        },
+        "LV": {
+          "wins": 6,
+          "losses": 9,
+          "ties": 0
+        },
+        "MIA": {
+          "wins": 5,
+          "losses": 10,
+          "ties": 0
+        },
+        "NE": {
+          "wins": 13,
+          "losses": 2,
+          "ties": 0
+        },
+        "NYJ": {
+          "wins": 5,
+          "losses": 10,
+          "ties": 0
+        },
+        "PIT": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0
+        },
+        "TEN": {
+          "wins": 2,
+          "losses": 13,
+          "ties": 0
+        }
+      },
+      "matchups": [
+        {
+          "team1": "BAL",
+          "team2": "BUF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BAL",
+          "team2": "CIN",
+          "type": "division",
+          "division": "AFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BAL",
+          "team2": "CLE",
+          "type": "division",
+          "division": "AFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BAL",
+          "team2": "DEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "3-1",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "HOU",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "IND",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "BAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BAL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BAL",
+          "team2": "JAX",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BAL",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "6-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "0-5",
+              "applied": true,
+              "winner": "BAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BAL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "LV",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LV",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "BAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BAL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "2-4",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-1",
+              "team2": "2-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "10-25",
+              "team2": "6-11",
+              "applied": true,
+              "winner": "NYJ",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYJ",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "BAL",
+          "team2": "PIT",
+          "type": "division",
+          "division": "AFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "0-2",
+              "team2": "2-1",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "BAL",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "BAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BAL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BUF",
+          "team2": "CIN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "4-2",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "CLE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "DEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-1",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "HOU",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BUF",
+          "team2": "IND",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "JAX",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "5-2",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "6-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BUF",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BUF",
+          "team2": "MIA",
+          "type": "division",
+          "division": "AFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "0-1",
+              "team2": "1-1",
+              "applied": true,
+              "winner": "MIA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIA",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "NE",
+          "type": "division",
+          "division": "AFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "BUF",
+          "team2": "NYJ",
+          "type": "division",
+          "division": "AFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "0-1",
+              "team2": "0-2",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games",
+              "team1": "2-1",
+              "team2": "0-3",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Common games"
+        },
+        {
+          "team1": "BUF",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "BUF",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "BUF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "BUF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "CLE",
+          "type": "division",
+          "division": "AFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "1-1",
+              "team2": "2-1",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "DEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "3-1",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "HOU",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CIN",
+          "team2": "IND",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "JAX",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CIN",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "6-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "0-5",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CIN",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-2",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CIN",
+          "team2": "PIT",
+          "type": "division",
+          "division": "AFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CIN",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CLE",
+          "team2": "DEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-1",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CLE",
+          "team2": "HOU",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-3",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-1",
+              "team2": "2-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "17-25",
+              "team2": "7-17",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "CLE",
+          "team2": "IND",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CLE",
+          "team2": "JAX",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CLE",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "6-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CLE",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "0-5",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CLE",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-3",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "0-2",
+              "team2": "2-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "17-25",
+              "team2": "6-27",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "CLE",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CLE",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CLE",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "NYJ",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYJ",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CLE",
+          "team2": "PIT",
+          "type": "division",
+          "division": "AFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-1",
+              "team2": "1-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "2-1",
+              "team2": "2-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games",
+              "team1": "1-1",
+              "team2": "2-0",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Common games"
+        },
+        {
+          "team1": "CLE",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CLE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CLE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DEN",
+          "team2": "HOU",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "IND",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "JAX",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DEN",
+          "team2": "KC",
+          "type": "division",
+          "division": "AFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-1",
+              "team2": "1-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "2-1",
+              "team2": "3-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "LAC",
+          "type": "division",
+          "division": "AFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DEN",
+          "team2": "LV",
+          "type": "division",
+          "division": "AFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "2-1",
+              "team2": "1-1",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DEN",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "DEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "HOU",
+          "team2": "IND",
+          "type": "division",
+          "division": "AFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "IND",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "IND",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "HOU",
+          "team2": "JAX",
+          "type": "division",
+          "division": "AFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "HOU",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "6-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "HOU",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "HOU",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-3",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-1",
+              "team2": "1-1",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "7-17",
+              "team2": "6-27",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "HOU",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "HOU",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "HOU",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "HOU",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "HOU",
+          "team2": "TEN",
+          "type": "division",
+          "division": "AFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "HOU",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "HOU",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "IND",
+          "team2": "JAX",
+          "type": "division",
+          "division": "AFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "IND",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "IND",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-5",
+              "team2": "0-5",
+              "applied": true,
+              "winner": "IND",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "IND",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "IND",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-5",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "LV",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LV",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "IND",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-5",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "MIA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIA",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "IND",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-5",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "IND",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-5",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "NYJ",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYJ",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "IND",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "IND",
+          "team2": "TEN",
+          "type": "division",
+          "division": "AFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "TEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TEN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "JAX",
+          "team2": "KC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "6-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "JAX",
+          "team2": "LAC",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "0-5",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "JAX",
+          "team2": "LV",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "JAX",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "JAX",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "JAX",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "JAX",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "JAX",
+          "team2": "TEN",
+          "type": "division",
+          "division": "AFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "1-1",
+              "team2": "1-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games",
+              "team1": "5-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "JAX",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "JAX",
+          "tie": false,
+          "decided_by": "Common games"
+        },
+        {
+          "team1": "KC",
+          "team2": "LAC",
+          "type": "division",
+          "division": "AFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "KC",
+          "team2": "LV",
+          "type": "division",
+          "division": "AFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "KC",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "KC",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "6-1",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "KC",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "KC",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "6-1",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "KC",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "6-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "KC",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "KC",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAC",
+          "team2": "LV",
+          "type": "division",
+          "division": "AFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "LV",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LV",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LAC",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "0-5",
+              "team2": "1-4",
+              "applied": true,
+              "winner": "MIA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIA",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAC",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "0-5",
+              "team2": "5-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAC",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "0-5",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "NYJ",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYJ",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAC",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "0-5",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAC",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "0-5",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "TEN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TEN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LV",
+          "team2": "MIA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "LV",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LV",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LV",
+          "team2": "NE",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LV",
+          "team2": "NYJ",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "LV",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LV",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LV",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LV",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "LV",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LV",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "MIA",
+          "team2": "NE",
+          "type": "division",
+          "division": "AFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "MIA",
+          "team2": "NYJ",
+          "type": "division",
+          "division": "AFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "MIA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIA",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "MIA",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-4",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "MIA",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-4",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "MIA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIA",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NE",
+          "team2": "NYJ",
+          "type": "division",
+          "division": "AFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "NE",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "NE",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-1",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "NE",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NE",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NYJ",
+          "team2": "PIT",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NYJ",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "NYJ",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYJ",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "PIT",
+          "team2": "TEN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-2",
+              "team2": "1-5",
+              "applied": true,
+              "winner": "PIT",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "PIT",
+          "tie": false,
+          "decided_by": "Conference record"
+        }
+      ]
+    },
+    "NFC": {
+      "teams": [
+        {
+          "abbr": "ARI",
+          "name": "Arizona Cardinals",
+          "division": "West",
+          "record": "3-6",
+          "pf": 178,
+          "pa": 255
+        },
+        {
+          "abbr": "ATL",
+          "name": "Atlanta Falcons",
+          "division": "South",
+          "record": "3-6",
+          "pf": 188,
+          "pa": 223
+        },
+        {
+          "abbr": "CAR",
+          "name": "Carolina Panthers",
+          "division": "South",
+          "record": "3-5",
+          "pf": 199,
+          "pa": 219
+        },
+        {
+          "abbr": "CHI",
+          "name": "Chicago Bears",
+          "division": "North",
+          "record": "7-2",
+          "pf": 241,
+          "pa": 184
+        },
+        {
+          "abbr": "DAL",
+          "name": "Dallas Cowboys",
+          "division": "East",
+          "record": "4-5",
+          "pf": 246,
+          "pa": 236
+        },
+        {
+          "abbr": "DET",
+          "name": "Detroit Lions",
+          "division": "North",
+          "record": "6-2",
+          "pf": 222,
+          "pa": 189
+        },
+        {
+          "abbr": "GB",
+          "name": "Green Bay Packers",
+          "division": "North",
+          "record": "6-3",
+          "pf": 216,
+          "pa": 191
+        },
+        {
+          "abbr": "LAR",
+          "name": "Los Angeles Rams",
+          "division": "West",
+          "record": "5-4",
+          "pf": 214,
+          "pa": 181
+        },
+        {
+          "abbr": "MIN",
+          "name": "Minnesota Vikings",
+          "division": "North",
+          "record": "6-2",
+          "pf": 146,
+          "pa": 116
+        },
+        {
+          "abbr": "NO",
+          "name": "New Orleans Saints",
+          "division": "South",
+          "record": "3-5",
+          "pf": 185,
+          "pa": 216
+        },
+        {
+          "abbr": "NYG",
+          "name": "New York Giants",
+          "division": "East",
+          "record": "5-3-1",
+          "pf": 203,
+          "pa": 196
+        },
+        {
+          "abbr": "PHI",
+          "name": "Philadelphia Eagles",
+          "division": "East",
+          "record": "2-7",
+          "pf": 148,
+          "pa": 221
+        },
+        {
+          "abbr": "SEA",
+          "name": "Seattle Seahawks",
+          "division": "West",
+          "record": "5-4",
+          "pf": 202,
+          "pa": 162
+        },
+        {
+          "abbr": "SF",
+          "name": "San Francisco 49ers",
+          "division": "West",
+          "record": "7-1",
+          "pf": 235,
+          "pa": 156
+        },
+        {
+          "abbr": "TB",
+          "name": "Tampa Bay Buccaneers",
+          "division": "South",
+          "record": "3-6",
+          "pf": 202,
+          "pa": 178
+        },
+        {
+          "abbr": "WAS",
+          "name": "Washington Commanders",
+          "division": "East",
+          "record": "3-5-1",
+          "pf": 196,
+          "pa": 223
+        }
+      ],
+      "summary": {
+        "ARI": {
+          "wins": 4,
+          "losses": 11,
+          "ties": 0
+        },
+        "ATL": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0
+        },
+        "CAR": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0
+        },
+        "CHI": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0
+        },
+        "DAL": {
+          "wins": 3,
+          "losses": 12,
+          "ties": 0
+        },
+        "DET": {
+          "wins": 13,
+          "losses": 2,
+          "ties": 0
+        },
+        "GB": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0
+        },
+        "LAR": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0
+        },
+        "MIN": {
+          "wins": 13,
+          "losses": 2,
+          "ties": 0
+        },
+        "NO": {
+          "wins": 2,
+          "losses": 13,
+          "ties": 0
+        },
+        "NYG": {
+          "wins": 4,
+          "losses": 11,
+          "ties": 0
+        },
+        "PHI": {
+          "wins": 0,
+          "losses": 15,
+          "ties": 0
+        },
+        "SEA": {
+          "wins": 5,
+          "losses": 10,
+          "ties": 0
+        },
+        "SF": {
+          "wins": 14,
+          "losses": 1,
+          "ties": 0
+        },
+        "TB": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0
+        },
+        "WAS": {
+          "wins": 5,
+          "losses": 10,
+          "ties": 0
+        }
+      },
+      "matchups": [
+        {
+          "team1": "ARI",
+          "team2": "ATL",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "CAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "CHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "5-2",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "DAL",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "ARI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ARI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ARI",
+          "team2": "DET",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ARI",
+          "team2": "GB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "4-3",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "LAR",
+          "type": "division",
+          "division": "NFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "ARI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ARI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ARI",
+          "team2": "MIN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "1-3",
+              "applied": true,
+              "winner": "ARI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ARI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "NYG",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYG",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ARI",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "1-6",
+              "applied": true,
+              "winner": "ARI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ARI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "SEA",
+          "type": "division",
+          "division": "NFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-2",
+              "team2": "2-0",
+              "applied": true,
+              "winner": "SEA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SEA",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ARI",
+          "team2": "SF",
+          "type": "division",
+          "division": "NFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ARI",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ARI",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-5",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "WAS",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "WAS",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "CAR",
+          "type": "division",
+          "division": "NFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ATL",
+          "team2": "CHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ATL",
+          "team2": "DAL",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "DET",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "GB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ATL",
+          "team2": "LAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "MIN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "NO",
+          "type": "division",
+          "division": "NFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ATL",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-3-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "16-9",
+              "team2": "13-30",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "ATL",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "1-6",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "ATL",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ATL",
+          "team2": "TB",
+          "type": "division",
+          "division": "NFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "ATL",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "ATL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "ATL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "CHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CAR",
+          "team2": "DAL",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "DET",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CAR",
+          "team2": "GB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CAR",
+          "team2": "LAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "MIN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "NO",
+          "type": "division",
+          "division": "NFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "1-1",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-3-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-0",
+              "team2": "1-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "11-15",
+              "team2": "13-30",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "CAR",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CAR",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CAR",
+          "team2": "TB",
+          "type": "division",
+          "division": "NFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CAR",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "CAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "DAL",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "2-4",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "DET",
+          "type": "division",
+          "division": "NFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "0-2",
+              "team2": "2-0",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "GB",
+          "type": "division",
+          "division": "NFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CHI",
+          "team2": "LAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "MIN",
+          "type": "division",
+          "division": "NFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CHI",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "1-3",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "3-3-1",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CHI",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CHI",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "CHI",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "CHI",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "5-2",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "CHI",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "CHI",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "DET",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "GB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DAL",
+          "team2": "LAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "MIN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "1-3",
+              "applied": true,
+              "winner": "DAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DAL",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "NYG",
+          "type": "division",
+          "division": "NFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "NYG",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYG",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DAL",
+          "team2": "PHI",
+          "type": "division",
+          "division": "NFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DAL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DAL",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "SEA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SEA",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-4",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DAL",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DAL",
+          "team2": "WAS",
+          "type": "division",
+          "division": "NFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DAL",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DAL",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DET",
+          "team2": "GB",
+          "type": "division",
+          "division": "NFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DET",
+          "team2": "LAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DET",
+          "team2": "MIN",
+          "type": "division",
+          "division": "NFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DET",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "DET",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-3-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DET",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "1-6",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DET",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DET",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "4-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "2-0",
+              "team2": "2-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "21-30",
+              "team2": "28-33-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "DET",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "DET",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "DET",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "DET",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "LAR",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "3-2",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "MIN",
+          "type": "division",
+          "division": "NFC North",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "GB",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "1-3",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "3-3-1",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "1-6",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "GB",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "GB",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-3",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "GB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "GB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAR",
+          "team2": "MIN",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-2",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAR",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-2",
+              "team2": "1-3",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAR",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LAR",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LAR",
+          "team2": "SEA",
+          "type": "division",
+          "division": "NFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "0-2",
+              "team2": "2-1",
+              "applied": true,
+              "winner": "SEA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SEA",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "LAR",
+          "team2": "SF",
+          "type": "division",
+          "division": "NFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "LAR",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-2",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "LAR",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "LAR",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "LAR",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "MIN",
+          "team2": "NO",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "MIN",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-3-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "MIN",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "1-6",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "MIN",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "MIN",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "4-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-0",
+              "team2": "1-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "22-30",
+              "team2": "28-33-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "MIN",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "MIN",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "MIN",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "MIN",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NO",
+          "team2": "NYG",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "NO",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NO",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "NO",
+          "team2": "PHI",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-3",
+              "team2": "1-6",
+              "applied": true,
+              "winner": "NO",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NO",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NO",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-3",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "SEA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SEA",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NO",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-3",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NO",
+          "team2": "TB",
+          "type": "division",
+          "division": "NFC South",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "0-1",
+              "team2": "2-0",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "NO",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-3",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "WAS",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "WAS",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NYG",
+          "team2": "PHI",
+          "type": "division",
+          "division": "NFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "NYG",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYG",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "NYG",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3-1",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "NYG",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "NYG",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NYG",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3-1",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "NYG",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3-1",
+              "team2": "3-3",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-0",
+              "team2": "1-0",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "13-30",
+              "team2": "10-16",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Strength of victory"
+        },
+        {
+          "team1": "NYG",
+          "team2": "WAS",
+          "type": "division",
+          "division": "NFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1-1",
+              "team2": "1-0-1",
+              "applied": true,
+              "winner": "WAS",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "WAS",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "PHI",
+          "team2": "SEA",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-6",
+              "team2": "2-3",
+              "applied": true,
+              "winner": "SEA",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SEA",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "PHI",
+          "team2": "SF",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-6",
+              "team2": "4-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "PHI",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "1-6",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "PHI",
+          "team2": "WAS",
+          "type": "division",
+          "division": "NFC East",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-1",
+              "team2": "1-1",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "1-3",
+              "team2": "2-2-1",
+              "applied": true,
+              "winner": "WAS",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "WAS",
+          "tie": false,
+          "decided_by": "Division record"
+        },
+        {
+          "team1": "SEA",
+          "team2": "SF",
+          "type": "division",
+          "division": "NFC West",
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "SEA",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "2-3",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "SEA",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "0-1",
+              "team2": "1-0",
+              "applied": true,
+              "winner": "WAS",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "WAS",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "SF",
+          "team2": "TB",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "4-1",
+              "team2": "3-3",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Conference record"
+        },
+        {
+          "team1": "SF",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "1-0",
+              "team2": "0-1",
+              "applied": true,
+              "winner": "SF",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "SF",
+          "tie": false,
+          "decided_by": "Head-to-head"
+        },
+        {
+          "team1": "TB",
+          "team2": "WAS",
+          "type": "conference",
+          "division": null,
+          "steps": [
+            {
+              "step": "Head-to-head",
+              "team1": "\u2014",
+              "team2": "\u2014",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Conference record",
+              "team1": "3-3",
+              "team2": "3-4-1",
+              "applied": true,
+              "winner": "TB",
+              "available": true,
+              "decisive": true
+            }
+          ],
+          "winner": "TB",
+          "tie": false,
+          "decided_by": "Conference record"
+        }
+      ]
+    }
+  }
+}

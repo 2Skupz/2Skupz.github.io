@@ -1,0 +1,281 @@
+/* NFL additions to the MLB pairwise standings styles */
+
+/* Conferences: 4 divisions + leaders + wild card + explainer + bracket is long;
+   keep the two columns side by side like the MLB page. */
+
+/* Four numeric columns (W, L, T, PCT) when the conference has ties */
+.tb-row.with-ties {
+    grid-template-columns: minmax(160px, 2.4fr) repeat(4, 0.8fr);
+}
+
+@media (max-width: 900px) {
+    .tb-row.with-ties {
+        grid-template-columns: minmax(140px, 2.4fr) repeat(4, 0.8fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .tb-row.with-ties {
+        grid-template-columns: minmax(110px, 1.6fr) repeat(4, 0.7fr);
+    }
+}
+
+/* Divider between the divisional standings and the playoff picture */
+.section-divider {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 8px 0 -8px;
+    color: #475569;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+}
+
+.section-divider::before,
+.section-divider::after {
+    content: "";
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #cbd5e1, transparent);
+}
+
+.nl .section-divider {
+    color: #b91c1c;
+}
+
+/* Tie superscripts are slightly larger in the table to match the MLB page */
+.tie-marker {
+    font-size: 0.65em;
+}
+
+/* Simulated playoffs: fixed geometry so AFC and NFC line up.
+   Cards are absolutely placed by main-page JS (top values in pairwiseStandings.js). */
+.bracket-card .bracket {
+    position: relative;
+    display: block;
+    margin: 0 14px;
+    padding: 0;
+}
+
+.bracket-card .bracket-round {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 31%;
+    display: block;
+    gap: 0;
+    justify-content: flex-start;
+}
+
+.bracket-card .bracket-round-1 { left: 0; }
+.bracket-card .bracket-round-2 { left: 34.5%; }
+.bracket-card .bracket-round-3 { left: 69%; }
+
+.bracket-card .bracket-round-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.bracket-card .bracket-game {
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    flex: none;
+    min-width: 0;
+}
+
+.bracket-card .bracket-game .bracket-note {
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
+}
+
+/* Phones: stack the rounds instead of placing them */
+@media (max-width: 600px) {
+    .bracket-card .bracket {
+        height: auto !important;
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        margin: 0 12px;
+    }
+
+    .bracket-card .bracket-round {
+        position: static;
+        width: auto;
+        display: block;
+    }
+
+    .bracket-card .bracket-round-title {
+        position: static;
+        margin-bottom: 6px;
+    }
+
+    .bracket-card .bracket-game {
+        position: static;
+        height: auto !important;
+        margin-bottom: 8px;
+    }
+}
+
+/* Wild card spots are shaded blue */
+.row-clinch {
+    background: #eff6ff;
+}
+
+.row-clinch:hover {
+    background: #dbeafe !important;
+}
+
+/* Tiebreaker criteria list */
+.rules-card {
+    margin-top: 32px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    padding: 24px 28px;
+}
+
+.rules-card h2 {
+    font-size: 1.3rem;
+    margin-bottom: 6px;
+}
+
+.rules-card > p {
+    color: #64748b;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 18px;
+}
+
+.rules-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+}
+
+.rules-grid h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #475569;
+    margin-bottom: 10px;
+}
+
+.rules-grid ol {
+    padding-left: 22px;
+    color: #1e293b;
+    font-size: 0.92rem;
+    line-height: 1.8;
+}
+
+.rules-grid .rules-note {
+    color: #94a3b8;
+    font-size: 0.8rem;
+}
+
+@media (max-width: 600px) {
+    .rules-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Simulated playoffs: AFC and NFC brackets side by side, starting at the same height */
+.pairwise-brackets {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    align-items: start;
+    margin-top: 24px;
+}
+
+@media (max-width: 900px) {
+    .pairwise-brackets {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Tiebreaker rules dialog, opened from the top link */
+.rules-dialog {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.25);
+    padding: 24px 28px;
+    max-width: min(720px, calc(100vw - 32px));
+    width: 100%;
+    color: #1e293b;
+}
+
+.rules-dialog::backdrop {
+    background: rgba(15, 23, 42, 0.45);
+}
+
+.rules-dialog-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.rules-dialog-head h2 {
+    font-size: 1.3rem;
+}
+
+.rules-close {
+    background: none;
+    border: none;
+    font-size: 1.6rem;
+    line-height: 1;
+    color: #64748b;
+    cursor: pointer;
+    padding: 0 4px;
+}
+
+.rules-close:hover {
+    color: #1e293b;
+}
+
+.rules-dialog > p {
+    color: #64748b;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 18px;
+}
+
+.rules-dialog .rules-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+}
+
+.rules-dialog .rules-grid h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #475569;
+    margin-bottom: 10px;
+}
+
+.rules-dialog .rules-grid ol {
+    padding-left: 22px;
+    font-size: 0.92rem;
+    line-height: 1.8;
+}
+
+.rules-dialog .rules-note {
+    color: #94a3b8;
+    font-size: 0.8rem;
+    margin-top: 14px;
+}
+
+@media (max-width: 600px) {
+    .rules-dialog .rules-grid {
+        grid-template-columns: 1fr;
+    }
+}

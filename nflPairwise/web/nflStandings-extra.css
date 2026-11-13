@@ -1,0 +1,55 @@
+/* Real NFL standings: column widths follow --cols (set on each row) */
+
+.standings-divisions {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.standings-row.std-row {
+    grid-template-columns: minmax(170px, 2.4fr) repeat(var(--cols), minmax(0, 0.8fr));
+}
+
+.std-row .std-small {
+    font-size: 0.8rem;
+}
+
+.std-header .col-num {
+    font-size: 0.72rem;
+}
+
+.streak-win {
+    color: #15803d;
+}
+
+.streak-loss {
+    color: #b91c1c;
+}
+
+/* Wild card spots are shaded blue */
+.row-wildcard {
+    background: #eff6ff;
+}
+
+.row-wildcard:hover {
+    background: #dbeafe !important;
+}
+
+/* Phones: keep every column by letting the table scroll sideways */
+@media (max-width: 600px) {
+    .standings-table {
+        overflow-x: auto;
+    }
+
+    .standings-row.std-row {
+        grid-template-columns: minmax(130px, 2fr) repeat(var(--cols), minmax(38px, 0.8fr));
+        min-width: 470px;
+        font-size: 0.85rem;
+    }
+
+    .standings-table > .standings-title,
+    .standings-table > .standings-row.std-header {
+        min-width: 470px;
+    }
+}

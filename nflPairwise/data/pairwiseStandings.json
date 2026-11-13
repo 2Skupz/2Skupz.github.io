@@ -1,0 +1,1164 @@
+{
+  "season": 2026,
+  "generated": "2026-11-13 15:12",
+  "games_counted": 137,
+  "AFC": {
+    "has_ties": false,
+    "divisions": {
+      "West": [
+        {
+          "abbr": "KC",
+          "name": "Kansas City Chiefs",
+          "division": "West",
+          "tb_w": 15,
+          "tb_t": 0,
+          "tb_l": 0,
+          "tb_pct": "1.000",
+          "rank": 1,
+          "in_wc": false
+        },
+        {
+          "abbr": "DEN",
+          "name": "Denver Broncos",
+          "division": "West",
+          "tb_w": 12,
+          "tb_t": 0,
+          "tb_l": 3,
+          "tb_pct": ".800",
+          "rank": 2,
+          "in_wc": true
+        },
+        {
+          "abbr": "LV",
+          "name": "Las Vegas Raiders",
+          "division": "West",
+          "tb_w": 6,
+          "tb_t": 0,
+          "tb_l": 9,
+          "tb_pct": ".400",
+          "rank": 3,
+          "in_wc": false
+        },
+        {
+          "abbr": "LAC",
+          "name": "Los Angeles Chargers",
+          "division": "West",
+          "tb_w": 0,
+          "tb_t": 0,
+          "tb_l": 15,
+          "tb_pct": ".000",
+          "rank": 4,
+          "in_wc": false
+        }
+      ],
+      "North": [
+        {
+          "abbr": "PIT",
+          "name": "Pittsburgh Steelers",
+          "division": "North",
+          "tb_w": 10,
+          "tb_t": 0,
+          "tb_l": 5,
+          "tb_pct": ".667",
+          "rank": 1,
+          "in_wc": false
+        },
+        {
+          "abbr": "CLE",
+          "name": "Cleveland Browns",
+          "division": "North",
+          "tb_w": 8,
+          "tb_t": 0,
+          "tb_l": 7,
+          "tb_pct": ".533",
+          "rank": 2,
+          "in_wc": true,
+          "tie_number": 1
+        },
+        {
+          "abbr": "CIN",
+          "name": "Cincinnati Bengals",
+          "division": "North",
+          "tb_w": 8,
+          "tb_t": 0,
+          "tb_l": 7,
+          "tb_pct": ".533",
+          "rank": 3,
+          "in_wc": false,
+          "tie_number": 1
+        },
+        {
+          "abbr": "BAL",
+          "name": "Baltimore Ravens",
+          "division": "North",
+          "tb_w": 4,
+          "tb_t": 0,
+          "tb_l": 11,
+          "tb_pct": ".267",
+          "rank": 4,
+          "in_wc": false
+        }
+      ],
+      "East": [
+        {
+          "abbr": "NE",
+          "name": "New England Patriots",
+          "division": "East",
+          "tb_w": 13,
+          "tb_t": 0,
+          "tb_l": 2,
+          "tb_pct": ".867",
+          "rank": 1,
+          "in_wc": false
+        },
+        {
+          "abbr": "BUF",
+          "name": "Buffalo Bills",
+          "division": "East",
+          "tb_w": 12,
+          "tb_t": 0,
+          "tb_l": 3,
+          "tb_pct": ".800",
+          "rank": 2,
+          "in_wc": true
+        },
+        {
+          "abbr": "MIA",
+          "name": "Miami Dolphins",
+          "division": "East",
+          "tb_w": 5,
+          "tb_t": 0,
+          "tb_l": 10,
+          "tb_pct": ".333",
+          "rank": 3,
+          "in_wc": false,
+          "tie_number": 2
+        },
+        {
+          "abbr": "NYJ",
+          "name": "New York Jets",
+          "division": "East",
+          "tb_w": 5,
+          "tb_t": 0,
+          "tb_l": 10,
+          "tb_pct": ".333",
+          "rank": 4,
+          "in_wc": false,
+          "tie_number": 2
+        }
+      ],
+      "South": [
+        {
+          "abbr": "JAX",
+          "name": "Jacksonville Jaguars",
+          "division": "South",
+          "tb_w": 11,
+          "tb_t": 0,
+          "tb_l": 4,
+          "tb_pct": ".733",
+          "rank": 1,
+          "in_wc": false
+        },
+        {
+          "abbr": "HOU",
+          "name": "Houston Texans",
+          "division": "South",
+          "tb_w": 7,
+          "tb_t": 0,
+          "tb_l": 8,
+          "tb_pct": ".467",
+          "rank": 2,
+          "in_wc": false
+        },
+        {
+          "abbr": "TEN",
+          "name": "Tennessee Titans",
+          "division": "South",
+          "tb_w": 2,
+          "tb_t": 0,
+          "tb_l": 13,
+          "tb_pct": ".133",
+          "rank": 3,
+          "in_wc": false,
+          "tie_number": 3
+        },
+        {
+          "abbr": "IND",
+          "name": "Indianapolis Colts",
+          "division": "South",
+          "tb_w": 2,
+          "tb_t": 0,
+          "tb_l": 13,
+          "tb_pct": ".133",
+          "rank": 4,
+          "in_wc": false,
+          "tie_number": 3
+        }
+      ]
+    },
+    "division_leaders": [
+      {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
+        "division": "West",
+        "tb_w": 15,
+        "tb_t": 0,
+        "tb_l": 0,
+        "tb_pct": "1.000",
+        "rank": 1
+      },
+      {
+        "abbr": "NE",
+        "name": "New England Patriots",
+        "division": "East",
+        "tb_w": 13,
+        "tb_t": 0,
+        "tb_l": 2,
+        "tb_pct": ".867",
+        "rank": 2
+      },
+      {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars",
+        "division": "South",
+        "tb_w": 11,
+        "tb_t": 0,
+        "tb_l": 4,
+        "tb_pct": ".733",
+        "rank": 3
+      },
+      {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "division": "North",
+        "tb_w": 10,
+        "tb_t": 0,
+        "tb_l": 5,
+        "tb_pct": ".667",
+        "rank": 4
+      }
+    ],
+    "wildcard": [
+      {
+        "abbr": "BUF",
+        "name": "Buffalo Bills",
+        "division": "East",
+        "tb_w": 12,
+        "tb_t": 0,
+        "tb_l": 3,
+        "tb_pct": ".800",
+        "wc_rank": 1,
+        "in_wc": true,
+        "tie_number": 4
+      },
+      {
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "division": "West",
+        "tb_w": 12,
+        "tb_t": 0,
+        "tb_l": 3,
+        "tb_pct": ".800",
+        "wc_rank": 2,
+        "in_wc": true,
+        "tie_number": 4
+      },
+      {
+        "abbr": "CLE",
+        "name": "Cleveland Browns",
+        "division": "North",
+        "tb_w": 8,
+        "tb_t": 0,
+        "tb_l": 7,
+        "tb_pct": ".533",
+        "wc_rank": 3,
+        "in_wc": true,
+        "tie_number": 5
+      },
+      {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals",
+        "division": "North",
+        "tb_w": 8,
+        "tb_t": 0,
+        "tb_l": 7,
+        "tb_pct": ".533",
+        "wc_rank": 4,
+        "in_wc": false,
+        "tie_number": 5
+      },
+      {
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "division": "South",
+        "tb_w": 7,
+        "tb_t": 0,
+        "tb_l": 8,
+        "tb_pct": ".467",
+        "wc_rank": 5,
+        "in_wc": false
+      },
+      {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders",
+        "division": "West",
+        "tb_w": 6,
+        "tb_t": 0,
+        "tb_l": 9,
+        "tb_pct": ".400",
+        "wc_rank": 6,
+        "in_wc": false
+      },
+      {
+        "abbr": "MIA",
+        "name": "Miami Dolphins",
+        "division": "East",
+        "tb_w": 5,
+        "tb_t": 0,
+        "tb_l": 10,
+        "tb_pct": ".333",
+        "wc_rank": 7,
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "NYJ",
+        "name": "New York Jets",
+        "division": "East",
+        "tb_w": 5,
+        "tb_t": 0,
+        "tb_l": 10,
+        "tb_pct": ".333",
+        "wc_rank": 8,
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "division": "North",
+        "tb_w": 4,
+        "tb_t": 0,
+        "tb_l": 11,
+        "tb_pct": ".267",
+        "wc_rank": 9,
+        "in_wc": false
+      },
+      {
+        "abbr": "TEN",
+        "name": "Tennessee Titans",
+        "division": "South",
+        "tb_w": 2,
+        "tb_t": 0,
+        "tb_l": 13,
+        "tb_pct": ".133",
+        "wc_rank": 10,
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
+        "division": "South",
+        "tb_w": 2,
+        "tb_t": 0,
+        "tb_l": 13,
+        "tb_pct": ".133",
+        "wc_rank": 11,
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "division": "West",
+        "tb_w": 0,
+        "tb_t": 0,
+        "tb_l": 15,
+        "tb_pct": ".000",
+        "wc_rank": 12,
+        "in_wc": false
+      }
+    ],
+    "ties": [
+      {
+        "teams": [
+          "CLE",
+          "CIN"
+        ],
+        "record": "8-7",
+        "steps": [
+          "CLE over CIN on division record (2-1 vs. 1-1)"
+        ],
+        "number": 1,
+        "label": "AFC North"
+      },
+      {
+        "teams": [
+          "MIA",
+          "NYJ"
+        ],
+        "record": "5-10",
+        "steps": [
+          "MIA over NYJ on head-to-head (1-0)"
+        ],
+        "number": 2,
+        "label": "AFC East"
+      },
+      {
+        "teams": [
+          "TEN",
+          "IND"
+        ],
+        "record": "2-13",
+        "steps": [
+          "TEN over IND on head-to-head (1-0)"
+        ],
+        "number": 3,
+        "label": "AFC South"
+      },
+      {
+        "teams": [
+          "BUF",
+          "DEN"
+        ],
+        "record": "12-3",
+        "steps": [
+          "BUF over DEN on conference record (4-1 vs. 3-1)"
+        ],
+        "number": 4,
+        "label": "AFC Wild Card"
+      },
+      {
+        "teams": [
+          "CLE",
+          "CIN"
+        ],
+        "record": "8-7",
+        "steps": [
+          "Division rule: CIN ranked behind their division mate"
+        ],
+        "number": 5,
+        "label": "AFC Wild Card"
+      },
+      {
+        "teams": [
+          "MIA",
+          "NYJ"
+        ],
+        "record": "5-10",
+        "steps": [
+          "Division rule: NYJ ranked behind their division mate"
+        ],
+        "number": 6,
+        "label": "AFC Wild Card"
+      },
+      {
+        "teams": [
+          "TEN",
+          "IND"
+        ],
+        "record": "2-13",
+        "steps": [
+          "Division rule: IND ranked behind their division mate"
+        ],
+        "number": 7,
+        "label": "AFC Wild Card"
+      }
+    ],
+    "playoffs": {
+      "wild_card": [
+        {
+          "teams": [
+            {
+              "abbr": "NE",
+              "name": "New England Patriots",
+              "seed": 2
+            },
+            {
+              "abbr": "CLE",
+              "name": "Cleveland Browns",
+              "seed": 7
+            }
+          ],
+          "winner": {
+            "abbr": "NE",
+            "name": "New England Patriots",
+            "seed": 2
+          },
+          "note": "NE over CLE on conference record (5-1 vs. 3-3)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "JAX",
+              "name": "Jacksonville Jaguars",
+              "seed": 3
+            },
+            {
+              "abbr": "DEN",
+              "name": "Denver Broncos",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "DEN",
+            "name": "Denver Broncos",
+            "seed": 6
+          },
+          "note": "DEN over JAX on head-to-head (1-0)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "PIT",
+              "name": "Pittsburgh Steelers",
+              "seed": 4
+            },
+            {
+              "abbr": "BUF",
+              "name": "Buffalo Bills",
+              "seed": 5
+            }
+          ],
+          "winner": {
+            "abbr": "BUF",
+            "name": "Buffalo Bills",
+            "seed": 5
+          },
+          "note": "BUF over PIT on conference record (4-1 vs. 3-2)"
+        }
+      ],
+      "divisional": [
+        {
+          "teams": [
+            {
+              "abbr": "KC",
+              "name": "Kansas City Chiefs",
+              "seed": 1
+            },
+            {
+              "abbr": "DEN",
+              "name": "Denver Broncos",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "KC",
+            "name": "Kansas City Chiefs",
+            "seed": 1
+          },
+          "note": "KC over DEN on division record (3-1 vs. 2-1)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "NE",
+              "name": "New England Patriots",
+              "seed": 2
+            },
+            {
+              "abbr": "BUF",
+              "name": "Buffalo Bills",
+              "seed": 5
+            }
+          ],
+          "winner": {
+            "abbr": "NE",
+            "name": "New England Patriots",
+            "seed": 2
+          },
+          "note": "NE over BUF on head-to-head (1-0)"
+        }
+      ],
+      "championship": [
+        {
+          "teams": [
+            {
+              "abbr": "KC",
+              "name": "Kansas City Chiefs",
+              "seed": 1
+            },
+            {
+              "abbr": "NE",
+              "name": "New England Patriots",
+              "seed": 2
+            }
+          ],
+          "winner": {
+            "abbr": "KC",
+            "name": "Kansas City Chiefs",
+            "seed": 1
+          },
+          "note": "KC over NE on conference record (6-1 vs. 5-1)"
+        }
+      ],
+      "champion": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs",
+        "seed": 1
+      }
+    }
+  },
+  "NFC": {
+    "has_ties": false,
+    "divisions": {
+      "West": [
+        {
+          "abbr": "SF",
+          "name": "San Francisco 49ers",
+          "division": "West",
+          "tb_w": 14,
+          "tb_t": 0,
+          "tb_l": 1,
+          "tb_pct": ".933",
+          "rank": 1,
+          "in_wc": false
+        },
+        {
+          "abbr": "LAR",
+          "name": "Los Angeles Rams",
+          "division": "West",
+          "tb_w": 9,
+          "tb_t": 0,
+          "tb_l": 6,
+          "tb_pct": ".600",
+          "rank": 2,
+          "in_wc": false
+        },
+        {
+          "abbr": "SEA",
+          "name": "Seattle Seahawks",
+          "division": "West",
+          "tb_w": 5,
+          "tb_t": 0,
+          "tb_l": 10,
+          "tb_pct": ".333",
+          "rank": 3,
+          "in_wc": false
+        },
+        {
+          "abbr": "ARI",
+          "name": "Arizona Cardinals",
+          "division": "West",
+          "tb_w": 4,
+          "tb_t": 0,
+          "tb_l": 11,
+          "tb_pct": ".267",
+          "rank": 4,
+          "in_wc": false
+        }
+      ],
+      "North": [
+        {
+          "abbr": "DET",
+          "name": "Detroit Lions",
+          "division": "North",
+          "tb_w": 13,
+          "tb_t": 0,
+          "tb_l": 2,
+          "tb_pct": ".867",
+          "rank": 1,
+          "in_wc": false,
+          "tie_number": 1
+        },
+        {
+          "abbr": "MIN",
+          "name": "Minnesota Vikings",
+          "division": "North",
+          "tb_w": 13,
+          "tb_t": 0,
+          "tb_l": 2,
+          "tb_pct": ".867",
+          "rank": 2,
+          "in_wc": true,
+          "tie_number": 1
+        },
+        {
+          "abbr": "CHI",
+          "name": "Chicago Bears",
+          "division": "North",
+          "tb_w": 11,
+          "tb_t": 0,
+          "tb_l": 4,
+          "tb_pct": ".733",
+          "rank": 3,
+          "in_wc": true
+        },
+        {
+          "abbr": "GB",
+          "name": "Green Bay Packers",
+          "division": "North",
+          "tb_w": 10,
+          "tb_t": 0,
+          "tb_l": 5,
+          "tb_pct": ".667",
+          "rank": 4,
+          "in_wc": true
+        }
+      ],
+      "East": [
+        {
+          "abbr": "WAS",
+          "name": "Washington Commanders",
+          "division": "East",
+          "tb_w": 5,
+          "tb_t": 0,
+          "tb_l": 10,
+          "tb_pct": ".333",
+          "rank": 1,
+          "in_wc": false
+        },
+        {
+          "abbr": "NYG",
+          "name": "New York Giants",
+          "division": "East",
+          "tb_w": 4,
+          "tb_t": 0,
+          "tb_l": 11,
+          "tb_pct": ".267",
+          "rank": 2,
+          "in_wc": false
+        },
+        {
+          "abbr": "DAL",
+          "name": "Dallas Cowboys",
+          "division": "East",
+          "tb_w": 3,
+          "tb_t": 0,
+          "tb_l": 12,
+          "tb_pct": ".200",
+          "rank": 3,
+          "in_wc": false
+        },
+        {
+          "abbr": "PHI",
+          "name": "Philadelphia Eagles",
+          "division": "East",
+          "tb_w": 0,
+          "tb_t": 0,
+          "tb_l": 15,
+          "tb_pct": ".000",
+          "rank": 4,
+          "in_wc": false
+        }
+      ],
+      "South": [
+        {
+          "abbr": "TB",
+          "name": "Tampa Bay Buccaneers",
+          "division": "South",
+          "tb_w": 9,
+          "tb_t": 0,
+          "tb_l": 6,
+          "tb_pct": ".600",
+          "rank": 1,
+          "in_wc": false,
+          "tie_number": 2
+        },
+        {
+          "abbr": "CAR",
+          "name": "Carolina Panthers",
+          "division": "South",
+          "tb_w": 9,
+          "tb_t": 0,
+          "tb_l": 6,
+          "tb_pct": ".600",
+          "rank": 2,
+          "in_wc": false,
+          "tie_number": 2
+        },
+        {
+          "abbr": "ATL",
+          "name": "Atlanta Falcons",
+          "division": "South",
+          "tb_w": 9,
+          "tb_t": 0,
+          "tb_l": 6,
+          "tb_pct": ".600",
+          "rank": 3,
+          "in_wc": false,
+          "tie_number": 2
+        },
+        {
+          "abbr": "NO",
+          "name": "New Orleans Saints",
+          "division": "South",
+          "tb_w": 2,
+          "tb_t": 0,
+          "tb_l": 13,
+          "tb_pct": ".133",
+          "rank": 4,
+          "in_wc": false
+        }
+      ]
+    },
+    "division_leaders": [
+      {
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "division": "West",
+        "tb_w": 14,
+        "tb_t": 0,
+        "tb_l": 1,
+        "tb_pct": ".933",
+        "rank": 1
+      },
+      {
+        "abbr": "DET",
+        "name": "Detroit Lions",
+        "division": "North",
+        "tb_w": 13,
+        "tb_t": 0,
+        "tb_l": 2,
+        "tb_pct": ".867",
+        "rank": 2
+      },
+      {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers",
+        "division": "South",
+        "tb_w": 9,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".600",
+        "rank": 3
+      },
+      {
+        "abbr": "WAS",
+        "name": "Washington Commanders",
+        "division": "East",
+        "tb_w": 5,
+        "tb_t": 0,
+        "tb_l": 10,
+        "tb_pct": ".333",
+        "rank": 4
+      }
+    ],
+    "wildcard": [
+      {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings",
+        "division": "North",
+        "tb_w": 13,
+        "tb_t": 0,
+        "tb_l": 2,
+        "tb_pct": ".867",
+        "wc_rank": 1,
+        "in_wc": true
+      },
+      {
+        "abbr": "CHI",
+        "name": "Chicago Bears",
+        "division": "North",
+        "tb_w": 11,
+        "tb_t": 0,
+        "tb_l": 4,
+        "tb_pct": ".733",
+        "wc_rank": 2,
+        "in_wc": true
+      },
+      {
+        "abbr": "GB",
+        "name": "Green Bay Packers",
+        "division": "North",
+        "tb_w": 10,
+        "tb_t": 0,
+        "tb_l": 5,
+        "tb_pct": ".667",
+        "wc_rank": 3,
+        "in_wc": true
+      },
+      {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams",
+        "division": "West",
+        "tb_w": 9,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".600",
+        "wc_rank": 4,
+        "in_wc": false,
+        "tie_number": 3
+      },
+      {
+        "abbr": "CAR",
+        "name": "Carolina Panthers",
+        "division": "South",
+        "tb_w": 9,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".600",
+        "wc_rank": 5,
+        "in_wc": false,
+        "tie_number": 3
+      },
+      {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons",
+        "division": "South",
+        "tb_w": 9,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".600",
+        "wc_rank": 6,
+        "in_wc": false,
+        "tie_number": 3
+      },
+      {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks",
+        "division": "West",
+        "tb_w": 5,
+        "tb_t": 0,
+        "tb_l": 10,
+        "tb_pct": ".333",
+        "wc_rank": 7,
+        "in_wc": false
+      },
+      {
+        "abbr": "NYG",
+        "name": "New York Giants",
+        "division": "East",
+        "tb_w": 4,
+        "tb_t": 0,
+        "tb_l": 11,
+        "tb_pct": ".267",
+        "wc_rank": 8,
+        "in_wc": false,
+        "tie_number": 4
+      },
+      {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals",
+        "division": "West",
+        "tb_w": 4,
+        "tb_t": 0,
+        "tb_l": 11,
+        "tb_pct": ".267",
+        "wc_rank": 9,
+        "in_wc": false,
+        "tie_number": 4
+      },
+      {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys",
+        "division": "East",
+        "tb_w": 3,
+        "tb_t": 0,
+        "tb_l": 12,
+        "tb_pct": ".200",
+        "wc_rank": 10,
+        "in_wc": false
+      },
+      {
+        "abbr": "NO",
+        "name": "New Orleans Saints",
+        "division": "South",
+        "tb_w": 2,
+        "tb_t": 0,
+        "tb_l": 13,
+        "tb_pct": ".133",
+        "wc_rank": 11,
+        "in_wc": false
+      },
+      {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles",
+        "division": "East",
+        "tb_w": 0,
+        "tb_t": 0,
+        "tb_l": 15,
+        "tb_pct": ".000",
+        "wc_rank": 12,
+        "in_wc": false
+      }
+    ],
+    "ties": [
+      {
+        "teams": [
+          "DET",
+          "MIN"
+        ],
+        "record": "13-2",
+        "steps": [
+          "DET over MIN on head-to-head (1-0)"
+        ],
+        "number": 1,
+        "label": "NFC North"
+      },
+      {
+        "teams": [
+          "TB",
+          "CAR",
+          "ATL"
+        ],
+        "record": "9-6",
+        "steps": [
+          "Record against each other: ATL 0-2, CAR 1-1, TB 2-0"
+        ],
+        "number": 2,
+        "label": "NFC South"
+      },
+      {
+        "teams": [
+          "LAR",
+          "CAR",
+          "ATL"
+        ],
+        "record": "9-6",
+        "steps": [
+          "Division rule: ATL ranked behind their division mate",
+          "LAR over CAR on conference record (3-2 vs. 3-3)"
+        ],
+        "number": 3,
+        "label": "NFC Wild Card"
+      },
+      {
+        "teams": [
+          "NYG",
+          "ARI"
+        ],
+        "record": "4-11",
+        "steps": [
+          "NYG over ARI on head-to-head (1-0)"
+        ],
+        "number": 4,
+        "label": "NFC Wild Card"
+      }
+    ],
+    "playoffs": {
+      "wild_card": [
+        {
+          "teams": [
+            {
+              "abbr": "DET",
+              "name": "Detroit Lions",
+              "seed": 2
+            },
+            {
+              "abbr": "GB",
+              "name": "Green Bay Packers",
+              "seed": 7
+            }
+          ],
+          "winner": {
+            "abbr": "DET",
+            "name": "Detroit Lions",
+            "seed": 2
+          },
+          "note": "DET over GB on head-to-head (1-0)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "TB",
+              "name": "Tampa Bay Buccaneers",
+              "seed": 3
+            },
+            {
+              "abbr": "CHI",
+              "name": "Chicago Bears",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "CHI",
+            "name": "Chicago Bears",
+            "seed": 6
+          },
+          "note": "CHI over TB on head-to-head (1-0)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "WAS",
+              "name": "Washington Commanders",
+              "seed": 4
+            },
+            {
+              "abbr": "MIN",
+              "name": "Minnesota Vikings",
+              "seed": 5
+            }
+          ],
+          "winner": {
+            "abbr": "MIN",
+            "name": "Minnesota Vikings",
+            "seed": 5
+          },
+          "note": "MIN over WAS on conference record (4-1 vs. 3-4-1)"
+        }
+      ],
+      "divisional": [
+        {
+          "teams": [
+            {
+              "abbr": "SF",
+              "name": "San Francisco 49ers",
+              "seed": 1
+            },
+            {
+              "abbr": "CHI",
+              "name": "Chicago Bears",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "SF",
+            "name": "San Francisco 49ers",
+            "seed": 1
+          },
+          "note": "SF over CHI on conference record (4-1 vs. 5-2)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "DET",
+              "name": "Detroit Lions",
+              "seed": 2
+            },
+            {
+              "abbr": "MIN",
+              "name": "Minnesota Vikings",
+              "seed": 5
+            }
+          ],
+          "winner": {
+            "abbr": "DET",
+            "name": "Detroit Lions",
+            "seed": 2
+          },
+          "note": "DET over MIN on head-to-head (1-0)"
+        }
+      ],
+      "championship": [
+        {
+          "teams": [
+            {
+              "abbr": "SF",
+              "name": "San Francisco 49ers",
+              "seed": 1
+            },
+            {
+              "abbr": "DET",
+              "name": "Detroit Lions",
+              "seed": 2
+            }
+          ],
+          "winner": {
+            "abbr": "SF",
+            "name": "San Francisco 49ers",
+            "seed": 1
+          },
+          "note": "SF over DET on strength of victory (28-33-1 vs. 21-30)"
+        }
+      ],
+      "champion": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers",
+        "seed": 1
+      }
+    }
+  }
+}
