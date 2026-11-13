@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLB Tiebreaking Criteria</title>
+    <link rel="stylesheet" href="../mlbTiebreak/web/mlbTiebreak.css">
+    <link rel="stylesheet" href="pairwiseStandings.css">
+</head>
+<body>
+    <div class="container criteria">
+        <h1>MLB Tiebreaking Criteria</h1>
+        <p class="subtitle">How teams with the same record are separated, from two teams up to four.</p>
+        <p class="subtitle"><a href="pairwiseStandings.html">&larr; Back to Pairwise Standings</a></p>
+
+        <section class="rules-card">
+            <h2>Two teams tied</h2>
+            <p class="rules-intro">Go down the list in order. The first step that separates the two teams decides it.</p>
+            <ol class="rules-list">
+                <li>Head-to-head record
+                    <span class="rule-plain">Who won more of the games the two teams played against each other.</span>
+                </li>
+                <li>Intradivision record
+                    <span class="rule-plain">Better winning percentage in games against teams in their own division.</span>
+                </li>
+                <li>Intraleague record
+                    <span class="rule-plain">Better winning percentage in games against teams in their own league.</span>
+                </li>
+                <li>Last half of intraleague games <span class="rule-flag">not tracked on this page</span>
+                    <span class="rule-plain">Better winning percentage in intraleague games played after the All-Star break.</span>
+                </li>
+                <li>Last half plus one intraleague game <span class="rule-flag">not tracked on this page</span>
+                    <span class="rule-plain">Still tied? Add one more game at a time, going back from the end of the season, until the tie is broken.</span>
+                </li>
+            </ol>
+        </section>
+
+        <section class="rules-card">
+            <h2>Three teams tied</h2>
+            <p class="rules-intro">First look at how the three teams did against each other. That decides which list applies.</p>
+
+            <h3>If the three teams have identical records against each other</h3>
+            <ol class="rules-list lettered">
+                <li>Highest intradivision winning percentage</li>
+                <li>Highest intraleague winning percentage</li>
+                <li>Highest winning percentage in the last half of intraleague games <span class="rule-flag">not tracked on this page</span></li>
+                <li>Highest winning percentage in the last half plus one intraleague game, continuing back if still tied <span class="rule-flag">not tracked on this page</span></li>
+            </ol>
+
+            <h3>If their records against each other are not identical</h3>
+            <ol class="rules-list lettered">
+                <li>A team with a better record against both of the other two teams comes out ahead.</li>
+                <li>If no team has that, rank them by their combined record in games among the three.
+                    <span class="rule-plain">The highest winning percentage comes out ahead. If two teams are still tied, they use the two-team criteria. If all three are still tied, they use the identical-record list above.</span>
+                </li>
+            </ol>
+
+            <h3>Division title plus a wild card</h3>
+            <p class="rules-intro">When three teams are tied for a division title and a wild card spot, the division champion is decided first. The remaining two teams then use the two-team criteria.</p>
+        </section>
+
+        <section class="rules-card">
+            <h2>Four teams tied</h2>
+            <p class="rules-intro">Go down the list in order.</p>
+            <ol class="rules-list">
+                <li>Best record against each of the other three clubs
+                    <span class="rule-plain">A team that came out ahead of all three in its games against each of them.</span>
+                </li>
+                <li>Highest winning percentage in games among the four tied clubs
+                    <span class="rule-plain">Count only the games the four teams played against each other.</span>
+                </li>
+                <li>Highest intradivision winning percentage</li>
+                <li>Highest intraleague winning percentage</li>
+                <li>Highest winning percentage in the last half of intraleague games <span class="rule-flag">not tracked on this page</span></li>
+                <li>Highest winning percentage in the last half plus one intraleague game, going back until resolved <span class="rule-flag">not tracked on this page</span></li>
+            </ol>
+            <p class="rules-intro" style="margin-top: 14px;">If two teams remain tied, use the two-team criteria. If three remain tied, use the three-team criteria.</p>
+        </section>
+
+        <section class="rules-card">
+            <h2>How Pairwise Standings uses them</h2>
+            <ul class="plain-bullets">
+                <li><strong>Pairwise record.</strong> A team's W-L on the page is how many of the 14 other teams in its league it would beat in a two-team tiebreaker (head-to-head, then division record, then league record). It is not the team's actual win-loss record.</li>
+                <li><strong>Ties in the tables.</strong> Teams with the same pairwise record are separated with the two-, three-, or four-team criteria above. Each tie gets a number next to the team and a step-by-step explanation under Playoff Picture.</li>
+                <li><strong>Wild card.</strong> Everyone except each division's top team competes for three wild card spots. When tied teams include two or more from the same division, those teammates are separated first (the division step). Then each division's best remaining team is compared across divisions (the wild card step). A team that lost the division step is placed right behind its divisional teammate.</li>
+                <li><strong>Seeds.</strong> Seeds 1 to 3 are the division winners, ordered by pairwise record. Seeds 4 to 6 are the three wild card teams, in order.</li>
+                <li><strong>Simulated playoffs.</strong> Seeds 1 and 2 get a bye. Seed 3 plays seed 6 and seed 4 plays seed 5. The 4/5 winner plays seed 1 and the 3/6 winner plays seed 2, with no re-seeding. Those two winners meet for the pennant. Each series goes to whichever team would win the two-team tiebreaker between them.</li>
+                <li><strong>What is not tracked.</strong> The last-half-of-the-season steps need a date-by-date split of intraleague games, which this page does not have. If a tie survives every earlier step, the page says it is unresolved instead of guessing.</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>

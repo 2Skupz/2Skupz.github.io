@@ -12,21 +12,24 @@ const LEAGUE_LABELS = {
     NL: 'National League',
 };
 
-document.addEventListener('DOMContentLoaded', async () => {
-    await loadStandings();
+document.addEventListener('DOMContentLoaded', () => {
+    loadStandings();
     render();
 });
 
-async function loadStandings() {
-    try {
-        const response = await fetch('pairwiseStandings.json');
-        const data = await response.json();
-        season = Object.keys(data)[0];
-        standings = data[season];
-        document.getElementById('seasonLabel').textContent = `${season} Season`;
-    } catch (error) {
-        console.error('Error loading pairwise standings:', error);
+// Data comes from pairwiseStandingsData.js (window.MLB_PAIRWISE_STANDINGS,
+// written by generatePairwiseStandings.py) rather than fetch(), so the page
+// works when opened straight from disk.
+function loadStandings() {
+    const data = window.MLB_PAIRWISE_STANDINGS;
+    if (!data) {
+        console.error('No standings data. Run refresh.sh to generate pairwiseStandingsData.js.');
+        return;
     }
+    season = data.season;
+    standings = data;
+    document.getElementById('seasonLabel').textContent = `${season} Season`;
+    document.getElementById('footnote').textContent = `Generated ${data.generated}`;
 }
 
 function getLogoPath(team) {
@@ -37,19 +40,34 @@ function getLogoPath(team) {
 function render() {
     const root = document.getElementById('standingsRoot');
     if (!standings) {
-        root.innerHTML = '';
+        root.innerHTML = '<p class="subtitle">No standings data found. Run refresh.sh to generate pairwiseStandingsData.js.</p>';
         return;
     }
 
     root.innerHTML = `
+        ${renderSection('Standings', renderStandingsColumn)}
+        ${renderSection('Playoff Picture', renderPictureColumn)}
+        ${renderSection('Simulated Playoffs', renderBracketColumn)}
+    `;
+}
+
+// Each section is a full-width labeled divider followed by an AL | NL pair, so
+// the two leagues start level with each other in every section.
+function renderSection(title, renderColumn) {
+    return `
+        <div class="section-divider"><span>${title}</span></div>
         <div class="pairwise-leagues">
-            ${renderLeagueColumn('AL')}
-            ${renderLeagueColumn('NL')}
+            ${renderColumn('AL')}
+            ${renderColumn('NL')}
         </div>
     `;
 }
 
-function renderLeagueColumn(league) {
+function columnClass(league) {
+    return `league-column ${league === 'NL' ? 'nl' : ''}`;
+}
+
+function renderStandingsColumn(league) {
     const leagueData = standings[league];
     if (!leagueData) return '';
 
@@ -58,12 +76,32 @@ function renderLeagueColumn(league) {
         .join('');
 
     return `
-        <div class="league-column ${league === 'NL' ? 'nl' : ''}">
+        <div class="${columnClass(league)}">
             <h2 class="league-heading ${league === 'NL' ? 'nl' : ''}">${LEAGUE_LABELS[league]}</h2>
             ${divisionsHtml}
+        </div>
+    `;
+}
+
+function renderPictureColumn(league) {
+    const leagueData = standings[league];
+    if (!leagueData) return '';
+
+    return `
+        <div class="${columnClass(league)}">
             ${renderLeadersTable(league, leagueData.division_leaders)}
             ${renderWildcardTable(league, leagueData.wildcard)}
-            ${renderTieExplainer(leagueData.ties)}
+            ${renderTieExplainer(league, leagueData.ties)}
+        </div>
+    `;
+}
+
+function renderBracketColumn(league) {
+    const leagueData = standings[league];
+    if (!leagueData) return '';
+
+    return `
+        <div class="${columnClass(league)}">
             ${renderBracket(league, leagueData.playoffs)}
         </div>
     `;
@@ -100,7 +138,7 @@ function renderTeamRow(team, extraClass) {
 function renderDivisionTable(league, division, teams) {
     const label = DIVISION_LABELS[division] || division;
     const rows = teams
-        .map(team => renderTeamRow(team, team.rank === 1 ? 'row-leader' : ''))
+        .map(team => renderTeamRow(team, team.rank === 1 ? 'row-leader' : team.in_wc ? 'row-clinch' : ''))
         .join('');
 
     return `
@@ -157,12 +195,26 @@ function renderBracketTeam(team, winnerAbbr) {
     `;
 }
 
-function renderBracketGame(game) {
+// A slot names where a game card sits in the bracket (positions are fixed in
+// CSS, so the AL and NL brackets are identical and line up): 'top' and
+// 'bottom' are the two rows, 'mid' is centered between them. Each Wild Card
+// game sits level with the Division Series game it feeds, and the pennant
+// game is centered between the two Division Series games.
+function renderBracketGame(game, slot) {
     return `
-        <div class="bracket-game">
+        <div class="bracket-game slot-${slot}">
             ${renderBracketTeam(game.teams[0], game.winner.abbr)}
             ${renderBracketTeam(game.teams[1], game.winner.abbr)}
             <div class="bracket-note">${game.note}</div>
+        </div>
+    `;
+}
+
+function renderBracketRound(title, games, slots, roundNumber) {
+    return `
+        <div class="bracket-round bracket-round-${roundNumber}">
+            <div class="bracket-round-title">${title}</div>
+            ${games.map((game, i) => renderBracketGame(game, slots[i])).join('')}
         </div>
     `;
 }
@@ -174,25 +226,16 @@ function renderBracket(league, playoffs) {
         <div class="standings-table bracket-card">
             <div class="standings-title">${league} Simulated Playoffs</div>
             <div class="bracket">
-                <div class="bracket-round">
-                    <div class="bracket-round-title">Wild Card</div>
-                    ${playoffs.wild_card.map(renderBracketGame).join('')}
-                </div>
-                <div class="bracket-round">
-                    <div class="bracket-round-title">Division Series</div>
-                    ${playoffs.division_series.map(renderBracketGame).join('')}
-                </div>
-                <div class="bracket-round">
-                    <div class="bracket-round-title">${league === 'AL' ? 'ALCS' : 'NLCS'}</div>
-                    ${playoffs.championship.map(renderBracketGame).join('')}
-                </div>
+                ${renderBracketRound('Wild Card', playoffs.wild_card, ['top', 'bottom'], 1)}
+                ${renderBracketRound('Division Series', playoffs.division_series, ['top', 'bottom'], 2)}
+                ${renderBracketRound(league === 'AL' ? 'ALCS' : 'NLCS', playoffs.championship, ['mid'], 3)}
             </div>
             <div class="bracket-champion">${league} Pennant: ${playoffs.champion.name}</div>
         </div>
     `;
 }
 
-function renderTieExplainer(ties) {
+function renderTieExplainer(league, ties) {
     if (!ties || !ties.length) return '';
 
     const items = ties.map(tie => `
@@ -210,7 +253,7 @@ function renderTieExplainer(ties) {
 
     return `
         <div class="tie-explainer">
-            <div class="tie-explainer-title">Tiebreakers</div>
+            <div class="tie-explainer-title">${league} Tiebreakers</div>
             ${items}
         </div>
     `;

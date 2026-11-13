@@ -13,21 +13,30 @@
 # the same idea into a simulated postseason: each series is "won" by whoever
 # holds the two-team tiebreaker.
 #
-# This is a standalone sibling project: it reads mlbTiebreak's already-
-# generated data/tiebreakers.json and data/teamFiles/{season}teams.csv
-# directly (no shared Python code), so run mlbTiebreak/main.py first to
-# refresh those before running this.
+# This is a sibling project to mlbTiebreak: it reads mlbTiebreak's already-
+# generated data/tiebreakers.json and data/teamFiles/{season}teams.csv, and
+# shares its tiebreak rules (src/tiebreakRules.py) and DIVISION_ORDER setting
+# (config/config.py), so run mlbTiebreak/main.py first to refresh the data
+# before running this.
 import csv
 import json
 import os
-
-from tiebreakRules import DIVISION_ORDER, build_stats, resolve_group, resolve_wildcard_group, resolve_two, pct as calc_pct
+import sys
+from datetime import datetime
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(THIS_DIR, '..', 'mlbTiebreak'))
+
+from config.config import DIVISION_ORDER
+from src.tiebreakRules import build_stats, resolve_group, resolve_wildcard_group, resolve_two, pct as calc_pct
+
 MLB_TIEBREAK_DATA_DIR = os.path.join(THIS_DIR, '..', 'mlbTiebreak', 'data')
 TIEBREAKERS_FILE = os.path.join(MLB_TIEBREAK_DATA_DIR, 'tiebreakers.json')
 TEAM_FILES_DIR = os.path.join(MLB_TIEBREAK_DATA_DIR, 'teamFiles')
 OUTPUT_FILE = os.path.join(THIS_DIR, 'pairwiseStandings.json')
+# Same data as a script, so pairwiseStandings.html loads it with a <script> tag
+# and works when opened straight from disk (fetch() is blocked on file://).
+OUTPUT_JS = os.path.join(THIS_DIR, 'pairwiseStandingsData.js')
 
 
 def load_tiebreakers():
@@ -230,7 +239,7 @@ def generate_pairwise_standings():
             return resolve_group(abbrs, h2h, div_stats, league_stats)
 
         def wildcard_resolver(abbrs):
-            return resolve_wildcard_group(abbrs, team_division, h2h, div_stats, league_stats)
+            return resolve_wildcard_group(abbrs, team_division, h2h, div_stats, league_stats, DIVISION_ORDER)
 
         divisions_out = {}
         division_ties = {}
@@ -267,6 +276,13 @@ def generate_pairwise_standings():
         stamp_tie_numbers(leaders_ordered, leaders_ties)
         stamp_tie_numbers(wc_ordered, wc_ties)
 
+        # flag wild card holders in their division tables too, so those rows can be shaded
+        in_wc = {team['abbr'] for team in wc_ordered if team['in_wc']}
+        for table in divisions_out.values():
+            for team in table:
+                if team['abbr'] in in_wc:
+                    team['in_wc'] = True
+
         all_ties = []
         for division in DIVISION_ORDER:
             all_ties.extend(division_ties.get(division, []))
@@ -287,10 +303,14 @@ def generate_pairwise_standings():
 
 
 def write_pairwise_standings(season, data):
-    output = {str(season): data}
+    # Same shape as the NFL output (nflPairwise/standings.py): season and
+    # generated time at the top level, leagues directly beneath.
+    output = {"season": int(season), "generated": datetime.now().strftime("%Y-%m-%d %H:%M"), **data}
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(output, f, indent=2)
-    print(f"Wrote pairwise standings to {OUTPUT_FILE}")
+    with open(OUTPUT_JS, 'w') as f:
+        f.write("window.MLB_PAIRWISE_STANDINGS = " + json.dumps(output) + ";\n")
+    print(f"Wrote pairwise standings to {OUTPUT_FILE} and {OUTPUT_JS}")
 
 
 def main():

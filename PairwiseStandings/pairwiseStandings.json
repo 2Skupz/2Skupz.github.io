@@ -1,416 +1,22 @@
 {
-  "2026": {
-    "AL": {
-      "divisions": {
-        "EAST": [
-          {
-            "abbr": "TBR",
-            "name": "Tampa Bay Rays",
-            "city": "Tampa Bay",
-            "nickname": "Rays",
-            "division": "EAST",
-            "tb_w": 12,
-            "tb_l": 2,
-            "tb_pct": ".857",
-            "w": 12,
-            "l": 2,
-            "rank": 1,
-            "gb": "-"
-          },
-          {
-            "abbr": "NYY",
-            "name": "New York Yankees",
-            "city": "New York",
-            "nickname": "Yankees",
-            "division": "EAST",
-            "tb_w": 11,
-            "tb_l": 3,
-            "tb_pct": ".786",
-            "w": 11,
-            "l": 3,
-            "rank": 2,
-            "gb": "1"
-          },
-          {
-            "abbr": "TOR",
-            "name": "Toronto Blue Jays",
-            "city": "Toronto",
-            "nickname": "Blue Jays",
-            "division": "EAST",
-            "tb_w": 8,
-            "tb_l": 6,
-            "tb_pct": ".571",
-            "w": 8,
-            "l": 6,
-            "rank": 3,
-            "gb": "4",
-            "tie_number": 1
-          },
-          {
-            "abbr": "BOS",
-            "name": "Boston Red Sox",
-            "city": "Boston",
-            "nickname": "Red Sox",
-            "division": "EAST",
-            "tb_w": 8,
-            "tb_l": 6,
-            "tb_pct": ".571",
-            "w": 8,
-            "l": 6,
-            "rank": 4,
-            "gb": "4",
-            "tie_number": 1
-          },
-          {
-            "abbr": "BAL",
-            "name": "Baltimore Orioles",
-            "city": "Baltimore",
-            "nickname": "Orioles",
-            "division": "EAST",
-            "tb_w": 6,
-            "tb_l": 8,
-            "tb_pct": ".429",
-            "w": 6,
-            "l": 8,
-            "rank": 5,
-            "gb": "6"
-          }
-        ],
-        "CENTRAL": [
-          {
-            "abbr": "CHW",
-            "name": "Chicago White Sox",
-            "city": "Chicago",
-            "nickname": "White Sox",
-            "division": "CENTRAL",
-            "tb_w": 9,
-            "tb_l": 5,
-            "tb_pct": ".643",
-            "w": 9,
-            "l": 5,
-            "rank": 1,
-            "gb": "-",
-            "tie_number": 2
-          },
-          {
-            "abbr": "MIN",
-            "name": "Minnesota Twins",
-            "city": "Minnesota",
-            "nickname": "Twins",
-            "division": "CENTRAL",
-            "tb_w": 9,
-            "tb_l": 5,
-            "tb_pct": ".643",
-            "w": 9,
-            "l": 5,
-            "rank": 2,
-            "gb": "-",
-            "tie_number": 2
-          },
-          {
-            "abbr": "CLE",
-            "name": "Cleveland Guardians",
-            "city": "Cleveland",
-            "nickname": "Guardians",
-            "division": "CENTRAL",
-            "tb_w": 6,
-            "tb_l": 8,
-            "tb_pct": ".429",
-            "w": 6,
-            "l": 8,
-            "rank": 3,
-            "gb": "3",
-            "tie_number": 3
-          },
-          {
-            "abbr": "KCR",
-            "name": "Kansas City Royals",
-            "city": "Kansas City",
-            "nickname": "Royals",
-            "division": "CENTRAL",
-            "tb_w": 6,
-            "tb_l": 8,
-            "tb_pct": ".429",
-            "w": 6,
-            "l": 8,
-            "rank": 4,
-            "gb": "3",
-            "tie_number": 3
-          },
-          {
-            "abbr": "DET",
-            "name": "Detroit Tigers",
-            "city": "Detroit",
-            "nickname": "Tigers",
-            "division": "CENTRAL",
-            "tb_w": 5,
-            "tb_l": 9,
-            "tb_pct": ".357",
-            "w": 5,
-            "l": 9,
-            "rank": 5,
-            "gb": "4"
-          }
-        ],
-        "WEST": [
-          {
-            "abbr": "HOU",
-            "name": "Houston Astros",
-            "city": "Houston",
-            "nickname": "Astros",
-            "division": "WEST",
-            "tb_w": 7,
-            "tb_l": 7,
-            "tb_pct": ".500",
-            "w": 7,
-            "l": 7,
-            "rank": 1,
-            "gb": "-"
-          },
-          {
-            "abbr": "ATH",
-            "name": "Sacramento Athletics",
-            "city": "Sacramento",
-            "nickname": "Athletics",
-            "division": "WEST",
-            "tb_w": 5,
-            "tb_l": 9,
-            "tb_pct": ".357",
-            "w": 5,
-            "l": 9,
-            "rank": 2,
-            "gb": "2",
-            "tie_number": 4
-          },
-          {
-            "abbr": "TEX",
-            "name": "Texas Rangers",
-            "city": "Texas",
-            "nickname": "Rangers",
-            "division": "WEST",
-            "tb_w": 5,
-            "tb_l": 9,
-            "tb_pct": ".357",
-            "w": 5,
-            "l": 9,
-            "rank": 3,
-            "gb": "2",
-            "tie_number": 4
-          },
-          {
-            "abbr": "SEA",
-            "name": "Seattle Mariners",
-            "city": "Seattle",
-            "nickname": "Mariners",
-            "division": "WEST",
-            "tb_w": 5,
-            "tb_l": 9,
-            "tb_pct": ".357",
-            "w": 5,
-            "l": 9,
-            "rank": 4,
-            "gb": "2",
-            "tie_number": 4
-          },
-          {
-            "abbr": "LAA",
-            "name": "Los Angeles Angels",
-            "city": "Los Angeles",
-            "nickname": "Angels",
-            "division": "WEST",
-            "tb_w": 3,
-            "tb_l": 11,
-            "tb_pct": ".214",
-            "w": 3,
-            "l": 11,
-            "rank": 5,
-            "gb": "4"
-          }
-        ]
-      },
-      "division_leaders": [
-        {
-          "abbr": "TBR",
-          "name": "Tampa Bay Rays",
-          "city": "Tampa Bay",
-          "nickname": "Rays",
-          "division": "EAST",
-          "tb_w": 12,
-          "tb_l": 2,
-          "tb_pct": ".857",
-          "w": 12,
-          "l": 2,
-          "rank": 1
-        },
-        {
-          "abbr": "CHW",
-          "name": "Chicago White Sox",
-          "city": "Chicago",
-          "nickname": "White Sox",
-          "division": "CENTRAL",
-          "tb_w": 9,
-          "tb_l": 5,
-          "tb_pct": ".643",
-          "w": 9,
-          "l": 5,
-          "rank": 2
-        },
+  "season": 2026,
+  "generated": "2026-11-13 15:09",
+  "AL": {
+    "divisions": {
+      "WEST": [
         {
           "abbr": "HOU",
           "name": "Houston Astros",
           "city": "Houston",
           "nickname": "Astros",
           "division": "WEST",
-          "tb_w": 7,
-          "tb_l": 7,
-          "tb_pct": ".500",
-          "w": 7,
-          "l": 7,
-          "rank": 3
-        }
-      ],
-      "wildcard": [
-        {
-          "abbr": "NYY",
-          "name": "New York Yankees",
-          "city": "New York",
-          "nickname": "Yankees",
-          "division": "EAST",
-          "tb_w": 11,
-          "tb_l": 3,
-          "tb_pct": ".786",
-          "w": 11,
-          "l": 3,
-          "wc_rank": 1,
-          "wcgb": "-",
-          "in_wc": true
-        },
-        {
-          "abbr": "MIN",
-          "name": "Minnesota Twins",
-          "city": "Minnesota",
-          "nickname": "Twins",
-          "division": "CENTRAL",
           "tb_w": 9,
           "tb_l": 5,
           "tb_pct": ".643",
           "w": 9,
           "l": 5,
-          "wc_rank": 2,
-          "wcgb": "2",
-          "in_wc": true
-        },
-        {
-          "abbr": "TOR",
-          "name": "Toronto Blue Jays",
-          "city": "Toronto",
-          "nickname": "Blue Jays",
-          "division": "EAST",
-          "tb_w": 8,
-          "tb_l": 6,
-          "tb_pct": ".571",
-          "w": 8,
-          "l": 6,
-          "wc_rank": 3,
-          "wcgb": "3",
-          "in_wc": true,
-          "tie_number": 5
-        },
-        {
-          "abbr": "BOS",
-          "name": "Boston Red Sox",
-          "city": "Boston",
-          "nickname": "Red Sox",
-          "division": "EAST",
-          "tb_w": 8,
-          "tb_l": 6,
-          "tb_pct": ".571",
-          "w": 8,
-          "l": 6,
-          "wc_rank": 4,
-          "wcgb": "3",
-          "in_wc": false,
-          "tie_number": 5
-        },
-        {
-          "abbr": "CLE",
-          "name": "Cleveland Guardians",
-          "city": "Cleveland",
-          "nickname": "Guardians",
-          "division": "CENTRAL",
-          "tb_w": 6,
-          "tb_l": 8,
-          "tb_pct": ".429",
-          "w": 6,
-          "l": 8,
-          "wc_rank": 5,
-          "wcgb": "5",
-          "in_wc": false,
-          "tie_number": 6
-        },
-        {
-          "abbr": "KCR",
-          "name": "Kansas City Royals",
-          "city": "Kansas City",
-          "nickname": "Royals",
-          "division": "CENTRAL",
-          "tb_w": 6,
-          "tb_l": 8,
-          "tb_pct": ".429",
-          "w": 6,
-          "l": 8,
-          "wc_rank": 6,
-          "wcgb": "5",
-          "in_wc": false,
-          "tie_number": 6
-        },
-        {
-          "abbr": "BAL",
-          "name": "Baltimore Orioles",
-          "city": "Baltimore",
-          "nickname": "Orioles",
-          "division": "EAST",
-          "tb_w": 6,
-          "tb_l": 8,
-          "tb_pct": ".429",
-          "w": 6,
-          "l": 8,
-          "wc_rank": 7,
-          "wcgb": "5",
-          "in_wc": false,
-          "tie_number": 6
-        },
-        {
-          "abbr": "DET",
-          "name": "Detroit Tigers",
-          "city": "Detroit",
-          "nickname": "Tigers",
-          "division": "CENTRAL",
-          "tb_w": 5,
-          "tb_l": 9,
-          "tb_pct": ".357",
-          "w": 5,
-          "l": 9,
-          "wc_rank": 8,
-          "wcgb": "6",
-          "in_wc": false,
-          "tie_number": 7
-        },
-        {
-          "abbr": "ATH",
-          "name": "Sacramento Athletics",
-          "city": "Sacramento",
-          "nickname": "Athletics",
-          "division": "WEST",
-          "tb_w": 5,
-          "tb_l": 9,
-          "tb_pct": ".357",
-          "w": 5,
-          "l": 9,
-          "wc_rank": 9,
-          "wcgb": "6",
-          "in_wc": false,
-          "tie_number": 7
+          "rank": 1,
+          "gb": "-"
         },
         {
           "abbr": "TEX",
@@ -423,10 +29,9 @@
           "tb_pct": ".357",
           "w": 5,
           "l": 9,
-          "wc_rank": 10,
-          "wcgb": "6",
-          "in_wc": false,
-          "tie_number": 7
+          "rank": 2,
+          "gb": "4",
+          "tie_number": 1
         },
         {
           "abbr": "SEA",
@@ -439,10 +44,23 @@
           "tb_pct": ".357",
           "w": 5,
           "l": 9,
-          "wc_rank": 11,
-          "wcgb": "6",
-          "in_wc": false,
-          "tie_number": 7
+          "rank": 3,
+          "gb": "4",
+          "tie_number": 1
+        },
+        {
+          "abbr": "ATH",
+          "name": "Sacramento Athletics",
+          "city": "Sacramento",
+          "nickname": "Athletics",
+          "division": "WEST",
+          "tb_w": 4,
+          "tb_l": 10,
+          "tb_pct": ".286",
+          "w": 4,
+          "l": 10,
+          "rank": 4,
+          "gb": "5"
         },
         {
           "abbr": "LAA",
@@ -455,489 +73,655 @@
           "tb_pct": ".214",
           "w": 3,
           "l": 11,
-          "wc_rank": 12,
-          "wcgb": "8",
-          "in_wc": false
+          "rank": 5,
+          "gb": "6"
         }
       ],
-      "ties": [
+      "CENTRAL": [
         {
-          "teams": [
-            "TOR",
-            "BOS"
-          ],
-          "record": "8-6",
-          "steps": [
-            "TOR over BOS on head-to-head (9-4)"
-          ],
-          "number": 1,
-          "label": "AL East"
+          "abbr": "CHW",
+          "name": "Chicago White Sox",
+          "city": "Chicago",
+          "nickname": "White Sox",
+          "division": "CENTRAL",
+          "tb_w": 9,
+          "tb_l": 5,
+          "tb_pct": ".643",
+          "w": 9,
+          "l": 5,
+          "rank": 1,
+          "gb": "-"
         },
         {
-          "teams": [
-            "CHW",
-            "MIN"
-          ],
-          "record": "9-5",
-          "steps": [
-            "CHW over MIN on head-to-head (8-5)"
-          ],
-          "number": 2,
-          "label": "AL Central"
+          "abbr": "MIN",
+          "name": "Minnesota Twins",
+          "city": "Minnesota",
+          "nickname": "Twins",
+          "division": "CENTRAL",
+          "tb_w": 8,
+          "tb_l": 6,
+          "tb_pct": ".571",
+          "w": 8,
+          "l": 6,
+          "rank": 2,
+          "gb": "1",
+          "in_wc": true
         },
         {
-          "teams": [
-            "CLE",
-            "KCR"
-          ],
-          "record": "6-8",
-          "steps": [
-            "CLE over KCR on intradivision record"
-          ],
-          "number": 3,
-          "label": "AL Central"
+          "abbr": "CLE",
+          "name": "Cleveland Guardians",
+          "city": "Cleveland",
+          "nickname": "Guardians",
+          "division": "CENTRAL",
+          "tb_w": 7,
+          "tb_l": 7,
+          "tb_pct": ".500",
+          "w": 7,
+          "l": 7,
+          "rank": 3,
+          "gb": "2"
         },
         {
-          "teams": [
-            "ATH",
-            "TEX",
-            "SEA"
-          ],
-          "record": "5-9",
-          "steps": [
-            "ATH beat both others head-to-head",
-            "TEX over SEA on head-to-head (8-5)"
-          ],
-          "number": 4,
-          "label": "AL West"
+          "abbr": "KCR",
+          "name": "Kansas City Royals",
+          "city": "Kansas City",
+          "nickname": "Royals",
+          "division": "CENTRAL",
+          "tb_w": 5,
+          "tb_l": 9,
+          "tb_pct": ".357",
+          "w": 5,
+          "l": 9,
+          "rank": 4,
+          "gb": "4",
+          "tie_number": 2
         },
         {
-          "teams": [
-            "TOR",
-            "BOS"
-          ],
-          "record": "8-6",
-          "steps": [
-            "East: TOR over BOS on head-to-head (9-4)"
-          ],
-          "number": 5,
-          "label": "AL Wild Card"
-        },
-        {
-          "teams": [
-            "CLE",
-            "KCR",
-            "BAL"
-          ],
-          "record": "6-8",
-          "steps": [
-            "Central: CLE over KCR on intradivision record",
-            "Wild Card: CLE over BAL on head-to-head (4-3)"
-          ],
-          "number": 6,
-          "label": "AL Wild Card"
-        },
-        {
-          "teams": [
-            "DET",
-            "ATH",
-            "TEX",
-            "SEA"
-          ],
-          "record": "5-9",
-          "steps": [
-            "West: ATH beat both others head-to-head",
-            "West: TEX over SEA on head-to-head (8-5)",
-            "Wild Card: DET over ATH on head-to-head (6-0)"
-          ],
-          "number": 7,
-          "label": "AL Wild Card"
+          "abbr": "DET",
+          "name": "Detroit Tigers",
+          "city": "Detroit",
+          "nickname": "Tigers",
+          "division": "CENTRAL",
+          "tb_w": 5,
+          "tb_l": 9,
+          "tb_pct": ".357",
+          "w": 5,
+          "l": 9,
+          "rank": 5,
+          "gb": "4",
+          "tie_number": 2
         }
       ],
-      "playoffs": {
-        "wild_card": [
-          {
-            "teams": [
-              {
-                "abbr": "NYY",
-                "name": "New York Yankees",
-                "city": "New York",
-                "nickname": "Yankees",
-                "seed": 4
-              },
-              {
-                "abbr": "MIN",
-                "name": "Minnesota Twins",
-                "city": "Minnesota",
-                "nickname": "Twins",
-                "seed": 5
-              }
-            ],
-            "winner": {
+      "EAST": [
+        {
+          "abbr": "TBR",
+          "name": "Tampa Bay Rays",
+          "city": "Tampa Bay",
+          "nickname": "Rays",
+          "division": "EAST",
+          "tb_w": 12,
+          "tb_l": 2,
+          "tb_pct": ".857",
+          "w": 12,
+          "l": 2,
+          "rank": 1,
+          "gb": "-",
+          "tie_number": 3
+        },
+        {
+          "abbr": "NYY",
+          "name": "New York Yankees",
+          "city": "New York",
+          "nickname": "Yankees",
+          "division": "EAST",
+          "tb_w": 12,
+          "tb_l": 2,
+          "tb_pct": ".857",
+          "w": 12,
+          "l": 2,
+          "rank": 2,
+          "gb": "-",
+          "tie_number": 3,
+          "in_wc": true
+        },
+        {
+          "abbr": "TOR",
+          "name": "Toronto Blue Jays",
+          "city": "Toronto",
+          "nickname": "Blue Jays",
+          "division": "EAST",
+          "tb_w": 7,
+          "tb_l": 7,
+          "tb_pct": ".500",
+          "w": 7,
+          "l": 7,
+          "rank": 3,
+          "gb": "5",
+          "tie_number": 4,
+          "in_wc": true
+        },
+        {
+          "abbr": "BOS",
+          "name": "Boston Red Sox",
+          "city": "Boston",
+          "nickname": "Red Sox",
+          "division": "EAST",
+          "tb_w": 7,
+          "tb_l": 7,
+          "tb_pct": ".500",
+          "w": 7,
+          "l": 7,
+          "rank": 4,
+          "gb": "5",
+          "tie_number": 4
+        },
+        {
+          "abbr": "BAL",
+          "name": "Baltimore Orioles",
+          "city": "Baltimore",
+          "nickname": "Orioles",
+          "division": "EAST",
+          "tb_w": 7,
+          "tb_l": 7,
+          "tb_pct": ".500",
+          "w": 7,
+          "l": 7,
+          "rank": 5,
+          "gb": "5",
+          "tie_number": 4
+        }
+      ]
+    },
+    "division_leaders": [
+      {
+        "abbr": "TBR",
+        "name": "Tampa Bay Rays",
+        "city": "Tampa Bay",
+        "nickname": "Rays",
+        "division": "EAST",
+        "tb_w": 12,
+        "tb_l": 2,
+        "tb_pct": ".857",
+        "w": 12,
+        "l": 2,
+        "rank": 1
+      },
+      {
+        "abbr": "HOU",
+        "name": "Houston Astros",
+        "city": "Houston",
+        "nickname": "Astros",
+        "division": "WEST",
+        "tb_w": 9,
+        "tb_l": 5,
+        "tb_pct": ".643",
+        "w": 9,
+        "l": 5,
+        "rank": 2,
+        "tie_number": 5
+      },
+      {
+        "abbr": "CHW",
+        "name": "Chicago White Sox",
+        "city": "Chicago",
+        "nickname": "White Sox",
+        "division": "CENTRAL",
+        "tb_w": 9,
+        "tb_l": 5,
+        "tb_pct": ".643",
+        "w": 9,
+        "l": 5,
+        "rank": 3,
+        "tie_number": 5
+      }
+    ],
+    "wildcard": [
+      {
+        "abbr": "NYY",
+        "name": "New York Yankees",
+        "city": "New York",
+        "nickname": "Yankees",
+        "division": "EAST",
+        "tb_w": 12,
+        "tb_l": 2,
+        "tb_pct": ".857",
+        "w": 12,
+        "l": 2,
+        "wc_rank": 1,
+        "wcgb": "-",
+        "in_wc": true
+      },
+      {
+        "abbr": "MIN",
+        "name": "Minnesota Twins",
+        "city": "Minnesota",
+        "nickname": "Twins",
+        "division": "CENTRAL",
+        "tb_w": 8,
+        "tb_l": 6,
+        "tb_pct": ".571",
+        "w": 8,
+        "l": 6,
+        "wc_rank": 2,
+        "wcgb": "4",
+        "in_wc": true
+      },
+      {
+        "abbr": "TOR",
+        "name": "Toronto Blue Jays",
+        "city": "Toronto",
+        "nickname": "Blue Jays",
+        "division": "EAST",
+        "tb_w": 7,
+        "tb_l": 7,
+        "tb_pct": ".500",
+        "w": 7,
+        "l": 7,
+        "wc_rank": 3,
+        "wcgb": "5",
+        "in_wc": true,
+        "tie_number": 6
+      },
+      {
+        "abbr": "BOS",
+        "name": "Boston Red Sox",
+        "city": "Boston",
+        "nickname": "Red Sox",
+        "division": "EAST",
+        "tb_w": 7,
+        "tb_l": 7,
+        "tb_pct": ".500",
+        "w": 7,
+        "l": 7,
+        "wc_rank": 4,
+        "wcgb": "5",
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "BAL",
+        "name": "Baltimore Orioles",
+        "city": "Baltimore",
+        "nickname": "Orioles",
+        "division": "EAST",
+        "tb_w": 7,
+        "tb_l": 7,
+        "tb_pct": ".500",
+        "w": 7,
+        "l": 7,
+        "wc_rank": 5,
+        "wcgb": "5",
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "CLE",
+        "name": "Cleveland Guardians",
+        "city": "Cleveland",
+        "nickname": "Guardians",
+        "division": "CENTRAL",
+        "tb_w": 7,
+        "tb_l": 7,
+        "tb_pct": ".500",
+        "w": 7,
+        "l": 7,
+        "wc_rank": 6,
+        "wcgb": "5",
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "TEX",
+        "name": "Texas Rangers",
+        "city": "Texas",
+        "nickname": "Rangers",
+        "division": "WEST",
+        "tb_w": 5,
+        "tb_l": 9,
+        "tb_pct": ".357",
+        "w": 5,
+        "l": 9,
+        "wc_rank": 7,
+        "wcgb": "7",
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "SEA",
+        "name": "Seattle Mariners",
+        "city": "Seattle",
+        "nickname": "Mariners",
+        "division": "WEST",
+        "tb_w": 5,
+        "tb_l": 9,
+        "tb_pct": ".357",
+        "w": 5,
+        "l": 9,
+        "wc_rank": 8,
+        "wcgb": "7",
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "KCR",
+        "name": "Kansas City Royals",
+        "city": "Kansas City",
+        "nickname": "Royals",
+        "division": "CENTRAL",
+        "tb_w": 5,
+        "tb_l": 9,
+        "tb_pct": ".357",
+        "w": 5,
+        "l": 9,
+        "wc_rank": 9,
+        "wcgb": "7",
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "DET",
+        "name": "Detroit Tigers",
+        "city": "Detroit",
+        "nickname": "Tigers",
+        "division": "CENTRAL",
+        "tb_w": 5,
+        "tb_l": 9,
+        "tb_pct": ".357",
+        "w": 5,
+        "l": 9,
+        "wc_rank": 10,
+        "wcgb": "7",
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "ATH",
+        "name": "Sacramento Athletics",
+        "city": "Sacramento",
+        "nickname": "Athletics",
+        "division": "WEST",
+        "tb_w": 4,
+        "tb_l": 10,
+        "tb_pct": ".286",
+        "w": 4,
+        "l": 10,
+        "wc_rank": 11,
+        "wcgb": "8",
+        "in_wc": false
+      },
+      {
+        "abbr": "LAA",
+        "name": "Los Angeles Angels",
+        "city": "Los Angeles",
+        "nickname": "Angels",
+        "division": "WEST",
+        "tb_w": 3,
+        "tb_l": 11,
+        "tb_pct": ".214",
+        "w": 3,
+        "l": 11,
+        "wc_rank": 12,
+        "wcgb": "9",
+        "in_wc": false
+      }
+    ],
+    "ties": [
+      {
+        "teams": [
+          "TEX",
+          "SEA"
+        ],
+        "record": "5-9",
+        "steps": [
+          "TEX over SEA on head-to-head (8-5)"
+        ],
+        "number": 1,
+        "label": "AL West"
+      },
+      {
+        "teams": [
+          "KCR",
+          "DET"
+        ],
+        "record": "5-9",
+        "steps": [
+          "KCR over DET on head-to-head (7-6)"
+        ],
+        "number": 2,
+        "label": "AL Central"
+      },
+      {
+        "teams": [
+          "TBR",
+          "NYY"
+        ],
+        "record": "12-2",
+        "steps": [
+          "TBR over NYY on head-to-head (7-6)"
+        ],
+        "number": 3,
+        "label": "AL East"
+      },
+      {
+        "teams": [
+          "TOR",
+          "BOS",
+          "BAL"
+        ],
+        "record": "7-7",
+        "steps": [
+          "ranked by combined head-to-head record among the three"
+        ],
+        "number": 4,
+        "label": "AL East"
+      },
+      {
+        "teams": [
+          "HOU",
+          "CHW"
+        ],
+        "record": "9-5",
+        "steps": [
+          "HOU over CHW on head-to-head (5-2)"
+        ],
+        "number": 5,
+        "label": "AL Leaders"
+      },
+      {
+        "teams": [
+          "TOR",
+          "BOS",
+          "BAL",
+          "CLE"
+        ],
+        "record": "7-7",
+        "steps": [
+          "East: ranked by combined head-to-head record among the three",
+          "Wild Card: TOR over CLE on head-to-head (4-2)"
+        ],
+        "number": 6,
+        "label": "AL Wild Card"
+      },
+      {
+        "teams": [
+          "TEX",
+          "SEA",
+          "KCR",
+          "DET"
+        ],
+        "record": "5-9",
+        "steps": [
+          "West: TEX over SEA on head-to-head (8-5)",
+          "Central: KCR over DET on head-to-head (7-6)",
+          "Wild Card: TEX over KCR on head-to-head (5-1)"
+        ],
+        "number": 7,
+        "label": "AL Wild Card"
+      }
+    ],
+    "playoffs": {
+      "wild_card": [
+        {
+          "teams": [
+            {
+              "abbr": "NYY",
+              "name": "New York Yankees",
+              "city": "New York",
+              "nickname": "Yankees",
+              "seed": 4
+            },
+            {
               "abbr": "MIN",
               "name": "Minnesota Twins",
               "city": "Minnesota",
               "nickname": "Twins",
               "seed": 5
-            },
-            "note": "MIN over NYY on head-to-head (2-1)"
+            }
+          ],
+          "winner": {
+            "abbr": "NYY",
+            "name": "New York Yankees",
+            "city": "New York",
+            "nickname": "Yankees",
+            "seed": 4
           },
-          {
-            "teams": [
-              {
-                "abbr": "HOU",
-                "name": "Houston Astros",
-                "city": "Houston",
-                "nickname": "Astros",
-                "seed": 3
-              },
-              {
-                "abbr": "TOR",
-                "name": "Toronto Blue Jays",
-                "city": "Toronto",
-                "nickname": "Blue Jays",
-                "seed": 6
-              }
-            ],
-            "winner": {
+          "note": "NYY over MIN on intradivision record"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "CHW",
+              "name": "Chicago White Sox",
+              "city": "Chicago",
+              "nickname": "White Sox",
+              "seed": 3
+            },
+            {
               "abbr": "TOR",
               "name": "Toronto Blue Jays",
               "city": "Toronto",
               "nickname": "Blue Jays",
               "seed": 6
-            },
-            "note": "TOR over HOU on intradivision record"
-          }
-        ],
-        "division_series": [
-          {
-            "teams": [
-              {
-                "abbr": "TBR",
-                "name": "Tampa Bay Rays",
-                "city": "Tampa Bay",
-                "nickname": "Rays",
-                "seed": 1
-              },
-              {
-                "abbr": "MIN",
-                "name": "Minnesota Twins",
-                "city": "Minnesota",
-                "nickname": "Twins",
-                "seed": 5
-              }
-            ],
-            "winner": {
+            }
+          ],
+          "winner": {
+            "abbr": "CHW",
+            "name": "Chicago White Sox",
+            "city": "Chicago",
+            "nickname": "White Sox",
+            "seed": 3
+          },
+          "note": "CHW over TOR on head-to-head (5-1)"
+        }
+      ],
+      "division_series": [
+        {
+          "teams": [
+            {
               "abbr": "TBR",
               "name": "Tampa Bay Rays",
               "city": "Tampa Bay",
               "nickname": "Rays",
               "seed": 1
             },
-            "note": "TBR over MIN on head-to-head (5-1)"
+            {
+              "abbr": "NYY",
+              "name": "New York Yankees",
+              "city": "New York",
+              "nickname": "Yankees",
+              "seed": 4
+            }
+          ],
+          "winner": {
+            "abbr": "TBR",
+            "name": "Tampa Bay Rays",
+            "city": "Tampa Bay",
+            "nickname": "Rays",
+            "seed": 1
           },
-          {
-            "teams": [
-              {
-                "abbr": "CHW",
-                "name": "Chicago White Sox",
-                "city": "Chicago",
-                "nickname": "White Sox",
-                "seed": 2
-              },
-              {
-                "abbr": "TOR",
-                "name": "Toronto Blue Jays",
-                "city": "Toronto",
-                "nickname": "Blue Jays",
-                "seed": 6
-              }
-            ],
-            "winner": {
+          "note": "TBR over NYY on head-to-head (7-6)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "HOU",
+              "name": "Houston Astros",
+              "city": "Houston",
+              "nickname": "Astros",
+              "seed": 2
+            },
+            {
               "abbr": "CHW",
               "name": "Chicago White Sox",
               "city": "Chicago",
               "nickname": "White Sox",
-              "seed": 2
-            },
-            "note": "CHW over TOR on head-to-head (5-1)"
-          }
-        ],
-        "championship": [
-          {
-            "teams": [
-              {
-                "abbr": "TBR",
-                "name": "Tampa Bay Rays",
-                "city": "Tampa Bay",
-                "nickname": "Rays",
-                "seed": 1
-              },
-              {
-                "abbr": "CHW",
-                "name": "Chicago White Sox",
-                "city": "Chicago",
-                "nickname": "White Sox",
-                "seed": 2
-              }
-            ],
-            "winner": {
+              "seed": 3
+            }
+          ],
+          "winner": {
+            "abbr": "HOU",
+            "name": "Houston Astros",
+            "city": "Houston",
+            "nickname": "Astros",
+            "seed": 2
+          },
+          "note": "HOU over CHW on head-to-head (5-2)"
+        }
+      ],
+      "championship": [
+        {
+          "teams": [
+            {
               "abbr": "TBR",
               "name": "Tampa Bay Rays",
               "city": "Tampa Bay",
               "nickname": "Rays",
               "seed": 1
             },
-            "note": "TBR over CHW on head-to-head (4-2)"
-          }
-        ],
-        "champion": {
-          "abbr": "TBR",
-          "name": "Tampa Bay Rays",
-          "city": "Tampa Bay",
-          "nickname": "Rays",
-          "seed": 1
+            {
+              "abbr": "HOU",
+              "name": "Houston Astros",
+              "city": "Houston",
+              "nickname": "Astros",
+              "seed": 2
+            }
+          ],
+          "winner": {
+            "abbr": "TBR",
+            "name": "Tampa Bay Rays",
+            "city": "Tampa Bay",
+            "nickname": "Rays",
+            "seed": 1
+          },
+          "note": "TBR over HOU on head-to-head (4-2)"
         }
+      ],
+      "champion": {
+        "abbr": "TBR",
+        "name": "Tampa Bay Rays",
+        "city": "Tampa Bay",
+        "nickname": "Rays",
+        "seed": 1
       }
-    },
-    "NL": {
-      "divisions": {
-        "EAST": [
-          {
-            "abbr": "ATL",
-            "name": "Atlanta Braves",
-            "city": "Atlanta",
-            "nickname": "Braves",
-            "division": "EAST",
-            "tb_w": 9,
-            "tb_l": 5,
-            "tb_pct": ".643",
-            "w": 9,
-            "l": 5,
-            "rank": 1,
-            "gb": "-",
-            "tie_number": 1
-          },
-          {
-            "abbr": "PHI",
-            "name": "Philadelphia Phillies",
-            "city": "Philadelphia",
-            "nickname": "Phillies",
-            "division": "EAST",
-            "tb_w": 9,
-            "tb_l": 5,
-            "tb_pct": ".643",
-            "w": 9,
-            "l": 5,
-            "rank": 2,
-            "gb": "-",
-            "tie_number": 1
-          },
-          {
-            "abbr": "MIA",
-            "name": "Miami Marlins",
-            "city": "Miami",
-            "nickname": "Marlins",
-            "division": "EAST",
-            "tb_w": 7,
-            "tb_l": 7,
-            "tb_pct": ".500",
-            "w": 7,
-            "l": 7,
-            "rank": 3,
-            "gb": "2"
-          },
-          {
-            "abbr": "NYM",
-            "name": "New York Mets",
-            "city": "New York",
-            "nickname": "Mets",
-            "division": "EAST",
-            "tb_w": 6,
-            "tb_l": 8,
-            "tb_pct": ".429",
-            "w": 6,
-            "l": 8,
-            "rank": 4,
-            "gb": "3"
-          },
-          {
-            "abbr": "WSN",
-            "name": "Washington Nationals",
-            "city": "Washington",
-            "nickname": "Nationals",
-            "division": "EAST",
-            "tb_w": 4,
-            "tb_l": 10,
-            "tb_pct": ".286",
-            "w": 4,
-            "l": 10,
-            "rank": 5,
-            "gb": "5"
-          }
-        ],
-        "CENTRAL": [
-          {
-            "abbr": "CHC",
-            "name": "Chicago Cubs",
-            "city": "Chicago",
-            "nickname": "Cubs",
-            "division": "CENTRAL",
-            "tb_w": 11,
-            "tb_l": 3,
-            "tb_pct": ".786",
-            "w": 11,
-            "l": 3,
-            "rank": 1,
-            "gb": "-"
-          },
-          {
-            "abbr": "MIL",
-            "name": "Milwaukee Brewers",
-            "city": "Milwaukee",
-            "nickname": "Brewers",
-            "division": "CENTRAL",
-            "tb_w": 9,
-            "tb_l": 5,
-            "tb_pct": ".643",
-            "w": 9,
-            "l": 5,
-            "rank": 2,
-            "gb": "2",
-            "tie_number": 2
-          },
-          {
-            "abbr": "STL",
-            "name": "St. Louis Cardinals",
-            "city": "St. Louis",
-            "nickname": "Cardinals",
-            "division": "CENTRAL",
-            "tb_w": 9,
-            "tb_l": 5,
-            "tb_pct": ".643",
-            "w": 9,
-            "l": 5,
-            "rank": 3,
-            "gb": "2",
-            "tie_number": 2
-          },
-          {
-            "abbr": "PIT",
-            "name": "Pittsburgh Pirates",
-            "city": "Pittsburgh",
-            "nickname": "Pirates",
-            "division": "CENTRAL",
-            "tb_w": 5,
-            "tb_l": 9,
-            "tb_pct": ".357",
-            "w": 5,
-            "l": 9,
-            "rank": 4,
-            "gb": "6"
-          },
-          {
-            "abbr": "CIN",
-            "name": "Cincinnati Reds",
-            "city": "Cincinnati",
-            "nickname": "Reds",
-            "division": "CENTRAL",
-            "tb_w": 2,
-            "tb_l": 12,
-            "tb_pct": ".143",
-            "w": 2,
-            "l": 12,
-            "rank": 5,
-            "gb": "9"
-          }
-        ],
-        "WEST": [
-          {
-            "abbr": "ARI",
-            "name": "Arizona Diamondbacks",
-            "city": "Arizona",
-            "nickname": "Diamondbacks",
-            "division": "WEST",
-            "tb_w": 10,
-            "tb_l": 4,
-            "tb_pct": ".714",
-            "w": 10,
-            "l": 4,
-            "rank": 1,
-            "gb": "-"
-          },
-          {
-            "abbr": "LAD",
-            "name": "Los Angeles Dodgers",
-            "city": "Los Angeles",
-            "nickname": "Dodgers",
-            "division": "WEST",
-            "tb_w": 8,
-            "tb_l": 6,
-            "tb_pct": ".571",
-            "w": 8,
-            "l": 6,
-            "rank": 2,
-            "gb": "2",
-            "tie_number": 3
-          },
-          {
-            "abbr": "SDP",
-            "name": "San Diego Padres",
-            "city": "San Diego",
-            "nickname": "Padres",
-            "division": "WEST",
-            "tb_w": 8,
-            "tb_l": 6,
-            "tb_pct": ".571",
-            "w": 8,
-            "l": 6,
-            "rank": 3,
-            "gb": "2",
-            "tie_number": 3
-          },
-          {
-            "abbr": "SFG",
-            "name": "San Francisco Giants",
-            "city": "San Francisco",
-            "nickname": "Giants",
-            "division": "WEST",
-            "tb_w": 6,
-            "tb_l": 8,
-            "tb_pct": ".429",
-            "w": 6,
-            "l": 8,
-            "rank": 4,
-            "gb": "4"
-          },
-          {
-            "abbr": "COL",
-            "name": "Colorado Rockies",
-            "city": "Colorado",
-            "nickname": "Rockies",
-            "division": "WEST",
-            "tb_w": 2,
-            "tb_l": 12,
-            "tb_pct": ".143",
-            "w": 2,
-            "l": 12,
-            "rank": 5,
-            "gb": "8"
-          }
-        ]
-      },
-      "division_leaders": [
+    }
+  },
+  "NL": {
+    "divisions": {
+      "WEST": [
         {
-          "abbr": "CHC",
-          "name": "Chicago Cubs",
-          "city": "Chicago",
-          "nickname": "Cubs",
-          "division": "CENTRAL",
-          "tb_w": 11,
-          "tb_l": 3,
-          "tb_pct": ".786",
-          "w": 11,
-          "l": 3,
-          "rank": 1
+          "abbr": "SDP",
+          "name": "San Diego Padres",
+          "city": "San Diego",
+          "nickname": "Padres",
+          "division": "WEST",
+          "tb_w": 9,
+          "tb_l": 5,
+          "tb_pct": ".643",
+          "w": 9,
+          "l": 5,
+          "rank": 1,
+          "gb": "-",
+          "tie_number": 1
         },
         {
           "abbr": "ARI",
@@ -945,75 +729,15 @@
           "city": "Arizona",
           "nickname": "Diamondbacks",
           "division": "WEST",
-          "tb_w": 10,
-          "tb_l": 4,
-          "tb_pct": ".714",
-          "w": 10,
-          "l": 4,
-          "rank": 2
-        },
-        {
-          "abbr": "ATL",
-          "name": "Atlanta Braves",
-          "city": "Atlanta",
-          "nickname": "Braves",
-          "division": "EAST",
           "tb_w": 9,
           "tb_l": 5,
           "tb_pct": ".643",
           "w": 9,
           "l": 5,
-          "rank": 3
-        }
-      ],
-      "wildcard": [
-        {
-          "abbr": "MIL",
-          "name": "Milwaukee Brewers",
-          "city": "Milwaukee",
-          "nickname": "Brewers",
-          "division": "CENTRAL",
-          "tb_w": 9,
-          "tb_l": 5,
-          "tb_pct": ".643",
-          "w": 9,
-          "l": 5,
-          "wc_rank": 1,
-          "wcgb": "-",
-          "in_wc": true,
-          "tie_number": 4
-        },
-        {
-          "abbr": "STL",
-          "name": "St. Louis Cardinals",
-          "city": "St. Louis",
-          "nickname": "Cardinals",
-          "division": "CENTRAL",
-          "tb_w": 9,
-          "tb_l": 5,
-          "tb_pct": ".643",
-          "w": 9,
-          "l": 5,
-          "wc_rank": 2,
-          "wcgb": "-",
-          "in_wc": true,
-          "tie_number": 4
-        },
-        {
-          "abbr": "PHI",
-          "name": "Philadelphia Phillies",
-          "city": "Philadelphia",
-          "nickname": "Phillies",
-          "division": "EAST",
-          "tb_w": 9,
-          "tb_l": 5,
-          "tb_pct": ".643",
-          "w": 9,
-          "l": 5,
-          "wc_rank": 3,
-          "wcgb": "-",
-          "in_wc": true,
-          "tie_number": 4
+          "rank": 2,
+          "gb": "-",
+          "tie_number": 1,
+          "in_wc": true
         },
         {
           "abbr": "LAD",
@@ -1026,57 +750,8 @@
           "tb_pct": ".571",
           "w": 8,
           "l": 6,
-          "wc_rank": 4,
-          "wcgb": "1",
-          "in_wc": false,
-          "tie_number": 5
-        },
-        {
-          "abbr": "SDP",
-          "name": "San Diego Padres",
-          "city": "San Diego",
-          "nickname": "Padres",
-          "division": "WEST",
-          "tb_w": 8,
-          "tb_l": 6,
-          "tb_pct": ".571",
-          "w": 8,
-          "l": 6,
-          "wc_rank": 5,
-          "wcgb": "1",
-          "in_wc": false,
-          "tie_number": 5
-        },
-        {
-          "abbr": "MIA",
-          "name": "Miami Marlins",
-          "city": "Miami",
-          "nickname": "Marlins",
-          "division": "EAST",
-          "tb_w": 7,
-          "tb_l": 7,
-          "tb_pct": ".500",
-          "w": 7,
-          "l": 7,
-          "wc_rank": 6,
-          "wcgb": "2",
-          "in_wc": false
-        },
-        {
-          "abbr": "NYM",
-          "name": "New York Mets",
-          "city": "New York",
-          "nickname": "Mets",
-          "division": "EAST",
-          "tb_w": 6,
-          "tb_l": 8,
-          "tb_pct": ".429",
-          "w": 6,
-          "l": 8,
-          "wc_rank": 7,
-          "wcgb": "3",
-          "in_wc": false,
-          "tie_number": 6
+          "rank": 3,
+          "gb": "1"
         },
         {
           "abbr": "SFG",
@@ -1084,61 +759,13 @@
           "city": "San Francisco",
           "nickname": "Giants",
           "division": "WEST",
-          "tb_w": 6,
-          "tb_l": 8,
-          "tb_pct": ".429",
-          "w": 6,
-          "l": 8,
-          "wc_rank": 8,
-          "wcgb": "3",
-          "in_wc": false,
-          "tie_number": 6
-        },
-        {
-          "abbr": "PIT",
-          "name": "Pittsburgh Pirates",
-          "city": "Pittsburgh",
-          "nickname": "Pirates",
-          "division": "CENTRAL",
-          "tb_w": 5,
-          "tb_l": 9,
-          "tb_pct": ".357",
-          "w": 5,
-          "l": 9,
-          "wc_rank": 9,
-          "wcgb": "4",
-          "in_wc": false
-        },
-        {
-          "abbr": "WSN",
-          "name": "Washington Nationals",
-          "city": "Washington",
-          "nickname": "Nationals",
-          "division": "EAST",
-          "tb_w": 4,
-          "tb_l": 10,
-          "tb_pct": ".286",
-          "w": 4,
-          "l": 10,
-          "wc_rank": 10,
-          "wcgb": "5",
-          "in_wc": false
-        },
-        {
-          "abbr": "CIN",
-          "name": "Cincinnati Reds",
-          "city": "Cincinnati",
-          "nickname": "Reds",
-          "division": "CENTRAL",
-          "tb_w": 2,
-          "tb_l": 12,
-          "tb_pct": ".143",
-          "w": 2,
-          "l": 12,
-          "wc_rank": 11,
-          "wcgb": "7",
-          "in_wc": false,
-          "tie_number": 7
+          "tb_w": 3,
+          "tb_l": 11,
+          "tb_pct": ".214",
+          "w": 3,
+          "l": 11,
+          "rank": 4,
+          "gb": "6"
         },
         {
           "abbr": "COL",
@@ -1151,244 +778,624 @@
           "tb_pct": ".143",
           "w": 2,
           "l": 12,
-          "wc_rank": 12,
-          "wcgb": "7",
-          "in_wc": false,
-          "tie_number": 7
+          "rank": 5,
+          "gb": "7"
         }
       ],
-      "ties": [
+      "CENTRAL": [
         {
-          "teams": [
-            "ATL",
-            "PHI"
-          ],
-          "record": "9-5",
-          "steps": [
-            "ATL over PHI on head-to-head (8-3)"
-          ],
-          "number": 1,
-          "label": "NL East"
+          "abbr": "CHC",
+          "name": "Chicago Cubs",
+          "city": "Chicago",
+          "nickname": "Cubs",
+          "division": "CENTRAL",
+          "tb_w": 11,
+          "tb_l": 3,
+          "tb_pct": ".786",
+          "w": 11,
+          "l": 3,
+          "rank": 1,
+          "gb": "-"
         },
         {
-          "teams": [
-            "MIL",
-            "STL"
-          ],
-          "record": "9-5",
-          "steps": [
-            "MIL over STL on head-to-head (8-2)"
-          ],
-          "number": 2,
-          "label": "NL Central"
-        },
-        {
-          "teams": [
-            "LAD",
-            "SDP"
-          ],
-          "record": "8-6",
-          "steps": [
-            "LAD over SDP on head-to-head (7-3)"
-          ],
-          "number": 3,
-          "label": "NL West"
-        },
-        {
-          "teams": [
-            "MIL",
-            "STL",
-            "PHI"
-          ],
-          "record": "9-5",
-          "steps": [
-            "Central: MIL over STL on head-to-head (8-2)",
-            "Wild Card: MIL over PHI on head-to-head (2-1)"
-          ],
-          "number": 4,
-          "label": "NL Wild Card"
-        },
-        {
-          "teams": [
-            "LAD",
-            "SDP"
-          ],
-          "record": "8-6",
-          "steps": [
-            "West: LAD over SDP on head-to-head (7-3)"
-          ],
-          "number": 5,
-          "label": "NL Wild Card"
-        },
-        {
-          "teams": [
-            "NYM",
-            "SFG"
-          ],
-          "record": "6-8",
-          "steps": [
-            "NYM over SFG on head-to-head (5-2)"
-          ],
-          "number": 6,
-          "label": "NL Wild Card"
-        },
-        {
-          "teams": [
-            "CIN",
-            "COL"
-          ],
-          "record": "2-12",
-          "steps": [
-            "CIN over COL on head-to-head (4-2)"
-          ],
-          "number": 7,
-          "label": "NL Wild Card"
-        }
-      ],
-      "playoffs": {
-        "wild_card": [
-          {
-            "teams": [
-              {
-                "abbr": "MIL",
-                "name": "Milwaukee Brewers",
-                "city": "Milwaukee",
-                "nickname": "Brewers",
-                "seed": 4
-              },
-              {
-                "abbr": "STL",
-                "name": "St. Louis Cardinals",
-                "city": "St. Louis",
-                "nickname": "Cardinals",
-                "seed": 5
-              }
-            ],
-            "winner": {
-              "abbr": "MIL",
-              "name": "Milwaukee Brewers",
-              "city": "Milwaukee",
-              "nickname": "Brewers",
-              "seed": 4
-            },
-            "note": "MIL over STL on head-to-head (8-2)"
-          },
-          {
-            "teams": [
-              {
-                "abbr": "ATL",
-                "name": "Atlanta Braves",
-                "city": "Atlanta",
-                "nickname": "Braves",
-                "seed": 3
-              },
-              {
-                "abbr": "PHI",
-                "name": "Philadelphia Phillies",
-                "city": "Philadelphia",
-                "nickname": "Phillies",
-                "seed": 6
-              }
-            ],
-            "winner": {
-              "abbr": "ATL",
-              "name": "Atlanta Braves",
-              "city": "Atlanta",
-              "nickname": "Braves",
-              "seed": 3
-            },
-            "note": "ATL over PHI on head-to-head (8-3)"
-          }
-        ],
-        "division_series": [
-          {
-            "teams": [
-              {
-                "abbr": "CHC",
-                "name": "Chicago Cubs",
-                "city": "Chicago",
-                "nickname": "Cubs",
-                "seed": 1
-              },
-              {
-                "abbr": "MIL",
-                "name": "Milwaukee Brewers",
-                "city": "Milwaukee",
-                "nickname": "Brewers",
-                "seed": 4
-              }
-            ],
-            "winner": {
-              "abbr": "MIL",
-              "name": "Milwaukee Brewers",
-              "city": "Milwaukee",
-              "nickname": "Brewers",
-              "seed": 4
-            },
-            "note": "MIL over CHC on head-to-head (9-4)"
-          },
-          {
-            "teams": [
-              {
-                "abbr": "ARI",
-                "name": "Arizona Diamondbacks",
-                "city": "Arizona",
-                "nickname": "Diamondbacks",
-                "seed": 2
-              },
-              {
-                "abbr": "ATL",
-                "name": "Atlanta Braves",
-                "city": "Atlanta",
-                "nickname": "Braves",
-                "seed": 3
-              }
-            ],
-            "winner": {
-              "abbr": "ARI",
-              "name": "Arizona Diamondbacks",
-              "city": "Arizona",
-              "nickname": "Diamondbacks",
-              "seed": 2
-            },
-            "note": "ARI over ATL on head-to-head (4-3)"
-          }
-        ],
-        "championship": [
-          {
-            "teams": [
-              {
-                "abbr": "MIL",
-                "name": "Milwaukee Brewers",
-                "city": "Milwaukee",
-                "nickname": "Brewers",
-                "seed": 4
-              },
-              {
-                "abbr": "ARI",
-                "name": "Arizona Diamondbacks",
-                "city": "Arizona",
-                "nickname": "Diamondbacks",
-                "seed": 2
-              }
-            ],
-            "winner": {
-              "abbr": "MIL",
-              "name": "Milwaukee Brewers",
-              "city": "Milwaukee",
-              "nickname": "Brewers",
-              "seed": 4
-            },
-            "note": "MIL over ARI on head-to-head (4-2)"
-          }
-        ],
-        "champion": {
           "abbr": "MIL",
           "name": "Milwaukee Brewers",
           "city": "Milwaukee",
           "nickname": "Brewers",
-          "seed": 4
+          "division": "CENTRAL",
+          "tb_w": 10,
+          "tb_l": 4,
+          "tb_pct": ".714",
+          "w": 10,
+          "l": 4,
+          "rank": 2,
+          "gb": "1",
+          "in_wc": true
+        },
+        {
+          "abbr": "STL",
+          "name": "St. Louis Cardinals",
+          "city": "St. Louis",
+          "nickname": "Cardinals",
+          "division": "CENTRAL",
+          "tb_w": 9,
+          "tb_l": 5,
+          "tb_pct": ".643",
+          "w": 9,
+          "l": 5,
+          "rank": 3,
+          "gb": "2",
+          "in_wc": true
+        },
+        {
+          "abbr": "PIT",
+          "name": "Pittsburgh Pirates",
+          "city": "Pittsburgh",
+          "nickname": "Pirates",
+          "division": "CENTRAL",
+          "tb_w": 5,
+          "tb_l": 9,
+          "tb_pct": ".357",
+          "w": 5,
+          "l": 9,
+          "rank": 4,
+          "gb": "6"
+        },
+        {
+          "abbr": "CIN",
+          "name": "Cincinnati Reds",
+          "city": "Cincinnati",
+          "nickname": "Reds",
+          "division": "CENTRAL",
+          "tb_w": 3,
+          "tb_l": 11,
+          "tb_pct": ".214",
+          "w": 3,
+          "l": 11,
+          "rank": 5,
+          "gb": "8"
         }
+      ],
+      "EAST": [
+        {
+          "abbr": "PHI",
+          "name": "Philadelphia Phillies",
+          "city": "Philadelphia",
+          "nickname": "Phillies",
+          "division": "EAST",
+          "tb_w": 9,
+          "tb_l": 5,
+          "tb_pct": ".643",
+          "w": 9,
+          "l": 5,
+          "rank": 1,
+          "gb": "-"
+        },
+        {
+          "abbr": "ATL",
+          "name": "Atlanta Braves",
+          "city": "Atlanta",
+          "nickname": "Braves",
+          "division": "EAST",
+          "tb_w": 8,
+          "tb_l": 6,
+          "tb_pct": ".571",
+          "w": 8,
+          "l": 6,
+          "rank": 2,
+          "gb": "1",
+          "tie_number": 2
+        },
+        {
+          "abbr": "MIA",
+          "name": "Miami Marlins",
+          "city": "Miami",
+          "nickname": "Marlins",
+          "division": "EAST",
+          "tb_w": 8,
+          "tb_l": 6,
+          "tb_pct": ".571",
+          "w": 8,
+          "l": 6,
+          "rank": 3,
+          "gb": "1",
+          "tie_number": 2
+        },
+        {
+          "abbr": "NYM",
+          "name": "New York Mets",
+          "city": "New York",
+          "nickname": "Mets",
+          "division": "EAST",
+          "tb_w": 6,
+          "tb_l": 8,
+          "tb_pct": ".429",
+          "w": 6,
+          "l": 8,
+          "rank": 4,
+          "gb": "3"
+        },
+        {
+          "abbr": "WSN",
+          "name": "Washington Nationals",
+          "city": "Washington",
+          "nickname": "Nationals",
+          "division": "EAST",
+          "tb_w": 5,
+          "tb_l": 9,
+          "tb_pct": ".357",
+          "w": 5,
+          "l": 9,
+          "rank": 5,
+          "gb": "4"
+        }
+      ]
+    },
+    "division_leaders": [
+      {
+        "abbr": "CHC",
+        "name": "Chicago Cubs",
+        "city": "Chicago",
+        "nickname": "Cubs",
+        "division": "CENTRAL",
+        "tb_w": 11,
+        "tb_l": 3,
+        "tb_pct": ".786",
+        "w": 11,
+        "l": 3,
+        "rank": 1
+      },
+      {
+        "abbr": "PHI",
+        "name": "Philadelphia Phillies",
+        "city": "Philadelphia",
+        "nickname": "Phillies",
+        "division": "EAST",
+        "tb_w": 9,
+        "tb_l": 5,
+        "tb_pct": ".643",
+        "w": 9,
+        "l": 5,
+        "rank": 2,
+        "tie_number": 3
+      },
+      {
+        "abbr": "SDP",
+        "name": "San Diego Padres",
+        "city": "San Diego",
+        "nickname": "Padres",
+        "division": "WEST",
+        "tb_w": 9,
+        "tb_l": 5,
+        "tb_pct": ".643",
+        "w": 9,
+        "l": 5,
+        "rank": 3,
+        "tie_number": 3
+      }
+    ],
+    "wildcard": [
+      {
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
+        "city": "Milwaukee",
+        "nickname": "Brewers",
+        "division": "CENTRAL",
+        "tb_w": 10,
+        "tb_l": 4,
+        "tb_pct": ".714",
+        "w": 10,
+        "l": 4,
+        "wc_rank": 1,
+        "wcgb": "-",
+        "in_wc": true
+      },
+      {
+        "abbr": "ARI",
+        "name": "Arizona Diamondbacks",
+        "city": "Arizona",
+        "nickname": "Diamondbacks",
+        "division": "WEST",
+        "tb_w": 9,
+        "tb_l": 5,
+        "tb_pct": ".643",
+        "w": 9,
+        "l": 5,
+        "wc_rank": 2,
+        "wcgb": "1",
+        "in_wc": true,
+        "tie_number": 4
+      },
+      {
+        "abbr": "STL",
+        "name": "St. Louis Cardinals",
+        "city": "St. Louis",
+        "nickname": "Cardinals",
+        "division": "CENTRAL",
+        "tb_w": 9,
+        "tb_l": 5,
+        "tb_pct": ".643",
+        "w": 9,
+        "l": 5,
+        "wc_rank": 3,
+        "wcgb": "1",
+        "in_wc": true,
+        "tie_number": 4
+      },
+      {
+        "abbr": "ATL",
+        "name": "Atlanta Braves",
+        "city": "Atlanta",
+        "nickname": "Braves",
+        "division": "EAST",
+        "tb_w": 8,
+        "tb_l": 6,
+        "tb_pct": ".571",
+        "w": 8,
+        "l": 6,
+        "wc_rank": 4,
+        "wcgb": "2",
+        "in_wc": false,
+        "tie_number": 5
+      },
+      {
+        "abbr": "MIA",
+        "name": "Miami Marlins",
+        "city": "Miami",
+        "nickname": "Marlins",
+        "division": "EAST",
+        "tb_w": 8,
+        "tb_l": 6,
+        "tb_pct": ".571",
+        "w": 8,
+        "l": 6,
+        "wc_rank": 5,
+        "wcgb": "2",
+        "in_wc": false,
+        "tie_number": 5
+      },
+      {
+        "abbr": "LAD",
+        "name": "Los Angeles Dodgers",
+        "city": "Los Angeles",
+        "nickname": "Dodgers",
+        "division": "WEST",
+        "tb_w": 8,
+        "tb_l": 6,
+        "tb_pct": ".571",
+        "w": 8,
+        "l": 6,
+        "wc_rank": 6,
+        "wcgb": "2",
+        "in_wc": false,
+        "tie_number": 5
+      },
+      {
+        "abbr": "NYM",
+        "name": "New York Mets",
+        "city": "New York",
+        "nickname": "Mets",
+        "division": "EAST",
+        "tb_w": 6,
+        "tb_l": 8,
+        "tb_pct": ".429",
+        "w": 6,
+        "l": 8,
+        "wc_rank": 7,
+        "wcgb": "4",
+        "in_wc": false
+      },
+      {
+        "abbr": "PIT",
+        "name": "Pittsburgh Pirates",
+        "city": "Pittsburgh",
+        "nickname": "Pirates",
+        "division": "CENTRAL",
+        "tb_w": 5,
+        "tb_l": 9,
+        "tb_pct": ".357",
+        "w": 5,
+        "l": 9,
+        "wc_rank": 8,
+        "wcgb": "5",
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "WSN",
+        "name": "Washington Nationals",
+        "city": "Washington",
+        "nickname": "Nationals",
+        "division": "EAST",
+        "tb_w": 5,
+        "tb_l": 9,
+        "tb_pct": ".357",
+        "w": 5,
+        "l": 9,
+        "wc_rank": 9,
+        "wcgb": "5",
+        "in_wc": false,
+        "tie_number": 6
+      },
+      {
+        "abbr": "CIN",
+        "name": "Cincinnati Reds",
+        "city": "Cincinnati",
+        "nickname": "Reds",
+        "division": "CENTRAL",
+        "tb_w": 3,
+        "tb_l": 11,
+        "tb_pct": ".214",
+        "w": 3,
+        "l": 11,
+        "wc_rank": 10,
+        "wcgb": "7",
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "SFG",
+        "name": "San Francisco Giants",
+        "city": "San Francisco",
+        "nickname": "Giants",
+        "division": "WEST",
+        "tb_w": 3,
+        "tb_l": 11,
+        "tb_pct": ".214",
+        "w": 3,
+        "l": 11,
+        "wc_rank": 11,
+        "wcgb": "7",
+        "in_wc": false,
+        "tie_number": 7
+      },
+      {
+        "abbr": "COL",
+        "name": "Colorado Rockies",
+        "city": "Colorado",
+        "nickname": "Rockies",
+        "division": "WEST",
+        "tb_w": 2,
+        "tb_l": 12,
+        "tb_pct": ".143",
+        "w": 2,
+        "l": 12,
+        "wc_rank": 12,
+        "wcgb": "8",
+        "in_wc": false
+      }
+    ],
+    "ties": [
+      {
+        "teams": [
+          "SDP",
+          "ARI"
+        ],
+        "record": "9-5",
+        "steps": [
+          "SDP over ARI on head-to-head (7-6)"
+        ],
+        "number": 1,
+        "label": "NL West"
+      },
+      {
+        "teams": [
+          "ATL",
+          "MIA"
+        ],
+        "record": "8-6",
+        "steps": [
+          "ATL over MIA on head-to-head (9-4)"
+        ],
+        "number": 2,
+        "label": "NL East"
+      },
+      {
+        "teams": [
+          "PHI",
+          "SDP"
+        ],
+        "record": "9-5",
+        "steps": [
+          "PHI over SDP on head-to-head (6-0)"
+        ],
+        "number": 3,
+        "label": "NL Leaders"
+      },
+      {
+        "teams": [
+          "ARI",
+          "STL"
+        ],
+        "record": "9-5",
+        "steps": [
+          "ARI over STL on head-to-head (5-2)"
+        ],
+        "number": 4,
+        "label": "NL Wild Card"
+      },
+      {
+        "teams": [
+          "ATL",
+          "MIA",
+          "LAD"
+        ],
+        "record": "8-6",
+        "steps": [
+          "East: ATL over MIA on head-to-head (9-4)",
+          "Wild Card: ATL over LAD on head-to-head (5-1)"
+        ],
+        "number": 5,
+        "label": "NL Wild Card"
+      },
+      {
+        "teams": [
+          "PIT",
+          "WSN"
+        ],
+        "record": "5-9",
+        "steps": [
+          "PIT over WSN on head-to-head (4-3)"
+        ],
+        "number": 6,
+        "label": "NL Wild Card"
+      },
+      {
+        "teams": [
+          "CIN",
+          "SFG"
+        ],
+        "record": "3-11",
+        "steps": [
+          "CIN over SFG on intradivision record"
+        ],
+        "number": 7,
+        "label": "NL Wild Card"
+      }
+    ],
+    "playoffs": {
+      "wild_card": [
+        {
+          "teams": [
+            {
+              "abbr": "MIL",
+              "name": "Milwaukee Brewers",
+              "city": "Milwaukee",
+              "nickname": "Brewers",
+              "seed": 4
+            },
+            {
+              "abbr": "ARI",
+              "name": "Arizona Diamondbacks",
+              "city": "Arizona",
+              "nickname": "Diamondbacks",
+              "seed": 5
+            }
+          ],
+          "winner": {
+            "abbr": "MIL",
+            "name": "Milwaukee Brewers",
+            "city": "Milwaukee",
+            "nickname": "Brewers",
+            "seed": 4
+          },
+          "note": "MIL over ARI on head-to-head (4-2)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "SDP",
+              "name": "San Diego Padres",
+              "city": "San Diego",
+              "nickname": "Padres",
+              "seed": 3
+            },
+            {
+              "abbr": "STL",
+              "name": "St. Louis Cardinals",
+              "city": "St. Louis",
+              "nickname": "Cardinals",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "STL",
+            "name": "St. Louis Cardinals",
+            "city": "St. Louis",
+            "nickname": "Cardinals",
+            "seed": 6
+          },
+          "note": "STL over SDP on head-to-head (4-3)"
+        }
+      ],
+      "division_series": [
+        {
+          "teams": [
+            {
+              "abbr": "CHC",
+              "name": "Chicago Cubs",
+              "city": "Chicago",
+              "nickname": "Cubs",
+              "seed": 1
+            },
+            {
+              "abbr": "MIL",
+              "name": "Milwaukee Brewers",
+              "city": "Milwaukee",
+              "nickname": "Brewers",
+              "seed": 4
+            }
+          ],
+          "winner": {
+            "abbr": "MIL",
+            "name": "Milwaukee Brewers",
+            "city": "Milwaukee",
+            "nickname": "Brewers",
+            "seed": 4
+          },
+          "note": "MIL over CHC on head-to-head (9-4)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "PHI",
+              "name": "Philadelphia Phillies",
+              "city": "Philadelphia",
+              "nickname": "Phillies",
+              "seed": 2
+            },
+            {
+              "abbr": "STL",
+              "name": "St. Louis Cardinals",
+              "city": "St. Louis",
+              "nickname": "Cardinals",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "PHI",
+            "name": "Philadelphia Phillies",
+            "city": "Philadelphia",
+            "nickname": "Phillies",
+            "seed": 2
+          },
+          "note": "PHI over STL on head-to-head (4-2)"
+        }
+      ],
+      "championship": [
+        {
+          "teams": [
+            {
+              "abbr": "MIL",
+              "name": "Milwaukee Brewers",
+              "city": "Milwaukee",
+              "nickname": "Brewers",
+              "seed": 4
+            },
+            {
+              "abbr": "PHI",
+              "name": "Philadelphia Phillies",
+              "city": "Philadelphia",
+              "nickname": "Phillies",
+              "seed": 2
+            }
+          ],
+          "winner": {
+            "abbr": "MIL",
+            "name": "Milwaukee Brewers",
+            "city": "Milwaukee",
+            "nickname": "Brewers",
+            "seed": 4
+          },
+          "note": "MIL over PHI on head-to-head (4-2)"
+        }
+      ],
+      "champion": {
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
+        "city": "Milwaukee",
+        "nickname": "Brewers",
+        "seed": 4
       }
     }
   }

@@ -8,21 +8,23 @@ const DIVISION_LABELS = {
     WEST: 'West',
 };
 
-document.addEventListener('DOMContentLoaded', async () => {
-    await loadStandings();
+document.addEventListener('DOMContentLoaded', () => {
+    loadStandings();
     render();
 });
 
-async function loadStandings() {
-    try {
-        const response = await fetch('../data/standings.json');
-        const data = await response.json();
-        season = Object.keys(data)[0];
-        standings = data[season];
-        document.getElementById('seasonLabel').textContent = `${season} Season`;
-    } catch (error) {
-        console.error('Error loading standings:', error);
+// Data comes from ../data/standings.js (window.MLB_STANDINGS, written by
+// scripts/generateStandings.py) rather than fetch(), so the page works when
+// opened straight from disk.
+function loadStandings() {
+    const data = window.MLB_STANDINGS;
+    if (!data) {
+        console.error('No standings data. Run main.py to generate data/standings.js.');
+        return;
     }
+    season = Object.keys(data)[0];
+    standings = data[season];
+    document.getElementById('seasonLabel').textContent = `${season} Season`;
 }
 
 function switchLeague(league) {
@@ -41,7 +43,7 @@ function getLogoPath(team) {
 function render() {
     const root = document.getElementById('standingsRoot');
     if (!standings || !standings[currentLeague]) {
-        root.innerHTML = '';
+        root.innerHTML = '<p class="subtitle">No standings data found. Run main.py to generate data/standings.js.</p>';
         return;
     }
 
@@ -51,8 +53,11 @@ function render() {
         .join('');
 
     root.innerHTML = `
-        <div class="standings-divisions">${divisionsHtml}</div>
-        ${renderWildcardTable(leagueData.wildcard)}
+        <div class="${currentLeague === 'NL' ? 'nl' : ''}">
+            <div class="standings-divisions">${divisionsHtml}</div>
+            ${renderWildcardTable(leagueData.wildcard)}
+            ${renderTieExplainer(currentLeague, leagueData.ties)}
+        </div>
     `;
 }
 
@@ -75,13 +80,14 @@ function renderHeaderRow(gbLabel) {
 
 function renderTeamRow(team, gb, extraClass) {
     const streakClass = team.streak.startsWith('W') ? 'streak-win' : 'streak-loss';
+    const marker = team.tie_number ? `<sup class="tie-marker">${team.tie_number}</sup>` : '';
     return `
         <div class="standings-row ${extraClass || ''}">
             <div class="col-team">
                 <span class="rank">${team.wc_rank || team.rank}</span>
                 <img class="team-logo-sm" src="${getLogoPath(team)}" alt="${team.name}">
-                <span class="team-name">${team.name}</span>
-                <span class="team-abbr">${team.abbr}</span>
+                <span class="team-name">${team.name}${marker}</span>
+                <span class="team-abbr">${team.abbr}${marker}</span>
             </div>
             <div class="col-num">${team.w}</div>
             <div class="col-num">${team.l}</div>
@@ -99,7 +105,7 @@ function renderTeamRow(team, gb, extraClass) {
 function renderDivisionTable(division, teams) {
     const label = DIVISION_LABELS[division] || division;
     const rows = teams
-        .map(team => renderTeamRow(team, team.gb, team.rank === 1 ? 'row-leader' : ''))
+        .map(team => renderTeamRow(team, team.gb, team.rank === 1 ? 'row-leader' : team.in_wc ? 'row-clinch' : ''))
         .join('');
 
     return `
@@ -125,6 +131,30 @@ function renderWildcardTable(teams) {
             <div class="standings-title">${currentLeague} Wild Card</div>
             ${renderHeaderRow('WCGB')}
             ${rows}
+        </div>
+    `;
+}
+
+function renderTieExplainer(league, ties) {
+    if (!ties || !ties.length) return '';
+
+    const items = ties.map(tie => `
+        <div class="tie-entry">
+            <div class="tie-entry-header">
+                <span class="tie-entry-number">${tie.number}</span>
+                ${tie.label}: ${tie.teams.join('/')}
+                <span class="tie-entry-record">(${tie.record})</span>
+            </div>
+            <div class="tie-entry-steps">
+                ${tie.steps.map(step => `<div class="tie-entry-step">${step}</div>`).join('')}
+            </div>
+        </div>
+    `).join('');
+
+    return `
+        <div class="tie-explainer">
+            <div class="tie-explainer-title">${league} Tiebreakers</div>
+            ${items}
         </div>
     `;
 }

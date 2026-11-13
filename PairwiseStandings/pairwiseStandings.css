@@ -26,113 +26,95 @@
     grid-template-columns: minmax(160px, 2.4fr) repeat(3, 0.8fr);
 }
 
-.tie-marker {
-    color: #2563eb;
-    font-weight: 700;
-    font-size: 0.6em;
-    margin-left: 1px;
-}
-
-.nl .tie-marker {
-    color: #dc2626;
-}
-
-.nl .tie-entry-number {
-    background: #dc2626;
-}
-
-.tie-explainer {
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-    padding: 18px 20px;
-}
-
-.tie-explainer-title {
-    font-weight: 700;
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: #64748b;
-    margin-bottom: 12px;
-}
-
-.tie-entry + .tie-entry {
-    margin-top: 14px;
-    padding-top: 14px;
-    border-top: 1px solid #f1f5f9;
-}
-
-.tie-entry-header {
-    font-weight: 600;
-    color: #1e293b;
-    font-size: 0.92rem;
-}
-
-.tie-entry-number {
-    display: inline-flex;
+/* Full-width labeled dividers: Standings / Playoff Picture / Simulated Playoffs */
+.section-divider {
+    display: flex;
     align-items: center;
-    justify-content: center;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background: #2563eb;
-    color: white;
-    font-size: 0.75rem;
-    font-weight: 700;
-    margin-right: 6px;
-}
-
-.tie-entry-record {
-    color: #94a3b8;
-    font-weight: 500;
-}
-
-.tie-entry-steps {
-    margin-top: 6px;
-    padding-left: 26px;
-}
-
-.tie-entry-step {
-    font-size: 0.85rem;
-    line-height: 1.6;
+    gap: 14px;
+    margin: 40px 0 20px;
     color: #475569;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
 }
 
+.section-divider:first-child {
+    margin-top: 24px;
+}
+
+.section-divider::before,
+.section-divider::after {
+    content: "";
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #cbd5e1, transparent);
+}
+
+/* Simulated playoffs. Card positions are fixed (not flowed), so the AL and NL
+   brackets are identical and sit level with each other. Each Wild Card game is
+   level with the Division Series game it feeds; the pennant game is centered
+   between the two Division Series games. */
 .bracket-card {
     padding-bottom: 4px;
 }
 
 .bracket {
-    display: flex;
-    gap: 12px;
-    padding: 18px 16px 6px;
+    --card-h: 124px;
+    --row-gap: 14px;
+    --title-h: 26px;
+    position: relative;
+    margin: 14px 14px 0;
+    height: calc(var(--title-h) + 2 * var(--card-h) + var(--row-gap));
 }
 
 .bracket-round {
-    flex: 1;
-    min-width: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 16px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 31%;
 }
 
+.bracket-round-1 { left: 0; }
+.bracket-round-2 { left: 34.5%; }
+.bracket-round-3 { left: 69%; }
+
 .bracket-round-title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
     text-align: center;
     font-size: 0.68rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: #94a3b8;
-    margin-bottom: 2px;
 }
 
 .bracket-game {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: var(--card-h);
+    display: flex;
+    flex-direction: column;
     border: 1px solid #e2e8f0;
     border-radius: 8px;
     overflow: hidden;
     background: #f8fafc;
+}
+
+.bracket-game.slot-top {
+    top: var(--title-h);
+}
+
+.bracket-game.slot-bottom {
+    top: calc(var(--title-h) + var(--card-h) + var(--row-gap));
+}
+
+.bracket-game.slot-mid {
+    top: calc(var(--title-h) + (var(--card-h) + var(--row-gap)) / 2);
 }
 
 .bracket-team {
@@ -180,6 +162,9 @@
 }
 
 .bracket-note {
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
     font-size: 0.66rem;
     line-height: 1.4;
     color: #94a3b8;
@@ -190,7 +175,7 @@
 
 .bracket-champion {
     text-align: center;
-    margin: 10px 16px 16px;
+    margin: 14px 16px 16px;
     padding: 10px;
     border-radius: 8px;
     font-weight: 700;
@@ -202,6 +187,106 @@
 .nl .bracket-champion {
     background: #fef2f2;
     color: #dc2626;
+}
+
+/* Tiebreaking criteria page */
+.container.criteria {
+    max-width: min(860px, calc(100vw - 24px));
+}
+
+.rules-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    padding: 24px 28px;
+    margin-bottom: 24px;
+}
+
+.rules-card h2 {
+    font-size: 1.25rem;
+    margin-bottom: 4px;
+}
+
+.rules-card h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #475569;
+    margin: 22px 0 6px;
+}
+
+.rules-intro {
+    color: #64748b;
+    font-size: 0.92rem;
+    line-height: 1.55;
+}
+
+.rules-list {
+    list-style: none;
+    counter-reset: rule;
+    padding: 0;
+    margin: 6px 0 0;
+}
+
+.rules-list li {
+    counter-increment: rule;
+    position: relative;
+    padding: 10px 0 10px 38px;
+    border-top: 1px solid #f1f5f9;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #1e293b;
+}
+
+.rules-list li::before {
+    content: counter(rule);
+    position: absolute;
+    left: 0;
+    top: 11px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #2563eb;
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.rules-list.lettered li::before {
+    content: counter(rule, lower-alpha);
+}
+
+.rule-plain {
+    display: block;
+    margin-top: 2px;
+    font-size: 0.85rem;
+    color: #64748b;
+}
+
+.rule-flag {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 1px 7px;
+    border-radius: 999px;
+    background: #f1f5f9;
+    color: #64748b;
+    font-size: 0.68rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.rules-card ul.plain-bullets {
+    margin: 8px 0 0 20px;
+    font-size: 0.93rem;
+    line-height: 1.65;
+    color: #1e293b;
+}
+
+.rules-card ul.plain-bullets li + li {
+    margin-top: 6px;
 }
 
 @media (max-width: 900px) {
@@ -219,18 +304,38 @@
         grid-template-columns: minmax(110px, 1.6fr) repeat(3, 0.7fr);
     }
 
+    .rules-card {
+        padding: 20px 18px;
+    }
+
+    /* Phones: stack the rounds instead of placing them */
     .bracket {
+        height: auto;
+        display: flex;
         flex-direction: column;
+        gap: 14px;
     }
 
     .bracket-round {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: flex-start;
+        position: static;
+        width: auto;
+    }
+
+    .bracket-round-title {
+        position: static;
+        margin-bottom: 6px;
     }
 
     .bracket-game {
-        flex: 1;
-        min-width: 130px;
+        position: static;
+        height: auto;
+        margin-bottom: 8px;
     }
+}
+
+.footnote {
+    margin-top: 32px;
+    text-align: center;
+    color: #94a3b8;
+    font-size: 0.8rem;
 }
