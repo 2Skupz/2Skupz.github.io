@@ -1,212 +1,58 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<title>nba KPI</title>
-<script type="text/javascript" src="tabber.js">
-</script>
-<link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Droid+Sans+Mono" rel="stylesheet">
-<style>
- body {
-			font-family: "Roboto Slab", serif;
-			font-size: 12px;
-			}
-#data {
-			font-family: "Droid Sans Mono", serif;
-			font-size: 13px;
-		}
-</style>
-<link rel="stylesheet" href="tabbedPage.css" TYPE="text/css" MEDIA="screen">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NBA Power Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="kpi-style.css">
 </head>
-<body bgcolor=#EAE0F9>
-<hr>
-<table width=100%>
-<tr><td align=left>
-<h1 align="center">2024 NBA KPI Rankings</h1>
-</td>
-</tr></table>
-<p>
-Compiled October 28, 2024 at 08:50
-<hr>
-<center>
-<table width=100% border=1><tr>
-<td valign=top>
-<div class="tabber">
-<div class="tabbertab" title="Ken Power Index">
-<pre><div id=data>
-
-                                             -------Rating----------------  ---Rank---            
-Rank Team                            W-L     KPI    PPI    S-Ix    WPI      P    W   
-====================================================================================
-  1 Boston                          80-21    1000   10.67   1000   1000     1    1    
-  2 Oklahoma City                   63-29     854   7.68     856    853     2    2    
-  3 Minnesota                       65-33     822   6.68     808    836     3    4    
-  4 Denver                          64-30     786   4.89     722    851     4    3    
-  5 Dallas                          63-41     718   3.77     668    767     7    5    
-  6 New York                        57-38     683   3.87     673    693     6    7    
-  7 LA Clippers                     53-35     675   2.99     631    720     9    6    
-  8 New Orleans                     50-38     671   3.92     675    667     5    9    
-  9 Phoenix                         49-37     636   2.58     611    662     10   10   
- 10 Indiana                         55-45     636   3.12     637    635     8    14   
- 11 Sacramento                      47-37     632   2.51     607    656     12   11   
- 12 Milwaukee                       51-37     625   2.29     597    653     14   12   
- 13 Golden State                    46-37     620   2.50     607    633     13   15   
- 14 Philadelphia                    50-39     612   2.56     610    614     11   16   
- 15 LA Lakers                       50-39     611   1.40     554    668     17   8    
- 16 Cleveland                       53-41     605   1.72     570    640     16   13   
- 17 Orlando                         50-39     592   1.81     574    610     15   17   
- 18 Miami                           48-41     560   0.96     533    586     19   18   
- 19 Houston                         41-41     545   1.26     547    542     18   19   
- 20 Chicago                         40-44     435   -1.82    399    470     20   20   
-
-                                             -------Rating----------------  ---Rank---            
-Rank Team                            W-L     KPI    PPI    S-Ix    WPI      P    W   
-====================================================================================
- 21 Atlanta                         36-47     387   -2.55    364    409     21   21   
- 22 Brooklyn                        32-50     341   -3.04    341    341     22   23   
- 23 Utah                            31-51     325   -4.21    285    366     23   22   
- 24 Memphis                         27-55     223   -6.55    172    275     26   24   
- 25 San Antonio                     22-60     201   -5.79    209    193     24   26   
- 26 Toronto                         25-57     193   -6.46    176    210     25   25   
- 27 Portland                        21-61     131   -8.27     89    173     27   27   
- 28 Charlotte                       21-61      67   -10.13     0    134     30   28   
- 29 Washington                      15-67      28   -9.30     40     16     29   29   
- 30 Detroit                         14-68      26   -9.07     51      0     28   30   
-</div></pre>
-</div>
-<div class="tabbertab" title="Points Based">
-<pre><div id=data>
-
-
-Rank Team                            W-L    PPI      S-Ix
-==============================================================
-  1 Boston                          80-21   10.67    1000  
-  2 Oklahoma City                   63-29   7.68      856  
-  3 Minnesota                       65-33   6.68      808  
-  4 Denver                          64-30   4.89      722  
-  5 New Orleans                     50-38   3.92      675  
-  6 New York                        57-38   3.87      673  
-  7 Dallas                          63-41   3.77      668  
-  8 Indiana                         55-45   3.12      637  
-  9 LA Clippers                     53-35   2.99      631  
- 10 Phoenix                         49-37   2.58      611  
- 11 Philadelphia                    50-39   2.56      610  
- 12 Sacramento                      47-37   2.51      607  
- 13 Golden State                    46-37   2.50      607  
- 14 Milwaukee                       51-37   2.29      597  
- 15 Orlando                         50-39   1.81      574  
- 16 Cleveland                       53-41   1.72      570  
- 17 LA Lakers                       50-39   1.40      554  
- 18 Houston                         41-41   1.26      547  
- 19 Miami                           48-41   0.96      533  
- 20 Chicago                         40-44   -1.82     399  
-
-
-Rank Team                            W-L    PPI      S-Ix
-==============================================================
- 21 Atlanta                         36-47   -2.55     364  
- 22 Brooklyn                        32-50   -3.04     341  
- 23 Utah                            31-51   -4.21     285  
- 24 San Antonio                     22-60   -5.79     209  
- 25 Toronto                         25-57   -6.46     176  
- 26 Memphis                         27-55   -6.55     172  
- 27 Portland                        21-61   -8.27      89  
- 28 Detroit                         14-68   -9.07      51  
- 29 Washington                      15-67   -9.30      40  
- 30 Charlotte                       21-61   -10.13      0  
-</div></pre>
-</div>
-<div class="tabbertab" title="Win Based">
-<pre><div id=data>
-
-
-Rank Team                            W-L     WPI
-===================================================
-  1 Boston                          80-21    1000  
-  2 Oklahoma City                   63-29     853  
-  3 Denver                          64-30     851  
-  4 Minnesota                       65-33     836  
-  5 Dallas                          63-41     767  
-  6 LA Clippers                     53-35     720  
-  7 New York                        57-38     693  
-  8 LA Lakers                       50-39     668  
-  9 New Orleans                     50-38     667  
- 10 Phoenix                         49-37     662  
- 11 Sacramento                      47-37     656  
- 12 Milwaukee                       51-37     653  
- 13 Cleveland                       53-41     640  
- 14 Indiana                         55-45     635  
- 15 Golden State                    46-37     633  
- 16 Philadelphia                    50-39     614  
- 17 Orlando                         50-39     610  
- 18 Miami                           48-41     586  
- 19 Houston                         41-41     542  
- 20 Chicago                         40-44     470  
-
-
-Rank Team                            W-L     WPI
-===================================================
- 21 Atlanta                         36-47     409  
- 22 Utah                            31-51     366  
- 23 Brooklyn                        32-50     341  
- 24 Memphis                         27-55     275  
- 25 Toronto                         25-57     210  
- 26 San Antonio                     22-60     193  
- 27 Portland                        21-61     173  
- 28 Charlotte                       21-61     134  
- 29 Washington                      15-67      16  
- 30 Detroit                         14-68       0  
-</div></pre>
-</div>
-<div class="tabbertab" title="SOS">
-<pre><div id=data>
-
-
-Rank Team                          SOS       W-L     KPI      Rk 
-==================================================================
-  1 Dallas                         1.49     63-41    718      5    
-  2 LA Lakers                      0.77     50-39    611      15   
-  3 Portland                       0.75     21-61    131      27   
-  4 San Antonio                    0.70     22-60    201      25   
-  5 Utah                           0.68     31-51    325      23   
-  6 Sacramento                     0.60     47-37    632      11   
-  7 Minnesota                      0.60     65-33    822      3    
-  8 Indiana                        0.58     55-45    636      10   
-  9 Denver                         0.57     64-30    786      4    
- 10 New Orleans                    0.49     50-38    671      8    
- 11 Memphis                        0.45     27-55    223      24   
- 12 LA Clippers                    0.39     53-35    675      7    
- 13 Oklahoma City                  0.38     63-29    854      2    
- 14 Phoenix                        0.36     49-37    636      9    
- 15 Cleveland                      0.32     53-41    605      16   
- 16 Golden State                   0.22     46-37    620      13   
- 17 New York                       0.20     57-38    683      6    
- 18 Houston                        0.13     41-41    545      19   
- 19 Charlotte                      0.12     21-61     67      28   
- 20 Detroit                        0.04     14-68     26      30   
-
-
-Rank Team                          SOS       W-L     KPI      Rk 
-==================================================================
- 21 Milwaukee                      0.04     51-37    625      12   
- 22 Miami                          -0.00    48-41    560      18   
- 23 Washington                     -0.01    15-67     28      29   
- 24 Toronto                        -0.02    25-57    193      26   
- 25 Boston                         -0.05    80-21   1000      1    
- 26 Brooklyn                       -0.15    32-50    341      22   
- 27 Atlanta                        -0.21    36-47    387      21   
- 28 Philadelphia                   -0.25    50-39    612      14   
- 29 Chicago                        -0.35    40-44    435      20   
- 30 Orlando                        -0.40    50-39    592      17   
-</div></pre>
-</div>
-	</pre>
-	</p>
-	</span>
-</body>
 <body>
-<h3>Other links</h3>
-<h4>Home</h4>
-	<ul>
-			<li class="listyle"><a href="https://2skupz.github.io/index.html"> Index</a></li>
-	</ul>
+<div class="masthead">
+  <div class="masthead-inner">
+    <p class="eyebrow"><span class="dot"></span>2024 SEASON</p>
+    <h1>NBA Power Index</h1>
+    <div class="masthead-meta">
+      <span>Compiled November 13, 2026 at 17:59</span>
+      <a href="https://2skupz.github.io/index.html">All KPI sites &rarr;</a>
+    </div>
+  </div>
+</div>
+<div class="yardline" aria-hidden="true"></div>
+
+<div class="page">
+
+  <div class="controls">
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="search-wrap">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.6" y2="16.6"></line></svg>
+      <input id="search" type="text" placeholder="Find a team&hellip;" autocomplete="off">
+    </div>
+  </div>
+
+  <div class="table-card">
+    <div class="table-scroll">
+      <table>
+        <thead><tr id="thead-row"></tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <p class="summary-line">30 teams tracked, 30 games played, 0 unbeaten.</p>
+
+  <footer>
+    <span>KPI blends scoring margin (PPI) and results (WPI), each scaled 0&ndash;1000, then adjusted by strength of schedule.</span>
+    <a href="https://2skupz.github.io/index.html">&larr; Other rankings</a>
+  </footer>
+</div>
+
+<script>
+window.KPI_TABS = [{"id":"kpi","label":"Ken Power Index","cols":["rank","name","wl","kpi","ppi","six","wpi","prank","wrank"]},{"id":"points","label":"Points Based","cols":["rank","name","wl","ppi","six"]},{"id":"wins","label":"Win Based","cols":["rank","name","wl","wpi"]},{"id":"sos","label":"SOS","cols":["rank","name","sos","wl","kpi","kpirank"]}];
+window.KPI_DATA = {"kpi":[{"rank":1,"name":"Boston","wl":"80-21","kpi":1000,"ppi":10.67,"six":1000,"wpi":1000,"prank":1,"wrank":1,"href":null},{"rank":2,"name":"Oklahoma City","wl":"63-29","kpi":854,"ppi":7.68,"six":856,"wpi":853,"prank":2,"wrank":2,"href":null},{"rank":3,"name":"Minnesota","wl":"65-33","kpi":822,"ppi":6.68,"six":808,"wpi":836,"prank":3,"wrank":4,"href":null},{"rank":4,"name":"Denver","wl":"64-30","kpi":786,"ppi":4.89,"six":722,"wpi":851,"prank":4,"wrank":3,"href":null},{"rank":5,"name":"Dallas","wl":"63-41","kpi":718,"ppi":3.77,"six":668,"wpi":767,"prank":7,"wrank":5,"href":null},{"rank":6,"name":"New York","wl":"57-38","kpi":683,"ppi":3.87,"six":673,"wpi":693,"prank":6,"wrank":7,"href":null},{"rank":7,"name":"LA Clippers","wl":"53-35","kpi":675,"ppi":2.99,"six":631,"wpi":720,"prank":9,"wrank":6,"href":null},{"rank":8,"name":"New Orleans","wl":"50-38","kpi":671,"ppi":3.92,"six":675,"wpi":667,"prank":5,"wrank":9,"href":null},{"rank":9,"name":"Phoenix","wl":"49-37","kpi":636,"ppi":2.58,"six":611,"wpi":662,"prank":10,"wrank":10,"href":null},{"rank":10,"name":"Indiana","wl":"55-45","kpi":636,"ppi":3.12,"six":637,"wpi":635,"prank":8,"wrank":14,"href":null},{"rank":11,"name":"Sacramento","wl":"47-37","kpi":632,"ppi":2.51,"six":607,"wpi":656,"prank":12,"wrank":11,"href":null},{"rank":12,"name":"Milwaukee","wl":"51-37","kpi":625,"ppi":2.29,"six":597,"wpi":653,"prank":14,"wrank":12,"href":null},{"rank":13,"name":"Golden State","wl":"46-37","kpi":620,"ppi":2.5,"six":607,"wpi":633,"prank":13,"wrank":15,"href":null},{"rank":14,"name":"Philadelphia","wl":"50-39","kpi":612,"ppi":2.56,"six":610,"wpi":614,"prank":11,"wrank":16,"href":null},{"rank":15,"name":"LA Lakers","wl":"50-39","kpi":611,"ppi":1.4,"six":554,"wpi":668,"prank":17,"wrank":8,"href":null},{"rank":16,"name":"Cleveland","wl":"53-41","kpi":605,"ppi":1.72,"six":570,"wpi":640,"prank":16,"wrank":13,"href":null},{"rank":17,"name":"Orlando","wl":"50-39","kpi":592,"ppi":1.81,"six":574,"wpi":610,"prank":15,"wrank":17,"href":null},{"rank":18,"name":"Miami","wl":"48-41","kpi":560,"ppi":0.96,"six":533,"wpi":586,"prank":19,"wrank":18,"href":null},{"rank":19,"name":"Houston","wl":"41-41","kpi":545,"ppi":1.26,"six":547,"wpi":542,"prank":18,"wrank":19,"href":null},{"rank":20,"name":"Chicago","wl":"40-44","kpi":435,"ppi":-1.82,"six":399,"wpi":470,"prank":20,"wrank":20,"href":null},{"rank":21,"name":"Atlanta","wl":"36-47","kpi":387,"ppi":-2.55,"six":364,"wpi":409,"prank":21,"wrank":21,"href":null},{"rank":22,"name":"Brooklyn","wl":"32-50","kpi":341,"ppi":-3.04,"six":341,"wpi":341,"prank":22,"wrank":23,"href":null},{"rank":23,"name":"Utah","wl":"31-51","kpi":325,"ppi":-4.21,"six":285,"wpi":366,"prank":23,"wrank":22,"href":null},{"rank":24,"name":"Memphis","wl":"27-55","kpi":223,"ppi":-6.55,"six":172,"wpi":275,"prank":26,"wrank":24,"href":null},{"rank":25,"name":"San Antonio","wl":"22-60","kpi":201,"ppi":-5.79,"six":209,"wpi":193,"prank":24,"wrank":26,"href":null},{"rank":26,"name":"Toronto","wl":"25-57","kpi":193,"ppi":-6.46,"six":176,"wpi":210,"prank":25,"wrank":25,"href":null},{"rank":27,"name":"Portland","wl":"21-61","kpi":131,"ppi":-8.27,"six":89,"wpi":173,"prank":27,"wrank":27,"href":null},{"rank":28,"name":"Charlotte","wl":"21-61","kpi":67,"ppi":-10.13,"six":0,"wpi":134,"prank":30,"wrank":28,"href":null},{"rank":29,"name":"Washington","wl":"15-67","kpi":28,"ppi":-9.3,"six":40,"wpi":16,"prank":29,"wrank":29,"href":null},{"rank":30,"name":"Detroit","wl":"14-68","kpi":26,"ppi":-9.07,"six":51,"wpi":0,"prank":28,"wrank":30,"href":null}],"points":[{"rank":1,"name":"Boston","wl":"80-21","ppi":10.67,"six":1000,"href":null},{"rank":2,"name":"Oklahoma City","wl":"63-29","ppi":7.68,"six":856,"href":null},{"rank":3,"name":"Minnesota","wl":"65-33","ppi":6.68,"six":808,"href":null},{"rank":4,"name":"Denver","wl":"64-30","ppi":4.89,"six":722,"href":null},{"rank":5,"name":"New Orleans","wl":"50-38","ppi":3.92,"six":675,"href":null},{"rank":6,"name":"New York","wl":"57-38","ppi":3.87,"six":673,"href":null},{"rank":7,"name":"Dallas","wl":"63-41","ppi":3.77,"six":668,"href":null},{"rank":8,"name":"Indiana","wl":"55-45","ppi":3.12,"six":637,"href":null},{"rank":9,"name":"LA Clippers","wl":"53-35","ppi":2.99,"six":631,"href":null},{"rank":10,"name":"Phoenix","wl":"49-37","ppi":2.58,"six":611,"href":null},{"rank":11,"name":"Philadelphia","wl":"50-39","ppi":2.56,"six":610,"href":null},{"rank":12,"name":"Sacramento","wl":"47-37","ppi":2.51,"six":607,"href":null},{"rank":13,"name":"Golden State","wl":"46-37","ppi":2.5,"six":607,"href":null},{"rank":14,"name":"Milwaukee","wl":"51-37","ppi":2.29,"six":597,"href":null},{"rank":15,"name":"Orlando","wl":"50-39","ppi":1.81,"six":574,"href":null},{"rank":16,"name":"Cleveland","wl":"53-41","ppi":1.72,"six":570,"href":null},{"rank":17,"name":"LA Lakers","wl":"50-39","ppi":1.4,"six":554,"href":null},{"rank":18,"name":"Houston","wl":"41-41","ppi":1.26,"six":547,"href":null},{"rank":19,"name":"Miami","wl":"48-41","ppi":0.96,"six":533,"href":null},{"rank":20,"name":"Chicago","wl":"40-44","ppi":-1.82,"six":399,"href":null},{"rank":21,"name":"Atlanta","wl":"36-47","ppi":-2.55,"six":364,"href":null},{"rank":22,"name":"Brooklyn","wl":"32-50","ppi":-3.04,"six":341,"href":null},{"rank":23,"name":"Utah","wl":"31-51","ppi":-4.21,"six":285,"href":null},{"rank":24,"name":"San Antonio","wl":"22-60","ppi":-5.79,"six":209,"href":null},{"rank":25,"name":"Toronto","wl":"25-57","ppi":-6.46,"six":176,"href":null},{"rank":26,"name":"Memphis","wl":"27-55","ppi":-6.55,"six":172,"href":null},{"rank":27,"name":"Portland","wl":"21-61","ppi":-8.27,"six":89,"href":null},{"rank":28,"name":"Detroit","wl":"14-68","ppi":-9.07,"six":51,"href":null},{"rank":29,"name":"Washington","wl":"15-67","ppi":-9.3,"six":40,"href":null},{"rank":30,"name":"Charlotte","wl":"21-61","ppi":-10.13,"six":0,"href":null}],"wins":[{"rank":1,"name":"Boston","wl":"80-21","wpi":1000,"href":null},{"rank":2,"name":"Oklahoma City","wl":"63-29","wpi":853,"href":null},{"rank":3,"name":"Denver","wl":"64-30","wpi":851,"href":null},{"rank":4,"name":"Minnesota","wl":"65-33","wpi":836,"href":null},{"rank":5,"name":"Dallas","wl":"63-41","wpi":767,"href":null},{"rank":6,"name":"LA Clippers","wl":"53-35","wpi":720,"href":null},{"rank":7,"name":"New York","wl":"57-38","wpi":693,"href":null},{"rank":8,"name":"LA Lakers","wl":"50-39","wpi":668,"href":null},{"rank":9,"name":"New Orleans","wl":"50-38","wpi":667,"href":null},{"rank":10,"name":"Phoenix","wl":"49-37","wpi":662,"href":null},{"rank":11,"name":"Sacramento","wl":"47-37","wpi":656,"href":null},{"rank":12,"name":"Milwaukee","wl":"51-37","wpi":653,"href":null},{"rank":13,"name":"Cleveland","wl":"53-41","wpi":640,"href":null},{"rank":14,"name":"Indiana","wl":"55-45","wpi":635,"href":null},{"rank":15,"name":"Golden State","wl":"46-37","wpi":633,"href":null},{"rank":16,"name":"Philadelphia","wl":"50-39","wpi":614,"href":null},{"rank":17,"name":"Orlando","wl":"50-39","wpi":610,"href":null},{"rank":18,"name":"Miami","wl":"48-41","wpi":586,"href":null},{"rank":19,"name":"Houston","wl":"41-41","wpi":542,"href":null},{"rank":20,"name":"Chicago","wl":"40-44","wpi":470,"href":null},{"rank":21,"name":"Atlanta","wl":"36-47","wpi":409,"href":null},{"rank":22,"name":"Utah","wl":"31-51","wpi":366,"href":null},{"rank":23,"name":"Brooklyn","wl":"32-50","wpi":341,"href":null},{"rank":24,"name":"Memphis","wl":"27-55","wpi":275,"href":null},{"rank":25,"name":"Toronto","wl":"25-57","wpi":210,"href":null},{"rank":26,"name":"San Antonio","wl":"22-60","wpi":193,"href":null},{"rank":27,"name":"Portland","wl":"21-61","wpi":173,"href":null},{"rank":28,"name":"Charlotte","wl":"21-61","wpi":134,"href":null},{"rank":29,"name":"Washington","wl":"15-67","wpi":16,"href":null},{"rank":30,"name":"Detroit","wl":"14-68","wpi":0,"href":null}],"sos":[{"rank":1,"name":"Dallas","sos":1.49,"wl":"63-41","kpi":718,"kpirank":5,"href":null},{"rank":2,"name":"LA Lakers","sos":0.77,"wl":"50-39","kpi":611,"kpirank":15,"href":null},{"rank":3,"name":"Portland","sos":0.75,"wl":"21-61","kpi":131,"kpirank":27,"href":null},{"rank":4,"name":"San Antonio","sos":0.7,"wl":"22-60","kpi":201,"kpirank":25,"href":null},{"rank":5,"name":"Utah","sos":0.68,"wl":"31-51","kpi":325,"kpirank":23,"href":null},{"rank":6,"name":"Sacramento","sos":0.6,"wl":"47-37","kpi":632,"kpirank":11,"href":null},{"rank":7,"name":"Minnesota","sos":0.6,"wl":"65-33","kpi":822,"kpirank":3,"href":null},{"rank":8,"name":"Indiana","sos":0.58,"wl":"55-45","kpi":636,"kpirank":10,"href":null},{"rank":9,"name":"Denver","sos":0.57,"wl":"64-30","kpi":786,"kpirank":4,"href":null},{"rank":10,"name":"New Orleans","sos":0.49,"wl":"50-38","kpi":671,"kpirank":8,"href":null},{"rank":11,"name":"Memphis","sos":0.45,"wl":"27-55","kpi":223,"kpirank":24,"href":null},{"rank":12,"name":"LA Clippers","sos":0.39,"wl":"53-35","kpi":675,"kpirank":7,"href":null},{"rank":13,"name":"Oklahoma City","sos":0.38,"wl":"63-29","kpi":854,"kpirank":2,"href":null},{"rank":14,"name":"Phoenix","sos":0.36,"wl":"49-37","kpi":636,"kpirank":9,"href":null},{"rank":15,"name":"Cleveland","sos":0.32,"wl":"53-41","kpi":605,"kpirank":16,"href":null},{"rank":16,"name":"Golden State","sos":0.22,"wl":"46-37","kpi":620,"kpirank":13,"href":null},{"rank":17,"name":"New York","sos":0.2,"wl":"57-38","kpi":683,"kpirank":6,"href":null},{"rank":18,"name":"Houston","sos":0.13,"wl":"41-41","kpi":545,"kpirank":19,"href":null},{"rank":19,"name":"Charlotte","sos":0.12,"wl":"21-61","kpi":67,"kpirank":28,"href":null},{"rank":20,"name":"Detroit","sos":0.04,"wl":"14-68","kpi":26,"kpirank":30,"href":null},{"rank":21,"name":"Milwaukee","sos":0.04,"wl":"51-37","kpi":625,"kpirank":12,"href":null},{"rank":22,"name":"Miami","sos":-0.0,"wl":"48-41","kpi":560,"kpirank":18,"href":null},{"rank":23,"name":"Washington","sos":-0.01,"wl":"15-67","kpi":28,"kpirank":29,"href":null},{"rank":24,"name":"Toronto","sos":-0.02,"wl":"25-57","kpi":193,"kpirank":26,"href":null},{"rank":25,"name":"Boston","sos":-0.05,"wl":"80-21","kpi":1000,"kpirank":1,"href":null},{"rank":26,"name":"Brooklyn","sos":-0.15,"wl":"32-50","kpi":341,"kpirank":22,"href":null},{"rank":27,"name":"Atlanta","sos":-0.21,"wl":"36-47","kpi":387,"kpirank":21,"href":null},{"rank":28,"name":"Philadelphia","sos":-0.25,"wl":"50-39","kpi":612,"kpirank":14,"href":null},{"rank":29,"name":"Chicago","sos":-0.35,"wl":"40-44","kpi":435,"kpirank":20,"href":null},{"rank":30,"name":"Orlando","sos":-0.4,"wl":"50-39","kpi":592,"kpirank":17,"href":null}]};
+</script>
+<script src="kpi-app.js"></script>
 </body>
+</html>

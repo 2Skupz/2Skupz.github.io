@@ -194,101 +194,6 @@
     max-width: min(860px, calc(100vw - 24px));
 }
 
-.rules-card {
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-    padding: 24px 28px;
-    margin-bottom: 24px;
-}
-
-.rules-card h2 {
-    font-size: 1.25rem;
-    margin-bottom: 4px;
-}
-
-.rules-card h3 {
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: #475569;
-    margin: 22px 0 6px;
-}
-
-.rules-intro {
-    color: #64748b;
-    font-size: 0.92rem;
-    line-height: 1.55;
-}
-
-.rules-list {
-    list-style: none;
-    counter-reset: rule;
-    padding: 0;
-    margin: 6px 0 0;
-}
-
-.rules-list li {
-    counter-increment: rule;
-    position: relative;
-    padding: 10px 0 10px 38px;
-    border-top: 1px solid #f1f5f9;
-    font-size: 0.95rem;
-    line-height: 1.5;
-    color: #1e293b;
-}
-
-.rules-list li::before {
-    content: counter(rule);
-    position: absolute;
-    left: 0;
-    top: 11px;
-    width: 24px;
-    height: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    background: #2563eb;
-    color: white;
-    font-size: 0.75rem;
-    font-weight: 700;
-}
-
-.rules-list.lettered li::before {
-    content: counter(rule, lower-alpha);
-}
-
-.rule-plain {
-    display: block;
-    margin-top: 2px;
-    font-size: 0.85rem;
-    color: #64748b;
-}
-
-.rule-flag {
-    display: inline-block;
-    margin-left: 6px;
-    padding: 1px 7px;
-    border-radius: 999px;
-    background: #f1f5f9;
-    color: #64748b;
-    font-size: 0.68rem;
-    font-weight: 600;
-    white-space: nowrap;
-}
-
-.rules-card ul.plain-bullets {
-    margin: 8px 0 0 20px;
-    font-size: 0.93rem;
-    line-height: 1.65;
-    color: #1e293b;
-}
-
-.rules-card ul.plain-bullets li + li {
-    margin-top: 6px;
-}
-
 @media (max-width: 900px) {
     .pairwise-leagues {
         grid-template-columns: 1fr;
@@ -302,10 +207,6 @@
 @media (max-width: 600px) {
     .tb-row {
         grid-template-columns: minmax(110px, 1.6fr) repeat(3, 0.7fr);
-    }
-
-    .rules-card {
-        padding: 20px 18px;
     }
 
     /* Phones: stack the rounds instead of placing them */

@@ -6,6 +6,7 @@
     <title>MLB Standings</title>
     <link rel="stylesheet" href="mlbTiebreak.css">
     <link rel="stylesheet" href="standings.css">
+    <link rel="stylesheet" href="rulesDialog.css">
 </head>
 <body>
     <div class="container">
@@ -13,7 +14,8 @@
         <p class="subtitle" id="seasonLabel">2026 Season</p>
         <p class="subtitle">
             <a href="../../PairwiseStandings/pairwiseStandings.html">Pairwise Standings</a> &middot;
-            <a href="mlbTiebreak.html">Matchup &amp; Grid</a>
+            <a href="mlbTiebreak.html">Matchup &amp; Grid</a> &middot;
+            <a href="#" id="rulesLink">Tiebreaking Criteria</a>
         </p>
 
         <!-- League Selector -->
@@ -28,6 +30,77 @@
 
         <div id="standingsRoot"></div>
     </div>
+
+    <dialog id="rulesDialog" class="rules-dialog">
+        <div class="rules-dialog-head">
+            <h2>MLB Tiebreaking Criteria</h2>
+            <button id="rulesClose" class="rules-close" type="button" aria-label="Close">&times;</button>
+        </div>
+        <p class="rules-intro">How teams with the same record are separated, from two teams up to four.</p>
+            <section class="rules-card">
+                <h2>Two teams tied</h2>
+                <p class="rules-intro">Go down the list in order. The first step that separates the two teams decides it.</p>
+                <ol class="rules-list">
+                    <li>Head-to-head record
+                        <span class="rule-plain">Who won more of the games the two teams played against each other.</span>
+                    </li>
+                    <li>Intradivision record
+                        <span class="rule-plain">Better winning percentage in games against teams in their own division.</span>
+                    </li>
+                    <li>Intraleague record
+                        <span class="rule-plain">Better winning percentage in games against teams in their own league.</span>
+                    </li>
+                    <li>Last half of intraleague games <span class="rule-flag">not tracked on this page</span>
+                        <span class="rule-plain">Better winning percentage in intraleague games played after the All-Star break.</span>
+                    </li>
+                    <li>Last half plus one intraleague game <span class="rule-flag">not tracked on this page</span>
+                        <span class="rule-plain">Still tied? Add one more game at a time, going back from the end of the season, until the tie is broken.</span>
+                    </li>
+                </ol>
+            </section>
+
+            <section class="rules-card">
+                <h2>Three teams tied</h2>
+                <p class="rules-intro">First look at how the three teams did against each other. That decides which list applies.</p>
+
+                <h3>If the three teams have identical records against each other</h3>
+                <ol class="rules-list lettered">
+                    <li>Highest intradivision winning percentage</li>
+                    <li>Highest intraleague winning percentage</li>
+                    <li>Highest winning percentage in the last half of intraleague games <span class="rule-flag">not tracked on this page</span></li>
+                    <li>Highest winning percentage in the last half plus one intraleague game, continuing back if still tied <span class="rule-flag">not tracked on this page</span></li>
+                </ol>
+
+                <h3>If their records against each other are not identical</h3>
+                <ol class="rules-list lettered">
+                    <li>A team with a better record against both of the other two teams comes out ahead.</li>
+                    <li>If no team has that, rank them by their combined record in games among the three.
+                        <span class="rule-plain">The highest winning percentage comes out ahead. If two teams are still tied, they use the two-team criteria. If all three are still tied, they use the identical-record list above.</span>
+                    </li>
+                </ol>
+
+                <h3>Division title plus a wild card</h3>
+                <p class="rules-intro">When three teams are tied for a division title and a wild card spot, the division champion is decided first. The remaining two teams then use the two-team criteria.</p>
+            </section>
+
+            <section class="rules-card">
+                <h2>Four teams tied</h2>
+                <p class="rules-intro">Go down the list in order.</p>
+                <ol class="rules-list">
+                    <li>Best record against each of the other three clubs
+                        <span class="rule-plain">A team that came out ahead of all three in its games against each of them.</span>
+                    </li>
+                    <li>Highest winning percentage in games among the four tied clubs
+                        <span class="rule-plain">Count only the games the four teams played against each other.</span>
+                    </li>
+                    <li>Highest intradivision winning percentage</li>
+                    <li>Highest intraleague winning percentage</li>
+                    <li>Highest winning percentage in the last half of intraleague games <span class="rule-flag">not tracked on this page</span></li>
+                    <li>Highest winning percentage in the last half plus one intraleague game, going back until resolved <span class="rule-flag">not tracked on this page</span></li>
+                </ol>
+                <p class="rules-intro" style="margin-top: 14px;">If two teams remain tied, use the two-team criteria. If three remain tied, use the three-team criteria.</p>
+            </section>
+    </dialog>
 
     <script src="../data/standings.js"></script>
     <script src="standings.js"></script>

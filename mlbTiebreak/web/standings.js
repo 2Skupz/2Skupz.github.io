@@ -11,6 +11,18 @@ const DIVISION_LABELS = {
 document.addEventListener('DOMContentLoaded', () => {
     loadStandings();
     render();
+
+    // Tiebreaking criteria opens as a popup.
+    const rulesDialog = document.getElementById('rulesDialog');
+    document.getElementById('rulesLink').addEventListener('click', (e) => {
+        e.preventDefault();
+        rulesDialog.showModal();
+    });
+    document.getElementById('rulesClose').addEventListener('click', () => rulesDialog.close());
+    // Click on the dimmed backdrop closes it too.
+    rulesDialog.addEventListener('click', (e) => {
+        if (e.target === rulesDialog) rulesDialog.close();
+    });
 });
 
 // Data comes from ../data/standings.js (window.MLB_STANDINGS, written by
