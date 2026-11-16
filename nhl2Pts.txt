@@ -4,48 +4,48 @@ NHL Standings - 2 Points
 --------------------------------------------------------------------------------
 Pacific                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Edmonton               20   11    3    6    23    28
-Vegas                  21   11    5    5    14    27
-Anaheim                19    9    8    2     1    20
-SEATTLE                17    6    7    4    -3    16
-Calgary                19    7   10    2   -19    16
-San Jose               21    2   11    8   -21    12
-Los Angeles            17    3   10    4   -13    10
-Vancouver              21    1   17    3   -38     5
+Edmonton               22   13    3    6    27    32
+Vegas                  22   11    6    5    11    27
+Anaheim                21   10    9    2     2    22
+Calgary                21    8   11    2   -23    18
+SEATTLE                18    6    8    4    -7    16
+San Jose               23    3   11    9   -18    15
+Los Angeles            18    3   11    4   -14    10
+Vancouver              22    2   17    3   -35     7
 
 --------------------------------------------------------------------------------
 Central                GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Minnesota              21   13    3    5    24    31
-Colorado               20   11    6    3    18    25
-Nashville              20    8    4    8     7    24
-Utah                   20    8    8    4    -3    20
-Winnipeg               20    8    8    4    -7    20
-Dallas                 18    7    6    5     3    19
-St. Louis              19    8    8    3    -1    19
-Chicago                19    3   13    3   -36     9
+Minnesota              22   14    3    5    28    33
+Colorado               21   12    6    3    21    27
+Nashville              21    8    5    8     5    24
+Dallas                 20    8    6    6     6    22
+Utah                   21    8    8    5    -4    21
+Winnipeg               21    8    8    5    -6    21
+St. Louis              20    8    9    3    -4    19
+Chicago                20    3   13    4   -37    10
 
 --------------------------------------------------------------------------------
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Carolina               20   14    3    3    36    31
+Carolina               21   15    3    3    40    33
 NY Rangers             21   12    8    1     7    25
-New Jersey             20    9    6    5    16    23
-Washington             17    8    7    2     0    18
-NY Islanders           18    6    6    6     0    18
-Philadelphia           21    5   10    6   -22    16
-Pittsburgh             19    3   10    6    -6    12
-Columbus               17    2   10    5   -12     9
+New Jersey             21   10    6    5    19    25
+NY Islanders           19    7    6    6     4    20
+Washington             18    8    8    2    -3    18
+Philadelphia           23    6   11    6   -24    18
+Pittsburgh             20    3   11    6    -9    12
+Columbus               18    2   11    5   -13     9
 
 --------------------------------------------------------------------------------
 Atlantic               GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
-Tampa Bay              19   11    4    4    17    26
-Boston                 19   10    5    4    24    24
-Montreal               19    8    3    8    10    24
-Ottawa                 20    9    6    5     4    23
-Florida                20    9    7    4     5    22
-Buffalo                19    6    7    6   -13    18
-Toronto                21    7   11    3    -6    17
-Detroit                20    5   10    5    -9    15
+Tampa Bay              20   11    5    4    15    26
+Ottawa                 21   10    6    5     7    25
+Florida                22   10    7    5     7    25
+Boston                 20   10    6    4    20    24
+Montreal               20    8    4    8     7    24
+Buffalo                20    6    8    6   -15    18
+Detroit                21    6   10    5    -7    17
+Toronto                22    7   12    3    -7    17
 
