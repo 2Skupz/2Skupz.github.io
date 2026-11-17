@@ -11,7 +11,7 @@ Calgary                21    8   11    2   -23    18
 SEATTLE                18    6    8    4    -7    16
 San Jose               23    3   11    9   -18    15
 Los Angeles            18    3   11    4   -14    10
-Vancouver              22    2   17    3   -35     7
+Vancouver              23    3   17    3   -34     9
 
 --------------------------------------------------------------------------------
 Central                GP    W    L    T    GD   Pts
@@ -20,8 +20,8 @@ Minnesota              22   14    3    5    28    33
 Colorado               21   12    6    3    21    27
 Nashville              21    8    5    8     5    24
 Dallas                 20    8    6    6     6    22
-Utah                   21    8    8    5    -4    21
 Winnipeg               21    8    8    5    -6    21
+Utah                   22    8    9    5    -5    21
 St. Louis              20    8    9    3    -4    19
 Chicago                20    3   13    4   -37    10
 
@@ -29,7 +29,7 @@ Chicago                20    3   13    4   -37    10
 Metropolitan           GP    W    L    T    GD   Pts
 --------------------------------------------------------------------------------
 Carolina               21   15    3    3    40    33
-NY Rangers             21   12    8    1     7    25
+NY Rangers             22   13    8    1     9    27
 New Jersey             21   10    6    5    19    25
 NY Islanders           19    7    6    6     4    20
 Washington             18    8    8    2    -3    18
@@ -44,7 +44,7 @@ Tampa Bay              20   11    5    4    15    26
 Ottawa                 21   10    6    5     7    25
 Florida                22   10    7    5     7    25
 Boston                 20   10    6    4    20    24
-Montreal               20    8    4    8     7    24
+Montreal               21    8    5    8     5    24
 Buffalo                20    6    8    6   -15    18
 Detroit                21    6   10    5    -7    17
 Toronto                22    7   12    3    -7    17

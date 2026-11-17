@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-16 06:28",
-  "games_counted": 149,
+  "generated": "2026-11-17 06:28",
+  "games_counted": 150,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -43,10 +43,10 @@
           "abbr": "LAC",
           "name": "Los Angeles Chargers",
           "division": "West",
-          "tb_w": 0,
+          "tb_w": 3,
           "tb_t": 0,
-          "tb_l": 15,
-          "tb_pct": ".000",
+          "tb_l": 12,
+          "tb_pct": ".200",
           "rank": 4,
           "in_wc": false
         }
@@ -91,10 +91,10 @@
           "abbr": "BAL",
           "name": "Baltimore Ravens",
           "division": "North",
-          "tb_w": 5,
+          "tb_w": 3,
           "tb_t": 0,
-          "tb_l": 10,
-          "tb_pct": ".333",
+          "tb_l": 12,
+          "tb_pct": ".200",
           "rank": 4,
           "in_wc": false
         }
@@ -128,10 +128,10 @@
           "abbr": "NYJ",
           "name": "New York Jets",
           "division": "East",
-          "tb_w": 4,
+          "tb_w": 5,
           "tb_t": 0,
-          "tb_l": 11,
-          "tb_pct": ".267",
+          "tb_l": 10,
+          "tb_pct": ".333",
           "rank": 3,
           "in_wc": false
         },
@@ -139,10 +139,10 @@
           "abbr": "MIA",
           "name": "Miami Dolphins",
           "division": "East",
-          "tb_w": 3,
+          "tb_w": 2,
           "tb_t": 0,
-          "tb_l": 12,
-          "tb_pct": ".200",
+          "tb_l": 13,
+          "tb_pct": ".133",
           "rank": 4,
           "in_wc": false
         }
@@ -185,10 +185,10 @@
           "abbr": "TEN",
           "name": "Tennessee Titans",
           "division": "South",
-          "tb_w": 2,
+          "tb_w": 1,
           "tb_t": 0,
-          "tb_l": 13,
-          "tb_pct": ".133",
+          "tb_l": 14,
+          "tb_pct": ".067",
           "rank": 4,
           "in_wc": false
         }
@@ -306,9 +306,9 @@
         "in_wc": false
       },
       {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens",
-        "division": "North",
+        "abbr": "NYJ",
+        "name": "New York Jets",
+        "division": "East",
         "tb_w": 5,
         "tb_t": 0,
         "tb_l": 10,
@@ -317,20 +317,21 @@
         "in_wc": false
       },
       {
-        "abbr": "NYJ",
-        "name": "New York Jets",
-        "division": "East",
-        "tb_w": 4,
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "division": "West",
+        "tb_w": 3,
         "tb_t": 0,
-        "tb_l": 11,
-        "tb_pct": ".267",
+        "tb_l": 12,
+        "tb_pct": ".200",
         "wc_rank": 8,
-        "in_wc": false
+        "in_wc": false,
+        "tie_number": 4
       },
       {
-        "abbr": "IND",
-        "name": "Indianapolis Colts",
-        "division": "South",
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "division": "North",
         "tb_w": 3,
         "tb_t": 0,
         "tb_l": 12,
@@ -340,9 +341,9 @@
         "tie_number": 4
       },
       {
-        "abbr": "MIA",
-        "name": "Miami Dolphins",
-        "division": "East",
+        "abbr": "IND",
+        "name": "Indianapolis Colts",
+        "division": "South",
         "tb_w": 3,
         "tb_t": 0,
         "tb_l": 12,
@@ -352,9 +353,9 @@
         "tie_number": 4
       },
       {
-        "abbr": "TEN",
-        "name": "Tennessee Titans",
-        "division": "South",
+        "abbr": "MIA",
+        "name": "Miami Dolphins",
+        "division": "East",
         "tb_w": 2,
         "tb_t": 0,
         "tb_l": 13,
@@ -363,13 +364,13 @@
         "in_wc": false
       },
       {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers",
-        "division": "West",
-        "tb_w": 0,
+        "abbr": "TEN",
+        "name": "Tennessee Titans",
+        "division": "South",
+        "tb_w": 1,
         "tb_t": 0,
-        "tb_l": 15,
-        "tb_pct": ".000",
+        "tb_l": 14,
+        "tb_pct": ".067",
         "wc_rank": 12,
         "in_wc": false
       }
@@ -413,12 +414,14 @@
       },
       {
         "teams": [
-          "IND",
-          "MIA"
+          "LAC",
+          "BAL",
+          "IND"
         ],
         "record": "3-12",
         "steps": [
-          "IND over MIA on head-to-head (1-0)"
+          "Record against each other: LAC 1-1, BAL 1-1, IND 1-1",
+          "No separation among LAC/BAL/IND; listed in standing order"
         ],
         "number": 4,
         "label": "AFC Wild Card"

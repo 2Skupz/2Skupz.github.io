@@ -11,7 +11,7 @@ SEATTLE                18    9    9     .500   5.0
 San Jose               23   10   13     .435   6.5
 Calgary                21    9   12     .429   6.5
 Los Angeles            18    5   13     .278   9.0
-Vancouver              22    4   18     .182  12.0
+Vancouver              23    5   18     .217  11.5
 
 --------------------------------------------------------------------------------
 Central                GP    W    L     WinP    GB
@@ -20,8 +20,8 @@ Minnesota              22   15    7     .682    --
 Dallas                 20   12    8     .600   2.0
 Colorado               21   12    9     .571   2.5
 Nashville              21   11   10     .524   3.5
-Utah                   21   10   11     .476   4.5
 Winnipeg               21   10   11     .476   4.5
+Utah                   22   10   12     .455   5.0
 St. Louis              20    9   11     .450   5.0
 Chicago                20    5   15     .250   9.0
 
@@ -30,7 +30,7 @@ Metropolitan           GP    W    L     WinP    GB
 --------------------------------------------------------------------------------
 Carolina               21   16    5     .762    --
 New Jersey             21   15    6     .714   1.0
-NY Rangers             21   12    9     .571   4.0
+NY Rangers             22   13    9     .591   3.5
 Washington             18   10    8     .556   4.5
 NY Islanders           19    9   10     .474   6.0
 Columbus               18    7   11     .389   7.5
@@ -43,7 +43,7 @@ Atlantic               GP    W    L     WinP    GB
 Boston                 20   13    7     .650    --
 Tampa Bay              20   13    7     .650    --
 Ottawa                 21   13    8     .619   0.5
-Montreal               20   12    8     .600   1.0
+Montreal               21   12    9     .571   1.5
 Florida                22   12   10     .545   2.0
 Buffalo                20    8   12     .400   5.0
 Detroit                21    8   13     .381   5.5

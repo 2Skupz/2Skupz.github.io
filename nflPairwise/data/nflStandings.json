@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-16 06:28",
-  "games_counted": 149,
+  "generated": "2026-11-17 06:28",
+  "games_counted": 150,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -72,21 +72,21 @@
           "abbr": "LAC",
           "name": "Los Angeles Chargers",
           "division": "West",
-          "tb_w": 0,
+          "tb_w": 1,
           "tb_t": 0,
           "tb_l": 8,
-          "tb_pct": ".000",
-          "w": 0,
+          "tb_pct": ".111",
+          "w": 1,
           "l": 8,
           "t": 0,
-          "pct": ".000",
+          "pct": ".111",
           "div": "0-3",
-          "conf": "0-5",
-          "streak": "L8",
-          "diff": "-98",
+          "conf": "1-5",
+          "streak": "W1",
+          "diff": "-95",
           "rank": 4,
           "in_wc": false,
-          "gb": "6.5"
+          "gb": "6"
         }
       ],
       "North": [
@@ -156,19 +156,19 @@
           "division": "North",
           "tb_w": 4,
           "tb_t": 0,
-          "tb_l": 5,
-          "tb_pct": ".444",
+          "tb_l": 6,
+          "tb_pct": ".400",
           "w": 4,
-          "l": 5,
+          "l": 6,
           "t": 0,
-          "pct": ".444",
+          "pct": ".400",
           "div": "0-2",
-          "conf": "2-4",
-          "streak": "L4",
-          "diff": "-47",
+          "conf": "2-5",
+          "streak": "L5",
+          "diff": "-50",
           "rank": 4,
           "in_wc": false,
-          "gb": "3"
+          "gb": "3.5"
         }
       ],
       "East": [
@@ -495,26 +495,6 @@
         "wcgb": "2.5"
       },
       {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens",
-        "division": "North",
-        "tb_w": 4,
-        "tb_t": 0,
-        "tb_l": 5,
-        "tb_pct": ".444",
-        "w": 4,
-        "l": 5,
-        "t": 0,
-        "pct": ".444",
-        "div": "0-2",
-        "conf": "2-4",
-        "streak": "L4",
-        "diff": "-47",
-        "wc_rank": 5,
-        "in_wc": false,
-        "wcgb": "3"
-      },
-      {
         "abbr": "LV",
         "name": "Las Vegas Raiders",
         "division": "West",
@@ -530,8 +510,30 @@
         "conf": "3-3",
         "streak": "L2",
         "diff": "-38",
+        "wc_rank": 5,
+        "in_wc": false,
+        "tie_number": 3,
+        "wcgb": "3.5"
+      },
+      {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens",
+        "division": "North",
+        "tb_w": 4,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".400",
+        "w": 4,
+        "l": 6,
+        "t": 0,
+        "pct": ".400",
+        "div": "0-2",
+        "conf": "2-5",
+        "streak": "L5",
+        "diff": "-50",
         "wc_rank": 6,
         "in_wc": false,
+        "tie_number": 3,
         "wcgb": "3.5"
       },
       {
@@ -595,6 +597,27 @@
         "wcgb": "5.5"
       },
       {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers",
+        "division": "West",
+        "tb_w": 1,
+        "tb_t": 0,
+        "tb_l": 8,
+        "tb_pct": ".111",
+        "w": 1,
+        "l": 8,
+        "t": 0,
+        "pct": ".111",
+        "div": "0-3",
+        "conf": "1-5",
+        "streak": "W1",
+        "diff": "-95",
+        "wc_rank": 10,
+        "in_wc": false,
+        "tie_number": 4,
+        "wcgb": "6"
+      },
+      {
         "abbr": "MIA",
         "name": "Miami Dolphins",
         "division": "East",
@@ -610,9 +633,9 @@
         "conf": "1-5",
         "streak": "L3",
         "diff": "-76",
-        "wc_rank": 10,
+        "wc_rank": 11,
         "in_wc": false,
-        "tie_number": 3,
+        "tie_number": 4,
         "wcgb": "6"
       },
       {
@@ -631,30 +654,10 @@
         "conf": "1-6",
         "streak": "L3",
         "diff": "-72",
-        "wc_rank": 11,
-        "in_wc": false,
-        "tie_number": 3,
-        "wcgb": "6"
-      },
-      {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers",
-        "division": "West",
-        "tb_w": 0,
-        "tb_t": 0,
-        "tb_l": 8,
-        "tb_pct": ".000",
-        "w": 0,
-        "l": 8,
-        "t": 0,
-        "pct": ".000",
-        "div": "0-3",
-        "conf": "0-5",
-        "streak": "L8",
-        "diff": "-98",
         "wc_rank": 12,
         "in_wc": false,
-        "wcgb": "6.5"
+        "tie_number": 4,
+        "wcgb": "6"
       }
     ],
     "ties": [
@@ -685,14 +688,27 @@
       },
       {
         "teams": [
+          "LV",
+          "BAL"
+        ],
+        "record": "4-6",
+        "steps": [
+          "LV over BAL on conference record (3-3 vs. 2-5)"
+        ],
+        "number": 3,
+        "label": "AFC Wild Card"
+      },
+      {
+        "teams": [
+          "LAC",
           "MIA",
           "TEN"
         ],
         "record": "1-8",
         "steps": [
-          "MIA over TEN on conference record (1-5 vs. 1-6)"
+          "Record against each other: LAC 2-0, MIA 1-1, TEN 0-2"
         ],
-        "number": 3,
+        "number": 4,
         "label": "AFC Wild Card"
       }
     ]
