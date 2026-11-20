@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-19 06:28",
-  "games_counted": 150,
+  "generated": "2026-11-20 06:28",
+  "games_counted": 151,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -278,21 +278,21 @@
           "abbr": "HOU",
           "name": "Houston Texans",
           "division": "South",
-          "tb_w": 3,
+          "tb_w": 4,
           "tb_t": 0,
           "tb_l": 6,
-          "tb_pct": ".333",
-          "w": 3,
+          "tb_pct": ".400",
+          "w": 4,
           "l": 6,
           "t": 0,
-          "pct": ".333",
-          "div": "2-1",
-          "conf": "3-4",
-          "streak": "L1",
-          "diff": "+14",
+          "pct": ".400",
+          "div": "3-1",
+          "conf": "4-4",
+          "streak": "W1",
+          "diff": "+37",
           "rank": 2,
           "in_wc": false,
-          "gb": "4"
+          "gb": "3.5"
         },
         {
           "abbr": "IND",
@@ -300,19 +300,19 @@
           "division": "South",
           "tb_w": 3,
           "tb_t": 0,
-          "tb_l": 7,
-          "tb_pct": ".300",
+          "tb_l": 8,
+          "tb_pct": ".273",
           "w": 3,
-          "l": 7,
+          "l": 8,
           "t": 0,
-          "pct": ".300",
-          "div": "1-2",
-          "conf": "2-5",
-          "streak": "W1",
-          "diff": "-63",
+          "pct": ".273",
+          "div": "1-3",
+          "conf": "2-6",
+          "streak": "L1",
+          "diff": "-86",
           "rank": 3,
           "in_wc": false,
-          "gb": "4.5"
+          "gb": "5"
         },
         {
           "abbr": "TEN",
@@ -495,6 +495,27 @@
         "wcgb": "2.5"
       },
       {
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "division": "South",
+        "tb_w": 4,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".400",
+        "w": 4,
+        "l": 6,
+        "t": 0,
+        "pct": ".400",
+        "div": "3-1",
+        "conf": "4-4",
+        "streak": "W1",
+        "diff": "+37",
+        "wc_rank": 5,
+        "in_wc": false,
+        "tie_number": 3,
+        "wcgb": "3.5"
+      },
+      {
         "abbr": "LV",
         "name": "Las Vegas Raiders",
         "division": "West",
@@ -510,7 +531,7 @@
         "conf": "3-3",
         "streak": "L2",
         "diff": "-38",
-        "wc_rank": 5,
+        "wc_rank": 6,
         "in_wc": false,
         "tie_number": 3,
         "wcgb": "3.5"
@@ -531,30 +552,10 @@
         "conf": "2-5",
         "streak": "L5",
         "diff": "-50",
-        "wc_rank": 6,
+        "wc_rank": 7,
         "in_wc": false,
         "tie_number": 3,
         "wcgb": "3.5"
-      },
-      {
-        "abbr": "HOU",
-        "name": "Houston Texans",
-        "division": "South",
-        "tb_w": 3,
-        "tb_t": 0,
-        "tb_l": 6,
-        "tb_pct": ".333",
-        "w": 3,
-        "l": 6,
-        "t": 0,
-        "pct": ".333",
-        "div": "2-1",
-        "conf": "3-4",
-        "streak": "L1",
-        "diff": "+14",
-        "wc_rank": 7,
-        "in_wc": false,
-        "wcgb": "4"
       },
       {
         "abbr": "IND",
@@ -562,19 +563,19 @@
         "division": "South",
         "tb_w": 3,
         "tb_t": 0,
-        "tb_l": 7,
-        "tb_pct": ".300",
+        "tb_l": 8,
+        "tb_pct": ".273",
         "w": 3,
-        "l": 7,
+        "l": 8,
         "t": 0,
-        "pct": ".300",
-        "div": "1-2",
-        "conf": "2-5",
-        "streak": "W1",
-        "diff": "-63",
+        "pct": ".273",
+        "div": "1-3",
+        "conf": "2-6",
+        "streak": "L1",
+        "diff": "-86",
         "wc_rank": 8,
         "in_wc": false,
-        "wcgb": "4.5"
+        "wcgb": "5"
       },
       {
         "abbr": "NYJ",
@@ -688,12 +689,13 @@
       },
       {
         "teams": [
+          "HOU",
           "LV",
           "BAL"
         ],
         "record": "4-6",
         "steps": [
-          "LV over BAL on conference record (3-3 vs. 2-5)"
+          "Record against each other: LV 1-1, BAL 0-2, HOU 2-0"
         ],
         "number": 3,
         "label": "AFC Wild Card"

@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-19 06:28",
-  "games_counted": 150,
+  "generated": "2026-11-20 06:28",
+  "games_counted": 151,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -32,10 +32,10 @@
           "abbr": "LV",
           "name": "Las Vegas Raiders",
           "division": "West",
-          "tb_w": 7,
+          "tb_w": 6,
           "tb_t": 0,
-          "tb_l": 8,
-          "tb_pct": ".467",
+          "tb_l": 9,
+          "tb_pct": ".400",
           "rank": 3,
           "in_wc": false
         },
@@ -163,10 +163,10 @@
           "abbr": "HOU",
           "name": "Houston Texans",
           "division": "South",
-          "tb_w": 6,
+          "tb_w": 8,
           "tb_t": 0,
-          "tb_l": 9,
-          "tb_pct": ".400",
+          "tb_l": 7,
+          "tb_pct": ".533",
           "rank": 2,
           "in_wc": false
         },
@@ -174,10 +174,10 @@
           "abbr": "IND",
           "name": "Indianapolis Colts",
           "division": "South",
-          "tb_w": 3,
+          "tb_w": 2,
           "tb_t": 0,
-          "tb_l": 12,
-          "tb_pct": ".200",
+          "tb_l": 13,
+          "tb_pct": ".133",
           "rank": 3,
           "in_wc": false
         },
@@ -272,9 +272,9 @@
         "tie_number": 3
       },
       {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "division": "North",
+        "abbr": "HOU",
+        "name": "Houston Texans",
+        "division": "South",
         "tb_w": 8,
         "tb_t": 0,
         "tb_l": 7,
@@ -284,20 +284,21 @@
         "tie_number": 3
       },
       {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "division": "North",
+        "tb_w": 8,
+        "tb_t": 0,
+        "tb_l": 7,
+        "tb_pct": ".533",
+        "wc_rank": 5,
+        "in_wc": false,
+        "tie_number": 3
+      },
+      {
         "abbr": "LV",
         "name": "Las Vegas Raiders",
         "division": "West",
-        "tb_w": 7,
-        "tb_t": 0,
-        "tb_l": 8,
-        "tb_pct": ".467",
-        "wc_rank": 5,
-        "in_wc": false
-      },
-      {
-        "abbr": "HOU",
-        "name": "Houston Texans",
-        "division": "South",
         "tb_w": 6,
         "tb_t": 0,
         "tb_l": 9,
@@ -344,13 +345,13 @@
         "abbr": "IND",
         "name": "Indianapolis Colts",
         "division": "South",
-        "tb_w": 3,
+        "tb_w": 2,
         "tb_t": 0,
-        "tb_l": 12,
-        "tb_pct": ".200",
+        "tb_l": 13,
+        "tb_pct": ".133",
         "wc_rank": 10,
         "in_wc": false,
-        "tie_number": 4
+        "tie_number": 5
       },
       {
         "abbr": "MIA",
@@ -361,7 +362,8 @@
         "tb_l": 13,
         "tb_pct": ".133",
         "wc_rank": 11,
-        "in_wc": false
+        "in_wc": false,
+        "tie_number": 5
       },
       {
         "abbr": "TEN",
@@ -403,11 +405,13 @@
       {
         "teams": [
           "CLE",
+          "HOU",
           "PIT"
         ],
         "record": "8-7",
         "steps": [
-          "Division rule: PIT ranked behind their division mate"
+          "Division rule: PIT ranked behind their division mate",
+          "CLE over HOU on head-to-head (1-0)"
         ],
         "number": 3,
         "label": "AFC Wild Card"
@@ -415,15 +419,25 @@
       {
         "teams": [
           "LAC",
-          "BAL",
-          "IND"
+          "BAL"
         ],
         "record": "3-12",
         "steps": [
-          "Record against each other: LAC 1-1, BAL 1-1, IND 1-1",
-          "No separation among LAC/BAL/IND; listed in standing order"
+          "LAC over BAL on head-to-head (1-0)"
         ],
         "number": 4,
+        "label": "AFC Wild Card"
+      },
+      {
+        "teams": [
+          "IND",
+          "MIA"
+        ],
+        "record": "2-13",
+        "steps": [
+          "IND over MIA on head-to-head (1-0)"
+        ],
+        "number": 5,
         "label": "AFC Wild Card"
       }
     ],

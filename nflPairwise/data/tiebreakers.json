@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-19 06:28",
-  "games_counted": 150,
+  "generated": "2026-11-20 06:28",
+  "games_counted": 151,
   "conferences": {
     "AFC": {
       "teams": [
@@ -49,17 +49,17 @@
           "abbr": "HOU",
           "name": "Houston Texans",
           "division": "South",
-          "record": "3-6",
-          "pf": 233,
-          "pa": 219
+          "record": "4-6",
+          "pf": 259,
+          "pa": 222
         },
         {
           "abbr": "IND",
           "name": "Indianapolis Colts",
           "division": "South",
-          "record": "3-7",
-          "pf": 208,
-          "pa": 271
+          "record": "3-8",
+          "pf": 211,
+          "pa": 297
         },
         {
           "abbr": "JAX",
@@ -161,13 +161,13 @@
           "ties": 0
         },
         "HOU": {
-          "wins": 6,
-          "losses": 9,
+          "wins": 8,
+          "losses": 7,
           "ties": 0
         },
         "IND": {
-          "wins": 3,
-          "losses": 12,
+          "wins": 2,
+          "losses": 13,
           "ties": 0
         },
         "JAX": {
@@ -186,8 +186,8 @@
           "ties": 0
         },
         "LV": {
-          "wins": 7,
-          "losses": 8,
+          "wins": 6,
+          "losses": 9,
           "ties": 0
         },
         "MIA": {
@@ -322,7 +322,7 @@
             {
               "step": "Conference record",
               "team1": "2-5",
-              "team2": "3-4",
+              "team2": "4-4",
               "applied": true,
               "winner": "HOU",
               "available": true,
@@ -537,7 +537,7 @@
             },
             {
               "step": "Strength of victory",
-              "team1": "11-28",
+              "team1": "11-29",
               "team2": "7-12",
               "applied": true,
               "winner": "NYJ",
@@ -718,7 +718,7 @@
             {
               "step": "Conference record",
               "team1": "5-1",
-              "team2": "2-5",
+              "team2": "2-6",
               "applied": true,
               "winner": "BUF",
               "available": true,
@@ -1066,7 +1066,7 @@
             {
               "step": "Conference record",
               "team1": "5-2",
-              "team2": "2-5",
+              "team2": "2-6",
               "applied": true,
               "winner": "CIN",
               "available": true,
@@ -1370,7 +1370,7 @@
             {
               "step": "Conference record",
               "team1": "4-3",
-              "team2": "2-5",
+              "team2": "2-6",
               "applied": true,
               "winner": "CLE",
               "available": true,
@@ -1626,7 +1626,7 @@
             {
               "step": "Conference record",
               "team1": "3-1",
-              "team2": "3-4",
+              "team2": "4-4",
               "applied": true,
               "winner": "DEN",
               "available": true,
@@ -1654,7 +1654,7 @@
             {
               "step": "Conference record",
               "team1": "3-1",
-              "team2": "2-5",
+              "team2": "2-6",
               "applied": true,
               "winner": "DEN",
               "available": true,
@@ -1909,17 +1909,25 @@
           "steps": [
             {
               "step": "Head-to-head",
-              "team1": "0-1",
-              "team2": "1-0",
+              "team1": "1-1",
+              "team2": "1-1",
               "applied": true,
-              "winner": "IND",
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Division record",
+              "team1": "3-1",
+              "team2": "1-3",
+              "applied": true,
+              "winner": "HOU",
               "available": true,
               "decisive": true
             }
           ],
-          "winner": "IND",
+          "winner": "HOU",
           "tie": false,
-          "decided_by": "Head-to-head"
+          "decided_by": "Division record"
         },
         {
           "team1": "HOU",
@@ -1957,7 +1965,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "3-4",
+              "team1": "4-4",
               "team2": "6-1",
               "applied": true,
               "winner": "KC",
@@ -2005,17 +2013,33 @@
             },
             {
               "step": "Conference record",
-              "team1": "3-4",
+              "team1": "4-4",
               "team2": "3-3",
               "applied": true,
-              "winner": "LV",
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-1",
+              "team2": "1-1",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "12-26",
+              "team2": "7-30",
+              "applied": true,
+              "winner": "HOU",
               "available": true,
               "decisive": true
             }
           ],
-          "winner": "LV",
+          "winner": "HOU",
           "tie": false,
-          "decided_by": "Conference record"
+          "decided_by": "Strength of victory"
         },
         {
           "team1": "HOU",
@@ -2033,7 +2057,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "3-4",
+              "team1": "4-4",
               "team2": "1-5",
               "applied": true,
               "winner": "HOU",
@@ -2061,7 +2085,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "3-4",
+              "team1": "4-4",
               "team2": "5-1",
               "applied": true,
               "winner": "NE",
@@ -2089,7 +2113,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "3-4",
+              "team1": "4-4",
               "team2": "2-5",
               "applied": true,
               "winner": "HOU",
@@ -2117,8 +2141,16 @@
             },
             {
               "step": "Conference record",
-              "team1": "3-4",
+              "team1": "4-4",
               "team2": "3-3",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-3",
+              "team2": "3-2",
               "applied": true,
               "winner": "PIT",
               "available": true,
@@ -2127,7 +2159,7 @@
           ],
           "winner": "PIT",
           "tie": false,
-          "decided_by": "Conference record"
+          "decided_by": "Common games (min 4)"
         },
         {
           "team1": "HOU",
@@ -2205,7 +2237,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "2-5",
+              "team1": "2-6",
               "team2": "1-5",
               "applied": true,
               "winner": "IND",
@@ -2233,7 +2265,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "2-5",
+              "team1": "2-6",
               "team2": "3-3",
               "applied": true,
               "winner": "LV",
@@ -2281,7 +2313,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "2-5",
+              "team1": "2-6",
               "team2": "5-1",
               "applied": true,
               "winner": "NE",
@@ -2309,24 +2341,8 @@
             },
             {
               "step": "Conference record",
-              "team1": "2-5",
+              "team1": "2-6",
               "team2": "2-5",
-              "applied": true,
-              "winner": null,
-              "available": true
-            },
-            {
-              "step": "Common games (min 4)",
-              "team1": "1-2",
-              "team2": "1-2",
-              "applied": false,
-              "winner": null,
-              "available": true
-            },
-            {
-              "step": "Strength of victory",
-              "team1": "7-19-1",
-              "team2": "7-12",
               "applied": true,
               "winner": "NYJ",
               "available": true,
@@ -2335,7 +2351,7 @@
           ],
           "winner": "NYJ",
           "tie": false,
-          "decided_by": "Strength of victory"
+          "decided_by": "Conference record"
         },
         {
           "team1": "IND",
@@ -3018,7 +3034,7 @@
             {
               "step": "Strength of victory",
               "team1": "7-30",
-              "team2": "25-32",
+              "team2": "25-33",
               "applied": true,
               "winner": "PIT",
               "available": true,
@@ -4118,7 +4134,7 @@
             {
               "step": "Strength of victory",
               "team1": "17-11",
-              "team2": "13-34",
+              "team2": "14-34",
               "applied": true,
               "winner": "ATL",
               "available": true,
@@ -5490,7 +5506,7 @@
             {
               "step": "Strength of victory",
               "team1": "25-32",
-              "team2": "13-34",
+              "team2": "14-34",
               "applied": true,
               "winner": "GB",
               "available": true,
@@ -5961,7 +5977,7 @@
             },
             {
               "step": "Strength of victory",
-              "team1": "29-37",
+              "team1": "29-38",
               "team2": "34-42-1",
               "applied": true,
               "winner": "SF",
@@ -6289,7 +6305,7 @@
             },
             {
               "step": "Strength of victory",
-              "team1": "13-34",
+              "team1": "14-34",
               "team2": "11-18",
               "applied": true,
               "winner": "TB",
