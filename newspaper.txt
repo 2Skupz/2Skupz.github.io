@@ -24,8 +24,8 @@ Saturday, November 21                                               Saturday, No
   Dallas                 vs    Portland                               New England            vs    Philadelphia
 Monday, November 23                                                   Inter Miami            vs    Columbus
   Vancouver              vs    Real Salt Lake                       Sunday, November 22
-                                                                      Nashville              vs    Cincinnati
-                                                                      Chicago                vs    Charlotte
+Tuesday, November 24                                                  Nashville              vs    Cincinnati
+  St. Louis              vs    LAFC                                   Chicago                vs    Charlotte
 
 Premier League                                                      Scottish Premiership
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -53,15 +53,15 @@ Crystal Palace         10   2   1   7  10  24 -14   7
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
 Saturday, November 21                                               Saturday, November 21
-  Manchester City        vs    Fulham                                 Celtic                 vs    St Mirren
+  Manchester City        0–1   Fulham                                 Celtic                 vs    St Mirren
   AFC Bournemouth        vs    Nottingham Forest                      Falkirk                vs    St Johnstone
   Aston Villa            vs    Sunderland                             Hibernian              vs    Dundee United
   Chelsea                vs    Leeds United                           Kilmarnock             vs    Aberdeen
   Coventry City          vs    Crystal Palace                         Dundee                 vs    Heart of Midlothian
   Tottenham Hotspur      vs    Ipswich Town                           Motherwell             vs    Rangers
-  Newcastle United       vs    Arsenal                              
-Sunday, November 22                                                 
-  Hull City              vs    Brighton & Hove Albion               
+  Newcastle United       vs    Arsenal                              Tuesday, November 24
+Sunday, November 22                                                   Hibernian              vs    Dundee
+  Hull City              vs    Brighton & Hove Albion                 Rangers                vs    Aberdeen
   Liverpool              vs    Manchester United                    
 Monday, November 23                                                 
   Brentford              vs    Everton                              
@@ -74,13 +74,13 @@ Atlético Madrid        12   9   1   2  23  10  13  28               AS Roma    
 Real Betis             12   8   2   2  20  15   5  26               AC Milan               11   7   3   1  23  13  10  24
 Real Sociedad          12   7   1   4  21  20   1  22               Como                   11   7   2   2  18  10   8  23
 Sevilla                12   5   3   4  17  19  -2  18               Frosinone              11   6   2   3  24  15   9  20
-Athletic Club          11   4   4   3  15  11   4  16               Juventus               11   5   3   3  15  12   3  18
+Athletic Club          12   4   4   4  15  12   3  16               Juventus               11   5   3   3  15  12   3  18
 Villarreal             12   4   3   5  17  15   2  15               Bologna                11   5   2   4  16  14   2  17
 Deportivo              12   3   6   3  15  14   1  15               Cagliari               11   5   1   5  10  15  -5  16
-Racing Santander       12   4   2   6  17  30 -13  14               Napoli                 11   4   3   4  18  14   4  15
-Celta Vigo             12   2   7   3  10  10   0  13               Torino                 11   4   2   5  15  17  -2  14
-Alavés                 12   3   4   5  15  17  -2  13               Atalanta               11   4   2   5  17  20  -3  14
-Espanyol               12   3   3   6  13  14  -1  12               Genoa                  11   4   1   6  11  16  -5  13
+Espanyol               13   4   3   6  14  14   0  15               Napoli                 11   4   3   4  18  14   4  15
+Racing Santander       12   4   2   6  17  30 -13  14               Torino                 11   4   2   5  15  17  -2  14
+Celta Vigo             12   2   7   3  10  10   0  13               Atalanta               11   4   2   5  17  20  -3  14
+Alavés                 12   3   4   5  15  17  -2  13               Genoa                  11   4   1   6  11  16  -5  13
 Rayo Vallecano         11   3   3   5  15  21  -6  12               Lecce                  11   3   1   7  12  22 -10  10
 Getafe                 12   3   3   6   8  18 -10  12               Fiorentina             11   2   3   6  17  25  -8   9
 Osasuna                12   3   3   6  12  23 -11  12               Parma                  11   2   2   7   9  17  -8   8
@@ -92,9 +92,9 @@ Málaga                 12   0   5   7   9  23 -14   5               Udinese    
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
 Friday, November 20                                                 Saturday, November 21
-  Athletic Club          vs    Espanyol                               Como                   vs    Cagliari
+  Athletic Club          0–1   Espanyol                               Como                   vs    Cagliari
 Saturday, November 21                                                 Lazio                  vs    Lecce
-  Alavés                 vs    Deportivo                              Parma                  vs    AS Roma
+  Alavés                 1–0   Deportivo                              Parma                  vs    AS Roma
   Rayo Vallecano         vs    Valencia                               Napoli                 vs    Torino
   Sevilla                vs    Real Betis                           Sunday, November 22
   Real Madrid            vs    Celta Vigo                             Juventus               vs    Venezia
@@ -108,7 +108,7 @@ Monday, November 23                                                   Monza     
 
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
-Bayern Munich           9   6   3   0  29   9  20  21               Paris S-G              10   7   2   1  22  10  12  23
+Bayern Munich          10   6   4   0  30  10  20  22               Paris S-G              10   7   2   1  22  10  12  23
 Borussia Dortmund       9   6   3   0  16   7   9  21               Lille                  10   6   3   1  14   7   7  21
 SC Freiburg             9   6   1   2  20  10  10  19               Paris FC               10   6   2   2  17  10   7  20
 RB Leipzig              9   6   0   3  27  13  14  18               Marseille              10   6   0   4  22  14   8  18
@@ -120,17 +120,17 @@ TSG Hoffenheim          9   4   0   5  16  17  -1  12               Brest       
 E. Frankfurt            9   3   3   3  15  20  -5  12               Lorient                10   4   3   3   9   8   1  15
 Hamburg SV              9   4   0   5  10  20 -10  12               Lens                   10   4   1   5  17  15   2  13
 Mainz                   9   3   1   5  18  19  -1  10               Toulouse               10   3   4   3  15  14   1  13
-SC Paderborn 07         9   2   4   3   8  11  -3  10               Strasbourg             10   3   1   6  18  22  -4  10
+SC Paderborn 07         9   2   4   3   8  11  -3  10               Troyes                 11   3   2   6  10  18  -8  11
+FC Cologne             10   2   4   4  11  15  -4  10               Strasbourg             10   3   1   6  18  22  -4  10
 FC Augsburg             9   2   3   4  20  20   0   9               AJ Auxerre             10   3   1   6  13  24 -11  10
-FC Cologne              9   2   3   4  10  14  -4   9               Le Mans                10   1   5   4  12  19  -7   8
-1. FC Union Berlin      9   1   4   4   7  21 -14   7               Angers                 10   2   2   6   9  19 -10   8
-Schalke 04              9   1   3   5   5  11  -6   6               Troyes                 10   2   2   6   7  17 -10   8
-M'gladbach              9   1   1   7  12  25 -13   4               Le Havre AC            10   0   2   8   9  22 -13   2
+1. FC Union Berlin      9   1   4   4   7  21 -14   7               Le Mans                10   1   5   4  12  19  -7   8
+Schalke 04              9   1   3   5   5  11  -6   6               Angers                 10   2   2   6   9  19 -10   8
+M'gladbach              9   1   1   7  12  25 -13   4               Le Havre AC            11   0   2   9  10  25 -15   2
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
 Friday, November 20                                                 Friday, November 20
-  Bayern Munich          vs    FC Cologne                             Troyes                 vs    Le Havre AC
+  Bayern Munich          1–1   FC Cologne                             Troyes                 3–1   Le Havre AC
 Saturday, November 21                                               Saturday, November 21
   1. FC Union Berlin     vs    RB Leipzig                             Nice                   vs    Paris S-G
   Bayer Leverkusen       vs    SC Paderborn 07                        AS Monaco              vs    AJ Auxerre
@@ -147,28 +147,28 @@ Squad                  MP   W   D   L  GF  GA  GD Pts               Squad       
 Hammarby IF            28  18   4   6  60  23  37  58               Cruz Azul              16  10   2   4  37  26  11  32
 IK Sirius              28  18   4   6  58  35  23  58               América                16   8   6   2  38  23  15  30
 Djurgården             28  16   4   8  56  27  29  52               Guadalajara            16   8   6   2  26  15  11  30
-BK Häcken              28  13  10   5  50  33  17  49               Toluca                 16   7   6   3  35  21  14  27
-IF Elfsborg            28  12  10   6  42  31  11  46               Atlas                  16   8   3   5  27  30  -3  27
-Västerås SK            28  13   6   9  40  38   2  45               Santos                 16   8   1   7  23  20   3  25
-Malmö FF               28  12   5  11  42  36   6  41               Monterrey              16   7   3   6  27  25   2  24
-AIK                    28  11   8   9  46  49  -3  41               León                   16   6   5   5  23  21   2  23
-GAIS                   28  11   7  10  36  28   8  40               Pachuca                16   6   4   6  29  20   9  22
-IFK Göteborg           28  10   9   9  36  46 -10  39               Tijuana                16   5   7   4  25  22   3  22
+BK Häcken              28  13  10   5  50  33  17  49               Atlas                  17   8   4   5  30  33  -3  28
+IF Elfsborg            28  12  10   6  42  31  11  46               Toluca                 16   7   6   3  35  21  14  27
+Västerås SK            28  13   6   9  40  38   2  45               Tijuana                17   6   7   4  26  22   4  25
+Malmö FF               28  12   5  11  42  36   6  41               Santos                 16   8   1   7  23  20   3  25
+AIK                    28  11   8   9  46  49  -3  41               Monterrey              16   7   3   6  27  25   2  24
+GAIS                   28  11   7  10  36  28   8  40               León                   16   6   5   5  23  21   2  23
+IFK Göteborg           28  10   9   9  36  46 -10  39               Pachuca                16   6   4   6  29  20   9  22
 IF Brommapojkarna      28   9   8  11  39  44  -5  35               Pumas UNAM             16   5   6   5  24  26  -2  21
-Mjällby AIF            28   6  10  12  30  43 -13  28               Querétaro              16   6   2   8  18  24  -6  20
-Kalmar FF              28   7   5  16  24  42 -18  26               Puebla                 16   5   4   7  19  23  -4  19
-Degerfors IF           28   5   5  18  23  48 -25  20               Atlético San Luis      16   5   4   7  19  24  -5  19
+Mjällby AIF            28   6  10  12  30  43 -13  28               Puebla                 17   5   5   7  20  24  -4  20
+Kalmar FF              28   7   5  16  24  42 -18  26               Atlético San Luis      17   5   5   7  20  25  -5  20
+Degerfors IF           28   5   5  18  23  48 -25  20               Querétaro              16   6   2   8  18  24  -6  20
 Örgryte IS             28   4   8  16  33  60 -27  20               Tigres UANL            16   3   6   7  17  25  -8  15
-Halmstads BK           28   5   5  18  20  52 -32  20               Atlante                16   3   5   8  16  26 -10  14
+Halmstads BK           28   5   5  18  20  52 -32  20               Atlante                17   3   5   9  16  27 -11  14
                                                                     Necaxa                 16   3   4   9  17  28 -11  13
-                                                                    FC Juárez              16   3   2  11  13  34 -21  11
+                                                                    FC Juárez              17   3   3  11  16  37 -21  12
 
 Allsvenskan Fixtures                                                Liga MX Fixtures
 --------------------                                                ----------------
 Saturday, November 21                                               Saturday, November 21
-  AIK                    vs    Degerfors IF                           Puebla                 vs    Atlético San Luis
-  Mjällby AIF            vs    Malmö FF                               FC Juárez              vs    Atlas
-  GAIS                   vs    Västerås SK                            Tijuana                vs    Atlante
+  AIK                    vs    Degerfors IF                           Puebla                 1–1   Atlético San Luis
+  Mjällby AIF            vs    Malmö FF                               FC Juárez              3–3   Atlas
+  GAIS                   vs    Västerås SK                            Tijuana                1–0   Atlante
 Sunday, November 22                                                   Pachuca                vs    Toluca
   BK Häcken              vs    IF Elfsborg                            Santos                 vs    León
   IK Sirius              vs    Djurgården                           Sunday, November 22
@@ -219,5 +219,17 @@ CZE Slavia Prague           4   0   1   3   5   9  -4   1           NOR Lillestr
 FRA Lille                   4   0   1   3   4  10  -6   1           POL Lech Poznan             4   0   1   3   2  12 -10   1
 SVK Slovan Bratislava       4   0   0   4   1  17 -16   0           ARM Ararat-Armenia          4   0   0   4   4  14 -10   0
 
+Champions League Fixtures                                           
+-------------------------                                           
+Tuesday, November 24                                                
+  Bodo/Glimt             vs    LASK Linz                            
+  Galatasaray            vs    Aston Villa                          
+  Arsenal                vs    Borussia Dortmund                    
+  Como                   vs    AEK Athens                           
+  Feyenoord Rotterdam    vs    FC Porto                             
+  Manchester City        vs    Napoli                               
+  RB Leipzig             vs    Lens                                 
+  Real Madrid            vs    PSV Eindhoven                        
+  Slovan Bratislava      vs    Real Betis                           
 
-Standings from ESPN.com 11.20.26
+Standings from ESPN.com 11.21.26
