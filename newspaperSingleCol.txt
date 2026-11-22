@@ -22,11 +22,13 @@ MLS West Fixtures
 Friday, November 20
   Seattle                1–1   Real Salt Lake
 Saturday, November 21
-  Dallas                 vs    Portland
+  Dallas                 3–0   Portland
 Monday, November 23
   Vancouver Whitecaps    vs    Real Salt Lake
 Tuesday, November 24
   St. Louis              vs    LAFC
+Wednesday, November 25
+  San Jose               vs    Houston
 
 
 MLS East
@@ -53,8 +55,8 @@ MLS East Fixtures
 Friday, November 20
   Orlando City SC        1–3   Cincinnati
 Saturday, November 21
-  New England            vs    Philadelphia
-  Inter Miami            vs    Columbus
+  New England            2–0   Philadelphia
+  Inter Miami            0–3   Columbus
 Sunday, November 22
   Nashville              vs    Cincinnati
   Chicago                vs    Charlotte
@@ -68,27 +70,27 @@ IK Sirius              28  18   4   6  58  23
 Djurgården             28  16   4   8  52  29
 BK Häcken              28  13  10   5  49  17
 IF Elfsborg            28  12  10   6  46  11
-Västerås SK            28  13   6   9  45   2
-Malmö FF               28  12   5  11  41   6
-AIK                    28  11   8   9  41  -3
-GAIS                   28  11   7  10  40   8
+Västerås SK            29  13   6  10  45   0
+GAIS                   29  12   7  10  43  10
+Malmö FF               29  12   6  11  42   6
+AIK                    29  11   9   9  42  -3
 IFK Göteborg           28  10   9   9  39 -10
 IF Brommapojkarna      28   9   8  11  35  -5
-Mjällby AIF            28   6  10  12  28 -13
+Mjällby AIF            29   6  11  12  29 -13
 Kalmar FF              28   7   5  16  26 -18
-Degerfors IF           28   5   5  18  20 -25
+Degerfors IF           29   5   6  18  21 -25
 Örgryte IS             28   4   8  16  20 -27
 Halmstads BK           28   5   5  18  20 -32
 
 Allsvenskan Fixtures
 --------------------
 Saturday, November 21
-  AIK                    vs    Degerfors IF
-  Mjällby AIF            vs    Malmö FF
-  GAIS                   vs    Västerås SK
+  AIK                    0–0   Degerfors IF
+  Mjällby AIF            1–1   Malmö FF
+  GAIS                   3–1   Västerås SK
 Sunday, November 22
-  BK Häcken              vs    IF Elfsborg
-  IK Sirius              vs    Djurgården
+  BK Häcken              0–0   IF Elfsborg
+  IK Sirius              0–0   Djurgården
   IF Brommapojkarna      vs    Halmstads BK
 Monday, November 23
   Hammarby IF            vs    IFK Göteborg
@@ -98,36 +100,36 @@ Monday, November 23
 Bundesliga
 ----------
 Squad                  MP   W   D   L  Pt  GD
+Borussia Dortmund      10   7   3   0  24  10
 Bayern Munich          10   6   4   0  22  20
-Borussia Dortmund       9   6   3   0  21   9
-SC Freiburg             9   6   1   2  19  10
-RB Leipzig              9   6   0   3  18  14
-Bayer Leverkusen        9   5   1   3  16   3
+SC Freiburg            10   7   1   2  22  11
+RB Leipzig             10   7   0   3  21  18
+Bayer Leverkusen       10   6   1   3  19   7
 Werder Bremen           9   4   3   2  15   2
-SV Elversberg           9   4   1   4  13  -1
-VfB Stuttgart           9   4   0   5  12   0
-TSG Hoffenheim          9   4   0   5  12  -1
-E. Frankfurt            9   3   3   3  12  -5
+E. Frankfurt           10   4   3   3  15  -4
+VfB Stuttgart          10   4   1   5  13   0
+SV Elversberg          10   4   1   5  13  -2
+TSG Hoffenheim         10   4   0   6  12  -2
 Hamburg SV              9   4   0   5  12 -10
 Mainz                   9   3   1   5  10  -1
-SC Paderborn 07         9   2   4   3  10  -3
 FC Cologne             10   2   4   4  10  -4
+SC Paderborn 07        10   2   4   4  10  -7
 FC Augsburg             9   2   3   4   9   0
-1. FC Union Berlin      9   1   4   4   7 -14
-Schalke 04              9   1   3   5   6  -6
-M'gladbach              9   1   1   7   4 -13
+Schalke 04             10   1   4   5   7  -6
+1. FC Union Berlin     10   1   4   5   7 -18
+M'gladbach             10   1   1   8   4 -14
 
 Bundesliga Fixtures
 -------------------
 Friday, November 20
   Bayern Munich          1–1   FC Cologne
 Saturday, November 21
-  1. FC Union Berlin     vs    RB Leipzig
-  Bayer Leverkusen       vs    SC Paderborn 07
-  M'gladbach             vs    Borussia Dortmund
-  E. Frankfurt           vs    TSG Hoffenheim
-  SV Elversberg          vs    SC Freiburg
-  Schalke 04             vs    VfB Stuttgart
+  1. FC Union Berlin     1–5   RB Leipzig
+  Bayer Leverkusen       4–0   SC Paderborn 07
+  M'gladbach             0–1   Borussia Dortmund
+  E. Frankfurt           1–0   TSG Hoffenheim
+  SV Elversberg          0–1   SC Freiburg
+  Schalke 04             0–0   VfB Stuttgart
 Sunday, November 22
   FC Augsburg            vs    Mainz
   Werder Bremen          vs    Hamburg SV
@@ -136,37 +138,37 @@ Sunday, November 22
 Premier League
 --------------
 Squad                  MP   W   D   L  Pt  GD
-Arsenal                10   9   0   1  27  10
+Arsenal                11   9   1   1  28  10
 Brighton & Hove Albion 10   7   1   2  22  19
-Manchester City        10   7   0   3  21   8
+Manchester City        11   7   1   3  22   8
+AFC Bournemouth        11   5   3   3  18   4
 Liverpool              10   5   3   2  18   4
-Chelsea                10   5   1   4  16   3
+Leeds United           11   4   5   2  17   5
 Everton                10   4   4   2  16   2
-AFC Bournemouth        10   4   3   3  15   2
+Chelsea                11   5   1   5  16   0
+Tottenham Hotspur      11   4   3   4  15   1
 Brentford              10   3   5   2  14   5
-Leeds United           10   3   5   2  14   2
-Aston Villa            10   3   4   3  13  -3
-Tottenham Hotspur      10   3   3   4  12  -1
-Newcastle United       10   3   3   4  12  -3
+Aston Villa            11   3   5   3  14  -3
+Newcastle United       11   3   4   4  13  -3
+Coventry City          11   4   0   7  12  -8
 Hull City              10   2   5   3  11   0
-Ipswich Town           10   3   2   5  11  -5
-Fulham                 10   2   4   4  10  -2
-Nottingham Forest      10   2   3   5   9  -4
-Coventry City          10   3   0   7   9  -9
+Fulham                 11   2   5   4  11  -2
+Ipswich Town           11   3   2   6  11  -7
+Nottingham Forest      11   2   3   6   9  -6
+Sunderland             11   2   3   6   9  -9
 Manchester United      10   1   5   4   8  -5
-Sunderland             10   2   2   6   8  -9
-Crystal Palace         10   2   1   7   7 -14
+Crystal Palace         11   2   1   8   7 -15
 
 Premier League Fixtures
 -----------------------
 Saturday, November 21
-  Manchester City        0–1   Fulham
-  AFC Bournemouth        vs    Nottingham Forest
-  Aston Villa            vs    Sunderland
-  Chelsea                vs    Leeds United
-  Coventry City          vs    Crystal Palace
-  Tottenham Hotspur      vs    Ipswich Town
-  Newcastle United       vs    Arsenal
+  Manchester City        1–1   Fulham
+  AFC Bournemouth        2–0   Nottingham Forest
+  Aston Villa            0–0   Sunderland
+  Chelsea                1–4   Leeds United
+  Coventry City          3–2   Crystal Palace
+  Tottenham Hotspur      2–0   Ipswich Town
+  Newcastle United       2–2   Arsenal
 Sunday, November 22
   Hull City              vs    Brighton & Hove Albion
   Liverpool              vs    Manchester United
@@ -177,21 +179,21 @@ Monday, November 23
 Ligue 1
 -------
 Squad                  MP   W   D   L  Pt  GD
-Paris S-G              10   7   2   1  23  12
-Lille                  10   6   3   1  21   7
+Paris S-G              11   8   2   1  26  13
+Lille                  11   6   3   2  21   6
 Paris FC               10   6   2   2  20   7
+Lyon                   11   6   2   3  20   7
 Marseille              10   6   0   4  18   8
-Lyon                   10   5   2   3  17   6
-Nice                   10   5   2   3  17   3
-AS Monaco              10   4   4   2  16   2
+Brest                  11   5   3   3  18   7
+Nice                   11   5   2   4  17   2
+AS Monaco              11   4   5   2  17   2
 Stade Rennais          10   5   1   4  16   0
-Brest                  10   4   3   3  15   6
 Lorient                10   4   3   3  15   1
-Lens                   10   4   1   5  13   2
-Toulouse               10   3   4   3  13   1
+Lens                   11   4   2   5  14   2
+Toulouse               11   3   5   3  14   1
 Troyes                 11   3   2   6  11  -8
-Strasbourg             10   3   1   6  10  -4
-AJ Auxerre             10   3   1   6  10 -11
+AJ Auxerre             11   3   2   6  11 -11
+Strasbourg             11   3   1   7  10  -5
 Le Mans                10   1   5   4   8  -7
 Angers                 10   2   2   6   8 -10
 Le Havre AC            11   0   2   9   2 -15
@@ -201,11 +203,11 @@ Ligue 1 Fixtures
 Friday, November 20
   Troyes                 3–1   Le Havre AC
 Saturday, November 21
-  Nice                   vs    Paris S-G
-  AS Monaco              vs    AJ Auxerre
-  Lens                   vs    Toulouse
-  Lille                  vs    Lyon
-  Strasbourg             vs    Brest
+  Nice                   2–3   Paris S-G
+  AS Monaco              1–1   AJ Auxerre
+  Lens                   1–1   Toulouse
+  Lille                  0–1   Lyon
+  Strasbourg             0–1   Brest
 Sunday, November 22
   Paris FC               vs    Angers
   Lorient                vs    Stade Rennais
@@ -215,23 +217,23 @@ Sunday, November 22
 Serie A
 -------
 Squad                  MP   W   D   L  Pt  GD
-Lazio                  11   9   2   0  29  16
+Lazio                  12  10   2   0  32  19
+AS Roma                12   9   3   0  30  25
 Internazionale         11   9   1   1  28  15
-AS Roma                11   8   3   0  27  21
+Como                   12   8   2   2  26  10
 AC Milan               11   7   3   1  24  10
-Como                   11   7   2   2  23   8
 Frosinone              11   6   2   3  20   9
 Juventus               11   5   3   3  18   3
+Napoli                 12   5   3   4  18   5
 Bologna                11   5   2   4  17   2
-Cagliari               11   5   1   5  16  -5
-Napoli                 11   4   3   4  15   4
-Torino                 11   4   2   5  14  -2
+Cagliari               12   5   1   6  16  -7
 Atalanta               11   4   2   5  14  -3
+Torino                 12   4   2   6  14  -3
 Genoa                  11   4   1   6  13  -5
-Lecce                  11   3   1   7  10 -10
+Lecce                  12   3   1   8  10 -13
 Fiorentina             11   2   3   6   9  -8
-Parma                  11   2   2   7   8  -8
 Sassuolo               11   2   2   7   8 -13
+Parma                  12   2   2   8   8 -12
 Monza                  11   2   1   8   7  -8
 Venezia                11   2   0   9   6 -13
 Udinese                11   1   2   8   5 -13
@@ -239,12 +241,12 @@ Udinese                11   1   2   8   5 -13
 Serie A Fixtures
 ----------------
 Saturday, November 21
-  Como                   vs    Cagliari
-  Lazio                  vs    Lecce
-  Parma                  vs    AS Roma
-  Napoli                 vs    Torino
+  Como                   2–0   Cagliari
+  Lazio                  3–0   Lecce
+  Parma                  1–5   AS Roma
+  Napoli                 1–0   Torino
 Sunday, November 22
-  Juventus               vs    Venezia
+  Juventus               4–0   Venezia
   Bologna                vs    Udinese
   Sassuolo               vs    Genoa
   AC Milan               vs    Frosinone
@@ -257,24 +259,24 @@ La Liga
 -------
 Squad                  MP   W   D   L  Pt  GD
 Barcelona              12  11   0   1  33  35
-Real Madrid            12  10   0   2  30  21
+Real Madrid            13  11   0   2  33  22
 Atlético Madrid        12   9   1   2  28  13
-Real Betis             12   8   2   2  26   5
+Real Betis             13   8   3   2  27   5
 Real Sociedad          12   7   1   4  22   1
-Sevilla                12   5   3   4  18  -2
+Sevilla                13   5   4   4  19  -2
 Athletic Club          12   4   4   4  16   3
+Alavés                 13   4   4   5  16   0
 Villarreal             12   4   3   5  15   2
-Deportivo              12   3   6   3  15   1
 Espanyol               13   4   3   6  15   0
+Deportivo              13   3   6   4  15  -1
 Racing Santander       12   4   2   6  14 -13
-Celta Vigo             12   2   7   3  13   0
-Alavés                 12   3   4   5  13  -2
-Rayo Vallecano         11   3   3   5  12  -6
+Celta Vigo             13   2   7   4  13  -1
+Rayo Vallecano         12   3   3   6  12  -7
 Getafe                 12   3   3   6  12 -10
 Osasuna                12   3   3   6  12 -11
+Valencia               13   3   3   7  12 -11
 Levante                12   2   5   5  11  -5
 Elche                  12   2   4   6  10  -6
-Valencia               12   2   3   7   9 -12
 Málaga                 12   0   5   7   5 -14
 
 La Liga Fixtures
@@ -282,12 +284,12 @@ La Liga Fixtures
 Friday, November 20
   Athletic Club          0–1   Espanyol
 Saturday, November 21
-  Alavés                 1–0   Deportivo
-  Rayo Vallecano         vs    Valencia
-  Sevilla                vs    Real Betis
-  Real Madrid            vs    Celta Vigo
+  Alavés                 3–1   Deportivo
+  Rayo Vallecano         0–1   Valencia
+  Sevilla                1–1   Real Betis
+  Real Madrid            2–1   Celta Vigo
 Sunday, November 22
-  Barcelona              vs    Villarreal
+  Barcelona              0–0   Villarreal
   Racing Santander       vs    Real Sociedad
   Osasuna                vs    Málaga
   Getafe                 vs    Atlético Madrid
@@ -298,28 +300,28 @@ Monday, November 23
 Scottish Premiership
 --------------------
 Squad                  MP   W   D   L  Pt  GD
-Celtic                 13  10   1   2  31  18
-Rangers                12   8   3   1  27  12
-Falkirk                13   6   3   4  21   6
-Heart of Midlothian    12   6   2   4  20   4
-Dundee                 12   5   2   5  17   3
-Dundee United          12   4   5   3  17   0
-St Johnstone           13   4   5   4  17  -3
-St Mirren              13   4   2   7  14 -10
-Motherwell             13   3   4   6  13  -6
-Hibernian              12   3   2   7  11  -2
-Aberdeen               12   3   2   7  11  -6
-Kilmarnock             13   2   3   8   9 -16
+Celtic                 14  11   1   2  34  21
+Rangers                13   9   3   1  30  13
+Falkirk                14   7   3   4  24   7
+Heart of Midlothian    13   7   2   4  23  12
+Dundee United          13   5   5   3  20   4
+St Johnstone           14   4   5   5  17  -4
+Dundee                 13   5   2   6  17  -5
+Aberdeen               13   4   2   7  14  -4
+St Mirren              14   4   2   8  14 -13
+Motherwell             14   3   4   7  13  -7
+Hibernian              13   3   2   8  11  -6
+Kilmarnock             14   2   3   9   9 -18
 
 Scottish Premiership Fixtures
 -----------------------------
 Saturday, November 21
-  Celtic                 vs    St Mirren
-  Falkirk                vs    St Johnstone
-  Hibernian              vs    Dundee United
-  Kilmarnock             vs    Aberdeen
-  Dundee                 vs    Heart of Midlothian
-  Motherwell             vs    Rangers
+  Celtic                 4–1   St Mirren
+  Falkirk                2–1   St Johnstone
+  Hibernian              0–4   Dundee United
+  Kilmarnock             2–4   Aberdeen
+  Dundee                 0–8   Heart of Midlothian
+  Motherwell             1–2   Rangers
 Tuesday, November 24
   Hibernian              vs    Dundee
   Rangers                vs    Aberdeen
@@ -329,20 +331,20 @@ Liga MX
 -------
 Squad                  MP   W   D   L  Pt  GD
 Cruz Azul              16  10   2   4  32  11
-América                16   8   6   2  30  15
+América                17   8   6   3  30  14
 Guadalajara            16   8   6   2  30  11
 Atlas                  17   8   4   5  28  -3
-Toluca                 16   7   6   3  27  14
+Toluca                 17   7   6   4  27  12
+Monterrey              17   8   3   6  27   4
+León                   17   7   5   5  26   3
+Pachuca                17   7   4   6  25  11
 Tijuana                17   6   7   4  25   4
-Santos                 16   8   1   7  25   3
-Monterrey              16   7   3   6  24   2
-León                   16   6   5   5  23   2
-Pachuca                16   6   4   6  22   9
-Pumas UNAM             16   5   6   5  21  -2
+Santos                 17   8   1   8  25   2
+Pumas UNAM             17   5   6   6  21  -4
 Puebla                 17   5   5   7  20  -4
 Atlético San Luis      17   5   5   7  20  -5
 Querétaro              16   6   2   8  20  -6
-Tigres UANL            16   3   6   7  15  -8
+Tigres UANL            17   4   6   7  18  -7
 Atlante                17   3   5   9  14 -11
 Necaxa                 16   3   4   9  13 -11
 FC Juárez              17   3   3  11  12 -21
@@ -353,11 +355,11 @@ Saturday, November 21
   Puebla                 1–1   Atlético San Luis
   FC Juárez              3–3   Atlas
   Tijuana                1–0   Atlante
-  Pachuca                vs    Toluca
-  Santos                 vs    León
+  Pachuca                2–0   Toluca
+  Santos                 1–2   León
 Sunday, November 22
-  Pumas UNAM             vs    Monterrey
-  Tigres UANL            vs    América
+  Pumas UNAM             0–2   Monterrey
+  Tigres UANL            1–0   América
   Guadalajara            vs    Cruz Azul
 Monday, November 23
   Querétaro              vs    Necaxa
@@ -415,6 +417,16 @@ Tuesday, November 24
   RB Leipzig             vs    Lens
   Real Madrid            vs    PSV Eindhoven
   Slovan Bratislava      vs    Real Betis
+Wednesday, November 25
+  Sabah FK               vs    Barcelona
+  Slavia Prague          vs    Villarreal
+  Atlético Madrid        vs    Viking FK
+  Club Brugge            vs    Liverpool
+  Internazionale         vs    VfB Stuttgart
+  Lille                  vs    Bayern Munich
+  Paris S-G              vs    AS Roma
+  Shakhtar Donetsk       vs    Fenerbahce
+  Sporting CP            vs    Manchester United
 
 
 Europa League
@@ -458,4 +470,4 @@ POL Lech Poznan             4   0   1   3   1 -10
 ARM Ararat-Armenia          4   0   0   4   0 -10
 
 
-Standings from ESPN.com 11.21.26
+Standings from ESPN.com 11.22.26
