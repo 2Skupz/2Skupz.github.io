@@ -24,7 +24,7 @@ Saturday, November 21
 Monday, November 23
   Vancouver Whitecaps    2–0   Real Salt Lake
 Tuesday, November 24
-  St. Louis              vs    LAFC
+  St. Louis              3–2   LAFC
 Wednesday, November 25
   San Jose               vs    Houston
 
@@ -61,8 +61,8 @@ Sunday, November 22
 Allsvenskan
 -----------
 Squad                  MP   W   D   L  Pt  GD
+Hammarby IF            29  19   4   6  61  39
 IK Sirius              29  19   4   6  61  24
-Hammarby IF            28  18   4   6  58  37
 Djurgården             29  16   4   9  52  28
 BK Häcken              29  14  10   5  52  18
 IF Elfsborg            29  12  10   7  46  10
@@ -70,13 +70,13 @@ Västerås SK            29  13   6  10  45   0
 GAIS                   29  12   7  10  43  10
 Malmö FF               29  12   6  11  42   6
 AIK                    29  11   9   9  42  -3
-IFK Göteborg           28  10   9   9  39 -10
+IFK Göteborg           29  10   9  10  39 -12
 IF Brommapojkarna      29   9   8  12  35  -8
 Mjällby AIF            29   6  11  12  29 -13
-Kalmar FF              28   7   5  16  26 -18
+Kalmar FF              29   7   5  17  26 -19
+Örgryte IS             29   5   8  16  23 -26
 Halmstads BK           29   6   5  18  23 -29
 Degerfors IF           29   5   6  18  21 -25
-Örgryte IS             28   4   8  16  20 -27
 
 Allsvenskan Fixtures
 --------------------
@@ -89,8 +89,8 @@ Sunday, November 22
   IK Sirius              1–0   Djurgården
   IF Brommapojkarna      0–3   Halmstads BK
 Monday, November 23
-  Hammarby IF            vs    IFK Göteborg
-  Örgryte IS             vs    Kalmar FF
+  Hammarby IF            3–1   IFK Göteborg
+  Örgryte IS             3–2   Kalmar FF
 
 
 Bundesliga
@@ -117,8 +117,6 @@ M'gladbach             10   1   1   8   4 -14
 
 Bundesliga Fixtures
 -------------------
-Friday, November 20
-  Bayern Munich          1–1   FC Cologne
 Saturday, November 21
   1. FC Union Berlin     1–5   RB Leipzig
   Bayer Leverkusen       4–0   SC Paderborn 07
@@ -129,6 +127,8 @@ Saturday, November 21
 Sunday, November 22
   FC Augsburg            3–1   Mainz
   Werder Bremen          4–0   Hamburg SV
+Friday, November 27
+  Werder Bremen          vs    M'gladbach
 
 
 Premier League
@@ -139,11 +139,11 @@ Brighton & Hove Albion 11   7   1   3  22  17
 Manchester City        11   7   1   3  22   8
 Liverpool              11   6   3   2  21   8
 AFC Bournemouth        11   5   3   3  18   4
+Brentford              11   4   5   2  17   9
 Leeds United           11   4   5   2  17   5
-Everton                10   4   4   2  16   2
 Chelsea                11   5   1   5  16   0
+Everton                11   4   4   3  16  -2
 Tottenham Hotspur      11   4   3   4  15   1
-Brentford              10   3   5   2  14   5
 Hull City              11   3   5   3  14   2
 Aston Villa            11   3   5   3  14  -3
 Newcastle United       11   3   4   4  13  -3
@@ -169,7 +169,9 @@ Sunday, November 22
   Hull City              2–0   Brighton & Hove Albion
   Liverpool              4–0   Manchester United
 Monday, November 23
-  Brentford              vs    Everton
+  Brentford              4–0   Everton
+Friday, November 27
+  Nottingham Forest      vs    Chelsea
 
 
 Ligue 1
@@ -196,8 +198,6 @@ Le Havre AC            11   0   2   9   2 -15
 
 Ligue 1 Fixtures
 ----------------
-Friday, November 20
-  Troyes                 3–1   Le Havre AC
 Saturday, November 21
   Nice                   2–3   Paris S-G
   AS Monaco              1–1   AJ Auxerre
@@ -208,6 +208,8 @@ Sunday, November 22
   Paris FC               4–0   Angers
   Lorient                1–1   Stade Rennais
   Marseille              2–3   Le Mans
+Friday, November 27
+  Brest                  vs    Paris FC
 
 
 Serie A
@@ -226,11 +228,11 @@ Genoa                  12   5   1   6  16  -3
 Cagliari               12   5   1   6  16  -7
 Atalanta               12   4   3   5  15  -3
 Torino                 12   4   2   6  14  -3
+Monza                  12   3   1   8  10  -5
 Lecce                  12   3   1   8  10 -13
-Fiorentina             11   2   3   6   9  -8
+Fiorentina             12   2   3   7   9 -11
 Parma                  12   2   2   8   8 -12
 Sassuolo               12   2   2   8   8 -15
-Monza                  11   2   1   8   7  -8
 Udinese                12   1   3   8   6 -13
 Venezia                12   2   0  10   6 -17
 
@@ -248,7 +250,9 @@ Sunday, November 22
   AC Milan               5–1   Frosinone
   Atalanta               4–4   Internazionale
 Monday, November 23
-  Monza                  vs    Fiorentina
+  Monza                  3–0   Fiorentina
+Friday, November 27
+  Venezia                vs    Bologna
 
 
 La Liga
@@ -268,17 +272,15 @@ Espanyol               13   4   3   6  15   0
 Deportivo              13   3   6   4  15  -1
 Osasuna                13   4   3   6  15 -10
 Celta Vigo             13   2   7   4  13  -1
+Levante                13   2   6   5  12  -5
 Rayo Vallecano         12   3   3   6  12  -7
 Valencia               13   3   3   7  12 -11
 Getafe                 13   3   3   7  12 -13
-Levante                12   2   5   5  11  -5
-Elche                  12   2   4   6  10  -6
+Elche                  13   2   5   6  11  -6
 Málaga                 13   0   5   8   5 -15
 
 La Liga Fixtures
 ----------------
-Friday, November 20
-  Athletic Club          0–1   Espanyol
 Saturday, November 21
   Alavés                 3–1   Deportivo
   Rayo Vallecano         0–1   Valencia
@@ -290,7 +292,9 @@ Sunday, November 22
   Osasuna                1–0   Málaga
   Getafe                 0–3   Atlético Madrid
 Monday, November 23
-  Levante                vs    Elche
+  Levante                1–1   Elche
+Friday, November 27
+  Levante                vs    Racing Santander
 
 
 Scottish Premiership
@@ -348,9 +352,6 @@ FC Juárez              17   3   3  11  12 -21
 Liga MX Fixtures
 ----------------
 Saturday, November 21
-  Puebla                 1–1   Atlético San Luis
-  FC Juárez              3–3   Atlas
-  Tijuana                1–0   Atlante
   Pachuca                2–0   Toluca
   Santos                 1–2   León
 Sunday, November 22
@@ -359,6 +360,12 @@ Sunday, November 22
   Guadalajara            1–0   Cruz Azul
 Monday, November 23
   Querétaro              2–2   Necaxa
+Thursday, November 26
+  Toluca                 vs    Atlas
+  Monterrey              vs    América
+Friday, November 27
+  Pachuca                vs    Guadalajara
+  León                   vs    Cruz Azul
 
 
 Champions League
@@ -488,4 +495,4 @@ Thursday, November 26
   TSG Hoffenheim         vs    SK Sturm Graz
 
 
-Standings from ESPN.com 11.23.26
+Standings from ESPN.com 11.24.26

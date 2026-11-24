@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-23 06:28",
-  "games_counted": 162,
+  "generated": "2026-11-24 06:28",
+  "games_counted": 163,
   "conferences": {
     "AFC": {
       "teams": [
@@ -25,9 +25,9 @@
           "abbr": "CIN",
           "name": "Cincinnati Bengals",
           "division": "North",
-          "record": "7-2",
-          "pf": 278,
-          "pa": 193
+          "record": "7-3",
+          "pf": 298,
+          "pa": 215
         },
         {
           "abbr": "CLE",
@@ -3133,8 +3133,8 @@
             },
             {
               "step": "Strength of schedule",
-              "team1": "63-39",
-              "team2": "48-54-1",
+              "team1": "63-40",
+              "team2": "48-55-1",
               "applied": true,
               "winner": "MIA",
               "available": true,
@@ -3417,9 +3417,9 @@
           "abbr": "WAS",
           "name": "Washington Commanders",
           "division": "East",
-          "record": "3-5-1",
-          "pf": 196,
-          "pa": 223
+          "record": "4-5-1",
+          "pf": 218,
+          "pa": 243
         }
       ],
       "summary": {

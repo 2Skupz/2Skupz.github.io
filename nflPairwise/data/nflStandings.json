@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-23 06:28",
-  "games_counted": 162,
+  "generated": "2026-11-24 06:28",
+  "games_counted": 163,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -96,16 +96,16 @@
           "division": "North",
           "tb_w": 7,
           "tb_t": 0,
-          "tb_l": 2,
-          "tb_pct": ".778",
+          "tb_l": 3,
+          "tb_pct": ".700",
           "w": 7,
-          "l": 2,
+          "l": 3,
           "t": 0,
-          "pct": ".778",
+          "pct": ".700",
           "div": "2-1",
           "conf": "5-2",
-          "streak": "W5",
-          "diff": "+85",
+          "streak": "L1",
+          "diff": "+83",
           "rank": 1,
           "in_wc": false,
           "gb": "-"
@@ -129,7 +129,7 @@
           "rank": 2,
           "in_wc": true,
           "tie_number": 2,
-          "gb": "1.5"
+          "gb": "1"
         },
         {
           "abbr": "PIT",
@@ -150,7 +150,7 @@
           "rank": 3,
           "in_wc": true,
           "tie_number": 2,
-          "gb": "1.5"
+          "gb": "1"
         },
         {
           "abbr": "BAL",
@@ -170,7 +170,7 @@
           "diff": "-52",
           "rank": 4,
           "in_wc": false,
-          "gb": "4"
+          "gb": "3.5"
         }
       ],
       "East": [
@@ -376,24 +376,6 @@
         "rank": 2
       },
       {
-        "abbr": "CIN",
-        "name": "Cincinnati Bengals",
-        "division": "North",
-        "tb_w": 7,
-        "tb_t": 0,
-        "tb_l": 2,
-        "tb_pct": ".778",
-        "w": 7,
-        "l": 2,
-        "t": 0,
-        "pct": ".778",
-        "div": "2-1",
-        "conf": "5-2",
-        "streak": "W5",
-        "diff": "+85",
-        "rank": 3
-      },
-      {
         "abbr": "JAX",
         "name": "Jacksonville Jaguars",
         "division": "South",
@@ -409,7 +391,27 @@
         "conf": "6-2",
         "streak": "L1",
         "diff": "+120",
-        "rank": 4
+        "rank": 3,
+        "tie_number": 3
+      },
+      {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals",
+        "division": "North",
+        "tb_w": 7,
+        "tb_t": 0,
+        "tb_l": 3,
+        "tb_pct": ".700",
+        "w": 7,
+        "l": 3,
+        "t": 0,
+        "pct": ".700",
+        "div": "2-1",
+        "conf": "5-2",
+        "streak": "L1",
+        "diff": "+83",
+        "rank": 4,
+        "tie_number": 3
       }
     ],
     "wildcard": [
@@ -451,7 +453,7 @@
         "diff": "-32",
         "wc_rank": 2,
         "in_wc": true,
-        "tie_number": 3,
+        "tie_number": 4,
         "wcgb": "2"
       },
       {
@@ -472,7 +474,7 @@
         "diff": "+13",
         "wc_rank": 3,
         "in_wc": true,
-        "tie_number": 3,
+        "tie_number": 4,
         "wcgb": "2"
       },
       {
@@ -533,7 +535,7 @@
         "diff": "-52",
         "wc_rank": 6,
         "in_wc": false,
-        "tie_number": 4,
+        "tie_number": 5,
         "wcgb": "4.5"
       },
       {
@@ -554,7 +556,7 @@
         "diff": "-52",
         "wc_rank": 7,
         "in_wc": false,
-        "tie_number": 4,
+        "tie_number": 5,
         "wcgb": "4.5"
       },
       {
@@ -575,7 +577,7 @@
         "diff": "-57",
         "wc_rank": 8,
         "in_wc": false,
-        "tie_number": 5,
+        "tie_number": 6,
         "wcgb": "5.5"
       },
       {
@@ -596,7 +598,7 @@
         "diff": "-86",
         "wc_rank": 9,
         "in_wc": false,
-        "tie_number": 5,
+        "tie_number": 6,
         "wcgb": "5.5"
       },
       {
@@ -617,7 +619,7 @@
         "diff": "-93",
         "wc_rank": 10,
         "in_wc": false,
-        "tie_number": 6,
+        "tie_number": 7,
         "wcgb": "7"
       },
       {
@@ -638,7 +640,7 @@
         "diff": "-98",
         "wc_rank": 11,
         "in_wc": false,
-        "tie_number": 6,
+        "tie_number": 7,
         "wcgb": "7"
       },
       {
@@ -659,7 +661,7 @@
         "diff": "-93",
         "wc_rank": 12,
         "in_wc": false,
-        "tie_number": 6,
+        "tie_number": 7,
         "wcgb": "7"
       }
     ],
@@ -690,6 +692,18 @@
       },
       {
         "teams": [
+          "JAX",
+          "CIN"
+        ],
+        "record": "7-3",
+        "steps": [
+          "JAX over CIN on head-to-head (1-0)"
+        ],
+        "number": 3,
+        "label": "AFC Division Leaders"
+      },
+      {
+        "teams": [
           "CLE",
           "PIT"
         ],
@@ -697,7 +711,7 @@
         "steps": [
           "Division rule: PIT ranked behind their division mate"
         ],
-        "number": 3,
+        "number": 4,
         "label": "AFC Wild Card"
       },
       {
@@ -709,7 +723,7 @@
         "steps": [
           "LV over BAL on conference record (3-4 vs. 2-5)"
         ],
-        "number": 4,
+        "number": 5,
         "label": "AFC Wild Card"
       },
       {
@@ -721,7 +735,7 @@
         "steps": [
           "NYJ over IND on conference record (3-5 vs. 2-6)"
         ],
-        "number": 5,
+        "number": 6,
         "label": "AFC Wild Card"
       },
       {
@@ -734,7 +748,7 @@
         "steps": [
           "Record against each other: LAC 1-1, MIA 2-0, TEN 0-2"
         ],
-        "number": 6,
+        "number": 7,
         "label": "AFC Wild Card"
       }
     ]
@@ -955,21 +969,21 @@
           "abbr": "WAS",
           "name": "Washington Commanders",
           "division": "East",
-          "tb_w": 3,
+          "tb_w": 4,
           "tb_t": 1,
           "tb_l": 5,
-          "tb_pct": ".389",
-          "w": 3,
+          "tb_pct": ".450",
+          "w": 4,
           "l": 5,
           "t": 1,
-          "pct": ".389",
+          "pct": ".450",
           "div": "2-2-1",
           "conf": "3-4-1",
-          "streak": "W1",
-          "diff": "-27",
+          "streak": "W2",
+          "diff": "-25",
           "rank": 3,
           "in_wc": false,
-          "gb": "2.5"
+          "gb": "2"
         },
         {
           "abbr": "PHI",
@@ -1280,21 +1294,21 @@
         "abbr": "WAS",
         "name": "Washington Commanders",
         "division": "East",
-        "tb_w": 3,
+        "tb_w": 4,
         "tb_t": 1,
         "tb_l": 5,
-        "tb_pct": ".389",
-        "w": 3,
+        "tb_pct": ".450",
+        "w": 4,
         "l": 5,
         "t": 1,
-        "pct": ".389",
+        "pct": ".450",
         "div": "2-2-1",
         "conf": "3-4-1",
-        "streak": "W1",
-        "diff": "-27",
+        "streak": "W2",
+        "diff": "-25",
         "wc_rank": 7,
         "in_wc": false,
-        "wcgb": "4"
+        "wcgb": "3.5"
       },
       {
         "abbr": "TB",
