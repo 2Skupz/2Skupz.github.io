@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-25 06:28",
-  "games_counted": 163,
+  "generated": "2026-11-26 06:28",
+  "games_counted": 164,
   "conferences": {
     "AFC": {
       "teams": [
@@ -773,7 +773,7 @@
             },
             {
               "step": "Strength of victory",
-              "team1": "38-55",
+              "team1": "39-55",
               "team2": "26-58",
               "applied": true,
               "winner": "BUF",
@@ -3345,17 +3345,17 @@
           "abbr": "GB",
           "name": "Green Bay Packers",
           "division": "North",
-          "record": "6-4",
-          "pf": 226,
-          "pa": 221
+          "record": "6-5",
+          "pf": 239,
+          "pa": 247
         },
         {
           "abbr": "LAR",
           "name": "Los Angeles Rams",
           "division": "West",
-          "record": "6-4",
-          "pf": 248,
-          "pa": 187
+          "record": "7-4",
+          "pf": 274,
+          "pa": 200
         },
         {
           "abbr": "MIN",
@@ -3454,8 +3454,8 @@
           "ties": 0
         },
         "GB": {
-          "wins": 10,
-          "losses": 5,
+          "wins": 9,
+          "losses": 6,
           "ties": 0
         },
         "LAR": {
@@ -3474,8 +3474,8 @@
           "ties": 0
         },
         "NYG": {
-          "wins": 5,
-          "losses": 10,
+          "wins": 6,
+          "losses": 9,
           "ties": 0
         },
         "PHI": {
@@ -3646,7 +3646,7 @@
             {
               "step": "Conference record",
               "team1": "2-6",
-              "team2": "4-4",
+              "team2": "4-5",
               "applied": true,
               "winner": "GB",
               "available": true,
@@ -4018,7 +4018,7 @@
             {
               "step": "Conference record",
               "team1": "3-3",
-              "team2": "4-2",
+              "team2": "5-2",
               "applied": true,
               "winner": "LAR",
               "available": true,
@@ -4109,7 +4109,7 @@
             },
             {
               "step": "Strength of victory",
-              "team1": "18-12",
+              "team1": "18-13",
               "team2": "23-39",
               "applied": true,
               "winner": "ATL",
@@ -4350,7 +4350,7 @@
             {
               "step": "Conference record",
               "team1": "4-3",
-              "team2": "4-2",
+              "team2": "5-2",
               "applied": true,
               "winner": "LAR",
               "available": true,
@@ -4654,7 +4654,7 @@
             {
               "step": "Conference record",
               "team1": "6-2",
-              "team2": "4-2",
+              "team2": "5-2",
               "applied": true,
               "winner": "CHI",
               "available": true,
@@ -4914,7 +4914,7 @@
             {
               "step": "Conference record",
               "team1": "2-5",
-              "team2": "4-2",
+              "team2": "5-2",
               "applied": true,
               "winner": "LAR",
               "available": true,
@@ -5146,7 +5146,7 @@
             {
               "step": "Conference record",
               "team1": "5-1",
-              "team2": "4-2",
+              "team2": "5-2",
               "applied": true,
               "winner": "DET",
               "available": true,
@@ -5365,16 +5365,8 @@
           "steps": [
             {
               "step": "Head-to-head",
-              "team1": "\u2014",
-              "team2": "\u2014",
-              "applied": false,
-              "winner": null,
-              "available": true
-            },
-            {
-              "step": "Conference record",
-              "team1": "4-4",
-              "team2": "4-2",
+              "team1": "0-1",
+              "team2": "1-0",
               "applied": true,
               "winner": "LAR",
               "available": true,
@@ -5383,7 +5375,7 @@
           ],
           "winner": "LAR",
           "tie": false,
-          "decided_by": "Conference record"
+          "decided_by": "Head-to-head"
         },
         {
           "team1": "GB",
@@ -5421,7 +5413,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-4",
+              "team1": "4-5",
               "team2": "1-5",
               "applied": true,
               "winner": "GB",
@@ -5449,33 +5441,17 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-4",
+              "team1": "4-5",
               "team2": "3-3-1",
               "applied": true,
-              "winner": null,
-              "available": true
-            },
-            {
-              "step": "Common games (min 4)",
-              "team1": "1-0",
-              "team2": "1-0",
-              "applied": false,
-              "winner": null,
-              "available": true
-            },
-            {
-              "step": "Strength of victory",
-              "team1": "29-33",
-              "team2": "23-39",
-              "applied": true,
-              "winner": "GB",
+              "winner": "NYG",
               "available": true,
               "decisive": true
             }
           ],
-          "winner": "GB",
+          "winner": "NYG",
           "tie": false,
-          "decided_by": "Strength of victory"
+          "decided_by": "Conference record"
         },
         {
           "team1": "GB",
@@ -5493,7 +5469,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-4",
+              "team1": "4-5",
               "team2": "1-6",
               "applied": true,
               "winner": "GB",
@@ -5521,7 +5497,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-4",
+              "team1": "4-5",
               "team2": "2-3",
               "applied": true,
               "winner": "GB",
@@ -5549,7 +5525,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-4",
+              "team1": "4-5",
               "team2": "6-1",
               "applied": true,
               "winner": "SF",
@@ -5597,7 +5573,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-4",
+              "team1": "4-5",
               "team2": "3-4-1",
               "applied": true,
               "winner": "GB",
@@ -5625,8 +5601,24 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-2",
+              "team1": "5-2",
               "team2": "5-2",
+              "applied": true,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Common games (min 4)",
+              "team1": "1-2",
+              "team2": "2-2",
+              "applied": false,
+              "winner": null,
+              "available": true
+            },
+            {
+              "step": "Strength of victory",
+              "team1": "27-44-2",
+              "team2": "30-43",
               "applied": true,
               "winner": "MIN",
               "available": true,
@@ -5635,7 +5627,7 @@
           ],
           "winner": "MIN",
           "tie": false,
-          "decided_by": "Conference record"
+          "decided_by": "Strength of victory"
         },
         {
           "team1": "LAR",
@@ -5653,7 +5645,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-2",
+              "team1": "5-2",
               "team2": "1-5",
               "applied": true,
               "winner": "LAR",
@@ -5769,7 +5761,7 @@
             },
             {
               "step": "Conference record",
-              "team1": "4-2",
+              "team1": "5-2",
               "team2": "3-4",
               "applied": true,
               "winner": "LAR",

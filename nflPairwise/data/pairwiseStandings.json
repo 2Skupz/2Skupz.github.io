@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-25 06:28",
-  "games_counted": 163,
+  "generated": "2026-11-26 06:28",
+  "games_counted": 164,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -537,7 +537,7 @@
             "name": "Buffalo Bills",
             "seed": 1
           },
-          "note": "BUF over KC on strength of victory (38-55 vs. 26-58)"
+          "note": "BUF over KC on strength of victory (39-55 vs. 26-58)"
         },
         {
           "teams": [
@@ -678,10 +678,10 @@
           "abbr": "GB",
           "name": "Green Bay Packers",
           "division": "North",
-          "tb_w": 10,
+          "tb_w": 9,
           "tb_t": 0,
-          "tb_l": 5,
-          "tb_pct": ".667",
+          "tb_l": 6,
+          "tb_pct": ".600",
           "rank": 4,
           "in_wc": false
         }
@@ -696,18 +696,20 @@
           "tb_l": 9,
           "tb_pct": ".400",
           "rank": 1,
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 2
         },
         {
           "abbr": "NYG",
           "name": "New York Giants",
           "division": "East",
-          "tb_w": 5,
+          "tb_w": 6,
           "tb_t": 0,
-          "tb_l": 10,
-          "tb_pct": ".333",
+          "tb_l": 9,
+          "tb_pct": ".400",
           "rank": 2,
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 2
         },
         {
           "abbr": "DAL",
@@ -743,7 +745,7 @@
           "tb_pct": ".600",
           "rank": 1,
           "in_wc": false,
-          "tie_number": 2
+          "tie_number": 3
         },
         {
           "abbr": "ATL",
@@ -755,7 +757,7 @@
           "tb_pct": ".600",
           "rank": 2,
           "in_wc": false,
-          "tie_number": 2
+          "tie_number": 3
         },
         {
           "abbr": "TB",
@@ -855,20 +857,7 @@
         "tb_l": 5,
         "tb_pct": ".667",
         "wc_rank": 3,
-        "in_wc": true,
-        "tie_number": 3
-      },
-      {
-        "abbr": "GB",
-        "name": "Green Bay Packers",
-        "division": "North",
-        "tb_w": 10,
-        "tb_t": 0,
-        "tb_l": 5,
-        "tb_pct": ".667",
-        "wc_rank": 4,
-        "in_wc": false,
-        "tie_number": 3
+        "in_wc": true
       },
       {
         "abbr": "ATL",
@@ -878,8 +867,21 @@
         "tb_t": 0,
         "tb_l": 6,
         "tb_pct": ".600",
+        "wc_rank": 4,
+        "in_wc": false,
+        "tie_number": 4
+      },
+      {
+        "abbr": "GB",
+        "name": "Green Bay Packers",
+        "division": "North",
+        "tb_w": 9,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".600",
         "wc_rank": 5,
-        "in_wc": false
+        "in_wc": false,
+        "tie_number": 4
       },
       {
         "abbr": "TB",
@@ -896,13 +898,12 @@
         "abbr": "NYG",
         "name": "New York Giants",
         "division": "East",
-        "tb_w": 5,
+        "tb_w": 6,
         "tb_t": 0,
-        "tb_l": 10,
-        "tb_pct": ".333",
+        "tb_l": 9,
+        "tb_pct": ".400",
         "wc_rank": 7,
-        "in_wc": false,
-        "tie_number": 4
+        "in_wc": false
       },
       {
         "abbr": "SEA",
@@ -913,8 +914,7 @@
         "tb_l": 10,
         "tb_pct": ".333",
         "wc_rank": 8,
-        "in_wc": false,
-        "tie_number": 4
+        "in_wc": false
       },
       {
         "abbr": "ARI",
@@ -978,6 +978,18 @@
       },
       {
         "teams": [
+          "WAS",
+          "NYG"
+        ],
+        "record": "6-9",
+        "steps": [
+          "WAS over NYG on head-to-head (1-0-1)"
+        ],
+        "number": 2,
+        "label": "NFC East"
+      },
+      {
+        "teams": [
           "CAR",
           "ATL"
         ],
@@ -985,29 +997,17 @@
         "steps": [
           "CAR over ATL on head-to-head (1-0)"
         ],
-        "number": 2,
+        "number": 3,
         "label": "NFC South"
       },
       {
         "teams": [
-          "LAR",
+          "ATL",
           "GB"
         ],
-        "record": "10-5",
+        "record": "9-6",
         "steps": [
-          "LAR over GB on conference record (4-2 vs. 4-4)"
-        ],
-        "number": 3,
-        "label": "NFC Wild Card"
-      },
-      {
-        "teams": [
-          "NYG",
-          "SEA"
-        ],
-        "record": "5-10",
-        "steps": [
-          "NYG over SEA on conference record (3-3-1 vs. 2-3)"
+          "ATL over GB on head-to-head (1-0)"
         ],
         "number": 4,
         "label": "NFC Wild Card"
@@ -1045,7 +1045,7 @@
             "name": "Detroit Lions",
             "seed": 2
           },
-          "note": "DET over LAR on conference record (5-1 vs. 4-2)"
+          "note": "DET over LAR on conference record (5-1 vs. 5-2)"
         },
         {
           "teams": [
