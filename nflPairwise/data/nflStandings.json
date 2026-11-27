@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-26 06:28",
-  "games_counted": 164,
+  "generated": "2026-11-27 06:28",
+  "games_counted": 167,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -24,7 +24,6 @@
           "diff": "+26",
           "rank": 1,
           "in_wc": false,
-          "tie_number": 1,
           "gb": "-"
         },
         {
@@ -33,20 +32,19 @@
           "division": "West",
           "tb_w": 8,
           "tb_t": 0,
-          "tb_l": 2,
-          "tb_pct": ".800",
+          "tb_l": 3,
+          "tb_pct": ".727",
           "w": 8,
-          "l": 2,
+          "l": 3,
           "t": 0,
-          "pct": ".800",
+          "pct": ".727",
           "div": "3-1",
-          "conf": "6-1",
-          "streak": "W3",
-          "diff": "+108",
+          "conf": "6-2",
+          "streak": "L1",
+          "diff": "+105",
           "rank": 2,
           "in_wc": true,
-          "tie_number": 1,
-          "gb": "-"
+          "gb": "0.5"
         },
         {
           "abbr": "LV",
@@ -128,7 +126,7 @@
           "diff": "-32",
           "rank": 2,
           "in_wc": true,
-          "tie_number": 2,
+          "tie_number": 1,
           "gb": "1"
         },
         {
@@ -149,7 +147,7 @@
           "diff": "+13",
           "rank": 3,
           "in_wc": true,
-          "tie_number": 2,
+          "tie_number": 1,
           "gb": "1"
         },
         {
@@ -178,18 +176,18 @@
           "abbr": "BUF",
           "name": "Buffalo Bills",
           "division": "East",
-          "tb_w": 9,
+          "tb_w": 10,
           "tb_t": 0,
           "tb_l": 1,
-          "tb_pct": ".900",
-          "w": 9,
+          "tb_pct": ".909",
+          "w": 10,
           "l": 1,
           "t": 0,
-          "pct": ".900",
+          "pct": ".909",
           "div": "2-1",
-          "conf": "6-1",
-          "streak": "W6",
-          "diff": "+105",
+          "conf": "7-1",
+          "streak": "W7",
+          "diff": "+108",
           "rank": 1,
           "in_wc": false,
           "gb": "-"
@@ -212,7 +210,7 @@
           "diff": "-21",
           "rank": 2,
           "in_wc": false,
-          "gb": "4"
+          "gb": "4.5"
         },
         {
           "abbr": "NYJ",
@@ -232,7 +230,7 @@
           "diff": "-57",
           "rank": 3,
           "in_wc": false,
-          "gb": "6.5"
+          "gb": "7"
         },
         {
           "abbr": "MIA",
@@ -252,7 +250,7 @@
           "diff": "-93",
           "rank": 4,
           "in_wc": false,
-          "gb": "8"
+          "gb": "8.5"
         }
       ],
       "South": [
@@ -343,18 +341,18 @@
         "abbr": "BUF",
         "name": "Buffalo Bills",
         "division": "East",
-        "tb_w": 9,
+        "tb_w": 10,
         "tb_t": 0,
         "tb_l": 1,
-        "tb_pct": ".900",
-        "w": 9,
+        "tb_pct": ".909",
+        "w": 10,
         "l": 1,
         "t": 0,
-        "pct": ".900",
+        "pct": ".909",
         "div": "2-1",
-        "conf": "6-1",
-        "streak": "W6",
-        "diff": "+105",
+        "conf": "7-1",
+        "streak": "W7",
+        "diff": "+108",
         "rank": 1
       },
       {
@@ -392,7 +390,7 @@
         "streak": "L1",
         "diff": "+120",
         "rank": 3,
-        "tie_number": 3
+        "tie_number": 2
       },
       {
         "abbr": "CIN",
@@ -411,7 +409,7 @@
         "streak": "L1",
         "diff": "+83",
         "rank": 4,
-        "tie_number": 3
+        "tie_number": 2
       }
     ],
     "wildcard": [
@@ -421,16 +419,16 @@
         "division": "West",
         "tb_w": 8,
         "tb_t": 0,
-        "tb_l": 2,
-        "tb_pct": ".800",
+        "tb_l": 3,
+        "tb_pct": ".727",
         "w": 8,
-        "l": 2,
+        "l": 3,
         "t": 0,
-        "pct": ".800",
+        "pct": ".727",
         "div": "3-1",
-        "conf": "6-1",
-        "streak": "W3",
-        "diff": "+108",
+        "conf": "6-2",
+        "streak": "L1",
+        "diff": "+105",
         "wc_rank": 1,
         "in_wc": true,
         "wcgb": "-"
@@ -453,8 +451,8 @@
         "diff": "-32",
         "wc_rank": 2,
         "in_wc": true,
-        "tie_number": 4,
-        "wcgb": "2"
+        "tie_number": 3,
+        "wcgb": "1.5"
       },
       {
         "abbr": "PIT",
@@ -474,8 +472,8 @@
         "diff": "+13",
         "wc_rank": 3,
         "in_wc": true,
-        "tie_number": 4,
-        "wcgb": "2"
+        "tie_number": 3,
+        "wcgb": "1.5"
       },
       {
         "abbr": "NE",
@@ -495,7 +493,7 @@
         "diff": "-21",
         "wc_rank": 4,
         "in_wc": false,
-        "wcgb": "3"
+        "wcgb": "2.5"
       },
       {
         "abbr": "HOU",
@@ -515,7 +513,7 @@
         "diff": "+37",
         "wc_rank": 5,
         "in_wc": false,
-        "wcgb": "4"
+        "wcgb": "3.5"
       },
       {
         "abbr": "LV",
@@ -535,8 +533,8 @@
         "diff": "-52",
         "wc_rank": 6,
         "in_wc": false,
-        "tie_number": 5,
-        "wcgb": "4.5"
+        "tie_number": 4,
+        "wcgb": "4"
       },
       {
         "abbr": "BAL",
@@ -556,8 +554,8 @@
         "diff": "-52",
         "wc_rank": 7,
         "in_wc": false,
-        "tie_number": 5,
-        "wcgb": "4.5"
+        "tie_number": 4,
+        "wcgb": "4"
       },
       {
         "abbr": "NYJ",
@@ -577,8 +575,8 @@
         "diff": "-57",
         "wc_rank": 8,
         "in_wc": false,
-        "tie_number": 6,
-        "wcgb": "5.5"
+        "tie_number": 5,
+        "wcgb": "5"
       },
       {
         "abbr": "IND",
@@ -598,8 +596,8 @@
         "diff": "-86",
         "wc_rank": 9,
         "in_wc": false,
-        "tie_number": 6,
-        "wcgb": "5.5"
+        "tie_number": 5,
+        "wcgb": "5"
       },
       {
         "abbr": "MIA",
@@ -619,8 +617,8 @@
         "diff": "-93",
         "wc_rank": 10,
         "in_wc": false,
-        "tie_number": 7,
-        "wcgb": "7"
+        "tie_number": 6,
+        "wcgb": "6.5"
       },
       {
         "abbr": "LAC",
@@ -640,8 +638,8 @@
         "diff": "-98",
         "wc_rank": 11,
         "in_wc": false,
-        "tie_number": 7,
-        "wcgb": "7"
+        "tie_number": 6,
+        "wcgb": "6.5"
       },
       {
         "abbr": "TEN",
@@ -661,23 +659,11 @@
         "diff": "-93",
         "wc_rank": 12,
         "in_wc": false,
-        "tie_number": 7,
-        "wcgb": "7"
+        "tie_number": 6,
+        "wcgb": "6.5"
       }
     ],
     "ties": [
-      {
-        "teams": [
-          "DEN",
-          "KC"
-        ],
-        "record": "8-2",
-        "steps": [
-          "DEN over KC on common games (4-0 vs. 3-1)"
-        ],
-        "number": 1,
-        "label": "AFC West"
-      },
       {
         "teams": [
           "CLE",
@@ -687,7 +673,7 @@
         "steps": [
           "CLE over PIT on division record (2-1 vs. 2-2)"
         ],
-        "number": 2,
+        "number": 1,
         "label": "AFC North"
       },
       {
@@ -699,7 +685,7 @@
         "steps": [
           "JAX over CIN on head-to-head (1-0)"
         ],
-        "number": 3,
+        "number": 2,
         "label": "AFC Division Leaders"
       },
       {
@@ -711,7 +697,7 @@
         "steps": [
           "Division rule: PIT ranked behind their division mate"
         ],
-        "number": 4,
+        "number": 3,
         "label": "AFC Wild Card"
       },
       {
@@ -723,7 +709,7 @@
         "steps": [
           "LV over BAL on conference record (3-4 vs. 2-5)"
         ],
-        "number": 5,
+        "number": 4,
         "label": "AFC Wild Card"
       },
       {
@@ -735,7 +721,7 @@
         "steps": [
           "NYJ over IND on conference record (3-5 vs. 2-6)"
         ],
-        "number": 6,
+        "number": 5,
         "label": "AFC Wild Card"
       },
       {
@@ -748,7 +734,7 @@
         "steps": [
           "Record against each other: LAC 1-1, MIA 2-0, TEN 0-2"
         ],
-        "number": 7,
+        "number": 6,
         "label": "AFC Wild Card"
       }
     ]
@@ -840,46 +826,44 @@
       ],
       "North": [
         {
+          "abbr": "CHI",
+          "name": "Chicago Bears",
+          "division": "North",
+          "tb_w": 9,
+          "tb_t": 0,
+          "tb_l": 2,
+          "tb_pct": ".818",
+          "w": 9,
+          "l": 2,
+          "t": 0,
+          "pct": ".818",
+          "div": "1-2",
+          "conf": "7-2",
+          "streak": "W6",
+          "diff": "+69",
+          "rank": 1,
+          "in_wc": false,
+          "gb": "-"
+        },
+        {
           "abbr": "DET",
           "name": "Detroit Lions",
           "division": "North",
           "tb_w": 8,
           "tb_t": 0,
-          "tb_l": 2,
-          "tb_pct": ".800",
+          "tb_l": 3,
+          "tb_pct": ".727",
           "w": 8,
-          "l": 2,
+          "l": 3,
           "t": 0,
-          "pct": ".800",
-          "div": "2-0",
-          "conf": "5-1",
-          "streak": "W6",
-          "diff": "+68",
-          "rank": 1,
-          "in_wc": false,
-          "tie_number": 1,
-          "gb": "-"
-        },
-        {
-          "abbr": "CHI",
-          "name": "Chicago Bears",
-          "division": "North",
-          "tb_w": 8,
-          "tb_t": 0,
-          "tb_l": 2,
-          "tb_pct": ".800",
-          "w": 8,
-          "l": 2,
-          "t": 0,
-          "pct": ".800",
-          "div": "0-2",
-          "conf": "6-2",
-          "streak": "W5",
-          "diff": "+65",
+          "pct": ".727",
+          "div": "2-1",
+          "conf": "5-2",
+          "streak": "L1",
+          "diff": "+64",
           "rank": 2,
           "in_wc": true,
-          "tie_number": 1,
-          "gb": "-"
+          "gb": "1"
         },
         {
           "abbr": "MIN",
@@ -899,7 +883,7 @@
           "diff": "+25",
           "rank": 3,
           "in_wc": true,
-          "gb": "1"
+          "gb": "1.5"
         },
         {
           "abbr": "GB",
@@ -919,7 +903,7 @@
           "diff": "-8",
           "rank": 4,
           "in_wc": false,
-          "gb": "2.5"
+          "gb": "3"
         }
       ],
       "East": [
@@ -944,26 +928,6 @@
           "gb": "-"
         },
         {
-          "abbr": "DAL",
-          "name": "Dallas Cowboys",
-          "division": "East",
-          "tb_w": 5,
-          "tb_t": 0,
-          "tb_l": 6,
-          "tb_pct": ".455",
-          "w": 5,
-          "l": 6,
-          "t": 0,
-          "pct": ".455",
-          "div": "2-1",
-          "conf": "2-5",
-          "streak": "W1",
-          "diff": "+25",
-          "rank": 2,
-          "in_wc": false,
-          "gb": "2"
-        },
-        {
           "abbr": "WAS",
           "name": "Washington Commanders",
           "division": "East",
@@ -979,29 +943,49 @@
           "conf": "3-4-1",
           "streak": "W2",
           "diff": "-25",
-          "rank": 3,
+          "rank": 2,
           "in_wc": false,
           "gb": "2"
+        },
+        {
+          "abbr": "DAL",
+          "name": "Dallas Cowboys",
+          "division": "East",
+          "tb_w": 5,
+          "tb_t": 0,
+          "tb_l": 7,
+          "tb_pct": ".417",
+          "w": 5,
+          "l": 7,
+          "t": 0,
+          "pct": ".417",
+          "div": "2-2",
+          "conf": "2-6",
+          "streak": "L1",
+          "diff": "+24",
+          "rank": 3,
+          "in_wc": false,
+          "gb": "2.5"
         },
         {
           "abbr": "PHI",
           "name": "Philadelphia Eagles",
           "division": "East",
-          "tb_w": 3,
+          "tb_w": 4,
           "tb_t": 0,
           "tb_l": 7,
-          "tb_pct": ".300",
-          "w": 3,
+          "tb_pct": ".364",
+          "w": 4,
           "l": 7,
           "t": 0,
-          "pct": ".300",
-          "div": "1-3",
-          "conf": "1-6",
-          "streak": "W1",
-          "diff": "-70",
+          "pct": ".364",
+          "div": "2-3",
+          "conf": "2-6",
+          "streak": "W2",
+          "diff": "-69",
           "rank": 4,
           "in_wc": false,
-          "gb": "3.5"
+          "gb": "3"
         }
       ],
       "South": [
@@ -1043,7 +1027,7 @@
           "diff": "+14",
           "rank": 2,
           "in_wc": false,
-          "tie_number": 2,
+          "tie_number": 1,
           "gb": "2"
         },
         {
@@ -1064,7 +1048,7 @@
           "diff": "-57",
           "rank": 3,
           "in_wc": false,
-          "tie_number": 2,
+          "tie_number": 1,
           "gb": "2"
         },
         {
@@ -1085,7 +1069,7 @@
           "diff": "-42",
           "rank": 4,
           "in_wc": false,
-          "tie_number": 2,
+          "tie_number": 1,
           "gb": "2"
         }
       ]
@@ -1110,21 +1094,21 @@
         "rank": 1
       },
       {
-        "abbr": "DET",
-        "name": "Detroit Lions",
+        "abbr": "CHI",
+        "name": "Chicago Bears",
         "division": "North",
-        "tb_w": 8,
+        "tb_w": 9,
         "tb_t": 0,
         "tb_l": 2,
-        "tb_pct": ".800",
-        "w": 8,
+        "tb_pct": ".818",
+        "w": 9,
         "l": 2,
         "t": 0,
-        "pct": ".800",
-        "div": "2-0",
-        "conf": "5-1",
+        "pct": ".818",
+        "div": "1-2",
+        "conf": "7-2",
         "streak": "W6",
-        "diff": "+68",
+        "diff": "+69",
         "rank": 2
       },
       {
@@ -1166,21 +1150,21 @@
     ],
     "wildcard": [
       {
-        "abbr": "CHI",
-        "name": "Chicago Bears",
+        "abbr": "DET",
+        "name": "Detroit Lions",
         "division": "North",
         "tb_w": 8,
         "tb_t": 0,
-        "tb_l": 2,
-        "tb_pct": ".800",
+        "tb_l": 3,
+        "tb_pct": ".727",
         "w": 8,
-        "l": 2,
+        "l": 3,
         "t": 0,
-        "pct": ".800",
-        "div": "0-2",
-        "conf": "6-2",
-        "streak": "W5",
-        "diff": "+65",
+        "pct": ".727",
+        "div": "2-1",
+        "conf": "5-2",
+        "streak": "L1",
+        "diff": "+64",
         "wc_rank": 1,
         "in_wc": true,
         "wcgb": "-"
@@ -1203,7 +1187,7 @@
         "diff": "+25",
         "wc_rank": 2,
         "in_wc": true,
-        "wcgb": "1"
+        "wcgb": "0.5"
       },
       {
         "abbr": "LAR",
@@ -1223,7 +1207,7 @@
         "diff": "+74",
         "wc_rank": 3,
         "in_wc": true,
-        "wcgb": "1.5"
+        "wcgb": "1"
       },
       {
         "abbr": "SEA",
@@ -1243,7 +1227,7 @@
         "diff": "+48",
         "wc_rank": 4,
         "in_wc": false,
-        "wcgb": "2"
+        "wcgb": "1.5"
       },
       {
         "abbr": "GB",
@@ -1263,27 +1247,7 @@
         "diff": "-8",
         "wc_rank": 5,
         "in_wc": false,
-        "wcgb": "2.5"
-      },
-      {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys",
-        "division": "East",
-        "tb_w": 5,
-        "tb_t": 0,
-        "tb_l": 6,
-        "tb_pct": ".455",
-        "w": 5,
-        "l": 6,
-        "t": 0,
-        "pct": ".455",
-        "div": "2-1",
-        "conf": "2-5",
-        "streak": "W1",
-        "diff": "+25",
-        "wc_rank": 6,
-        "in_wc": false,
-        "wcgb": "3.5"
+        "wcgb": "2"
       },
       {
         "abbr": "WAS",
@@ -1301,9 +1265,49 @@
         "conf": "3-4-1",
         "streak": "W2",
         "diff": "-25",
+        "wc_rank": 6,
+        "in_wc": false,
+        "wcgb": "3"
+      },
+      {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys",
+        "division": "East",
+        "tb_w": 5,
+        "tb_t": 0,
+        "tb_l": 7,
+        "tb_pct": ".417",
+        "w": 5,
+        "l": 7,
+        "t": 0,
+        "pct": ".417",
+        "div": "2-2",
+        "conf": "2-6",
+        "streak": "L1",
+        "diff": "+24",
         "wc_rank": 7,
         "in_wc": false,
         "wcgb": "3.5"
+      },
+      {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles",
+        "division": "East",
+        "tb_w": 4,
+        "tb_t": 0,
+        "tb_l": 7,
+        "tb_pct": ".364",
+        "w": 4,
+        "l": 7,
+        "t": 0,
+        "pct": ".364",
+        "div": "2-3",
+        "conf": "2-6",
+        "streak": "W2",
+        "diff": "-69",
+        "wc_rank": 8,
+        "in_wc": false,
+        "wcgb": "4"
       },
       {
         "abbr": "TB",
@@ -1321,31 +1325,10 @@
         "conf": "3-4",
         "streak": "L2",
         "diff": "+14",
-        "wc_rank": 8,
-        "in_wc": false,
-        "tie_number": 3,
-        "wcgb": "5"
-      },
-      {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles",
-        "division": "East",
-        "tb_w": 3,
-        "tb_t": 0,
-        "tb_l": 7,
-        "tb_pct": ".300",
-        "w": 3,
-        "l": 7,
-        "t": 0,
-        "pct": ".300",
-        "div": "1-3",
-        "conf": "1-6",
-        "streak": "W1",
-        "diff": "-70",
         "wc_rank": 9,
         "in_wc": false,
-        "tie_number": 3,
-        "wcgb": "5"
+        "tie_number": 2,
+        "wcgb": "4.5"
       },
       {
         "abbr": "ATL",
@@ -1365,8 +1348,8 @@
         "diff": "-57",
         "wc_rank": 10,
         "in_wc": false,
-        "tie_number": 3,
-        "wcgb": "5"
+        "tie_number": 2,
+        "wcgb": "4.5"
       },
       {
         "abbr": "NO",
@@ -1386,8 +1369,8 @@
         "diff": "-42",
         "wc_rank": 11,
         "in_wc": false,
-        "tie_number": 3,
-        "wcgb": "5"
+        "tie_number": 2,
+        "wcgb": "4.5"
       },
       {
         "abbr": "ARI",
@@ -1407,22 +1390,10 @@
         "diff": "-132",
         "wc_rank": 12,
         "in_wc": false,
-        "wcgb": "5.5"
+        "wcgb": "5"
       }
     ],
     "ties": [
-      {
-        "teams": [
-          "DET",
-          "CHI"
-        ],
-        "record": "8-2",
-        "steps": [
-          "DET over CHI on division record (2-0 vs. 0-2)"
-        ],
-        "number": 1,
-        "label": "NFC North"
-      },
       {
         "teams": [
           "TB",
@@ -1433,23 +1404,21 @@
         "steps": [
           "Record against each other: ATL 1-1, NO 0-2, TB 2-0"
         ],
-        "number": 2,
+        "number": 1,
         "label": "NFC South"
       },
       {
         "teams": [
           "TB",
-          "PHI",
           "ATL",
           "NO"
         ],
         "record": "3-7",
         "steps": [
           "Division rule: ATL/NO ranked behind their division mate",
-          "TB over PHI on conference record (3-4 vs. 1-6)",
           "Division rule: NO ranked behind their division mate"
         ],
-        "number": 3,
+        "number": 2,
         "label": "NFC Wild Card"
       }
     ]
