@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-27 06:28",
-  "games_counted": 167,
+  "generated": "2026-11-28 06:28",
+  "games_counted": 168,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -12,18 +12,19 @@
           "division": "West",
           "tb_w": 8,
           "tb_t": 0,
-          "tb_l": 2,
-          "tb_pct": ".800",
+          "tb_l": 3,
+          "tb_pct": ".727",
           "w": 8,
-          "l": 2,
+          "l": 3,
           "t": 0,
-          "pct": ".800",
+          "pct": ".727",
           "div": "3-1",
-          "conf": "4-1",
-          "streak": "W6",
-          "diff": "+26",
+          "conf": "4-2",
+          "streak": "L1",
+          "diff": "+4",
           "rank": 1,
           "in_wc": false,
+          "tie_number": 1,
           "gb": "-"
         },
         {
@@ -44,7 +45,8 @@
           "diff": "+105",
           "rank": 2,
           "in_wc": true,
-          "gb": "0.5"
+          "tie_number": 1,
+          "gb": "-"
         },
         {
           "abbr": "LV",
@@ -64,7 +66,7 @@
           "diff": "-52",
           "rank": 3,
           "in_wc": false,
-          "gb": "4.5"
+          "gb": "4"
         },
         {
           "abbr": "LAC",
@@ -84,7 +86,7 @@
           "diff": "-98",
           "rank": 4,
           "in_wc": false,
-          "gb": "7"
+          "gb": "6.5"
         }
       ],
       "North": [
@@ -109,6 +111,26 @@
           "gb": "-"
         },
         {
+          "abbr": "PIT",
+          "name": "Pittsburgh Steelers",
+          "division": "North",
+          "tb_w": 7,
+          "tb_t": 0,
+          "tb_l": 4,
+          "tb_pct": ".636",
+          "w": 7,
+          "l": 4,
+          "t": 0,
+          "pct": ".636",
+          "div": "2-2",
+          "conf": "4-3",
+          "streak": "W1",
+          "diff": "+35",
+          "rank": 2,
+          "in_wc": true,
+          "gb": "0.5"
+        },
+        {
           "abbr": "CLE",
           "name": "Cleveland Browns",
           "division": "North",
@@ -124,30 +146,8 @@
           "conf": "4-3",
           "streak": "W1",
           "diff": "-32",
-          "rank": 2,
-          "in_wc": true,
-          "tie_number": 1,
-          "gb": "1"
-        },
-        {
-          "abbr": "PIT",
-          "name": "Pittsburgh Steelers",
-          "division": "North",
-          "tb_w": 6,
-          "tb_t": 0,
-          "tb_l": 4,
-          "tb_pct": ".600",
-          "w": 6,
-          "l": 4,
-          "t": 0,
-          "pct": ".600",
-          "div": "2-2",
-          "conf": "3-3",
-          "streak": "L2",
-          "diff": "+13",
           "rank": 3,
           "in_wc": true,
-          "tie_number": 1,
           "gb": "1"
         },
         {
@@ -361,16 +361,16 @@
         "division": "West",
         "tb_w": 8,
         "tb_t": 0,
-        "tb_l": 2,
-        "tb_pct": ".800",
+        "tb_l": 3,
+        "tb_pct": ".727",
         "w": 8,
-        "l": 2,
+        "l": 3,
         "t": 0,
-        "pct": ".800",
+        "pct": ".727",
         "div": "3-1",
-        "conf": "4-1",
-        "streak": "W6",
-        "diff": "+26",
+        "conf": "4-2",
+        "streak": "L1",
+        "diff": "+4",
         "rank": 2
       },
       {
@@ -434,6 +434,26 @@
         "wcgb": "-"
       },
       {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "division": "North",
+        "tb_w": 7,
+        "tb_t": 0,
+        "tb_l": 4,
+        "tb_pct": ".636",
+        "w": 7,
+        "l": 4,
+        "t": 0,
+        "pct": ".636",
+        "div": "2-2",
+        "conf": "4-3",
+        "streak": "W1",
+        "diff": "+35",
+        "wc_rank": 2,
+        "in_wc": true,
+        "wcgb": "1"
+      },
+      {
         "abbr": "CLE",
         "name": "Cleveland Browns",
         "division": "North",
@@ -449,30 +469,8 @@
         "conf": "4-3",
         "streak": "W1",
         "diff": "-32",
-        "wc_rank": 2,
-        "in_wc": true,
-        "tie_number": 3,
-        "wcgb": "1.5"
-      },
-      {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "division": "North",
-        "tb_w": 6,
-        "tb_t": 0,
-        "tb_l": 4,
-        "tb_pct": ".600",
-        "w": 6,
-        "l": 4,
-        "t": 0,
-        "pct": ".600",
-        "div": "2-2",
-        "conf": "3-3",
-        "streak": "L2",
-        "diff": "+13",
         "wc_rank": 3,
         "in_wc": true,
-        "tie_number": 3,
         "wcgb": "1.5"
       },
       {
@@ -533,7 +531,7 @@
         "diff": "-52",
         "wc_rank": 6,
         "in_wc": false,
-        "tie_number": 4,
+        "tie_number": 3,
         "wcgb": "4"
       },
       {
@@ -554,7 +552,7 @@
         "diff": "-52",
         "wc_rank": 7,
         "in_wc": false,
-        "tie_number": 4,
+        "tie_number": 3,
         "wcgb": "4"
       },
       {
@@ -575,7 +573,7 @@
         "diff": "-57",
         "wc_rank": 8,
         "in_wc": false,
-        "tie_number": 5,
+        "tie_number": 4,
         "wcgb": "5"
       },
       {
@@ -596,7 +594,7 @@
         "diff": "-86",
         "wc_rank": 9,
         "in_wc": false,
-        "tie_number": 5,
+        "tie_number": 4,
         "wcgb": "5"
       },
       {
@@ -617,7 +615,7 @@
         "diff": "-93",
         "wc_rank": 10,
         "in_wc": false,
-        "tie_number": 6,
+        "tie_number": 5,
         "wcgb": "6.5"
       },
       {
@@ -638,7 +636,7 @@
         "diff": "-98",
         "wc_rank": 11,
         "in_wc": false,
-        "tie_number": 6,
+        "tie_number": 5,
         "wcgb": "6.5"
       },
       {
@@ -659,22 +657,22 @@
         "diff": "-93",
         "wc_rank": 12,
         "in_wc": false,
-        "tie_number": 6,
+        "tie_number": 5,
         "wcgb": "6.5"
       }
     ],
     "ties": [
       {
         "teams": [
-          "CLE",
-          "PIT"
+          "DEN",
+          "KC"
         ],
-        "record": "6-4",
+        "record": "8-3",
         "steps": [
-          "CLE over PIT on division record (2-1 vs. 2-2)"
+          "DEN over KC on common games (4-0 vs. 3-1)"
         ],
         "number": 1,
-        "label": "AFC North"
+        "label": "AFC West"
       },
       {
         "teams": [
@@ -690,18 +688,6 @@
       },
       {
         "teams": [
-          "CLE",
-          "PIT"
-        ],
-        "record": "6-4",
-        "steps": [
-          "Division rule: PIT ranked behind their division mate"
-        ],
-        "number": 3,
-        "label": "AFC Wild Card"
-      },
-      {
-        "teams": [
           "LV",
           "BAL"
         ],
@@ -709,7 +695,7 @@
         "steps": [
           "LV over BAL on conference record (3-4 vs. 2-5)"
         ],
-        "number": 4,
+        "number": 3,
         "label": "AFC Wild Card"
       },
       {
@@ -721,7 +707,7 @@
         "steps": [
           "NYJ over IND on conference record (3-5 vs. 2-6)"
         ],
-        "number": 5,
+        "number": 4,
         "label": "AFC Wild Card"
       },
       {
@@ -734,7 +720,7 @@
         "steps": [
           "Record against each other: LAC 1-1, MIA 2-0, TEN 0-2"
         ],
-        "number": 6,
+        "number": 5,
         "label": "AFC Wild Card"
       }
     ]

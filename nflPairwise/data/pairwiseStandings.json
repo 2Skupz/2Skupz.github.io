@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "generated": "2026-11-27 06:28",
-  "games_counted": 167,
+  "generated": "2026-11-28 06:28",
+  "games_counted": 168,
   "AFC": {
     "has_ties": false,
     "divisions": {
@@ -10,12 +10,13 @@
           "abbr": "DEN",
           "name": "Denver Broncos",
           "division": "West",
-          "tb_w": 13,
+          "tb_w": 11,
           "tb_t": 0,
-          "tb_l": 2,
-          "tb_pct": ".867",
+          "tb_l": 4,
+          "tb_pct": ".733",
           "rank": 1,
-          "in_wc": false
+          "in_wc": false,
+          "tie_number": 1
         },
         {
           "abbr": "KC",
@@ -26,7 +27,8 @@
           "tb_l": 4,
           "tb_pct": ".733",
           "rank": 2,
-          "in_wc": true
+          "in_wc": true,
+          "tie_number": 1
         },
         {
           "abbr": "LV",
@@ -56,12 +58,23 @@
           "abbr": "CIN",
           "name": "Cincinnati Bengals",
           "division": "North",
-          "tb_w": 10,
+          "tb_w": 11,
           "tb_t": 0,
-          "tb_l": 5,
-          "tb_pct": ".667",
+          "tb_l": 4,
+          "tb_pct": ".733",
           "rank": 1,
           "in_wc": false
+        },
+        {
+          "abbr": "PIT",
+          "name": "Pittsburgh Steelers",
+          "division": "North",
+          "tb_w": 9,
+          "tb_t": 0,
+          "tb_l": 6,
+          "tb_pct": ".600",
+          "rank": 2,
+          "in_wc": true
         },
         {
           "abbr": "CLE",
@@ -71,21 +84,8 @@
           "tb_t": 0,
           "tb_l": 7,
           "tb_pct": ".533",
-          "rank": 2,
-          "in_wc": true,
-          "tie_number": 1
-        },
-        {
-          "abbr": "PIT",
-          "name": "Pittsburgh Steelers",
-          "division": "North",
-          "tb_w": 8,
-          "tb_t": 0,
-          "tb_l": 7,
-          "tb_pct": ".533",
           "rank": 3,
-          "in_wc": false,
-          "tie_number": 1
+          "in_wc": false
         },
         {
           "abbr": "BAL",
@@ -206,16 +206,6 @@
         "rank": 1
       },
       {
-        "abbr": "DEN",
-        "name": "Denver Broncos",
-        "division": "West",
-        "tb_w": 13,
-        "tb_t": 0,
-        "tb_l": 2,
-        "tb_pct": ".867",
-        "rank": 2
-      },
-      {
         "abbr": "JAX",
         "name": "Jacksonville Jaguars",
         "division": "South",
@@ -223,17 +213,29 @@
         "tb_t": 0,
         "tb_l": 3,
         "tb_pct": ".800",
-        "rank": 3
+        "rank": 2
       },
       {
         "abbr": "CIN",
         "name": "Cincinnati Bengals",
         "division": "North",
-        "tb_w": 10,
+        "tb_w": 11,
         "tb_t": 0,
-        "tb_l": 5,
-        "tb_pct": ".667",
-        "rank": 4
+        "tb_l": 4,
+        "tb_pct": ".733",
+        "rank": 3,
+        "tie_number": 3
+      },
+      {
+        "abbr": "DEN",
+        "name": "Denver Broncos",
+        "division": "West",
+        "tb_w": 11,
+        "tb_t": 0,
+        "tb_l": 4,
+        "tb_pct": ".733",
+        "rank": 4,
+        "tie_number": 3
       }
     ],
     "wildcard": [
@@ -260,6 +262,17 @@
         "in_wc": true
       },
       {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers",
+        "division": "North",
+        "tb_w": 9,
+        "tb_t": 0,
+        "tb_l": 6,
+        "tb_pct": ".600",
+        "wc_rank": 3,
+        "in_wc": true
+      },
+      {
         "abbr": "CLE",
         "name": "Cleveland Browns",
         "division": "North",
@@ -267,9 +280,9 @@
         "tb_t": 0,
         "tb_l": 7,
         "tb_pct": ".533",
-        "wc_rank": 3,
-        "in_wc": true,
-        "tie_number": 3
+        "wc_rank": 4,
+        "in_wc": false,
+        "tie_number": 4
       },
       {
         "abbr": "HOU",
@@ -279,21 +292,9 @@
         "tb_t": 0,
         "tb_l": 7,
         "tb_pct": ".533",
-        "wc_rank": 4,
-        "in_wc": false,
-        "tie_number": 3
-      },
-      {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers",
-        "division": "North",
-        "tb_w": 8,
-        "tb_t": 0,
-        "tb_l": 7,
-        "tb_pct": ".533",
         "wc_rank": 5,
         "in_wc": false,
-        "tie_number": 3
+        "tie_number": 4
       },
       {
         "abbr": "LV",
@@ -327,7 +328,7 @@
         "tb_pct": ".200",
         "wc_rank": 8,
         "in_wc": false,
-        "tie_number": 4
+        "tie_number": 5
       },
       {
         "abbr": "MIA",
@@ -339,7 +340,7 @@
         "tb_pct": ".200",
         "wc_rank": 9,
         "in_wc": false,
-        "tie_number": 4
+        "tie_number": 5
       },
       {
         "abbr": "IND",
@@ -351,7 +352,7 @@
         "tb_pct": ".133",
         "wc_rank": 10,
         "in_wc": false,
-        "tie_number": 5
+        "tie_number": 6
       },
       {
         "abbr": "LAC",
@@ -363,7 +364,7 @@
         "tb_pct": ".133",
         "wc_rank": 11,
         "in_wc": false,
-        "tie_number": 5
+        "tie_number": 6
       },
       {
         "abbr": "TEN",
@@ -380,15 +381,15 @@
     "ties": [
       {
         "teams": [
-          "CLE",
-          "PIT"
+          "DEN",
+          "KC"
         ],
-        "record": "8-7",
+        "record": "11-4",
         "steps": [
-          "CLE over PIT on division record (2-1 vs. 2-2)"
+          "DEN over KC on common games (4-0 vs. 3-1)"
         ],
         "number": 1,
-        "label": "AFC North"
+        "label": "AFC West"
       },
       {
         "teams": [
@@ -404,16 +405,26 @@
       },
       {
         "teams": [
+          "CIN",
+          "DEN"
+        ],
+        "record": "11-4",
+        "steps": [
+          "CIN over DEN on conference record (5-2 vs. 4-2)"
+        ],
+        "number": 3,
+        "label": "AFC Division Leaders"
+      },
+      {
+        "teams": [
           "CLE",
-          "HOU",
-          "PIT"
+          "HOU"
         ],
         "record": "8-7",
         "steps": [
-          "Division rule: PIT ranked behind their division mate",
           "CLE over HOU on head-to-head (1-0)"
         ],
-        "number": 3,
+        "number": 4,
         "label": "AFC Wild Card"
       },
       {
@@ -425,7 +436,7 @@
         "steps": [
           "BAL over MIA on conference record (2-5 vs. 1-6)"
         ],
-        "number": 4,
+        "number": 5,
         "label": "AFC Wild Card"
       },
       {
@@ -437,7 +448,7 @@
         "steps": [
           "IND over LAC on conference record (2-6 vs. 1-6)"
         ],
-        "number": 5,
+        "number": 6,
         "label": "AFC Wild Card"
       }
     ],
@@ -446,28 +457,28 @@
         {
           "teams": [
             {
-              "abbr": "DEN",
-              "name": "Denver Broncos",
+              "abbr": "JAX",
+              "name": "Jacksonville Jaguars",
               "seed": 2
             },
             {
-              "abbr": "CLE",
-              "name": "Cleveland Browns",
+              "abbr": "PIT",
+              "name": "Pittsburgh Steelers",
               "seed": 7
             }
           ],
           "winner": {
-            "abbr": "DEN",
-            "name": "Denver Broncos",
+            "abbr": "JAX",
+            "name": "Jacksonville Jaguars",
             "seed": 2
           },
-          "note": "DEN over CLE on conference record (4-1 vs. 4-3)"
+          "note": "JAX over PIT on conference record (6-2 vs. 4-3)"
         },
         {
           "teams": [
             {
-              "abbr": "JAX",
-              "name": "Jacksonville Jaguars",
+              "abbr": "CIN",
+              "name": "Cincinnati Bengals",
               "seed": 3
             },
             {
@@ -477,17 +488,17 @@
             }
           ],
           "winner": {
-            "abbr": "JAX",
-            "name": "Jacksonville Jaguars",
-            "seed": 3
+            "abbr": "KC",
+            "name": "Kansas City Chiefs",
+            "seed": 6
           },
-          "note": "JAX over KC on strength of victory (30-43 vs. 26-58)"
+          "note": "KC over CIN on conference record (6-2 vs. 5-2)"
         },
         {
           "teams": [
             {
-              "abbr": "CIN",
-              "name": "Cincinnati Bengals",
+              "abbr": "DEN",
+              "name": "Denver Broncos",
               "seed": 4
             },
             {
@@ -501,10 +512,52 @@
             "name": "Buffalo Bills",
             "seed": 5
           },
-          "note": "BUF over CIN on conference record (7-1 vs. 5-2)"
+          "note": "BUF over DEN on conference record (7-1 vs. 4-2)"
         }
       ],
       "divisional": [
+        {
+          "teams": [
+            {
+              "abbr": "NE",
+              "name": "New England Patriots",
+              "seed": 1
+            },
+            {
+              "abbr": "KC",
+              "name": "Kansas City Chiefs",
+              "seed": 6
+            }
+          ],
+          "winner": {
+            "abbr": "NE",
+            "name": "New England Patriots",
+            "seed": 1
+          },
+          "note": "NE over KC on conference record (5-1 vs. 6-2)"
+        },
+        {
+          "teams": [
+            {
+              "abbr": "JAX",
+              "name": "Jacksonville Jaguars",
+              "seed": 2
+            },
+            {
+              "abbr": "BUF",
+              "name": "Buffalo Bills",
+              "seed": 5
+            }
+          ],
+          "winner": {
+            "abbr": "BUF",
+            "name": "Buffalo Bills",
+            "seed": 5
+          },
+          "note": "BUF over JAX on conference record (7-1 vs. 6-2)"
+        }
+      ],
+      "championship": [
         {
           "teams": [
             {
@@ -524,48 +577,6 @@
             "seed": 1
           },
           "note": "NE over BUF on head-to-head (1-0)"
-        },
-        {
-          "teams": [
-            {
-              "abbr": "DEN",
-              "name": "Denver Broncos",
-              "seed": 2
-            },
-            {
-              "abbr": "JAX",
-              "name": "Jacksonville Jaguars",
-              "seed": 3
-            }
-          ],
-          "winner": {
-            "abbr": "DEN",
-            "name": "Denver Broncos",
-            "seed": 2
-          },
-          "note": "DEN over JAX on head-to-head (1-0)"
-        }
-      ],
-      "championship": [
-        {
-          "teams": [
-            {
-              "abbr": "NE",
-              "name": "New England Patriots",
-              "seed": 1
-            },
-            {
-              "abbr": "DEN",
-              "name": "Denver Broncos",
-              "seed": 2
-            }
-          ],
-          "winner": {
-            "abbr": "NE",
-            "name": "New England Patriots",
-            "seed": 1
-          },
-          "note": "NE over DEN on conference record (5-1 vs. 4-1)"
         }
       ],
       "champion": {

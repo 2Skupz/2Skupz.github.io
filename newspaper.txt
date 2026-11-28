@@ -18,13 +18,11 @@ Sporting KC            34   7   5  22  40  81 -41  26               Montreal    
 
 MLS West Fixtures                                                   MLS East Fixtures
 -----------------                                                   -----------------
-Wednesday, November 25                                              Saturday, November 28
-  San Jose               2–1   Houston                                Columbus               vs    Inter Miami
-Saturday, November 28                                                 Charlotte              vs    Chicago
-  Real Salt Lake         vs    Vancouver                              Philadelphia           vs    New England
-  Houston                vs    San Jose                               Cincinnati             vs    Nashville
-Sunday, November 29                                                 
-  LAFC                   vs    St. Louis                            
+Saturday, November 28                                               Saturday, November 28
+  Real Salt Lake         0–1   Vancouver                              Columbus               1–0   Inter Miami
+  Houston                vs    San Jose                               Charlotte              vs    Chicago
+Sunday, November 29                                                   Philadelphia           vs    New England
+  LAFC                   vs    St. Louis                              Cincinnati             vs    Nashville
   Portland               vs    Dallas                               
 
 Premier League                                                      Scottish Premiership
@@ -36,35 +34,37 @@ Liverpool              11   6   3   2  18  10   8  21               Heart of Mid
 AFC Bournemouth        11   5   3   3  18  14   4  18               Dundee United          13   5   5   3  21  17   4  20
 Brentford              11   4   5   2  20  11   9  17               St Johnstone           14   4   5   5  18  22  -4  17
 Leeds United           11   4   5   2  14   9   5  17               Dundee                 14   5   2   7  19  25  -6  17
-Chelsea                11   5   1   5  20  20   0  16               Aberdeen               14   4   2   8  18  23  -5  14
+Chelsea                12   5   1   6  22  23  -1  16               Aberdeen               14   4   2   8  18  23  -5  14
 Everton                11   4   4   3  12  14  -2  16               Hibernian              14   4   2   8  17  22  -5  14
 Tottenham Hotspur      11   4   3   4  12  11   1  15               St Mirren              14   4   2   8  13  26 -13  14
 Hull City              11   3   5   3  13  11   2  14               Motherwell             14   3   4   7  16  23  -7  13
 Aston Villa            11   3   5   3  14  17  -3  14               Kilmarnock             14   2   3   9  15  33 -18   9
 Newcastle United       11   3   4   4  15  18  -3  13               
+Nottingham Forest      12   3   3   6  12  17  -5  12               
 Coventry City          11   4   0   7  13  21  -8  12               
 Fulham                 11   2   5   4  11  13  -2  11               
 Ipswich Town           11   3   2   6  15  22  -7  11               
-Nottingham Forest      11   2   3   6   9  15  -6   9               
 Sunderland             11   2   3   6   8  17  -9   9               
 Manchester United      11   1   5   5  14  23  -9   8               
 Crystal Palace         11   2   1   8  12  27 -15   7               
 
 Premier League Fixtures                                             Scottish Premiership Fixtures
 -----------------------                                             -----------------------------
-Friday, November 27                                                 Tuesday, November 24
-  Nottingham Forest      vs    Chelsea                                Hibernian              2–1   Dundee
-Saturday, November 28                                                 Rangers                3–2   Aberdeen
-  Leeds United           vs    Coventry City                        Saturday, November 28
-  Manchester United      vs    Brentford                              Aberdeen               vs    Dundee
-  Ipswich Town           vs    Aston Villa                            Dundee United          vs    St Johnstone
-Sunday, November 29                                                   Rangers                vs    Falkirk
-  Everton                vs    Liverpool                              St Mirren              vs    Kilmarnock
-  Brighton & Hove Albion vs    Newcastle United                       Motherwell             vs    Hibernian
-  Crystal Palace         vs    Hull City                            Sunday, November 29
-  Fulham                 vs    AFC Bournemouth                        Heart of Midlothian    vs    Celtic
+Friday, November 27                                                 Saturday, November 28
+  Nottingham Forest      3–2   Chelsea                                Aberdeen               vs    Dundee
+Saturday, November 28                                                 Dundee United          vs    St Johnstone
+  Leeds United           vs    Coventry City                          Rangers                vs    Falkirk
+  Manchester United      vs    Brentford                              St Mirren              vs    Kilmarnock
+  Ipswich Town           vs    Aston Villa                            Motherwell             vs    Hibernian
+Sunday, November 29                                                 Sunday, November 29
+  Everton                vs    Liverpool                              Heart of Midlothian    vs    Celtic
+  Brighton & Hove Albion vs    Newcastle United                     
+  Crystal Palace         vs    Hull City                            
+  Fulham                 vs    AFC Bournemouth                      
   Sunderland             vs    Tottenham Hotspur                    
   Arsenal                vs    Manchester City                      
+Tuesday, December 01                                                
+  Coventry City          vs    Ipswich Town                         
 
 La Liga                                                             Serie A
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
@@ -73,26 +73,26 @@ Real Madrid            13  11   0   2  33  11  22  33               AS Roma     
 Atlético Madrid        13  10   1   2  26  10  16  31               Internazionale         12   9   2   1  32  17  15  29
 Real Betis             13   8   3   2  21  16   5  27               AC Milan               12   8   3   1  28  14  14  27
 Real Sociedad          13   7   1   5  23  23   0  22               Como                   12   8   2   2  20  10  10  26
-Sevilla                13   5   4   4  18  20  -2  19               Juventus               12   6   3   3  19  12   7  21
-Racing Santander       13   5   2   6  20  32 -12  17               Frosinone              12   6   2   4  25  20   5  20
-Athletic Club          12   4   4   4  15  12   3  16               Napoli                 12   5   3   4  19  14   5  18
-Alavés                 13   4   4   5  18  18   0  16               Bologna                12   5   3   4  17  15   2  18
+Racing Santander       14   6   2   6  23  33 -10  20               Juventus               12   6   3   3  19  12   7  21
+Sevilla                13   5   4   4  18  20  -2  19               Frosinone              12   6   2   4  25  20   5  20
+Athletic Club          12   4   4   4  15  12   3  16               Bologna                13   5   4   4  17  15   2  19
+Alavés                 13   4   4   5  18  18   0  16               Napoli                 12   5   3   4  19  14   5  18
 Villarreal             13   4   3   6  19  18   1  15               Genoa                  12   5   1   6  13  16  -3  16
 Espanyol               13   4   3   6  14  14   0  15               Cagliari               12   5   1   6  10  17  -7  16
 Deportivo              13   3   6   4  16  17  -1  15               Atalanta               12   4   3   5  21  24  -3  15
 Osasuna                13   4   3   6  13  23 -10  15               Torino                 12   4   2   6  15  18  -3  14
 Celta Vigo             13   2   7   4  11  12  -1  13               Monza                  12   3   1   8  20  25  -5  10
-Levante                13   2   6   5  17  22  -5  12               Lecce                  12   3   1   8  12  25 -13  10
+Levante                14   2   6   6  18  25  -7  12               Lecce                  12   3   1   8  12  25 -13  10
 Rayo Vallecano         12   3   3   6  15  22  -7  12               Fiorentina             12   2   3   7  17  28 -11   9
 Valencia               13   3   3   7   9  20 -11  12               Parma                  12   2   2   8  10  22 -12   8
 Getafe                 13   3   3   7   8  21 -13  12               Sassuolo               12   2   2   8  16  31 -15   8
-Elche                  13   2   5   6  15  21  -6  11               Udinese                12   1   3   8  13  26 -13   6
-Málaga                 13   0   5   8   9  24 -15   5               Venezia                12   2   0  10   8  25 -17   6
+Elche                  13   2   5   6  15  21  -6  11               Venezia                13   2   1  10   8  25 -17   7
+Málaga                 13   0   5   8   9  24 -15   5               Udinese                12   1   3   8  13  26 -13   6
 
 La Liga Fixtures                                                    Serie A Fixtures
 ----------------                                                    ----------------
 Friday, November 27                                                 Friday, November 27
-  Levante                vs    Racing Santander                       Venezia                vs    Bologna
+  Levante                1–3   Racing Santander                       Venezia                0–0   Bologna
 Saturday, November 28                                               Saturday, November 28
   Real Betis             vs    Rayo Vallecano                         Frosinone              vs    Parma
   Málaga                 vs    Athletic Club                          Torino                 vs    Lazio
@@ -109,11 +109,11 @@ Monday, November 30                                                   Lecce     
 Bundesliga                                                          Ligue 1
 Squad                  MP   W   D   L  GF  GA  GD Pts               Squad                  MP   W   D   L  GF  GA  GD Pts
 Borussia Dortmund      10   7   3   0  17   7  10  24               Paris S-G              11   8   2   1  25  12  13  26
-Bayern Munich          10   6   4   0  30  10  20  22               Paris FC               11   7   2   2  21  10  11  23
-SC Freiburg            10   7   1   2  21  10  11  22               Lille                  11   6   3   2  14   8   6  21
-RB Leipzig             10   7   0   3  32  14  18  21               Lyon                   11   6   2   3  16   9   7  20
-Bayer Leverkusen       10   6   1   3  24  17   7  19               Marseille              11   6   0   5  24  17   7  18
-Werder Bremen          10   5   3   2  21  15   6  18               Brest                  11   5   3   3  19  12   7  18
+Bayern Munich          10   6   4   0  30  10  20  22               Paris FC               12   7   2   3  21  11  10  23
+SC Freiburg            10   7   1   2  21  10  11  22               Brest                  12   6   3   3  20  12   8  21
+RB Leipzig             10   7   0   3  32  14  18  21               Lille                  11   6   3   2  14   8   6  21
+Bayer Leverkusen       10   6   1   3  24  17   7  19               Lyon                   11   6   2   3  16   9   7  20
+Werder Bremen          11   5   4   2  24  18   6  19               Marseille              11   6   0   5  24  17   7  18
 E. Frankfurt           10   4   3   3  16  20  -4  15               Nice                   11   5   2   4  17  15   2  17
 VfB Stuttgart          10   4   1   5  15  15   0  13               AS Monaco              11   4   5   2  14  12   2  17
 SV Elversberg          10   4   1   5  17  19  -2  13               Stade Rennais          11   5   2   4  22  22   0  17
@@ -125,12 +125,12 @@ FC Cologne             10   2   4   4  11  15  -4  10               Troyes      
 SC Paderborn 07        10   2   4   4   8  15  -7  10               AJ Auxerre             11   3   2   6  14  25 -11  11
 Schalke 04             10   1   4   5   5  11  -6   7               Strasbourg             11   3   1   7  18  23  -5  10
 1. FC Union Berlin     10   1   4   5   8  26 -18   7               Angers                 11   2   2   7   9  23 -14   8
-M'gladbach             10   1   1   8  12  26 -14   4               Le Havre AC            11   0   2   9  10  25 -15   2
+M'gladbach             11   1   2   8  15  29 -14   5               Le Havre AC            11   0   2   9  10  25 -15   2
 
 Bundesliga Fixtures                                                 Ligue 1 Fixtures
 -------------------                                                 ----------------
 Friday, November 27                                                 Friday, November 27
-  Werder Bremen          vs    M'gladbach                             Brest                  vs    Paris FC
+  Werder Bremen          3–3   M'gladbach                             Brest                  1–0   Paris FC
 Saturday, November 28                                               Saturday, November 28
   FC Cologne             vs    SV Elversberg                          Angers                 vs    Lens
   Hamburg SV             vs    Bayern Munich                          Le Havre AC            vs    Strasbourg
@@ -221,25 +221,24 @@ SVK Slovan Bratislava       5   0   0   5   1  19 -18   0           ARM Ararat-A
 
 Champions League Fixtures                                           Europa League Fixtures
 -------------------------                                           ----------------------
-Tuesday, November 24                                                Thursday, November 26
-  Bodo/Glimt             1–0   LASK Linz                              Besiktas               2–1   Hapoel Be'er
-  Galatasaray            1–0   Aston Villa                            Celta Vigo             1–2   AFC Bournemouth
-  Arsenal                1–1   Borussia Dortmund                      Dinamo Zagreb          0–2   Bayer Leverkusen
-  Como                   1–0   AEK Athens                             Marseille              1–0   Levski Sofia
-  Feyenoord Rotterdam    0–1   FC Porto                               Olympiacos             2–4   AC Milan
-  Manchester City        2–2   Napoli                                 RB Salzburg            2–0   Ararat-Armenia
-  RB Leipzig             3–1   Lens                                   Union St.-Gilloise     2–2   Lech Poznan
-  Real Madrid            5–1   PSV Eindhoven                          Viktoria Plzen         4–0   Benfica
-  Slovan Bratislava      0–2   Real Betis                             Crystal Palace         2–1   Real Sociedad
-Wednesday, November 25                                                Ferencvaros            0–0   NK Celje
-  Sabah FK               1–4   Barcelona                              Juventus               4–1   Omonia Nicosia
-  Slavia Prague          0–1   Villarreal                             Lyon                   0–0   Lillestrom
-  Atlético Madrid        2–0   Viking FK                              NEC Nijmegen           3–1   Stade Rennais
-  Club Brugge            0–3   Liverpool                              OFI Crete              1–3   Anderlecht
-  Internazionale         2–0   VfB Stuttgart                          Sparta Prague          2–4   AZ Alkmaar
-  Lille                  2–1   Bayern Munich                          Sunderland             1–1   Jagiellonia Bialystok
-  Paris S-G              2–2   AS Roma                                Torreense              1–2   Celtic
-  Shakhtar Donetsk       0–1   Fenerbahce                             TSG Hoffenheim         3–1   SK Sturm Graz
-  Sporting CP            2–2   Manchester United                    
+Wednesday, November 25                                              Thursday, November 26
+  Sabah FK               1–4   Barcelona                              Besiktas               2–1   Hapoel Be'er
+  Slavia Prague          0–1   Villarreal                             Celta Vigo             1–2   AFC Bournemouth
+  Atlético Madrid        2–0   Viking FK                              Dinamo Zagreb          0–2   Bayer Leverkusen
+  Club Brugge            0–3   Liverpool                              Marseille              1–0   Levski Sofia
+  Internazionale         2–0   VfB Stuttgart                          Olympiacos             2–4   AC Milan
+  Lille                  2–1   Bayern Munich                          RB Salzburg            2–0   Ararat-Armenia
+  Paris S-G              2–2   AS Roma                                Union St.-Gilloise     2–2   Lech Poznan
+  Shakhtar Donetsk       0–1   Fenerbahce                             Viktoria Plzen         4–0   Benfica
+  Sporting CP            2–2   Manchester United                      Crystal Palace         2–1   Real Sociedad
+                                                                      Ferencvaros            0–0   NK Celje
+                                                                      Juventus               4–1   Omonia Nicosia
+                                                                      Lyon                   0–0   Lillestrom
+                                                                      NEC Nijmegen           3–1   Stade Rennais
+                                                                      OFI Crete              1–3   Anderlecht
+                                                                      Sparta Prague          2–4   AZ Alkmaar
+                                                                      Sunderland             1–1   Jagiellonia Bialystok
+                                                                      Torreense              1–2   Celtic
+                                                                      TSG Hoffenheim         3–1   SK Sturm Graz
 
-Standings from ESPN.com 11.27.26
+Standings from ESPN.com 11.28.26

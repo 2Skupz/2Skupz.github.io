@@ -19,10 +19,8 @@ Sporting KC            34   7   5  22  26 -41
 
 MLS West Fixtures
 -----------------
-Wednesday, November 25
-  San Jose               2–1   Houston
 Saturday, November 28
-  Real Salt Lake         vs    Vancouver Whitecaps
+  Real Salt Lake         0–1   Vancouver Whitecaps
   Houston                vs    San Jose
 Sunday, November 29
   LAFC                   vs    St. Louis
@@ -51,7 +49,7 @@ Montreal               34   6   8  20  26 -32
 MLS East Fixtures
 -----------------
 Saturday, November 28
-  Columbus               vs    Inter Miami
+  Columbus               1–0   Inter Miami
   Charlotte              vs    Chicago
   Philadelphia           vs    New England
   Cincinnati             vs    Nashville
@@ -98,7 +96,7 @@ Bayern Munich          10   6   4   0  22  20
 SC Freiburg            10   7   1   2  22  11
 RB Leipzig             10   7   0   3  21  18
 Bayer Leverkusen       10   6   1   3  19   7
-Werder Bremen          10   5   3   2  18   6
+Werder Bremen          11   5   4   2  19   6
 E. Frankfurt           10   4   3   3  15  -4
 VfB Stuttgart          10   4   1   5  13   0
 SV Elversberg          10   4   1   5  13  -2
@@ -110,12 +108,12 @@ FC Cologne             10   2   4   4  10  -4
 SC Paderborn 07        10   2   4   4  10  -7
 Schalke 04             10   1   4   5   7  -6
 1. FC Union Berlin     10   1   4   5   7 -18
-M'gladbach             10   1   1   8   4 -14
+M'gladbach             11   1   2   8   5 -14
 
 Bundesliga Fixtures
 -------------------
 Friday, November 27
-  Werder Bremen          vs    M'gladbach
+  Werder Bremen          3–3   M'gladbach
 Saturday, November 28
   FC Cologne             vs    SV Elversberg
   Hamburg SV             vs    Bayern Munich
@@ -138,16 +136,16 @@ Liverpool              11   6   3   2  21   8
 AFC Bournemouth        11   5   3   3  18   4
 Brentford              11   4   5   2  17   9
 Leeds United           11   4   5   2  17   5
-Chelsea                11   5   1   5  16   0
+Chelsea                12   5   1   6  16  -1
 Everton                11   4   4   3  16  -2
 Tottenham Hotspur      11   4   3   4  15   1
 Hull City              11   3   5   3  14   2
 Aston Villa            11   3   5   3  14  -3
 Newcastle United       11   3   4   4  13  -3
+Nottingham Forest      12   3   3   6  12  -5
 Coventry City          11   4   0   7  12  -8
 Fulham                 11   2   5   4  11  -2
 Ipswich Town           11   3   2   6  11  -7
-Nottingham Forest      11   2   3   6   9  -6
 Sunderland             11   2   3   6   9  -9
 Manchester United      11   1   5   5   8  -9
 Crystal Palace         11   2   1   8   7 -15
@@ -155,7 +153,7 @@ Crystal Palace         11   2   1   8   7 -15
 Premier League Fixtures
 -----------------------
 Friday, November 27
-  Nottingham Forest      vs    Chelsea
+  Nottingham Forest      3–2   Chelsea
 Saturday, November 28
   Leeds United           vs    Coventry City
   Manchester United      vs    Brentford
@@ -167,17 +165,19 @@ Sunday, November 29
   Fulham                 vs    AFC Bournemouth
   Sunderland             vs    Tottenham Hotspur
   Arsenal                vs    Manchester City
+Tuesday, December 01
+  Coventry City          vs    Ipswich Town
 
 
 Ligue 1
 -------
 Squad                  MP   W   D   L  Pt  GD
 Paris S-G              11   8   2   1  26  13
-Paris FC               11   7   2   2  23  11
+Paris FC               12   7   2   3  23  10
+Brest                  12   6   3   3  21   8
 Lille                  11   6   3   2  21   6
 Lyon                   11   6   2   3  20   7
 Marseille              11   6   0   5  18   7
-Brest                  11   5   3   3  18   7
 Nice                   11   5   2   4  17   2
 AS Monaco              11   4   5   2  17   2
 Stade Rennais          11   5   2   4  17   0
@@ -194,7 +194,7 @@ Le Havre AC            11   0   2   9   2 -15
 Ligue 1 Fixtures
 ----------------
 Friday, November 27
-  Brest                  vs    Paris FC
+  Brest                  1–0   Paris FC
 Saturday, November 28
   Angers                 vs    Lens
   Le Havre AC            vs    Strasbourg
@@ -217,8 +217,8 @@ AC Milan               12   8   3   1  27  14
 Como                   12   8   2   2  26  10
 Juventus               12   6   3   3  21   7
 Frosinone              12   6   2   4  20   5
+Bologna                13   5   4   4  19   2
 Napoli                 12   5   3   4  18   5
-Bologna                12   5   3   4  18   2
 Genoa                  12   5   1   6  16  -3
 Cagliari               12   5   1   6  16  -7
 Atalanta               12   4   3   5  15  -3
@@ -228,13 +228,13 @@ Lecce                  12   3   1   8  10 -13
 Fiorentina             12   2   3   7   9 -11
 Parma                  12   2   2   8   8 -12
 Sassuolo               12   2   2   8   8 -15
+Venezia                13   2   1  10   7 -17
 Udinese                12   1   3   8   6 -13
-Venezia                12   2   0  10   6 -17
 
 Serie A Fixtures
 ----------------
 Friday, November 27
-  Venezia                vs    Bologna
+  Venezia                0–0   Bologna
 Saturday, November 28
   Frosinone              vs    Parma
   Torino                 vs    Lazio
@@ -257,8 +257,8 @@ Real Madrid            13  11   0   2  33  22
 Atlético Madrid        13  10   1   2  31  16
 Real Betis             13   8   3   2  27   5
 Real Sociedad          13   7   1   5  22   0
+Racing Santander       14   6   2   6  20 -10
 Sevilla                13   5   4   4  19  -2
-Racing Santander       13   5   2   6  17 -12
 Athletic Club          12   4   4   4  16   3
 Alavés                 13   4   4   5  16   0
 Villarreal             13   4   3   6  15   1
@@ -266,7 +266,7 @@ Espanyol               13   4   3   6  15   0
 Deportivo              13   3   6   4  15  -1
 Osasuna                13   4   3   6  15 -10
 Celta Vigo             13   2   7   4  13  -1
-Levante                13   2   6   5  12  -5
+Levante                14   2   6   6  12  -7
 Rayo Vallecano         12   3   3   6  12  -7
 Valencia               13   3   3   7  12 -11
 Getafe                 13   3   3   7  12 -13
@@ -276,7 +276,7 @@ Málaga                 13   0   5   8   5 -15
 La Liga Fixtures
 ----------------
 Friday, November 27
-  Levante                vs    Racing Santander
+  Levante                1–3   Racing Santander
 Saturday, November 28
   Real Betis             vs    Rayo Vallecano
   Málaga                 vs    Athletic Club
@@ -309,9 +309,6 @@ Kilmarnock             14   2   3   9   9 -18
 
 Scottish Premiership Fixtures
 -----------------------------
-Tuesday, November 24
-  Hibernian              2–1   Dundee
-  Rangers                3–2   Aberdeen
 Saturday, November 28
   Aberdeen               vs    Dundee
   Dundee United          vs    St Johnstone
@@ -402,16 +399,6 @@ SVK Slovan Bratislava       5   0   0   5   0 -18
 
 Champions League Fixtures
 -------------------------
-Tuesday, November 24
-  Bodo/Glimt             1–0   LASK Linz
-  Galatasaray            1–0   Aston Villa
-  Arsenal                1–1   Borussia Dortmund
-  Como                   1–0   AEK Athens
-  Feyenoord Rotterdam    0–1   FC Porto
-  Manchester City        2–2   Napoli
-  RB Leipzig             3–1   Lens
-  Real Madrid            5–1   PSV Eindhoven
-  Slovan Bratislava      0–2   Real Betis
 Wednesday, November 25
   Sabah FK               1–4   Barcelona
   Slavia Prague          0–1   Villarreal
@@ -487,4 +474,4 @@ Thursday, November 26
   TSG Hoffenheim         3–1   SK Sturm Graz
 
 
-Standings from ESPN.com 11.27.26
+Standings from ESPN.com 11.28.26
